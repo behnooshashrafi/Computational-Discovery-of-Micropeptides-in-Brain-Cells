@@ -122,8 +122,9 @@ def protein(read):
 
 
 def FASTA(seq, header, start_index, length):
+    a = header.split(" ")
     f = open(path+"possible_sORFs.fa", "a")
-    f.write(header + " start_index : " + str(start_index) + ";" + " length : " + str(length))
+    f.write(">"+ a[1].replace(";","") + "st" + a[5].replace(";","") + "smp" + str(start_index) + "lmp" + str(length))
     f.write("\n")
     f.write(seq)
     f.write("\n")
