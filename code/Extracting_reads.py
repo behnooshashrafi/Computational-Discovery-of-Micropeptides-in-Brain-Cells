@@ -1,4 +1,5 @@
-path = "/Users/behnooshashrafi/Documents/Semester_3/Thesis/saga/"
+import Transcripts
+path = "/Users/behnooshashrafi/Documents/Master_Thesis/Thesis_2/saga/Micropeptide/code"
 complement_dict = {
     "A": "T",
     "T": "A",
@@ -131,7 +132,15 @@ def FASTA(seq, header, start_index, length):
     f.close()
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    with open(path+"Only_transcripts.fa", "r") as f:
+    with open(path+"/AC_Ctr1_chr21.gtf", 'r') as f:
+        raw_f = f.read()
+    header = raw_f.split("\n")
+    with open(path+"/chr21.fa.out", 'r') as g:
+        raw_g = g.read()
+    seq = raw_g.split("\n")
+    Transcripts.modified(seq, header)
+    Transcripts.Mipepid()
+    with open(path+"/Only_transcripts.fa", "r") as f:
         raw = f.read()
     tr = raw.splitlines()
     r = {}
