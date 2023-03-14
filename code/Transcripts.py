@@ -2,8 +2,8 @@ import fileinput
 import string
 from json.tool import main
 
-
-def identifier (string):
+# To create modified file: to have transcripts and exons with a more clear headers. Here we have the gtf file (containing the desired header and the fa file with the seq)
+def identifier (line):
     p = line[-1].split(";")
     p[0] = p[0].replace("gene_id ", "")
     p[1] = p[1].replace(" transcript_id ", "")
@@ -49,36 +49,50 @@ def write_header(dictionary, seq):
     f = open("modified.fa", "a")
     f.write(">")
     for key, value in dictionary.items():
-        f.write(key+": "+value+"; ")
+        #f.write(key+": "+value+"; ")
+        f.write(value + ";")
     f.write("\n")
     f.write(seq)
     f.write("\n")
     f.close()
-
-
-with open("AC_Ctr1_chr21.gtf", 'r') as f:
-    raw_f = f.read()
-header = raw_f.split("\n")
-with open("chr21.fa.out", 'r') as g:
-    raw_g = g.read()
-seq = raw_g.split("\n")
-
-flag = False
-for i in range(len(header)-1):
-    line = header[i].split("\t")
-    head = identifier(line)
-    if line[2] == "transcript":
-        if flag == True:
-            write_header(transcript_head, temp)
-            flag = False
-            transcript_head = head
-        else:
-            flag = True
-            temp = ""
-            transcript_head = head
-    elif line[2] == "exon":
-        write_header(head, seq[(2*i)+1])
-        if flag == True:
-            temp += seq[(2*i)+1]
-            if i == (len(header)-2):
+def modified(seq, header):
+    flag = False
+    for i in range(len(header)-1):
+        line = header[i].split("\t")
+        head = identifier(line)
+        if line[2] == "transcript":
+            if flag == True:
                 write_header(transcript_head, temp)
+                flag = False
+                transcript_head = head
+            else:
+                flag = True
+                temp = ""
+                transcript_head = head
+        elif line[2] == "exon":
+            write_header(head, seq[(2*i)+1])
+            if flag == True:
+                temp += seq[(2*i)+1]
+                if i == (len(header)-2):
+                    write_header(transcript_head, temp)
+
+# To create Only_transcripts from the modified file: With clear headers for the Mipepid
+def Mipepid():
+    with open("modified.fa", 'r') as p:
+        raw_p = p.read()
+    new = raw_p.split("\n")
+
+    f = open("Only_transcripts.fa", "a")
+    for i in range(int(len(new) / 2)):
+        if "transcript" in new[2 * i]:
+            temp = new[2 * i].split(";")
+            temp_2 = temp[0] + "/" + temp[2] + "/" + temp[
+                3]  # Mipepid takes only the first part as the name id of peptides.
+            f.write(temp_2)
+            f.write("\n")
+            f.write(new[2 * i + 1])
+            f.write("\n")
+    f.close()
+
+
+
