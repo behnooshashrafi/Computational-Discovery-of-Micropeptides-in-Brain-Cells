@@ -6,7 +6,7 @@ if __name__ == '__main__':
 	with open("TM.fa", "r") as f:
 		raw = f.read()
 	query = raw.split("\n")
-	with open("AA_sorted_uniq.fa", "r") as g:
+	with open("AA_sorted_uniq.fa", "r") as g:# output from SmORFinder, sorted and unique
 		raw_2 = g.read()
 	DB = raw_2.split("\n")
 	h = open("headers.fa", "a")
