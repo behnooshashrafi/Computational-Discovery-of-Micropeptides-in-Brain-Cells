@@ -56,7 +56,7 @@ def write_header(dictionary, seq):
     f.close()
 
 
-with open("AS_P_E1.gtf", 'r') as f:
+with open("AS_P_E1.gtf", 'r') as f: # change the name of the file to the appropriate file
     raw_f = f.read()
 header = raw_f.split("\n")
 with open("AS_P_E1.fa.out", 'r') as g:
