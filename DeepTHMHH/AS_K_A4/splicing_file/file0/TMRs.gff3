@@ -1,0 +1,4365 @@
+##gff-version 3
+# SMCKLA_140882 Length: 50
+# SMCKLA_140882 Number of predicted TMRs: 0
+SMCKLA_140882	inside	1	50				
+//
+# SMCKLA_62056 Length: 46
+# SMCKLA_62056 Number of predicted TMRs: 0
+SMCKLA_62056	signal	1	20				
+SMCKLA_62056	outside	21	46				
+//
+# SMCKLA_51866 Length: 44
+# SMCKLA_51866 Number of predicted TMRs: 0
+SMCKLA_51866	inside	1	44				
+//
+# SMCKLA_58383 Length: 46
+# SMCKLA_58383 Number of predicted TMRs: 0
+SMCKLA_58383	inside	1	46				
+//
+# SMCKLA_21073 Length: 30
+# SMCKLA_21073 Number of predicted TMRs: 0
+SMCKLA_21073	signal	1	28				
+SMCKLA_21073	outside	29	30				
+//
+# SMCKLA_37638 Length: 46
+# SMCKLA_37638 Number of predicted TMRs: 0
+SMCKLA_37638	inside	1	46				
+//
+# SMCKLA_39088 Length: 39
+# SMCKLA_39088 Number of predicted TMRs: 0
+SMCKLA_39088	inside	1	39				
+//
+# SMCKLA_34569 Length: 44
+# SMCKLA_34569 Number of predicted TMRs: 0
+SMCKLA_34569	inside	1	44				
+//
+# SMCKLA_70353 Length: 44
+# SMCKLA_70353 Number of predicted TMRs: 0
+SMCKLA_70353	inside	1	44				
+//
+# SMCKLA_14754 Length: 46
+# SMCKLA_14754 Number of predicted TMRs: 0
+SMCKLA_14754	signal	1	19				
+SMCKLA_14754	outside	20	46				
+//
+# SMCKLA_124221 Length: 47
+# SMCKLA_124221 Number of predicted TMRs: 0
+SMCKLA_124221	inside	1	47				
+//
+# SMCKLA_92057 Length: 35
+# SMCKLA_92057 Number of predicted TMRs: 0
+SMCKLA_92057	inside	1	35				
+//
+# SMCKLA_112258 Length: 39
+# SMCKLA_112258 Number of predicted TMRs: 0
+SMCKLA_112258	signal	1	38				
+SMCKLA_112258	outside	39	39				
+//
+# SMCKLA_19849 Length: 50
+# SMCKLA_19849 Number of predicted TMRs: 0
+SMCKLA_19849	inside	1	50				
+//
+# SMCKLA_53778 Length: 37
+# SMCKLA_53778 Number of predicted TMRs: 0
+SMCKLA_53778	signal	1	24				
+SMCKLA_53778	outside	25	37				
+//
+# SMCKLA_13894 Length: 49
+# SMCKLA_13894 Number of predicted TMRs: 0
+SMCKLA_13894	inside	1	49				
+//
+# SMCKLA_66205 Length: 38
+# SMCKLA_66205 Number of predicted TMRs: 0
+SMCKLA_66205	signal	1	15				
+SMCKLA_66205	outside	16	38				
+//
+# SMCKLA_45617 Length: 46
+# SMCKLA_45617 Number of predicted TMRs: 0
+SMCKLA_45617	signal	1	23				
+SMCKLA_45617	outside	24	46				
+//
+# SMCKLA_98872 Length: 45
+# SMCKLA_98872 Number of predicted TMRs: 0
+SMCKLA_98872	signal	1	33				
+SMCKLA_98872	outside	34	45				
+//
+# SMCKLA_132471 Length: 43
+# SMCKLA_132471 Number of predicted TMRs: 0
+SMCKLA_132471	inside	1	43				
+//
+# SMCKLA_125477 Length: 39
+# SMCKLA_125477 Number of predicted TMRs: 0
+SMCKLA_125477	inside	1	39				
+//
+# SMCKLA_60874 Length: 36
+# SMCKLA_60874 Number of predicted TMRs: 0
+SMCKLA_60874	inside	1	36				
+//
+# SMCKLA_139670 Length: 49
+# SMCKLA_139670 Number of predicted TMRs: 0
+SMCKLA_139670	inside	1	49				
+//
+# SMCKLA_83826 Length: 48
+# SMCKLA_83826 Number of predicted TMRs: 0
+SMCKLA_83826	inside	1	48				
+//
+# SMCKLA_59578 Length: 38
+# SMCKLA_59578 Number of predicted TMRs: 0
+SMCKLA_59578	inside	1	38				
+//
+# SMCKLA_126419 Length: 45
+# SMCKLA_126419 Number of predicted TMRs: 0
+SMCKLA_126419	inside	1	45				
+//
+# SMCKLA_22887 Length: 49
+# SMCKLA_22887 Number of predicted TMRs: 0
+SMCKLA_22887	inside	1	49				
+//
+# SMCKLA_60674 Length: 39
+# SMCKLA_60674 Number of predicted TMRs: 0
+SMCKLA_60674	inside	1	39				
+//
+# SMCKLA_134838 Length: 40
+# SMCKLA_134838 Number of predicted TMRs: 0
+SMCKLA_134838	inside	1	40				
+//
+# SMCKLA_92215 Length: 48
+# SMCKLA_92215 Number of predicted TMRs: 0
+SMCKLA_92215	inside	1	48				
+//
+# SMCKLA_129910 Length: 40
+# SMCKLA_129910 Number of predicted TMRs: 0
+SMCKLA_129910	inside	1	40				
+//
+# SMCKLA_31303 Length: 39
+# SMCKLA_31303 Number of predicted TMRs: 1
+SMCKLA_31303	signal	1	13				
+SMCKLA_31303	outside	14	14				
+SMCKLA_31303	TMhelix	15	34				
+SMCKLA_31303	inside	35	39				
+//
+# SMCKLA_96712 Length: 43
+# SMCKLA_96712 Number of predicted TMRs: 0
+SMCKLA_96712	signal	1	42				
+SMCKLA_96712	outside	43	43				
+//
+# SMCKLA_102025 Length: 42
+# SMCKLA_102025 Number of predicted TMRs: 0
+SMCKLA_102025	signal	1	29				
+SMCKLA_102025	outside	30	42				
+//
+# SMCKLA_52662 Length: 36
+# SMCKLA_52662 Number of predicted TMRs: 0
+SMCKLA_52662	inside	1	36				
+//
+# SMCKLA_27681 Length: 31
+# SMCKLA_27681 Number of predicted TMRs: 0
+SMCKLA_27681	inside	1	31				
+//
+# SMCKLA_92929 Length: 50
+# SMCKLA_92929 Number of predicted TMRs: 0
+SMCKLA_92929	inside	1	50				
+//
+# SMCKLA_31542 Length: 48
+# SMCKLA_31542 Number of predicted TMRs: 0
+SMCKLA_31542	inside	1	48				
+//
+# SMCKLA_77897 Length: 48
+# SMCKLA_77897 Number of predicted TMRs: 0
+SMCKLA_77897	inside	1	48				
+//
+# SMCKLA_75072 Length: 44
+# SMCKLA_75072 Number of predicted TMRs: 0
+SMCKLA_75072	signal	1	18				
+SMCKLA_75072	outside	19	44				
+//
+# SMCKLA_66612 Length: 46
+# SMCKLA_66612 Number of predicted TMRs: 0
+SMCKLA_66612	inside	1	46				
+//
+# SMCKLA_47631 Length: 34
+# SMCKLA_47631 Number of predicted TMRs: 0
+SMCKLA_47631	signal	1	30				
+SMCKLA_47631	outside	31	34				
+//
+# SMCKLA_9045 Length: 34
+# SMCKLA_9045 Number of predicted TMRs: 0
+SMCKLA_9045	signal	1	33				
+SMCKLA_9045	outside	34	34				
+//
+# SMCKLA_88241 Length: 48
+# SMCKLA_88241 Number of predicted TMRs: 0
+SMCKLA_88241	inside	1	48				
+//
+# SMCKLA_5395 Length: 45
+# SMCKLA_5395 Number of predicted TMRs: 0
+SMCKLA_5395	signal	1	10				
+SMCKLA_5395	outside	11	45				
+//
+# SMCKLA_128528 Length: 44
+# SMCKLA_128528 Number of predicted TMRs: 0
+SMCKLA_128528	signal	1	20				
+SMCKLA_128528	outside	21	44				
+//
+# SMCKLA_163748 Length: 40
+# SMCKLA_163748 Number of predicted TMRs: 0
+SMCKLA_163748	inside	1	40				
+//
+# SMCKLA_94165 Length: 40
+# SMCKLA_94165 Number of predicted TMRs: 0
+SMCKLA_94165	inside	1	40				
+//
+# SMCKLA_94183 Length: 31
+# SMCKLA_94183 Number of predicted TMRs: 0
+SMCKLA_94183	inside	1	31				
+//
+# SMCKLA_44027 Length: 50
+# SMCKLA_44027 Number of predicted TMRs: 0
+SMCKLA_44027	inside	1	50				
+//
+# SMCKLA_80874 Length: 40
+# SMCKLA_80874 Number of predicted TMRs: 0
+SMCKLA_80874	inside	1	40				
+//
+# SMCKLA_114366 Length: 49
+# SMCKLA_114366 Number of predicted TMRs: 0
+SMCKLA_114366	inside	1	49				
+//
+# SMCKLA_89355 Length: 44
+# SMCKLA_89355 Number of predicted TMRs: 0
+SMCKLA_89355	inside	1	44				
+//
+# SMCKLA_36661 Length: 46
+# SMCKLA_36661 Number of predicted TMRs: 0
+SMCKLA_36661	inside	1	46				
+//
+# SMCKLA_72888 Length: 49
+# SMCKLA_72888 Number of predicted TMRs: 0
+SMCKLA_72888	inside	1	49				
+//
+# SMCKLA_132016 Length: 50
+# SMCKLA_132016 Number of predicted TMRs: 0
+SMCKLA_132016	inside	1	50				
+//
+# SMCKLA_8097 Length: 36
+# SMCKLA_8097 Number of predicted TMRs: 0
+SMCKLA_8097	inside	1	36				
+//
+# SMCKLA_7251 Length: 49
+# SMCKLA_7251 Number of predicted TMRs: 0
+SMCKLA_7251	inside	1	49				
+//
+# SMCKLA_17156 Length: 34
+# SMCKLA_17156 Number of predicted TMRs: 0
+SMCKLA_17156	inside	1	34				
+//
+# SMCKLA_85750 Length: 50
+# SMCKLA_85750 Number of predicted TMRs: 0
+SMCKLA_85750	inside	1	50				
+//
+# SMCKLA_27866 Length: 50
+# SMCKLA_27866 Number of predicted TMRs: 0
+SMCKLA_27866	signal	1	49				
+SMCKLA_27866	outside	50	50				
+//
+# SMCKLA_139827 Length: 49
+# SMCKLA_139827 Number of predicted TMRs: 0
+SMCKLA_139827	inside	1	49				
+//
+# SMCKLA_63637 Length: 43
+# SMCKLA_63637 Number of predicted TMRs: 0
+SMCKLA_63637	signal	1	18				
+SMCKLA_63637	outside	19	43				
+//
+# SMCKLA_146555 Length: 47
+# SMCKLA_146555 Number of predicted TMRs: 0
+SMCKLA_146555	inside	1	47				
+//
+# SMCKLA_144173 Length: 44
+# SMCKLA_144173 Number of predicted TMRs: 0
+SMCKLA_144173	inside	1	44				
+//
+# SMCKLA_67586 Length: 28
+# SMCKLA_67586 Number of predicted TMRs: 0
+SMCKLA_67586	signal	1	27				
+SMCKLA_67586	outside	28	28				
+//
+# SMCKLA_117899 Length: 46
+# SMCKLA_117899 Number of predicted TMRs: 0
+SMCKLA_117899	signal	1	45				
+SMCKLA_117899	outside	46	46				
+//
+# SMCKLA_7906 Length: 40
+# SMCKLA_7906 Number of predicted TMRs: 0
+SMCKLA_7906	signal	1	14				
+SMCKLA_7906	outside	15	40				
+//
+# SMCKLA_68385 Length: 49
+# SMCKLA_68385 Number of predicted TMRs: 0
+SMCKLA_68385	inside	1	49				
+//
+# SMCKLA_58256 Length: 33
+# SMCKLA_58256 Number of predicted TMRs: 0
+SMCKLA_58256	inside	1	33				
+//
+# SMCKLA_58253 Length: 50
+# SMCKLA_58253 Number of predicted TMRs: 0
+SMCKLA_58253	inside	1	50				
+//
+# SMCKLA_167184 Length: 43
+# SMCKLA_167184 Number of predicted TMRs: 0
+SMCKLA_167184	inside	1	43				
+//
+# SMCKLA_55980 Length: 46
+# SMCKLA_55980 Number of predicted TMRs: 0
+SMCKLA_55980	inside	1	46				
+//
+# SMCKLA_95466 Length: 45
+# SMCKLA_95466 Number of predicted TMRs: 0
+SMCKLA_95466	inside	1	45				
+//
+# SMCKLA_30298 Length: 50
+# SMCKLA_30298 Number of predicted TMRs: 0
+SMCKLA_30298	inside	1	50				
+//
+# SMCKLA_70699 Length: 40
+# SMCKLA_70699 Number of predicted TMRs: 0
+SMCKLA_70699	inside	1	40				
+//
+# SMCKLA_147799 Length: 40
+# SMCKLA_147799 Number of predicted TMRs: 0
+SMCKLA_147799	signal	1	30				
+SMCKLA_147799	outside	31	40				
+//
+# SMCKLA_31122 Length: 48
+# SMCKLA_31122 Number of predicted TMRs: 0
+SMCKLA_31122	inside	1	48				
+//
+# SMCKLA_61925 Length: 42
+# SMCKLA_61925 Number of predicted TMRs: 0
+SMCKLA_61925	inside	1	42				
+//
+# SMCKLA_61950 Length: 42
+# SMCKLA_61950 Number of predicted TMRs: 0
+SMCKLA_61950	inside	1	42				
+//
+# SMCKLA_61929 Length: 42
+# SMCKLA_61929 Number of predicted TMRs: 0
+SMCKLA_61929	inside	1	42				
+//
+# SMCKLA_8382 Length: 33
+# SMCKLA_8382 Number of predicted TMRs: 0
+SMCKLA_8382	inside	1	33				
+//
+# SMCKLA_8369 Length: 39
+# SMCKLA_8369 Number of predicted TMRs: 0
+SMCKLA_8369	signal	1	29				
+SMCKLA_8369	outside	30	39				
+//
+# SMCKLA_8377 Length: 40
+# SMCKLA_8377 Number of predicted TMRs: 0
+SMCKLA_8377	signal	1	29				
+SMCKLA_8377	outside	30	40				
+//
+# SMCKLA_157718 Length: 47
+# SMCKLA_157718 Number of predicted TMRs: 0
+SMCKLA_157718	inside	1	47				
+//
+# SMCKLA_5511 Length: 46
+# SMCKLA_5511 Number of predicted TMRs: 0
+SMCKLA_5511	inside	1	46				
+//
+# SMCKLA_41178 Length: 50
+# SMCKLA_41178 Number of predicted TMRs: 0
+SMCKLA_41178	inside	1	50				
+//
+# SMCKLA_10361 Length: 48
+# SMCKLA_10361 Number of predicted TMRs: 0
+SMCKLA_10361	inside	1	48				
+//
+# SMCKLA_42045 Length: 50
+# SMCKLA_42045 Number of predicted TMRs: 0
+SMCKLA_42045	signal	1	47				
+SMCKLA_42045	outside	48	50				
+//
+# SMCKLA_147430 Length: 29
+# SMCKLA_147430 Number of predicted TMRs: 0
+SMCKLA_147430	inside	1	29				
+//
+# SMCKLA_60873 Length: 44
+# SMCKLA_60873 Number of predicted TMRs: 0
+SMCKLA_60873	inside	1	44				
+//
+# SMCKLA_93692 Length: 47
+# SMCKLA_93692 Number of predicted TMRs: 0
+SMCKLA_93692	outside	1	47				
+//
+# SMCKLA_44278 Length: 42
+# SMCKLA_44278 Number of predicted TMRs: 0
+SMCKLA_44278	inside	1	42				
+//
+# SMCKLA_84061 Length: 48
+# SMCKLA_84061 Number of predicted TMRs: 0
+SMCKLA_84061	inside	1	48				
+//
+# SMCKLA_161564 Length: 49
+# SMCKLA_161564 Number of predicted TMRs: 0
+SMCKLA_161564	inside	1	49				
+//
+# SMCKLA_86224 Length: 47
+# SMCKLA_86224 Number of predicted TMRs: 0
+SMCKLA_86224	inside	1	47				
+//
+# SMCKLA_91451 Length: 50
+# SMCKLA_91451 Number of predicted TMRs: 0
+SMCKLA_91451	inside	1	50				
+//
+# SMCKLA_34217 Length: 46
+# SMCKLA_34217 Number of predicted TMRs: 0
+SMCKLA_34217	inside	1	46				
+//
+# SMCKLA_44645 Length: 39
+# SMCKLA_44645 Number of predicted TMRs: 0
+SMCKLA_44645	inside	1	39				
+//
+# SMCKLA_138953 Length: 42
+# SMCKLA_138953 Number of predicted TMRs: 0
+SMCKLA_138953	inside	1	42				
+//
+# SMCKLA_86758 Length: 47
+# SMCKLA_86758 Number of predicted TMRs: 0
+SMCKLA_86758	inside	1	47				
+//
+# SMCKLA_53625 Length: 48
+# SMCKLA_53625 Number of predicted TMRs: 0
+SMCKLA_53625	signal	1	15				
+SMCKLA_53625	outside	16	48				
+//
+# SMCKLA_88669 Length: 49
+# SMCKLA_88669 Number of predicted TMRs: 0
+SMCKLA_88669	inside	1	49				
+//
+# SMCKLA_123052 Length: 43
+# SMCKLA_123052 Number of predicted TMRs: 0
+SMCKLA_123052	inside	1	43				
+//
+# SMCKLA_42035 Length: 44
+# SMCKLA_42035 Number of predicted TMRs: 0
+SMCKLA_42035	signal	1	43				
+SMCKLA_42035	outside	44	44				
+//
+# SMCKLA_80333 Length: 46
+# SMCKLA_80333 Number of predicted TMRs: 0
+SMCKLA_80333	signal	1	44				
+SMCKLA_80333	outside	45	46				
+//
+# SMCKLA_17598 Length: 50
+# SMCKLA_17598 Number of predicted TMRs: 0
+SMCKLA_17598	inside	1	50				
+//
+# SMCKLA_30864 Length: 45
+# SMCKLA_30864 Number of predicted TMRs: 0
+SMCKLA_30864	inside	1	45				
+//
+# SMCKLA_148729 Length: 49
+# SMCKLA_148729 Number of predicted TMRs: 0
+SMCKLA_148729	inside	1	49				
+//
+# SMCKLA_89856 Length: 45
+# SMCKLA_89856 Number of predicted TMRs: 0
+SMCKLA_89856	inside	1	45				
+//
+# SMCKLA_27006 Length: 39
+# SMCKLA_27006 Number of predicted TMRs: 0
+SMCKLA_27006	signal	1	26				
+SMCKLA_27006	outside	27	39				
+//
+# SMCKLA_127563 Length: 46
+# SMCKLA_127563 Number of predicted TMRs: 0
+SMCKLA_127563	inside	1	46				
+//
+# SMCKLA_22080 Length: 48
+# SMCKLA_22080 Number of predicted TMRs: 0
+SMCKLA_22080	signal	1	43				
+SMCKLA_22080	outside	44	48				
+//
+# SMCKLA_145282 Length: 49
+# SMCKLA_145282 Number of predicted TMRs: 0
+SMCKLA_145282	signal	1	34				
+SMCKLA_145282	outside	35	49				
+//
+# SMCKLA_27015 Length: 39
+# SMCKLA_27015 Number of predicted TMRs: 0
+SMCKLA_27015	inside	1	39				
+//
+# SMCKLA_82406 Length: 48
+# SMCKLA_82406 Number of predicted TMRs: 0
+SMCKLA_82406	signal	1	32				
+SMCKLA_82406	outside	33	48				
+//
+# SMCKLA_77145 Length: 36
+# SMCKLA_77145 Number of predicted TMRs: 0
+SMCKLA_77145	signal	1	32				
+SMCKLA_77145	outside	33	36				
+//
+# SMCKLA_752 Length: 48
+# SMCKLA_752 Number of predicted TMRs: 0
+SMCKLA_752	signal	1	47				
+SMCKLA_752	outside	48	48				
+//
+# SMCKLA_6326 Length: 44
+# SMCKLA_6326 Number of predicted TMRs: 0
+SMCKLA_6326	outside	1	44				
+//
+# SMCKLA_121110 Length: 45
+# SMCKLA_121110 Number of predicted TMRs: 0
+SMCKLA_121110	signal	1	15				
+SMCKLA_121110	outside	16	45				
+//
+# SMCKLA_11786 Length: 44
+# SMCKLA_11786 Number of predicted TMRs: 0
+SMCKLA_11786	inside	1	44				
+//
+# SMCKLA_68278 Length: 50
+# SMCKLA_68278 Number of predicted TMRs: 0
+SMCKLA_68278	inside	1	50				
+//
+# SMCKLA_53277 Length: 42
+# SMCKLA_53277 Number of predicted TMRs: 0
+SMCKLA_53277	signal	1	30				
+SMCKLA_53277	outside	31	42				
+//
+# SMCKLA_60832 Length: 48
+# SMCKLA_60832 Number of predicted TMRs: 0
+SMCKLA_60832	inside	1	48				
+//
+# SMCKLA_25081 Length: 50
+# SMCKLA_25081 Number of predicted TMRs: 0
+SMCKLA_25081	signal	1	26				
+SMCKLA_25081	outside	27	50				
+//
+# SMCKLA_55462 Length: 47
+# SMCKLA_55462 Number of predicted TMRs: 0
+SMCKLA_55462	inside	1	47				
+//
+# SMCKLA_40988 Length: 46
+# SMCKLA_40988 Number of predicted TMRs: 0
+SMCKLA_40988	signal	1	30				
+SMCKLA_40988	outside	31	46				
+//
+# SMCKLA_109870 Length: 48
+# SMCKLA_109870 Number of predicted TMRs: 0
+SMCKLA_109870	inside	1	48				
+//
+# SMCKLA_51306 Length: 46
+# SMCKLA_51306 Number of predicted TMRs: 0
+SMCKLA_51306	inside	1	46				
+//
+# SMCKLA_1057 Length: 48
+# SMCKLA_1057 Number of predicted TMRs: 0
+SMCKLA_1057	signal	1	33				
+SMCKLA_1057	outside	34	48				
+//
+# SMCKLA_86388 Length: 48
+# SMCKLA_86388 Number of predicted TMRs: 0
+SMCKLA_86388	outside	1	48				
+//
+# SMCKLA_154699 Length: 47
+# SMCKLA_154699 Number of predicted TMRs: 0
+SMCKLA_154699	inside	1	47				
+//
+# SMCKLA_46400 Length: 50
+# SMCKLA_46400 Number of predicted TMRs: 0
+SMCKLA_46400	signal	1	47				
+SMCKLA_46400	outside	48	50				
+//
+# SMCKLA_70712 Length: 46
+# SMCKLA_70712 Number of predicted TMRs: 0
+SMCKLA_70712	inside	1	46				
+//
+# SMCKLA_99357 Length: 49
+# SMCKLA_99357 Number of predicted TMRs: 0
+SMCKLA_99357	signal	1	38				
+SMCKLA_99357	outside	39	49				
+//
+# SMCKLA_19236 Length: 47
+# SMCKLA_19236 Number of predicted TMRs: 0
+SMCKLA_19236	inside	1	47				
+//
+# SMCKLA_164724 Length: 47
+# SMCKLA_164724 Number of predicted TMRs: 0
+SMCKLA_164724	inside	1	47				
+//
+# SMCKLA_30336 Length: 42
+# SMCKLA_30336 Number of predicted TMRs: 0
+SMCKLA_30336	signal	1	26				
+SMCKLA_30336	outside	27	42				
+//
+# SMCKLA_76211 Length: 33
+# SMCKLA_76211 Number of predicted TMRs: 0
+SMCKLA_76211	signal	1	32				
+SMCKLA_76211	outside	33	33				
+//
+# SMCKLA_7611 Length: 36
+# SMCKLA_7611 Number of predicted TMRs: 1
+SMCKLA_7611	inside	1	6				
+SMCKLA_7611	TMhelix	7	23				
+SMCKLA_7611	outside	24	36				
+//
+# SMCKLA_2617 Length: 41
+# SMCKLA_2617 Number of predicted TMRs: 0
+SMCKLA_2617	signal	1	21				
+SMCKLA_2617	outside	22	41				
+//
+# SMCKLA_116016 Length: 46
+# SMCKLA_116016 Number of predicted TMRs: 0
+SMCKLA_116016	inside	1	46				
+//
+# SMCKLA_36436 Length: 50
+# SMCKLA_36436 Number of predicted TMRs: 0
+SMCKLA_36436	inside	1	50				
+//
+# SMCKLA_48050 Length: 41
+# SMCKLA_48050 Number of predicted TMRs: 0
+SMCKLA_48050	signal	1	40				
+SMCKLA_48050	outside	41	41				
+//
+# SMCKLA_15763 Length: 45
+# SMCKLA_15763 Number of predicted TMRs: 0
+SMCKLA_15763	inside	1	45				
+//
+# SMCKLA_25300 Length: 42
+# SMCKLA_25300 Number of predicted TMRs: 0
+SMCKLA_25300	signal	1	39				
+SMCKLA_25300	outside	40	42				
+//
+# SMCKLA_115028 Length: 48
+# SMCKLA_115028 Number of predicted TMRs: 0
+SMCKLA_115028	inside	1	48				
+//
+# SMCKLA_29720 Length: 41
+# SMCKLA_29720 Number of predicted TMRs: 0
+SMCKLA_29720	signal	1	24				
+SMCKLA_29720	outside	25	41				
+//
+# SMCKLA_64956 Length: 48
+# SMCKLA_64956 Number of predicted TMRs: 0
+SMCKLA_64956	inside	1	48				
+//
+# SMCKLA_127616 Length: 49
+# SMCKLA_127616 Number of predicted TMRs: 0
+SMCKLA_127616	inside	1	49				
+//
+# SMCKLA_80434 Length: 48
+# SMCKLA_80434 Number of predicted TMRs: 0
+SMCKLA_80434	inside	1	48				
+//
+# SMCKLA_4973 Length: 35
+# SMCKLA_4973 Number of predicted TMRs: 0
+SMCKLA_4973	inside	1	35				
+//
+# SMCKLA_128021 Length: 49
+# SMCKLA_128021 Number of predicted TMRs: 0
+SMCKLA_128021	inside	1	49				
+//
+# SMCKLA_125710 Length: 45
+# SMCKLA_125710 Number of predicted TMRs: 0
+SMCKLA_125710	inside	1	45				
+//
+# SMCKLA_68010 Length: 43
+# SMCKLA_68010 Number of predicted TMRs: 0
+SMCKLA_68010	signal	1	41				
+SMCKLA_68010	outside	42	43				
+//
+# SMCKLA_44948 Length: 50
+# SMCKLA_44948 Number of predicted TMRs: 0
+SMCKLA_44948	inside	1	50				
+//
+# SMCKLA_71764 Length: 29
+# SMCKLA_71764 Number of predicted TMRs: 0
+SMCKLA_71764	inside	1	29				
+//
+# SMCKLA_128870 Length: 46
+# SMCKLA_128870 Number of predicted TMRs: 0
+SMCKLA_128870	inside	1	46				
+//
+# SMCKLA_51213 Length: 43
+# SMCKLA_51213 Number of predicted TMRs: 0
+SMCKLA_51213	inside	1	43				
+//
+# SMCKLA_162801 Length: 44
+# SMCKLA_162801 Number of predicted TMRs: 0
+SMCKLA_162801	inside	1	44				
+//
+# SMCKLA_48349 Length: 48
+# SMCKLA_48349 Number of predicted TMRs: 0
+SMCKLA_48349	inside	1	48				
+//
+# SMCKLA_18808 Length: 44
+# SMCKLA_18808 Number of predicted TMRs: 0
+SMCKLA_18808	inside	1	44				
+//
+# SMCKLA_146600 Length: 40
+# SMCKLA_146600 Number of predicted TMRs: 0
+SMCKLA_146600	inside	1	40				
+//
+# SMCKLA_75758 Length: 42
+# SMCKLA_75758 Number of predicted TMRs: 0
+SMCKLA_75758	inside	1	42				
+//
+# SMCKLA_146045 Length: 45
+# SMCKLA_146045 Number of predicted TMRs: 0
+SMCKLA_146045	signal	1	39				
+SMCKLA_146045	outside	40	45				
+//
+# SMCKLA_36431 Length: 42
+# SMCKLA_36431 Number of predicted TMRs: 0
+SMCKLA_36431	signal	1	28				
+SMCKLA_36431	outside	29	42				
+//
+# SMCKLA_56357 Length: 33
+# SMCKLA_56357 Number of predicted TMRs: 0
+SMCKLA_56357	signal	1	30				
+SMCKLA_56357	outside	31	33				
+//
+# SMCKLA_58505 Length: 41
+# SMCKLA_58505 Number of predicted TMRs: 0
+SMCKLA_58505	signal	1	40				
+SMCKLA_58505	outside	41	41				
+//
+# SMCKLA_57548 Length: 39
+# SMCKLA_57548 Number of predicted TMRs: 0
+SMCKLA_57548	inside	1	39				
+//
+# SMCKLA_117347 Length: 49
+# SMCKLA_117347 Number of predicted TMRs: 0
+SMCKLA_117347	signal	1	26				
+SMCKLA_117347	outside	27	49				
+//
+# SMCKLA_44612 Length: 49
+# SMCKLA_44612 Number of predicted TMRs: 0
+SMCKLA_44612	inside	1	49				
+//
+# SMCKLA_74812 Length: 44
+# SMCKLA_74812 Number of predicted TMRs: 0
+SMCKLA_74812	signal	1	34				
+SMCKLA_74812	outside	35	44				
+//
+# SMCKLA_109049 Length: 47
+# SMCKLA_109049 Number of predicted TMRs: 0
+SMCKLA_109049	inside	1	47				
+//
+# SMCKLA_119702 Length: 42
+# SMCKLA_119702 Number of predicted TMRs: 0
+SMCKLA_119702	signal	1	18				
+SMCKLA_119702	outside	19	42				
+//
+# SMCKLA_139908 Length: 48
+# SMCKLA_139908 Number of predicted TMRs: 0
+SMCKLA_139908	signal	1	10				
+SMCKLA_139908	outside	11	48				
+//
+# SMCKLA_103969 Length: 50
+# SMCKLA_103969 Number of predicted TMRs: 0
+SMCKLA_103969	inside	1	50				
+//
+# SMCKLA_70500 Length: 43
+# SMCKLA_70500 Number of predicted TMRs: 0
+SMCKLA_70500	signal	1	38				
+SMCKLA_70500	outside	39	43				
+//
+# SMCKLA_163017 Length: 47
+# SMCKLA_163017 Number of predicted TMRs: 0
+SMCKLA_163017	signal	1	10				
+SMCKLA_163017	outside	11	47				
+//
+# SMCKLA_81798 Length: 48
+# SMCKLA_81798 Number of predicted TMRs: 0
+SMCKLA_81798	signal	1	38				
+SMCKLA_81798	outside	39	48				
+//
+# SMCKLA_18454 Length: 41
+# SMCKLA_18454 Number of predicted TMRs: 0
+SMCKLA_18454	signal	1	10				
+SMCKLA_18454	outside	11	41				
+//
+# SMCKLA_30530 Length: 41
+# SMCKLA_30530 Number of predicted TMRs: 0
+SMCKLA_30530	signal	1	12				
+SMCKLA_30530	outside	13	41				
+//
+# SMCKLA_63381 Length: 33
+# SMCKLA_63381 Number of predicted TMRs: 0
+SMCKLA_63381	signal	1	32				
+SMCKLA_63381	outside	33	33				
+//
+# SMCKLA_133663 Length: 48
+# SMCKLA_133663 Number of predicted TMRs: 0
+SMCKLA_133663	inside	1	48				
+//
+# SMCKLA_153429 Length: 45
+# SMCKLA_153429 Number of predicted TMRs: 0
+SMCKLA_153429	inside	1	45				
+//
+# SMCKLA_109214 Length: 42
+# SMCKLA_109214 Number of predicted TMRs: 0
+SMCKLA_109214	signal	1	31				
+SMCKLA_109214	outside	32	42				
+//
+# SMCKLA_119754 Length: 47
+# SMCKLA_119754 Number of predicted TMRs: 0
+SMCKLA_119754	signal	1	12				
+SMCKLA_119754	outside	13	47				
+//
+# SMCKLA_147049 Length: 47
+# SMCKLA_147049 Number of predicted TMRs: 0
+SMCKLA_147049	signal	1	29				
+SMCKLA_147049	outside	30	47				
+//
+# SMCKLA_97415 Length: 41
+# SMCKLA_97415 Number of predicted TMRs: 0
+SMCKLA_97415	signal	1	40				
+SMCKLA_97415	outside	41	41				
+//
+# SMCKLA_130820 Length: 35
+# SMCKLA_130820 Number of predicted TMRs: 0
+SMCKLA_130820	signal	1	34				
+SMCKLA_130820	outside	35	35				
+//
+# SMCKLA_27948 Length: 50
+# SMCKLA_27948 Number of predicted TMRs: 0
+SMCKLA_27948	inside	1	50				
+//
+# SMCKLA_50325 Length: 47
+# SMCKLA_50325 Number of predicted TMRs: 0
+SMCKLA_50325	signal	1	45				
+SMCKLA_50325	outside	46	47				
+//
+# SMCKLA_100964 Length: 49
+# SMCKLA_100964 Number of predicted TMRs: 0
+SMCKLA_100964	inside	1	49				
+//
+# SMCKLA_151846 Length: 44
+# SMCKLA_151846 Number of predicted TMRs: 0
+SMCKLA_151846	inside	1	44				
+//
+# SMCKLA_132502 Length: 47
+# SMCKLA_132502 Number of predicted TMRs: 0
+SMCKLA_132502	signal	1	26				
+SMCKLA_132502	outside	27	47				
+//
+# SMCKLA_136312 Length: 41
+# SMCKLA_136312 Number of predicted TMRs: 0
+SMCKLA_136312	signal	1	20				
+SMCKLA_136312	outside	21	41				
+//
+# SMCKLA_128116 Length: 47
+# SMCKLA_128116 Number of predicted TMRs: 1
+SMCKLA_128116	signal	1	12				
+SMCKLA_128116	outside	13	20				
+SMCKLA_128116	TMhelix	21	36				
+SMCKLA_128116	inside	37	47				
+//
+# SMCKLA_141114 Length: 50
+# SMCKLA_141114 Number of predicted TMRs: 0
+SMCKLA_141114	inside	1	50				
+//
+# SMCKLA_127738 Length: 46
+# SMCKLA_127738 Number of predicted TMRs: 0
+SMCKLA_127738	inside	1	46				
+//
+# SMCKLA_106383 Length: 47
+# SMCKLA_106383 Number of predicted TMRs: 0
+SMCKLA_106383	inside	1	47				
+//
+# SMCKLA_142556 Length: 50
+# SMCKLA_142556 Number of predicted TMRs: 0
+SMCKLA_142556	inside	1	50				
+//
+# SMCKLA_169921 Length: 44
+# SMCKLA_169921 Number of predicted TMRs: 0
+SMCKLA_169921	inside	1	44				
+//
+# SMCKLA_162724 Length: 41
+# SMCKLA_162724 Number of predicted TMRs: 0
+SMCKLA_162724	signal	1	18				
+SMCKLA_162724	outside	19	41				
+//
+# SMCKLA_118665 Length: 26
+# SMCKLA_118665 Number of predicted TMRs: 0
+SMCKLA_118665	inside	1	26				
+//
+# SMCKLA_118659 Length: 44
+# SMCKLA_118659 Number of predicted TMRs: 0
+SMCKLA_118659	inside	1	44				
+//
+# SMCKLA_37196 Length: 45
+# SMCKLA_37196 Number of predicted TMRs: 0
+SMCKLA_37196	signal	1	10				
+SMCKLA_37196	outside	11	45				
+//
+# SMCKLA_27130 Length: 45
+# SMCKLA_27130 Number of predicted TMRs: 0
+SMCKLA_27130	inside	1	45				
+//
+# SMCKLA_163894 Length: 45
+# SMCKLA_163894 Number of predicted TMRs: 0
+SMCKLA_163894	inside	1	45				
+//
+# SMCKLA_84659 Length: 38
+# SMCKLA_84659 Number of predicted TMRs: 0
+SMCKLA_84659	signal	1	35				
+SMCKLA_84659	outside	36	38				
+//
+# SMCKLA_163591 Length: 45
+# SMCKLA_163591 Number of predicted TMRs: 0
+SMCKLA_163591	inside	1	45				
+//
+# SMCKLA_14934 Length: 33
+# SMCKLA_14934 Number of predicted TMRs: 0
+SMCKLA_14934	inside	1	33				
+//
+# SMCKLA_136461 Length: 46
+# SMCKLA_136461 Number of predicted TMRs: 0
+SMCKLA_136461	signal	1	22				
+SMCKLA_136461	outside	23	46				
+//
+# SMCKLA_83865 Length: 45
+# SMCKLA_83865 Number of predicted TMRs: 0
+SMCKLA_83865	inside	1	45				
+//
+# SMCKLA_170883 Length: 42
+# SMCKLA_170883 Number of predicted TMRs: 0
+SMCKLA_170883	signal	1	41				
+SMCKLA_170883	outside	42	42				
+//
+# SMCKLA_62326 Length: 35
+# SMCKLA_62326 Number of predicted TMRs: 0
+SMCKLA_62326	inside	1	35				
+//
+# SMCKLA_67624 Length: 43
+# SMCKLA_67624 Number of predicted TMRs: 0
+SMCKLA_67624	inside	1	43				
+//
+# SMCKLA_120477 Length: 42
+# SMCKLA_120477 Number of predicted TMRs: 0
+SMCKLA_120477	signal	1	11				
+SMCKLA_120477	outside	12	42				
+//
+# SMCKLA_170972 Length: 48
+# SMCKLA_170972 Number of predicted TMRs: 0
+SMCKLA_170972	inside	1	48				
+//
+# SMCKLA_85507 Length: 49
+# SMCKLA_85507 Number of predicted TMRs: 0
+SMCKLA_85507	signal	1	24				
+SMCKLA_85507	outside	25	49				
+//
+# SMCKLA_46739 Length: 43
+# SMCKLA_46739 Number of predicted TMRs: 0
+SMCKLA_46739	inside	1	43				
+//
+# SMCKLA_5396 Length: 42
+# SMCKLA_5396 Number of predicted TMRs: 0
+SMCKLA_5396	inside	1	42				
+//
+# SMCKLA_83505 Length: 48
+# SMCKLA_83505 Number of predicted TMRs: 0
+SMCKLA_83505	inside	1	48				
+//
+# SMCKLA_54323 Length: 43
+# SMCKLA_54323 Number of predicted TMRs: 0
+SMCKLA_54323	inside	1	43				
+//
+# SMCKLA_4895 Length: 45
+# SMCKLA_4895 Number of predicted TMRs: 0
+SMCKLA_4895	inside	1	45				
+//
+# SMCKLA_106912 Length: 48
+# SMCKLA_106912 Number of predicted TMRs: 0
+SMCKLA_106912	inside	1	48				
+//
+# SMCKLA_68088 Length: 50
+# SMCKLA_68088 Number of predicted TMRs: 0
+SMCKLA_68088	signal	1	18				
+SMCKLA_68088	outside	19	50				
+//
+# SMCKLA_143708 Length: 41
+# SMCKLA_143708 Number of predicted TMRs: 0
+SMCKLA_143708	inside	1	41				
+//
+# SMCKLA_53560 Length: 50
+# SMCKLA_53560 Number of predicted TMRs: 0
+SMCKLA_53560	inside	1	50				
+//
+# SMCKLA_4087 Length: 36
+# SMCKLA_4087 Number of predicted TMRs: 0
+SMCKLA_4087	inside	1	36				
+//
+# SMCKLA_137727 Length: 43
+# SMCKLA_137727 Number of predicted TMRs: 0
+SMCKLA_137727	inside	1	43				
+//
+# SMCKLA_51298 Length: 37
+# SMCKLA_51298 Number of predicted TMRs: 0
+SMCKLA_51298	inside	1	37				
+//
+# SMCKLA_51261 Length: 39
+# SMCKLA_51261 Number of predicted TMRs: 0
+SMCKLA_51261	inside	1	39				
+//
+# SMCKLA_17862 Length: 36
+# SMCKLA_17862 Number of predicted TMRs: 0
+SMCKLA_17862	inside	1	36				
+//
+# SMCKLA_102150 Length: 41
+# SMCKLA_102150 Number of predicted TMRs: 0
+SMCKLA_102150	inside	1	41				
+//
+# SMCKLA_14700 Length: 46
+# SMCKLA_14700 Number of predicted TMRs: 0
+SMCKLA_14700	signal	1	42				
+SMCKLA_14700	outside	43	46				
+//
+# SMCKLA_34361 Length: 45
+# SMCKLA_34361 Number of predicted TMRs: 0
+SMCKLA_34361	signal	1	10				
+SMCKLA_34361	outside	11	45				
+//
+# SMCKLA_58855 Length: 46
+# SMCKLA_58855 Number of predicted TMRs: 0
+SMCKLA_58855	inside	1	46				
+//
+# SMCKLA_13662 Length: 44
+# SMCKLA_13662 Number of predicted TMRs: 0
+SMCKLA_13662	signal	1	10				
+SMCKLA_13662	outside	11	44				
+//
+# SMCKLA_865 Length: 43
+# SMCKLA_865 Number of predicted TMRs: 0
+SMCKLA_865	signal	1	32				
+SMCKLA_865	outside	33	43				
+//
+# SMCKLA_117332 Length: 44
+# SMCKLA_117332 Number of predicted TMRs: 0
+SMCKLA_117332	inside	1	44				
+//
+# SMCKLA_23478 Length: 36
+# SMCKLA_23478 Number of predicted TMRs: 0
+SMCKLA_23478	inside	1	36				
+//
+# SMCKLA_112153 Length: 46
+# SMCKLA_112153 Number of predicted TMRs: 0
+SMCKLA_112153	inside	1	46				
+//
+# SMCKLA_66540 Length: 50
+# SMCKLA_66540 Number of predicted TMRs: 0
+SMCKLA_66540	inside	1	50				
+//
+# SMCKLA_151292 Length: 44
+# SMCKLA_151292 Number of predicted TMRs: 0
+SMCKLA_151292	signal	1	30				
+SMCKLA_151292	outside	31	44				
+//
+# SMCKLA_41468 Length: 44
+# SMCKLA_41468 Number of predicted TMRs: 0
+SMCKLA_41468	inside	1	44				
+//
+# SMCKLA_87053 Length: 41
+# SMCKLA_87053 Number of predicted TMRs: 0
+SMCKLA_87053	inside	1	41				
+//
+# SMCKLA_108616 Length: 47
+# SMCKLA_108616 Number of predicted TMRs: 0
+SMCKLA_108616	inside	1	47				
+//
+# SMCKLA_12162 Length: 38
+# SMCKLA_12162 Number of predicted TMRs: 0
+SMCKLA_12162	inside	1	38				
+//
+# SMCKLA_25270 Length: 48
+# SMCKLA_25270 Number of predicted TMRs: 0
+SMCKLA_25270	inside	1	48				
+//
+# SMCKLA_55324 Length: 50
+# SMCKLA_55324 Number of predicted TMRs: 0
+SMCKLA_55324	inside	1	50				
+//
+# SMCKLA_14581 Length: 36
+# SMCKLA_14581 Number of predicted TMRs: 0
+SMCKLA_14581	inside	1	36				
+//
+# SMCKLA_37075 Length: 50
+# SMCKLA_37075 Number of predicted TMRs: 0
+SMCKLA_37075	inside	1	50				
+//
+# SMCKLA_37892 Length: 40
+# SMCKLA_37892 Number of predicted TMRs: 0
+SMCKLA_37892	signal	1	28				
+SMCKLA_37892	outside	29	40				
+//
+# SMCKLA_128161 Length: 37
+# SMCKLA_128161 Number of predicted TMRs: 0
+SMCKLA_128161	inside	1	37				
+//
+# SMCKLA_93483 Length: 42
+# SMCKLA_93483 Number of predicted TMRs: 0
+SMCKLA_93483	inside	1	42				
+//
+# SMCKLA_3241 Length: 46
+# SMCKLA_3241 Number of predicted TMRs: 0
+SMCKLA_3241	inside	1	46				
+//
+# SMCKLA_146703 Length: 47
+# SMCKLA_146703 Number of predicted TMRs: 0
+SMCKLA_146703	signal	1	30				
+SMCKLA_146703	outside	31	47				
+//
+# SMCKLA_66516 Length: 42
+# SMCKLA_66516 Number of predicted TMRs: 0
+SMCKLA_66516	inside	1	42				
+//
+# SMCKLA_45011 Length: 49
+# SMCKLA_45011 Number of predicted TMRs: 0
+SMCKLA_45011	inside	1	49				
+//
+# SMCKLA_56366 Length: 48
+# SMCKLA_56366 Number of predicted TMRs: 0
+SMCKLA_56366	inside	1	48				
+//
+# SMCKLA_89171 Length: 50
+# SMCKLA_89171 Number of predicted TMRs: 0
+SMCKLA_89171	signal	1	12				
+SMCKLA_89171	outside	13	50				
+//
+# SMCKLA_5259 Length: 48
+# SMCKLA_5259 Number of predicted TMRs: 0
+SMCKLA_5259	signal	1	37				
+SMCKLA_5259	outside	38	48				
+//
+# SMCKLA_26656 Length: 50
+# SMCKLA_26656 Number of predicted TMRs: 0
+SMCKLA_26656	signal	1	47				
+SMCKLA_26656	outside	48	50				
+//
+# SMCKLA_115743 Length: 42
+# SMCKLA_115743 Number of predicted TMRs: 0
+SMCKLA_115743	inside	1	42				
+//
+# SMCKLA_128801 Length: 49
+# SMCKLA_128801 Number of predicted TMRs: 0
+SMCKLA_128801	inside	1	49				
+//
+# SMCKLA_42452 Length: 50
+# SMCKLA_42452 Number of predicted TMRs: 0
+SMCKLA_42452	inside	1	50				
+//
+# SMCKLA_106357 Length: 49
+# SMCKLA_106357 Number of predicted TMRs: 0
+SMCKLA_106357	inside	1	49				
+//
+# SMCKLA_103917 Length: 45
+# SMCKLA_103917 Number of predicted TMRs: 0
+SMCKLA_103917	inside	1	45				
+//
+# SMCKLA_29012 Length: 49
+# SMCKLA_29012 Number of predicted TMRs: 0
+SMCKLA_29012	signal	1	45				
+SMCKLA_29012	outside	46	49				
+//
+# SMCKLA_141032 Length: 49
+# SMCKLA_141032 Number of predicted TMRs: 0
+SMCKLA_141032	inside	1	49				
+//
+# SMCKLA_152094 Length: 50
+# SMCKLA_152094 Number of predicted TMRs: 0
+SMCKLA_152094	inside	1	50				
+//
+# SMCKLA_60349 Length: 48
+# SMCKLA_60349 Number of predicted TMRs: 0
+SMCKLA_60349	inside	1	48				
+//
+# SMCKLA_136508 Length: 50
+# SMCKLA_136508 Number of predicted TMRs: 0
+SMCKLA_136508	signal	1	31				
+SMCKLA_136508	outside	32	50				
+//
+# SMCKLA_27797 Length: 50
+# SMCKLA_27797 Number of predicted TMRs: 0
+SMCKLA_27797	inside	1	50				
+//
+# SMCKLA_144186 Length: 48
+# SMCKLA_144186 Number of predicted TMRs: 0
+SMCKLA_144186	inside	1	48				
+//
+# SMCKLA_116325 Length: 39
+# SMCKLA_116325 Number of predicted TMRs: 0
+SMCKLA_116325	signal	1	38				
+SMCKLA_116325	outside	39	39				
+//
+# SMCKLA_78701 Length: 32
+# SMCKLA_78701 Number of predicted TMRs: 0
+SMCKLA_78701	signal	1	30				
+SMCKLA_78701	outside	31	32				
+//
+# SMCKLA_119192 Length: 48
+# SMCKLA_119192 Number of predicted TMRs: 0
+SMCKLA_119192	inside	1	48				
+//
+# SMCKLA_58987 Length: 48
+# SMCKLA_58987 Number of predicted TMRs: 0
+SMCKLA_58987	inside	1	48				
+//
+# SMCKLA_143191 Length: 46
+# SMCKLA_143191 Number of predicted TMRs: 0
+SMCKLA_143191	inside	1	46				
+//
+# SMCKLA_129737 Length: 46
+# SMCKLA_129737 Number of predicted TMRs: 0
+SMCKLA_129737	signal	1	44				
+SMCKLA_129737	outside	45	46				
+//
+# SMCKLA_12577 Length: 44
+# SMCKLA_12577 Number of predicted TMRs: 0
+SMCKLA_12577	inside	1	44				
+//
+# SMCKLA_166095 Length: 43
+# SMCKLA_166095 Number of predicted TMRs: 0
+SMCKLA_166095	inside	1	43				
+//
+# SMCKLA_105427 Length: 47
+# SMCKLA_105427 Number of predicted TMRs: 0
+SMCKLA_105427	inside	1	47				
+//
+# SMCKLA_166502 Length: 39
+# SMCKLA_166502 Number of predicted TMRs: 0
+SMCKLA_166502	inside	1	39				
+//
+# SMCKLA_112176 Length: 48
+# SMCKLA_112176 Number of predicted TMRs: 0
+SMCKLA_112176	signal	1	46				
+SMCKLA_112176	outside	47	48				
+//
+# SMCKLA_86908 Length: 42
+# SMCKLA_86908 Number of predicted TMRs: 0
+SMCKLA_86908	signal	1	31				
+SMCKLA_86908	outside	32	42				
+//
+# SMCKLA_132078 Length: 45
+# SMCKLA_132078 Number of predicted TMRs: 0
+SMCKLA_132078	inside	1	45				
+//
+# SMCKLA_151293 Length: 38
+# SMCKLA_151293 Number of predicted TMRs: 0
+SMCKLA_151293	signal	1	18				
+SMCKLA_151293	outside	19	38				
+//
+# SMCKLA_37188 Length: 48
+# SMCKLA_37188 Number of predicted TMRs: 0
+SMCKLA_37188	signal	1	15				
+SMCKLA_37188	outside	16	48				
+//
+# SMCKLA_137394 Length: 49
+# SMCKLA_137394 Number of predicted TMRs: 0
+SMCKLA_137394	inside	1	49				
+//
+# SMCKLA_124585 Length: 46
+# SMCKLA_124585 Number of predicted TMRs: 0
+SMCKLA_124585	inside	1	46				
+//
+# SMCKLA_92874 Length: 36
+# SMCKLA_92874 Number of predicted TMRs: 0
+SMCKLA_92874	signal	1	35				
+SMCKLA_92874	outside	36	36				
+//
+# SMCKLA_92258 Length: 47
+# SMCKLA_92258 Number of predicted TMRs: 0
+SMCKLA_92258	outside	1	47				
+//
+# SMCKLA_74059 Length: 40
+# SMCKLA_74059 Number of predicted TMRs: 0
+SMCKLA_74059	inside	1	40				
+//
+# SMCKLA_170583 Length: 43
+# SMCKLA_170583 Number of predicted TMRs: 0
+SMCKLA_170583	signal	1	23				
+SMCKLA_170583	outside	24	43				
+//
+# SMCKLA_74698 Length: 44
+# SMCKLA_74698 Number of predicted TMRs: 0
+SMCKLA_74698	inside	1	44				
+//
+# SMCKLA_6773 Length: 47
+# SMCKLA_6773 Number of predicted TMRs: 0
+SMCKLA_6773	inside	1	47				
+//
+# SMCKLA_51271 Length: 36
+# SMCKLA_51271 Number of predicted TMRs: 0
+SMCKLA_51271	signal	1	35				
+SMCKLA_51271	outside	36	36				
+//
+# SMCKLA_23479 Length: 43
+# SMCKLA_23479 Number of predicted TMRs: 1
+SMCKLA_23479	signal	1	12				
+SMCKLA_23479	outside	13	13				
+SMCKLA_23479	TMhelix	14	23				
+SMCKLA_23479	inside	24	43				
+//
+# SMCKLA_58414 Length: 38
+# SMCKLA_58414 Number of predicted TMRs: 0
+SMCKLA_58414	inside	1	38				
+//
+# SMCKLA_111548 Length: 48
+# SMCKLA_111548 Number of predicted TMRs: 0
+SMCKLA_111548	signal	1	13				
+SMCKLA_111548	outside	14	48				
+//
+# SMCKLA_162292 Length: 46
+# SMCKLA_162292 Number of predicted TMRs: 0
+SMCKLA_162292	signal	1	11				
+SMCKLA_162292	outside	12	46				
+//
+# SMCKLA_16307 Length: 50
+# SMCKLA_16307 Number of predicted TMRs: 0
+SMCKLA_16307	inside	1	50				
+//
+# SMCKLA_98298 Length: 46
+# SMCKLA_98298 Number of predicted TMRs: 0
+SMCKLA_98298	signal	1	21				
+SMCKLA_98298	outside	22	46				
+//
+# SMCKLA_138150 Length: 37
+# SMCKLA_138150 Number of predicted TMRs: 0
+SMCKLA_138150	signal	1	32				
+SMCKLA_138150	outside	33	37				
+//
+# SMCKLA_104196 Length: 50
+# SMCKLA_104196 Number of predicted TMRs: 0
+SMCKLA_104196	inside	1	50				
+//
+# SMCKLA_172364 Length: 44
+# SMCKLA_172364 Number of predicted TMRs: 0
+SMCKLA_172364	inside	1	44				
+//
+# SMCKLA_36780 Length: 47
+# SMCKLA_36780 Number of predicted TMRs: 0
+SMCKLA_36780	inside	1	47				
+//
+# SMCKLA_58088 Length: 47
+# SMCKLA_58088 Number of predicted TMRs: 0
+SMCKLA_58088	signal	1	31				
+SMCKLA_58088	outside	32	47				
+//
+# SMCKLA_24588 Length: 50
+# SMCKLA_24588 Number of predicted TMRs: 0
+SMCKLA_24588	signal	1	15				
+SMCKLA_24588	outside	16	50				
+//
+# SMCKLA_170754 Length: 34
+# SMCKLA_170754 Number of predicted TMRs: 0
+SMCKLA_170754	inside	1	34				
+//
+# SMCKLA_71432 Length: 43
+# SMCKLA_71432 Number of predicted TMRs: 0
+SMCKLA_71432	inside	1	43				
+//
+# SMCKLA_39790 Length: 49
+# SMCKLA_39790 Number of predicted TMRs: 0
+SMCKLA_39790	inside	1	49				
+//
+# SMCKLA_1376 Length: 47
+# SMCKLA_1376 Number of predicted TMRs: 0
+SMCKLA_1376	inside	1	47				
+//
+# SMCKLA_45490 Length: 50
+# SMCKLA_45490 Number of predicted TMRs: 0
+SMCKLA_45490	inside	1	50				
+//
+# SMCKLA_42856 Length: 45
+# SMCKLA_42856 Number of predicted TMRs: 0
+SMCKLA_42856	outside	1	45				
+//
+# SMCKLA_144399 Length: 48
+# SMCKLA_144399 Number of predicted TMRs: 0
+SMCKLA_144399	inside	1	48				
+//
+# SMCKLA_75192 Length: 40
+# SMCKLA_75192 Number of predicted TMRs: 0
+SMCKLA_75192	inside	1	40				
+//
+# SMCKLA_18952 Length: 41
+# SMCKLA_18952 Number of predicted TMRs: 0
+SMCKLA_18952	signal	1	35				
+SMCKLA_18952	outside	36	41				
+//
+# SMCKLA_59256 Length: 48
+# SMCKLA_59256 Number of predicted TMRs: 0
+SMCKLA_59256	signal	1	27				
+SMCKLA_59256	outside	28	48				
+//
+# SMCKLA_131259 Length: 39
+# SMCKLA_131259 Number of predicted TMRs: 0
+SMCKLA_131259	signal	1	26				
+SMCKLA_131259	outside	27	39				
+//
+# SMCKLA_167127 Length: 48
+# SMCKLA_167127 Number of predicted TMRs: 0
+SMCKLA_167127	inside	1	48				
+//
+# SMCKLA_172554 Length: 49
+# SMCKLA_172554 Number of predicted TMRs: 0
+SMCKLA_172554	inside	1	49				
+//
+# SMCKLA_93461 Length: 43
+# SMCKLA_93461 Number of predicted TMRs: 0
+SMCKLA_93461	inside	1	43				
+//
+# SMCKLA_120886 Length: 33
+# SMCKLA_120886 Number of predicted TMRs: 0
+SMCKLA_120886	inside	1	33				
+//
+# SMCKLA_86508 Length: 47
+# SMCKLA_86508 Number of predicted TMRs: 0
+SMCKLA_86508	inside	1	47				
+//
+# SMCKLA_85667 Length: 37
+# SMCKLA_85667 Number of predicted TMRs: 0
+SMCKLA_85667	signal	1	36				
+SMCKLA_85667	outside	37	37				
+//
+# SMCKLA_119550 Length: 45
+# SMCKLA_119550 Number of predicted TMRs: 0
+SMCKLA_119550	inside	1	45				
+//
+# SMCKLA_115615 Length: 48
+# SMCKLA_115615 Number of predicted TMRs: 0
+SMCKLA_115615	signal	1	20				
+SMCKLA_115615	outside	21	48				
+//
+# SMCKLA_132397 Length: 44
+# SMCKLA_132397 Number of predicted TMRs: 0
+SMCKLA_132397	inside	1	44				
+//
+# SMCKLA_10156 Length: 50
+# SMCKLA_10156 Number of predicted TMRs: 0
+SMCKLA_10156	inside	1	50				
+//
+# SMCKLA_83667 Length: 44
+# SMCKLA_83667 Number of predicted TMRs: 0
+SMCKLA_83667	signal	1	43				
+SMCKLA_83667	outside	44	44				
+//
+# SMCKLA_83721 Length: 47
+# SMCKLA_83721 Number of predicted TMRs: 0
+SMCKLA_83721	signal	1	15				
+SMCKLA_83721	outside	16	47				
+//
+# SMCKLA_43846 Length: 44
+# SMCKLA_43846 Number of predicted TMRs: 0
+SMCKLA_43846	signal	1	43				
+SMCKLA_43846	outside	44	44				
+//
+# SMCKLA_113833 Length: 44
+# SMCKLA_113833 Number of predicted TMRs: 0
+SMCKLA_113833	inside	1	44				
+//
+# SMCKLA_166835 Length: 41
+# SMCKLA_166835 Number of predicted TMRs: 0
+SMCKLA_166835	signal	1	28				
+SMCKLA_166835	outside	29	41				
+//
+# SMCKLA_111089 Length: 44
+# SMCKLA_111089 Number of predicted TMRs: 0
+SMCKLA_111089	inside	1	44				
+//
+# SMCKLA_90171 Length: 49
+# SMCKLA_90171 Number of predicted TMRs: 0
+SMCKLA_90171	inside	1	49				
+//
+# SMCKLA_112552 Length: 45
+# SMCKLA_112552 Number of predicted TMRs: 0
+SMCKLA_112552	inside	1	45				
+//
+# SMCKLA_108884 Length: 50
+# SMCKLA_108884 Number of predicted TMRs: 0
+SMCKLA_108884	inside	1	50				
+//
+# SMCKLA_138585 Length: 43
+# SMCKLA_138585 Number of predicted TMRs: 0
+SMCKLA_138585	signal	1	33				
+SMCKLA_138585	outside	34	43				
+//
+# SMCKLA_138750 Length: 38
+# SMCKLA_138750 Number of predicted TMRs: 0
+SMCKLA_138750	signal	1	37				
+SMCKLA_138750	outside	38	38				
+//
+# SMCKLA_127871 Length: 43
+# SMCKLA_127871 Number of predicted TMRs: 0
+SMCKLA_127871	inside	1	43				
+//
+# SMCKLA_108422 Length: 48
+# SMCKLA_108422 Number of predicted TMRs: 0
+SMCKLA_108422	inside	1	48				
+//
+# SMCKLA_139646 Length: 39
+# SMCKLA_139646 Number of predicted TMRs: 0
+SMCKLA_139646	inside	1	39				
+//
+# SMCKLA_41280 Length: 45
+# SMCKLA_41280 Number of predicted TMRs: 0
+SMCKLA_41280	signal	1	12				
+SMCKLA_41280	outside	13	45				
+//
+# SMCKLA_133086 Length: 46
+# SMCKLA_133086 Number of predicted TMRs: 0
+SMCKLA_133086	signal	1	32				
+SMCKLA_133086	outside	33	46				
+//
+# SMCKLA_20747 Length: 45
+# SMCKLA_20747 Number of predicted TMRs: 0
+SMCKLA_20747	inside	1	45				
+//
+# SMCKLA_143588 Length: 47
+# SMCKLA_143588 Number of predicted TMRs: 0
+SMCKLA_143588	inside	1	47				
+//
+# SMCKLA_109051 Length: 46
+# SMCKLA_109051 Number of predicted TMRs: 0
+SMCKLA_109051	signal	1	21				
+SMCKLA_109051	outside	22	46				
+//
+# SMCKLA_144194 Length: 39
+# SMCKLA_144194 Number of predicted TMRs: 0
+SMCKLA_144194	inside	1	39				
+//
+# SMCKLA_87182 Length: 44
+# SMCKLA_87182 Number of predicted TMRs: 0
+SMCKLA_87182	inside	1	44				
+//
+# SMCKLA_113736 Length: 47
+# SMCKLA_113736 Number of predicted TMRs: 0
+SMCKLA_113736	inside	1	47				
+//
+# SMCKLA_131459 Length: 40
+# SMCKLA_131459 Number of predicted TMRs: 0
+SMCKLA_131459	signal	1	10				
+SMCKLA_131459	outside	11	40				
+//
+# SMCKLA_90899 Length: 42
+# SMCKLA_90899 Number of predicted TMRs: 0
+SMCKLA_90899	signal	1	32				
+SMCKLA_90899	outside	33	42				
+//
+# SMCKLA_24602 Length: 50
+# SMCKLA_24602 Number of predicted TMRs: 0
+SMCKLA_24602	inside	1	50				
+//
+# SMCKLA_21760 Length: 47
+# SMCKLA_21760 Number of predicted TMRs: 0
+SMCKLA_21760	signal	1	10				
+SMCKLA_21760	outside	11	47				
+//
+# SMCKLA_163515 Length: 45
+# SMCKLA_163515 Number of predicted TMRs: 0
+SMCKLA_163515	signal	1	20				
+SMCKLA_163515	outside	21	45				
+//
+# SMCKLA_12329 Length: 40
+# SMCKLA_12329 Number of predicted TMRs: 0
+SMCKLA_12329	signal	1	39				
+SMCKLA_12329	outside	40	40				
+//
+# SMCKLA_113762 Length: 43
+# SMCKLA_113762 Number of predicted TMRs: 0
+SMCKLA_113762	inside	1	43				
+//
+# SMCKLA_78273 Length: 39
+# SMCKLA_78273 Number of predicted TMRs: 0
+SMCKLA_78273	inside	1	39				
+//
+# SMCKLA_162723 Length: 37
+# SMCKLA_162723 Number of predicted TMRs: 0
+SMCKLA_162723	inside	1	37				
+//
+# SMCKLA_59080 Length: 39
+# SMCKLA_59080 Number of predicted TMRs: 0
+SMCKLA_59080	signal	1	21				
+SMCKLA_59080	outside	22	39				
+//
+# SMCKLA_68592 Length: 39
+# SMCKLA_68592 Number of predicted TMRs: 0
+SMCKLA_68592	inside	1	39				
+//
+# SMCKLA_24433 Length: 48
+# SMCKLA_24433 Number of predicted TMRs: 0
+SMCKLA_24433	inside	1	48				
+//
+# SMCKLA_109393 Length: 48
+# SMCKLA_109393 Number of predicted TMRs: 0
+SMCKLA_109393	outside	1	48				
+//
+# SMCKLA_80193 Length: 35
+# SMCKLA_80193 Number of predicted TMRs: 0
+SMCKLA_80193	inside	1	35				
+//
+# SMCKLA_59978 Length: 45
+# SMCKLA_59978 Number of predicted TMRs: 0
+SMCKLA_59978	signal	1	18				
+SMCKLA_59978	outside	19	45				
+//
+# SMCKLA_106465 Length: 48
+# SMCKLA_106465 Number of predicted TMRs: 0
+SMCKLA_106465	inside	1	48				
+//
+# SMCKLA_153584 Length: 40
+# SMCKLA_153584 Number of predicted TMRs: 0
+SMCKLA_153584	signal	1	20				
+SMCKLA_153584	outside	21	40				
+//
+# SMCKLA_24080 Length: 50
+# SMCKLA_24080 Number of predicted TMRs: 0
+SMCKLA_24080	inside	1	50				
+//
+# SMCKLA_169243 Length: 48
+# SMCKLA_169243 Number of predicted TMRs: 0
+SMCKLA_169243	inside	1	48				
+//
+# SMCKLA_74994 Length: 42
+# SMCKLA_74994 Number of predicted TMRs: 0
+SMCKLA_74994	inside	1	42				
+//
+# SMCKLA_6192 Length: 28
+# SMCKLA_6192 Number of predicted TMRs: 0
+SMCKLA_6192	inside	1	28				
+//
+# SMCKLA_16320 Length: 49
+# SMCKLA_16320 Number of predicted TMRs: 0
+SMCKLA_16320	inside	1	49				
+//
+# SMCKLA_62966 Length: 33
+# SMCKLA_62966 Number of predicted TMRs: 0
+SMCKLA_62966	inside	1	33				
+//
+# SMCKLA_88871 Length: 46
+# SMCKLA_88871 Number of predicted TMRs: 0
+SMCKLA_88871	inside	1	46				
+//
+# SMCKLA_151090 Length: 46
+# SMCKLA_151090 Number of predicted TMRs: 0
+SMCKLA_151090	inside	1	46				
+//
+# SMCKLA_1354 Length: 50
+# SMCKLA_1354 Number of predicted TMRs: 0
+SMCKLA_1354	signal	1	38				
+SMCKLA_1354	outside	39	50				
+//
+# SMCKLA_33456 Length: 44
+# SMCKLA_33456 Number of predicted TMRs: 0
+SMCKLA_33456	inside	1	44				
+//
+# SMCKLA_164587 Length: 38
+# SMCKLA_164587 Number of predicted TMRs: 0
+SMCKLA_164587	signal	1	28				
+SMCKLA_164587	outside	29	38				
+//
+# SMCKLA_143467 Length: 39
+# SMCKLA_143467 Number of predicted TMRs: 0
+SMCKLA_143467	inside	1	39				
+//
+# SMCKLA_95509 Length: 38
+# SMCKLA_95509 Number of predicted TMRs: 0
+SMCKLA_95509	signal	1	33				
+SMCKLA_95509	outside	34	38				
+//
+# SMCKLA_90986 Length: 48
+# SMCKLA_90986 Number of predicted TMRs: 0
+SMCKLA_90986	inside	1	48				
+//
+# SMCKLA_94113 Length: 48
+# SMCKLA_94113 Number of predicted TMRs: 0
+SMCKLA_94113	outside	1	48				
+//
+# SMCKLA_130892 Length: 43
+# SMCKLA_130892 Number of predicted TMRs: 0
+SMCKLA_130892	inside	1	43				
+//
+# SMCKLA_162369 Length: 46
+# SMCKLA_162369 Number of predicted TMRs: 0
+SMCKLA_162369	signal	1	15				
+SMCKLA_162369	outside	16	46				
+//
+# SMCKLA_95052 Length: 49
+# SMCKLA_95052 Number of predicted TMRs: 0
+SMCKLA_95052	inside	1	49				
+//
+# SMCKLA_138293 Length: 50
+# SMCKLA_138293 Number of predicted TMRs: 0
+SMCKLA_138293	inside	1	50				
+//
+# SMCKLA_130051 Length: 49
+# SMCKLA_130051 Number of predicted TMRs: 0
+SMCKLA_130051	signal	1	20				
+SMCKLA_130051	outside	21	49				
+//
+# SMCKLA_90443 Length: 44
+# SMCKLA_90443 Number of predicted TMRs: 0
+SMCKLA_90443	signal	1	43				
+SMCKLA_90443	outside	44	44				
+//
+# SMCKLA_52335 Length: 41
+# SMCKLA_52335 Number of predicted TMRs: 0
+SMCKLA_52335	signal	1	13				
+SMCKLA_52335	outside	14	41				
+//
+# SMCKLA_25083 Length: 48
+# SMCKLA_25083 Number of predicted TMRs: 0
+SMCKLA_25083	inside	1	48				
+//
+# SMCKLA_41143 Length: 49
+# SMCKLA_41143 Number of predicted TMRs: 0
+SMCKLA_41143	inside	1	49				
+//
+# SMCKLA_60834 Length: 35
+# SMCKLA_60834 Number of predicted TMRs: 0
+SMCKLA_60834	signal	1	33				
+SMCKLA_60834	outside	34	35				
+//
+# SMCKLA_35419 Length: 42
+# SMCKLA_35419 Number of predicted TMRs: 0
+SMCKLA_35419	inside	1	42				
+//
+# SMCKLA_118751 Length: 46
+# SMCKLA_118751 Number of predicted TMRs: 0
+SMCKLA_118751	inside	1	46				
+//
+# SMCKLA_45905 Length: 46
+# SMCKLA_45905 Number of predicted TMRs: 0
+SMCKLA_45905	signal	1	13				
+SMCKLA_45905	outside	14	46				
+//
+# SMCKLA_116559 Length: 45
+# SMCKLA_116559 Number of predicted TMRs: 0
+SMCKLA_116559	signal	1	33				
+SMCKLA_116559	outside	34	45				
+//
+# SMCKLA_151647 Length: 35
+# SMCKLA_151647 Number of predicted TMRs: 0
+SMCKLA_151647	inside	1	35				
+//
+# SMCKLA_77619 Length: 50
+# SMCKLA_77619 Number of predicted TMRs: 0
+SMCKLA_77619	inside	1	50				
+//
+# SMCKLA_6053 Length: 37
+# SMCKLA_6053 Number of predicted TMRs: 0
+SMCKLA_6053	inside	1	37				
+//
+# SMCKLA_9344 Length: 47
+# SMCKLA_9344 Number of predicted TMRs: 0
+SMCKLA_9344	inside	1	47				
+//
+# SMCKLA_33622 Length: 39
+# SMCKLA_33622 Number of predicted TMRs: 0
+SMCKLA_33622	signal	1	38				
+SMCKLA_33622	outside	39	39				
+//
+# SMCKLA_64229 Length: 47
+# SMCKLA_64229 Number of predicted TMRs: 0
+SMCKLA_64229	inside	1	47				
+//
+# SMCKLA_82645 Length: 44
+# SMCKLA_82645 Number of predicted TMRs: 0
+SMCKLA_82645	inside	1	44				
+//
+# SMCKLA_139659 Length: 49
+# SMCKLA_139659 Number of predicted TMRs: 0
+SMCKLA_139659	signal	1	13				
+SMCKLA_139659	outside	14	49				
+//
+# SMCKLA_59628 Length: 41
+# SMCKLA_59628 Number of predicted TMRs: 0
+SMCKLA_59628	signal	1	40				
+SMCKLA_59628	outside	41	41				
+//
+# SMCKLA_98858 Length: 47
+# SMCKLA_98858 Number of predicted TMRs: 0
+SMCKLA_98858	inside	1	47				
+//
+# SMCKLA_73346 Length: 45
+# SMCKLA_73346 Number of predicted TMRs: 0
+SMCKLA_73346	inside	1	45				
+//
+# SMCKLA_16104 Length: 40
+# SMCKLA_16104 Number of predicted TMRs: 0
+SMCKLA_16104	inside	1	40				
+//
+# SMCKLA_20729 Length: 46
+# SMCKLA_20729 Number of predicted TMRs: 0
+SMCKLA_20729	inside	1	46				
+//
+# SMCKLA_13987 Length: 49
+# SMCKLA_13987 Number of predicted TMRs: 0
+SMCKLA_13987	inside	1	49				
+//
+# SMCKLA_118097 Length: 50
+# SMCKLA_118097 Number of predicted TMRs: 1
+SMCKLA_118097	inside	1	28				
+SMCKLA_118097	TMhelix	29	49				
+SMCKLA_118097	outside	50	50				
+//
+# SMCKLA_49685 Length: 43
+# SMCKLA_49685 Number of predicted TMRs: 0
+SMCKLA_49685	inside	1	43				
+//
+# SMCKLA_145387 Length: 37
+# SMCKLA_145387 Number of predicted TMRs: 0
+SMCKLA_145387	signal	1	33				
+SMCKLA_145387	outside	34	37				
+//
+# SMCKLA_28690 Length: 34
+# SMCKLA_28690 Number of predicted TMRs: 0
+SMCKLA_28690	signal	1	32				
+SMCKLA_28690	outside	33	34				
+//
+# SMCKLA_50383 Length: 40
+# SMCKLA_50383 Number of predicted TMRs: 0
+SMCKLA_50383	inside	1	40				
+//
+# SMCKLA_169827 Length: 49
+# SMCKLA_169827 Number of predicted TMRs: 0
+SMCKLA_169827	inside	1	49				
+//
+# SMCKLA_151480 Length: 32
+# SMCKLA_151480 Number of predicted TMRs: 0
+SMCKLA_151480	inside	1	32				
+//
+# SMCKLA_169216 Length: 44
+# SMCKLA_169216 Number of predicted TMRs: 0
+SMCKLA_169216	signal	1	32				
+SMCKLA_169216	outside	33	44				
+//
+# SMCKLA_164551 Length: 39
+# SMCKLA_164551 Number of predicted TMRs: 0
+SMCKLA_164551	inside	1	39				
+//
+# SMCKLA_41177 Length: 39
+# SMCKLA_41177 Number of predicted TMRs: 0
+SMCKLA_41177	inside	1	39				
+//
+# SMCKLA_99454 Length: 47
+# SMCKLA_99454 Number of predicted TMRs: 0
+SMCKLA_99454	inside	1	47				
+//
+# SMCKLA_42922 Length: 33
+# SMCKLA_42922 Number of predicted TMRs: 0
+SMCKLA_42922	signal	1	29				
+SMCKLA_42922	outside	30	33				
+//
+# SMCKLA_23451 Length: 30
+# SMCKLA_23451 Number of predicted TMRs: 0
+SMCKLA_23451	inside	1	30				
+//
+# SMCKLA_112851 Length: 47
+# SMCKLA_112851 Number of predicted TMRs: 0
+SMCKLA_112851	signal	1	15				
+SMCKLA_112851	outside	16	47				
+//
+# SMCKLA_6959 Length: 45
+# SMCKLA_6959 Number of predicted TMRs: 0
+SMCKLA_6959	inside	1	45				
+//
+# SMCKLA_148917 Length: 39
+# SMCKLA_148917 Number of predicted TMRs: 0
+SMCKLA_148917	inside	1	39				
+//
+# SMCKLA_96216 Length: 48
+# SMCKLA_96216 Number of predicted TMRs: 0
+SMCKLA_96216	inside	1	48				
+//
+# SMCKLA_68287 Length: 48
+# SMCKLA_68287 Number of predicted TMRs: 0
+SMCKLA_68287	inside	1	48				
+//
+# SMCKLA_77977 Length: 35
+# SMCKLA_77977 Number of predicted TMRs: 0
+SMCKLA_77977	inside	1	35				
+//
+# SMCKLA_49068 Length: 39
+# SMCKLA_49068 Number of predicted TMRs: 0
+SMCKLA_49068	signal	1	10				
+SMCKLA_49068	outside	11	39				
+//
+# SMCKLA_101837 Length: 41
+# SMCKLA_101837 Number of predicted TMRs: 0
+SMCKLA_101837	inside	1	41				
+//
+# SMCKLA_41483 Length: 48
+# SMCKLA_41483 Number of predicted TMRs: 0
+SMCKLA_41483	inside	1	48				
+//
+# SMCKLA_70112 Length: 40
+# SMCKLA_70112 Number of predicted TMRs: 0
+SMCKLA_70112	inside	1	40				
+//
+# SMCKLA_17330 Length: 38
+# SMCKLA_17330 Number of predicted TMRs: 0
+SMCKLA_17330	signal	1	37				
+SMCKLA_17330	outside	38	38				
+//
+# SMCKLA_17313 Length: 33
+# SMCKLA_17313 Number of predicted TMRs: 0
+SMCKLA_17313	signal	1	32				
+SMCKLA_17313	outside	33	33				
+//
+# SMCKLA_17183 Length: 44
+# SMCKLA_17183 Number of predicted TMRs: 0
+SMCKLA_17183	inside	1	44				
+//
+# SMCKLA_17186 Length: 49
+# SMCKLA_17186 Number of predicted TMRs: 0
+SMCKLA_17186	inside	1	49				
+//
+# SMCKLA_118333 Length: 50
+# SMCKLA_118333 Number of predicted TMRs: 0
+SMCKLA_118333	inside	1	50				
+//
+# SMCKLA_117233 Length: 49
+# SMCKLA_117233 Number of predicted TMRs: 0
+SMCKLA_117233	inside	1	49				
+//
+# SMCKLA_37820 Length: 42
+# SMCKLA_37820 Number of predicted TMRs: 0
+SMCKLA_37820	signal	1	41				
+SMCKLA_37820	outside	42	42				
+//
+# SMCKLA_111151 Length: 50
+# SMCKLA_111151 Number of predicted TMRs: 0
+SMCKLA_111151	signal	1	49				
+SMCKLA_111151	outside	50	50				
+//
+# SMCKLA_95596 Length: 42
+# SMCKLA_95596 Number of predicted TMRs: 0
+SMCKLA_95596	signal	1	41				
+SMCKLA_95596	outside	42	42				
+//
+# SMCKLA_55471 Length: 43
+# SMCKLA_55471 Number of predicted TMRs: 0
+SMCKLA_55471	inside	1	43				
+//
+# SMCKLA_8416 Length: 47
+# SMCKLA_8416 Number of predicted TMRs: 0
+SMCKLA_8416	inside	1	47				
+//
+# SMCKLA_96495 Length: 45
+# SMCKLA_96495 Number of predicted TMRs: 0
+SMCKLA_96495	signal	1	44				
+SMCKLA_96495	outside	45	45				
+//
+# SMCKLA_132305 Length: 45
+# SMCKLA_132305 Number of predicted TMRs: 0
+SMCKLA_132305	signal	1	41				
+SMCKLA_132305	outside	42	45				
+//
+# SMCKLA_89266 Length: 42
+# SMCKLA_89266 Number of predicted TMRs: 0
+SMCKLA_89266	signal	1	41				
+SMCKLA_89266	outside	42	42				
+//
+# SMCKLA_118014 Length: 48
+# SMCKLA_118014 Number of predicted TMRs: 0
+SMCKLA_118014	signal	1	44				
+SMCKLA_118014	outside	45	48				
+//
+# SMCKLA_25870 Length: 44
+# SMCKLA_25870 Number of predicted TMRs: 0
+SMCKLA_25870	signal	1	29				
+SMCKLA_25870	outside	30	44				
+//
+# SMCKLA_30210 Length: 49
+# SMCKLA_30210 Number of predicted TMRs: 0
+SMCKLA_30210	signal	1	11				
+SMCKLA_30210	outside	12	49				
+//
+# SMCKLA_167251 Length: 47
+# SMCKLA_167251 Number of predicted TMRs: 0
+SMCKLA_167251	inside	1	47				
+//
+# SMCKLA_69481 Length: 49
+# SMCKLA_69481 Number of predicted TMRs: 0
+SMCKLA_69481	inside	1	49				
+//
+# SMCKLA_32747 Length: 44
+# SMCKLA_32747 Number of predicted TMRs: 0
+SMCKLA_32747	inside	1	44				
+//
+# SMCKLA_26834 Length: 45
+# SMCKLA_26834 Number of predicted TMRs: 0
+SMCKLA_26834	inside	1	45				
+//
+# SMCKLA_136980 Length: 47
+# SMCKLA_136980 Number of predicted TMRs: 0
+SMCKLA_136980	signal	1	43				
+SMCKLA_136980	outside	44	47				
+//
+# SMCKLA_136955 Length: 44
+# SMCKLA_136955 Number of predicted TMRs: 0
+SMCKLA_136955	signal	1	42				
+SMCKLA_136955	outside	43	44				
+//
+# SMCKLA_151953 Length: 44
+# SMCKLA_151953 Number of predicted TMRs: 0
+SMCKLA_151953	inside	1	44				
+//
+# SMCKLA_158899 Length: 36
+# SMCKLA_158899 Number of predicted TMRs: 0
+SMCKLA_158899	inside	1	36				
+//
+# SMCKLA_133775 Length: 30
+# SMCKLA_133775 Number of predicted TMRs: 0
+SMCKLA_133775	inside	1	30				
+//
+# SMCKLA_112833 Length: 49
+# SMCKLA_112833 Number of predicted TMRs: 0
+SMCKLA_112833	inside	1	49				
+//
+# SMCKLA_134479 Length: 37
+# SMCKLA_134479 Number of predicted TMRs: 0
+SMCKLA_134479	signal	1	27				
+SMCKLA_134479	outside	28	37				
+//
+# SMCKLA_12652 Length: 43
+# SMCKLA_12652 Number of predicted TMRs: 0
+SMCKLA_12652	inside	1	43				
+//
+# SMCKLA_110105 Length: 31
+# SMCKLA_110105 Number of predicted TMRs: 0
+SMCKLA_110105	inside	1	31				
+//
+# SMCKLA_9014 Length: 42
+# SMCKLA_9014 Number of predicted TMRs: 0
+SMCKLA_9014	signal	1	39				
+SMCKLA_9014	outside	40	42				
+//
+# SMCKLA_76517 Length: 50
+# SMCKLA_76517 Number of predicted TMRs: 0
+SMCKLA_76517	inside	1	50				
+//
+# SMCKLA_17316 Length: 36
+# SMCKLA_17316 Number of predicted TMRs: 0
+SMCKLA_17316	inside	1	36				
+//
+# SMCKLA_132009 Length: 50
+# SMCKLA_132009 Number of predicted TMRs: 0
+SMCKLA_132009	inside	1	50				
+//
+# SMCKLA_114480 Length: 40
+# SMCKLA_114480 Number of predicted TMRs: 0
+SMCKLA_114480	outside	1	40				
+//
+# SMCKLA_167509 Length: 33
+# SMCKLA_167509 Number of predicted TMRs: 0
+SMCKLA_167509	inside	1	33				
+//
+# SMCKLA_7924 Length: 47
+# SMCKLA_7924 Number of predicted TMRs: 0
+SMCKLA_7924	inside	1	47				
+//
+# SMCKLA_103431 Length: 37
+# SMCKLA_103431 Number of predicted TMRs: 0
+SMCKLA_103431	inside	1	37				
+//
+# SMCKLA_64867 Length: 44
+# SMCKLA_64867 Number of predicted TMRs: 0
+SMCKLA_64867	inside	1	44				
+//
+# SMCKLA_142516 Length: 20
+# SMCKLA_142516 Number of predicted TMRs: 0
+SMCKLA_142516	inside	1	20				
+//
+# SMCKLA_69634 Length: 42
+# SMCKLA_69634 Number of predicted TMRs: 0
+SMCKLA_69634	inside	1	42				
+//
+# SMCKLA_40928 Length: 43
+# SMCKLA_40928 Number of predicted TMRs: 0
+SMCKLA_40928	inside	1	43				
+//
+# SMCKLA_21911 Length: 29
+# SMCKLA_21911 Number of predicted TMRs: 0
+SMCKLA_21911	signal	1	23				
+SMCKLA_21911	outside	24	29				
+//
+# SMCKLA_121318 Length: 46
+# SMCKLA_121318 Number of predicted TMRs: 0
+SMCKLA_121318	inside	1	46				
+//
+# SMCKLA_146507 Length: 46
+# SMCKLA_146507 Number of predicted TMRs: 0
+SMCKLA_146507	inside	1	46				
+//
+# SMCKLA_70336 Length: 45
+# SMCKLA_70336 Number of predicted TMRs: 0
+SMCKLA_70336	inside	1	45				
+//
+# SMCKLA_18799 Length: 40
+# SMCKLA_18799 Number of predicted TMRs: 0
+SMCKLA_18799	signal	1	27				
+SMCKLA_18799	outside	28	40				
+//
+# SMCKLA_122769 Length: 27
+# SMCKLA_122769 Number of predicted TMRs: 0
+SMCKLA_122769	signal	1	26				
+SMCKLA_122769	outside	27	27				
+//
+# SMCKLA_44309 Length: 27
+# SMCKLA_44309 Number of predicted TMRs: 0
+SMCKLA_44309	signal	1	26				
+SMCKLA_44309	outside	27	27				
+//
+# SMCKLA_103234 Length: 42
+# SMCKLA_103234 Number of predicted TMRs: 0
+SMCKLA_103234	signal	1	40				
+SMCKLA_103234	outside	41	42				
+//
+# SMCKLA_49136 Length: 49
+# SMCKLA_49136 Number of predicted TMRs: 0
+SMCKLA_49136	signal	1	31				
+SMCKLA_49136	outside	32	49				
+//
+# SMCKLA_127634 Length: 49
+# SMCKLA_127634 Number of predicted TMRs: 0
+SMCKLA_127634	signal	1	34				
+SMCKLA_127634	outside	35	49				
+//
+# SMCKLA_95878 Length: 43
+# SMCKLA_95878 Number of predicted TMRs: 0
+SMCKLA_95878	inside	1	43				
+//
+# SMCKLA_100742 Length: 39
+# SMCKLA_100742 Number of predicted TMRs: 0
+SMCKLA_100742	signal	1	38				
+SMCKLA_100742	outside	39	39				
+//
+# SMCKLA_132576 Length: 45
+# SMCKLA_132576 Number of predicted TMRs: 0
+SMCKLA_132576	inside	1	45				
+//
+# SMCKLA_117998 Length: 39
+# SMCKLA_117998 Number of predicted TMRs: 0
+SMCKLA_117998	inside	1	39				
+//
+# SMCKLA_4261 Length: 42
+# SMCKLA_4261 Number of predicted TMRs: 0
+SMCKLA_4261	signal	1	41				
+SMCKLA_4261	outside	42	42				
+//
+# SMCKLA_89721 Length: 39
+# SMCKLA_89721 Number of predicted TMRs: 0
+SMCKLA_89721	signal	1	38				
+SMCKLA_89721	outside	39	39				
+//
+# SMCKLA_79631 Length: 50
+# SMCKLA_79631 Number of predicted TMRs: 0
+SMCKLA_79631	inside	1	50				
+//
+# SMCKLA_145176 Length: 44
+# SMCKLA_145176 Number of predicted TMRs: 0
+SMCKLA_145176	inside	1	44				
+//
+# SMCKLA_108556 Length: 44
+# SMCKLA_108556 Number of predicted TMRs: 0
+SMCKLA_108556	signal	1	12				
+SMCKLA_108556	outside	13	44				
+//
+# SMCKLA_80640 Length: 36
+# SMCKLA_80640 Number of predicted TMRs: 0
+SMCKLA_80640	inside	1	36				
+//
+# SMCKLA_130687 Length: 36
+# SMCKLA_130687 Number of predicted TMRs: 0
+SMCKLA_130687	signal	1	20				
+SMCKLA_130687	outside	21	36				
+//
+# SMCKLA_10948 Length: 33
+# SMCKLA_10948 Number of predicted TMRs: 0
+SMCKLA_10948	signal	1	30				
+SMCKLA_10948	outside	31	33				
+//
+# SMCKLA_45148 Length: 50
+# SMCKLA_45148 Number of predicted TMRs: 0
+SMCKLA_45148	inside	1	50				
+//
+# SMCKLA_58914 Length: 49
+# SMCKLA_58914 Number of predicted TMRs: 0
+SMCKLA_58914	signal	1	48				
+SMCKLA_58914	outside	49	49				
+//
+# SMCKLA_52616 Length: 48
+# SMCKLA_52616 Number of predicted TMRs: 0
+SMCKLA_52616	inside	1	48				
+//
+# SMCKLA_41739 Length: 41
+# SMCKLA_41739 Number of predicted TMRs: 0
+SMCKLA_41739	signal	1	39				
+SMCKLA_41739	outside	40	41				
+//
+# SMCKLA_28630 Length: 43
+# SMCKLA_28630 Number of predicted TMRs: 0
+SMCKLA_28630	inside	1	43				
+//
+# SMCKLA_153008 Length: 40
+# SMCKLA_153008 Number of predicted TMRs: 0
+SMCKLA_153008	inside	1	40				
+//
+# SMCKLA_59192 Length: 48
+# SMCKLA_59192 Number of predicted TMRs: 0
+SMCKLA_59192	inside	1	48				
+//
+# SMCKLA_99977 Length: 37
+# SMCKLA_99977 Number of predicted TMRs: 0
+SMCKLA_99977	inside	1	37				
+//
+# SMCKLA_152729 Length: 39
+# SMCKLA_152729 Number of predicted TMRs: 0
+SMCKLA_152729	inside	1	39				
+//
+# SMCKLA_123283 Length: 47
+# SMCKLA_123283 Number of predicted TMRs: 0
+SMCKLA_123283	inside	1	47				
+//
+# SMCKLA_23661 Length: 32
+# SMCKLA_23661 Number of predicted TMRs: 0
+SMCKLA_23661	inside	1	32				
+//
+# SMCKLA_136136 Length: 44
+# SMCKLA_136136 Number of predicted TMRs: 0
+SMCKLA_136136	inside	1	44				
+//
+# SMCKLA_51863 Length: 34
+# SMCKLA_51863 Number of predicted TMRs: 0
+SMCKLA_51863	inside	1	34				
+//
+# SMCKLA_136634 Length: 43
+# SMCKLA_136634 Number of predicted TMRs: 0
+SMCKLA_136634	signal	1	26				
+SMCKLA_136634	outside	27	43				
+//
+# SMCKLA_103620 Length: 48
+# SMCKLA_103620 Number of predicted TMRs: 0
+SMCKLA_103620	inside	1	48				
+//
+# SMCKLA_148511 Length: 49
+# SMCKLA_148511 Number of predicted TMRs: 0
+SMCKLA_148511	signal	1	47				
+SMCKLA_148511	outside	48	49				
+//
+# SMCKLA_139681 Length: 44
+# SMCKLA_139681 Number of predicted TMRs: 0
+SMCKLA_139681	inside	1	44				
+//
+# SMCKLA_99855 Length: 43
+# SMCKLA_99855 Number of predicted TMRs: 0
+SMCKLA_99855	inside	1	43				
+//
+# SMCKLA_97992 Length: 37
+# SMCKLA_97992 Number of predicted TMRs: 0
+SMCKLA_97992	signal	1	30				
+SMCKLA_97992	outside	31	37				
+//
+# SMCKLA_110566 Length: 50
+# SMCKLA_110566 Number of predicted TMRs: 0
+SMCKLA_110566	inside	1	50				
+//
+# SMCKLA_111925 Length: 46
+# SMCKLA_111925 Number of predicted TMRs: 0
+SMCKLA_111925	inside	1	46				
+//
+# SMCKLA_11466 Length: 44
+# SMCKLA_11466 Number of predicted TMRs: 0
+SMCKLA_11466	inside	1	44				
+//
+# SMCKLA_167729 Length: 49
+# SMCKLA_167729 Number of predicted TMRs: 0
+SMCKLA_167729	inside	1	49				
+//
+# SMCKLA_121828 Length: 46
+# SMCKLA_121828 Number of predicted TMRs: 0
+SMCKLA_121828	inside	1	46				
+//
+# SMCKLA_122750 Length: 42
+# SMCKLA_122750 Number of predicted TMRs: 0
+SMCKLA_122750	inside	1	42				
+//
+# SMCKLA_147417 Length: 50
+# SMCKLA_147417 Number of predicted TMRs: 0
+SMCKLA_147417	inside	1	50				
+//
+# SMCKLA_37609 Length: 42
+# SMCKLA_37609 Number of predicted TMRs: 0
+SMCKLA_37609	inside	1	42				
+//
+# SMCKLA_17679 Length: 42
+# SMCKLA_17679 Number of predicted TMRs: 0
+SMCKLA_17679	inside	1	42				
+//
+# SMCKLA_75917 Length: 49
+# SMCKLA_75917 Number of predicted TMRs: 0
+SMCKLA_75917	signal	1	33				
+SMCKLA_75917	outside	34	49				
+//
+# SMCKLA_152974 Length: 43
+# SMCKLA_152974 Number of predicted TMRs: 0
+SMCKLA_152974	inside	1	43				
+//
+# SMCKLA_34619 Length: 43
+# SMCKLA_34619 Number of predicted TMRs: 0
+SMCKLA_34619	signal	1	42				
+SMCKLA_34619	outside	43	43				
+//
+# SMCKLA_63157 Length: 42
+# SMCKLA_63157 Number of predicted TMRs: 0
+SMCKLA_63157	signal	1	40				
+SMCKLA_63157	outside	41	42				
+//
+# SMCKLA_14693 Length: 40
+# SMCKLA_14693 Number of predicted TMRs: 0
+SMCKLA_14693	signal	1	39				
+SMCKLA_14693	outside	40	40				
+//
+# SMCKLA_34134 Length: 45
+# SMCKLA_34134 Number of predicted TMRs: 0
+SMCKLA_34134	inside	1	45				
+//
+# SMCKLA_39193 Length: 44
+# SMCKLA_39193 Number of predicted TMRs: 0
+SMCKLA_39193	signal	1	39				
+SMCKLA_39193	outside	40	44				
+//
+# SMCKLA_49892 Length: 39
+# SMCKLA_49892 Number of predicted TMRs: 0
+SMCKLA_49892	signal	1	36				
+SMCKLA_49892	outside	37	39				
+//
+# SMCKLA_71795 Length: 40
+# SMCKLA_71795 Number of predicted TMRs: 0
+SMCKLA_71795	signal	1	39				
+SMCKLA_71795	outside	40	40				
+//
+# SMCKLA_89356 Length: 49
+# SMCKLA_89356 Number of predicted TMRs: 0
+SMCKLA_89356	inside	1	49				
+//
+# SMCKLA_77976 Length: 44
+# SMCKLA_77976 Number of predicted TMRs: 0
+SMCKLA_77976	inside	1	44				
+//
+# SMCKLA_14299 Length: 47
+# SMCKLA_14299 Number of predicted TMRs: 0
+SMCKLA_14299	outside	1	47				
+//
+# SMCKLA_94576 Length: 33
+# SMCKLA_94576 Number of predicted TMRs: 0
+SMCKLA_94576	signal	1	32				
+SMCKLA_94576	outside	33	33				
+//
+# SMCKLA_148155 Length: 45
+# SMCKLA_148155 Number of predicted TMRs: 0
+SMCKLA_148155	inside	1	45				
+//
+# SMCKLA_91630 Length: 48
+# SMCKLA_91630 Number of predicted TMRs: 0
+SMCKLA_91630	inside	1	48				
+//
+# SMCKLA_93161 Length: 47
+# SMCKLA_93161 Number of predicted TMRs: 0
+SMCKLA_93161	signal	1	34				
+SMCKLA_93161	outside	35	47				
+//
+# SMCKLA_5104 Length: 38
+# SMCKLA_5104 Number of predicted TMRs: 0
+SMCKLA_5104	signal	1	32				
+SMCKLA_5104	outside	33	38				
+//
+# SMCKLA_16548 Length: 31
+# SMCKLA_16548 Number of predicted TMRs: 0
+SMCKLA_16548	signal	1	28				
+SMCKLA_16548	outside	29	31				
+//
+# SMCKLA_8505 Length: 44
+# SMCKLA_8505 Number of predicted TMRs: 0
+SMCKLA_8505	inside	1	44				
+//
+# SMCKLA_21057 Length: 46
+# SMCKLA_21057 Number of predicted TMRs: 0
+SMCKLA_21057	inside	1	46				
+//
+# SMCKLA_165687 Length: 46
+# SMCKLA_165687 Number of predicted TMRs: 0
+SMCKLA_165687	inside	1	46				
+//
+# SMCKLA_59085 Length: 49
+# SMCKLA_59085 Number of predicted TMRs: 0
+SMCKLA_59085	signal	1	19				
+SMCKLA_59085	outside	20	49				
+//
+# SMCKLA_138457 Length: 48
+# SMCKLA_138457 Number of predicted TMRs: 0
+SMCKLA_138457	signal	1	39				
+SMCKLA_138457	outside	40	48				
+//
+# SMCKLA_52357 Length: 41
+# SMCKLA_52357 Number of predicted TMRs: 0
+SMCKLA_52357	signal	1	33				
+SMCKLA_52357	outside	34	41				
+//
+# SMCKLA_6991 Length: 41
+# SMCKLA_6991 Number of predicted TMRs: 0
+SMCKLA_6991	inside	1	41				
+//
+# SMCKLA_103894 Length: 28
+# SMCKLA_103894 Number of predicted TMRs: 0
+SMCKLA_103894	signal	1	27				
+SMCKLA_103894	outside	28	28				
+//
+# SMCKLA_77630 Length: 47
+# SMCKLA_77630 Number of predicted TMRs: 0
+SMCKLA_77630	inside	1	47				
+//
+# SMCKLA_64531 Length: 48
+# SMCKLA_64531 Number of predicted TMRs: 0
+SMCKLA_64531	inside	1	48				
+//
+# SMCKLA_86803 Length: 49
+# SMCKLA_86803 Number of predicted TMRs: 0
+SMCKLA_86803	signal	1	12				
+SMCKLA_86803	outside	13	49				
+//
+# SMCKLA_131698 Length: 44
+# SMCKLA_131698 Number of predicted TMRs: 0
+SMCKLA_131698	inside	1	44				
+//
+# SMCKLA_170784 Length: 47
+# SMCKLA_170784 Number of predicted TMRs: 0
+SMCKLA_170784	inside	1	47				
+//
+# SMCKLA_146668 Length: 45
+# SMCKLA_146668 Number of predicted TMRs: 0
+SMCKLA_146668	signal	1	16				
+SMCKLA_146668	outside	17	45				
+//
+# SMCKLA_54554 Length: 46
+# SMCKLA_54554 Number of predicted TMRs: 0
+SMCKLA_54554	inside	1	46				
+//
+# SMCKLA_18140 Length: 48
+# SMCKLA_18140 Number of predicted TMRs: 0
+SMCKLA_18140	inside	1	48				
+//
+# SMCKLA_60193 Length: 47
+# SMCKLA_60193 Number of predicted TMRs: 0
+SMCKLA_60193	signal	1	38				
+SMCKLA_60193	outside	39	47				
+//
+# SMCKLA_31563 Length: 36
+# SMCKLA_31563 Number of predicted TMRs: 0
+SMCKLA_31563	signal	1	35				
+SMCKLA_31563	outside	36	36				
+//
+# SMCKLA_272 Length: 36
+# SMCKLA_272 Number of predicted TMRs: 0
+SMCKLA_272	signal	1	33				
+SMCKLA_272	outside	34	36				
+//
+# SMCKLA_332 Length: 36
+# SMCKLA_332 Number of predicted TMRs: 0
+SMCKLA_332	signal	1	35				
+SMCKLA_332	outside	36	36				
+//
+# SMCKLA_161841 Length: 39
+# SMCKLA_161841 Number of predicted TMRs: 0
+SMCKLA_161841	signal	1	38				
+SMCKLA_161841	outside	39	39				
+//
+# SMCKLA_83553 Length: 39
+# SMCKLA_83553 Number of predicted TMRs: 0
+SMCKLA_83553	signal	1	32				
+SMCKLA_83553	outside	33	39				
+//
+# SMCKLA_65679 Length: 48
+# SMCKLA_65679 Number of predicted TMRs: 0
+SMCKLA_65679	signal	1	25				
+SMCKLA_65679	outside	26	48				
+//
+# SMCKLA_65675 Length: 47
+# SMCKLA_65675 Number of predicted TMRs: 0
+SMCKLA_65675	signal	1	25				
+SMCKLA_65675	outside	26	47				
+//
+# SMCKLA_118426 Length: 44
+# SMCKLA_118426 Number of predicted TMRs: 0
+SMCKLA_118426	inside	1	44				
+//
+# SMCKLA_80823 Length: 42
+# SMCKLA_80823 Number of predicted TMRs: 0
+SMCKLA_80823	inside	1	42				
+//
+# SMCKLA_80825 Length: 50
+# SMCKLA_80825 Number of predicted TMRs: 0
+SMCKLA_80825	inside	1	50				
+//
+# SMCKLA_21074 Length: 47
+# SMCKLA_21074 Number of predicted TMRs: 0
+SMCKLA_21074	inside	1	47				
+//
+# SMCKLA_14798 Length: 42
+# SMCKLA_14798 Number of predicted TMRs: 0
+SMCKLA_14798	signal	1	41				
+SMCKLA_14798	outside	42	42				
+//
+# SMCKLA_73361 Length: 44
+# SMCKLA_73361 Number of predicted TMRs: 0
+SMCKLA_73361	signal	1	13				
+SMCKLA_73361	outside	14	44				
+//
+# SMCKLA_19658 Length: 47
+# SMCKLA_19658 Number of predicted TMRs: 0
+SMCKLA_19658	inside	1	47				
+//
+# SMCKLA_41649 Length: 41
+# SMCKLA_41649 Number of predicted TMRs: 0
+SMCKLA_41649	inside	1	41				
+//
+# SMCKLA_168326 Length: 46
+# SMCKLA_168326 Number of predicted TMRs: 0
+SMCKLA_168326	inside	1	46				
+//
+# SMCKLA_74424 Length: 29
+# SMCKLA_74424 Number of predicted TMRs: 0
+SMCKLA_74424	signal	1	28				
+SMCKLA_74424	outside	29	29				
+//
+# SMCKLA_69568 Length: 49
+# SMCKLA_69568 Number of predicted TMRs: 0
+SMCKLA_69568	inside	1	49				
+//
+# SMCKLA_15053 Length: 38
+# SMCKLA_15053 Number of predicted TMRs: 0
+SMCKLA_15053	signal	1	34				
+SMCKLA_15053	outside	35	38				
+//
+# SMCKLA_6415 Length: 43
+# SMCKLA_6415 Number of predicted TMRs: 0
+SMCKLA_6415	inside	1	43				
+//
+# SMCKLA_47290 Length: 45
+# SMCKLA_47290 Number of predicted TMRs: 0
+SMCKLA_47290	inside	1	45				
+//
+# SMCKLA_34872 Length: 50
+# SMCKLA_34872 Number of predicted TMRs: 0
+SMCKLA_34872	inside	1	50				
+//
+# SMCKLA_43631 Length: 42
+# SMCKLA_43631 Number of predicted TMRs: 0
+SMCKLA_43631	inside	1	42				
+//
+# SMCKLA_43669 Length: 48
+# SMCKLA_43669 Number of predicted TMRs: 0
+SMCKLA_43669	outside	1	48				
+//
+# SMCKLA_83784 Length: 46
+# SMCKLA_83784 Number of predicted TMRs: 0
+SMCKLA_83784	inside	1	46				
+//
+# SMCKLA_84036 Length: 47
+# SMCKLA_84036 Number of predicted TMRs: 0
+SMCKLA_84036	inside	1	47				
+//
+# SMCKLA_54985 Length: 46
+# SMCKLA_54985 Number of predicted TMRs: 0
+SMCKLA_54985	inside	1	46				
+//
+# SMCKLA_78347 Length: 35
+# SMCKLA_78347 Number of predicted TMRs: 0
+SMCKLA_78347	inside	1	35				
+//
+# SMCKLA_41426 Length: 37
+# SMCKLA_41426 Number of predicted TMRs: 0
+SMCKLA_41426	signal	1	36				
+SMCKLA_41426	outside	37	37				
+//
+# SMCKLA_108480 Length: 49
+# SMCKLA_108480 Number of predicted TMRs: 0
+SMCKLA_108480	inside	1	49				
+//
+# SMCKLA_123805 Length: 37
+# SMCKLA_123805 Number of predicted TMRs: 0
+SMCKLA_123805	inside	1	37				
+//
+# SMCKLA_82797 Length: 34
+# SMCKLA_82797 Number of predicted TMRs: 0
+SMCKLA_82797	inside	1	34				
+//
+# SMCKLA_10259 Length: 45
+# SMCKLA_10259 Number of predicted TMRs: 0
+SMCKLA_10259	inside	1	45				
+//
+# SMCKLA_10244 Length: 45
+# SMCKLA_10244 Number of predicted TMRs: 0
+SMCKLA_10244	inside	1	45				
+//
+# SMCKLA_54802 Length: 43
+# SMCKLA_54802 Number of predicted TMRs: 0
+SMCKLA_54802	inside	1	43				
+//
+# SMCKLA_74430 Length: 30
+# SMCKLA_74430 Number of predicted TMRs: 0
+SMCKLA_74430	inside	1	30				
+//
+# SMCKLA_94828 Length: 45
+# SMCKLA_94828 Number of predicted TMRs: 0
+SMCKLA_94828	inside	1	45				
+//
+# SMCKLA_12308 Length: 40
+# SMCKLA_12308 Number of predicted TMRs: 0
+SMCKLA_12308	inside	1	40				
+//
+# SMCKLA_141042 Length: 46
+# SMCKLA_141042 Number of predicted TMRs: 0
+SMCKLA_141042	inside	1	46				
+//
+# SMCKLA_141048 Length: 46
+# SMCKLA_141048 Number of predicted TMRs: 0
+SMCKLA_141048	inside	1	46				
+//
+# SMCKLA_1493 Length: 32
+# SMCKLA_1493 Number of predicted TMRs: 0
+SMCKLA_1493	inside	1	32				
+//
+# SMCKLA_132165 Length: 48
+# SMCKLA_132165 Number of predicted TMRs: 0
+SMCKLA_132165	inside	1	48				
+//
+# SMCKLA_74436 Length: 45
+# SMCKLA_74436 Number of predicted TMRs: 0
+SMCKLA_74436	signal	1	10				
+SMCKLA_74436	outside	11	45				
+//
+# SMCKLA_130173 Length: 50
+# SMCKLA_130173 Number of predicted TMRs: 0
+SMCKLA_130173	inside	1	50				
+//
+# SMCKLA_132456 Length: 30
+# SMCKLA_132456 Number of predicted TMRs: 0
+SMCKLA_132456	inside	1	30				
+//
+# SMCKLA_17699 Length: 46
+# SMCKLA_17699 Number of predicted TMRs: 0
+SMCKLA_17699	inside	1	46				
+//
+# SMCKLA_168183 Length: 43
+# SMCKLA_168183 Number of predicted TMRs: 0
+SMCKLA_168183	inside	1	43				
+//
+# SMCKLA_112149 Length: 37
+# SMCKLA_112149 Number of predicted TMRs: 0
+SMCKLA_112149	inside	1	37				
+//
+# SMCKLA_126954 Length: 49
+# SMCKLA_126954 Number of predicted TMRs: 0
+SMCKLA_126954	inside	1	49				
+//
+# SMCKLA_3285 Length: 36
+# SMCKLA_3285 Number of predicted TMRs: 0
+SMCKLA_3285	signal	1	10				
+SMCKLA_3285	outside	11	36				
+//
+# SMCKLA_111905 Length: 50
+# SMCKLA_111905 Number of predicted TMRs: 0
+SMCKLA_111905	inside	1	50				
+//
+# SMCKLA_2344 Length: 49
+# SMCKLA_2344 Number of predicted TMRs: 0
+SMCKLA_2344	inside	1	49				
+//
+# SMCKLA_155094 Length: 48
+# SMCKLA_155094 Number of predicted TMRs: 0
+SMCKLA_155094	inside	1	48				
+//
+# SMCKLA_136586 Length: 42
+# SMCKLA_136586 Number of predicted TMRs: 0
+SMCKLA_136586	inside	1	42				
+//
+# SMCKLA_47250 Length: 48
+# SMCKLA_47250 Number of predicted TMRs: 0
+SMCKLA_47250	inside	1	48				
+//
+# SMCKLA_24056 Length: 38
+# SMCKLA_24056 Number of predicted TMRs: 0
+SMCKLA_24056	signal	1	37				
+SMCKLA_24056	outside	38	38				
+//
+# SMCKLA_18757 Length: 36
+# SMCKLA_18757 Number of predicted TMRs: 0
+SMCKLA_18757	inside	1	36				
+//
+# SMCKLA_33015 Length: 42
+# SMCKLA_33015 Number of predicted TMRs: 0
+SMCKLA_33015	signal	1	31				
+SMCKLA_33015	outside	32	42				
+//
+# SMCKLA_86315 Length: 44
+# SMCKLA_86315 Number of predicted TMRs: 0
+SMCKLA_86315	inside	1	44				
+//
+# SMCKLA_82412 Length: 39
+# SMCKLA_82412 Number of predicted TMRs: 0
+SMCKLA_82412	signal	1	38				
+SMCKLA_82412	outside	39	39				
+//
+# SMCKLA_136241 Length: 47
+# SMCKLA_136241 Number of predicted TMRs: 0
+SMCKLA_136241	inside	1	47				
+//
+# SMCKLA_137996 Length: 45
+# SMCKLA_137996 Number of predicted TMRs: 0
+SMCKLA_137996	inside	1	45				
+//
+# SMCKLA_162524 Length: 45
+# SMCKLA_162524 Number of predicted TMRs: 0
+SMCKLA_162524	inside	1	45				
+//
+# SMCKLA_142861 Length: 50
+# SMCKLA_142861 Number of predicted TMRs: 0
+SMCKLA_142861	signal	1	12				
+SMCKLA_142861	outside	13	50				
+//
+# SMCKLA_97593 Length: 39
+# SMCKLA_97593 Number of predicted TMRs: 0
+SMCKLA_97593	signal	1	38				
+SMCKLA_97593	outside	39	39				
+//
+# SMCKLA_119583 Length: 37
+# SMCKLA_119583 Number of predicted TMRs: 0
+SMCKLA_119583	signal	1	36				
+SMCKLA_119583	outside	37	37				
+//
+# SMCKLA_77432 Length: 50
+# SMCKLA_77432 Number of predicted TMRs: 0
+SMCKLA_77432	inside	1	50				
+//
+# SMCKLA_154495 Length: 38
+# SMCKLA_154495 Number of predicted TMRs: 0
+SMCKLA_154495	inside	1	38				
+//
+# SMCKLA_90968 Length: 46
+# SMCKLA_90968 Number of predicted TMRs: 0
+SMCKLA_90968	signal	1	10				
+SMCKLA_90968	outside	11	46				
+//
+# SMCKLA_79914 Length: 50
+# SMCKLA_79914 Number of predicted TMRs: 0
+SMCKLA_79914	inside	1	50				
+//
+# SMCKLA_143891 Length: 39
+# SMCKLA_143891 Number of predicted TMRs: 0
+SMCKLA_143891	inside	1	39				
+//
+# SMCKLA_129095 Length: 45
+# SMCKLA_129095 Number of predicted TMRs: 0
+SMCKLA_129095	inside	1	45				
+//
+# SMCKLA_5330 Length: 38
+# SMCKLA_5330 Number of predicted TMRs: 0
+SMCKLA_5330	inside	1	38				
+//
+# SMCKLA_23614 Length: 42
+# SMCKLA_23614 Number of predicted TMRs: 0
+SMCKLA_23614	signal	1	40				
+SMCKLA_23614	outside	41	42				
+//
+# SMCKLA_49492 Length: 43
+# SMCKLA_49492 Number of predicted TMRs: 0
+SMCKLA_49492	inside	1	43				
+//
+# SMCKLA_15965 Length: 47
+# SMCKLA_15965 Number of predicted TMRs: 0
+SMCKLA_15965	outside	1	47				
+//
+# SMCKLA_78743 Length: 44
+# SMCKLA_78743 Number of predicted TMRs: 0
+SMCKLA_78743	signal	1	43				
+SMCKLA_78743	outside	44	44				
+//
+# SMCKLA_106685 Length: 46
+# SMCKLA_106685 Number of predicted TMRs: 0
+SMCKLA_106685	inside	1	46				
+//
+# SMCKLA_125832 Length: 43
+# SMCKLA_125832 Number of predicted TMRs: 0
+SMCKLA_125832	inside	1	43				
+//
+# SMCKLA_5314 Length: 48
+# SMCKLA_5314 Number of predicted TMRs: 0
+SMCKLA_5314	inside	1	48				
+//
+# SMCKLA_123011 Length: 36
+# SMCKLA_123011 Number of predicted TMRs: 0
+SMCKLA_123011	signal	1	26				
+SMCKLA_123011	outside	27	36				
+//
+# SMCKLA_147058 Length: 50
+# SMCKLA_147058 Number of predicted TMRs: 0
+SMCKLA_147058	inside	1	50				
+//
+# SMCKLA_66330 Length: 42
+# SMCKLA_66330 Number of predicted TMRs: 0
+SMCKLA_66330	signal	1	34				
+SMCKLA_66330	outside	35	42				
+//
+# SMCKLA_126016 Length: 50
+# SMCKLA_126016 Number of predicted TMRs: 0
+SMCKLA_126016	inside	1	50				
+//
+# SMCKLA_132021 Length: 43
+# SMCKLA_132021 Number of predicted TMRs: 0
+SMCKLA_132021	signal	1	10				
+SMCKLA_132021	outside	11	43				
+//
+# SMCKLA_153811 Length: 45
+# SMCKLA_153811 Number of predicted TMRs: 0
+SMCKLA_153811	inside	1	45				
+//
+# SMCKLA_43508 Length: 38
+# SMCKLA_43508 Number of predicted TMRs: 0
+SMCKLA_43508	inside	1	38				
+//
+# SMCKLA_126238 Length: 50
+# SMCKLA_126238 Number of predicted TMRs: 0
+SMCKLA_126238	inside	1	50				
+//
+# SMCKLA_48622 Length: 45
+# SMCKLA_48622 Number of predicted TMRs: 0
+SMCKLA_48622	inside	1	45				
+//
+# SMCKLA_144766 Length: 48
+# SMCKLA_144766 Number of predicted TMRs: 0
+SMCKLA_144766	inside	1	48				
+//
+# SMCKLA_153930 Length: 45
+# SMCKLA_153930 Number of predicted TMRs: 0
+SMCKLA_153930	signal	1	10				
+SMCKLA_153930	outside	11	45				
+//
+# SMCKLA_101108 Length: 49
+# SMCKLA_101108 Number of predicted TMRs: 0
+SMCKLA_101108	inside	1	49				
+//
+# SMCKLA_34775 Length: 32
+# SMCKLA_34775 Number of predicted TMRs: 0
+SMCKLA_34775	signal	1	30				
+SMCKLA_34775	outside	31	32				
+//
+# SMCKLA_168017 Length: 46
+# SMCKLA_168017 Number of predicted TMRs: 0
+SMCKLA_168017	inside	1	46				
+//
+# SMCKLA_42697 Length: 44
+# SMCKLA_42697 Number of predicted TMRs: 0
+SMCKLA_42697	signal	1	43				
+SMCKLA_42697	outside	44	44				
+//
+# SMCKLA_125485 Length: 50
+# SMCKLA_125485 Number of predicted TMRs: 0
+SMCKLA_125485	inside	1	50				
+//
+# SMCKLA_31711 Length: 43
+# SMCKLA_31711 Number of predicted TMRs: 0
+SMCKLA_31711	signal	1	32				
+SMCKLA_31711	outside	33	43				
+//
+# SMCKLA_133274 Length: 41
+# SMCKLA_133274 Number of predicted TMRs: 0
+SMCKLA_133274	inside	1	41				
+//
+# SMCKLA_29333 Length: 42
+# SMCKLA_29333 Number of predicted TMRs: 0
+SMCKLA_29333	inside	1	42				
+//
+# SMCKLA_164358 Length: 42
+# SMCKLA_164358 Number of predicted TMRs: 0
+SMCKLA_164358	signal	1	34				
+SMCKLA_164358	outside	35	42				
+//
+# SMCKLA_62710 Length: 45
+# SMCKLA_62710 Number of predicted TMRs: 0
+SMCKLA_62710	inside	1	45				
+//
+# SMCKLA_138696 Length: 42
+# SMCKLA_138696 Number of predicted TMRs: 0
+SMCKLA_138696	inside	1	42				
+//
+# SMCKLA_166262 Length: 40
+# SMCKLA_166262 Number of predicted TMRs: 0
+SMCKLA_166262	inside	1	40				
+//
+# SMCKLA_104946 Length: 36
+# SMCKLA_104946 Number of predicted TMRs: 0
+SMCKLA_104946	inside	1	36				
+//
+# SMCKLA_70071 Length: 50
+# SMCKLA_70071 Number of predicted TMRs: 0
+SMCKLA_70071	inside	1	50				
+//
+# SMCKLA_76057 Length: 45
+# SMCKLA_76057 Number of predicted TMRs: 0
+SMCKLA_76057	signal	1	37				
+SMCKLA_76057	outside	38	45				
+//
+# SMCKLA_81794 Length: 50
+# SMCKLA_81794 Number of predicted TMRs: 0
+SMCKLA_81794	inside	1	50				
+//
+# SMCKLA_164529 Length: 49
+# SMCKLA_164529 Number of predicted TMRs: 0
+SMCKLA_164529	inside	1	49				
+//
+# SMCKLA_89937 Length: 39
+# SMCKLA_89937 Number of predicted TMRs: 0
+SMCKLA_89937	inside	1	39				
+//
+# SMCKLA_172079 Length: 48
+# SMCKLA_172079 Number of predicted TMRs: 0
+SMCKLA_172079	inside	1	48				
+//
+# SMCKLA_164607 Length: 38
+# SMCKLA_164607 Number of predicted TMRs: 0
+SMCKLA_164607	signal	1	37				
+SMCKLA_164607	outside	38	38				
+//
+# SMCKLA_140003 Length: 38
+# SMCKLA_140003 Number of predicted TMRs: 0
+SMCKLA_140003	signal	1	33				
+SMCKLA_140003	outside	34	38				
+//
+# SMCKLA_105023 Length: 42
+# SMCKLA_105023 Number of predicted TMRs: 0
+SMCKLA_105023	signal	1	34				
+SMCKLA_105023	outside	35	42				
+//
+# SMCKLA_165047 Length: 37
+# SMCKLA_165047 Number of predicted TMRs: 0
+SMCKLA_165047	signal	1	36				
+SMCKLA_165047	outside	37	37				
+//
+# SMCKLA_136475 Length: 45
+# SMCKLA_136475 Number of predicted TMRs: 0
+SMCKLA_136475	signal	1	44				
+SMCKLA_136475	outside	45	45				
+//
+# SMCKLA_32109 Length: 47
+# SMCKLA_32109 Number of predicted TMRs: 0
+SMCKLA_32109	inside	1	47				
+//
+# SMCKLA_139743 Length: 37
+# SMCKLA_139743 Number of predicted TMRs: 0
+SMCKLA_139743	signal	1	36				
+SMCKLA_139743	outside	37	37				
+//
+# SMCKLA_11848 Length: 43
+# SMCKLA_11848 Number of predicted TMRs: 0
+SMCKLA_11848	inside	1	43				
+//
+# SMCKLA_14964 Length: 43
+# SMCKLA_14964 Number of predicted TMRs: 0
+SMCKLA_14964	signal	1	35				
+SMCKLA_14964	outside	36	43				
+//
+# SMCKLA_99793 Length: 44
+# SMCKLA_99793 Number of predicted TMRs: 0
+SMCKLA_99793	inside	1	44				
+//
+# SMCKLA_83426 Length: 38
+# SMCKLA_83426 Number of predicted TMRs: 0
+SMCKLA_83426	signal	1	10				
+SMCKLA_83426	outside	11	38				
+//
+# SMCKLA_135007 Length: 44
+# SMCKLA_135007 Number of predicted TMRs: 0
+SMCKLA_135007	inside	1	44				
+//
+# SMCKLA_145388 Length: 42
+# SMCKLA_145388 Number of predicted TMRs: 0
+SMCKLA_145388	inside	1	42				
+//
+# SMCKLA_41237 Length: 41
+# SMCKLA_41237 Number of predicted TMRs: 0
+SMCKLA_41237	inside	1	41				
+//
+# SMCKLA_28127 Length: 40
+# SMCKLA_28127 Number of predicted TMRs: 0
+SMCKLA_28127	signal	1	39				
+SMCKLA_28127	outside	40	40				
+//
+# SMCKLA_80172 Length: 48
+# SMCKLA_80172 Number of predicted TMRs: 0
+SMCKLA_80172	signal	1	47				
+SMCKLA_80172	outside	48	48				
+//
+# SMCKLA_169892 Length: 50
+# SMCKLA_169892 Number of predicted TMRs: 0
+SMCKLA_169892	inside	1	50				
+//
+# SMCKLA_134220 Length: 50
+# SMCKLA_134220 Number of predicted TMRs: 0
+SMCKLA_134220	inside	1	50				
+//
+# SMCKLA_4726 Length: 38
+# SMCKLA_4726 Number of predicted TMRs: 0
+SMCKLA_4726	signal	1	37				
+SMCKLA_4726	outside	38	38				
+//
+# SMCKLA_126067 Length: 50
+# SMCKLA_126067 Number of predicted TMRs: 0
+SMCKLA_126067	signal	1	49				
+SMCKLA_126067	outside	50	50				
+//
+# SMCKLA_69476 Length: 45
+# SMCKLA_69476 Number of predicted TMRs: 0
+SMCKLA_69476	outside	1	45				
+//
+# SMCKLA_147261 Length: 41
+# SMCKLA_147261 Number of predicted TMRs: 0
+SMCKLA_147261	inside	1	41				
+//
+# SMCKLA_98255 Length: 32
+# SMCKLA_98255 Number of predicted TMRs: 0
+SMCKLA_98255	signal	1	23				
+SMCKLA_98255	outside	24	32				
+//
+# SMCKLA_138848 Length: 39
+# SMCKLA_138848 Number of predicted TMRs: 0
+SMCKLA_138848	signal	1	38				
+SMCKLA_138848	outside	39	39				
+//
+# SMCKLA_72566 Length: 41
+# SMCKLA_72566 Number of predicted TMRs: 0
+SMCKLA_72566	signal	1	39				
+SMCKLA_72566	outside	40	41				
+//
+# SMCKLA_65689 Length: 44
+# SMCKLA_65689 Number of predicted TMRs: 0
+SMCKLA_65689	inside	1	44				
+//
+# SMCKLA_122018 Length: 38
+# SMCKLA_122018 Number of predicted TMRs: 0
+SMCKLA_122018	signal	1	31				
+SMCKLA_122018	outside	32	38				
+//
+# SMCKLA_65291 Length: 46
+# SMCKLA_65291 Number of predicted TMRs: 0
+SMCKLA_65291	inside	1	46				
+//
+# SMCKLA_98158 Length: 46
+# SMCKLA_98158 Number of predicted TMRs: 0
+SMCKLA_98158	inside	1	46				
+//
+# SMCKLA_157613 Length: 39
+# SMCKLA_157613 Number of predicted TMRs: 0
+SMCKLA_157613	signal	1	37				
+SMCKLA_157613	outside	38	39				
+//
+# SMCKLA_109954 Length: 50
+# SMCKLA_109954 Number of predicted TMRs: 0
+SMCKLA_109954	signal	1	34				
+SMCKLA_109954	outside	35	50				
+//
+# SMCKLA_164454 Length: 48
+# SMCKLA_164454 Number of predicted TMRs: 0
+SMCKLA_164454	signal	1	36				
+SMCKLA_164454	outside	37	48				
+//
+# SMCKLA_143042 Length: 38
+# SMCKLA_143042 Number of predicted TMRs: 0
+SMCKLA_143042	signal	1	37				
+SMCKLA_143042	outside	38	38				
+//
+# SMCKLA_123149 Length: 40
+# SMCKLA_123149 Number of predicted TMRs: 0
+SMCKLA_123149	inside	1	40				
+//
+# SMCKLA_50575 Length: 42
+# SMCKLA_50575 Number of predicted TMRs: 0
+SMCKLA_50575	signal	1	41				
+SMCKLA_50575	outside	42	42				
+//
+# SMCKLA_97021 Length: 32
+# SMCKLA_97021 Number of predicted TMRs: 0
+SMCKLA_97021	inside	1	32				
+//
+# SMCKLA_159600 Length: 48
+# SMCKLA_159600 Number of predicted TMRs: 0
+SMCKLA_159600	inside	1	48				
+//
+# SMCKLA_74457 Length: 50
+# SMCKLA_74457 Number of predicted TMRs: 0
+SMCKLA_74457	inside	1	50				
+//
+# SMCKLA_126389 Length: 47
+# SMCKLA_126389 Number of predicted TMRs: 0
+SMCKLA_126389	inside	1	47				
+//
+# SMCKLA_117750 Length: 45
+# SMCKLA_117750 Number of predicted TMRs: 0
+SMCKLA_117750	inside	1	45				
+//
+# SMCKLA_3278 Length: 46
+# SMCKLA_3278 Number of predicted TMRs: 0
+SMCKLA_3278	inside	1	46				
+//
+# SMCKLA_80373 Length: 50
+# SMCKLA_80373 Number of predicted TMRs: 0
+SMCKLA_80373	outside	1	50				
+//
+# SMCKLA_93738 Length: 42
+# SMCKLA_93738 Number of predicted TMRs: 0
+SMCKLA_93738	inside	1	42				
+//
+# SMCKLA_79028 Length: 43
+# SMCKLA_79028 Number of predicted TMRs: 0
+SMCKLA_79028	signal	1	22				
+SMCKLA_79028	outside	23	43				
+//
+# SMCKLA_58341 Length: 44
+# SMCKLA_58341 Number of predicted TMRs: 0
+SMCKLA_58341	signal	1	38				
+SMCKLA_58341	outside	39	44				
+//
+# SMCKLA_163445 Length: 42
+# SMCKLA_163445 Number of predicted TMRs: 0
+SMCKLA_163445	inside	1	42				
+//
+# SMCKLA_106596 Length: 41
+# SMCKLA_106596 Number of predicted TMRs: 0
+SMCKLA_106596	signal	1	39				
+SMCKLA_106596	outside	40	41				
+//
+# SMCKLA_145232 Length: 48
+# SMCKLA_145232 Number of predicted TMRs: 0
+SMCKLA_145232	inside	1	48				
+//
+# SMCKLA_50670 Length: 50
+# SMCKLA_50670 Number of predicted TMRs: 0
+SMCKLA_50670	signal	1	40				
+SMCKLA_50670	outside	41	50				
+//
+# SMCKLA_51402 Length: 46
+# SMCKLA_51402 Number of predicted TMRs: 0
+SMCKLA_51402	inside	1	46				
+//
+# SMCKLA_71240 Length: 42
+# SMCKLA_71240 Number of predicted TMRs: 0
+SMCKLA_71240	inside	1	42				
+//
+# SMCKLA_129315 Length: 41
+# SMCKLA_129315 Number of predicted TMRs: 0
+SMCKLA_129315	signal	1	39				
+SMCKLA_129315	outside	40	41				
+//
+# SMCKLA_70168 Length: 49
+# SMCKLA_70168 Number of predicted TMRs: 0
+SMCKLA_70168	inside	1	49				
+//
+# SMCKLA_35522 Length: 45
+# SMCKLA_35522 Number of predicted TMRs: 0
+SMCKLA_35522	signal	1	21				
+SMCKLA_35522	outside	22	45				
+//
+# SMCKLA_92281 Length: 46
+# SMCKLA_92281 Number of predicted TMRs: 0
+SMCKLA_92281	inside	1	46				
+//
+# SMCKLA_14699 Length: 39
+# SMCKLA_14699 Number of predicted TMRs: 0
+SMCKLA_14699	inside	1	39				
+//
+# SMCKLA_131659 Length: 45
+# SMCKLA_131659 Number of predicted TMRs: 0
+SMCKLA_131659	inside	1	45				
+//
+# SMCKLA_105563 Length: 41
+# SMCKLA_105563 Number of predicted TMRs: 0
+SMCKLA_105563	inside	1	41				
+//
+# SMCKLA_129554 Length: 42
+# SMCKLA_129554 Number of predicted TMRs: 0
+SMCKLA_129554	inside	1	42				
+//
+# SMCKLA_69620 Length: 42
+# SMCKLA_69620 Number of predicted TMRs: 0
+SMCKLA_69620	signal	1	34				
+SMCKLA_69620	outside	35	42				
+//
+# SMCKLA_163491 Length: 43
+# SMCKLA_163491 Number of predicted TMRs: 0
+SMCKLA_163491	inside	1	43				
+//
+# SMCKLA_149513 Length: 48
+# SMCKLA_149513 Number of predicted TMRs: 0
+SMCKLA_149513	signal	1	24				
+SMCKLA_149513	outside	25	48				
+//
+# SMCKLA_76138 Length: 37
+# SMCKLA_76138 Number of predicted TMRs: 0
+SMCKLA_76138	inside	1	37				
+//
+# SMCKLA_75366 Length: 41
+# SMCKLA_75366 Number of predicted TMRs: 0
+SMCKLA_75366	inside	1	41				
+//
+# SMCKLA_168647 Length: 36
+# SMCKLA_168647 Number of predicted TMRs: 0
+SMCKLA_168647	inside	1	36				
+//
+# SMCKLA_3637 Length: 43
+# SMCKLA_3637 Number of predicted TMRs: 0
+SMCKLA_3637	inside	1	43				
+//
+# SMCKLA_30806 Length: 45
+# SMCKLA_30806 Number of predicted TMRs: 0
+SMCKLA_30806	inside	1	45				
+//
+# SMCKLA_9116 Length: 46
+# SMCKLA_9116 Number of predicted TMRs: 0
+SMCKLA_9116	inside	1	46				
+//
+# SMCKLA_56047 Length: 47
+# SMCKLA_56047 Number of predicted TMRs: 0
+SMCKLA_56047	inside	1	47				
+//
+# SMCKLA_34910 Length: 48
+# SMCKLA_34910 Number of predicted TMRs: 0
+SMCKLA_34910	inside	1	48				
+//
+# SMCKLA_60930 Length: 50
+# SMCKLA_60930 Number of predicted TMRs: 0
+SMCKLA_60930	inside	1	50				
+//
+# SMCKLA_89371 Length: 40
+# SMCKLA_89371 Number of predicted TMRs: 0
+SMCKLA_89371	inside	1	40				
+//
+# SMCKLA_119920 Length: 49
+# SMCKLA_119920 Number of predicted TMRs: 0
+SMCKLA_119920	inside	1	49				
+//
+# SMCKLA_121275 Length: 34
+# SMCKLA_121275 Number of predicted TMRs: 0
+SMCKLA_121275	inside	1	34				
+//
+# SMCKLA_34758 Length: 49
+# SMCKLA_34758 Number of predicted TMRs: 0
+SMCKLA_34758	inside	1	49				
+//
+# SMCKLA_4894 Length: 32
+# SMCKLA_4894 Number of predicted TMRs: 0
+SMCKLA_4894	inside	1	32				
+//
+# SMCKLA_146989 Length: 43
+# SMCKLA_146989 Number of predicted TMRs: 0
+SMCKLA_146989	outside	1	43				
+//
+# SMCKLA_39707 Length: 50
+# SMCKLA_39707 Number of predicted TMRs: 0
+SMCKLA_39707	inside	1	50				
+//
+# SMCKLA_164774 Length: 48
+# SMCKLA_164774 Number of predicted TMRs: 0
+SMCKLA_164774	inside	1	48				
+//
+# SMCKLA_148707 Length: 50
+# SMCKLA_148707 Number of predicted TMRs: 0
+SMCKLA_148707	inside	1	50				
+//
+# SMCKLA_163707 Length: 40
+# SMCKLA_163707 Number of predicted TMRs: 0
+SMCKLA_163707	signal	1	31				
+SMCKLA_163707	outside	32	40				
+//
+# SMCKLA_148746 Length: 50
+# SMCKLA_148746 Number of predicted TMRs: 0
+SMCKLA_148746	inside	1	50				
+//
+# SMCKLA_106141 Length: 50
+# SMCKLA_106141 Number of predicted TMRs: 0
+SMCKLA_106141	inside	1	50				
+//
+# SMCKLA_137760 Length: 45
+# SMCKLA_137760 Number of predicted TMRs: 0
+SMCKLA_137760	inside	1	45				
+//
+# SMCKLA_64596 Length: 46
+# SMCKLA_64596 Number of predicted TMRs: 0
+SMCKLA_64596	inside	1	46				
+//
+# SMCKLA_111810 Length: 46
+# SMCKLA_111810 Number of predicted TMRs: 0
+SMCKLA_111810	signal	1	17				
+SMCKLA_111810	outside	18	46				
+//
+# SMCKLA_144145 Length: 50
+# SMCKLA_144145 Number of predicted TMRs: 0
+SMCKLA_144145	inside	1	50				
+//
+# SMCKLA_92927 Length: 43
+# SMCKLA_92927 Number of predicted TMRs: 0
+SMCKLA_92927	inside	1	43				
+//
+# SMCKLA_148768 Length: 48
+# SMCKLA_148768 Number of predicted TMRs: 0
+SMCKLA_148768	signal	1	26				
+SMCKLA_148768	outside	27	48				
+//
+# SMCKLA_9261 Length: 45
+# SMCKLA_9261 Number of predicted TMRs: 0
+SMCKLA_9261	signal	1	34				
+SMCKLA_9261	outside	35	45				
+//
+# SMCKLA_14310 Length: 27
+# SMCKLA_14310 Number of predicted TMRs: 0
+SMCKLA_14310	inside	1	27				
+//
+# SMCKLA_132301 Length: 42
+# SMCKLA_132301 Number of predicted TMRs: 0
+SMCKLA_132301	inside	1	42				
+//
+# SMCKLA_17586 Length: 38
+# SMCKLA_17586 Number of predicted TMRs: 0
+SMCKLA_17586	signal	1	37				
+SMCKLA_17586	outside	38	38				
+//
+# SMCKLA_19091 Length: 46
+# SMCKLA_19091 Number of predicted TMRs: 0
+SMCKLA_19091	signal	1	35				
+SMCKLA_19091	outside	36	46				
+//
+# SMCKLA_51769 Length: 49
+# SMCKLA_51769 Number of predicted TMRs: 0
+SMCKLA_51769	inside	1	49				
+//
+# SMCKLA_133224 Length: 49
+# SMCKLA_133224 Number of predicted TMRs: 0
+SMCKLA_133224	inside	1	49				
+//
+# SMCKLA_30054 Length: 47
+# SMCKLA_30054 Number of predicted TMRs: 0
+SMCKLA_30054	inside	1	47				
+//
+# SMCKLA_19255 Length: 38
+# SMCKLA_19255 Number of predicted TMRs: 0
+SMCKLA_19255	signal	1	35				
+SMCKLA_19255	outside	36	38				
+//
+# SMCKLA_46279 Length: 47
+# SMCKLA_46279 Number of predicted TMRs: 0
+SMCKLA_46279	inside	1	47				
+//
+# SMCKLA_125047 Length: 49
+# SMCKLA_125047 Number of predicted TMRs: 0
+SMCKLA_125047	inside	1	49				
+//
+# SMCKLA_83560 Length: 45
+# SMCKLA_83560 Number of predicted TMRs: 0
+SMCKLA_83560	inside	1	45				
+//
+# SMCKLA_138726 Length: 46
+# SMCKLA_138726 Number of predicted TMRs: 0
+SMCKLA_138726	inside	1	46				
+//
+# SMCKLA_135392 Length: 43
+# SMCKLA_135392 Number of predicted TMRs: 0
+SMCKLA_135392	inside	1	43				
+//
+# SMCKLA_2446 Length: 50
+# SMCKLA_2446 Number of predicted TMRs: 0
+SMCKLA_2446	inside	1	50				
+//
+# SMCKLA_110765 Length: 31
+# SMCKLA_110765 Number of predicted TMRs: 0
+SMCKLA_110765	signal	1	13				
+SMCKLA_110765	outside	14	31				
+//
+# SMCKLA_9098 Length: 50
+# SMCKLA_9098 Number of predicted TMRs: 0
+SMCKLA_9098	inside	1	50				
+//
+# SMCKLA_70033 Length: 40
+# SMCKLA_70033 Number of predicted TMRs: 0
+SMCKLA_70033	inside	1	40				
+//
+# SMCKLA_9342 Length: 50
+# SMCKLA_9342 Number of predicted TMRs: 0
+SMCKLA_9342	inside	1	50				
+//
+# SMCKLA_168699 Length: 48
+# SMCKLA_168699 Number of predicted TMRs: 0
+SMCKLA_168699	inside	1	48				
+//
+# SMCKLA_42980 Length: 36
+# SMCKLA_42980 Number of predicted TMRs: 0
+SMCKLA_42980	signal	1	33				
+SMCKLA_42980	outside	34	36				
+//
+# SMCKLA_27368 Length: 48
+# SMCKLA_27368 Number of predicted TMRs: 0
+SMCKLA_27368	inside	1	48				
+//
+# SMCKLA_167501 Length: 43
+# SMCKLA_167501 Number of predicted TMRs: 0
+SMCKLA_167501	inside	1	43				
+//
+# SMCKLA_118145 Length: 49
+# SMCKLA_118145 Number of predicted TMRs: 0
+SMCKLA_118145	signal	1	47				
+SMCKLA_118145	outside	48	49				
+//
+# SMCKLA_42447 Length: 42
+# SMCKLA_42447 Number of predicted TMRs: 0
+SMCKLA_42447	signal	1	18				
+SMCKLA_42447	outside	19	42				
+//
+# SMCKLA_71931 Length: 39
+# SMCKLA_71931 Number of predicted TMRs: 0
+SMCKLA_71931	inside	1	39				
+//
+# SMCKLA_143527 Length: 39
+# SMCKLA_143527 Number of predicted TMRs: 0
+SMCKLA_143527	inside	1	39				
+//
+# SMCKLA_171276 Length: 50
+# SMCKLA_171276 Number of predicted TMRs: 0
+SMCKLA_171276	inside	1	50				
+//
+# SMCKLA_79489 Length: 31
+# SMCKLA_79489 Number of predicted TMRs: 0
+SMCKLA_79489	inside	1	31				
+//
+# SMCKLA_33207 Length: 49
+# SMCKLA_33207 Number of predicted TMRs: 0
+SMCKLA_33207	inside	1	49				
+//
+# SMCKLA_144037 Length: 50
+# SMCKLA_144037 Number of predicted TMRs: 0
+SMCKLA_144037	inside	1	50				
+//
+# SMCKLA_113128 Length: 42
+# SMCKLA_113128 Number of predicted TMRs: 0
+SMCKLA_113128	inside	1	42				
+//
+# SMCKLA_91225 Length: 50
+# SMCKLA_91225 Number of predicted TMRs: 0
+SMCKLA_91225	inside	1	50				
+//
+# SMCKLA_87464 Length: 41
+# SMCKLA_87464 Number of predicted TMRs: 0
+SMCKLA_87464	inside	1	41				
+//
+# SMCKLA_64065 Length: 47
+# SMCKLA_64065 Number of predicted TMRs: 0
+SMCKLA_64065	signal	1	30				
+SMCKLA_64065	outside	31	47				
+//
+# SMCKLA_143299 Length: 35
+# SMCKLA_143299 Number of predicted TMRs: 0
+SMCKLA_143299	signal	1	31				
+SMCKLA_143299	outside	32	35				
+//
+# SMCKLA_117683 Length: 50
+# SMCKLA_117683 Number of predicted TMRs: 0
+SMCKLA_117683	inside	1	50				
+//
+# SMCKLA_114677 Length: 47
+# SMCKLA_114677 Number of predicted TMRs: 0
+SMCKLA_114677	signal	1	30				
+SMCKLA_114677	outside	31	47				
+//
+# SMCKLA_137266 Length: 45
+# SMCKLA_137266 Number of predicted TMRs: 0
+SMCKLA_137266	signal	1	10				
+SMCKLA_137266	outside	11	45				
+//
+# SMCKLA_116505 Length: 35
+# SMCKLA_116505 Number of predicted TMRs: 0
+SMCKLA_116505	signal	1	34				
+SMCKLA_116505	outside	35	35				
+//
+# SMCKLA_34327 Length: 35
+# SMCKLA_34327 Number of predicted TMRs: 0
+SMCKLA_34327	inside	1	35				
+//
+# SMCKLA_143090 Length: 49
+# SMCKLA_143090 Number of predicted TMRs: 0
+SMCKLA_143090	inside	1	49				
+//
+# SMCKLA_46090 Length: 42
+# SMCKLA_46090 Number of predicted TMRs: 0
+SMCKLA_46090	signal	1	10				
+SMCKLA_46090	outside	11	42				
+//
+# SMCKLA_80711 Length: 50
+# SMCKLA_80711 Number of predicted TMRs: 0
+SMCKLA_80711	signal	1	49				
+SMCKLA_80711	outside	50	50				
+//
+# SMCKLA_31164 Length: 41
+# SMCKLA_31164 Number of predicted TMRs: 0
+SMCKLA_31164	signal	1	38				
+SMCKLA_31164	outside	39	41				
+//
+# SMCKLA_110497 Length: 43
+# SMCKLA_110497 Number of predicted TMRs: 0
+SMCKLA_110497	inside	1	43				
+//
+# SMCKLA_127700 Length: 50
+# SMCKLA_127700 Number of predicted TMRs: 0
+SMCKLA_127700	inside	1	50				
+//
+# SMCKLA_150244 Length: 40
+# SMCKLA_150244 Number of predicted TMRs: 0
+SMCKLA_150244	inside	1	40				
+//
+# SMCKLA_107551 Length: 46
+# SMCKLA_107551 Number of predicted TMRs: 0
+SMCKLA_107551	inside	1	46				
+//
+# SMCKLA_19959 Length: 49
+# SMCKLA_19959 Number of predicted TMRs: 0
+SMCKLA_19959	inside	1	49				
+//
+# SMCKLA_41677 Length: 49
+# SMCKLA_41677 Number of predicted TMRs: 0
+SMCKLA_41677	inside	1	49				
+//
+# SMCKLA_135394 Length: 48
+# SMCKLA_135394 Number of predicted TMRs: 0
+SMCKLA_135394	inside	1	48				
+//
+# SMCKLA_66197 Length: 41
+# SMCKLA_66197 Number of predicted TMRs: 0
+SMCKLA_66197	signal	1	20				
+SMCKLA_66197	outside	21	41				
+//
+# SMCKLA_6443 Length: 48
+# SMCKLA_6443 Number of predicted TMRs: 0
+SMCKLA_6443	signal	1	19				
+SMCKLA_6443	outside	20	48				
+//
+# SMCKLA_127109 Length: 41
+# SMCKLA_127109 Number of predicted TMRs: 0
+SMCKLA_127109	signal	1	39				
+SMCKLA_127109	outside	40	41				
+//
+# SMCKLA_40314 Length: 46
+# SMCKLA_40314 Number of predicted TMRs: 0
+SMCKLA_40314	signal	1	44				
+SMCKLA_40314	outside	45	46				
+//
+# SMCKLA_127726 Length: 39
+# SMCKLA_127726 Number of predicted TMRs: 0
+SMCKLA_127726	inside	1	39				
+//
+# SMCKLA_166333 Length: 47
+# SMCKLA_166333 Number of predicted TMRs: 0
+SMCKLA_166333	inside	1	47				
+//
+# SMCKLA_87630 Length: 47
+# SMCKLA_87630 Number of predicted TMRs: 0
+SMCKLA_87630	inside	1	47				
+//
+# SMCKLA_147223 Length: 47
+# SMCKLA_147223 Number of predicted TMRs: 0
+SMCKLA_147223	signal	1	35				
+SMCKLA_147223	outside	36	47				
+//
+# SMCKLA_147310 Length: 47
+# SMCKLA_147310 Number of predicted TMRs: 0
+SMCKLA_147310	signal	1	35				
+SMCKLA_147310	outside	36	47				
+//
+# SMCKLA_146633 Length: 42
+# SMCKLA_146633 Number of predicted TMRs: 0
+SMCKLA_146633	signal	1	41				
+SMCKLA_146633	outside	42	42				
+//
+# SMCKLA_145813 Length: 35
+# SMCKLA_145813 Number of predicted TMRs: 0
+SMCKLA_145813	signal	1	12				
+SMCKLA_145813	outside	13	35				
+//
+# SMCKLA_50095 Length: 39
+# SMCKLA_50095 Number of predicted TMRs: 0
+SMCKLA_50095	inside	1	39				
+//
+# SMCKLA_128439 Length: 49
+# SMCKLA_128439 Number of predicted TMRs: 0
+SMCKLA_128439	signal	1	45				
+SMCKLA_128439	outside	46	49				
+//
+# SMCKLA_115046 Length: 45
+# SMCKLA_115046 Number of predicted TMRs: 0
+SMCKLA_115046	signal	1	40				
+SMCKLA_115046	outside	41	45				
+//
+# SMCKLA_95067 Length: 49
+# SMCKLA_95067 Number of predicted TMRs: 0
+SMCKLA_95067	inside	1	49				
+//
+# SMCKLA_66544 Length: 29
+# SMCKLA_66544 Number of predicted TMRs: 0
+SMCKLA_66544	inside	1	29				
+//
+# SMCKLA_155676 Length: 29
+# SMCKLA_155676 Number of predicted TMRs: 0
+SMCKLA_155676	inside	1	29				
+//
+# SMCKLA_5855 Length: 46
+# SMCKLA_5855 Number of predicted TMRs: 0
+SMCKLA_5855	inside	1	46				
+//
+# SMCKLA_90869 Length: 36
+# SMCKLA_90869 Number of predicted TMRs: 0
+SMCKLA_90869	signal	1	34				
+SMCKLA_90869	outside	35	36				
+//
+# SMCKLA_22749 Length: 38
+# SMCKLA_22749 Number of predicted TMRs: 0
+SMCKLA_22749	signal	1	15				
+SMCKLA_22749	outside	16	38				
+//
+# SMCKLA_105796 Length: 36
+# SMCKLA_105796 Number of predicted TMRs: 0
+SMCKLA_105796	signal	1	29				
+SMCKLA_105796	outside	30	36				
+//
+# SMCKLA_149990 Length: 50
+# SMCKLA_149990 Number of predicted TMRs: 0
+SMCKLA_149990	inside	1	50				
+//
+# SMCKLA_126280 Length: 42
+# SMCKLA_126280 Number of predicted TMRs: 0
+SMCKLA_126280	signal	1	12				
+SMCKLA_126280	outside	13	42				
+//
+# SMCKLA_26720 Length: 49
+# SMCKLA_26720 Number of predicted TMRs: 0
+SMCKLA_26720	signal	1	12				
+SMCKLA_26720	outside	13	49				
+//
+# SMCKLA_9399 Length: 41
+# SMCKLA_9399 Number of predicted TMRs: 0
+SMCKLA_9399	signal	1	40				
+SMCKLA_9399	outside	41	41				
+//
+# SMCKLA_9398 Length: 50
+# SMCKLA_9398 Number of predicted TMRs: 0
+SMCKLA_9398	inside	1	50				
+//
+# SMCKLA_64155 Length: 48
+# SMCKLA_64155 Number of predicted TMRs: 1
+SMCKLA_64155	inside	1	14				
+SMCKLA_64155	TMhelix	15	34				
+SMCKLA_64155	outside	35	48				
+//
+# SMCKLA_22193 Length: 34
+# SMCKLA_22193 Number of predicted TMRs: 0
+SMCKLA_22193	inside	1	34				
+//
+# SMCKLA_116753 Length: 47
+# SMCKLA_116753 Number of predicted TMRs: 0
+SMCKLA_116753	inside	1	47				
+//
+# SMCKLA_18052 Length: 49
+# SMCKLA_18052 Number of predicted TMRs: 0
+SMCKLA_18052	signal	1	23				
+SMCKLA_18052	outside	24	49				
+//
+# SMCKLA_137336 Length: 50
+# SMCKLA_137336 Number of predicted TMRs: 0
+SMCKLA_137336	inside	1	50				
+//
+# SMCKLA_166021 Length: 50
+# SMCKLA_166021 Number of predicted TMRs: 0
+SMCKLA_166021	signal	1	49				
+SMCKLA_166021	outside	50	50				
+//
+# SMCKLA_146702 Length: 49
+# SMCKLA_146702 Number of predicted TMRs: 0
+SMCKLA_146702	signal	1	48				
+SMCKLA_146702	outside	49	49				
+//
+# SMCKLA_126104 Length: 43
+# SMCKLA_126104 Number of predicted TMRs: 0
+SMCKLA_126104	inside	1	43				
+//
+# SMCKLA_15254 Length: 47
+# SMCKLA_15254 Number of predicted TMRs: 0
+SMCKLA_15254	inside	1	47				
+//
+# SMCKLA_33468 Length: 49
+# SMCKLA_33468 Number of predicted TMRs: 0
+SMCKLA_33468	inside	1	49				
+//
+# SMCKLA_170551 Length: 40
+# SMCKLA_170551 Number of predicted TMRs: 0
+SMCKLA_170551	signal	1	38				
+SMCKLA_170551	outside	39	40				
+//
+# SMCKLA_103698 Length: 47
+# SMCKLA_103698 Number of predicted TMRs: 0
+SMCKLA_103698	inside	1	47				
+//
+# SMCKLA_18341 Length: 50
+# SMCKLA_18341 Number of predicted TMRs: 0
+SMCKLA_18341	inside	1	50				
+//
+# SMCKLA_144707 Length: 50
+# SMCKLA_144707 Number of predicted TMRs: 0
+SMCKLA_144707	inside	1	50				
+//
+# SMCKLA_119210 Length: 32
+# SMCKLA_119210 Number of predicted TMRs: 0
+SMCKLA_119210	signal	1	26				
+SMCKLA_119210	outside	27	32				
+//
+# SMCKLA_172484 Length: 48
+# SMCKLA_172484 Number of predicted TMRs: 0
+SMCKLA_172484	outside	1	48				
+//
+# SMCKLA_168490 Length: 50
+# SMCKLA_168490 Number of predicted TMRs: 0
+SMCKLA_168490	inside	1	50				
+//
+# SMCKLA_65465 Length: 50
+# SMCKLA_65465 Number of predicted TMRs: 0
+SMCKLA_65465	inside	1	50				
+//
+# SMCKLA_25608 Length: 46
+# SMCKLA_25608 Number of predicted TMRs: 0
+SMCKLA_25608	inside	1	46				
+//
+# SMCKLA_15818 Length: 47
+# SMCKLA_15818 Number of predicted TMRs: 0
+SMCKLA_15818	inside	1	47				
+//
+# SMCKLA_48254 Length: 50
+# SMCKLA_48254 Number of predicted TMRs: 0
+SMCKLA_48254	signal	1	42				
+SMCKLA_48254	outside	43	50				
+//
+# SMCKLA_35666 Length: 47
+# SMCKLA_35666 Number of predicted TMRs: 0
+SMCKLA_35666	signal	1	45				
+SMCKLA_35666	outside	46	47				
+//
+# SMCKLA_35669 Length: 50
+# SMCKLA_35669 Number of predicted TMRs: 0
+SMCKLA_35669	signal	1	42				
+SMCKLA_35669	outside	43	50				
+//
+# SMCKLA_134739 Length: 41
+# SMCKLA_134739 Number of predicted TMRs: 0
+SMCKLA_134739	inside	1	41				
+//
+# SMCKLA_69213 Length: 47
+# SMCKLA_69213 Number of predicted TMRs: 0
+SMCKLA_69213	inside	1	47				
+//
+# SMCKLA_172084 Length: 41
+# SMCKLA_172084 Number of predicted TMRs: 0
+SMCKLA_172084	inside	1	41				
+//
+# SMCKLA_6045 Length: 40
+# SMCKLA_6045 Number of predicted TMRs: 0
+SMCKLA_6045	inside	1	40				
+//
+# SMCKLA_148107 Length: 46
+# SMCKLA_148107 Number of predicted TMRs: 0
+SMCKLA_148107	inside	1	46				
+//
+# SMCKLA_26016 Length: 41
+# SMCKLA_26016 Number of predicted TMRs: 0
+SMCKLA_26016	signal	1	26				
+SMCKLA_26016	outside	27	41				
+//
+# SMCKLA_55474 Length: 43
+# SMCKLA_55474 Number of predicted TMRs: 0
+SMCKLA_55474	signal	1	14				
+SMCKLA_55474	outside	15	43				
+//
+# SMCKLA_168319 Length: 42
+# SMCKLA_168319 Number of predicted TMRs: 0
+SMCKLA_168319	signal	1	39				
+SMCKLA_168319	outside	40	42				
+//
+# SMCKLA_106838 Length: 41
+# SMCKLA_106838 Number of predicted TMRs: 0
+SMCKLA_106838	signal	1	25				
+SMCKLA_106838	outside	26	41				
+//
+# SMCKLA_78002 Length: 44
+# SMCKLA_78002 Number of predicted TMRs: 0
+SMCKLA_78002	inside	1	44				
+//
+# SMCKLA_8744 Length: 43
+# SMCKLA_8744 Number of predicted TMRs: 0
+SMCKLA_8744	inside	1	43				
+//
+# SMCKLA_68504 Length: 45
+# SMCKLA_68504 Number of predicted TMRs: 0
+SMCKLA_68504	signal	1	10				
+SMCKLA_68504	outside	11	45				
+//
+# SMCKLA_123339 Length: 44
+# SMCKLA_123339 Number of predicted TMRs: 0
+SMCKLA_123339	signal	1	40				
+SMCKLA_123339	outside	41	44				
+//
+# SMCKLA_49248 Length: 41
+# SMCKLA_49248 Number of predicted TMRs: 0
+SMCKLA_49248	inside	1	41				
+//
+# SMCKLA_141046 Length: 40
+# SMCKLA_141046 Number of predicted TMRs: 0
+SMCKLA_141046	signal	1	39				
+SMCKLA_141046	outside	40	40				
+//
+# SMCKLA_30996 Length: 46
+# SMCKLA_30996 Number of predicted TMRs: 0
+SMCKLA_30996	signal	1	45				
+SMCKLA_30996	outside	46	46				
+//
+# SMCKLA_121178 Length: 49
+# SMCKLA_121178 Number of predicted TMRs: 0
+SMCKLA_121178	inside	1	49				
+//
+# SMCKLA_11463 Length: 47
+# SMCKLA_11463 Number of predicted TMRs: 0
+SMCKLA_11463	inside	1	47				
+//
+# SMCKLA_163343 Length: 44
+# SMCKLA_163343 Number of predicted TMRs: 0
+SMCKLA_163343	inside	1	44				
+//
+# SMCKLA_142256 Length: 50
+# SMCKLA_142256 Number of predicted TMRs: 0
+SMCKLA_142256	signal	1	35				
+SMCKLA_142256	outside	36	50				
+//
+# SMCKLA_8875 Length: 45
+# SMCKLA_8875 Number of predicted TMRs: 0
+SMCKLA_8875	signal	1	15				
+SMCKLA_8875	outside	16	45				
+//
+# SMCKLA_97320 Length: 40
+# SMCKLA_97320 Number of predicted TMRs: 0
+SMCKLA_97320	inside	1	40				
+//
+# SMCKLA_2934 Length: 50
+# SMCKLA_2934 Number of predicted TMRs: 0
+SMCKLA_2934	inside	1	50				
+//
+# SMCKLA_84956 Length: 40
+# SMCKLA_84956 Number of predicted TMRs: 0
+SMCKLA_84956	signal	1	17				
+SMCKLA_84956	outside	18	40				
+//
+# SMCKLA_139747 Length: 48
+# SMCKLA_139747 Number of predicted TMRs: 0
+SMCKLA_139747	inside	1	48				
+//
+# SMCKLA_94926 Length: 49
+# SMCKLA_94926 Number of predicted TMRs: 0
+SMCKLA_94926	inside	1	49				
+//
+# SMCKLA_116891 Length: 30
+# SMCKLA_116891 Number of predicted TMRs: 0
+SMCKLA_116891	signal	1	22				
+SMCKLA_116891	outside	23	30				
+//
+# SMCKLA_90926 Length: 50
+# SMCKLA_90926 Number of predicted TMRs: 0
+SMCKLA_90926	inside	1	50				
+//
+# SMCKLA_152293 Length: 47
+# SMCKLA_152293 Number of predicted TMRs: 0
+SMCKLA_152293	inside	1	47				
+//
+# SMCKLA_96967 Length: 46
+# SMCKLA_96967 Number of predicted TMRs: 0
+SMCKLA_96967	inside	1	46				
+//
+# SMCKLA_120312 Length: 48
+# SMCKLA_120312 Number of predicted TMRs: 0
+SMCKLA_120312	inside	1	48				
+//
+# SMCKLA_100978 Length: 48
+# SMCKLA_100978 Number of predicted TMRs: 0
+SMCKLA_100978	inside	1	48				
+//
+# SMCKLA_10127 Length: 43
+# SMCKLA_10127 Number of predicted TMRs: 0
+SMCKLA_10127	inside	1	43				
+//
+# SMCKLA_29268 Length: 42
+# SMCKLA_29268 Number of predicted TMRs: 0
+SMCKLA_29268	inside	1	42				
+//
+# SMCKLA_128608 Length: 49
+# SMCKLA_128608 Number of predicted TMRs: 0
+SMCKLA_128608	outside	1	49				
+//
+# SMCKLA_130924 Length: 49
+# SMCKLA_130924 Number of predicted TMRs: 0
+SMCKLA_130924	outside	1	49				
+//
+# SMCKLA_71768 Length: 38
+# SMCKLA_71768 Number of predicted TMRs: 0
+SMCKLA_71768	signal	1	22				
+SMCKLA_71768	outside	23	38				
+//
+# SMCKLA_2816 Length: 42
+# SMCKLA_2816 Number of predicted TMRs: 0
+SMCKLA_2816	signal	1	22				
+SMCKLA_2816	outside	23	42				
+//
+# SMCKLA_47808 Length: 50
+# SMCKLA_47808 Number of predicted TMRs: 0
+SMCKLA_47808	inside	1	50				
+//
+# SMCKLA_161891 Length: 48
+# SMCKLA_161891 Number of predicted TMRs: 0
+SMCKLA_161891	inside	1	48				
+//
+# SMCKLA_141274 Length: 42
+# SMCKLA_141274 Number of predicted TMRs: 0
+SMCKLA_141274	inside	1	42				
+//
+# SMCKLA_69067 Length: 45
+# SMCKLA_69067 Number of predicted TMRs: 0
+SMCKLA_69067	signal	1	22				
+SMCKLA_69067	outside	23	45				
+//
+# SMCKLA_132381 Length: 47
+# SMCKLA_132381 Number of predicted TMRs: 0
+SMCKLA_132381	inside	1	47				
+//
+# SMCKLA_132944 Length: 49
+# SMCKLA_132944 Number of predicted TMRs: 0
+SMCKLA_132944	inside	1	49				
+//
+# SMCKLA_131722 Length: 47
+# SMCKLA_131722 Number of predicted TMRs: 0
+SMCKLA_131722	signal	1	14				
+SMCKLA_131722	outside	15	47				
+//
+# SMCKLA_2627 Length: 50
+# SMCKLA_2627 Number of predicted TMRs: 0
+SMCKLA_2627	inside	1	50				
+//
+# SMCKLA_127960 Length: 37
+# SMCKLA_127960 Number of predicted TMRs: 0
+SMCKLA_127960	signal	1	32				
+SMCKLA_127960	outside	33	37				
+//
+# SMCKLA_138573 Length: 50
+# SMCKLA_138573 Number of predicted TMRs: 0
+SMCKLA_138573	inside	1	50				
+//
+# SMCKLA_131376 Length: 46
+# SMCKLA_131376 Number of predicted TMRs: 0
+SMCKLA_131376	inside	1	46				
+//
+# SMCKLA_86593 Length: 36
+# SMCKLA_86593 Number of predicted TMRs: 0
+SMCKLA_86593	signal	1	14				
+SMCKLA_86593	outside	15	36				
+//
+# SMCKLA_106430 Length: 48
+# SMCKLA_106430 Number of predicted TMRs: 0
+SMCKLA_106430	inside	1	48				
+//
+# SMCKLA_136086 Length: 45
+# SMCKLA_136086 Number of predicted TMRs: 0
+SMCKLA_136086	signal	1	15				
+SMCKLA_136086	outside	16	45				
+//
+# SMCKLA_21165 Length: 46
+# SMCKLA_21165 Number of predicted TMRs: 0
+SMCKLA_21165	inside	1	46				
+//
+# SMCKLA_129810 Length: 46
+# SMCKLA_129810 Number of predicted TMRs: 0
+SMCKLA_129810	inside	1	46				
+//
+# SMCKLA_72587 Length: 34
+# SMCKLA_72587 Number of predicted TMRs: 0
+SMCKLA_72587	inside	1	34				
+//
+# SMCKLA_106072 Length: 46
+# SMCKLA_106072 Number of predicted TMRs: 0
+SMCKLA_106072	inside	1	46				
+//
+# SMCKLA_128068 Length: 32
+# SMCKLA_128068 Number of predicted TMRs: 0
+SMCKLA_128068	signal	1	29				
+SMCKLA_128068	outside	30	32				
+//
+# SMCKLA_98485 Length: 45
+# SMCKLA_98485 Number of predicted TMRs: 0
+SMCKLA_98485	inside	1	45				
+//
+# SMCKLA_132003 Length: 34
+# SMCKLA_132003 Number of predicted TMRs: 0
+SMCKLA_132003	signal	1	33				
+SMCKLA_132003	outside	34	34				
+//
+# SMCKLA_116786 Length: 47
+# SMCKLA_116786 Number of predicted TMRs: 0
+SMCKLA_116786	inside	1	47				
+//
+# SMCKLA_122793 Length: 48
+# SMCKLA_122793 Number of predicted TMRs: 0
+SMCKLA_122793	inside	1	48				
+//
+# SMCKLA_65739 Length: 49
+# SMCKLA_65739 Number of predicted TMRs: 0
+SMCKLA_65739	inside	1	49				
+//
+# SMCKLA_80420 Length: 38
+# SMCKLA_80420 Number of predicted TMRs: 0
+SMCKLA_80420	signal	1	21				
+SMCKLA_80420	outside	22	38				
+//
+# SMCKLA_78867 Length: 39
+# SMCKLA_78867 Number of predicted TMRs: 0
+SMCKLA_78867	inside	1	39				
+//
+# SMCKLA_6339 Length: 40
+# SMCKLA_6339 Number of predicted TMRs: 0
+SMCKLA_6339	inside	1	40				
+//
+# SMCKLA_56788 Length: 45
+# SMCKLA_56788 Number of predicted TMRs: 0
+SMCKLA_56788	signal	1	25				
+SMCKLA_56788	outside	26	45				
+//
+# SMCKLA_4696 Length: 49
+# SMCKLA_4696 Number of predicted TMRs: 0
+SMCKLA_4696	signal	1	33				
+SMCKLA_4696	outside	34	49				
+//
+# SMCKLA_22565 Length: 50
+# SMCKLA_22565 Number of predicted TMRs: 0
+SMCKLA_22565	outside	1	50				
+//
+# SMCKLA_22561 Length: 50
+# SMCKLA_22561 Number of predicted TMRs: 0
+SMCKLA_22561	outside	1	50				
+//
+# SMCKLA_14238 Length: 49
+# SMCKLA_14238 Number of predicted TMRs: 0
+SMCKLA_14238	signal	1	47				
+SMCKLA_14238	outside	48	49				
+//
+# SMCKLA_97810 Length: 47
+# SMCKLA_97810 Number of predicted TMRs: 0
+SMCKLA_97810	inside	1	47				
+//
+# SMCKLA_33716 Length: 42
+# SMCKLA_33716 Number of predicted TMRs: 0
+SMCKLA_33716	signal	1	41				
+SMCKLA_33716	outside	42	42				
+//
+# SMCKLA_63860 Length: 41
+# SMCKLA_63860 Number of predicted TMRs: 0
+SMCKLA_63860	inside	1	41				
+//
+# SMCKLA_97497 Length: 42
+# SMCKLA_97497 Number of predicted TMRs: 0
+SMCKLA_97497	signal	1	27				
+SMCKLA_97497	outside	28	42				
+//
+# SMCKLA_28766 Length: 50
+# SMCKLA_28766 Number of predicted TMRs: 0
+SMCKLA_28766	inside	1	50				
+//
+# SMCKLA_34522 Length: 37
+# SMCKLA_34522 Number of predicted TMRs: 0
+SMCKLA_34522	signal	1	35				
+SMCKLA_34522	outside	36	37				
+//
+# SMCKLA_167171 Length: 49
+# SMCKLA_167171 Number of predicted TMRs: 0
+SMCKLA_167171	signal	1	10				
+SMCKLA_167171	outside	11	49				
+//
+# SMCKLA_99522 Length: 43
+# SMCKLA_99522 Number of predicted TMRs: 0
+SMCKLA_99522	inside	1	43				
+//
+# SMCKLA_55131 Length: 49
+# SMCKLA_55131 Number of predicted TMRs: 0
+SMCKLA_55131	inside	1	49				
+//
+# SMCKLA_56801 Length: 50
+# SMCKLA_56801 Number of predicted TMRs: 0
+SMCKLA_56801	inside	1	50				
+//
+# SMCKLA_145240 Length: 48
+# SMCKLA_145240 Number of predicted TMRs: 0
+SMCKLA_145240	outside	1	48				
+//
+# SMCKLA_169253 Length: 45
+# SMCKLA_169253 Number of predicted TMRs: 0
+SMCKLA_169253	inside	1	45				
+//
+# SMCKLA_99498 Length: 46
+# SMCKLA_99498 Number of predicted TMRs: 0
+SMCKLA_99498	inside	1	46				
+//
+# SMCKLA_93913 Length: 37
+# SMCKLA_93913 Number of predicted TMRs: 0
+SMCKLA_93913	signal	1	33				
+SMCKLA_93913	outside	34	37				
+//
+# SMCKLA_148834 Length: 49
+# SMCKLA_148834 Number of predicted TMRs: 0
+SMCKLA_148834	inside	1	49				
+//
+# SMCKLA_88358 Length: 48
+# SMCKLA_88358 Number of predicted TMRs: 0
+SMCKLA_88358	inside	1	48				
+//
+# SMCKLA_12111 Length: 46
+# SMCKLA_12111 Number of predicted TMRs: 0
+SMCKLA_12111	signal	1	41				
+SMCKLA_12111	outside	42	46				
+//
+# SMCKLA_152101 Length: 42
+# SMCKLA_152101 Number of predicted TMRs: 0
+SMCKLA_152101	signal	1	28				
+SMCKLA_152101	outside	29	42				
+//
+# SMCKLA_71769 Length: 47
+# SMCKLA_71769 Number of predicted TMRs: 0
+SMCKLA_71769	inside	1	47				
+//
+# SMCKLA_61795 Length: 48
+# SMCKLA_61795 Number of predicted TMRs: 0
+SMCKLA_61795	outside	1	48				
+//
+# SMCKLA_1198 Length: 42
+# SMCKLA_1198 Number of predicted TMRs: 0
+SMCKLA_1198	inside	1	42				
+//
+# SMCKLA_58257 Length: 41
+# SMCKLA_58257 Number of predicted TMRs: 0
+SMCKLA_58257	inside	1	41				
+//
+# SMCKLA_169938 Length: 47
+# SMCKLA_169938 Number of predicted TMRs: 0
+SMCKLA_169938	signal	1	46				
+SMCKLA_169938	outside	47	47				
+//
+# SMCKLA_93385 Length: 50
+# SMCKLA_93385 Number of predicted TMRs: 0
+SMCKLA_93385	signal	1	31				
+SMCKLA_93385	outside	32	50				
+//
+# SMCKLA_65981 Length: 37
+# SMCKLA_65981 Number of predicted TMRs: 0
+SMCKLA_65981	signal	1	21				
+SMCKLA_65981	outside	22	37				
+//
+# SMCKLA_133872 Length: 49
+# SMCKLA_133872 Number of predicted TMRs: 0
+SMCKLA_133872	signal	1	44				
+SMCKLA_133872	outside	45	49				
+//
+# SMCKLA_46312 Length: 49
+# SMCKLA_46312 Number of predicted TMRs: 0
+SMCKLA_46312	inside	1	49				
+//
+# SMCKLA_83390 Length: 45
+# SMCKLA_83390 Number of predicted TMRs: 0
+SMCKLA_83390	inside	1	45				
+//
+# SMCKLA_140130 Length: 50
+# SMCKLA_140130 Number of predicted TMRs: 0
+SMCKLA_140130	inside	1	50				
+//
+# SMCKLA_79027 Length: 50
+# SMCKLA_79027 Number of predicted TMRs: 0
+SMCKLA_79027	signal	1	28				
+SMCKLA_79027	outside	29	50				
+//
+# SMCKLA_92862 Length: 42
+# SMCKLA_92862 Number of predicted TMRs: 0
+SMCKLA_92862	inside	1	42				
+//
+# SMCKLA_13672 Length: 47
+# SMCKLA_13672 Number of predicted TMRs: 0
+SMCKLA_13672	signal	1	13				
+SMCKLA_13672	outside	14	47				
+//
+# SMCKLA_67630 Length: 45
+# SMCKLA_67630 Number of predicted TMRs: 0
+SMCKLA_67630	inside	1	45				
+//
+# SMCKLA_4241 Length: 49
+# SMCKLA_4241 Number of predicted TMRs: 0
+SMCKLA_4241	inside	1	49				
+//
+# SMCKLA_141145 Length: 49
+# SMCKLA_141145 Number of predicted TMRs: 0
+SMCKLA_141145	signal	1	12				
+SMCKLA_141145	outside	13	49				
+//
+# SMCKLA_24825 Length: 45
+# SMCKLA_24825 Number of predicted TMRs: 0
+SMCKLA_24825	inside	1	45				
+//
+# SMCKLA_88427 Length: 44
+# SMCKLA_88427 Number of predicted TMRs: 0
+SMCKLA_88427	outside	1	44				
+//
+# SMCKLA_93665 Length: 49
+# SMCKLA_93665 Number of predicted TMRs: 0
+SMCKLA_93665	inside	1	49				
+//
+# SMCKLA_9000 Length: 49
+# SMCKLA_9000 Number of predicted TMRs: 0
+SMCKLA_9000	inside	1	49				
+//
+# SMCKLA_34387 Length: 39
+# SMCKLA_34387 Number of predicted TMRs: 0
+SMCKLA_34387	signal	1	12				
+SMCKLA_34387	outside	13	39				
+//
+# SMCKLA_171740 Length: 46
+# SMCKLA_171740 Number of predicted TMRs: 0
+SMCKLA_171740	inside	1	46				
+//
+# SMCKLA_165146 Length: 48
+# SMCKLA_165146 Number of predicted TMRs: 0
+SMCKLA_165146	inside	1	48				
+//
+# SMCKLA_122947 Length: 49
+# SMCKLA_122947 Number of predicted TMRs: 0
+SMCKLA_122947	inside	1	49				
+//
+# SMCKLA_106720 Length: 41
+# SMCKLA_106720 Number of predicted TMRs: 0
+SMCKLA_106720	signal	1	40				
+SMCKLA_106720	outside	41	41				
+//
+# SMCKLA_113351 Length: 50
+# SMCKLA_113351 Number of predicted TMRs: 0
+SMCKLA_113351	inside	1	50				
+//
+# SMCKLA_165846 Length: 32
+# SMCKLA_165846 Number of predicted TMRs: 0
+SMCKLA_165846	signal	1	31				
+SMCKLA_165846	outside	32	32				
+//
+# SMCKLA_149957 Length: 47
+# SMCKLA_149957 Number of predicted TMRs: 0
+SMCKLA_149957	inside	1	47				
+//
+# SMCKLA_54960 Length: 43
+# SMCKLA_54960 Number of predicted TMRs: 0
+SMCKLA_54960	inside	1	43				
+//
+# SMCKLA_51330 Length: 40
+# SMCKLA_51330 Number of predicted TMRs: 0
+SMCKLA_51330	inside	1	40				
+//
+# SMCKLA_164767 Length: 47
+# SMCKLA_164767 Number of predicted TMRs: 0
+SMCKLA_164767	inside	1	47				
+//
+# SMCKLA_161673 Length: 48
+# SMCKLA_161673 Number of predicted TMRs: 0
+SMCKLA_161673	inside	1	48				
+//
+# SMCKLA_40703 Length: 50
+# SMCKLA_40703 Number of predicted TMRs: 0
+SMCKLA_40703	inside	1	50				
+//
+# SMCKLA_11185 Length: 46
+# SMCKLA_11185 Number of predicted TMRs: 0
+SMCKLA_11185	inside	1	46				
+//
+# SMCKLA_141011 Length: 44
+# SMCKLA_141011 Number of predicted TMRs: 0
+SMCKLA_141011	signal	1	43				
+SMCKLA_141011	outside	44	44				
+//
+# SMCKLA_85237 Length: 47
+# SMCKLA_85237 Number of predicted TMRs: 0
+SMCKLA_85237	inside	1	47				
+//
+# SMCKLA_86476 Length: 49
+# SMCKLA_86476 Number of predicted TMRs: 0
+SMCKLA_86476	inside	1	49				
+//
+# SMCKLA_25415 Length: 50
+# SMCKLA_25415 Number of predicted TMRs: 0
+SMCKLA_25415	signal	1	21				
+SMCKLA_25415	outside	22	50				
+//
+# SMCKLA_14562 Length: 46
+# SMCKLA_14562 Number of predicted TMRs: 0
+SMCKLA_14562	inside	1	46				
+//
+# SMCKLA_82923 Length: 50
+# SMCKLA_82923 Number of predicted TMRs: 0
+SMCKLA_82923	inside	1	50				
+//
+# SMCKLA_40075 Length: 41
+# SMCKLA_40075 Number of predicted TMRs: 0
+SMCKLA_40075	signal	1	13				
+SMCKLA_40075	outside	14	41				
+//
+# SMCKLA_23204 Length: 45
+# SMCKLA_23204 Number of predicted TMRs: 0
+SMCKLA_23204	signal	1	28				
+SMCKLA_23204	outside	29	45				
+//
+# SMCKLA_81083 Length: 49
+# SMCKLA_81083 Number of predicted TMRs: 0
+SMCKLA_81083	signal	1	32				
+SMCKLA_81083	outside	33	49				
+//
+# SMCKLA_125705 Length: 50
+# SMCKLA_125705 Number of predicted TMRs: 0
+SMCKLA_125705	signal	1	18				
+SMCKLA_125705	outside	19	50				
+//
+# SMCKLA_160636 Length: 49
+# SMCKLA_160636 Number of predicted TMRs: 0
+SMCKLA_160636	signal	1	48				
+SMCKLA_160636	outside	49	49				
+//
+# SMCKLA_4493 Length: 35
+# SMCKLA_4493 Number of predicted TMRs: 0
+SMCKLA_4493	inside	1	35				
+//
+# SMCKLA_159550 Length: 50
+# SMCKLA_159550 Number of predicted TMRs: 0
+SMCKLA_159550	inside	1	50				
+//
+# SMCKLA_83039 Length: 44
+# SMCKLA_83039 Number of predicted TMRs: 0
+SMCKLA_83039	inside	1	44				

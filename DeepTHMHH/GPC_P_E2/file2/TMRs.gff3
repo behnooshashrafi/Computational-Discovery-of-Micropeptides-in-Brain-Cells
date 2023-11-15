@@ -1,0 +1,4360 @@
+##gff-version 3
+# HNKHIX_45958 Length: 44
+# HNKHIX_45958 Number of predicted TMRs: 0
+HNKHIX_45958	signal	1	43				
+HNKHIX_45958	outside	44	44				
+//
+# HNKHIX_139497 Length: 49
+# HNKHIX_139497 Number of predicted TMRs: 0
+HNKHIX_139497	inside	1	49				
+//
+# HNKHIX_134629 Length: 49
+# HNKHIX_134629 Number of predicted TMRs: 0
+HNKHIX_134629	signal	1	40				
+HNKHIX_134629	outside	41	49				
+//
+# HNKHIX_12701 Length: 45
+# HNKHIX_12701 Number of predicted TMRs: 0
+HNKHIX_12701	inside	1	45				
+//
+# HNKHIX_70820 Length: 46
+# HNKHIX_70820 Number of predicted TMRs: 0
+HNKHIX_70820	signal	1	43				
+HNKHIX_70820	outside	44	46				
+//
+# HNKHIX_25258 Length: 49
+# HNKHIX_25258 Number of predicted TMRs: 0
+HNKHIX_25258	inside	1	49				
+//
+# HNKHIX_54366 Length: 49
+# HNKHIX_54366 Number of predicted TMRs: 0
+HNKHIX_54366	signal	1	22				
+HNKHIX_54366	outside	23	49				
+//
+# HNKHIX_26726 Length: 50
+# HNKHIX_26726 Number of predicted TMRs: 0
+HNKHIX_26726	inside	1	50				
+//
+# HNKHIX_116344 Length: 49
+# HNKHIX_116344 Number of predicted TMRs: 0
+HNKHIX_116344	signal	1	48				
+HNKHIX_116344	outside	49	49				
+//
+# HNKHIX_133180 Length: 46
+# HNKHIX_133180 Number of predicted TMRs: 0
+HNKHIX_133180	inside	1	46				
+//
+# HNKHIX_130809 Length: 48
+# HNKHIX_130809 Number of predicted TMRs: 0
+HNKHIX_130809	inside	1	48				
+//
+# HNKHIX_156212 Length: 47
+# HNKHIX_156212 Number of predicted TMRs: 0
+HNKHIX_156212	signal	1	41				
+HNKHIX_156212	outside	42	47				
+//
+# HNKHIX_56081 Length: 46
+# HNKHIX_56081 Number of predicted TMRs: 1
+HNKHIX_56081	signal	1	10				
+HNKHIX_56081	outside	11	11				
+HNKHIX_56081	TMhelix	12	32				
+HNKHIX_56081	inside	33	46				
+//
+# HNKHIX_93861 Length: 41
+# HNKHIX_93861 Number of predicted TMRs: 0
+HNKHIX_93861	inside	1	41				
+//
+# HNKHIX_101013 Length: 46
+# HNKHIX_101013 Number of predicted TMRs: 0
+HNKHIX_101013	inside	1	46				
+//
+# HNKHIX_59410 Length: 41
+# HNKHIX_59410 Number of predicted TMRs: 0
+HNKHIX_59410	inside	1	41				
+//
+# HNKHIX_167107 Length: 37
+# HNKHIX_167107 Number of predicted TMRs: 0
+HNKHIX_167107	signal	1	11				
+HNKHIX_167107	outside	12	37				
+//
+# HNKHIX_142271 Length: 50
+# HNKHIX_142271 Number of predicted TMRs: 0
+HNKHIX_142271	outside	1	50				
+//
+# HNKHIX_141291 Length: 39
+# HNKHIX_141291 Number of predicted TMRs: 0
+HNKHIX_141291	signal	1	38				
+HNKHIX_141291	outside	39	39				
+//
+# HNKHIX_90250 Length: 42
+# HNKHIX_90250 Number of predicted TMRs: 0
+HNKHIX_90250	inside	1	42				
+//
+# HNKHIX_116489 Length: 44
+# HNKHIX_116489 Number of predicted TMRs: 0
+HNKHIX_116489	signal	1	43				
+HNKHIX_116489	outside	44	44				
+//
+# HNKHIX_93681 Length: 47
+# HNKHIX_93681 Number of predicted TMRs: 0
+HNKHIX_93681	signal	1	44				
+HNKHIX_93681	outside	45	47				
+//
+# HNKHIX_102879 Length: 47
+# HNKHIX_102879 Number of predicted TMRs: 0
+HNKHIX_102879	signal	1	46				
+HNKHIX_102879	outside	47	47				
+//
+# HNKHIX_13105 Length: 49
+# HNKHIX_13105 Number of predicted TMRs: 0
+HNKHIX_13105	inside	1	49				
+//
+# HNKHIX_92143 Length: 47
+# HNKHIX_92143 Number of predicted TMRs: 0
+HNKHIX_92143	inside	1	47				
+//
+# HNKHIX_53863 Length: 47
+# HNKHIX_53863 Number of predicted TMRs: 0
+HNKHIX_53863	signal	1	18				
+HNKHIX_53863	outside	19	47				
+//
+# HNKHIX_173168 Length: 47
+# HNKHIX_173168 Number of predicted TMRs: 0
+HNKHIX_173168	signal	1	14				
+HNKHIX_173168	outside	15	47				
+//
+# HNKHIX_61839 Length: 44
+# HNKHIX_61839 Number of predicted TMRs: 0
+HNKHIX_61839	inside	1	44				
+//
+# HNKHIX_88628 Length: 45
+# HNKHIX_88628 Number of predicted TMRs: 0
+HNKHIX_88628	inside	1	45				
+//
+# HNKHIX_89198 Length: 45
+# HNKHIX_89198 Number of predicted TMRs: 0
+HNKHIX_89198	inside	1	45				
+//
+# HNKHIX_52086 Length: 50
+# HNKHIX_52086 Number of predicted TMRs: 0
+HNKHIX_52086	inside	1	50				
+//
+# HNKHIX_124827 Length: 40
+# HNKHIX_124827 Number of predicted TMRs: 0
+HNKHIX_124827	signal	1	35				
+HNKHIX_124827	outside	36	40				
+//
+# HNKHIX_88327 Length: 49
+# HNKHIX_88327 Number of predicted TMRs: 0
+HNKHIX_88327	inside	1	49				
+//
+# HNKHIX_153756 Length: 37
+# HNKHIX_153756 Number of predicted TMRs: 0
+HNKHIX_153756	inside	1	37				
+//
+# HNKHIX_4898 Length: 46
+# HNKHIX_4898 Number of predicted TMRs: 0
+HNKHIX_4898	inside	1	46				
+//
+# HNKHIX_166445 Length: 39
+# HNKHIX_166445 Number of predicted TMRs: 0
+HNKHIX_166445	inside	1	39				
+//
+# HNKHIX_94540 Length: 34
+# HNKHIX_94540 Number of predicted TMRs: 0
+HNKHIX_94540	inside	1	34				
+//
+# HNKHIX_138941 Length: 47
+# HNKHIX_138941 Number of predicted TMRs: 0
+HNKHIX_138941	inside	1	47				
+//
+# HNKHIX_13617 Length: 46
+# HNKHIX_13617 Number of predicted TMRs: 0
+HNKHIX_13617	signal	1	26				
+HNKHIX_13617	outside	27	46				
+//
+# HNKHIX_25556 Length: 47
+# HNKHIX_25556 Number of predicted TMRs: 0
+HNKHIX_25556	inside	1	47				
+//
+# HNKHIX_39163 Length: 46
+# HNKHIX_39163 Number of predicted TMRs: 0
+HNKHIX_39163	signal	1	23				
+HNKHIX_39163	outside	24	46				
+//
+# HNKHIX_35082 Length: 37
+# HNKHIX_35082 Number of predicted TMRs: 0
+HNKHIX_35082	signal	1	13				
+HNKHIX_35082	outside	14	37				
+//
+# HNKHIX_114675 Length: 49
+# HNKHIX_114675 Number of predicted TMRs: 0
+HNKHIX_114675	signal	1	14				
+HNKHIX_114675	outside	15	49				
+//
+# HNKHIX_19459 Length: 45
+# HNKHIX_19459 Number of predicted TMRs: 0
+HNKHIX_19459	inside	1	45				
+//
+# HNKHIX_25359 Length: 37
+# HNKHIX_25359 Number of predicted TMRs: 0
+HNKHIX_25359	signal	1	35				
+HNKHIX_25359	outside	36	37				
+//
+# HNKHIX_53549 Length: 42
+# HNKHIX_53549 Number of predicted TMRs: 0
+HNKHIX_53549	signal	1	22				
+HNKHIX_53549	outside	23	42				
+//
+# HNKHIX_145698 Length: 47
+# HNKHIX_145698 Number of predicted TMRs: 0
+HNKHIX_145698	inside	1	47				
+//
+# HNKHIX_145189 Length: 49
+# HNKHIX_145189 Number of predicted TMRs: 0
+HNKHIX_145189	inside	1	49				
+//
+# HNKHIX_164631 Length: 43
+# HNKHIX_164631 Number of predicted TMRs: 0
+HNKHIX_164631	signal	1	13				
+HNKHIX_164631	outside	14	43				
+//
+# HNKHIX_114481 Length: 48
+# HNKHIX_114481 Number of predicted TMRs: 1
+HNKHIX_114481	outside	1	14				
+HNKHIX_114481	TMhelix	15	35				
+HNKHIX_114481	inside	36	48				
+//
+# HNKHIX_22136 Length: 49
+# HNKHIX_22136 Number of predicted TMRs: 0
+HNKHIX_22136	signal	1	47				
+HNKHIX_22136	outside	48	49				
+//
+# HNKHIX_8170 Length: 47
+# HNKHIX_8170 Number of predicted TMRs: 0
+HNKHIX_8170	outside	1	47				
+//
+# HNKHIX_128492 Length: 36
+# HNKHIX_128492 Number of predicted TMRs: 0
+HNKHIX_128492	inside	1	36				
+//
+# HNKHIX_143484 Length: 48
+# HNKHIX_143484 Number of predicted TMRs: 0
+HNKHIX_143484	inside	1	48				
+//
+# HNKHIX_157620 Length: 48
+# HNKHIX_157620 Number of predicted TMRs: 0
+HNKHIX_157620	inside	1	48				
+//
+# HNKHIX_111367 Length: 39
+# HNKHIX_111367 Number of predicted TMRs: 0
+HNKHIX_111367	signal	1	11				
+HNKHIX_111367	outside	12	39				
+//
+# HNKHIX_159811 Length: 39
+# HNKHIX_159811 Number of predicted TMRs: 0
+HNKHIX_159811	signal	1	38				
+HNKHIX_159811	outside	39	39				
+//
+# HNKHIX_69683 Length: 44
+# HNKHIX_69683 Number of predicted TMRs: 0
+HNKHIX_69683	inside	1	44				
+//
+# HNKHIX_111386 Length: 43
+# HNKHIX_111386 Number of predicted TMRs: 0
+HNKHIX_111386	inside	1	43				
+//
+# HNKHIX_20728 Length: 50
+# HNKHIX_20728 Number of predicted TMRs: 0
+HNKHIX_20728	inside	1	50				
+//
+# HNKHIX_86548 Length: 48
+# HNKHIX_86548 Number of predicted TMRs: 0
+HNKHIX_86548	signal	1	47				
+HNKHIX_86548	outside	48	48				
+//
+# HNKHIX_19136 Length: 45
+# HNKHIX_19136 Number of predicted TMRs: 0
+HNKHIX_19136	inside	1	45				
+//
+# HNKHIX_167332 Length: 44
+# HNKHIX_167332 Number of predicted TMRs: 0
+HNKHIX_167332	signal	1	21				
+HNKHIX_167332	outside	22	44				
+//
+# HNKHIX_145195 Length: 49
+# HNKHIX_145195 Number of predicted TMRs: 0
+HNKHIX_145195	inside	1	49				
+//
+# HNKHIX_24231 Length: 50
+# HNKHIX_24231 Number of predicted TMRs: 0
+HNKHIX_24231	inside	1	50				
+//
+# HNKHIX_145460 Length: 45
+# HNKHIX_145460 Number of predicted TMRs: 0
+HNKHIX_145460	signal	1	20				
+HNKHIX_145460	outside	21	45				
+//
+# HNKHIX_83754 Length: 46
+# HNKHIX_83754 Number of predicted TMRs: 0
+HNKHIX_83754	signal	1	45				
+HNKHIX_83754	outside	46	46				
+//
+# HNKHIX_17619 Length: 46
+# HNKHIX_17619 Number of predicted TMRs: 0
+HNKHIX_17619	signal	1	45				
+HNKHIX_17619	outside	46	46				
+//
+# HNKHIX_122396 Length: 50
+# HNKHIX_122396 Number of predicted TMRs: 0
+HNKHIX_122396	signal	1	48				
+HNKHIX_122396	outside	49	50				
+//
+# HNKHIX_110751 Length: 35
+# HNKHIX_110751 Number of predicted TMRs: 0
+HNKHIX_110751	signal	1	33				
+HNKHIX_110751	outside	34	35				
+//
+# HNKHIX_139794 Length: 47
+# HNKHIX_139794 Number of predicted TMRs: 0
+HNKHIX_139794	signal	1	45				
+HNKHIX_139794	outside	46	47				
+//
+# HNKHIX_140950 Length: 42
+# HNKHIX_140950 Number of predicted TMRs: 0
+HNKHIX_140950	inside	1	42				
+//
+# HNKHIX_163983 Length: 41
+# HNKHIX_163983 Number of predicted TMRs: 0
+HNKHIX_163983	inside	1	41				
+//
+# HNKHIX_167852 Length: 44
+# HNKHIX_167852 Number of predicted TMRs: 0
+HNKHIX_167852	inside	1	44				
+//
+# HNKHIX_100708 Length: 50
+# HNKHIX_100708 Number of predicted TMRs: 0
+HNKHIX_100708	signal	1	17				
+HNKHIX_100708	outside	18	50				
+//
+# HNKHIX_96556 Length: 39
+# HNKHIX_96556 Number of predicted TMRs: 0
+HNKHIX_96556	inside	1	39				
+//
+# HNKHIX_32839 Length: 36
+# HNKHIX_32839 Number of predicted TMRs: 0
+HNKHIX_32839	inside	1	36				
+//
+# HNKHIX_101115 Length: 48
+# HNKHIX_101115 Number of predicted TMRs: 0
+HNKHIX_101115	inside	1	48				
+//
+# HNKHIX_38988 Length: 47
+# HNKHIX_38988 Number of predicted TMRs: 0
+HNKHIX_38988	signal	1	35				
+HNKHIX_38988	outside	36	47				
+//
+# HNKHIX_13500 Length: 48
+# HNKHIX_13500 Number of predicted TMRs: 0
+HNKHIX_13500	inside	1	48				
+//
+# HNKHIX_31665 Length: 42
+# HNKHIX_31665 Number of predicted TMRs: 0
+HNKHIX_31665	signal	1	35				
+HNKHIX_31665	outside	36	42				
+//
+# HNKHIX_165776 Length: 37
+# HNKHIX_165776 Number of predicted TMRs: 0
+HNKHIX_165776	signal	1	35				
+HNKHIX_165776	outside	36	37				
+//
+# HNKHIX_143275 Length: 46
+# HNKHIX_143275 Number of predicted TMRs: 0
+HNKHIX_143275	inside	1	46				
+//
+# HNKHIX_127336 Length: 46
+# HNKHIX_127336 Number of predicted TMRs: 0
+HNKHIX_127336	inside	1	46				
+//
+# HNKHIX_122230 Length: 39
+# HNKHIX_122230 Number of predicted TMRs: 0
+HNKHIX_122230	inside	1	39				
+//
+# HNKHIX_172290 Length: 44
+# HNKHIX_172290 Number of predicted TMRs: 0
+HNKHIX_172290	signal	1	43				
+HNKHIX_172290	outside	44	44				
+//
+# HNKHIX_148509 Length: 36
+# HNKHIX_148509 Number of predicted TMRs: 0
+HNKHIX_148509	inside	1	36				
+//
+# HNKHIX_6433 Length: 48
+# HNKHIX_6433 Number of predicted TMRs: 0
+HNKHIX_6433	inside	1	48				
+//
+# HNKHIX_2746 Length: 36
+# HNKHIX_2746 Number of predicted TMRs: 0
+HNKHIX_2746	signal	1	34				
+HNKHIX_2746	outside	35	36				
+//
+# HNKHIX_113322 Length: 33
+# HNKHIX_113322 Number of predicted TMRs: 0
+HNKHIX_113322	signal	1	32				
+HNKHIX_113322	outside	33	33				
+//
+# HNKHIX_111132 Length: 44
+# HNKHIX_111132 Number of predicted TMRs: 0
+HNKHIX_111132	inside	1	44				
+//
+# HNKHIX_148524 Length: 40
+# HNKHIX_148524 Number of predicted TMRs: 0
+HNKHIX_148524	signal	1	39				
+HNKHIX_148524	outside	40	40				
+//
+# HNKHIX_29474 Length: 47
+# HNKHIX_29474 Number of predicted TMRs: 0
+HNKHIX_29474	signal	1	10				
+HNKHIX_29474	outside	11	47				
+//
+# HNKHIX_82444 Length: 44
+# HNKHIX_82444 Number of predicted TMRs: 0
+HNKHIX_82444	signal	1	10				
+HNKHIX_82444	outside	11	44				
+//
+# HNKHIX_77395 Length: 41
+# HNKHIX_77395 Number of predicted TMRs: 0
+HNKHIX_77395	signal	1	33				
+HNKHIX_77395	outside	34	41				
+//
+# HNKHIX_41224 Length: 42
+# HNKHIX_41224 Number of predicted TMRs: 0
+HNKHIX_41224	inside	1	42				
+//
+# HNKHIX_133903 Length: 48
+# HNKHIX_133903 Number of predicted TMRs: 0
+HNKHIX_133903	inside	1	48				
+//
+# HNKHIX_42519 Length: 45
+# HNKHIX_42519 Number of predicted TMRs: 0
+HNKHIX_42519	inside	1	45				
+//
+# HNKHIX_116022 Length: 39
+# HNKHIX_116022 Number of predicted TMRs: 0
+HNKHIX_116022	inside	1	39				
+//
+# HNKHIX_37637 Length: 43
+# HNKHIX_37637 Number of predicted TMRs: 0
+HNKHIX_37637	inside	1	43				
+//
+# HNKHIX_123638 Length: 44
+# HNKHIX_123638 Number of predicted TMRs: 0
+HNKHIX_123638	inside	1	44				
+//
+# HNKHIX_149881 Length: 48
+# HNKHIX_149881 Number of predicted TMRs: 0
+HNKHIX_149881	inside	1	48				
+//
+# HNKHIX_75667 Length: 49
+# HNKHIX_75667 Number of predicted TMRs: 0
+HNKHIX_75667	inside	1	49				
+//
+# HNKHIX_141333 Length: 48
+# HNKHIX_141333 Number of predicted TMRs: 0
+HNKHIX_141333	signal	1	47				
+HNKHIX_141333	outside	48	48				
+//
+# HNKHIX_35302 Length: 45
+# HNKHIX_35302 Number of predicted TMRs: 0
+HNKHIX_35302	inside	1	45				
+//
+# HNKHIX_95963 Length: 48
+# HNKHIX_95963 Number of predicted TMRs: 0
+HNKHIX_95963	signal	1	12				
+HNKHIX_95963	outside	13	48				
+//
+# HNKHIX_37850 Length: 49
+# HNKHIX_37850 Number of predicted TMRs: 0
+HNKHIX_37850	inside	1	49				
+//
+# HNKHIX_154074 Length: 45
+# HNKHIX_154074 Number of predicted TMRs: 0
+HNKHIX_154074	signal	1	22				
+HNKHIX_154074	outside	23	45				
+//
+# HNKHIX_119756 Length: 50
+# HNKHIX_119756 Number of predicted TMRs: 0
+HNKHIX_119756	inside	1	50				
+//
+# HNKHIX_16775 Length: 48
+# HNKHIX_16775 Number of predicted TMRs: 0
+HNKHIX_16775	inside	1	48				
+//
+# HNKHIX_137764 Length: 44
+# HNKHIX_137764 Number of predicted TMRs: 0
+HNKHIX_137764	signal	1	29				
+HNKHIX_137764	outside	30	44				
+//
+# HNKHIX_76266 Length: 37
+# HNKHIX_76266 Number of predicted TMRs: 0
+HNKHIX_76266	inside	1	37				
+//
+# HNKHIX_136444 Length: 47
+# HNKHIX_136444 Number of predicted TMRs: 0
+HNKHIX_136444	signal	1	29				
+HNKHIX_136444	outside	30	47				
+//
+# HNKHIX_62838 Length: 32
+# HNKHIX_62838 Number of predicted TMRs: 0
+HNKHIX_62838	signal	1	31				
+HNKHIX_62838	outside	32	32				
+//
+# HNKHIX_150175 Length: 46
+# HNKHIX_150175 Number of predicted TMRs: 0
+HNKHIX_150175	inside	1	46				
+//
+# HNKHIX_87962 Length: 50
+# HNKHIX_87962 Number of predicted TMRs: 0
+HNKHIX_87962	signal	1	45				
+HNKHIX_87962	outside	46	50				
+//
+# HNKHIX_111022 Length: 43
+# HNKHIX_111022 Number of predicted TMRs: 0
+HNKHIX_111022	inside	1	43				
+//
+# HNKHIX_105333 Length: 37
+# HNKHIX_105333 Number of predicted TMRs: 0
+HNKHIX_105333	inside	1	37				
+//
+# HNKHIX_86135 Length: 28
+# HNKHIX_86135 Number of predicted TMRs: 0
+HNKHIX_86135	outside	1	28				
+//
+# HNKHIX_10341 Length: 40
+# HNKHIX_10341 Number of predicted TMRs: 0
+HNKHIX_10341	inside	1	40				
+//
+# HNKHIX_33360 Length: 44
+# HNKHIX_33360 Number of predicted TMRs: 0
+HNKHIX_33360	signal	1	37				
+HNKHIX_33360	outside	38	44				
+//
+# HNKHIX_69508 Length: 48
+# HNKHIX_69508 Number of predicted TMRs: 0
+HNKHIX_69508	inside	1	48				
+//
+# HNKHIX_148053 Length: 37
+# HNKHIX_148053 Number of predicted TMRs: 0
+HNKHIX_148053	signal	1	36				
+HNKHIX_148053	outside	37	37				
+//
+# HNKHIX_48226 Length: 38
+# HNKHIX_48226 Number of predicted TMRs: 0
+HNKHIX_48226	inside	1	38				
+//
+# HNKHIX_146947 Length: 50
+# HNKHIX_146947 Number of predicted TMRs: 0
+HNKHIX_146947	inside	1	50				
+//
+# HNKHIX_25348 Length: 41
+# HNKHIX_25348 Number of predicted TMRs: 0
+HNKHIX_25348	inside	1	41				
+//
+# HNKHIX_55038 Length: 45
+# HNKHIX_55038 Number of predicted TMRs: 0
+HNKHIX_55038	inside	1	45				
+//
+# HNKHIX_130094 Length: 44
+# HNKHIX_130094 Number of predicted TMRs: 0
+HNKHIX_130094	inside	1	44				
+//
+# HNKHIX_103910 Length: 47
+# HNKHIX_103910 Number of predicted TMRs: 0
+HNKHIX_103910	inside	1	47				
+//
+# HNKHIX_128100 Length: 48
+# HNKHIX_128100 Number of predicted TMRs: 0
+HNKHIX_128100	signal	1	10				
+HNKHIX_128100	outside	11	48				
+//
+# HNKHIX_139953 Length: 43
+# HNKHIX_139953 Number of predicted TMRs: 0
+HNKHIX_139953	inside	1	43				
+//
+# HNKHIX_163284 Length: 45
+# HNKHIX_163284 Number of predicted TMRs: 0
+HNKHIX_163284	inside	1	45				
+//
+# HNKHIX_149063 Length: 46
+# HNKHIX_149063 Number of predicted TMRs: 0
+HNKHIX_149063	inside	1	46				
+//
+# HNKHIX_33580 Length: 28
+# HNKHIX_33580 Number of predicted TMRs: 0
+HNKHIX_33580	signal	1	27				
+HNKHIX_33580	outside	28	28				
+//
+# HNKHIX_172244 Length: 45
+# HNKHIX_172244 Number of predicted TMRs: 0
+HNKHIX_172244	outside	1	45				
+//
+# HNKHIX_83306 Length: 40
+# HNKHIX_83306 Number of predicted TMRs: 0
+HNKHIX_83306	inside	1	40				
+//
+# HNKHIX_47767 Length: 49
+# HNKHIX_47767 Number of predicted TMRs: 0
+HNKHIX_47767	signal	1	23				
+HNKHIX_47767	outside	24	49				
+//
+# HNKHIX_130861 Length: 44
+# HNKHIX_130861 Number of predicted TMRs: 0
+HNKHIX_130861	signal	1	42				
+HNKHIX_130861	outside	43	44				
+//
+# HNKHIX_96297 Length: 28
+# HNKHIX_96297 Number of predicted TMRs: 0
+HNKHIX_96297	inside	1	28				
+//
+# HNKHIX_166743 Length: 46
+# HNKHIX_166743 Number of predicted TMRs: 0
+HNKHIX_166743	outside	1	46				
+//
+# HNKHIX_117131 Length: 28
+# HNKHIX_117131 Number of predicted TMRs: 0
+HNKHIX_117131	signal	1	26				
+HNKHIX_117131	outside	27	28				
+//
+# HNKHIX_162371 Length: 37
+# HNKHIX_162371 Number of predicted TMRs: 0
+HNKHIX_162371	inside	1	37				
+//
+# HNKHIX_82559 Length: 44
+# HNKHIX_82559 Number of predicted TMRs: 0
+HNKHIX_82559	inside	1	44				
+//
+# HNKHIX_86137 Length: 35
+# HNKHIX_86137 Number of predicted TMRs: 0
+HNKHIX_86137	outside	1	35				
+//
+# HNKHIX_86138 Length: 48
+# HNKHIX_86138 Number of predicted TMRs: 0
+HNKHIX_86138	inside	1	48				
+//
+# HNKHIX_21040 Length: 41
+# HNKHIX_21040 Number of predicted TMRs: 0
+HNKHIX_21040	signal	1	28				
+HNKHIX_21040	outside	29	41				
+//
+# HNKHIX_132348 Length: 36
+# HNKHIX_132348 Number of predicted TMRs: 0
+HNKHIX_132348	signal	1	35				
+HNKHIX_132348	outside	36	36				
+//
+# HNKHIX_113817 Length: 46
+# HNKHIX_113817 Number of predicted TMRs: 0
+HNKHIX_113817	inside	1	46				
+//
+# HNKHIX_12216 Length: 35
+# HNKHIX_12216 Number of predicted TMRs: 0
+HNKHIX_12216	inside	1	35				
+//
+# HNKHIX_22881 Length: 49
+# HNKHIX_22881 Number of predicted TMRs: 0
+HNKHIX_22881	inside	1	49				
+//
+# HNKHIX_159244 Length: 48
+# HNKHIX_159244 Number of predicted TMRs: 0
+HNKHIX_159244	inside	1	48				
+//
+# HNKHIX_21879 Length: 46
+# HNKHIX_21879 Number of predicted TMRs: 0
+HNKHIX_21879	inside	1	46				
+//
+# HNKHIX_90973 Length: 39
+# HNKHIX_90973 Number of predicted TMRs: 0
+HNKHIX_90973	inside	1	39				
+//
+# HNKHIX_125212 Length: 38
+# HNKHIX_125212 Number of predicted TMRs: 0
+HNKHIX_125212	signal	1	32				
+HNKHIX_125212	outside	33	38				
+//
+# HNKHIX_100204 Length: 47
+# HNKHIX_100204 Number of predicted TMRs: 0
+HNKHIX_100204	inside	1	47				
+//
+# HNKHIX_158942 Length: 49
+# HNKHIX_158942 Number of predicted TMRs: 0
+HNKHIX_158942	inside	1	49				
+//
+# HNKHIX_110702 Length: 48
+# HNKHIX_110702 Number of predicted TMRs: 0
+HNKHIX_110702	signal	1	21				
+HNKHIX_110702	outside	22	48				
+//
+# HNKHIX_57875 Length: 47
+# HNKHIX_57875 Number of predicted TMRs: 0
+HNKHIX_57875	inside	1	47				
+//
+# HNKHIX_142996 Length: 49
+# HNKHIX_142996 Number of predicted TMRs: 0
+HNKHIX_142996	inside	1	49				
+//
+# HNKHIX_50272 Length: 49
+# HNKHIX_50272 Number of predicted TMRs: 0
+HNKHIX_50272	inside	1	49				
+//
+# HNKHIX_21219 Length: 44
+# HNKHIX_21219 Number of predicted TMRs: 0
+HNKHIX_21219	inside	1	44				
+//
+# HNKHIX_143869 Length: 43
+# HNKHIX_143869 Number of predicted TMRs: 0
+HNKHIX_143869	signal	1	11				
+HNKHIX_143869	outside	12	43				
+//
+# HNKHIX_99143 Length: 46
+# HNKHIX_99143 Number of predicted TMRs: 0
+HNKHIX_99143	inside	1	46				
+//
+# HNKHIX_41640 Length: 49
+# HNKHIX_41640 Number of predicted TMRs: 0
+HNKHIX_41640	signal	1	26				
+HNKHIX_41640	outside	27	49				
+//
+# HNKHIX_143465 Length: 49
+# HNKHIX_143465 Number of predicted TMRs: 0
+HNKHIX_143465	signal	1	29				
+HNKHIX_143465	outside	30	49				
+//
+# HNKHIX_15207 Length: 33
+# HNKHIX_15207 Number of predicted TMRs: 0
+HNKHIX_15207	inside	1	33				
+//
+# HNKHIX_93588 Length: 33
+# HNKHIX_93588 Number of predicted TMRs: 0
+HNKHIX_93588	inside	1	33				
+//
+# HNKHIX_8514 Length: 44
+# HNKHIX_8514 Number of predicted TMRs: 0
+HNKHIX_8514	inside	1	44				
+//
+# HNKHIX_12362 Length: 47
+# HNKHIX_12362 Number of predicted TMRs: 0
+HNKHIX_12362	inside	1	47				
+//
+# HNKHIX_110156 Length: 43
+# HNKHIX_110156 Number of predicted TMRs: 0
+HNKHIX_110156	inside	1	43				
+//
+# HNKHIX_90904 Length: 47
+# HNKHIX_90904 Number of predicted TMRs: 0
+HNKHIX_90904	signal	1	43				
+HNKHIX_90904	outside	44	47				
+//
+# HNKHIX_124273 Length: 47
+# HNKHIX_124273 Number of predicted TMRs: 0
+HNKHIX_124273	inside	1	47				
+//
+# HNKHIX_17274 Length: 49
+# HNKHIX_17274 Number of predicted TMRs: 0
+HNKHIX_17274	inside	1	49				
+//
+# HNKHIX_74359 Length: 50
+# HNKHIX_74359 Number of predicted TMRs: 0
+HNKHIX_74359	signal	1	41				
+HNKHIX_74359	outside	42	50				
+//
+# HNKHIX_123440 Length: 47
+# HNKHIX_123440 Number of predicted TMRs: 0
+HNKHIX_123440	inside	1	47				
+//
+# HNKHIX_105644 Length: 49
+# HNKHIX_105644 Number of predicted TMRs: 0
+HNKHIX_105644	inside	1	49				
+//
+# HNKHIX_139799 Length: 47
+# HNKHIX_139799 Number of predicted TMRs: 0
+HNKHIX_139799	signal	1	12				
+HNKHIX_139799	outside	13	47				
+//
+# HNKHIX_134944 Length: 36
+# HNKHIX_134944 Number of predicted TMRs: 0
+HNKHIX_134944	inside	1	36				
+//
+# HNKHIX_173238 Length: 50
+# HNKHIX_173238 Number of predicted TMRs: 0
+HNKHIX_173238	signal	1	33				
+HNKHIX_173238	outside	34	50				
+//
+# HNKHIX_164007 Length: 39
+# HNKHIX_164007 Number of predicted TMRs: 0
+HNKHIX_164007	inside	1	39				
+//
+# HNKHIX_73273 Length: 46
+# HNKHIX_73273 Number of predicted TMRs: 0
+HNKHIX_73273	inside	1	46				
+//
+# HNKHIX_84106 Length: 39
+# HNKHIX_84106 Number of predicted TMRs: 0
+HNKHIX_84106	inside	1	39				
+//
+# HNKHIX_102198 Length: 36
+# HNKHIX_102198 Number of predicted TMRs: 0
+HNKHIX_102198	signal	1	35				
+HNKHIX_102198	outside	36	36				
+//
+# HNKHIX_29858 Length: 42
+# HNKHIX_29858 Number of predicted TMRs: 0
+HNKHIX_29858	inside	1	42				
+//
+# HNKHIX_26458 Length: 44
+# HNKHIX_26458 Number of predicted TMRs: 0
+HNKHIX_26458	outside	1	44				
+//
+# HNKHIX_150081 Length: 42
+# HNKHIX_150081 Number of predicted TMRs: 0
+HNKHIX_150081	inside	1	42				
+//
+# HNKHIX_118557 Length: 50
+# HNKHIX_118557 Number of predicted TMRs: 0
+HNKHIX_118557	signal	1	46				
+HNKHIX_118557	outside	47	50				
+//
+# HNKHIX_123980 Length: 38
+# HNKHIX_123980 Number of predicted TMRs: 0
+HNKHIX_123980	inside	1	38				
+//
+# HNKHIX_132559 Length: 50
+# HNKHIX_132559 Number of predicted TMRs: 0
+HNKHIX_132559	signal	1	49				
+HNKHIX_132559	outside	50	50				
+//
+# HNKHIX_144753 Length: 49
+# HNKHIX_144753 Number of predicted TMRs: 0
+HNKHIX_144753	inside	1	49				
+//
+# HNKHIX_21029 Length: 47
+# HNKHIX_21029 Number of predicted TMRs: 0
+HNKHIX_21029	inside	1	47				
+//
+# HNKHIX_115948 Length: 45
+# HNKHIX_115948 Number of predicted TMRs: 0
+HNKHIX_115948	inside	1	45				
+//
+# HNKHIX_78181 Length: 50
+# HNKHIX_78181 Number of predicted TMRs: 0
+HNKHIX_78181	inside	1	50				
+//
+# HNKHIX_44807 Length: 48
+# HNKHIX_44807 Number of predicted TMRs: 0
+HNKHIX_44807	inside	1	48				
+//
+# HNKHIX_60601 Length: 42
+# HNKHIX_60601 Number of predicted TMRs: 0
+HNKHIX_60601	inside	1	42				
+//
+# HNKHIX_37125 Length: 38
+# HNKHIX_37125 Number of predicted TMRs: 0
+HNKHIX_37125	signal	1	11				
+HNKHIX_37125	outside	12	38				
+//
+# HNKHIX_3095 Length: 38
+# HNKHIX_3095 Number of predicted TMRs: 0
+HNKHIX_3095	inside	1	38				
+//
+# HNKHIX_134625 Length: 50
+# HNKHIX_134625 Number of predicted TMRs: 0
+HNKHIX_134625	signal	1	47				
+HNKHIX_134625	outside	48	50				
+//
+# HNKHIX_36903 Length: 35
+# HNKHIX_36903 Number of predicted TMRs: 0
+HNKHIX_36903	inside	1	35				
+//
+# HNKHIX_10317 Length: 48
+# HNKHIX_10317 Number of predicted TMRs: 0
+HNKHIX_10317	inside	1	48				
+//
+# HNKHIX_120385 Length: 47
+# HNKHIX_120385 Number of predicted TMRs: 0
+HNKHIX_120385	inside	1	47				
+//
+# HNKHIX_145327 Length: 43
+# HNKHIX_145327 Number of predicted TMRs: 0
+HNKHIX_145327	signal	1	15				
+HNKHIX_145327	outside	16	43				
+//
+# HNKHIX_135533 Length: 47
+# HNKHIX_135533 Number of predicted TMRs: 0
+HNKHIX_135533	inside	1	47				
+//
+# HNKHIX_121500 Length: 40
+# HNKHIX_121500 Number of predicted TMRs: 0
+HNKHIX_121500	signal	1	38				
+HNKHIX_121500	outside	39	40				
+//
+# HNKHIX_85845 Length: 37
+# HNKHIX_85845 Number of predicted TMRs: 0
+HNKHIX_85845	signal	1	35				
+HNKHIX_85845	outside	36	37				
+//
+# HNKHIX_122185 Length: 46
+# HNKHIX_122185 Number of predicted TMRs: 0
+HNKHIX_122185	inside	1	46				
+//
+# HNKHIX_22212 Length: 42
+# HNKHIX_22212 Number of predicted TMRs: 0
+HNKHIX_22212	signal	1	16				
+HNKHIX_22212	outside	17	42				
+//
+# HNKHIX_23557 Length: 45
+# HNKHIX_23557 Number of predicted TMRs: 0
+HNKHIX_23557	inside	1	45				
+//
+# HNKHIX_88692 Length: 47
+# HNKHIX_88692 Number of predicted TMRs: 0
+HNKHIX_88692	inside	1	47				
+//
+# HNKHIX_71492 Length: 48
+# HNKHIX_71492 Number of predicted TMRs: 0
+HNKHIX_71492	inside	1	48				
+//
+# HNKHIX_132972 Length: 39
+# HNKHIX_132972 Number of predicted TMRs: 0
+HNKHIX_132972	inside	1	39				
+//
+# HNKHIX_43820 Length: 39
+# HNKHIX_43820 Number of predicted TMRs: 0
+HNKHIX_43820	signal	1	20				
+HNKHIX_43820	outside	21	39				
+//
+# HNKHIX_153949 Length: 50
+# HNKHIX_153949 Number of predicted TMRs: 0
+HNKHIX_153949	inside	1	50				
+//
+# HNKHIX_12448 Length: 43
+# HNKHIX_12448 Number of predicted TMRs: 0
+HNKHIX_12448	signal	1	30				
+HNKHIX_12448	outside	31	43				
+//
+# HNKHIX_136380 Length: 47
+# HNKHIX_136380 Number of predicted TMRs: 0
+HNKHIX_136380	inside	1	47				
+//
+# HNKHIX_31629 Length: 41
+# HNKHIX_31629 Number of predicted TMRs: 0
+HNKHIX_31629	signal	1	10				
+HNKHIX_31629	outside	11	41				
+//
+# HNKHIX_116331 Length: 41
+# HNKHIX_116331 Number of predicted TMRs: 0
+HNKHIX_116331	inside	1	41				
+//
+# HNKHIX_44613 Length: 45
+# HNKHIX_44613 Number of predicted TMRs: 0
+HNKHIX_44613	inside	1	45				
+//
+# HNKHIX_37734 Length: 49
+# HNKHIX_37734 Number of predicted TMRs: 0
+HNKHIX_37734	inside	1	49				
+//
+# HNKHIX_89162 Length: 47
+# HNKHIX_89162 Number of predicted TMRs: 0
+HNKHIX_89162	signal	1	20				
+HNKHIX_89162	outside	21	47				
+//
+# HNKHIX_46337 Length: 45
+# HNKHIX_46337 Number of predicted TMRs: 0
+HNKHIX_46337	inside	1	45				
+//
+# HNKHIX_106783 Length: 48
+# HNKHIX_106783 Number of predicted TMRs: 0
+HNKHIX_106783	inside	1	48				
+//
+# HNKHIX_36650 Length: 45
+# HNKHIX_36650 Number of predicted TMRs: 0
+HNKHIX_36650	inside	1	45				
+//
+# HNKHIX_59339 Length: 42
+# HNKHIX_59339 Number of predicted TMRs: 0
+HNKHIX_59339	outside	1	42				
+//
+# HNKHIX_111981 Length: 49
+# HNKHIX_111981 Number of predicted TMRs: 0
+HNKHIX_111981	inside	1	49				
+//
+# HNKHIX_29567 Length: 45
+# HNKHIX_29567 Number of predicted TMRs: 0
+HNKHIX_29567	inside	1	45				
+//
+# HNKHIX_144934 Length: 48
+# HNKHIX_144934 Number of predicted TMRs: 0
+HNKHIX_144934	signal	1	46				
+HNKHIX_144934	outside	47	48				
+//
+# HNKHIX_76840 Length: 42
+# HNKHIX_76840 Number of predicted TMRs: 0
+HNKHIX_76840	inside	1	42				
+//
+# HNKHIX_107041 Length: 50
+# HNKHIX_107041 Number of predicted TMRs: 0
+HNKHIX_107041	inside	1	50				
+//
+# HNKHIX_157923 Length: 48
+# HNKHIX_157923 Number of predicted TMRs: 0
+HNKHIX_157923	inside	1	48				
+//
+# HNKHIX_148237 Length: 45
+# HNKHIX_148237 Number of predicted TMRs: 0
+HNKHIX_148237	inside	1	45				
+//
+# HNKHIX_116699 Length: 45
+# HNKHIX_116699 Number of predicted TMRs: 0
+HNKHIX_116699	inside	1	45				
+//
+# HNKHIX_172354 Length: 43
+# HNKHIX_172354 Number of predicted TMRs: 0
+HNKHIX_172354	signal	1	27				
+HNKHIX_172354	outside	28	43				
+//
+# HNKHIX_171759 Length: 46
+# HNKHIX_171759 Number of predicted TMRs: 0
+HNKHIX_171759	signal	1	15				
+HNKHIX_171759	outside	16	46				
+//
+# HNKHIX_46596 Length: 50
+# HNKHIX_46596 Number of predicted TMRs: 0
+HNKHIX_46596	inside	1	50				
+//
+# HNKHIX_119634 Length: 49
+# HNKHIX_119634 Number of predicted TMRs: 0
+HNKHIX_119634	inside	1	49				
+//
+# HNKHIX_95837 Length: 46
+# HNKHIX_95837 Number of predicted TMRs: 0
+HNKHIX_95837	inside	1	46				
+//
+# HNKHIX_13089 Length: 28
+# HNKHIX_13089 Number of predicted TMRs: 0
+HNKHIX_13089	outside	1	28				
+//
+# HNKHIX_72794 Length: 46
+# HNKHIX_72794 Number of predicted TMRs: 0
+HNKHIX_72794	signal	1	37				
+HNKHIX_72794	outside	38	46				
+//
+# HNKHIX_77088 Length: 36
+# HNKHIX_77088 Number of predicted TMRs: 0
+HNKHIX_77088	signal	1	31				
+HNKHIX_77088	outside	32	36				
+//
+# HNKHIX_145674 Length: 49
+# HNKHIX_145674 Number of predicted TMRs: 0
+HNKHIX_145674	inside	1	49				
+//
+# HNKHIX_16531 Length: 43
+# HNKHIX_16531 Number of predicted TMRs: 0
+HNKHIX_16531	inside	1	43				
+//
+# HNKHIX_16754 Length: 41
+# HNKHIX_16754 Number of predicted TMRs: 0
+HNKHIX_16754	inside	1	41				
+//
+# HNKHIX_36046 Length: 40
+# HNKHIX_36046 Number of predicted TMRs: 0
+HNKHIX_36046	signal	1	35				
+HNKHIX_36046	outside	36	40				
+//
+# HNKHIX_122496 Length: 46
+# HNKHIX_122496 Number of predicted TMRs: 0
+HNKHIX_122496	signal	1	45				
+HNKHIX_122496	outside	46	46				
+//
+# HNKHIX_102096 Length: 45
+# HNKHIX_102096 Number of predicted TMRs: 0
+HNKHIX_102096	inside	1	45				
+//
+# HNKHIX_4056 Length: 42
+# HNKHIX_4056 Number of predicted TMRs: 0
+HNKHIX_4056	inside	1	42				
+//
+# HNKHIX_65591 Length: 40
+# HNKHIX_65591 Number of predicted TMRs: 0
+HNKHIX_65591	inside	1	40				
+//
+# HNKHIX_69296 Length: 42
+# HNKHIX_69296 Number of predicted TMRs: 0
+HNKHIX_69296	inside	1	42				
+//
+# HNKHIX_25988 Length: 38
+# HNKHIX_25988 Number of predicted TMRs: 0
+HNKHIX_25988	signal	1	32				
+HNKHIX_25988	outside	33	38				
+//
+# HNKHIX_138828 Length: 49
+# HNKHIX_138828 Number of predicted TMRs: 0
+HNKHIX_138828	inside	1	49				
+//
+# HNKHIX_84253 Length: 49
+# HNKHIX_84253 Number of predicted TMRs: 0
+HNKHIX_84253	inside	1	49				
+//
+# HNKHIX_36680 Length: 49
+# HNKHIX_36680 Number of predicted TMRs: 0
+HNKHIX_36680	inside	1	49				
+//
+# HNKHIX_119293 Length: 50
+# HNKHIX_119293 Number of predicted TMRs: 0
+HNKHIX_119293	signal	1	33				
+HNKHIX_119293	outside	34	50				
+//
+# HNKHIX_82511 Length: 37
+# HNKHIX_82511 Number of predicted TMRs: 0
+HNKHIX_82511	signal	1	19				
+HNKHIX_82511	outside	20	37				
+//
+# HNKHIX_18749 Length: 38
+# HNKHIX_18749 Number of predicted TMRs: 0
+HNKHIX_18749	inside	1	38				
+//
+# HNKHIX_92582 Length: 48
+# HNKHIX_92582 Number of predicted TMRs: 0
+HNKHIX_92582	signal	1	29				
+HNKHIX_92582	outside	30	48				
+//
+# HNKHIX_68087 Length: 42
+# HNKHIX_68087 Number of predicted TMRs: 0
+HNKHIX_68087	inside	1	42				
+//
+# HNKHIX_170679 Length: 47
+# HNKHIX_170679 Number of predicted TMRs: 0
+HNKHIX_170679	inside	1	47				
+//
+# HNKHIX_126414 Length: 50
+# HNKHIX_126414 Number of predicted TMRs: 0
+HNKHIX_126414	signal	1	48				
+HNKHIX_126414	outside	49	50				
+//
+# HNKHIX_102669 Length: 46
+# HNKHIX_102669 Number of predicted TMRs: 0
+HNKHIX_102669	inside	1	46				
+//
+# HNKHIX_95689 Length: 40
+# HNKHIX_95689 Number of predicted TMRs: 0
+HNKHIX_95689	signal	1	32				
+HNKHIX_95689	outside	33	40				
+//
+# HNKHIX_134943 Length: 48
+# HNKHIX_134943 Number of predicted TMRs: 0
+HNKHIX_134943	signal	1	44				
+HNKHIX_134943	outside	45	48				
+//
+# HNKHIX_18993 Length: 43
+# HNKHIX_18993 Number of predicted TMRs: 0
+HNKHIX_18993	outside	1	43				
+//
+# HNKHIX_121886 Length: 39
+# HNKHIX_121886 Number of predicted TMRs: 0
+HNKHIX_121886	signal	1	26				
+HNKHIX_121886	outside	27	39				
+//
+# HNKHIX_8196 Length: 49
+# HNKHIX_8196 Number of predicted TMRs: 0
+HNKHIX_8196	signal	1	44				
+HNKHIX_8196	outside	45	49				
+//
+# HNKHIX_90143 Length: 34
+# HNKHIX_90143 Number of predicted TMRs: 0
+HNKHIX_90143	inside	1	34				
+//
+# HNKHIX_10177 Length: 40
+# HNKHIX_10177 Number of predicted TMRs: 0
+HNKHIX_10177	signal	1	34				
+HNKHIX_10177	outside	35	40				
+//
+# HNKHIX_100104 Length: 48
+# HNKHIX_100104 Number of predicted TMRs: 0
+HNKHIX_100104	inside	1	48				
+//
+# HNKHIX_134383 Length: 44
+# HNKHIX_134383 Number of predicted TMRs: 0
+HNKHIX_134383	inside	1	44				
+//
+# HNKHIX_125473 Length: 42
+# HNKHIX_125473 Number of predicted TMRs: 0
+HNKHIX_125473	inside	1	42				
+//
+# HNKHIX_43241 Length: 39
+# HNKHIX_43241 Number of predicted TMRs: 0
+HNKHIX_43241	inside	1	39				
+//
+# HNKHIX_145182 Length: 34
+# HNKHIX_145182 Number of predicted TMRs: 0
+HNKHIX_145182	signal	1	14				
+HNKHIX_145182	outside	15	34				
+//
+# HNKHIX_57874 Length: 48
+# HNKHIX_57874 Number of predicted TMRs: 0
+HNKHIX_57874	inside	1	48				
+//
+# HNKHIX_35051 Length: 49
+# HNKHIX_35051 Number of predicted TMRs: 0
+HNKHIX_35051	signal	1	28				
+HNKHIX_35051	outside	29	49				
+//
+# HNKHIX_6036 Length: 49
+# HNKHIX_6036 Number of predicted TMRs: 0
+HNKHIX_6036	inside	1	49				
+//
+# HNKHIX_100425 Length: 45
+# HNKHIX_100425 Number of predicted TMRs: 0
+HNKHIX_100425	signal	1	15				
+HNKHIX_100425	outside	16	45				
+//
+# HNKHIX_101671 Length: 46
+# HNKHIX_101671 Number of predicted TMRs: 0
+HNKHIX_101671	signal	1	43				
+HNKHIX_101671	outside	44	46				
+//
+# HNKHIX_122287 Length: 36
+# HNKHIX_122287 Number of predicted TMRs: 0
+HNKHIX_122287	signal	1	25				
+HNKHIX_122287	outside	26	36				
+//
+# HNKHIX_138965 Length: 49
+# HNKHIX_138965 Number of predicted TMRs: 0
+HNKHIX_138965	inside	1	49				
+//
+# HNKHIX_40998 Length: 47
+# HNKHIX_40998 Number of predicted TMRs: 0
+HNKHIX_40998	signal	1	45				
+HNKHIX_40998	outside	46	47				
+//
+# HNKHIX_13488 Length: 49
+# HNKHIX_13488 Number of predicted TMRs: 0
+HNKHIX_13488	signal	1	40				
+HNKHIX_13488	outside	41	49				
+//
+# HNKHIX_20753 Length: 48
+# HNKHIX_20753 Number of predicted TMRs: 0
+HNKHIX_20753	inside	1	48				
+//
+# HNKHIX_59249 Length: 49
+# HNKHIX_59249 Number of predicted TMRs: 0
+HNKHIX_59249	inside	1	49				
+//
+# HNKHIX_94141 Length: 46
+# HNKHIX_94141 Number of predicted TMRs: 0
+HNKHIX_94141	inside	1	46				
+//
+# HNKHIX_90002 Length: 48
+# HNKHIX_90002 Number of predicted TMRs: 0
+HNKHIX_90002	signal	1	25				
+HNKHIX_90002	outside	26	48				
+//
+# HNKHIX_98281 Length: 47
+# HNKHIX_98281 Number of predicted TMRs: 0
+HNKHIX_98281	inside	1	47				
+//
+# HNKHIX_117308 Length: 48
+# HNKHIX_117308 Number of predicted TMRs: 0
+HNKHIX_117308	inside	1	48				
+//
+# HNKHIX_135490 Length: 46
+# HNKHIX_135490 Number of predicted TMRs: 0
+HNKHIX_135490	inside	1	46				
+//
+# HNKHIX_7237 Length: 37
+# HNKHIX_7237 Number of predicted TMRs: 0
+HNKHIX_7237	signal	1	35				
+HNKHIX_7237	outside	36	37				
+//
+# HNKHIX_39332 Length: 44
+# HNKHIX_39332 Number of predicted TMRs: 1
+HNKHIX_39332	inside	1	15				
+HNKHIX_39332	TMhelix	16	36				
+HNKHIX_39332	outside	37	44				
+//
+# HNKHIX_170779 Length: 45
+# HNKHIX_170779 Number of predicted TMRs: 0
+HNKHIX_170779	inside	1	45				
+//
+# HNKHIX_154882 Length: 31
+# HNKHIX_154882 Number of predicted TMRs: 0
+HNKHIX_154882	signal	1	19				
+HNKHIX_154882	outside	20	31				
+//
+# HNKHIX_100417 Length: 48
+# HNKHIX_100417 Number of predicted TMRs: 0
+HNKHIX_100417	inside	1	48				
+//
+# HNKHIX_108961 Length: 46
+# HNKHIX_108961 Number of predicted TMRs: 0
+HNKHIX_108961	inside	1	46				
+//
+# HNKHIX_17207 Length: 50
+# HNKHIX_17207 Number of predicted TMRs: 0
+HNKHIX_17207	inside	1	50				
+//
+# HNKHIX_5941 Length: 50
+# HNKHIX_5941 Number of predicted TMRs: 0
+HNKHIX_5941	inside	1	50				
+//
+# HNKHIX_24493 Length: 37
+# HNKHIX_24493 Number of predicted TMRs: 0
+HNKHIX_24493	inside	1	37				
+//
+# HNKHIX_126610 Length: 50
+# HNKHIX_126610 Number of predicted TMRs: 0
+HNKHIX_126610	signal	1	35				
+HNKHIX_126610	outside	36	50				
+//
+# HNKHIX_146100 Length: 50
+# HNKHIX_146100 Number of predicted TMRs: 0
+HNKHIX_146100	inside	1	50				
+//
+# HNKHIX_9638 Length: 42
+# HNKHIX_9638 Number of predicted TMRs: 0
+HNKHIX_9638	inside	1	42				
+//
+# HNKHIX_74208 Length: 50
+# HNKHIX_74208 Number of predicted TMRs: 0
+HNKHIX_74208	inside	1	50				
+//
+# HNKHIX_122794 Length: 42
+# HNKHIX_122794 Number of predicted TMRs: 0
+HNKHIX_122794	signal	1	24				
+HNKHIX_122794	outside	25	42				
+//
+# HNKHIX_72810 Length: 40
+# HNKHIX_72810 Number of predicted TMRs: 0
+HNKHIX_72810	inside	1	40				
+//
+# HNKHIX_61468 Length: 50
+# HNKHIX_61468 Number of predicted TMRs: 0
+HNKHIX_61468	inside	1	50				
+//
+# HNKHIX_159704 Length: 37
+# HNKHIX_159704 Number of predicted TMRs: 0
+HNKHIX_159704	inside	1	37				
+//
+# HNKHIX_94513 Length: 43
+# HNKHIX_94513 Number of predicted TMRs: 0
+HNKHIX_94513	signal	1	41				
+HNKHIX_94513	outside	42	43				
+//
+# HNKHIX_78984 Length: 33
+# HNKHIX_78984 Number of predicted TMRs: 0
+HNKHIX_78984	inside	1	33				
+//
+# HNKHIX_19186 Length: 42
+# HNKHIX_19186 Number of predicted TMRs: 0
+HNKHIX_19186	inside	1	42				
+//
+# HNKHIX_158666 Length: 44
+# HNKHIX_158666 Number of predicted TMRs: 1
+HNKHIX_158666	outside	1	8				
+HNKHIX_158666	TMhelix	9	29				
+HNKHIX_158666	inside	30	44				
+//
+# HNKHIX_30342 Length: 47
+# HNKHIX_30342 Number of predicted TMRs: 0
+HNKHIX_30342	signal	1	10				
+HNKHIX_30342	outside	11	47				
+//
+# HNKHIX_124892 Length: 47
+# HNKHIX_124892 Number of predicted TMRs: 0
+HNKHIX_124892	inside	1	47				
+//
+# HNKHIX_12772 Length: 40
+# HNKHIX_12772 Number of predicted TMRs: 0
+HNKHIX_12772	inside	1	40				
+//
+# HNKHIX_89052 Length: 47
+# HNKHIX_89052 Number of predicted TMRs: 0
+HNKHIX_89052	inside	1	47				
+//
+# HNKHIX_120869 Length: 37
+# HNKHIX_120869 Number of predicted TMRs: 0
+HNKHIX_120869	signal	1	25				
+HNKHIX_120869	outside	26	37				
+//
+# HNKHIX_131808 Length: 44
+# HNKHIX_131808 Number of predicted TMRs: 0
+HNKHIX_131808	signal	1	10				
+HNKHIX_131808	outside	11	44				
+//
+# HNKHIX_169972 Length: 50
+# HNKHIX_169972 Number of predicted TMRs: 0
+HNKHIX_169972	inside	1	50				
+//
+# HNKHIX_149854 Length: 50
+# HNKHIX_149854 Number of predicted TMRs: 0
+HNKHIX_149854	inside	1	50				
+//
+# HNKHIX_141784 Length: 50
+# HNKHIX_141784 Number of predicted TMRs: 0
+HNKHIX_141784	inside	1	50				
+//
+# HNKHIX_39192 Length: 32
+# HNKHIX_39192 Number of predicted TMRs: 0
+HNKHIX_39192	signal	1	31				
+HNKHIX_39192	outside	32	32				
+//
+# HNKHIX_134653 Length: 48
+# HNKHIX_134653 Number of predicted TMRs: 0
+HNKHIX_134653	inside	1	48				
+//
+# HNKHIX_120777 Length: 50
+# HNKHIX_120777 Number of predicted TMRs: 0
+HNKHIX_120777	inside	1	50				
+//
+# HNKHIX_170417 Length: 50
+# HNKHIX_170417 Number of predicted TMRs: 0
+HNKHIX_170417	inside	1	50				
+//
+# HNKHIX_168642 Length: 50
+# HNKHIX_168642 Number of predicted TMRs: 0
+HNKHIX_168642	inside	1	50				
+//
+# HNKHIX_169941 Length: 50
+# HNKHIX_169941 Number of predicted TMRs: 0
+HNKHIX_169941	inside	1	50				
+//
+# HNKHIX_144752 Length: 48
+# HNKHIX_144752 Number of predicted TMRs: 0
+HNKHIX_144752	inside	1	48				
+//
+# HNKHIX_44592 Length: 43
+# HNKHIX_44592 Number of predicted TMRs: 0
+HNKHIX_44592	signal	1	12				
+HNKHIX_44592	outside	13	43				
+//
+# HNKHIX_146091 Length: 47
+# HNKHIX_146091 Number of predicted TMRs: 0
+HNKHIX_146091	signal	1	10				
+HNKHIX_146091	outside	11	47				
+//
+# HNKHIX_35579 Length: 47
+# HNKHIX_35579 Number of predicted TMRs: 0
+HNKHIX_35579	inside	1	47				
+//
+# HNKHIX_70146 Length: 49
+# HNKHIX_70146 Number of predicted TMRs: 0
+HNKHIX_70146	signal	1	10				
+HNKHIX_70146	outside	11	49				
+//
+# HNKHIX_60414 Length: 47
+# HNKHIX_60414 Number of predicted TMRs: 0
+HNKHIX_60414	inside	1	47				
+//
+# HNKHIX_143933 Length: 48
+# HNKHIX_143933 Number of predicted TMRs: 0
+HNKHIX_143933	signal	1	46				
+HNKHIX_143933	outside	47	48				
+//
+# HNKHIX_124265 Length: 49
+# HNKHIX_124265 Number of predicted TMRs: 0
+HNKHIX_124265	inside	1	49				
+//
+# HNKHIX_63110 Length: 48
+# HNKHIX_63110 Number of predicted TMRs: 0
+HNKHIX_63110	signal	1	38				
+HNKHIX_63110	outside	39	48				
+//
+# HNKHIX_8966 Length: 48
+# HNKHIX_8966 Number of predicted TMRs: 0
+HNKHIX_8966	inside	1	48				
+//
+# HNKHIX_138783 Length: 36
+# HNKHIX_138783 Number of predicted TMRs: 0
+HNKHIX_138783	inside	1	36				
+//
+# HNKHIX_93970 Length: 46
+# HNKHIX_93970 Number of predicted TMRs: 0
+HNKHIX_93970	inside	1	46				
+//
+# HNKHIX_135045 Length: 48
+# HNKHIX_135045 Number of predicted TMRs: 0
+HNKHIX_135045	inside	1	48				
+//
+# HNKHIX_10253 Length: 47
+# HNKHIX_10253 Number of predicted TMRs: 0
+HNKHIX_10253	signal	1	46				
+HNKHIX_10253	outside	47	47				
+//
+# HNKHIX_170045 Length: 41
+# HNKHIX_170045 Number of predicted TMRs: 0
+HNKHIX_170045	signal	1	21				
+HNKHIX_170045	outside	22	41				
+//
+# HNKHIX_87310 Length: 50
+# HNKHIX_87310 Number of predicted TMRs: 0
+HNKHIX_87310	inside	1	50				
+//
+# HNKHIX_168889 Length: 45
+# HNKHIX_168889 Number of predicted TMRs: 0
+HNKHIX_168889	signal	1	39				
+HNKHIX_168889	outside	40	45				
+//
+# HNKHIX_166764 Length: 50
+# HNKHIX_166764 Number of predicted TMRs: 0
+HNKHIX_166764	inside	1	50				
+//
+# HNKHIX_124773 Length: 48
+# HNKHIX_124773 Number of predicted TMRs: 0
+HNKHIX_124773	inside	1	48				
+//
+# HNKHIX_83360 Length: 50
+# HNKHIX_83360 Number of predicted TMRs: 0
+HNKHIX_83360	inside	1	50				
+//
+# HNKHIX_115606 Length: 44
+# HNKHIX_115606 Number of predicted TMRs: 0
+HNKHIX_115606	inside	1	44				
+//
+# HNKHIX_71160 Length: 40
+# HNKHIX_71160 Number of predicted TMRs: 0
+HNKHIX_71160	inside	1	40				
+//
+# HNKHIX_168946 Length: 47
+# HNKHIX_168946 Number of predicted TMRs: 0
+HNKHIX_168946	inside	1	47				
+//
+# HNKHIX_48038 Length: 50
+# HNKHIX_48038 Number of predicted TMRs: 0
+HNKHIX_48038	inside	1	50				
+//
+# HNKHIX_139124 Length: 43
+# HNKHIX_139124 Number of predicted TMRs: 0
+HNKHIX_139124	outside	1	43				
+//
+# HNKHIX_96688 Length: 41
+# HNKHIX_96688 Number of predicted TMRs: 0
+HNKHIX_96688	inside	1	41				
+//
+# HNKHIX_168827 Length: 46
+# HNKHIX_168827 Number of predicted TMRs: 0
+HNKHIX_168827	signal	1	35				
+HNKHIX_168827	outside	36	46				
+//
+# HNKHIX_13881 Length: 41
+# HNKHIX_13881 Number of predicted TMRs: 0
+HNKHIX_13881	inside	1	41				
+//
+# HNKHIX_99023 Length: 44
+# HNKHIX_99023 Number of predicted TMRs: 0
+HNKHIX_99023	inside	1	44				
+//
+# HNKHIX_76159 Length: 44
+# HNKHIX_76159 Number of predicted TMRs: 0
+HNKHIX_76159	inside	1	44				
+//
+# HNKHIX_34600 Length: 42
+# HNKHIX_34600 Number of predicted TMRs: 0
+HNKHIX_34600	inside	1	42				
+//
+# HNKHIX_87994 Length: 35
+# HNKHIX_87994 Number of predicted TMRs: 0
+HNKHIX_87994	signal	1	32				
+HNKHIX_87994	outside	33	35				
+//
+# HNKHIX_23236 Length: 46
+# HNKHIX_23236 Number of predicted TMRs: 0
+HNKHIX_23236	inside	1	46				
+//
+# HNKHIX_166884 Length: 43
+# HNKHIX_166884 Number of predicted TMRs: 0
+HNKHIX_166884	inside	1	43				
+//
+# HNKHIX_50901 Length: 41
+# HNKHIX_50901 Number of predicted TMRs: 0
+HNKHIX_50901	inside	1	41				
+//
+# HNKHIX_111907 Length: 39
+# HNKHIX_111907 Number of predicted TMRs: 0
+HNKHIX_111907	signal	1	10				
+HNKHIX_111907	outside	11	39				
+//
+# HNKHIX_140133 Length: 43
+# HNKHIX_140133 Number of predicted TMRs: 0
+HNKHIX_140133	signal	1	22				
+HNKHIX_140133	outside	23	43				
+//
+# HNKHIX_17066 Length: 50
+# HNKHIX_17066 Number of predicted TMRs: 0
+HNKHIX_17066	inside	1	50				
+//
+# HNKHIX_80319 Length: 47
+# HNKHIX_80319 Number of predicted TMRs: 0
+HNKHIX_80319	inside	1	47				
+//
+# HNKHIX_31470 Length: 43
+# HNKHIX_31470 Number of predicted TMRs: 0
+HNKHIX_31470	outside	1	43				
+//
+# HNKHIX_99105 Length: 49
+# HNKHIX_99105 Number of predicted TMRs: 0
+HNKHIX_99105	signal	1	10				
+HNKHIX_99105	outside	11	49				
+//
+# HNKHIX_166804 Length: 47
+# HNKHIX_166804 Number of predicted TMRs: 0
+HNKHIX_166804	signal	1	45				
+HNKHIX_166804	outside	46	47				
+//
+# HNKHIX_8936 Length: 44
+# HNKHIX_8936 Number of predicted TMRs: 0
+HNKHIX_8936	inside	1	44				
+//
+# HNKHIX_100763 Length: 46
+# HNKHIX_100763 Number of predicted TMRs: 0
+HNKHIX_100763	inside	1	46				
+//
+# HNKHIX_17505 Length: 48
+# HNKHIX_17505 Number of predicted TMRs: 0
+HNKHIX_17505	inside	1	48				
+//
+# HNKHIX_94474 Length: 50
+# HNKHIX_94474 Number of predicted TMRs: 0
+HNKHIX_94474	inside	1	50				
+//
+# HNKHIX_114452 Length: 36
+# HNKHIX_114452 Number of predicted TMRs: 0
+HNKHIX_114452	signal	1	28				
+HNKHIX_114452	outside	29	36				
+//
+# HNKHIX_127761 Length: 35
+# HNKHIX_127761 Number of predicted TMRs: 0
+HNKHIX_127761	signal	1	34				
+HNKHIX_127761	outside	35	35				
+//
+# HNKHIX_56038 Length: 45
+# HNKHIX_56038 Number of predicted TMRs: 0
+HNKHIX_56038	signal	1	44				
+HNKHIX_56038	outside	45	45				
+//
+# HNKHIX_38492 Length: 33
+# HNKHIX_38492 Number of predicted TMRs: 0
+HNKHIX_38492	inside	1	33				
+//
+# HNKHIX_133013 Length: 46
+# HNKHIX_133013 Number of predicted TMRs: 0
+HNKHIX_133013	signal	1	44				
+HNKHIX_133013	outside	45	46				
+//
+# HNKHIX_126644 Length: 48
+# HNKHIX_126644 Number of predicted TMRs: 0
+HNKHIX_126644	inside	1	48				
+//
+# HNKHIX_153168 Length: 42
+# HNKHIX_153168 Number of predicted TMRs: 0
+HNKHIX_153168	inside	1	42				
+//
+# HNKHIX_149646 Length: 47
+# HNKHIX_149646 Number of predicted TMRs: 0
+HNKHIX_149646	inside	1	47				
+//
+# HNKHIX_87268 Length: 45
+# HNKHIX_87268 Number of predicted TMRs: 0
+HNKHIX_87268	signal	1	40				
+HNKHIX_87268	outside	41	45				
+//
+# HNKHIX_26727 Length: 40
+# HNKHIX_26727 Number of predicted TMRs: 0
+HNKHIX_26727	inside	1	40				
+//
+# HNKHIX_18462 Length: 37
+# HNKHIX_18462 Number of predicted TMRs: 0
+HNKHIX_18462	signal	1	24				
+HNKHIX_18462	outside	25	37				
+//
+# HNKHIX_27087 Length: 42
+# HNKHIX_27087 Number of predicted TMRs: 0
+HNKHIX_27087	signal	1	10				
+HNKHIX_27087	outside	11	42				
+//
+# HNKHIX_151974 Length: 48
+# HNKHIX_151974 Number of predicted TMRs: 0
+HNKHIX_151974	inside	1	48				
+//
+# HNKHIX_95816 Length: 50
+# HNKHIX_95816 Number of predicted TMRs: 0
+HNKHIX_95816	inside	1	50				
+//
+# HNKHIX_11716 Length: 40
+# HNKHIX_11716 Number of predicted TMRs: 0
+HNKHIX_11716	signal	1	30				
+HNKHIX_11716	outside	31	40				
+//
+# HNKHIX_123637 Length: 43
+# HNKHIX_123637 Number of predicted TMRs: 0
+HNKHIX_123637	inside	1	43				
+//
+# HNKHIX_138982 Length: 48
+# HNKHIX_138982 Number of predicted TMRs: 0
+HNKHIX_138982	inside	1	48				
+//
+# HNKHIX_137606 Length: 41
+# HNKHIX_137606 Number of predicted TMRs: 0
+HNKHIX_137606	signal	1	10				
+HNKHIX_137606	outside	11	41				
+//
+# HNKHIX_53470 Length: 49
+# HNKHIX_53470 Number of predicted TMRs: 0
+HNKHIX_53470	inside	1	49				
+//
+# HNKHIX_52853 Length: 43
+# HNKHIX_52853 Number of predicted TMRs: 0
+HNKHIX_52853	inside	1	43				
+//
+# HNKHIX_75639 Length: 38
+# HNKHIX_75639 Number of predicted TMRs: 0
+HNKHIX_75639	inside	1	38				
+//
+# HNKHIX_152061 Length: 48
+# HNKHIX_152061 Number of predicted TMRs: 0
+HNKHIX_152061	inside	1	48				
+//
+# HNKHIX_94344 Length: 50
+# HNKHIX_94344 Number of predicted TMRs: 0
+HNKHIX_94344	inside	1	50				
+//
+# HNKHIX_86853 Length: 47
+# HNKHIX_86853 Number of predicted TMRs: 0
+HNKHIX_86853	signal	1	40				
+HNKHIX_86853	outside	41	47				
+//
+# HNKHIX_103154 Length: 50
+# HNKHIX_103154 Number of predicted TMRs: 0
+HNKHIX_103154	signal	1	21				
+HNKHIX_103154	outside	22	50				
+//
+# HNKHIX_79018 Length: 45
+# HNKHIX_79018 Number of predicted TMRs: 0
+HNKHIX_79018	inside	1	45				
+//
+# HNKHIX_12030 Length: 49
+# HNKHIX_12030 Number of predicted TMRs: 0
+HNKHIX_12030	outside	1	49				
+//
+# HNKHIX_84082 Length: 42
+# HNKHIX_84082 Number of predicted TMRs: 0
+HNKHIX_84082	inside	1	42				
+//
+# HNKHIX_150357 Length: 45
+# HNKHIX_150357 Number of predicted TMRs: 0
+HNKHIX_150357	outside	1	45				
+//
+# HNKHIX_11140 Length: 43
+# HNKHIX_11140 Number of predicted TMRs: 0
+HNKHIX_11140	signal	1	19				
+HNKHIX_11140	outside	20	43				
+//
+# HNKHIX_76396 Length: 50
+# HNKHIX_76396 Number of predicted TMRs: 0
+HNKHIX_76396	inside	1	50				
+//
+# HNKHIX_67753 Length: 48
+# HNKHIX_67753 Number of predicted TMRs: 0
+HNKHIX_67753	inside	1	48				
+//
+# HNKHIX_170136 Length: 46
+# HNKHIX_170136 Number of predicted TMRs: 0
+HNKHIX_170136	inside	1	46				
+//
+# HNKHIX_164046 Length: 50
+# HNKHIX_164046 Number of predicted TMRs: 0
+HNKHIX_164046	inside	1	50				
+//
+# HNKHIX_3283 Length: 47
+# HNKHIX_3283 Number of predicted TMRs: 0
+HNKHIX_3283	inside	1	47				
+//
+# HNKHIX_165528 Length: 40
+# HNKHIX_165528 Number of predicted TMRs: 0
+HNKHIX_165528	inside	1	40				
+//
+# HNKHIX_16465 Length: 50
+# HNKHIX_16465 Number of predicted TMRs: 0
+HNKHIX_16465	inside	1	50				
+//
+# HNKHIX_90875 Length: 40
+# HNKHIX_90875 Number of predicted TMRs: 0
+HNKHIX_90875	inside	1	40				
+//
+# HNKHIX_80443 Length: 49
+# HNKHIX_80443 Number of predicted TMRs: 0
+HNKHIX_80443	signal	1	47				
+HNKHIX_80443	outside	48	49				
+//
+# HNKHIX_73265 Length: 46
+# HNKHIX_73265 Number of predicted TMRs: 0
+HNKHIX_73265	signal	1	28				
+HNKHIX_73265	outside	29	46				
+//
+# HNKHIX_129369 Length: 46
+# HNKHIX_129369 Number of predicted TMRs: 0
+HNKHIX_129369	inside	1	46				
+//
+# HNKHIX_125863 Length: 49
+# HNKHIX_125863 Number of predicted TMRs: 0
+HNKHIX_125863	inside	1	49				
+//
+# HNKHIX_119254 Length: 50
+# HNKHIX_119254 Number of predicted TMRs: 0
+HNKHIX_119254	inside	1	50				
+//
+# HNKHIX_74069 Length: 38
+# HNKHIX_74069 Number of predicted TMRs: 0
+HNKHIX_74069	signal	1	37				
+HNKHIX_74069	outside	38	38				
+//
+# HNKHIX_45325 Length: 45
+# HNKHIX_45325 Number of predicted TMRs: 0
+HNKHIX_45325	inside	1	45				
+//
+# HNKHIX_58075 Length: 46
+# HNKHIX_58075 Number of predicted TMRs: 0
+HNKHIX_58075	inside	1	46				
+//
+# HNKHIX_14206 Length: 46
+# HNKHIX_14206 Number of predicted TMRs: 0
+HNKHIX_14206	inside	1	46				
+//
+# HNKHIX_29774 Length: 42
+# HNKHIX_29774 Number of predicted TMRs: 0
+HNKHIX_29774	inside	1	42				
+//
+# HNKHIX_39089 Length: 49
+# HNKHIX_39089 Number of predicted TMRs: 0
+HNKHIX_39089	inside	1	49				
+//
+# HNKHIX_118563 Length: 44
+# HNKHIX_118563 Number of predicted TMRs: 0
+HNKHIX_118563	inside	1	44				
+//
+# HNKHIX_99335 Length: 36
+# HNKHIX_99335 Number of predicted TMRs: 0
+HNKHIX_99335	inside	1	36				
+//
+# HNKHIX_98215 Length: 37
+# HNKHIX_98215 Number of predicted TMRs: 0
+HNKHIX_98215	inside	1	37				
+//
+# HNKHIX_90596 Length: 35
+# HNKHIX_90596 Number of predicted TMRs: 0
+HNKHIX_90596	inside	1	35				
+//
+# HNKHIX_57927 Length: 43
+# HNKHIX_57927 Number of predicted TMRs: 0
+HNKHIX_57927	inside	1	43				
+//
+# HNKHIX_97839 Length: 50
+# HNKHIX_97839 Number of predicted TMRs: 0
+HNKHIX_97839	inside	1	50				
+//
+# HNKHIX_102150 Length: 48
+# HNKHIX_102150 Number of predicted TMRs: 0
+HNKHIX_102150	inside	1	48				
+//
+# HNKHIX_80191 Length: 48
+# HNKHIX_80191 Number of predicted TMRs: 0
+HNKHIX_80191	inside	1	48				
+//
+# HNKHIX_150457 Length: 47
+# HNKHIX_150457 Number of predicted TMRs: 0
+HNKHIX_150457	inside	1	47				
+//
+# HNKHIX_153410 Length: 46
+# HNKHIX_153410 Number of predicted TMRs: 0
+HNKHIX_153410	inside	1	46				
+//
+# HNKHIX_49055 Length: 48
+# HNKHIX_49055 Number of predicted TMRs: 0
+HNKHIX_49055	inside	1	48				
+//
+# HNKHIX_7007 Length: 47
+# HNKHIX_7007 Number of predicted TMRs: 0
+HNKHIX_7007	inside	1	47				
+//
+# HNKHIX_155397 Length: 50
+# HNKHIX_155397 Number of predicted TMRs: 0
+HNKHIX_155397	inside	1	50				
+//
+# HNKHIX_85385 Length: 37
+# HNKHIX_85385 Number of predicted TMRs: 0
+HNKHIX_85385	signal	1	34				
+HNKHIX_85385	outside	35	37				
+//
+# HNKHIX_87442 Length: 42
+# HNKHIX_87442 Number of predicted TMRs: 0
+HNKHIX_87442	inside	1	42				
+//
+# HNKHIX_51118 Length: 35
+# HNKHIX_51118 Number of predicted TMRs: 0
+HNKHIX_51118	signal	1	17				
+HNKHIX_51118	outside	18	35				
+//
+# HNKHIX_90524 Length: 33
+# HNKHIX_90524 Number of predicted TMRs: 0
+HNKHIX_90524	inside	1	33				
+//
+# HNKHIX_17105 Length: 50
+# HNKHIX_17105 Number of predicted TMRs: 0
+HNKHIX_17105	inside	1	50				
+//
+# HNKHIX_36945 Length: 42
+# HNKHIX_36945 Number of predicted TMRs: 0
+HNKHIX_36945	signal	1	35				
+HNKHIX_36945	outside	36	42				
+//
+# HNKHIX_154375 Length: 49
+# HNKHIX_154375 Number of predicted TMRs: 0
+HNKHIX_154375	inside	1	49				
+//
+# HNKHIX_43484 Length: 39
+# HNKHIX_43484 Number of predicted TMRs: 0
+HNKHIX_43484	inside	1	39				
+//
+# HNKHIX_27223 Length: 48
+# HNKHIX_27223 Number of predicted TMRs: 0
+HNKHIX_27223	inside	1	48				
+//
+# HNKHIX_63166 Length: 50
+# HNKHIX_63166 Number of predicted TMRs: 0
+HNKHIX_63166	inside	1	50				
+//
+# HNKHIX_113267 Length: 50
+# HNKHIX_113267 Number of predicted TMRs: 0
+HNKHIX_113267	inside	1	50				
+//
+# HNKHIX_22241 Length: 41
+# HNKHIX_22241 Number of predicted TMRs: 0
+HNKHIX_22241	inside	1	41				
+//
+# HNKHIX_144651 Length: 46
+# HNKHIX_144651 Number of predicted TMRs: 0
+HNKHIX_144651	inside	1	46				
+//
+# HNKHIX_6675 Length: 48
+# HNKHIX_6675 Number of predicted TMRs: 0
+HNKHIX_6675	signal	1	46				
+HNKHIX_6675	outside	47	48				
+//
+# HNKHIX_133535 Length: 49
+# HNKHIX_133535 Number of predicted TMRs: 0
+HNKHIX_133535	inside	1	49				
+//
+# HNKHIX_85364 Length: 50
+# HNKHIX_85364 Number of predicted TMRs: 0
+HNKHIX_85364	signal	1	12				
+HNKHIX_85364	outside	13	50				
+//
+# HNKHIX_119117 Length: 44
+# HNKHIX_119117 Number of predicted TMRs: 0
+HNKHIX_119117	inside	1	44				
+//
+# HNKHIX_66051 Length: 48
+# HNKHIX_66051 Number of predicted TMRs: 0
+HNKHIX_66051	inside	1	48				
+//
+# HNKHIX_132687 Length: 49
+# HNKHIX_132687 Number of predicted TMRs: 0
+HNKHIX_132687	inside	1	49				
+//
+# HNKHIX_84990 Length: 43
+# HNKHIX_84990 Number of predicted TMRs: 0
+HNKHIX_84990	inside	1	43				
+//
+# HNKHIX_27251 Length: 47
+# HNKHIX_27251 Number of predicted TMRs: 0
+HNKHIX_27251	signal	1	41				
+HNKHIX_27251	outside	42	47				
+//
+# HNKHIX_107682 Length: 48
+# HNKHIX_107682 Number of predicted TMRs: 0
+HNKHIX_107682	inside	1	48				
+//
+# HNKHIX_18542 Length: 50
+# HNKHIX_18542 Number of predicted TMRs: 0
+HNKHIX_18542	outside	1	50				
+//
+# HNKHIX_109027 Length: 47
+# HNKHIX_109027 Number of predicted TMRs: 0
+HNKHIX_109027	signal	1	17				
+HNKHIX_109027	outside	18	47				
+//
+# HNKHIX_125161 Length: 50
+# HNKHIX_125161 Number of predicted TMRs: 0
+HNKHIX_125161	inside	1	50				
+//
+# HNKHIX_60729 Length: 33
+# HNKHIX_60729 Number of predicted TMRs: 0
+HNKHIX_60729	signal	1	25				
+HNKHIX_60729	outside	26	33				
+//
+# HNKHIX_34757 Length: 45
+# HNKHIX_34757 Number of predicted TMRs: 0
+HNKHIX_34757	inside	1	45				
+//
+# HNKHIX_66658 Length: 33
+# HNKHIX_66658 Number of predicted TMRs: 0
+HNKHIX_66658	signal	1	14				
+HNKHIX_66658	outside	15	33				
+//
+# HNKHIX_133409 Length: 39
+# HNKHIX_133409 Number of predicted TMRs: 0
+HNKHIX_133409	signal	1	38				
+HNKHIX_133409	outside	39	39				
+//
+# HNKHIX_38727 Length: 48
+# HNKHIX_38727 Number of predicted TMRs: 0
+HNKHIX_38727	signal	1	40				
+HNKHIX_38727	outside	41	48				
+//
+# HNKHIX_27086 Length: 48
+# HNKHIX_27086 Number of predicted TMRs: 0
+HNKHIX_27086	inside	1	48				
+//
+# HNKHIX_127030 Length: 49
+# HNKHIX_127030 Number of predicted TMRs: 0
+HNKHIX_127030	inside	1	49				
+//
+# HNKHIX_97534 Length: 48
+# HNKHIX_97534 Number of predicted TMRs: 0
+HNKHIX_97534	inside	1	48				
+//
+# HNKHIX_85030 Length: 41
+# HNKHIX_85030 Number of predicted TMRs: 0
+HNKHIX_85030	inside	1	41				
+//
+# HNKHIX_5209 Length: 49
+# HNKHIX_5209 Number of predicted TMRs: 0
+HNKHIX_5209	signal	1	28				
+HNKHIX_5209	outside	29	49				
+//
+# HNKHIX_133604 Length: 45
+# HNKHIX_133604 Number of predicted TMRs: 0
+HNKHIX_133604	signal	1	16				
+HNKHIX_133604	outside	17	45				
+//
+# HNKHIX_103260 Length: 48
+# HNKHIX_103260 Number of predicted TMRs: 0
+HNKHIX_103260	inside	1	48				
+//
+# HNKHIX_40900 Length: 34
+# HNKHIX_40900 Number of predicted TMRs: 0
+HNKHIX_40900	signal	1	30				
+HNKHIX_40900	outside	31	34				
+//
+# HNKHIX_9199 Length: 46
+# HNKHIX_9199 Number of predicted TMRs: 0
+HNKHIX_9199	inside	1	46				
+//
+# HNKHIX_19467 Length: 46
+# HNKHIX_19467 Number of predicted TMRs: 0
+HNKHIX_19467	inside	1	46				
+//
+# HNKHIX_3489 Length: 42
+# HNKHIX_3489 Number of predicted TMRs: 0
+HNKHIX_3489	signal	1	41				
+HNKHIX_3489	outside	42	42				
+//
+# HNKHIX_74447 Length: 41
+# HNKHIX_74447 Number of predicted TMRs: 0
+HNKHIX_74447	inside	1	41				
+//
+# HNKHIX_118451 Length: 42
+# HNKHIX_118451 Number of predicted TMRs: 0
+HNKHIX_118451	inside	1	42				
+//
+# HNKHIX_68293 Length: 42
+# HNKHIX_68293 Number of predicted TMRs: 0
+HNKHIX_68293	signal	1	10				
+HNKHIX_68293	outside	11	42				
+//
+# HNKHIX_2504 Length: 47
+# HNKHIX_2504 Number of predicted TMRs: 0
+HNKHIX_2504	inside	1	47				
+//
+# HNKHIX_80672 Length: 39
+# HNKHIX_80672 Number of predicted TMRs: 0
+HNKHIX_80672	inside	1	39				
+//
+# HNKHIX_94925 Length: 43
+# HNKHIX_94925 Number of predicted TMRs: 0
+HNKHIX_94925	signal	1	19				
+HNKHIX_94925	outside	20	43				
+//
+# HNKHIX_161683 Length: 50
+# HNKHIX_161683 Number of predicted TMRs: 0
+HNKHIX_161683	signal	1	49				
+HNKHIX_161683	outside	50	50				
+//
+# HNKHIX_151662 Length: 48
+# HNKHIX_151662 Number of predicted TMRs: 0
+HNKHIX_151662	inside	1	48				
+//
+# HNKHIX_13426 Length: 46
+# HNKHIX_13426 Number of predicted TMRs: 0
+HNKHIX_13426	inside	1	46				
+//
+# HNKHIX_95743 Length: 38
+# HNKHIX_95743 Number of predicted TMRs: 0
+HNKHIX_95743	signal	1	25				
+HNKHIX_95743	outside	26	38				
+//
+# HNKHIX_115179 Length: 43
+# HNKHIX_115179 Number of predicted TMRs: 0
+HNKHIX_115179	signal	1	42				
+HNKHIX_115179	outside	43	43				
+//
+# HNKHIX_19246 Length: 49
+# HNKHIX_19246 Number of predicted TMRs: 0
+HNKHIX_19246	inside	1	49				
+//
+# HNKHIX_9824 Length: 45
+# HNKHIX_9824 Number of predicted TMRs: 0
+HNKHIX_9824	inside	1	45				
+//
+# HNKHIX_140192 Length: 42
+# HNKHIX_140192 Number of predicted TMRs: 0
+HNKHIX_140192	inside	1	42				
+//
+# HNKHIX_25657 Length: 49
+# HNKHIX_25657 Number of predicted TMRs: 0
+HNKHIX_25657	inside	1	49				
+//
+# HNKHIX_141980 Length: 48
+# HNKHIX_141980 Number of predicted TMRs: 0
+HNKHIX_141980	inside	1	48				
+//
+# HNKHIX_115749 Length: 48
+# HNKHIX_115749 Number of predicted TMRs: 0
+HNKHIX_115749	inside	1	48				
+//
+# HNKHIX_170293 Length: 50
+# HNKHIX_170293 Number of predicted TMRs: 0
+HNKHIX_170293	inside	1	50				
+//
+# HNKHIX_127465 Length: 47
+# HNKHIX_127465 Number of predicted TMRs: 0
+HNKHIX_127465	inside	1	47				
+//
+# HNKHIX_7022 Length: 49
+# HNKHIX_7022 Number of predicted TMRs: 0
+HNKHIX_7022	signal	1	32				
+HNKHIX_7022	outside	33	49				
+//
+# HNKHIX_35532 Length: 49
+# HNKHIX_35532 Number of predicted TMRs: 0
+HNKHIX_35532	signal	1	47				
+HNKHIX_35532	outside	48	49				
+//
+# HNKHIX_65588 Length: 26
+# HNKHIX_65588 Number of predicted TMRs: 0
+HNKHIX_65588	inside	1	26				
+//
+# HNKHIX_97219 Length: 27
+# HNKHIX_97219 Number of predicted TMRs: 0
+HNKHIX_97219	inside	1	27				
+//
+# HNKHIX_90458 Length: 48
+# HNKHIX_90458 Number of predicted TMRs: 0
+HNKHIX_90458	inside	1	48				
+//
+# HNKHIX_150456 Length: 47
+# HNKHIX_150456 Number of predicted TMRs: 0
+HNKHIX_150456	inside	1	47				
+//
+# HNKHIX_120740 Length: 45
+# HNKHIX_120740 Number of predicted TMRs: 0
+HNKHIX_120740	signal	1	16				
+HNKHIX_120740	outside	17	45				
+//
+# HNKHIX_136759 Length: 49
+# HNKHIX_136759 Number of predicted TMRs: 0
+HNKHIX_136759	inside	1	49				
+//
+# HNKHIX_132206 Length: 40
+# HNKHIX_132206 Number of predicted TMRs: 0
+HNKHIX_132206	signal	1	39				
+HNKHIX_132206	outside	40	40				
+//
+# HNKHIX_60824 Length: 46
+# HNKHIX_60824 Number of predicted TMRs: 0
+HNKHIX_60824	inside	1	46				
+//
+# HNKHIX_36852 Length: 47
+# HNKHIX_36852 Number of predicted TMRs: 0
+HNKHIX_36852	inside	1	47				
+//
+# HNKHIX_134447 Length: 39
+# HNKHIX_134447 Number of predicted TMRs: 0
+HNKHIX_134447	inside	1	39				
+//
+# HNKHIX_40087 Length: 34
+# HNKHIX_40087 Number of predicted TMRs: 0
+HNKHIX_40087	inside	1	34				
+//
+# HNKHIX_120472 Length: 43
+# HNKHIX_120472 Number of predicted TMRs: 0
+HNKHIX_120472	signal	1	18				
+HNKHIX_120472	outside	19	43				
+//
+# HNKHIX_124191 Length: 43
+# HNKHIX_124191 Number of predicted TMRs: 0
+HNKHIX_124191	signal	1	20				
+HNKHIX_124191	outside	21	43				
+//
+# HNKHIX_136200 Length: 38
+# HNKHIX_136200 Number of predicted TMRs: 0
+HNKHIX_136200	inside	1	38				
+//
+# HNKHIX_11047 Length: 50
+# HNKHIX_11047 Number of predicted TMRs: 0
+HNKHIX_11047	inside	1	50				
+//
+# HNKHIX_20705 Length: 49
+# HNKHIX_20705 Number of predicted TMRs: 0
+HNKHIX_20705	inside	1	49				
+//
+# HNKHIX_120829 Length: 50
+# HNKHIX_120829 Number of predicted TMRs: 0
+HNKHIX_120829	inside	1	50				
+//
+# HNKHIX_129998 Length: 50
+# HNKHIX_129998 Number of predicted TMRs: 0
+HNKHIX_129998	inside	1	50				
+//
+# HNKHIX_10825 Length: 47
+# HNKHIX_10825 Number of predicted TMRs: 0
+HNKHIX_10825	inside	1	47				
+//
+# HNKHIX_7720 Length: 34
+# HNKHIX_7720 Number of predicted TMRs: 0
+HNKHIX_7720	outside	1	34				
+//
+# HNKHIX_32352 Length: 45
+# HNKHIX_32352 Number of predicted TMRs: 0
+HNKHIX_32352	signal	1	25				
+HNKHIX_32352	outside	26	45				
+//
+# HNKHIX_52618 Length: 50
+# HNKHIX_52618 Number of predicted TMRs: 0
+HNKHIX_52618	inside	1	50				
+//
+# HNKHIX_90357 Length: 48
+# HNKHIX_90357 Number of predicted TMRs: 0
+HNKHIX_90357	signal	1	24				
+HNKHIX_90357	outside	25	48				
+//
+# HNKHIX_117010 Length: 48
+# HNKHIX_117010 Number of predicted TMRs: 0
+HNKHIX_117010	inside	1	48				
+//
+# HNKHIX_138212 Length: 40
+# HNKHIX_138212 Number of predicted TMRs: 0
+HNKHIX_138212	inside	1	40				
+//
+# HNKHIX_115794 Length: 45
+# HNKHIX_115794 Number of predicted TMRs: 0
+HNKHIX_115794	inside	1	45				
+//
+# HNKHIX_107828 Length: 46
+# HNKHIX_107828 Number of predicted TMRs: 0
+HNKHIX_107828	inside	1	46				
+//
+# HNKHIX_153983 Length: 49
+# HNKHIX_153983 Number of predicted TMRs: 0
+HNKHIX_153983	outside	1	49				
+//
+# HNKHIX_143825 Length: 44
+# HNKHIX_143825 Number of predicted TMRs: 0
+HNKHIX_143825	inside	1	44				
+//
+# HNKHIX_42115 Length: 43
+# HNKHIX_42115 Number of predicted TMRs: 0
+HNKHIX_42115	signal	1	22				
+HNKHIX_42115	outside	23	43				
+//
+# HNKHIX_43746 Length: 44
+# HNKHIX_43746 Number of predicted TMRs: 0
+HNKHIX_43746	inside	1	44				
+//
+# HNKHIX_170635 Length: 49
+# HNKHIX_170635 Number of predicted TMRs: 0
+HNKHIX_170635	inside	1	49				
+//
+# HNKHIX_118886 Length: 45
+# HNKHIX_118886 Number of predicted TMRs: 0
+HNKHIX_118886	inside	1	45				
+//
+# HNKHIX_171373 Length: 39
+# HNKHIX_171373 Number of predicted TMRs: 0
+HNKHIX_171373	signal	1	37				
+HNKHIX_171373	outside	38	39				
+//
+# HNKHIX_122052 Length: 49
+# HNKHIX_122052 Number of predicted TMRs: 0
+HNKHIX_122052	signal	1	47				
+HNKHIX_122052	outside	48	49				
+//
+# HNKHIX_21259 Length: 46
+# HNKHIX_21259 Number of predicted TMRs: 0
+HNKHIX_21259	inside	1	46				
+//
+# HNKHIX_148188 Length: 40
+# HNKHIX_148188 Number of predicted TMRs: 0
+HNKHIX_148188	inside	1	40				
+//
+# HNKHIX_91370 Length: 44
+# HNKHIX_91370 Number of predicted TMRs: 0
+HNKHIX_91370	signal	1	10				
+HNKHIX_91370	outside	11	44				
+//
+# HNKHIX_91016 Length: 42
+# HNKHIX_91016 Number of predicted TMRs: 0
+HNKHIX_91016	inside	1	42				
+//
+# HNKHIX_125163 Length: 45
+# HNKHIX_125163 Number of predicted TMRs: 0
+HNKHIX_125163	inside	1	45				
+//
+# HNKHIX_87197 Length: 50
+# HNKHIX_87197 Number of predicted TMRs: 0
+HNKHIX_87197	inside	1	50				
+//
+# HNKHIX_163904 Length: 40
+# HNKHIX_163904 Number of predicted TMRs: 0
+HNKHIX_163904	inside	1	40				
+//
+# HNKHIX_101139 Length: 47
+# HNKHIX_101139 Number of predicted TMRs: 0
+HNKHIX_101139	inside	1	47				
+//
+# HNKHIX_1907 Length: 33
+# HNKHIX_1907 Number of predicted TMRs: 0
+HNKHIX_1907	signal	1	26				
+HNKHIX_1907	outside	27	33				
+//
+# HNKHIX_114445 Length: 40
+# HNKHIX_114445 Number of predicted TMRs: 0
+HNKHIX_114445	signal	1	20				
+HNKHIX_114445	outside	21	40				
+//
+# HNKHIX_35551 Length: 49
+# HNKHIX_35551 Number of predicted TMRs: 0
+HNKHIX_35551	inside	1	49				
+//
+# HNKHIX_172831 Length: 43
+# HNKHIX_172831 Number of predicted TMRs: 0
+HNKHIX_172831	signal	1	15				
+HNKHIX_172831	outside	16	43				
+//
+# HNKHIX_141530 Length: 29
+# HNKHIX_141530 Number of predicted TMRs: 0
+HNKHIX_141530	signal	1	26				
+HNKHIX_141530	outside	27	29				
+//
+# HNKHIX_23632 Length: 37
+# HNKHIX_23632 Number of predicted TMRs: 0
+HNKHIX_23632	signal	1	20				
+HNKHIX_23632	outside	21	37				
+//
+# HNKHIX_6425 Length: 42
+# HNKHIX_6425 Number of predicted TMRs: 0
+HNKHIX_6425	inside	1	42				
+//
+# HNKHIX_23774 Length: 38
+# HNKHIX_23774 Number of predicted TMRs: 0
+HNKHIX_23774	inside	1	38				
+//
+# HNKHIX_60825 Length: 50
+# HNKHIX_60825 Number of predicted TMRs: 0
+HNKHIX_60825	inside	1	50				
+//
+# HNKHIX_40923 Length: 42
+# HNKHIX_40923 Number of predicted TMRs: 0
+HNKHIX_40923	inside	1	42				
+//
+# HNKHIX_128050 Length: 39
+# HNKHIX_128050 Number of predicted TMRs: 0
+HNKHIX_128050	outside	1	39				
+//
+# HNKHIX_55341 Length: 46
+# HNKHIX_55341 Number of predicted TMRs: 0
+HNKHIX_55341	inside	1	46				
+//
+# HNKHIX_168619 Length: 42
+# HNKHIX_168619 Number of predicted TMRs: 1
+HNKHIX_168619	outside	1	11				
+HNKHIX_168619	TMhelix	12	28				
+HNKHIX_168619	inside	29	42				
+//
+# HNKHIX_3608 Length: 46
+# HNKHIX_3608 Number of predicted TMRs: 0
+HNKHIX_3608	signal	1	45				
+HNKHIX_3608	outside	46	46				
+//
+# HNKHIX_17200 Length: 45
+# HNKHIX_17200 Number of predicted TMRs: 0
+HNKHIX_17200	signal	1	40				
+HNKHIX_17200	outside	41	45				
+//
+# HNKHIX_97811 Length: 41
+# HNKHIX_97811 Number of predicted TMRs: 0
+HNKHIX_97811	inside	1	41				
+//
+# HNKHIX_7116 Length: 49
+# HNKHIX_7116 Number of predicted TMRs: 0
+HNKHIX_7116	signal	1	44				
+HNKHIX_7116	outside	45	49				
+//
+# HNKHIX_42239 Length: 50
+# HNKHIX_42239 Number of predicted TMRs: 0
+HNKHIX_42239	inside	1	50				
+//
+# HNKHIX_144359 Length: 38
+# HNKHIX_144359 Number of predicted TMRs: 0
+HNKHIX_144359	signal	1	37				
+HNKHIX_144359	outside	38	38				
+//
+# HNKHIX_160566 Length: 43
+# HNKHIX_160566 Number of predicted TMRs: 0
+HNKHIX_160566	outside	1	43				
+//
+# HNKHIX_80538 Length: 46
+# HNKHIX_80538 Number of predicted TMRs: 0
+HNKHIX_80538	inside	1	46				
+//
+# HNKHIX_113968 Length: 46
+# HNKHIX_113968 Number of predicted TMRs: 0
+HNKHIX_113968	inside	1	46				
+//
+# HNKHIX_151648 Length: 41
+# HNKHIX_151648 Number of predicted TMRs: 0
+HNKHIX_151648	signal	1	40				
+HNKHIX_151648	outside	41	41				
+//
+# HNKHIX_140027 Length: 46
+# HNKHIX_140027 Number of predicted TMRs: 0
+HNKHIX_140027	signal	1	42				
+HNKHIX_140027	outside	43	46				
+//
+# HNKHIX_170638 Length: 49
+# HNKHIX_170638 Number of predicted TMRs: 0
+HNKHIX_170638	inside	1	49				
+//
+# HNKHIX_82618 Length: 48
+# HNKHIX_82618 Number of predicted TMRs: 0
+HNKHIX_82618	signal	1	20				
+HNKHIX_82618	outside	21	48				
+//
+# HNKHIX_37796 Length: 50
+# HNKHIX_37796 Number of predicted TMRs: 0
+HNKHIX_37796	inside	1	50				
+//
+# HNKHIX_16607 Length: 48
+# HNKHIX_16607 Number of predicted TMRs: 0
+HNKHIX_16607	inside	1	48				
+//
+# HNKHIX_61475 Length: 46
+# HNKHIX_61475 Number of predicted TMRs: 0
+HNKHIX_61475	signal	1	38				
+HNKHIX_61475	outside	39	46				
+//
+# HNKHIX_48227 Length: 49
+# HNKHIX_48227 Number of predicted TMRs: 0
+HNKHIX_48227	inside	1	49				
+//
+# HNKHIX_113594 Length: 48
+# HNKHIX_113594 Number of predicted TMRs: 0
+HNKHIX_113594	signal	1	10				
+HNKHIX_113594	outside	11	48				
+//
+# HNKHIX_50215 Length: 46
+# HNKHIX_50215 Number of predicted TMRs: 0
+HNKHIX_50215	signal	1	28				
+HNKHIX_50215	outside	29	46				
+//
+# HNKHIX_99720 Length: 46
+# HNKHIX_99720 Number of predicted TMRs: 0
+HNKHIX_99720	inside	1	46				
+//
+# HNKHIX_168969 Length: 50
+# HNKHIX_168969 Number of predicted TMRs: 0
+HNKHIX_168969	inside	1	50				
+//
+# HNKHIX_165754 Length: 50
+# HNKHIX_165754 Number of predicted TMRs: 0
+HNKHIX_165754	inside	1	50				
+//
+# HNKHIX_69502 Length: 45
+# HNKHIX_69502 Number of predicted TMRs: 0
+HNKHIX_69502	signal	1	44				
+HNKHIX_69502	outside	45	45				
+//
+# HNKHIX_98028 Length: 45
+# HNKHIX_98028 Number of predicted TMRs: 0
+HNKHIX_98028	inside	1	45				
+//
+# HNKHIX_29159 Length: 47
+# HNKHIX_29159 Number of predicted TMRs: 0
+HNKHIX_29159	signal	1	12				
+HNKHIX_29159	outside	13	47				
+//
+# HNKHIX_51257 Length: 37
+# HNKHIX_51257 Number of predicted TMRs: 0
+HNKHIX_51257	signal	1	24				
+HNKHIX_51257	outside	25	37				
+//
+# HNKHIX_143358 Length: 33
+# HNKHIX_143358 Number of predicted TMRs: 0
+HNKHIX_143358	outside	1	33				
+//
+# HNKHIX_22550 Length: 45
+# HNKHIX_22550 Number of predicted TMRs: 0
+HNKHIX_22550	signal	1	42				
+HNKHIX_22550	outside	43	45				
+//
+# HNKHIX_128434 Length: 49
+# HNKHIX_128434 Number of predicted TMRs: 0
+HNKHIX_128434	signal	1	11				
+HNKHIX_128434	outside	12	49				
+//
+# HNKHIX_8583 Length: 47
+# HNKHIX_8583 Number of predicted TMRs: 0
+HNKHIX_8583	signal	1	41				
+HNKHIX_8583	outside	42	47				
+//
+# HNKHIX_135547 Length: 43
+# HNKHIX_135547 Number of predicted TMRs: 0
+HNKHIX_135547	inside	1	43				
+//
+# HNKHIX_15944 Length: 47
+# HNKHIX_15944 Number of predicted TMRs: 0
+HNKHIX_15944	inside	1	47				
+//
+# HNKHIX_124568 Length: 48
+# HNKHIX_124568 Number of predicted TMRs: 0
+HNKHIX_124568	signal	1	23				
+HNKHIX_124568	outside	24	48				
+//
+# HNKHIX_93747 Length: 36
+# HNKHIX_93747 Number of predicted TMRs: 0
+HNKHIX_93747	signal	1	31				
+HNKHIX_93747	outside	32	36				
+//
+# HNKHIX_46212 Length: 43
+# HNKHIX_46212 Number of predicted TMRs: 0
+HNKHIX_46212	inside	1	43				
+//
+# HNKHIX_42664 Length: 41
+# HNKHIX_42664 Number of predicted TMRs: 0
+HNKHIX_42664	signal	1	40				
+HNKHIX_42664	outside	41	41				
+//
+# HNKHIX_1386 Length: 39
+# HNKHIX_1386 Number of predicted TMRs: 0
+HNKHIX_1386	inside	1	39				
+//
+# HNKHIX_107756 Length: 45
+# HNKHIX_107756 Number of predicted TMRs: 0
+HNKHIX_107756	signal	1	44				
+HNKHIX_107756	outside	45	45				
+//
+# HNKHIX_123041 Length: 43
+# HNKHIX_123041 Number of predicted TMRs: 0
+HNKHIX_123041	inside	1	43				
+//
+# HNKHIX_38088 Length: 49
+# HNKHIX_38088 Number of predicted TMRs: 0
+HNKHIX_38088	inside	1	49				
+//
+# HNKHIX_74923 Length: 47
+# HNKHIX_74923 Number of predicted TMRs: 0
+HNKHIX_74923	inside	1	47				
+//
+# HNKHIX_53802 Length: 48
+# HNKHIX_53802 Number of predicted TMRs: 0
+HNKHIX_53802	inside	1	48				
+//
+# HNKHIX_53799 Length: 48
+# HNKHIX_53799 Number of predicted TMRs: 0
+HNKHIX_53799	outside	1	48				
+//
+# HNKHIX_108118 Length: 45
+# HNKHIX_108118 Number of predicted TMRs: 0
+HNKHIX_108118	signal	1	20				
+HNKHIX_108118	outside	21	45				
+//
+# HNKHIX_158870 Length: 49
+# HNKHIX_158870 Number of predicted TMRs: 1
+HNKHIX_158870	inside	1	21				
+HNKHIX_158870	TMhelix	22	42				
+HNKHIX_158870	outside	43	49				
+//
+# HNKHIX_44688 Length: 47
+# HNKHIX_44688 Number of predicted TMRs: 0
+HNKHIX_44688	signal	1	10				
+HNKHIX_44688	outside	11	47				
+//
+# HNKHIX_45240 Length: 45
+# HNKHIX_45240 Number of predicted TMRs: 0
+HNKHIX_45240	inside	1	45				
+//
+# HNKHIX_65454 Length: 36
+# HNKHIX_65454 Number of predicted TMRs: 0
+HNKHIX_65454	inside	1	36				
+//
+# HNKHIX_85669 Length: 46
+# HNKHIX_85669 Number of predicted TMRs: 0
+HNKHIX_85669	outside	1	46				
+//
+# HNKHIX_122763 Length: 47
+# HNKHIX_122763 Number of predicted TMRs: 0
+HNKHIX_122763	inside	1	47				
+//
+# HNKHIX_35520 Length: 49
+# HNKHIX_35520 Number of predicted TMRs: 0
+HNKHIX_35520	inside	1	49				
+//
+# HNKHIX_64466 Length: 44
+# HNKHIX_64466 Number of predicted TMRs: 0
+HNKHIX_64466	inside	1	44				
+//
+# HNKHIX_126272 Length: 48
+# HNKHIX_126272 Number of predicted TMRs: 0
+HNKHIX_126272	signal	1	47				
+HNKHIX_126272	outside	48	48				
+//
+# HNKHIX_91439 Length: 49
+# HNKHIX_91439 Number of predicted TMRs: 0
+HNKHIX_91439	signal	1	23				
+HNKHIX_91439	outside	24	49				
+//
+# HNKHIX_45615 Length: 39
+# HNKHIX_45615 Number of predicted TMRs: 0
+HNKHIX_45615	signal	1	30				
+HNKHIX_45615	outside	31	39				
+//
+# HNKHIX_49257 Length: 37
+# HNKHIX_49257 Number of predicted TMRs: 0
+HNKHIX_49257	inside	1	37				
+//
+# HNKHIX_127340 Length: 35
+# HNKHIX_127340 Number of predicted TMRs: 0
+HNKHIX_127340	inside	1	35				
+//
+# HNKHIX_10575 Length: 30
+# HNKHIX_10575 Number of predicted TMRs: 0
+HNKHIX_10575	signal	1	29				
+HNKHIX_10575	outside	30	30				
+//
+# HNKHIX_75908 Length: 49
+# HNKHIX_75908 Number of predicted TMRs: 0
+HNKHIX_75908	inside	1	49				
+//
+# HNKHIX_95655 Length: 44
+# HNKHIX_95655 Number of predicted TMRs: 0
+HNKHIX_95655	signal	1	43				
+HNKHIX_95655	outside	44	44				
+//
+# HNKHIX_56164 Length: 46
+# HNKHIX_56164 Number of predicted TMRs: 0
+HNKHIX_56164	signal	1	13				
+HNKHIX_56164	outside	14	46				
+//
+# HNKHIX_29234 Length: 43
+# HNKHIX_29234 Number of predicted TMRs: 0
+HNKHIX_29234	inside	1	43				
+//
+# HNKHIX_15133 Length: 50
+# HNKHIX_15133 Number of predicted TMRs: 0
+HNKHIX_15133	inside	1	50				
+//
+# HNKHIX_62493 Length: 35
+# HNKHIX_62493 Number of predicted TMRs: 0
+HNKHIX_62493	inside	1	35				
+//
+# HNKHIX_92549 Length: 50
+# HNKHIX_92549 Number of predicted TMRs: 0
+HNKHIX_92549	signal	1	18				
+HNKHIX_92549	outside	19	50				
+//
+# HNKHIX_23010 Length: 44
+# HNKHIX_23010 Number of predicted TMRs: 0
+HNKHIX_23010	inside	1	44				
+//
+# HNKHIX_136971 Length: 46
+# HNKHIX_136971 Number of predicted TMRs: 0
+HNKHIX_136971	inside	1	46				
+//
+# HNKHIX_143268 Length: 47
+# HNKHIX_143268 Number of predicted TMRs: 0
+HNKHIX_143268	inside	1	47				
+//
+# HNKHIX_25963 Length: 40
+# HNKHIX_25963 Number of predicted TMRs: 0
+HNKHIX_25963	inside	1	40				
+//
+# HNKHIX_94578 Length: 48
+# HNKHIX_94578 Number of predicted TMRs: 0
+HNKHIX_94578	outside	1	48				
+//
+# HNKHIX_93730 Length: 43
+# HNKHIX_93730 Number of predicted TMRs: 0
+HNKHIX_93730	inside	1	43				
+//
+# HNKHIX_92910 Length: 43
+# HNKHIX_92910 Number of predicted TMRs: 0
+HNKHIX_92910	inside	1	43				
+//
+# HNKHIX_56928 Length: 48
+# HNKHIX_56928 Number of predicted TMRs: 0
+HNKHIX_56928	signal	1	40				
+HNKHIX_56928	outside	41	48				
+//
+# HNKHIX_90223 Length: 50
+# HNKHIX_90223 Number of predicted TMRs: 0
+HNKHIX_90223	inside	1	50				
+//
+# HNKHIX_130136 Length: 34
+# HNKHIX_130136 Number of predicted TMRs: 0
+HNKHIX_130136	outside	1	34				
+//
+# HNKHIX_167291 Length: 48
+# HNKHIX_167291 Number of predicted TMRs: 0
+HNKHIX_167291	inside	1	48				
+//
+# HNKHIX_39529 Length: 48
+# HNKHIX_39529 Number of predicted TMRs: 0
+HNKHIX_39529	inside	1	48				
+//
+# HNKHIX_47448 Length: 47
+# HNKHIX_47448 Number of predicted TMRs: 0
+HNKHIX_47448	signal	1	10				
+HNKHIX_47448	outside	11	47				
+//
+# HNKHIX_100418 Length: 44
+# HNKHIX_100418 Number of predicted TMRs: 0
+HNKHIX_100418	inside	1	44				
+//
+# HNKHIX_38899 Length: 50
+# HNKHIX_38899 Number of predicted TMRs: 0
+HNKHIX_38899	inside	1	50				
+//
+# HNKHIX_123609 Length: 45
+# HNKHIX_123609 Number of predicted TMRs: 0
+HNKHIX_123609	signal	1	44				
+HNKHIX_123609	outside	45	45				
+//
+# HNKHIX_39213 Length: 50
+# HNKHIX_39213 Number of predicted TMRs: 0
+HNKHIX_39213	inside	1	50				
+//
+# HNKHIX_30594 Length: 50
+# HNKHIX_30594 Number of predicted TMRs: 0
+HNKHIX_30594	inside	1	50				
+//
+# HNKHIX_135107 Length: 41
+# HNKHIX_135107 Number of predicted TMRs: 0
+HNKHIX_135107	signal	1	32				
+HNKHIX_135107	outside	33	41				
+//
+# HNKHIX_131903 Length: 50
+# HNKHIX_131903 Number of predicted TMRs: 0
+HNKHIX_131903	signal	1	39				
+HNKHIX_131903	outside	40	50				
+//
+# HNKHIX_171728 Length: 48
+# HNKHIX_171728 Number of predicted TMRs: 0
+HNKHIX_171728	signal	1	44				
+HNKHIX_171728	outside	45	48				
+//
+# HNKHIX_14982 Length: 48
+# HNKHIX_14982 Number of predicted TMRs: 0
+HNKHIX_14982	inside	1	48				
+//
+# HNKHIX_148508 Length: 42
+# HNKHIX_148508 Number of predicted TMRs: 0
+HNKHIX_148508	signal	1	27				
+HNKHIX_148508	outside	28	42				
+//
+# HNKHIX_111945 Length: 45
+# HNKHIX_111945 Number of predicted TMRs: 0
+HNKHIX_111945	signal	1	43				
+HNKHIX_111945	outside	44	45				
+//
+# HNKHIX_10217 Length: 33
+# HNKHIX_10217 Number of predicted TMRs: 0
+HNKHIX_10217	signal	1	15				
+HNKHIX_10217	outside	16	33				
+//
+# HNKHIX_129726 Length: 46
+# HNKHIX_129726 Number of predicted TMRs: 0
+HNKHIX_129726	inside	1	46				
+//
+# HNKHIX_127499 Length: 49
+# HNKHIX_127499 Number of predicted TMRs: 0
+HNKHIX_127499	signal	1	34				
+HNKHIX_127499	outside	35	49				
+//
+# HNKHIX_121747 Length: 50
+# HNKHIX_121747 Number of predicted TMRs: 0
+HNKHIX_121747	inside	1	50				
+//
+# HNKHIX_13183 Length: 48
+# HNKHIX_13183 Number of predicted TMRs: 0
+HNKHIX_13183	inside	1	48				
+//
+# HNKHIX_13584 Length: 49
+# HNKHIX_13584 Number of predicted TMRs: 0
+HNKHIX_13584	inside	1	49				
+//
+# HNKHIX_84812 Length: 42
+# HNKHIX_84812 Number of predicted TMRs: 0
+HNKHIX_84812	signal	1	18				
+HNKHIX_84812	outside	19	42				
+//
+# HNKHIX_57273 Length: 48
+# HNKHIX_57273 Number of predicted TMRs: 0
+HNKHIX_57273	inside	1	48				
+//
+# HNKHIX_99780 Length: 49
+# HNKHIX_99780 Number of predicted TMRs: 0
+HNKHIX_99780	outside	1	49				
+//
+# HNKHIX_82160 Length: 47
+# HNKHIX_82160 Number of predicted TMRs: 0
+HNKHIX_82160	inside	1	47				
+//
+# HNKHIX_115221 Length: 40
+# HNKHIX_115221 Number of predicted TMRs: 0
+HNKHIX_115221	inside	1	40				
+//
+# HNKHIX_58288 Length: 50
+# HNKHIX_58288 Number of predicted TMRs: 0
+HNKHIX_58288	signal	1	29				
+HNKHIX_58288	outside	30	50				
+//
+# HNKHIX_76608 Length: 40
+# HNKHIX_76608 Number of predicted TMRs: 0
+HNKHIX_76608	signal	1	26				
+HNKHIX_76608	outside	27	40				
+//
+# HNKHIX_97652 Length: 41
+# HNKHIX_97652 Number of predicted TMRs: 0
+HNKHIX_97652	signal	1	28				
+HNKHIX_97652	outside	29	41				
+//
+# HNKHIX_2910 Length: 50
+# HNKHIX_2910 Number of predicted TMRs: 0
+HNKHIX_2910	signal	1	13				
+HNKHIX_2910	outside	14	50				
+//
+# HNKHIX_150379 Length: 47
+# HNKHIX_150379 Number of predicted TMRs: 0
+HNKHIX_150379	signal	1	27				
+HNKHIX_150379	outside	28	47				
+//
+# HNKHIX_157236 Length: 47
+# HNKHIX_157236 Number of predicted TMRs: 0
+HNKHIX_157236	signal	1	38				
+HNKHIX_157236	outside	39	47				
+//
+# HNKHIX_67361 Length: 47
+# HNKHIX_67361 Number of predicted TMRs: 0
+HNKHIX_67361	signal	1	38				
+HNKHIX_67361	outside	39	47				
+//
+# HNKHIX_82234 Length: 46
+# HNKHIX_82234 Number of predicted TMRs: 0
+HNKHIX_82234	signal	1	15				
+HNKHIX_82234	outside	16	46				
+//
+# HNKHIX_167040 Length: 46
+# HNKHIX_167040 Number of predicted TMRs: 0
+HNKHIX_167040	inside	1	46				
+//
+# HNKHIX_144590 Length: 46
+# HNKHIX_144590 Number of predicted TMRs: 0
+HNKHIX_144590	signal	1	45				
+HNKHIX_144590	outside	46	46				
+//
+# HNKHIX_150544 Length: 46
+# HNKHIX_150544 Number of predicted TMRs: 0
+HNKHIX_150544	inside	1	46				
+//
+# HNKHIX_123099 Length: 49
+# HNKHIX_123099 Number of predicted TMRs: 0
+HNKHIX_123099	inside	1	49				
+//
+# HNKHIX_88859 Length: 49
+# HNKHIX_88859 Number of predicted TMRs: 0
+HNKHIX_88859	inside	1	49				
+//
+# HNKHIX_122272 Length: 50
+# HNKHIX_122272 Number of predicted TMRs: 0
+HNKHIX_122272	signal	1	26				
+HNKHIX_122272	outside	27	50				
+//
+# HNKHIX_1821 Length: 25
+# HNKHIX_1821 Number of predicted TMRs: 0
+HNKHIX_1821	inside	1	25				
+//
+# HNKHIX_56047 Length: 50
+# HNKHIX_56047 Number of predicted TMRs: 0
+HNKHIX_56047	signal	1	10				
+HNKHIX_56047	outside	11	50				
+//
+# HNKHIX_137652 Length: 34
+# HNKHIX_137652 Number of predicted TMRs: 0
+HNKHIX_137652	inside	1	34				
+//
+# HNKHIX_100190 Length: 31
+# HNKHIX_100190 Number of predicted TMRs: 0
+HNKHIX_100190	signal	1	21				
+HNKHIX_100190	outside	22	31				
+//
+# HNKHIX_111251 Length: 49
+# HNKHIX_111251 Number of predicted TMRs: 0
+HNKHIX_111251	inside	1	49				
+//
+# HNKHIX_136091 Length: 48
+# HNKHIX_136091 Number of predicted TMRs: 0
+HNKHIX_136091	signal	1	47				
+HNKHIX_136091	outside	48	48				
+//
+# HNKHIX_6281 Length: 43
+# HNKHIX_6281 Number of predicted TMRs: 0
+HNKHIX_6281	inside	1	43				
+//
+# HNKHIX_3603 Length: 50
+# HNKHIX_3603 Number of predicted TMRs: 0
+HNKHIX_3603	inside	1	50				
+//
+# HNKHIX_112146 Length: 45
+# HNKHIX_112146 Number of predicted TMRs: 0
+HNKHIX_112146	outside	1	45				
+//
+# HNKHIX_95937 Length: 36
+# HNKHIX_95937 Number of predicted TMRs: 0
+HNKHIX_95937	inside	1	36				
+//
+# HNKHIX_30150 Length: 47
+# HNKHIX_30150 Number of predicted TMRs: 0
+HNKHIX_30150	inside	1	47				
+//
+# HNKHIX_29844 Length: 47
+# HNKHIX_29844 Number of predicted TMRs: 0
+HNKHIX_29844	inside	1	47				
+//
+# HNKHIX_113060 Length: 39
+# HNKHIX_113060 Number of predicted TMRs: 0
+HNKHIX_113060	signal	1	38				
+HNKHIX_113060	outside	39	39				
+//
+# HNKHIX_28741 Length: 30
+# HNKHIX_28741 Number of predicted TMRs: 0
+HNKHIX_28741	signal	1	29				
+HNKHIX_28741	outside	30	30				
+//
+# HNKHIX_108139 Length: 42
+# HNKHIX_108139 Number of predicted TMRs: 0
+HNKHIX_108139	inside	1	42				
+//
+# HNKHIX_35468 Length: 40
+# HNKHIX_35468 Number of predicted TMRs: 0
+HNKHIX_35468	inside	1	40				
+//
+# HNKHIX_130722 Length: 48
+# HNKHIX_130722 Number of predicted TMRs: 0
+HNKHIX_130722	inside	1	48				
+//
+# HNKHIX_143013 Length: 47
+# HNKHIX_143013 Number of predicted TMRs: 0
+HNKHIX_143013	signal	1	10				
+HNKHIX_143013	outside	11	47				
+//
+# HNKHIX_121060 Length: 47
+# HNKHIX_121060 Number of predicted TMRs: 0
+HNKHIX_121060	inside	1	47				
+//
+# HNKHIX_99748 Length: 46
+# HNKHIX_99748 Number of predicted TMRs: 0
+HNKHIX_99748	inside	1	46				
+//
+# HNKHIX_39411 Length: 50
+# HNKHIX_39411 Number of predicted TMRs: 0
+HNKHIX_39411	inside	1	50				
+//
+# HNKHIX_52695 Length: 49
+# HNKHIX_52695 Number of predicted TMRs: 0
+HNKHIX_52695	inside	1	49				
+//
+# HNKHIX_139456 Length: 47
+# HNKHIX_139456 Number of predicted TMRs: 0
+HNKHIX_139456	signal	1	39				
+HNKHIX_139456	outside	40	47				
+//
+# HNKHIX_172881 Length: 49
+# HNKHIX_172881 Number of predicted TMRs: 0
+HNKHIX_172881	inside	1	49				
+//
+# HNKHIX_117574 Length: 49
+# HNKHIX_117574 Number of predicted TMRs: 0
+HNKHIX_117574	inside	1	49				
+//
+# HNKHIX_16303 Length: 38
+# HNKHIX_16303 Number of predicted TMRs: 0
+HNKHIX_16303	inside	1	38				
+//
+# HNKHIX_170272 Length: 49
+# HNKHIX_170272 Number of predicted TMRs: 0
+HNKHIX_170272	inside	1	49				
+//
+# HNKHIX_38092 Length: 47
+# HNKHIX_38092 Number of predicted TMRs: 0
+HNKHIX_38092	signal	1	34				
+HNKHIX_38092	outside	35	47				
+//
+# HNKHIX_56021 Length: 31
+# HNKHIX_56021 Number of predicted TMRs: 0
+HNKHIX_56021	signal	1	30				
+HNKHIX_56021	outside	31	31				
+//
+# HNKHIX_122075 Length: 45
+# HNKHIX_122075 Number of predicted TMRs: 0
+HNKHIX_122075	signal	1	25				
+HNKHIX_122075	outside	26	45				
+//
+# HNKHIX_19369 Length: 28
+# HNKHIX_19369 Number of predicted TMRs: 0
+HNKHIX_19369	signal	1	25				
+HNKHIX_19369	outside	26	28				
+//
+# HNKHIX_109651 Length: 42
+# HNKHIX_109651 Number of predicted TMRs: 0
+HNKHIX_109651	signal	1	37				
+HNKHIX_109651	outside	38	42				
+//
+# HNKHIX_55328 Length: 46
+# HNKHIX_55328 Number of predicted TMRs: 0
+HNKHIX_55328	signal	1	33				
+HNKHIX_55328	outside	34	46				
+//
+# HNKHIX_47880 Length: 42
+# HNKHIX_47880 Number of predicted TMRs: 0
+HNKHIX_47880	signal	1	13				
+HNKHIX_47880	outside	14	42				
+//
+# HNKHIX_71679 Length: 38
+# HNKHIX_71679 Number of predicted TMRs: 0
+HNKHIX_71679	inside	1	38				
+//
+# HNKHIX_6325 Length: 39
+# HNKHIX_6325 Number of predicted TMRs: 0
+HNKHIX_6325	inside	1	39				
+//
+# HNKHIX_115102 Length: 41
+# HNKHIX_115102 Number of predicted TMRs: 0
+HNKHIX_115102	signal	1	20				
+HNKHIX_115102	outside	21	41				
+//
+# HNKHIX_106493 Length: 49
+# HNKHIX_106493 Number of predicted TMRs: 0
+HNKHIX_106493	inside	1	49				
+//
+# HNKHIX_122403 Length: 48
+# HNKHIX_122403 Number of predicted TMRs: 0
+HNKHIX_122403	inside	1	48				
+//
+# HNKHIX_41071 Length: 46
+# HNKHIX_41071 Number of predicted TMRs: 0
+HNKHIX_41071	inside	1	46				
+//
+# HNKHIX_60470 Length: 50
+# HNKHIX_60470 Number of predicted TMRs: 0
+HNKHIX_60470	inside	1	50				
+//
+# HNKHIX_53153 Length: 39
+# HNKHIX_53153 Number of predicted TMRs: 0
+HNKHIX_53153	outside	1	39				
+//
+# HNKHIX_18303 Length: 44
+# HNKHIX_18303 Number of predicted TMRs: 0
+HNKHIX_18303	inside	1	44				
+//
+# HNKHIX_44927 Length: 45
+# HNKHIX_44927 Number of predicted TMRs: 0
+HNKHIX_44927	inside	1	45				
+//
+# HNKHIX_14696 Length: 49
+# HNKHIX_14696 Number of predicted TMRs: 0
+HNKHIX_14696	inside	1	49				
+//
+# HNKHIX_2435 Length: 49
+# HNKHIX_2435 Number of predicted TMRs: 0
+HNKHIX_2435	inside	1	49				
+//
+# HNKHIX_165844 Length: 43
+# HNKHIX_165844 Number of predicted TMRs: 0
+HNKHIX_165844	signal	1	10				
+HNKHIX_165844	outside	11	43				
+//
+# HNKHIX_127901 Length: 48
+# HNKHIX_127901 Number of predicted TMRs: 0
+HNKHIX_127901	inside	1	48				
+//
+# HNKHIX_43134 Length: 41
+# HNKHIX_43134 Number of predicted TMRs: 0
+HNKHIX_43134	signal	1	35				
+HNKHIX_43134	outside	36	41				
+//
+# HNKHIX_104140 Length: 48
+# HNKHIX_104140 Number of predicted TMRs: 0
+HNKHIX_104140	signal	1	27				
+HNKHIX_104140	outside	28	48				
+//
+# HNKHIX_169187 Length: 47
+# HNKHIX_169187 Number of predicted TMRs: 0
+HNKHIX_169187	inside	1	47				
+//
+# HNKHIX_1652 Length: 48
+# HNKHIX_1652 Number of predicted TMRs: 0
+HNKHIX_1652	signal	1	39				
+HNKHIX_1652	outside	40	48				
+//
+# HNKHIX_168950 Length: 36
+# HNKHIX_168950 Number of predicted TMRs: 0
+HNKHIX_168950	signal	1	35				
+HNKHIX_168950	outside	36	36				
+//
+# HNKHIX_131377 Length: 38
+# HNKHIX_131377 Number of predicted TMRs: 0
+HNKHIX_131377	inside	1	38				
+//
+# HNKHIX_16139 Length: 45
+# HNKHIX_16139 Number of predicted TMRs: 0
+HNKHIX_16139	inside	1	45				
+//
+# HNKHIX_148691 Length: 46
+# HNKHIX_148691 Number of predicted TMRs: 0
+HNKHIX_148691	signal	1	44				
+HNKHIX_148691	outside	45	46				
+//
+# HNKHIX_19985 Length: 47
+# HNKHIX_19985 Number of predicted TMRs: 0
+HNKHIX_19985	inside	1	47				
+//
+# HNKHIX_53803 Length: 48
+# HNKHIX_53803 Number of predicted TMRs: 0
+HNKHIX_53803	inside	1	48				
+//
+# HNKHIX_127532 Length: 47
+# HNKHIX_127532 Number of predicted TMRs: 0
+HNKHIX_127532	inside	1	47				
+//
+# HNKHIX_86456 Length: 49
+# HNKHIX_86456 Number of predicted TMRs: 0
+HNKHIX_86456	inside	1	49				
+//
+# HNKHIX_79139 Length: 49
+# HNKHIX_79139 Number of predicted TMRs: 0
+HNKHIX_79139	inside	1	49				
+//
+# HNKHIX_134432 Length: 34
+# HNKHIX_134432 Number of predicted TMRs: 0
+HNKHIX_134432	signal	1	24				
+HNKHIX_134432	outside	25	34				
+//
+# HNKHIX_105199 Length: 40
+# HNKHIX_105199 Number of predicted TMRs: 0
+HNKHIX_105199	inside	1	40				
+//
+# HNKHIX_34877 Length: 50
+# HNKHIX_34877 Number of predicted TMRs: 0
+HNKHIX_34877	inside	1	50				
+//
+# HNKHIX_11309 Length: 39
+# HNKHIX_11309 Number of predicted TMRs: 0
+HNKHIX_11309	signal	1	38				
+HNKHIX_11309	outside	39	39				
+//
+# HNKHIX_124272 Length: 43
+# HNKHIX_124272 Number of predicted TMRs: 0
+HNKHIX_124272	inside	1	43				
+//
+# HNKHIX_48483 Length: 48
+# HNKHIX_48483 Number of predicted TMRs: 0
+HNKHIX_48483	inside	1	48				
+//
+# HNKHIX_71948 Length: 41
+# HNKHIX_71948 Number of predicted TMRs: 0
+HNKHIX_71948	inside	1	41				
+//
+# HNKHIX_76118 Length: 42
+# HNKHIX_76118 Number of predicted TMRs: 0
+HNKHIX_76118	inside	1	42				
+//
+# HNKHIX_19692 Length: 46
+# HNKHIX_19692 Number of predicted TMRs: 0
+HNKHIX_19692	inside	1	46				
+//
+# HNKHIX_139453 Length: 48
+# HNKHIX_139453 Number of predicted TMRs: 0
+HNKHIX_139453	outside	1	48				
+//
+# HNKHIX_120241 Length: 44
+# HNKHIX_120241 Number of predicted TMRs: 0
+HNKHIX_120241	signal	1	43				
+HNKHIX_120241	outside	44	44				
+//
+# HNKHIX_117389 Length: 40
+# HNKHIX_117389 Number of predicted TMRs: 0
+HNKHIX_117389	signal	1	15				
+HNKHIX_117389	outside	16	40				
+//
+# HNKHIX_27285 Length: 43
+# HNKHIX_27285 Number of predicted TMRs: 0
+HNKHIX_27285	inside	1	43				
+//
+# HNKHIX_16028 Length: 47
+# HNKHIX_16028 Number of predicted TMRs: 0
+HNKHIX_16028	outside	1	47				
+//
+# HNKHIX_61797 Length: 46
+# HNKHIX_61797 Number of predicted TMRs: 0
+HNKHIX_61797	inside	1	46				
+//
+# HNKHIX_143737 Length: 45
+# HNKHIX_143737 Number of predicted TMRs: 0
+HNKHIX_143737	inside	1	45				
+//
+# HNKHIX_72400 Length: 45
+# HNKHIX_72400 Number of predicted TMRs: 0
+HNKHIX_72400	signal	1	43				
+HNKHIX_72400	outside	44	45				
+//
+# HNKHIX_8125 Length: 38
+# HNKHIX_8125 Number of predicted TMRs: 0
+HNKHIX_8125	inside	1	38				
+//
+# HNKHIX_44424 Length: 40
+# HNKHIX_44424 Number of predicted TMRs: 0
+HNKHIX_44424	inside	1	40				
+//
+# HNKHIX_48327 Length: 47
+# HNKHIX_48327 Number of predicted TMRs: 0
+HNKHIX_48327	inside	1	47				
+//
+# HNKHIX_150488 Length: 46
+# HNKHIX_150488 Number of predicted TMRs: 0
+HNKHIX_150488	inside	1	46				
+//
+# HNKHIX_54482 Length: 50
+# HNKHIX_54482 Number of predicted TMRs: 0
+HNKHIX_54482	inside	1	50				
+//
+# HNKHIX_76755 Length: 49
+# HNKHIX_76755 Number of predicted TMRs: 0
+HNKHIX_76755	inside	1	49				
+//
+# HNKHIX_30165 Length: 42
+# HNKHIX_30165 Number of predicted TMRs: 0
+HNKHIX_30165	inside	1	42				
+//
+# HNKHIX_158071 Length: 44
+# HNKHIX_158071 Number of predicted TMRs: 0
+HNKHIX_158071	signal	1	39				
+HNKHIX_158071	outside	40	44				
+//
+# HNKHIX_91025 Length: 48
+# HNKHIX_91025 Number of predicted TMRs: 0
+HNKHIX_91025	inside	1	48				
+//
+# HNKHIX_165079 Length: 49
+# HNKHIX_165079 Number of predicted TMRs: 0
+HNKHIX_165079	signal	1	44				
+HNKHIX_165079	outside	45	49				
+//
+# HNKHIX_124165 Length: 48
+# HNKHIX_124165 Number of predicted TMRs: 0
+HNKHIX_124165	inside	1	48				
+//
+# HNKHIX_88333 Length: 44
+# HNKHIX_88333 Number of predicted TMRs: 1
+HNKHIX_88333	inside	1	7				
+HNKHIX_88333	TMhelix	8	25				
+HNKHIX_88333	outside	26	44				
+//
+# HNKHIX_26626 Length: 41
+# HNKHIX_26626 Number of predicted TMRs: 0
+HNKHIX_26626	inside	1	41				
+//
+# HNKHIX_20932 Length: 38
+# HNKHIX_20932 Number of predicted TMRs: 0
+HNKHIX_20932	signal	1	37				
+HNKHIX_20932	outside	38	38				
+//
+# HNKHIX_38368 Length: 40
+# HNKHIX_38368 Number of predicted TMRs: 0
+HNKHIX_38368	signal	1	35				
+HNKHIX_38368	outside	36	40				
+//
+# HNKHIX_81043 Length: 48
+# HNKHIX_81043 Number of predicted TMRs: 0
+HNKHIX_81043	inside	1	48				
+//
+# HNKHIX_87109 Length: 47
+# HNKHIX_87109 Number of predicted TMRs: 0
+HNKHIX_87109	outside	1	47				
+//
+# HNKHIX_9520 Length: 39
+# HNKHIX_9520 Number of predicted TMRs: 0
+HNKHIX_9520	signal	1	38				
+HNKHIX_9520	outside	39	39				
+//
+# HNKHIX_123559 Length: 42
+# HNKHIX_123559 Number of predicted TMRs: 0
+HNKHIX_123559	inside	1	42				
+//
+# HNKHIX_94282 Length: 49
+# HNKHIX_94282 Number of predicted TMRs: 0
+HNKHIX_94282	signal	1	27				
+HNKHIX_94282	outside	28	49				
+//
+# HNKHIX_36522 Length: 42
+# HNKHIX_36522 Number of predicted TMRs: 0
+HNKHIX_36522	inside	1	42				
+//
+# HNKHIX_164358 Length: 49
+# HNKHIX_164358 Number of predicted TMRs: 0
+HNKHIX_164358	inside	1	49				
+//
+# HNKHIX_167305 Length: 49
+# HNKHIX_167305 Number of predicted TMRs: 0
+HNKHIX_167305	inside	1	49				
+//
+# HNKHIX_49347 Length: 50
+# HNKHIX_49347 Number of predicted TMRs: 0
+HNKHIX_49347	signal	1	23				
+HNKHIX_49347	outside	24	50				
+//
+# HNKHIX_171641 Length: 44
+# HNKHIX_171641 Number of predicted TMRs: 0
+HNKHIX_171641	signal	1	33				
+HNKHIX_171641	outside	34	44				
+//
+# HNKHIX_25046 Length: 41
+# HNKHIX_25046 Number of predicted TMRs: 0
+HNKHIX_25046	inside	1	41				
+//
+# HNKHIX_145859 Length: 49
+# HNKHIX_145859 Number of predicted TMRs: 0
+HNKHIX_145859	inside	1	49				
+//
+# HNKHIX_74396 Length: 49
+# HNKHIX_74396 Number of predicted TMRs: 0
+HNKHIX_74396	inside	1	49				
+//
+# HNKHIX_85419 Length: 45
+# HNKHIX_85419 Number of predicted TMRs: 0
+HNKHIX_85419	inside	1	45				
+//
+# HNKHIX_18323 Length: 49
+# HNKHIX_18323 Number of predicted TMRs: 0
+HNKHIX_18323	inside	1	49				
+//
+# HNKHIX_51288 Length: 49
+# HNKHIX_51288 Number of predicted TMRs: 0
+HNKHIX_51288	inside	1	49				
+//
+# HNKHIX_59209 Length: 41
+# HNKHIX_59209 Number of predicted TMRs: 0
+HNKHIX_59209	inside	1	41				
+//
+# HNKHIX_171524 Length: 47
+# HNKHIX_171524 Number of predicted TMRs: 0
+HNKHIX_171524	signal	1	46				
+HNKHIX_171524	periplasm	47	47				
+//
+# HNKHIX_152586 Length: 47
+# HNKHIX_152586 Number of predicted TMRs: 0
+HNKHIX_152586	signal	1	22				
+HNKHIX_152586	outside	23	47				
+//
+# HNKHIX_149269 Length: 38
+# HNKHIX_149269 Number of predicted TMRs: 0
+HNKHIX_149269	inside	1	38				
+//
+# HNKHIX_139552 Length: 44
+# HNKHIX_139552 Number of predicted TMRs: 0
+HNKHIX_139552	signal	1	37				
+HNKHIX_139552	outside	38	44				
+//
+# HNKHIX_12966 Length: 38
+# HNKHIX_12966 Number of predicted TMRs: 0
+HNKHIX_12966	outside	1	38				
+//
+# HNKHIX_96834 Length: 45
+# HNKHIX_96834 Number of predicted TMRs: 0
+HNKHIX_96834	inside	1	45				
+//
+# HNKHIX_4727 Length: 47
+# HNKHIX_4727 Number of predicted TMRs: 0
+HNKHIX_4727	inside	1	47				
+//
+# HNKHIX_46994 Length: 48
+# HNKHIX_46994 Number of predicted TMRs: 0
+HNKHIX_46994	inside	1	48				
+//
+# HNKHIX_16292 Length: 41
+# HNKHIX_16292 Number of predicted TMRs: 0
+HNKHIX_16292	signal	1	39				
+HNKHIX_16292	outside	40	41				
+//
+# HNKHIX_167729 Length: 39
+# HNKHIX_167729 Number of predicted TMRs: 0
+HNKHIX_167729	outside	1	39				
+//
+# HNKHIX_145755 Length: 49
+# HNKHIX_145755 Number of predicted TMRs: 0
+HNKHIX_145755	inside	1	49				
+//
+# HNKHIX_76030 Length: 36
+# HNKHIX_76030 Number of predicted TMRs: 0
+HNKHIX_76030	inside	1	36				
+//
+# HNKHIX_46266 Length: 50
+# HNKHIX_46266 Number of predicted TMRs: 0
+HNKHIX_46266	signal	1	48				
+HNKHIX_46266	outside	49	50				
+//
+# HNKHIX_138807 Length: 48
+# HNKHIX_138807 Number of predicted TMRs: 0
+HNKHIX_138807	outside	1	48				
+//
+# HNKHIX_120854 Length: 48
+# HNKHIX_120854 Number of predicted TMRs: 0
+HNKHIX_120854	inside	1	48				
+//
+# HNKHIX_93435 Length: 48
+# HNKHIX_93435 Number of predicted TMRs: 0
+HNKHIX_93435	inside	1	48				
+//
+# HNKHIX_104033 Length: 46
+# HNKHIX_104033 Number of predicted TMRs: 0
+HNKHIX_104033	inside	1	46				
+//
+# HNKHIX_172158 Length: 43
+# HNKHIX_172158 Number of predicted TMRs: 0
+HNKHIX_172158	signal	1	42				
+HNKHIX_172158	outside	43	43				
+//
+# HNKHIX_994 Length: 49
+# HNKHIX_994 Number of predicted TMRs: 0
+HNKHIX_994	signal	1	13				
+HNKHIX_994	outside	14	49				
+//
+# HNKHIX_128583 Length: 38
+# HNKHIX_128583 Number of predicted TMRs: 0
+HNKHIX_128583	signal	1	36				
+HNKHIX_128583	outside	37	38				
+//
+# HNKHIX_99762 Length: 50
+# HNKHIX_99762 Number of predicted TMRs: 0
+HNKHIX_99762	signal	1	35				
+HNKHIX_99762	outside	36	50				
+//
+# HNKHIX_40059 Length: 49
+# HNKHIX_40059 Number of predicted TMRs: 0
+HNKHIX_40059	inside	1	49				
+//
+# HNKHIX_62184 Length: 44
+# HNKHIX_62184 Number of predicted TMRs: 0
+HNKHIX_62184	signal	1	43				
+HNKHIX_62184	outside	44	44				
+//
+# HNKHIX_131516 Length: 48
+# HNKHIX_131516 Number of predicted TMRs: 0
+HNKHIX_131516	signal	1	38				
+HNKHIX_131516	outside	39	48				
+//
+# HNKHIX_117374 Length: 48
+# HNKHIX_117374 Number of predicted TMRs: 0
+HNKHIX_117374	inside	1	48				
+//
+# HNKHIX_142696 Length: 33
+# HNKHIX_142696 Number of predicted TMRs: 0
+HNKHIX_142696	signal	1	21				
+HNKHIX_142696	outside	22	33				
+//
+# HNKHIX_2357 Length: 38
+# HNKHIX_2357 Number of predicted TMRs: 0
+HNKHIX_2357	signal	1	35				
+HNKHIX_2357	outside	36	38				
+//
+# HNKHIX_12482 Length: 48
+# HNKHIX_12482 Number of predicted TMRs: 0
+HNKHIX_12482	outside	1	48				
+//
+# HNKHIX_114631 Length: 47
+# HNKHIX_114631 Number of predicted TMRs: 0
+HNKHIX_114631	inside	1	47				
+//
+# HNKHIX_90776 Length: 50
+# HNKHIX_90776 Number of predicted TMRs: 0
+HNKHIX_90776	inside	1	50				
+//
+# HNKHIX_100772 Length: 43
+# HNKHIX_100772 Number of predicted TMRs: 0
+HNKHIX_100772	inside	1	43				
+//
+# HNKHIX_50767 Length: 46
+# HNKHIX_50767 Number of predicted TMRs: 0
+HNKHIX_50767	inside	1	46				
+//
+# HNKHIX_65249 Length: 46
+# HNKHIX_65249 Number of predicted TMRs: 0
+HNKHIX_65249	signal	1	25				
+HNKHIX_65249	outside	26	46				
+//
+# HNKHIX_61171 Length: 48
+# HNKHIX_61171 Number of predicted TMRs: 0
+HNKHIX_61171	inside	1	48				
+//
+# HNKHIX_26000 Length: 35
+# HNKHIX_26000 Number of predicted TMRs: 0
+HNKHIX_26000	inside	1	35				
+//
+# HNKHIX_153933 Length: 47
+# HNKHIX_153933 Number of predicted TMRs: 0
+HNKHIX_153933	inside	1	47				
+//
+# HNKHIX_165930 Length: 38
+# HNKHIX_165930 Number of predicted TMRs: 0
+HNKHIX_165930	inside	1	38				
+//
+# HNKHIX_91330 Length: 49
+# HNKHIX_91330 Number of predicted TMRs: 0
+HNKHIX_91330	inside	1	49				
+//
+# HNKHIX_54127 Length: 42
+# HNKHIX_54127 Number of predicted TMRs: 0
+HNKHIX_54127	inside	1	42				
+//
+# HNKHIX_54148 Length: 44
+# HNKHIX_54148 Number of predicted TMRs: 0
+HNKHIX_54148	inside	1	44				
+//
+# HNKHIX_137576 Length: 48
+# HNKHIX_137576 Number of predicted TMRs: 0
+HNKHIX_137576	inside	1	48				
+//
+# HNKHIX_70489 Length: 39
+# HNKHIX_70489 Number of predicted TMRs: 0
+HNKHIX_70489	inside	1	39				
+//
+# HNKHIX_90920 Length: 39
+# HNKHIX_90920 Number of predicted TMRs: 0
+HNKHIX_90920	signal	1	26				
+HNKHIX_90920	outside	27	39				
+//
+# HNKHIX_72052 Length: 47
+# HNKHIX_72052 Number of predicted TMRs: 0
+HNKHIX_72052	signal	1	19				
+HNKHIX_72052	outside	20	47				
+//
+# HNKHIX_65364 Length: 45
+# HNKHIX_65364 Number of predicted TMRs: 0
+HNKHIX_65364	inside	1	45				
+//
+# HNKHIX_42740 Length: 49
+# HNKHIX_42740 Number of predicted TMRs: 0
+HNKHIX_42740	inside	1	49				
+//
+# HNKHIX_145413 Length: 45
+# HNKHIX_145413 Number of predicted TMRs: 0
+HNKHIX_145413	outside	1	45				
+//
+# HNKHIX_103873 Length: 43
+# HNKHIX_103873 Number of predicted TMRs: 0
+HNKHIX_103873	inside	1	43				
+//
+# HNKHIX_42397 Length: 43
+# HNKHIX_42397 Number of predicted TMRs: 0
+HNKHIX_42397	inside	1	43				
+//
+# HNKHIX_23067 Length: 50
+# HNKHIX_23067 Number of predicted TMRs: 0
+HNKHIX_23067	inside	1	50				
+//
+# HNKHIX_57020 Length: 50
+# HNKHIX_57020 Number of predicted TMRs: 0
+HNKHIX_57020	inside	1	50				
+//
+# HNKHIX_110997 Length: 48
+# HNKHIX_110997 Number of predicted TMRs: 0
+HNKHIX_110997	inside	1	48				
+//
+# HNKHIX_122439 Length: 37
+# HNKHIX_122439 Number of predicted TMRs: 0
+HNKHIX_122439	signal	1	35				
+HNKHIX_122439	outside	36	37				
+//
+# HNKHIX_89413 Length: 47
+# HNKHIX_89413 Number of predicted TMRs: 0
+HNKHIX_89413	signal	1	46				
+HNKHIX_89413	outside	47	47				
+//
+# HNKHIX_163602 Length: 40
+# HNKHIX_163602 Number of predicted TMRs: 0
+HNKHIX_163602	signal	1	31				
+HNKHIX_163602	outside	32	40				
+//
+# HNKHIX_133194 Length: 40
+# HNKHIX_133194 Number of predicted TMRs: 0
+HNKHIX_133194	inside	1	40				
+//
+# HNKHIX_55466 Length: 46
+# HNKHIX_55466 Number of predicted TMRs: 0
+HNKHIX_55466	inside	1	46				
+//
+# HNKHIX_128245 Length: 38
+# HNKHIX_128245 Number of predicted TMRs: 0
+HNKHIX_128245	inside	1	38				
+//
+# HNKHIX_19912 Length: 40
+# HNKHIX_19912 Number of predicted TMRs: 0
+HNKHIX_19912	signal	1	32				
+HNKHIX_19912	outside	33	40				
+//
+# HNKHIX_91501 Length: 50
+# HNKHIX_91501 Number of predicted TMRs: 0
+HNKHIX_91501	inside	1	50				
+//
+# HNKHIX_166349 Length: 45
+# HNKHIX_166349 Number of predicted TMRs: 0
+HNKHIX_166349	inside	1	45				
+//
+# HNKHIX_164116 Length: 44
+# HNKHIX_164116 Number of predicted TMRs: 0
+HNKHIX_164116	inside	1	44				
+//
+# HNKHIX_173473 Length: 44
+# HNKHIX_173473 Number of predicted TMRs: 0
+HNKHIX_173473	inside	1	44				
+//
+# HNKHIX_100151 Length: 44
+# HNKHIX_100151 Number of predicted TMRs: 0
+HNKHIX_100151	inside	1	44				
+//
+# HNKHIX_29898 Length: 47
+# HNKHIX_29898 Number of predicted TMRs: 0
+HNKHIX_29898	inside	1	47				
+//
+# HNKHIX_107060 Length: 31
+# HNKHIX_107060 Number of predicted TMRs: 0
+HNKHIX_107060	inside	1	31				
+//
+# HNKHIX_14603 Length: 50
+# HNKHIX_14603 Number of predicted TMRs: 0
+HNKHIX_14603	inside	1	50				
+//
+# HNKHIX_121854 Length: 37
+# HNKHIX_121854 Number of predicted TMRs: 0
+HNKHIX_121854	inside	1	37				
+//
+# HNKHIX_170742 Length: 41
+# HNKHIX_170742 Number of predicted TMRs: 0
+HNKHIX_170742	inside	1	41				
+//
+# HNKHIX_29660 Length: 47
+# HNKHIX_29660 Number of predicted TMRs: 0
+HNKHIX_29660	inside	1	47				
+//
+# HNKHIX_104807 Length: 44
+# HNKHIX_104807 Number of predicted TMRs: 0
+HNKHIX_104807	inside	1	44				
+//
+# HNKHIX_55924 Length: 43
+# HNKHIX_55924 Number of predicted TMRs: 0
+HNKHIX_55924	inside	1	43				
+//
+# HNKHIX_166915 Length: 50
+# HNKHIX_166915 Number of predicted TMRs: 0
+HNKHIX_166915	inside	1	50				
+//
+# HNKHIX_127950 Length: 48
+# HNKHIX_127950 Number of predicted TMRs: 0
+HNKHIX_127950	inside	1	48				
+//
+# HNKHIX_7199 Length: 49
+# HNKHIX_7199 Number of predicted TMRs: 0
+HNKHIX_7199	inside	1	49				
+//
+# HNKHIX_110249 Length: 48
+# HNKHIX_110249 Number of predicted TMRs: 0
+HNKHIX_110249	inside	1	48				
+//
+# HNKHIX_8829 Length: 46
+# HNKHIX_8829 Number of predicted TMRs: 0
+HNKHIX_8829	inside	1	46				
+//
+# HNKHIX_127481 Length: 47
+# HNKHIX_127481 Number of predicted TMRs: 0
+HNKHIX_127481	inside	1	47				
+//
+# HNKHIX_94230 Length: 44
+# HNKHIX_94230 Number of predicted TMRs: 0
+HNKHIX_94230	signal	1	37				
+HNKHIX_94230	outside	38	44				
+//
+# HNKHIX_80686 Length: 34
+# HNKHIX_80686 Number of predicted TMRs: 0
+HNKHIX_80686	inside	1	34				
+//
+# HNKHIX_77667 Length: 45
+# HNKHIX_77667 Number of predicted TMRs: 0
+HNKHIX_77667	inside	1	45				
+//
+# HNKHIX_62952 Length: 48
+# HNKHIX_62952 Number of predicted TMRs: 0
+HNKHIX_62952	inside	1	48				
+//
+# HNKHIX_117152 Length: 42
+# HNKHIX_117152 Number of predicted TMRs: 0
+HNKHIX_117152	signal	1	23				
+HNKHIX_117152	outside	24	42				
+//
+# HNKHIX_133372 Length: 48
+# HNKHIX_133372 Number of predicted TMRs: 0
+HNKHIX_133372	signal	1	40				
+HNKHIX_133372	outside	41	48				
+//
+# HNKHIX_138160 Length: 36
+# HNKHIX_138160 Number of predicted TMRs: 0
+HNKHIX_138160	signal	1	23				
+HNKHIX_138160	outside	24	36				
+//
+# HNKHIX_138168 Length: 48
+# HNKHIX_138168 Number of predicted TMRs: 0
+HNKHIX_138168	signal	1	35				
+HNKHIX_138168	outside	36	48				
+//
+# HNKHIX_11368 Length: 45
+# HNKHIX_11368 Number of predicted TMRs: 0
+HNKHIX_11368	signal	1	44				
+HNKHIX_11368	outside	45	45				
+//
+# HNKHIX_120438 Length: 49
+# HNKHIX_120438 Number of predicted TMRs: 0
+HNKHIX_120438	inside	1	49				
+//
+# HNKHIX_93877 Length: 48
+# HNKHIX_93877 Number of predicted TMRs: 0
+HNKHIX_93877	inside	1	48				
+//
+# HNKHIX_89349 Length: 46
+# HNKHIX_89349 Number of predicted TMRs: 0
+HNKHIX_89349	inside	1	46				
+//
+# HNKHIX_37723 Length: 50
+# HNKHIX_37723 Number of predicted TMRs: 0
+HNKHIX_37723	inside	1	50				
+//
+# HNKHIX_42388 Length: 46
+# HNKHIX_42388 Number of predicted TMRs: 0
+HNKHIX_42388	signal	1	15				
+HNKHIX_42388	outside	16	46				
+//
+# HNKHIX_155377 Length: 46
+# HNKHIX_155377 Number of predicted TMRs: 0
+HNKHIX_155377	inside	1	46				
+//
+# HNKHIX_125273 Length: 38
+# HNKHIX_125273 Number of predicted TMRs: 0
+HNKHIX_125273	signal	1	33				
+HNKHIX_125273	outside	34	38				
+//
+# HNKHIX_127425 Length: 44
+# HNKHIX_127425 Number of predicted TMRs: 0
+HNKHIX_127425	signal	1	41				
+HNKHIX_127425	outside	42	44				
+//
+# HNKHIX_44501 Length: 46
+# HNKHIX_44501 Number of predicted TMRs: 0
+HNKHIX_44501	signal	1	17				
+HNKHIX_44501	outside	18	46				
+//
+# HNKHIX_21975 Length: 43
+# HNKHIX_21975 Number of predicted TMRs: 0
+HNKHIX_21975	inside	1	43				
+//
+# HNKHIX_53389 Length: 49
+# HNKHIX_53389 Number of predicted TMRs: 0
+HNKHIX_53389	inside	1	49				
+//
+# HNKHIX_134851 Length: 45
+# HNKHIX_134851 Number of predicted TMRs: 0
+HNKHIX_134851	inside	1	45				
+//
+# HNKHIX_111136 Length: 38
+# HNKHIX_111136 Number of predicted TMRs: 0
+HNKHIX_111136	inside	1	38				
+//
+# HNKHIX_86740 Length: 50
+# HNKHIX_86740 Number of predicted TMRs: 0
+HNKHIX_86740	inside	1	50				
+//
+# HNKHIX_61132 Length: 44
+# HNKHIX_61132 Number of predicted TMRs: 0
+HNKHIX_61132	inside	1	44				
+//
+# HNKHIX_42317 Length: 45
+# HNKHIX_42317 Number of predicted TMRs: 0
+HNKHIX_42317	outside	1	45				
+//
+# HNKHIX_121185 Length: 48
+# HNKHIX_121185 Number of predicted TMRs: 0
+HNKHIX_121185	inside	1	48				
+//
+# HNKHIX_24608 Length: 44
+# HNKHIX_24608 Number of predicted TMRs: 0
+HNKHIX_24608	inside	1	44				
+//
+# HNKHIX_117786 Length: 50
+# HNKHIX_117786 Number of predicted TMRs: 0
+HNKHIX_117786	inside	1	50				
+//
+# HNKHIX_144013 Length: 50
+# HNKHIX_144013 Number of predicted TMRs: 0
+HNKHIX_144013	inside	1	50				
+//
+# HNKHIX_97212 Length: 47
+# HNKHIX_97212 Number of predicted TMRs: 0
+HNKHIX_97212	inside	1	47				
+//
+# HNKHIX_116287 Length: 39
+# HNKHIX_116287 Number of predicted TMRs: 0
+HNKHIX_116287	inside	1	39				
+//
+# HNKHIX_103451 Length: 46
+# HNKHIX_103451 Number of predicted TMRs: 0
+HNKHIX_103451	inside	1	46				
+//
+# HNKHIX_119330 Length: 36
+# HNKHIX_119330 Number of predicted TMRs: 0
+HNKHIX_119330	signal	1	33				
+HNKHIX_119330	outside	34	36				
+//
+# HNKHIX_169141 Length: 50
+# HNKHIX_169141 Number of predicted TMRs: 0
+HNKHIX_169141	inside	1	50				
+//
+# HNKHIX_71751 Length: 49
+# HNKHIX_71751 Number of predicted TMRs: 0
+HNKHIX_71751	signal	1	48				
+HNKHIX_71751	outside	49	49				
+//
+# HNKHIX_152059 Length: 33
+# HNKHIX_152059 Number of predicted TMRs: 0
+HNKHIX_152059	inside	1	33				
+//
+# HNKHIX_118693 Length: 46
+# HNKHIX_118693 Number of predicted TMRs: 0
+HNKHIX_118693	inside	1	46				
+//
+# HNKHIX_116756 Length: 48
+# HNKHIX_116756 Number of predicted TMRs: 0
+HNKHIX_116756	signal	1	13				
+HNKHIX_116756	outside	14	48				
+//
+# HNKHIX_21553 Length: 36
+# HNKHIX_21553 Number of predicted TMRs: 0
+HNKHIX_21553	inside	1	36				
+//
+# HNKHIX_132520 Length: 49
+# HNKHIX_132520 Number of predicted TMRs: 0
+HNKHIX_132520	inside	1	49				
+//
+# HNKHIX_28313 Length: 50
+# HNKHIX_28313 Number of predicted TMRs: 0
+HNKHIX_28313	signal	1	49				
+HNKHIX_28313	outside	50	50				
+//
+# HNKHIX_139306 Length: 44
+# HNKHIX_139306 Number of predicted TMRs: 0
+HNKHIX_139306	inside	1	44				
+//
+# HNKHIX_114924 Length: 47
+# HNKHIX_114924 Number of predicted TMRs: 0
+HNKHIX_114924	inside	1	47				
+//
+# HNKHIX_128058 Length: 40
+# HNKHIX_128058 Number of predicted TMRs: 0
+HNKHIX_128058	signal	1	25				
+HNKHIX_128058	outside	26	40				
+//
+# HNKHIX_82627 Length: 39
+# HNKHIX_82627 Number of predicted TMRs: 0
+HNKHIX_82627	inside	1	39				
+//
+# HNKHIX_31053 Length: 48
+# HNKHIX_31053 Number of predicted TMRs: 0
+HNKHIX_31053	inside	1	48				
+//
+# HNKHIX_133921 Length: 41
+# HNKHIX_133921 Number of predicted TMRs: 0
+HNKHIX_133921	inside	1	41				
+//
+# HNKHIX_140199 Length: 49
+# HNKHIX_140199 Number of predicted TMRs: 0
+HNKHIX_140199	signal	1	44				
+HNKHIX_140199	outside	45	49				
+//
+# HNKHIX_81228 Length: 41
+# HNKHIX_81228 Number of predicted TMRs: 0
+HNKHIX_81228	signal	1	39				
+HNKHIX_81228	outside	40	41				
+//
+# HNKHIX_33131 Length: 48
+# HNKHIX_33131 Number of predicted TMRs: 0
+HNKHIX_33131	signal	1	21				
+HNKHIX_33131	outside	22	48				
+//
+# HNKHIX_54898 Length: 48
+# HNKHIX_54898 Number of predicted TMRs: 0
+HNKHIX_54898	inside	1	48				
+//
+# HNKHIX_62726 Length: 47
+# HNKHIX_62726 Number of predicted TMRs: 0
+HNKHIX_62726	inside	1	47				
+//
+# HNKHIX_5260 Length: 48
+# HNKHIX_5260 Number of predicted TMRs: 0
+HNKHIX_5260	signal	1	47				
+HNKHIX_5260	outside	48	48				
+//
+# HNKHIX_34235 Length: 44
+# HNKHIX_34235 Number of predicted TMRs: 0
+HNKHIX_34235	signal	1	43				
+HNKHIX_34235	outside	44	44				
+//
+# HNKHIX_37398 Length: 33
+# HNKHIX_37398 Number of predicted TMRs: 0
+HNKHIX_37398	signal	1	24				
+HNKHIX_37398	outside	25	33				
+//
+# HNKHIX_145564 Length: 49
+# HNKHIX_145564 Number of predicted TMRs: 0
+HNKHIX_145564	inside	1	49				
+//
+# HNKHIX_168999 Length: 41
+# HNKHIX_168999 Number of predicted TMRs: 0
+HNKHIX_168999	signal	1	39				
+HNKHIX_168999	outside	40	41				
+//
+# HNKHIX_169962 Length: 46
+# HNKHIX_169962 Number of predicted TMRs: 0
+HNKHIX_169962	inside	1	46				
+//
+# HNKHIX_100146 Length: 44
+# HNKHIX_100146 Number of predicted TMRs: 0
+HNKHIX_100146	signal	1	43				
+HNKHIX_100146	outside	44	44				
+//
+# HNKHIX_134018 Length: 48
+# HNKHIX_134018 Number of predicted TMRs: 0
+HNKHIX_134018	inside	1	48				
+//
+# HNKHIX_170585 Length: 43
+# HNKHIX_170585 Number of predicted TMRs: 0
+HNKHIX_170585	signal	1	27				
+HNKHIX_170585	outside	28	43				
+//
+# HNKHIX_57557 Length: 36
+# HNKHIX_57557 Number of predicted TMRs: 0
+HNKHIX_57557	signal	1	34				
+HNKHIX_57557	outside	35	36				
+//
+# HNKHIX_66891 Length: 41
+# HNKHIX_66891 Number of predicted TMRs: 0
+HNKHIX_66891	signal	1	38				
+HNKHIX_66891	outside	39	41				
+//
+# HNKHIX_134345 Length: 39
+# HNKHIX_134345 Number of predicted TMRs: 0
+HNKHIX_134345	inside	1	39				
+//
+# HNKHIX_76541 Length: 50
+# HNKHIX_76541 Number of predicted TMRs: 0
+HNKHIX_76541	inside	1	50				
+//
+# HNKHIX_2048 Length: 44
+# HNKHIX_2048 Number of predicted TMRs: 0
+HNKHIX_2048	signal	1	43				
+HNKHIX_2048	outside	44	44				
+//
+# HNKHIX_137389 Length: 38
+# HNKHIX_137389 Number of predicted TMRs: 0
+HNKHIX_137389	signal	1	36				
+HNKHIX_137389	outside	37	38				
+//
+# HNKHIX_84447 Length: 41
+# HNKHIX_84447 Number of predicted TMRs: 0
+HNKHIX_84447	signal	1	24				
+HNKHIX_84447	outside	25	41				
+//
+# HNKHIX_95214 Length: 49
+# HNKHIX_95214 Number of predicted TMRs: 0
+HNKHIX_95214	inside	1	49				
+//
+# HNKHIX_131271 Length: 46
+# HNKHIX_131271 Number of predicted TMRs: 0
+HNKHIX_131271	inside	1	46				
+//
+# HNKHIX_117510 Length: 46
+# HNKHIX_117510 Number of predicted TMRs: 0
+HNKHIX_117510	inside	1	46				
+//
+# HNKHIX_6694 Length: 43
+# HNKHIX_6694 Number of predicted TMRs: 0
+HNKHIX_6694	inside	1	43				
+//
+# HNKHIX_109270 Length: 47
+# HNKHIX_109270 Number of predicted TMRs: 0
+HNKHIX_109270	inside	1	47				
+//
+# HNKHIX_87506 Length: 47
+# HNKHIX_87506 Number of predicted TMRs: 0
+HNKHIX_87506	inside	1	47				
+//
+# HNKHIX_45817 Length: 41
+# HNKHIX_45817 Number of predicted TMRs: 1
+HNKHIX_45817	outside	1	2				
+HNKHIX_45817	TMhelix	3	23				
+HNKHIX_45817	inside	24	41				
+//
+# HNKHIX_140369 Length: 43
+# HNKHIX_140369 Number of predicted TMRs: 0
+HNKHIX_140369	inside	1	43				
+//
+# HNKHIX_140374 Length: 44
+# HNKHIX_140374 Number of predicted TMRs: 0
+HNKHIX_140374	inside	1	44				
+//
+# HNKHIX_85104 Length: 45
+# HNKHIX_85104 Number of predicted TMRs: 0
+HNKHIX_85104	signal	1	20				
+HNKHIX_85104	outside	21	45				
+//
+# HNKHIX_5130 Length: 46
+# HNKHIX_5130 Number of predicted TMRs: 0
+HNKHIX_5130	inside	1	46				
+//
+# HNKHIX_80736 Length: 48
+# HNKHIX_80736 Number of predicted TMRs: 0
+HNKHIX_80736	inside	1	48				
+//
+# HNKHIX_154526 Length: 47
+# HNKHIX_154526 Number of predicted TMRs: 0
+HNKHIX_154526	inside	1	47				
+//
+# HNKHIX_145053 Length: 46
+# HNKHIX_145053 Number of predicted TMRs: 0
+HNKHIX_145053	signal	1	45				
+HNKHIX_145053	outside	46	46				
+//
+# HNKHIX_117687 Length: 41
+# HNKHIX_117687 Number of predicted TMRs: 0
+HNKHIX_117687	inside	1	41				
+//
+# HNKHIX_159611 Length: 49
+# HNKHIX_159611 Number of predicted TMRs: 0
+HNKHIX_159611	inside	1	49				
+//
+# HNKHIX_147767 Length: 39
+# HNKHIX_147767 Number of predicted TMRs: 0
+HNKHIX_147767	signal	1	32				
+HNKHIX_147767	outside	33	39				
+//
+# HNKHIX_165412 Length: 50
+# HNKHIX_165412 Number of predicted TMRs: 0
+HNKHIX_165412	inside	1	50				
+//
+# HNKHIX_9409 Length: 44
+# HNKHIX_9409 Number of predicted TMRs: 0
+HNKHIX_9409	signal	1	22				
+HNKHIX_9409	outside	23	44				
+//
+# HNKHIX_54944 Length: 50
+# HNKHIX_54944 Number of predicted TMRs: 0
+HNKHIX_54944	inside	1	50				
+//
+# HNKHIX_172213 Length: 45
+# HNKHIX_172213 Number of predicted TMRs: 0
+HNKHIX_172213	inside	1	45				
+//
+# HNKHIX_17561 Length: 43
+# HNKHIX_17561 Number of predicted TMRs: 0
+HNKHIX_17561	inside	1	43				
+//
+# HNKHIX_130560 Length: 39
+# HNKHIX_130560 Number of predicted TMRs: 0
+HNKHIX_130560	signal	1	37				
+HNKHIX_130560	outside	38	39				
+//
+# HNKHIX_39986 Length: 41
+# HNKHIX_39986 Number of predicted TMRs: 0
+HNKHIX_39986	inside	1	41				
+//
+# HNKHIX_4026 Length: 40
+# HNKHIX_4026 Number of predicted TMRs: 0
+HNKHIX_4026	signal	1	39				
+HNKHIX_4026	outside	40	40				
+//
+# HNKHIX_137303 Length: 43
+# HNKHIX_137303 Number of predicted TMRs: 0
+HNKHIX_137303	signal	1	24				
+HNKHIX_137303	outside	25	43				
+//
+# HNKHIX_157548 Length: 48
+# HNKHIX_157548 Number of predicted TMRs: 0
+HNKHIX_157548	inside	1	48				
+//
+# HNKHIX_87760 Length: 42
+# HNKHIX_87760 Number of predicted TMRs: 0
+HNKHIX_87760	inside	1	42				
+//
+# HNKHIX_151569 Length: 50
+# HNKHIX_151569 Number of predicted TMRs: 0
+HNKHIX_151569	inside	1	50				
+//
+# HNKHIX_114807 Length: 40
+# HNKHIX_114807 Number of predicted TMRs: 0
+HNKHIX_114807	signal	1	20				
+HNKHIX_114807	outside	21	40				
+//
+# HNKHIX_45243 Length: 42
+# HNKHIX_45243 Number of predicted TMRs: 0
+HNKHIX_45243	signal	1	10				
+HNKHIX_45243	outside	11	42				
+//
+# HNKHIX_23054 Length: 43
+# HNKHIX_23054 Number of predicted TMRs: 0
+HNKHIX_23054	inside	1	43				
+//
+# HNKHIX_61438 Length: 44
+# HNKHIX_61438 Number of predicted TMRs: 0
+HNKHIX_61438	inside	1	44				
+//
+# HNKHIX_10996 Length: 49
+# HNKHIX_10996 Number of predicted TMRs: 0
+HNKHIX_10996	inside	1	49				
+//
+# HNKHIX_74759 Length: 42
+# HNKHIX_74759 Number of predicted TMRs: 0
+HNKHIX_74759	inside	1	42				
+//
+# HNKHIX_8986 Length: 49
+# HNKHIX_8986 Number of predicted TMRs: 0
+HNKHIX_8986	inside	1	49				
+//
+# HNKHIX_143994 Length: 48
+# HNKHIX_143994 Number of predicted TMRs: 0
+HNKHIX_143994	signal	1	38				
+HNKHIX_143994	outside	39	48				
+//
+# HNKHIX_106248 Length: 47
+# HNKHIX_106248 Number of predicted TMRs: 0
+HNKHIX_106248	signal	1	23				
+HNKHIX_106248	outside	24	47				
+//
+# HNKHIX_171560 Length: 50
+# HNKHIX_171560 Number of predicted TMRs: 0
+HNKHIX_171560	signal	1	40				
+HNKHIX_171560	outside	41	50				
+//
+# HNKHIX_94666 Length: 43
+# HNKHIX_94666 Number of predicted TMRs: 0
+HNKHIX_94666	inside	1	43				
+//
+# HNKHIX_143642 Length: 45
+# HNKHIX_143642 Number of predicted TMRs: 0
+HNKHIX_143642	signal	1	42				
+HNKHIX_143642	outside	43	45				
+//
+# HNKHIX_111213 Length: 46
+# HNKHIX_111213 Number of predicted TMRs: 0
+HNKHIX_111213	signal	1	20				
+HNKHIX_111213	outside	21	46				
+//
+# HNKHIX_8483 Length: 36
+# HNKHIX_8483 Number of predicted TMRs: 0
+HNKHIX_8483	signal	1	20				
+HNKHIX_8483	outside	21	36				
+//
+# HNKHIX_160038 Length: 50
+# HNKHIX_160038 Number of predicted TMRs: 0
+HNKHIX_160038	inside	1	50				
+//
+# HNKHIX_13175 Length: 41
+# HNKHIX_13175 Number of predicted TMRs: 0
+HNKHIX_13175	inside	1	41				
+//
+# HNKHIX_142016 Length: 41
+# HNKHIX_142016 Number of predicted TMRs: 0
+HNKHIX_142016	signal	1	19				
+HNKHIX_142016	outside	20	41				
+//
+# HNKHIX_60285 Length: 49
+# HNKHIX_60285 Number of predicted TMRs: 0
+HNKHIX_60285	inside	1	49				
+//
+# HNKHIX_97848 Length: 37
+# HNKHIX_97848 Number of predicted TMRs: 0
+HNKHIX_97848	signal	1	36				
+HNKHIX_97848	outside	37	37				
+//
+# HNKHIX_173481 Length: 50
+# HNKHIX_173481 Number of predicted TMRs: 0
+HNKHIX_173481	signal	1	39				
+HNKHIX_173481	outside	40	50				
+//
+# HNKHIX_21455 Length: 49
+# HNKHIX_21455 Number of predicted TMRs: 0
+HNKHIX_21455	inside	1	49				
+//
+# HNKHIX_36440 Length: 38
+# HNKHIX_36440 Number of predicted TMRs: 0
+HNKHIX_36440	inside	1	38				
+//
+# HNKHIX_79988 Length: 46
+# HNKHIX_79988 Number of predicted TMRs: 0
+HNKHIX_79988	inside	1	46				
+//
+# HNKHIX_133153 Length: 49
+# HNKHIX_133153 Number of predicted TMRs: 0
+HNKHIX_133153	inside	1	49				
+//
+# HNKHIX_53349 Length: 39
+# HNKHIX_53349 Number of predicted TMRs: 0
+HNKHIX_53349	inside	1	39				
+//
+# HNKHIX_41553 Length: 44
+# HNKHIX_41553 Number of predicted TMRs: 0
+HNKHIX_41553	inside	1	44				
+//
+# HNKHIX_129882 Length: 48
+# HNKHIX_129882 Number of predicted TMRs: 0
+HNKHIX_129882	signal	1	28				
+HNKHIX_129882	outside	29	48				
+//
+# HNKHIX_36521 Length: 39
+# HNKHIX_36521 Number of predicted TMRs: 0
+HNKHIX_36521	inside	1	39				
+//
+# HNKHIX_139717 Length: 41
+# HNKHIX_139717 Number of predicted TMRs: 0
+HNKHIX_139717	signal	1	40				
+HNKHIX_139717	outside	41	41				
+//
+# HNKHIX_142246 Length: 50
+# HNKHIX_142246 Number of predicted TMRs: 0
+HNKHIX_142246	inside	1	50				
+//
+# HNKHIX_16279 Length: 44
+# HNKHIX_16279 Number of predicted TMRs: 0
+HNKHIX_16279	inside	1	44				
+//
+# HNKHIX_131280 Length: 50
+# HNKHIX_131280 Number of predicted TMRs: 0
+HNKHIX_131280	outside	1	50				
+//
+# HNKHIX_24458 Length: 47
+# HNKHIX_24458 Number of predicted TMRs: 0
+HNKHIX_24458	signal	1	46				
+HNKHIX_24458	outside	47	47				
+//
+# HNKHIX_126382 Length: 47
+# HNKHIX_126382 Number of predicted TMRs: 0
+HNKHIX_126382	signal	1	46				
+HNKHIX_126382	outside	47	47				
+//
+# HNKHIX_23540 Length: 49
+# HNKHIX_23540 Number of predicted TMRs: 0
+HNKHIX_23540	inside	1	49				
+//
+# HNKHIX_82443 Length: 42
+# HNKHIX_82443 Number of predicted TMRs: 0
+HNKHIX_82443	inside	1	42				
+//
+# HNKHIX_77130 Length: 38
+# HNKHIX_77130 Number of predicted TMRs: 0
+HNKHIX_77130	inside	1	38				
+//
+# HNKHIX_3439 Length: 38
+# HNKHIX_3439 Number of predicted TMRs: 0
+HNKHIX_3439	inside	1	38				
+//
+# HNKHIX_58505 Length: 42
+# HNKHIX_58505 Number of predicted TMRs: 0
+HNKHIX_58505	signal	1	39				
+HNKHIX_58505	outside	40	42				
+//
+# HNKHIX_46551 Length: 49
+# HNKHIX_46551 Number of predicted TMRs: 0
+HNKHIX_46551	inside	1	49				
+//
+# HNKHIX_100929 Length: 48
+# HNKHIX_100929 Number of predicted TMRs: 0
+HNKHIX_100929	inside	1	48				
+//
+# HNKHIX_145376 Length: 50
+# HNKHIX_145376 Number of predicted TMRs: 0
+HNKHIX_145376	signal	1	49				
+HNKHIX_145376	outside	50	50				
+//
+# HNKHIX_79518 Length: 48
+# HNKHIX_79518 Number of predicted TMRs: 0
+HNKHIX_79518	inside	1	48				
+//
+# HNKHIX_48950 Length: 41
+# HNKHIX_48950 Number of predicted TMRs: 0
+HNKHIX_48950	inside	1	41				
+//
+# HNKHIX_168615 Length: 41
+# HNKHIX_168615 Number of predicted TMRs: 0
+HNKHIX_168615	signal	1	26				
+HNKHIX_168615	outside	27	41				
+//
+# HNKHIX_163600 Length: 40
+# HNKHIX_163600 Number of predicted TMRs: 0
+HNKHIX_163600	signal	1	23				
+HNKHIX_163600	outside	24	40				
+//
+# HNKHIX_112268 Length: 43
+# HNKHIX_112268 Number of predicted TMRs: 0
+HNKHIX_112268	signal	1	15				
+HNKHIX_112268	outside	16	43				
+//
+# HNKHIX_60401 Length: 45
+# HNKHIX_60401 Number of predicted TMRs: 0
+HNKHIX_60401	inside	1	45				
+//
+# HNKHIX_4295 Length: 49
+# HNKHIX_4295 Number of predicted TMRs: 0
+HNKHIX_4295	signal	1	31				
+HNKHIX_4295	outside	32	49				
+//
+# HNKHIX_104481 Length: 44
+# HNKHIX_104481 Number of predicted TMRs: 0
+HNKHIX_104481	signal	1	43				
+HNKHIX_104481	outside	44	44				

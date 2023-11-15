@@ -1,0 +1,3376 @@
+##gff-version 3
+# KBZYIH_13088 Length: 41
+# KBZYIH_13088 Number of predicted TMRs: 0
+KBZYIH_13088	inside	1	41				
+//
+# KBZYIH_141501 Length: 41
+# KBZYIH_141501 Number of predicted TMRs: 0
+KBZYIH_141501	signal	1	19				
+KBZYIH_141501	outside	20	41				
+//
+# KBZYIH_60068 Length: 49
+# KBZYIH_60068 Number of predicted TMRs: 0
+KBZYIH_60068	inside	1	49				
+//
+# KBZYIH_97167 Length: 37
+# KBZYIH_97167 Number of predicted TMRs: 0
+KBZYIH_97167	signal	1	36				
+KBZYIH_97167	outside	37	37				
+//
+# KBZYIH_172754 Length: 50
+# KBZYIH_172754 Number of predicted TMRs: 0
+KBZYIH_172754	signal	1	39				
+KBZYIH_172754	outside	40	50				
+//
+# KBZYIH_21319 Length: 49
+# KBZYIH_21319 Number of predicted TMRs: 0
+KBZYIH_21319	inside	1	49				
+//
+# KBZYIH_86867 Length: 38
+# KBZYIH_86867 Number of predicted TMRs: 0
+KBZYIH_86867	signal	1	32				
+KBZYIH_86867	outside	33	38				
+//
+# KBZYIH_11819 Length: 50
+# KBZYIH_11819 Number of predicted TMRs: 0
+KBZYIH_11819	inside	1	50				
+//
+# KBZYIH_45689 Length: 48
+# KBZYIH_45689 Number of predicted TMRs: 0
+KBZYIH_45689	signal	1	38				
+KBZYIH_45689	outside	39	48				
+//
+# KBZYIH_36280 Length: 38
+# KBZYIH_36280 Number of predicted TMRs: 0
+KBZYIH_36280	inside	1	38				
+//
+# KBZYIH_47712 Length: 43
+# KBZYIH_47712 Number of predicted TMRs: 0
+KBZYIH_47712	inside	1	43				
+//
+# KBZYIH_79572 Length: 46
+# KBZYIH_79572 Number of predicted TMRs: 0
+KBZYIH_79572	inside	1	46				
+//
+# KBZYIH_132444 Length: 49
+# KBZYIH_132444 Number of predicted TMRs: 0
+KBZYIH_132444	inside	1	49				
+//
+# KBZYIH_53151 Length: 39
+# KBZYIH_53151 Number of predicted TMRs: 0
+KBZYIH_53151	inside	1	39				
+//
+# KBZYIH_61799 Length: 44
+# KBZYIH_61799 Number of predicted TMRs: 0
+KBZYIH_61799	signal	1	43				
+KBZYIH_61799	outside	44	44				
+//
+# KBZYIH_168948 Length: 43
+# KBZYIH_168948 Number of predicted TMRs: 0
+KBZYIH_168948	inside	1	43				
+//
+# KBZYIH_128444 Length: 48
+# KBZYIH_128444 Number of predicted TMRs: 0
+KBZYIH_128444	signal	1	28				
+KBZYIH_128444	outside	29	48				
+//
+# KBZYIH_136063 Length: 41
+# KBZYIH_136063 Number of predicted TMRs: 0
+KBZYIH_136063	signal	1	40				
+KBZYIH_136063	outside	41	41				
+//
+# KBZYIH_141704 Length: 50
+# KBZYIH_141704 Number of predicted TMRs: 0
+KBZYIH_141704	inside	1	50				
+//
+# KBZYIH_16134 Length: 44
+# KBZYIH_16134 Number of predicted TMRs: 0
+KBZYIH_16134	inside	1	44				
+//
+# KBZYIH_130644 Length: 50
+# KBZYIH_130644 Number of predicted TMRs: 0
+KBZYIH_130644	outside	1	50				
+//
+# KBZYIH_24374 Length: 47
+# KBZYIH_24374 Number of predicted TMRs: 0
+KBZYIH_24374	signal	1	46				
+KBZYIH_24374	outside	47	47				
+//
+# KBZYIH_17604 Length: 43
+# KBZYIH_17604 Number of predicted TMRs: 0
+KBZYIH_17604	signal	1	23				
+KBZYIH_17604	outside	24	43				
+//
+# KBZYIH_23417 Length: 49
+# KBZYIH_23417 Number of predicted TMRs: 0
+KBZYIH_23417	inside	1	49				
+//
+# KBZYIH_151504 Length: 50
+# KBZYIH_151504 Number of predicted TMRs: 0
+KBZYIH_151504	outside	1	50				
+//
+# KBZYIH_14316 Length: 43
+# KBZYIH_14316 Number of predicted TMRs: 0
+KBZYIH_14316	signal	1	40				
+KBZYIH_14316	outside	41	43				
+//
+# KBZYIH_81261 Length: 50
+# KBZYIH_81261 Number of predicted TMRs: 0
+KBZYIH_81261	inside	1	50				
+//
+# KBZYIH_76758 Length: 38
+# KBZYIH_76758 Number of predicted TMRs: 0
+KBZYIH_76758	inside	1	38				
+//
+# KBZYIH_3601 Length: 38
+# KBZYIH_3601 Number of predicted TMRs: 0
+KBZYIH_3601	inside	1	38				
+//
+# KBZYIH_46305 Length: 49
+# KBZYIH_46305 Number of predicted TMRs: 0
+KBZYIH_46305	inside	1	49				
+//
+# KBZYIH_100284 Length: 48
+# KBZYIH_100284 Number of predicted TMRs: 0
+KBZYIH_100284	inside	1	48				
+//
+# KBZYIH_144712 Length: 50
+# KBZYIH_144712 Number of predicted TMRs: 0
+KBZYIH_144712	signal	1	49				
+KBZYIH_144712	outside	50	50				
+//
+# KBZYIH_79115 Length: 48
+# KBZYIH_79115 Number of predicted TMRs: 0
+KBZYIH_79115	inside	1	48				
+//
+# KBZYIH_106118 Length: 46
+# KBZYIH_106118 Number of predicted TMRs: 0
+KBZYIH_106118	inside	1	46				
+//
+# KBZYIH_103140 Length: 46
+# KBZYIH_103140 Number of predicted TMRs: 0
+KBZYIH_103140	signal	1	41				
+KBZYIH_103140	outside	42	46				
+//
+# KBZYIH_36460 Length: 46
+# KBZYIH_36460 Number of predicted TMRs: 0
+KBZYIH_36460	inside	1	46				
+//
+# KBZYIH_7079 Length: 40
+# KBZYIH_7079 Number of predicted TMRs: 1
+KBZYIH_7079	inside	1	18				
+KBZYIH_7079	TMhelix	19	34				
+KBZYIH_7079	outside	35	40				
+//
+# KBZYIH_162260 Length: 41
+# KBZYIH_162260 Number of predicted TMRs: 0
+KBZYIH_162260	signal	1	26				
+KBZYIH_162260	outside	27	41				
+//
+# KBZYIH_111437 Length: 43
+# KBZYIH_111437 Number of predicted TMRs: 0
+KBZYIH_111437	signal	1	15				
+KBZYIH_111437	outside	16	43				
+//
+# KBZYIH_60250 Length: 45
+# KBZYIH_60250 Number of predicted TMRs: 0
+KBZYIH_60250	inside	1	45				
+//
+# KBZYIH_4290 Length: 49
+# KBZYIH_4290 Number of predicted TMRs: 0
+KBZYIH_4290	signal	1	31				
+KBZYIH_4290	outside	32	49				
+//
+# KBZYIH_103937 Length: 44
+# KBZYIH_103937 Number of predicted TMRs: 0
+KBZYIH_103937	signal	1	43				
+KBZYIH_103937	outside	44	44				
+//
+# KBZYIH_157197 Length: 38
+# KBZYIH_157197 Number of predicted TMRs: 0
+KBZYIH_157197	signal	1	37				
+KBZYIH_157197	outside	38	38				
+//
+# KBZYIH_162934 Length: 39
+# KBZYIH_162934 Number of predicted TMRs: 0
+KBZYIH_162934	inside	1	39				
+//
+# KBZYIH_12067 Length: 42
+# KBZYIH_12067 Number of predicted TMRs: 0
+KBZYIH_12067	inside	1	42				
+//
+# KBZYIH_36646 Length: 44
+# KBZYIH_36646 Number of predicted TMRs: 0
+KBZYIH_36646	inside	1	44				
+//
+# KBZYIH_14910 Length: 44
+# KBZYIH_14910 Number of predicted TMRs: 0
+KBZYIH_14910	outside	1	44				
+//
+# KBZYIH_120178 Length: 44
+# KBZYIH_120178 Number of predicted TMRs: 0
+KBZYIH_120178	inside	1	44				
+//
+# KBZYIH_150092 Length: 50
+# KBZYIH_150092 Number of predicted TMRs: 0
+KBZYIH_150092	signal	1	49				
+KBZYIH_150092	outside	50	50				
+//
+# KBZYIH_41739 Length: 47
+# KBZYIH_41739 Number of predicted TMRs: 0
+KBZYIH_41739	inside	1	47				
+//
+# KBZYIH_95258 Length: 44
+# KBZYIH_95258 Number of predicted TMRs: 0
+KBZYIH_95258	outside	1	44				
+//
+# KBZYIH_165906 Length: 44
+# KBZYIH_165906 Number of predicted TMRs: 0
+KBZYIH_165906	outside	1	44				
+//
+# KBZYIH_9257 Length: 44
+# KBZYIH_9257 Number of predicted TMRs: 0
+KBZYIH_9257	outside	1	44				
+//
+# KBZYIH_53457 Length: 44
+# KBZYIH_53457 Number of predicted TMRs: 0
+KBZYIH_53457	outside	1	44				
+//
+# KBZYIH_53465 Length: 44
+# KBZYIH_53465 Number of predicted TMRs: 0
+KBZYIH_53465	inside	1	44				
+//
+# KBZYIH_33017 Length: 50
+# KBZYIH_33017 Number of predicted TMRs: 0
+KBZYIH_33017	inside	1	50				
+//
+# KBZYIH_165060 Length: 50
+# KBZYIH_165060 Number of predicted TMRs: 0
+KBZYIH_165060	outside	1	50				
+//
+# KBZYIH_44293 Length: 50
+# KBZYIH_44293 Number of predicted TMRs: 0
+KBZYIH_44293	inside	1	50				
+//
+# KBZYIH_53692 Length: 50
+# KBZYIH_53692 Number of predicted TMRs: 0
+KBZYIH_53692	inside	1	50				
+//
+# KBZYIH_28338 Length: 50
+# KBZYIH_28338 Number of predicted TMRs: 0
+KBZYIH_28338	inside	1	50				
+//
+# KBZYIH_118401 Length: 50
+# KBZYIH_118401 Number of predicted TMRs: 0
+KBZYIH_118401	outside	1	50				
+//
+# KBZYIH_30565 Length: 50
+# KBZYIH_30565 Number of predicted TMRs: 0
+KBZYIH_30565	inside	1	50				
+//
+# KBZYIH_5996 Length: 50
+# KBZYIH_5996 Number of predicted TMRs: 0
+KBZYIH_5996	outside	1	50				
+//
+# KBZYIH_32655 Length: 50
+# KBZYIH_32655 Number of predicted TMRs: 0
+KBZYIH_32655	outside	1	50				
+//
+# KBZYIH_93993 Length: 46
+# KBZYIH_93993 Number of predicted TMRs: 0
+KBZYIH_93993	inside	1	46				
+//
+# KBZYIH_121472 Length: 50
+# KBZYIH_121472 Number of predicted TMRs: 0
+KBZYIH_121472	inside	1	50				
+//
+# KBZYIH_9165 Length: 46
+# KBZYIH_9165 Number of predicted TMRs: 0
+KBZYIH_9165	inside	1	46				
+//
+# KBZYIH_13943 Length: 50
+# KBZYIH_13943 Number of predicted TMRs: 0
+KBZYIH_13943	outside	1	50				
+//
+# KBZYIH_22567 Length: 34
+# KBZYIH_22567 Number of predicted TMRs: 0
+KBZYIH_22567	signal	1	20				
+KBZYIH_22567	outside	21	34				
+//
+# KBZYIH_115351 Length: 44
+# KBZYIH_115351 Number of predicted TMRs: 0
+KBZYIH_115351	inside	1	44				
+//
+# KBZYIH_135513 Length: 38
+# KBZYIH_135513 Number of predicted TMRs: 0
+KBZYIH_135513	inside	1	38				
+//
+# KBZYIH_39876 Length: 50
+# KBZYIH_39876 Number of predicted TMRs: 0
+KBZYIH_39876	inside	1	50				
+//
+# KBZYIH_170887 Length: 43
+# KBZYIH_170887 Number of predicted TMRs: 0
+KBZYIH_170887	inside	1	43				
+//
+# KBZYIH_15933 Length: 47
+# KBZYIH_15933 Number of predicted TMRs: 1
+KBZYIH_15933	inside	1	6				
+KBZYIH_15933	TMhelix	7	27				
+KBZYIH_15933	outside	28	47				
+//
+# KBZYIH_87076 Length: 50
+# KBZYIH_87076 Number of predicted TMRs: 0
+KBZYIH_87076	inside	1	50				
+//
+# KBZYIH_98947 Length: 46
+# KBZYIH_98947 Number of predicted TMRs: 0
+KBZYIH_98947	inside	1	46				
+//
+# KBZYIH_106321 Length: 49
+# KBZYIH_106321 Number of predicted TMRs: 0
+KBZYIH_106321	inside	1	49				
+//
+# KBZYIH_146889 Length: 47
+# KBZYIH_146889 Number of predicted TMRs: 0
+KBZYIH_146889	inside	1	47				
+//
+# KBZYIH_91996 Length: 40
+# KBZYIH_91996 Number of predicted TMRs: 0
+KBZYIH_91996	signal	1	25				
+KBZYIH_91996	outside	26	40				
+//
+# KBZYIH_149415 Length: 47
+# KBZYIH_149415 Number of predicted TMRs: 0
+KBZYIH_149415	inside	1	47				
+//
+# KBZYIH_128169 Length: 41
+# KBZYIH_128169 Number of predicted TMRs: 0
+KBZYIH_128169	signal	1	22				
+KBZYIH_128169	outside	23	41				
+//
+# KBZYIH_1979 Length: 47
+# KBZYIH_1979 Number of predicted TMRs: 0
+KBZYIH_1979	inside	1	47				
+//
+# KBZYIH_127272 Length: 48
+# KBZYIH_127272 Number of predicted TMRs: 0
+KBZYIH_127272	inside	1	48				
+//
+# KBZYIH_131206 Length: 48
+# KBZYIH_131206 Number of predicted TMRs: 0
+KBZYIH_131206	inside	1	48				
+//
+# KBZYIH_91341 Length: 47
+# KBZYIH_91341 Number of predicted TMRs: 0
+KBZYIH_91341	signal	1	45				
+KBZYIH_91341	outside	46	47				
+//
+# KBZYIH_110708 Length: 36
+# KBZYIH_110708 Number of predicted TMRs: 0
+KBZYIH_110708	signal	1	28				
+KBZYIH_110708	outside	29	36				
+//
+# KBZYIH_125626 Length: 49
+# KBZYIH_125626 Number of predicted TMRs: 0
+KBZYIH_125626	inside	1	49				
+//
+# KBZYIH_26118 Length: 47
+# KBZYIH_26118 Number of predicted TMRs: 0
+KBZYIH_26118	inside	1	47				
+//
+# KBZYIH_73209 Length: 42
+# KBZYIH_73209 Number of predicted TMRs: 0
+KBZYIH_73209	signal	1	38				
+KBZYIH_73209	outside	39	42				
+//
+# KBZYIH_48641 Length: 45
+# KBZYIH_48641 Number of predicted TMRs: 0
+KBZYIH_48641	signal	1	44				
+KBZYIH_48641	outside	45	45				
+//
+# KBZYIH_138625 Length: 43
+# KBZYIH_138625 Number of predicted TMRs: 0
+KBZYIH_138625	inside	1	43				
+//
+# KBZYIH_99630 Length: 48
+# KBZYIH_99630 Number of predicted TMRs: 0
+KBZYIH_99630	inside	1	48				
+//
+# KBZYIH_99610 Length: 37
+# KBZYIH_99610 Number of predicted TMRs: 0
+KBZYIH_99610	inside	1	37				
+//
+# KBZYIH_69416 Length: 49
+# KBZYIH_69416 Number of predicted TMRs: 0
+KBZYIH_69416	inside	1	49				
+//
+# KBZYIH_118205 Length: 48
+# KBZYIH_118205 Number of predicted TMRs: 0
+KBZYIH_118205	inside	1	48				
+//
+# KBZYIH_75056 Length: 50
+# KBZYIH_75056 Number of predicted TMRs: 0
+KBZYIH_75056	inside	1	50				
+//
+# KBZYIH_78423 Length: 49
+# KBZYIH_78423 Number of predicted TMRs: 0
+KBZYIH_78423	inside	1	49				
+//
+# KBZYIH_51626 Length: 47
+# KBZYIH_51626 Number of predicted TMRs: 0
+KBZYIH_51626	inside	1	47				
+//
+# KBZYIH_41513 Length: 47
+# KBZYIH_41513 Number of predicted TMRs: 0
+KBZYIH_41513	inside	1	47				
+//
+# KBZYIH_112478 Length: 42
+# KBZYIH_112478 Number of predicted TMRs: 0
+KBZYIH_112478	inside	1	42				
+//
+# KBZYIH_52572 Length: 47
+# KBZYIH_52572 Number of predicted TMRs: 0
+KBZYIH_52572	inside	1	47				
+//
+# KBZYIH_52624 Length: 50
+# KBZYIH_52624 Number of predicted TMRs: 0
+KBZYIH_52624	inside	1	50				
+//
+# KBZYIH_110912 Length: 49
+# KBZYIH_110912 Number of predicted TMRs: 0
+KBZYIH_110912	inside	1	49				
+//
+# KBZYIH_20915 Length: 43
+# KBZYIH_20915 Number of predicted TMRs: 0
+KBZYIH_20915	inside	1	43				
+//
+# KBZYIH_121016 Length: 47
+# KBZYIH_121016 Number of predicted TMRs: 0
+KBZYIH_121016	inside	1	47				
+//
+# KBZYIH_50243 Length: 45
+# KBZYIH_50243 Number of predicted TMRs: 0
+KBZYIH_50243	inside	1	45				
+//
+# KBZYIH_35421 Length: 50
+# KBZYIH_35421 Number of predicted TMRs: 0
+KBZYIH_35421	inside	1	50				
+//
+# KBZYIH_17127 Length: 48
+# KBZYIH_17127 Number of predicted TMRs: 0
+KBZYIH_17127	inside	1	48				
+//
+# KBZYIH_130860 Length: 50
+# KBZYIH_130860 Number of predicted TMRs: 0
+KBZYIH_130860	inside	1	50				
+//
+# KBZYIH_7220 Length: 49
+# KBZYIH_7220 Number of predicted TMRs: 0
+KBZYIH_7220	inside	1	49				
+//
+# KBZYIH_45042 Length: 47
+# KBZYIH_45042 Number of predicted TMRs: 0
+KBZYIH_45042	inside	1	47				
+//
+# KBZYIH_140955 Length: 36
+# KBZYIH_140955 Number of predicted TMRs: 0
+KBZYIH_140955	inside	1	36				
+//
+# KBZYIH_168672 Length: 48
+# KBZYIH_168672 Number of predicted TMRs: 0
+KBZYIH_168672	inside	1	48				
+//
+# KBZYIH_90697 Length: 33
+# KBZYIH_90697 Number of predicted TMRs: 0
+KBZYIH_90697	signal	1	25				
+KBZYIH_90697	outside	26	33				
+//
+# KBZYIH_79045 Length: 50
+# KBZYIH_79045 Number of predicted TMRs: 0
+KBZYIH_79045	inside	1	50				
+//
+# KBZYIH_108263 Length: 42
+# KBZYIH_108263 Number of predicted TMRs: 0
+KBZYIH_108263	inside	1	42				
+//
+# KBZYIH_127796 Length: 37
+# KBZYIH_127796 Number of predicted TMRs: 0
+KBZYIH_127796	signal	1	28				
+KBZYIH_127796	outside	29	37				
+//
+# KBZYIH_33883 Length: 42
+# KBZYIH_33883 Number of predicted TMRs: 0
+KBZYIH_33883	signal	1	25				
+KBZYIH_33883	outside	26	42				
+//
+# KBZYIH_8176 Length: 50
+# KBZYIH_8176 Number of predicted TMRs: 0
+KBZYIH_8176	signal	1	28				
+KBZYIH_8176	outside	29	50				
+//
+# KBZYIH_39296 Length: 50
+# KBZYIH_39296 Number of predicted TMRs: 0
+KBZYIH_39296	signal	1	29				
+KBZYIH_39296	outside	30	50				
+//
+# KBZYIH_5271 Length: 50
+# KBZYIH_5271 Number of predicted TMRs: 0
+KBZYIH_5271	inside	1	50				
+//
+# KBZYIH_68851 Length: 42
+# KBZYIH_68851 Number of predicted TMRs: 0
+KBZYIH_68851	inside	1	42				
+//
+# KBZYIH_158367 Length: 49
+# KBZYIH_158367 Number of predicted TMRs: 0
+KBZYIH_158367	inside	1	49				
+//
+# KBZYIH_35902 Length: 38
+# KBZYIH_35902 Number of predicted TMRs: 0
+KBZYIH_35902	inside	1	38				
+//
+# KBZYIH_142369 Length: 46
+# KBZYIH_142369 Number of predicted TMRs: 0
+KBZYIH_142369	inside	1	46				
+//
+# KBZYIH_138555 Length: 50
+# KBZYIH_138555 Number of predicted TMRs: 0
+KBZYIH_138555	signal	1	22				
+KBZYIH_138555	outside	23	50				
+//
+# KBZYIH_138734 Length: 50
+# KBZYIH_138734 Number of predicted TMRs: 0
+KBZYIH_138734	signal	1	47				
+KBZYIH_138734	outside	48	50				
+//
+# KBZYIH_46158 Length: 41
+# KBZYIH_46158 Number of predicted TMRs: 0
+KBZYIH_46158	inside	1	41				
+//
+# KBZYIH_39958 Length: 49
+# KBZYIH_39958 Number of predicted TMRs: 0
+KBZYIH_39958	inside	1	49				
+//
+# KBZYIH_27560 Length: 47
+# KBZYIH_27560 Number of predicted TMRs: 0
+KBZYIH_27560	inside	1	47				
+//
+# KBZYIH_126654 Length: 46
+# KBZYIH_126654 Number of predicted TMRs: 0
+KBZYIH_126654	inside	1	46				
+//
+# KBZYIH_133455 Length: 50
+# KBZYIH_133455 Number of predicted TMRs: 0
+KBZYIH_133455	inside	1	50				
+//
+# KBZYIH_108721 Length: 47
+# KBZYIH_108721 Number of predicted TMRs: 0
+KBZYIH_108721	inside	1	47				
+//
+# KBZYIH_60287 Length: 50
+# KBZYIH_60287 Number of predicted TMRs: 0
+KBZYIH_60287	signal	1	47				
+KBZYIH_60287	outside	48	50				
+//
+# KBZYIH_40629 Length: 48
+# KBZYIH_40629 Number of predicted TMRs: 0
+KBZYIH_40629	inside	1	48				
+//
+# KBZYIH_55 Length: 34
+# KBZYIH_55 Number of predicted TMRs: 0
+KBZYIH_55	outside	1	34				
+//
+# KBZYIH_91238 Length: 49
+# KBZYIH_91238 Number of predicted TMRs: 0
+KBZYIH_91238	signal	1	26				
+KBZYIH_91238	outside	27	49				
+//
+# KBZYIH_110375 Length: 50
+# KBZYIH_110375 Number of predicted TMRs: 0
+KBZYIH_110375	inside	1	50				
+//
+# KBZYIH_70993 Length: 47
+# KBZYIH_70993 Number of predicted TMRs: 0
+KBZYIH_70993	inside	1	47				
+//
+# KBZYIH_103523 Length: 41
+# KBZYIH_103523 Number of predicted TMRs: 0
+KBZYIH_103523	inside	1	41				
+//
+# KBZYIH_82062 Length: 47
+# KBZYIH_82062 Number of predicted TMRs: 0
+KBZYIH_82062	outside	1	47				
+//
+# KBZYIH_48359 Length: 46
+# KBZYIH_48359 Number of predicted TMRs: 0
+KBZYIH_48359	signal	1	11				
+KBZYIH_48359	outside	12	46				
+//
+# KBZYIH_133010 Length: 45
+# KBZYIH_133010 Number of predicted TMRs: 0
+KBZYIH_133010	inside	1	45				
+//
+# KBZYIH_61261 Length: 49
+# KBZYIH_61261 Number of predicted TMRs: 0
+KBZYIH_61261	inside	1	49				
+//
+# KBZYIH_86593 Length: 38
+# KBZYIH_86593 Number of predicted TMRs: 0
+KBZYIH_86593	signal	1	37				
+KBZYIH_86593	outside	38	38				
+//
+# KBZYIH_87340 Length: 50
+# KBZYIH_87340 Number of predicted TMRs: 0
+KBZYIH_87340	signal	1	38				
+KBZYIH_87340	outside	39	50				
+//
+# KBZYIH_66876 Length: 44
+# KBZYIH_66876 Number of predicted TMRs: 0
+KBZYIH_66876	signal	1	21				
+KBZYIH_66876	outside	22	44				
+//
+# KBZYIH_128942 Length: 49
+# KBZYIH_128942 Number of predicted TMRs: 0
+KBZYIH_128942	inside	1	49				
+//
+# KBZYIH_169257 Length: 41
+# KBZYIH_169257 Number of predicted TMRs: 0
+KBZYIH_169257	inside	1	41				
+//
+# KBZYIH_115529 Length: 38
+# KBZYIH_115529 Number of predicted TMRs: 0
+KBZYIH_115529	signal	1	37				
+KBZYIH_115529	outside	38	38				
+//
+# KBZYIH_14472 Length: 48
+# KBZYIH_14472 Number of predicted TMRs: 0
+KBZYIH_14472	inside	1	48				
+//
+# KBZYIH_97093 Length: 47
+# KBZYIH_97093 Number of predicted TMRs: 0
+KBZYIH_97093	inside	1	47				
+//
+# KBZYIH_162311 Length: 50
+# KBZYIH_162311 Number of predicted TMRs: 0
+KBZYIH_162311	signal	1	49				
+KBZYIH_162311	outside	50	50				
+//
+# KBZYIH_101005 Length: 47
+# KBZYIH_101005 Number of predicted TMRs: 0
+KBZYIH_101005	signal	1	14				
+KBZYIH_101005	outside	15	47				
+//
+# KBZYIH_57018 Length: 46
+# KBZYIH_57018 Number of predicted TMRs: 0
+KBZYIH_57018	inside	1	46				
+//
+# KBZYIH_156207 Length: 46
+# KBZYIH_156207 Number of predicted TMRs: 0
+KBZYIH_156207	inside	1	46				
+//
+# KBZYIH_56599 Length: 46
+# KBZYIH_56599 Number of predicted TMRs: 0
+KBZYIH_56599	inside	1	46				
+//
+# KBZYIH_8674 Length: 50
+# KBZYIH_8674 Number of predicted TMRs: 0
+KBZYIH_8674	inside	1	50				
+//
+# KBZYIH_47292 Length: 45
+# KBZYIH_47292 Number of predicted TMRs: 0
+KBZYIH_47292	signal	1	38				
+KBZYIH_47292	outside	39	45				
+//
+# KBZYIH_34070 Length: 45
+# KBZYIH_34070 Number of predicted TMRs: 0
+KBZYIH_34070	inside	1	45				
+//
+# KBZYIH_100425 Length: 44
+# KBZYIH_100425 Number of predicted TMRs: 0
+KBZYIH_100425	inside	1	44				
+//
+# KBZYIH_13213 Length: 47
+# KBZYIH_13213 Number of predicted TMRs: 0
+KBZYIH_13213	inside	1	47				
+//
+# KBZYIH_78573 Length: 39
+# KBZYIH_78573 Number of predicted TMRs: 0
+KBZYIH_78573	inside	1	39				
+//
+# KBZYIH_91432 Length: 48
+# KBZYIH_91432 Number of predicted TMRs: 0
+KBZYIH_91432	inside	1	48				
+//
+# KBZYIH_99628 Length: 40
+# KBZYIH_99628 Number of predicted TMRs: 0
+KBZYIH_99628	signal	1	28				
+KBZYIH_99628	outside	29	40				
+//
+# KBZYIH_16083 Length: 43
+# KBZYIH_16083 Number of predicted TMRs: 0
+KBZYIH_16083	inside	1	43				
+//
+# KBZYIH_115660 Length: 42
+# KBZYIH_115660 Number of predicted TMRs: 0
+KBZYIH_115660	signal	1	12				
+KBZYIH_115660	outside	13	42				
+//
+# KBZYIH_27146 Length: 50
+# KBZYIH_27146 Number of predicted TMRs: 0
+KBZYIH_27146	outside	1	50				
+//
+# KBZYIH_20616 Length: 48
+# KBZYIH_20616 Number of predicted TMRs: 0
+KBZYIH_20616	inside	1	48				
+//
+# KBZYIH_74400 Length: 47
+# KBZYIH_74400 Number of predicted TMRs: 0
+KBZYIH_74400	signal	1	12				
+KBZYIH_74400	outside	13	47				
+//
+# KBZYIH_170878 Length: 44
+# KBZYIH_170878 Number of predicted TMRs: 0
+KBZYIH_170878	inside	1	44				
+//
+# KBZYIH_61552 Length: 50
+# KBZYIH_61552 Number of predicted TMRs: 0
+KBZYIH_61552	signal	1	49				
+KBZYIH_61552	outside	50	50				
+//
+# KBZYIH_122610 Length: 47
+# KBZYIH_122610 Number of predicted TMRs: 0
+KBZYIH_122610	inside	1	47				
+//
+# KBZYIH_30104 Length: 30
+# KBZYIH_30104 Number of predicted TMRs: 0
+KBZYIH_30104	signal	1	14				
+KBZYIH_30104	outside	15	30				
+//
+# KBZYIH_59730 Length: 40
+# KBZYIH_59730 Number of predicted TMRs: 0
+KBZYIH_59730	signal	1	22				
+KBZYIH_59730	outside	23	40				
+//
+# KBZYIH_54854 Length: 40
+# KBZYIH_54854 Number of predicted TMRs: 0
+KBZYIH_54854	signal	1	11				
+KBZYIH_54854	outside	12	40				
+//
+# KBZYIH_149284 Length: 36
+# KBZYIH_149284 Number of predicted TMRs: 0
+KBZYIH_149284	signal	1	32				
+KBZYIH_149284	outside	33	36				
+//
+# KBZYIH_50126 Length: 45
+# KBZYIH_50126 Number of predicted TMRs: 0
+KBZYIH_50126	inside	1	45				
+//
+# KBZYIH_19364 Length: 41
+# KBZYIH_19364 Number of predicted TMRs: 0
+KBZYIH_19364	inside	1	41				
+//
+# KBZYIH_3486 Length: 49
+# KBZYIH_3486 Number of predicted TMRs: 0
+KBZYIH_3486	inside	1	49				
+//
+# KBZYIH_16258 Length: 48
+# KBZYIH_16258 Number of predicted TMRs: 0
+KBZYIH_16258	inside	1	48				
+//
+# KBZYIH_139269 Length: 50
+# KBZYIH_139269 Number of predicted TMRs: 0
+KBZYIH_139269	inside	1	50				
+//
+# KBZYIH_29062 Length: 50
+# KBZYIH_29062 Number of predicted TMRs: 0
+KBZYIH_29062	inside	1	50				
+//
+# KBZYIH_144705 Length: 37
+# KBZYIH_144705 Number of predicted TMRs: 0
+KBZYIH_144705	inside	1	37				
+//
+# KBZYIH_130271 Length: 42
+# KBZYIH_130271 Number of predicted TMRs: 0
+KBZYIH_130271	inside	1	42				
+//
+# KBZYIH_32140 Length: 44
+# KBZYIH_32140 Number of predicted TMRs: 0
+KBZYIH_32140	inside	1	44				
+//
+# KBZYIH_57882 Length: 38
+# KBZYIH_57882 Number of predicted TMRs: 0
+KBZYIH_57882	inside	1	38				
+//
+# KBZYIH_151311 Length: 46
+# KBZYIH_151311 Number of predicted TMRs: 0
+KBZYIH_151311	inside	1	46				
+//
+# KBZYIH_15279 Length: 45
+# KBZYIH_15279 Number of predicted TMRs: 0
+KBZYIH_15279	signal	1	37				
+KBZYIH_15279	outside	38	45				
+//
+# KBZYIH_113438 Length: 50
+# KBZYIH_113438 Number of predicted TMRs: 0
+KBZYIH_113438	signal	1	49				
+KBZYIH_113438	outside	50	50				
+//
+# KBZYIH_132441 Length: 25
+# KBZYIH_132441 Number of predicted TMRs: 0
+KBZYIH_132441	inside	1	25				
+//
+# KBZYIH_47753 Length: 49
+# KBZYIH_47753 Number of predicted TMRs: 0
+KBZYIH_47753	inside	1	49				
+//
+# KBZYIH_89563 Length: 47
+# KBZYIH_89563 Number of predicted TMRs: 0
+KBZYIH_89563	signal	1	35				
+KBZYIH_89563	outside	36	47				
+//
+# KBZYIH_120120 Length: 37
+# KBZYIH_120120 Number of predicted TMRs: 0
+KBZYIH_120120	inside	1	37				
+//
+# KBZYIH_128491 Length: 49
+# KBZYIH_128491 Number of predicted TMRs: 0
+KBZYIH_128491	signal	1	32				
+KBZYIH_128491	outside	33	49				
+//
+# KBZYIH_9213 Length: 50
+# KBZYIH_9213 Number of predicted TMRs: 0
+KBZYIH_9213	signal	1	49				
+KBZYIH_9213	outside	50	50				
+//
+# KBZYIH_110208 Length: 43
+# KBZYIH_110208 Number of predicted TMRs: 0
+KBZYIH_110208	signal	1	42				
+KBZYIH_110208	outside	43	43				
+//
+# KBZYIH_6624 Length: 42
+# KBZYIH_6624 Number of predicted TMRs: 0
+KBZYIH_6624	inside	1	42				
+//
+# KBZYIH_122379 Length: 45
+# KBZYIH_122379 Number of predicted TMRs: 0
+KBZYIH_122379	inside	1	45				
+//
+# KBZYIH_83641 Length: 45
+# KBZYIH_83641 Number of predicted TMRs: 0
+KBZYIH_83641	inside	1	45				
+//
+# KBZYIH_2039 Length: 49
+# KBZYIH_2039 Number of predicted TMRs: 0
+KBZYIH_2039	inside	1	49				
+//
+# KBZYIH_113920 Length: 40
+# KBZYIH_113920 Number of predicted TMRs: 0
+KBZYIH_113920	signal	1	39				
+KBZYIH_113920	outside	40	40				
+//
+# KBZYIH_44496 Length: 48
+# KBZYIH_44496 Number of predicted TMRs: 0
+KBZYIH_44496	inside	1	48				
+//
+# KBZYIH_146807 Length: 31
+# KBZYIH_146807 Number of predicted TMRs: 0
+KBZYIH_146807	inside	1	31				
+//
+# KBZYIH_110965 Length: 42
+# KBZYIH_110965 Number of predicted TMRs: 0
+KBZYIH_110965	inside	1	42				
+//
+# KBZYIH_28009 Length: 40
+# KBZYIH_28009 Number of predicted TMRs: 0
+KBZYIH_28009	inside	1	40				
+//
+# KBZYIH_47047 Length: 44
+# KBZYIH_47047 Number of predicted TMRs: 0
+KBZYIH_47047	signal	1	40				
+KBZYIH_47047	outside	41	44				
+//
+# KBZYIH_105924 Length: 46
+# KBZYIH_105924 Number of predicted TMRs: 0
+KBZYIH_105924	inside	1	46				
+//
+# KBZYIH_128333 Length: 47
+# KBZYIH_128333 Number of predicted TMRs: 0
+KBZYIH_128333	inside	1	47				
+//
+# KBZYIH_71163 Length: 38
+# KBZYIH_71163 Number of predicted TMRs: 0
+KBZYIH_71163	signal	1	37				
+KBZYIH_71163	outside	38	38				
+//
+# KBZYIH_41822 Length: 41
+# KBZYIH_41822 Number of predicted TMRs: 0
+KBZYIH_41822	signal	1	12				
+KBZYIH_41822	outside	13	41				
+//
+# KBZYIH_111768 Length: 38
+# KBZYIH_111768 Number of predicted TMRs: 0
+KBZYIH_111768	signal	1	37				
+KBZYIH_111768	outside	38	38				
+//
+# KBZYIH_115238 Length: 45
+# KBZYIH_115238 Number of predicted TMRs: 0
+KBZYIH_115238	signal	1	38				
+KBZYIH_115238	outside	39	45				
+//
+# KBZYIH_72239 Length: 49
+# KBZYIH_72239 Number of predicted TMRs: 0
+KBZYIH_72239	inside	1	49				
+//
+# KBZYIH_79388 Length: 46
+# KBZYIH_79388 Number of predicted TMRs: 0
+KBZYIH_79388	inside	1	46				
+//
+# KBZYIH_84976 Length: 46
+# KBZYIH_84976 Number of predicted TMRs: 0
+KBZYIH_84976	inside	1	46				
+//
+# KBZYIH_114944 Length: 49
+# KBZYIH_114944 Number of predicted TMRs: 0
+KBZYIH_114944	signal	1	10				
+KBZYIH_114944	outside	11	49				
+//
+# KBZYIH_124348 Length: 45
+# KBZYIH_124348 Number of predicted TMRs: 0
+KBZYIH_124348	signal	1	35				
+KBZYIH_124348	outside	36	45				
+//
+# KBZYIH_107884 Length: 49
+# KBZYIH_107884 Number of predicted TMRs: 0
+KBZYIH_107884	inside	1	49				
+//
+# KBZYIH_74751 Length: 47
+# KBZYIH_74751 Number of predicted TMRs: 0
+KBZYIH_74751	inside	1	47				
+//
+# KBZYIH_95797 Length: 49
+# KBZYIH_95797 Number of predicted TMRs: 0
+KBZYIH_95797	inside	1	49				
+//
+# KBZYIH_107482 Length: 49
+# KBZYIH_107482 Number of predicted TMRs: 0
+KBZYIH_107482	signal	1	11				
+KBZYIH_107482	outside	12	49				
+//
+# KBZYIH_141199 Length: 49
+# KBZYIH_141199 Number of predicted TMRs: 0
+KBZYIH_141199	inside	1	49				
+//
+# KBZYIH_85765 Length: 23
+# KBZYIH_85765 Number of predicted TMRs: 0
+KBZYIH_85765	inside	1	23				
+//
+# KBZYIH_8620 Length: 39
+# KBZYIH_8620 Number of predicted TMRs: 0
+KBZYIH_8620	signal	1	38				
+KBZYIH_8620	outside	39	39				
+//
+# KBZYIH_43490 Length: 43
+# KBZYIH_43490 Number of predicted TMRs: 0
+KBZYIH_43490	signal	1	42				
+KBZYIH_43490	outside	43	43				
+//
+# KBZYIH_100245 Length: 48
+# KBZYIH_100245 Number of predicted TMRs: 0
+KBZYIH_100245	signal	1	10				
+KBZYIH_100245	outside	11	48				
+//
+# KBZYIH_121051 Length: 50
+# KBZYIH_121051 Number of predicted TMRs: 0
+KBZYIH_121051	signal	1	15				
+KBZYIH_121051	outside	16	50				
+//
+# KBZYIH_18098 Length: 42
+# KBZYIH_18098 Number of predicted TMRs: 0
+KBZYIH_18098	signal	1	41				
+KBZYIH_18098	outside	42	42				
+//
+# KBZYIH_113566 Length: 43
+# KBZYIH_113566 Number of predicted TMRs: 0
+KBZYIH_113566	inside	1	43				
+//
+# KBZYIH_130523 Length: 48
+# KBZYIH_130523 Number of predicted TMRs: 0
+KBZYIH_130523	inside	1	48				
+//
+# KBZYIH_64593 Length: 48
+# KBZYIH_64593 Number of predicted TMRs: 0
+KBZYIH_64593	inside	1	48				
+//
+# KBZYIH_47924 Length: 40
+# KBZYIH_47924 Number of predicted TMRs: 0
+KBZYIH_47924	signal	1	24				
+KBZYIH_47924	outside	25	40				
+//
+# KBZYIH_16205 Length: 42
+# KBZYIH_16205 Number of predicted TMRs: 0
+KBZYIH_16205	signal	1	29				
+KBZYIH_16205	outside	30	42				
+//
+# KBZYIH_4717 Length: 45
+# KBZYIH_4717 Number of predicted TMRs: 0
+KBZYIH_4717	inside	1	45				
+//
+# KBZYIH_64652 Length: 42
+# KBZYIH_64652 Number of predicted TMRs: 0
+KBZYIH_64652	inside	1	42				
+//
+# KBZYIH_7397 Length: 45
+# KBZYIH_7397 Number of predicted TMRs: 0
+KBZYIH_7397	inside	1	45				
+//
+# KBZYIH_40087 Length: 37
+# KBZYIH_40087 Number of predicted TMRs: 0
+KBZYIH_40087	signal	1	36				
+KBZYIH_40087	outside	37	37				
+//
+# KBZYIH_119685 Length: 41
+# KBZYIH_119685 Number of predicted TMRs: 0
+KBZYIH_119685	signal	1	21				
+KBZYIH_119685	outside	22	41				
+//
+# KBZYIH_107489 Length: 47
+# KBZYIH_107489 Number of predicted TMRs: 0
+KBZYIH_107489	inside	1	47				
+//
+# KBZYIH_106478 Length: 42
+# KBZYIH_106478 Number of predicted TMRs: 0
+KBZYIH_106478	inside	1	42				
+//
+# KBZYIH_91734 Length: 50
+# KBZYIH_91734 Number of predicted TMRs: 0
+KBZYIH_91734	inside	1	50				
+//
+# KBZYIH_28933 Length: 46
+# KBZYIH_28933 Number of predicted TMRs: 0
+KBZYIH_28933	signal	1	45				
+KBZYIH_28933	outside	46	46				
+//
+# KBZYIH_7753 Length: 49
+# KBZYIH_7753 Number of predicted TMRs: 0
+KBZYIH_7753	inside	1	49				
+//
+# KBZYIH_151365 Length: 49
+# KBZYIH_151365 Number of predicted TMRs: 0
+KBZYIH_151365	inside	1	49				
+//
+# KBZYIH_168359 Length: 35
+# KBZYIH_168359 Number of predicted TMRs: 0
+KBZYIH_168359	inside	1	35				
+//
+# KBZYIH_9577 Length: 50
+# KBZYIH_9577 Number of predicted TMRs: 0
+KBZYIH_9577	inside	1	50				
+//
+# KBZYIH_169055 Length: 33
+# KBZYIH_169055 Number of predicted TMRs: 0
+KBZYIH_169055	inside	1	33				
+//
+# KBZYIH_125061 Length: 45
+# KBZYIH_125061 Number of predicted TMRs: 0
+KBZYIH_125061	inside	1	45				
+//
+# KBZYIH_17436 Length: 50
+# KBZYIH_17436 Number of predicted TMRs: 0
+KBZYIH_17436	signal	1	47				
+KBZYIH_17436	outside	48	50				
+//
+# KBZYIH_131017 Length: 38
+# KBZYIH_131017 Number of predicted TMRs: 0
+KBZYIH_131017	inside	1	38				
+//
+# KBZYIH_20423 Length: 44
+# KBZYIH_20423 Number of predicted TMRs: 0
+KBZYIH_20423	inside	1	44				
+//
+# KBZYIH_102330 Length: 49
+# KBZYIH_102330 Number of predicted TMRs: 0
+KBZYIH_102330	signal	1	44				
+KBZYIH_102330	outside	45	49				
+//
+# KBZYIH_148920 Length: 40
+# KBZYIH_148920 Number of predicted TMRs: 0
+KBZYIH_148920	inside	1	40				
+//
+# KBZYIH_148877 Length: 40
+# KBZYIH_148877 Number of predicted TMRs: 0
+KBZYIH_148877	inside	1	40				
+//
+# KBZYIH_42642 Length: 42
+# KBZYIH_42642 Number of predicted TMRs: 0
+KBZYIH_42642	inside	1	42				
+//
+# KBZYIH_113257 Length: 45
+# KBZYIH_113257 Number of predicted TMRs: 0
+KBZYIH_113257	signal	1	15				
+KBZYIH_113257	outside	16	45				
+//
+# KBZYIH_137594 Length: 45
+# KBZYIH_137594 Number of predicted TMRs: 0
+KBZYIH_137594	inside	1	45				
+//
+# KBZYIH_33503 Length: 48
+# KBZYIH_33503 Number of predicted TMRs: 0
+KBZYIH_33503	inside	1	48				
+//
+# KBZYIH_9158 Length: 34
+# KBZYIH_9158 Number of predicted TMRs: 0
+KBZYIH_9158	signal	1	33				
+KBZYIH_9158	outside	34	34				
+//
+# KBZYIH_84589 Length: 44
+# KBZYIH_84589 Number of predicted TMRs: 0
+KBZYIH_84589	inside	1	44				
+//
+# KBZYIH_17660 Length: 50
+# KBZYIH_17660 Number of predicted TMRs: 0
+KBZYIH_17660	inside	1	50				
+//
+# KBZYIH_55499 Length: 36
+# KBZYIH_55499 Number of predicted TMRs: 0
+KBZYIH_55499	inside	1	36				
+//
+# KBZYIH_105664 Length: 39
+# KBZYIH_105664 Number of predicted TMRs: 0
+KBZYIH_105664	signal	1	28				
+KBZYIH_105664	outside	29	39				
+//
+# KBZYIH_148984 Length: 47
+# KBZYIH_148984 Number of predicted TMRs: 0
+KBZYIH_148984	inside	1	47				
+//
+# KBZYIH_163737 Length: 47
+# KBZYIH_163737 Number of predicted TMRs: 0
+KBZYIH_163737	signal	1	42				
+KBZYIH_163737	outside	43	47				
+//
+# KBZYIH_32052 Length: 50
+# KBZYIH_32052 Number of predicted TMRs: 0
+KBZYIH_32052	inside	1	50				
+//
+# KBZYIH_166066 Length: 46
+# KBZYIH_166066 Number of predicted TMRs: 0
+KBZYIH_166066	inside	1	46				
+//
+# KBZYIH_14725 Length: 35
+# KBZYIH_14725 Number of predicted TMRs: 0
+KBZYIH_14725	inside	1	35				
+//
+# KBZYIH_9316 Length: 46
+# KBZYIH_9316 Number of predicted TMRs: 0
+KBZYIH_9316	inside	1	46				
+//
+# KBZYIH_75542 Length: 50
+# KBZYIH_75542 Number of predicted TMRs: 0
+KBZYIH_75542	inside	1	50				
+//
+# KBZYIH_61554 Length: 46
+# KBZYIH_61554 Number of predicted TMRs: 0
+KBZYIH_61554	signal	1	43				
+KBZYIH_61554	outside	44	46				
+//
+# KBZYIH_81283 Length: 37
+# KBZYIH_81283 Number of predicted TMRs: 0
+KBZYIH_81283	inside	1	37				
+//
+# KBZYIH_65257 Length: 42
+# KBZYIH_65257 Number of predicted TMRs: 0
+KBZYIH_65257	inside	1	42				
+//
+# KBZYIH_42790 Length: 42
+# KBZYIH_42790 Number of predicted TMRs: 0
+KBZYIH_42790	inside	1	42				
+//
+# KBZYIH_65770 Length: 42
+# KBZYIH_65770 Number of predicted TMRs: 0
+KBZYIH_65770	outside	1	42				
+//
+# KBZYIH_171327 Length: 47
+# KBZYIH_171327 Number of predicted TMRs: 0
+KBZYIH_171327	inside	1	47				
+//
+# KBZYIH_324 Length: 50
+# KBZYIH_324 Number of predicted TMRs: 0
+KBZYIH_324	inside	1	50				
+//
+# KBZYIH_53760 Length: 50
+# KBZYIH_53760 Number of predicted TMRs: 0
+KBZYIH_53760	inside	1	50				
+//
+# KBZYIH_122479 Length: 38
+# KBZYIH_122479 Number of predicted TMRs: 0
+KBZYIH_122479	inside	1	38				
+//
+# KBZYIH_149172 Length: 48
+# KBZYIH_149172 Number of predicted TMRs: 0
+KBZYIH_149172	inside	1	48				
+//
+# KBZYIH_7087 Length: 50
+# KBZYIH_7087 Number of predicted TMRs: 0
+KBZYIH_7087	inside	1	50				
+//
+# KBZYIH_61036 Length: 43
+# KBZYIH_61036 Number of predicted TMRs: 0
+KBZYIH_61036	inside	1	43				
+//
+# KBZYIH_148732 Length: 49
+# KBZYIH_148732 Number of predicted TMRs: 0
+KBZYIH_148732	inside	1	49				
+//
+# KBZYIH_158821 Length: 44
+# KBZYIH_158821 Number of predicted TMRs: 0
+KBZYIH_158821	inside	1	44				
+//
+# KBZYIH_23661 Length: 47
+# KBZYIH_23661 Number of predicted TMRs: 0
+KBZYIH_23661	inside	1	47				
+//
+# KBZYIH_75226 Length: 49
+# KBZYIH_75226 Number of predicted TMRs: 0
+KBZYIH_75226	signal	1	15				
+KBZYIH_75226	outside	16	49				
+//
+# KBZYIH_39626 Length: 49
+# KBZYIH_39626 Number of predicted TMRs: 0
+KBZYIH_39626	inside	1	49				
+//
+# KBZYIH_17356 Length: 29
+# KBZYIH_17356 Number of predicted TMRs: 0
+KBZYIH_17356	inside	1	29				
+//
+# KBZYIH_12653 Length: 41
+# KBZYIH_12653 Number of predicted TMRs: 0
+KBZYIH_12653	inside	1	41				
+//
+# KBZYIH_88274 Length: 40
+# KBZYIH_88274 Number of predicted TMRs: 0
+KBZYIH_88274	signal	1	38				
+KBZYIH_88274	outside	39	40				
+//
+# KBZYIH_50122 Length: 39
+# KBZYIH_50122 Number of predicted TMRs: 0
+KBZYIH_50122	inside	1	39				
+//
+# KBZYIH_73271 Length: 43
+# KBZYIH_73271 Number of predicted TMRs: 0
+KBZYIH_73271	inside	1	43				
+//
+# KBZYIH_11435 Length: 49
+# KBZYIH_11435 Number of predicted TMRs: 0
+KBZYIH_11435	inside	1	49				
+//
+# KBZYIH_84570 Length: 39
+# KBZYIH_84570 Number of predicted TMRs: 0
+KBZYIH_84570	inside	1	39				
+//
+# KBZYIH_92835 Length: 42
+# KBZYIH_92835 Number of predicted TMRs: 0
+KBZYIH_92835	inside	1	42				
+//
+# KBZYIH_8690 Length: 46
+# KBZYIH_8690 Number of predicted TMRs: 0
+KBZYIH_8690	inside	1	46				
+//
+# KBZYIH_21504 Length: 42
+# KBZYIH_21504 Number of predicted TMRs: 0
+KBZYIH_21504	inside	1	42				
+//
+# KBZYIH_35430 Length: 49
+# KBZYIH_35430 Number of predicted TMRs: 0
+KBZYIH_35430	inside	1	49				
+//
+# KBZYIH_168903 Length: 44
+# KBZYIH_168903 Number of predicted TMRs: 0
+KBZYIH_168903	inside	1	44				
+//
+# KBZYIH_165810 Length: 49
+# KBZYIH_165810 Number of predicted TMRs: 0
+KBZYIH_165810	inside	1	49				
+//
+# KBZYIH_143080 Length: 49
+# KBZYIH_143080 Number of predicted TMRs: 0
+KBZYIH_143080	signal	1	21				
+KBZYIH_143080	outside	22	49				
+//
+# KBZYIH_75208 Length: 34
+# KBZYIH_75208 Number of predicted TMRs: 0
+KBZYIH_75208	signal	1	24				
+KBZYIH_75208	outside	25	34				
+//
+# KBZYIH_17443 Length: 47
+# KBZYIH_17443 Number of predicted TMRs: 0
+KBZYIH_17443	inside	1	47				
+//
+# KBZYIH_83127 Length: 50
+# KBZYIH_83127 Number of predicted TMRs: 0
+KBZYIH_83127	inside	1	50				
+//
+# KBZYIH_91478 Length: 47
+# KBZYIH_91478 Number of predicted TMRs: 0
+KBZYIH_91478	inside	1	47				
+//
+# KBZYIH_50575 Length: 40
+# KBZYIH_50575 Number of predicted TMRs: 0
+KBZYIH_50575	inside	1	40				
+//
+# KBZYIH_109327 Length: 46
+# KBZYIH_109327 Number of predicted TMRs: 0
+KBZYIH_109327	signal	1	40				
+KBZYIH_109327	outside	41	46				
+//
+# KBZYIH_101581 Length: 50
+# KBZYIH_101581 Number of predicted TMRs: 0
+KBZYIH_101581	inside	1	50				
+//
+# KBZYIH_113678 Length: 43
+# KBZYIH_113678 Number of predicted TMRs: 0
+KBZYIH_113678	signal	1	42				
+KBZYIH_113678	outside	43	43				
+//
+# KBZYIH_138791 Length: 50
+# KBZYIH_138791 Number of predicted TMRs: 0
+KBZYIH_138791	inside	1	50				
+//
+# KBZYIH_7669 Length: 49
+# KBZYIH_7669 Number of predicted TMRs: 0
+KBZYIH_7669	inside	1	49				
+//
+# KBZYIH_5839 Length: 49
+# KBZYIH_5839 Number of predicted TMRs: 0
+KBZYIH_5839	inside	1	49				
+//
+# KBZYIH_105990 Length: 49
+# KBZYIH_105990 Number of predicted TMRs: 0
+KBZYIH_105990	inside	1	49				
+//
+# KBZYIH_30843 Length: 41
+# KBZYIH_30843 Number of predicted TMRs: 0
+KBZYIH_30843	signal	1	26				
+KBZYIH_30843	outside	27	41				
+//
+# KBZYIH_24201 Length: 46
+# KBZYIH_24201 Number of predicted TMRs: 0
+KBZYIH_24201	inside	1	46				
+//
+# KBZYIH_145176 Length: 36
+# KBZYIH_145176 Number of predicted TMRs: 0
+KBZYIH_145176	inside	1	36				
+//
+# KBZYIH_96736 Length: 45
+# KBZYIH_96736 Number of predicted TMRs: 0
+KBZYIH_96736	signal	1	42				
+KBZYIH_96736	outside	43	45				
+//
+# KBZYIH_106662 Length: 43
+# KBZYIH_106662 Number of predicted TMRs: 0
+KBZYIH_106662	inside	1	43				
+//
+# KBZYIH_96272 Length: 41
+# KBZYIH_96272 Number of predicted TMRs: 0
+KBZYIH_96272	inside	1	41				
+//
+# KBZYIH_71022 Length: 47
+# KBZYIH_71022 Number of predicted TMRs: 0
+KBZYIH_71022	signal	1	46				
+KBZYIH_71022	outside	47	47				
+//
+# KBZYIH_89409 Length: 36
+# KBZYIH_89409 Number of predicted TMRs: 0
+KBZYIH_89409	signal	1	35				
+KBZYIH_89409	outside	36	36				
+//
+# KBZYIH_126307 Length: 37
+# KBZYIH_126307 Number of predicted TMRs: 0
+KBZYIH_126307	signal	1	34				
+KBZYIH_126307	outside	35	37				
+//
+# KBZYIH_131356 Length: 45
+# KBZYIH_131356 Number of predicted TMRs: 0
+KBZYIH_131356	signal	1	10				
+KBZYIH_131356	outside	11	45				
+//
+# KBZYIH_57969 Length: 44
+# KBZYIH_57969 Number of predicted TMRs: 0
+KBZYIH_57969	signal	1	43				
+KBZYIH_57969	outside	44	44				
+//
+# KBZYIH_121412 Length: 46
+# KBZYIH_121412 Number of predicted TMRs: 0
+KBZYIH_121412	inside	1	46				
+//
+# KBZYIH_93990 Length: 49
+# KBZYIH_93990 Number of predicted TMRs: 0
+KBZYIH_93990	signal	1	11				
+KBZYIH_93990	outside	12	49				
+//
+# KBZYIH_51606 Length: 47
+# KBZYIH_51606 Number of predicted TMRs: 0
+KBZYIH_51606	signal	1	28				
+KBZYIH_51606	outside	29	47				
+//
+# KBZYIH_138675 Length: 42
+# KBZYIH_138675 Number of predicted TMRs: 0
+KBZYIH_138675	inside	1	42				
+//
+# KBZYIH_140235 Length: 42
+# KBZYIH_140235 Number of predicted TMRs: 0
+KBZYIH_140235	inside	1	42				
+//
+# KBZYIH_3077 Length: 48
+# KBZYIH_3077 Number of predicted TMRs: 0
+KBZYIH_3077	inside	1	48				
+//
+# KBZYIH_90296 Length: 49
+# KBZYIH_90296 Number of predicted TMRs: 0
+KBZYIH_90296	inside	1	49				
+//
+# KBZYIH_135358 Length: 45
+# KBZYIH_135358 Number of predicted TMRs: 0
+KBZYIH_135358	inside	1	45				
+//
+# KBZYIH_110041 Length: 49
+# KBZYIH_110041 Number of predicted TMRs: 0
+KBZYIH_110041	signal	1	48				
+KBZYIH_110041	outside	49	49				
+//
+# KBZYIH_167742 Length: 45
+# KBZYIH_167742 Number of predicted TMRs: 0
+KBZYIH_167742	signal	1	18				
+KBZYIH_167742	outside	19	45				
+//
+# KBZYIH_71672 Length: 41
+# KBZYIH_71672 Number of predicted TMRs: 0
+KBZYIH_71672	signal	1	37				
+KBZYIH_71672	outside	38	41				
+//
+# KBZYIH_124506 Length: 50
+# KBZYIH_124506 Number of predicted TMRs: 0
+KBZYIH_124506	signal	1	43				
+KBZYIH_124506	outside	44	50				
+//
+# KBZYIH_22916 Length: 44
+# KBZYIH_22916 Number of predicted TMRs: 0
+KBZYIH_22916	inside	1	44				
+//
+# KBZYIH_111589 Length: 49
+# KBZYIH_111589 Number of predicted TMRs: 0
+KBZYIH_111589	inside	1	49				
+//
+# KBZYIH_146738 Length: 42
+# KBZYIH_146738 Number of predicted TMRs: 0
+KBZYIH_146738	signal	1	10				
+KBZYIH_146738	outside	11	42				
+//
+# KBZYIH_55325 Length: 42
+# KBZYIH_55325 Number of predicted TMRs: 0
+KBZYIH_55325	signal	1	40				
+KBZYIH_55325	outside	41	42				
+//
+# KBZYIH_73775 Length: 45
+# KBZYIH_73775 Number of predicted TMRs: 0
+KBZYIH_73775	signal	1	16				
+KBZYIH_73775	outside	17	45				
+//
+# KBZYIH_153330 Length: 31
+# KBZYIH_153330 Number of predicted TMRs: 0
+KBZYIH_153330	signal	1	25				
+KBZYIH_153330	outside	26	31				
+//
+# KBZYIH_60001 Length: 46
+# KBZYIH_60001 Number of predicted TMRs: 0
+KBZYIH_60001	signal	1	41				
+KBZYIH_60001	outside	42	46				
+//
+# KBZYIH_119752 Length: 49
+# KBZYIH_119752 Number of predicted TMRs: 0
+KBZYIH_119752	signal	1	44				
+KBZYIH_119752	outside	45	49				
+//
+# KBZYIH_93900 Length: 44
+# KBZYIH_93900 Number of predicted TMRs: 0
+KBZYIH_93900	signal	1	43				
+KBZYIH_93900	outside	44	44				
+//
+# KBZYIH_31191 Length: 36
+# KBZYIH_31191 Number of predicted TMRs: 0
+KBZYIH_31191	inside	1	36				
+//
+# KBZYIH_62973 Length: 43
+# KBZYIH_62973 Number of predicted TMRs: 0
+KBZYIH_62973	signal	1	23				
+KBZYIH_62973	outside	24	43				
+//
+# KBZYIH_31730 Length: 49
+# KBZYIH_31730 Number of predicted TMRs: 0
+KBZYIH_31730	inside	1	49				
+//
+# KBZYIH_120190 Length: 46
+# KBZYIH_120190 Number of predicted TMRs: 0
+KBZYIH_120190	inside	1	46				
+//
+# KBZYIH_61407 Length: 44
+# KBZYIH_61407 Number of predicted TMRs: 0
+KBZYIH_61407	signal	1	43				
+KBZYIH_61407	outside	44	44				
+//
+# KBZYIH_83974 Length: 37
+# KBZYIH_83974 Number of predicted TMRs: 0
+KBZYIH_83974	inside	1	37				
+//
+# KBZYIH_139601 Length: 37
+# KBZYIH_139601 Number of predicted TMRs: 0
+KBZYIH_139601	signal	1	21				
+KBZYIH_139601	outside	22	37				
+//
+# KBZYIH_163511 Length: 45
+# KBZYIH_163511 Number of predicted TMRs: 0
+KBZYIH_163511	signal	1	32				
+KBZYIH_163511	outside	33	45				
+//
+# KBZYIH_88007 Length: 46
+# KBZYIH_88007 Number of predicted TMRs: 0
+KBZYIH_88007	signal	1	24				
+KBZYIH_88007	outside	25	46				
+//
+# KBZYIH_48211 Length: 42
+# KBZYIH_48211 Number of predicted TMRs: 0
+KBZYIH_48211	inside	1	42				
+//
+# KBZYIH_158098 Length: 42
+# KBZYIH_158098 Number of predicted TMRs: 0
+KBZYIH_158098	inside	1	42				
+//
+# KBZYIH_19173 Length: 43
+# KBZYIH_19173 Number of predicted TMRs: 0
+KBZYIH_19173	signal	1	42				
+KBZYIH_19173	outside	43	43				
+//
+# KBZYIH_53428 Length: 46
+# KBZYIH_53428 Number of predicted TMRs: 0
+KBZYIH_53428	inside	1	46				
+//
+# KBZYIH_77521 Length: 46
+# KBZYIH_77521 Number of predicted TMRs: 0
+KBZYIH_77521	inside	1	46				
+//
+# KBZYIH_57050 Length: 41
+# KBZYIH_57050 Number of predicted TMRs: 0
+KBZYIH_57050	signal	1	38				
+KBZYIH_57050	outside	39	41				
+//
+# KBZYIH_73771 Length: 50
+# KBZYIH_73771 Number of predicted TMRs: 0
+KBZYIH_73771	inside	1	50				
+//
+# KBZYIH_128131 Length: 44
+# KBZYIH_128131 Number of predicted TMRs: 0
+KBZYIH_128131	signal	1	36				
+KBZYIH_128131	outside	37	44				
+//
+# KBZYIH_166807 Length: 46
+# KBZYIH_166807 Number of predicted TMRs: 0
+KBZYIH_166807	signal	1	25				
+KBZYIH_166807	outside	26	46				
+//
+# KBZYIH_169393 Length: 43
+# KBZYIH_169393 Number of predicted TMRs: 0
+KBZYIH_169393	signal	1	42				
+KBZYIH_169393	outside	43	43				
+//
+# KBZYIH_164421 Length: 44
+# KBZYIH_164421 Number of predicted TMRs: 0
+KBZYIH_164421	signal	1	10				
+KBZYIH_164421	outside	11	44				
+//
+# KBZYIH_16569 Length: 45
+# KBZYIH_16569 Number of predicted TMRs: 0
+KBZYIH_16569	signal	1	28				
+KBZYIH_16569	outside	29	45				
+//
+# KBZYIH_110946 Length: 42
+# KBZYIH_110946 Number of predicted TMRs: 0
+KBZYIH_110946	signal	1	11				
+KBZYIH_110946	outside	12	42				
+//
+# KBZYIH_43534 Length: 48
+# KBZYIH_43534 Number of predicted TMRs: 0
+KBZYIH_43534	signal	1	35				
+KBZYIH_43534	outside	36	48				
+//
+# KBZYIH_47520 Length: 49
+# KBZYIH_47520 Number of predicted TMRs: 0
+KBZYIH_47520	inside	1	49				
+//
+# KBZYIH_143935 Length: 45
+# KBZYIH_143935 Number of predicted TMRs: 0
+KBZYIH_143935	signal	1	44				
+KBZYIH_143935	outside	45	45				
+//
+# KBZYIH_117357 Length: 47
+# KBZYIH_117357 Number of predicted TMRs: 0
+KBZYIH_117357	inside	1	47				
+//
+# KBZYIH_56497 Length: 40
+# KBZYIH_56497 Number of predicted TMRs: 0
+KBZYIH_56497	inside	1	40				
+//
+# KBZYIH_25949 Length: 37
+# KBZYIH_25949 Number of predicted TMRs: 0
+KBZYIH_25949	signal	1	12				
+KBZYIH_25949	outside	13	37				
+//
+# KBZYIH_112933 Length: 40
+# KBZYIH_112933 Number of predicted TMRs: 0
+KBZYIH_112933	signal	1	10				
+KBZYIH_112933	outside	11	40				
+//
+# KBZYIH_121750 Length: 46
+# KBZYIH_121750 Number of predicted TMRs: 0
+KBZYIH_121750	inside	1	46				
+//
+# KBZYIH_95663 Length: 46
+# KBZYIH_95663 Number of predicted TMRs: 0
+KBZYIH_95663	inside	1	46				
+//
+# KBZYIH_169385 Length: 46
+# KBZYIH_169385 Number of predicted TMRs: 0
+KBZYIH_169385	inside	1	46				
+//
+# KBZYIH_133548 Length: 40
+# KBZYIH_133548 Number of predicted TMRs: 0
+KBZYIH_133548	inside	1	40				
+//
+# KBZYIH_111265 Length: 48
+# KBZYIH_111265 Number of predicted TMRs: 0
+KBZYIH_111265	inside	1	48				
+//
+# KBZYIH_141384 Length: 42
+# KBZYIH_141384 Number of predicted TMRs: 0
+KBZYIH_141384	inside	1	42				
+//
+# KBZYIH_93332 Length: 44
+# KBZYIH_93332 Number of predicted TMRs: 0
+KBZYIH_93332	signal	1	24				
+KBZYIH_93332	outside	25	44				
+//
+# KBZYIH_44362 Length: 43
+# KBZYIH_44362 Number of predicted TMRs: 0
+KBZYIH_44362	inside	1	43				
+//
+# KBZYIH_131761 Length: 44
+# KBZYIH_131761 Number of predicted TMRs: 0
+KBZYIH_131761	inside	1	44				
+//
+# KBZYIH_39519 Length: 46
+# KBZYIH_39519 Number of predicted TMRs: 0
+KBZYIH_39519	inside	1	46				
+//
+# KBZYIH_12831 Length: 47
+# KBZYIH_12831 Number of predicted TMRs: 0
+KBZYIH_12831	signal	1	46				
+KBZYIH_12831	outside	47	47				
+//
+# KBZYIH_13515 Length: 41
+# KBZYIH_13515 Number of predicted TMRs: 0
+KBZYIH_13515	inside	1	41				
+//
+# KBZYIH_29245 Length: 38
+# KBZYIH_29245 Number of predicted TMRs: 0
+KBZYIH_29245	inside	1	38				
+//
+# KBZYIH_133696 Length: 40
+# KBZYIH_133696 Number of predicted TMRs: 0
+KBZYIH_133696	inside	1	40				
+//
+# KBZYIH_125113 Length: 50
+# KBZYIH_125113 Number of predicted TMRs: 0
+KBZYIH_125113	inside	1	50				
+//
+# KBZYIH_138506 Length: 49
+# KBZYIH_138506 Number of predicted TMRs: 0
+KBZYIH_138506	signal	1	47				
+KBZYIH_138506	outside	48	49				
+//
+# KBZYIH_33918 Length: 49
+# KBZYIH_33918 Number of predicted TMRs: 0
+KBZYIH_33918	signal	1	11				
+KBZYIH_33918	outside	12	49				
+//
+# KBZYIH_46185 Length: 47
+# KBZYIH_46185 Number of predicted TMRs: 0
+KBZYIH_46185	signal	1	28				
+KBZYIH_46185	outside	29	47				
+//
+# KBZYIH_130240 Length: 43
+# KBZYIH_130240 Number of predicted TMRs: 0
+KBZYIH_130240	signal	1	16				
+KBZYIH_130240	outside	17	43				
+//
+# KBZYIH_170908 Length: 41
+# KBZYIH_170908 Number of predicted TMRs: 0
+KBZYIH_170908	signal	1	32				
+KBZYIH_170908	outside	33	41				
+//
+# KBZYIH_140791 Length: 33
+# KBZYIH_140791 Number of predicted TMRs: 0
+KBZYIH_140791	inside	1	33				
+//
+# KBZYIH_150724 Length: 39
+# KBZYIH_150724 Number of predicted TMRs: 0
+KBZYIH_150724	inside	1	39				
+//
+# KBZYIH_74035 Length: 35
+# KBZYIH_74035 Number of predicted TMRs: 0
+KBZYIH_74035	signal	1	34				
+KBZYIH_74035	outside	35	35				
+//
+# KBZYIH_5234 Length: 44
+# KBZYIH_5234 Number of predicted TMRs: 0
+KBZYIH_5234	inside	1	44				
+//
+# KBZYIH_43462 Length: 45
+# KBZYIH_43462 Number of predicted TMRs: 0
+KBZYIH_43462	inside	1	45				
+//
+# KBZYIH_125804 Length: 45
+# KBZYIH_125804 Number of predicted TMRs: 0
+KBZYIH_125804	inside	1	45				
+//
+# KBZYIH_154334 Length: 49
+# KBZYIH_154334 Number of predicted TMRs: 0
+KBZYIH_154334	inside	1	49				
+//
+# KBZYIH_9588 Length: 42
+# KBZYIH_9588 Number of predicted TMRs: 0
+KBZYIH_9588	signal	1	41				
+KBZYIH_9588	outside	42	42				
+//
+# KBZYIH_143148 Length: 42
+# KBZYIH_143148 Number of predicted TMRs: 0
+KBZYIH_143148	signal	1	14				
+KBZYIH_143148	outside	15	42				
+//
+# KBZYIH_153334 Length: 48
+# KBZYIH_153334 Number of predicted TMRs: 0
+KBZYIH_153334	signal	1	47				
+KBZYIH_153334	outside	48	48				
+//
+# KBZYIH_78636 Length: 44
+# KBZYIH_78636 Number of predicted TMRs: 0
+KBZYIH_78636	signal	1	12				
+KBZYIH_78636	outside	13	44				
+//
+# KBZYIH_50873 Length: 49
+# KBZYIH_50873 Number of predicted TMRs: 0
+KBZYIH_50873	inside	1	49				
+//
+# KBZYIH_22236 Length: 45
+# KBZYIH_22236 Number of predicted TMRs: 1
+KBZYIH_22236	inside	1	19				
+KBZYIH_22236	TMhelix	20	40				
+KBZYIH_22236	outside	41	45				
+//
+# KBZYIH_168404 Length: 50
+# KBZYIH_168404 Number of predicted TMRs: 0
+KBZYIH_168404	inside	1	50				
+//
+# KBZYIH_71148 Length: 45
+# KBZYIH_71148 Number of predicted TMRs: 0
+KBZYIH_71148	outside	1	45				
+//
+# KBZYIH_135262 Length: 50
+# KBZYIH_135262 Number of predicted TMRs: 0
+KBZYIH_135262	signal	1	47				
+KBZYIH_135262	outside	48	50				
+//
+# KBZYIH_60083 Length: 36
+# KBZYIH_60083 Number of predicted TMRs: 0
+KBZYIH_60083	signal	1	12				
+KBZYIH_60083	outside	13	36				
+//
+# KBZYIH_172496 Length: 43
+# KBZYIH_172496 Number of predicted TMRs: 0
+KBZYIH_172496	outside	1	43				
+//
+# KBZYIH_31656 Length: 45
+# KBZYIH_31656 Number of predicted TMRs: 0
+KBZYIH_31656	signal	1	26				
+KBZYIH_31656	outside	27	45				
+//
+# KBZYIH_60782 Length: 47
+# KBZYIH_60782 Number of predicted TMRs: 0
+KBZYIH_60782	inside	1	47				
+//
+# KBZYIH_98536 Length: 35
+# KBZYIH_98536 Number of predicted TMRs: 0
+KBZYIH_98536	inside	1	35				
+//
+# KBZYIH_32352 Length: 41
+# KBZYIH_32352 Number of predicted TMRs: 0
+KBZYIH_32352	signal	1	38				
+KBZYIH_32352	outside	39	41				
+//
+# KBZYIH_117314 Length: 40
+# KBZYIH_117314 Number of predicted TMRs: 0
+KBZYIH_117314	signal	1	33				
+KBZYIH_117314	outside	34	40				
+//
+# KBZYIH_167186 Length: 36
+# KBZYIH_167186 Number of predicted TMRs: 0
+KBZYIH_167186	signal	1	22				
+KBZYIH_167186	outside	23	36				
+//
+# KBZYIH_166775 Length: 50
+# KBZYIH_166775 Number of predicted TMRs: 0
+KBZYIH_166775	inside	1	50				
+//
+# KBZYIH_121826 Length: 43
+# KBZYIH_121826 Number of predicted TMRs: 0
+KBZYIH_121826	inside	1	43				
+//
+# KBZYIH_107781 Length: 47
+# KBZYIH_107781 Number of predicted TMRs: 0
+KBZYIH_107781	inside	1	47				
+//
+# KBZYIH_32435 Length: 47
+# KBZYIH_32435 Number of predicted TMRs: 0
+KBZYIH_32435	inside	1	47				
+//
+# KBZYIH_46420 Length: 48
+# KBZYIH_46420 Number of predicted TMRs: 0
+KBZYIH_46420	signal	1	15				
+KBZYIH_46420	outside	16	48				
+//
+# KBZYIH_103516 Length: 49
+# KBZYIH_103516 Number of predicted TMRs: 0
+KBZYIH_103516	inside	1	49				
+//
+# KBZYIH_96194 Length: 44
+# KBZYIH_96194 Number of predicted TMRs: 0
+KBZYIH_96194	signal	1	19				
+KBZYIH_96194	outside	20	44				
+//
+# KBZYIH_107230 Length: 45
+# KBZYIH_107230 Number of predicted TMRs: 0
+KBZYIH_107230	inside	1	45				
+//
+# KBZYIH_114997 Length: 49
+# KBZYIH_114997 Number of predicted TMRs: 0
+KBZYIH_114997	inside	1	49				
+//
+# KBZYIH_41671 Length: 48
+# KBZYIH_41671 Number of predicted TMRs: 0
+KBZYIH_41671	inside	1	48				
+//
+# KBZYIH_80920 Length: 48
+# KBZYIH_80920 Number of predicted TMRs: 0
+KBZYIH_80920	inside	1	48				
+//
+# KBZYIH_168452 Length: 40
+# KBZYIH_168452 Number of predicted TMRs: 0
+KBZYIH_168452	inside	1	40				
+//
+# KBZYIH_4144 Length: 45
+# KBZYIH_4144 Number of predicted TMRs: 0
+KBZYIH_4144	inside	1	45				
+//
+# KBZYIH_5054 Length: 47
+# KBZYIH_5054 Number of predicted TMRs: 0
+KBZYIH_5054	signal	1	44				
+KBZYIH_5054	outside	45	47				
+//
+# KBZYIH_69788 Length: 47
+# KBZYIH_69788 Number of predicted TMRs: 0
+KBZYIH_69788	inside	1	47				
+//
+# KBZYIH_33262 Length: 42
+# KBZYIH_33262 Number of predicted TMRs: 0
+KBZYIH_33262	signal	1	34				
+KBZYIH_33262	outside	35	42				
+//
+# KBZYIH_102128 Length: 41
+# KBZYIH_102128 Number of predicted TMRs: 0
+KBZYIH_102128	signal	1	20				
+KBZYIH_102128	outside	21	41				
+//
+# KBZYIH_119739 Length: 47
+# KBZYIH_119739 Number of predicted TMRs: 0
+KBZYIH_119739	signal	1	43				
+KBZYIH_119739	outside	44	47				
+//
+# KBZYIH_48495 Length: 40
+# KBZYIH_48495 Number of predicted TMRs: 0
+KBZYIH_48495	inside	1	40				
+//
+# KBZYIH_119679 Length: 40
+# KBZYIH_119679 Number of predicted TMRs: 0
+KBZYIH_119679	inside	1	40				
+//
+# KBZYIH_58789 Length: 28
+# KBZYIH_58789 Number of predicted TMRs: 0
+KBZYIH_58789	inside	1	28				
+//
+# KBZYIH_89682 Length: 37
+# KBZYIH_89682 Number of predicted TMRs: 0
+KBZYIH_89682	inside	1	37				
+//
+# KBZYIH_63816 Length: 44
+# KBZYIH_63816 Number of predicted TMRs: 0
+KBZYIH_63816	signal	1	15				
+KBZYIH_63816	outside	16	44				
+//
+# KBZYIH_12702 Length: 47
+# KBZYIH_12702 Number of predicted TMRs: 0
+KBZYIH_12702	inside	1	47				
+//
+# KBZYIH_78722 Length: 42
+# KBZYIH_78722 Number of predicted TMRs: 0
+KBZYIH_78722	signal	1	31				
+KBZYIH_78722	outside	32	42				
+//
+# KBZYIH_104625 Length: 47
+# KBZYIH_104625 Number of predicted TMRs: 0
+KBZYIH_104625	inside	1	47				
+//
+# KBZYIH_98555 Length: 49
+# KBZYIH_98555 Number of predicted TMRs: 0
+KBZYIH_98555	signal	1	48				
+KBZYIH_98555	outside	49	49				
+//
+# KBZYIH_77632 Length: 44
+# KBZYIH_77632 Number of predicted TMRs: 0
+KBZYIH_77632	signal	1	32				
+KBZYIH_77632	outside	33	44				
+//
+# KBZYIH_57537 Length: 49
+# KBZYIH_57537 Number of predicted TMRs: 0
+KBZYIH_57537	inside	1	49				
+//
+# KBZYIH_58253 Length: 40
+# KBZYIH_58253 Number of predicted TMRs: 0
+KBZYIH_58253	inside	1	40				
+//
+# KBZYIH_53721 Length: 29
+# KBZYIH_53721 Number of predicted TMRs: 0
+KBZYIH_53721	inside	1	29				
+//
+# KBZYIH_53722 Length: 29
+# KBZYIH_53722 Number of predicted TMRs: 0
+KBZYIH_53722	inside	1	29				
+//
+# KBZYIH_15581 Length: 35
+# KBZYIH_15581 Number of predicted TMRs: 0
+KBZYIH_15581	inside	1	35				
+//
+# KBZYIH_53262 Length: 50
+# KBZYIH_53262 Number of predicted TMRs: 0
+KBZYIH_53262	inside	1	50				
+//
+# KBZYIH_131992 Length: 46
+# KBZYIH_131992 Number of predicted TMRs: 0
+KBZYIH_131992	inside	1	46				
+//
+# KBZYIH_14092 Length: 42
+# KBZYIH_14092 Number of predicted TMRs: 0
+KBZYIH_14092	signal	1	10				
+KBZYIH_14092	outside	11	42				
+//
+# KBZYIH_127518 Length: 26
+# KBZYIH_127518 Number of predicted TMRs: 0
+KBZYIH_127518	inside	1	26				
+//
+# KBZYIH_77095 Length: 44
+# KBZYIH_77095 Number of predicted TMRs: 0
+KBZYIH_77095	inside	1	44				
+//
+# KBZYIH_99503 Length: 40
+# KBZYIH_99503 Number of predicted TMRs: 0
+KBZYIH_99503	inside	1	40				
+//
+# KBZYIH_92549 Length: 42
+# KBZYIH_92549 Number of predicted TMRs: 0
+KBZYIH_92549	inside	1	42				
+//
+# KBZYIH_5960 Length: 34
+# KBZYIH_5960 Number of predicted TMRs: 0
+KBZYIH_5960	signal	1	32				
+KBZYIH_5960	outside	33	34				
+//
+# KBZYIH_103336 Length: 42
+# KBZYIH_103336 Number of predicted TMRs: 0
+KBZYIH_103336	signal	1	41				
+KBZYIH_103336	outside	42	42				
+//
+# KBZYIH_5965 Length: 35
+# KBZYIH_5965 Number of predicted TMRs: 0
+KBZYIH_5965	signal	1	28				
+KBZYIH_5965	outside	29	35				
+//
+# KBZYIH_116811 Length: 42
+# KBZYIH_116811 Number of predicted TMRs: 0
+KBZYIH_116811	inside	1	42				
+//
+# KBZYIH_76630 Length: 49
+# KBZYIH_76630 Number of predicted TMRs: 0
+KBZYIH_76630	inside	1	49				
+//
+# KBZYIH_40116 Length: 46
+# KBZYIH_40116 Number of predicted TMRs: 0
+KBZYIH_40116	inside	1	46				
+//
+# KBZYIH_8813 Length: 45
+# KBZYIH_8813 Number of predicted TMRs: 0
+KBZYIH_8813	inside	1	45				
+//
+# KBZYIH_66354 Length: 44
+# KBZYIH_66354 Number of predicted TMRs: 0
+KBZYIH_66354	signal	1	43				
+KBZYIH_66354	outside	44	44				
+//
+# KBZYIH_8576 Length: 42
+# KBZYIH_8576 Number of predicted TMRs: 0
+KBZYIH_8576	inside	1	42				
+//
+# KBZYIH_64444 Length: 50
+# KBZYIH_64444 Number of predicted TMRs: 0
+KBZYIH_64444	inside	1	50				
+//
+# KBZYIH_126937 Length: 42
+# KBZYIH_126937 Number of predicted TMRs: 0
+KBZYIH_126937	signal	1	10				
+KBZYIH_126937	outside	11	42				
+//
+# KBZYIH_26154 Length: 44
+# KBZYIH_26154 Number of predicted TMRs: 0
+KBZYIH_26154	signal	1	43				
+KBZYIH_26154	outside	44	44				
+//
+# KBZYIH_38919 Length: 45
+# KBZYIH_38919 Number of predicted TMRs: 0
+KBZYIH_38919	inside	1	45				
+//
+# KBZYIH_30709 Length: 50
+# KBZYIH_30709 Number of predicted TMRs: 0
+KBZYIH_30709	inside	1	50				
+//
+# KBZYIH_134541 Length: 50
+# KBZYIH_134541 Number of predicted TMRs: 0
+KBZYIH_134541	signal	1	32				
+KBZYIH_134541	outside	33	50				
+//
+# KBZYIH_21540 Length: 40
+# KBZYIH_21540 Number of predicted TMRs: 0
+KBZYIH_21540	signal	1	10				
+KBZYIH_21540	outside	11	40				
+//
+# KBZYIH_138285 Length: 43
+# KBZYIH_138285 Number of predicted TMRs: 0
+KBZYIH_138285	signal	1	10				
+KBZYIH_138285	outside	11	43				
+//
+# KBZYIH_152726 Length: 40
+# KBZYIH_152726 Number of predicted TMRs: 0
+KBZYIH_152726	signal	1	33				
+KBZYIH_152726	outside	34	40				
+//
+# KBZYIH_102861 Length: 49
+# KBZYIH_102861 Number of predicted TMRs: 0
+KBZYIH_102861	signal	1	47				
+KBZYIH_102861	outside	48	49				
+//
+# KBZYIH_4893 Length: 42
+# KBZYIH_4893 Number of predicted TMRs: 0
+KBZYIH_4893	signal	1	35				
+KBZYIH_4893	outside	36	42				
+//
+# KBZYIH_9435 Length: 44
+# KBZYIH_9435 Number of predicted TMRs: 0
+KBZYIH_9435	inside	1	44				
+//
+# KBZYIH_95712 Length: 45
+# KBZYIH_95712 Number of predicted TMRs: 0
+KBZYIH_95712	inside	1	45				
+//
+# KBZYIH_66701 Length: 38
+# KBZYIH_66701 Number of predicted TMRs: 0
+KBZYIH_66701	inside	1	38				
+//
+# KBZYIH_77700 Length: 49
+# KBZYIH_77700 Number of predicted TMRs: 0
+KBZYIH_77700	inside	1	49				
+//
+# KBZYIH_93340 Length: 49
+# KBZYIH_93340 Number of predicted TMRs: 0
+KBZYIH_93340	inside	1	49				
+//
+# KBZYIH_100831 Length: 48
+# KBZYIH_100831 Number of predicted TMRs: 0
+KBZYIH_100831	inside	1	48				
+//
+# KBZYIH_70002 Length: 47
+# KBZYIH_70002 Number of predicted TMRs: 0
+KBZYIH_70002	inside	1	47				
+//
+# KBZYIH_30798 Length: 50
+# KBZYIH_30798 Number of predicted TMRs: 0
+KBZYIH_30798	signal	1	15				
+KBZYIH_30798	outside	16	50				
+//
+# KBZYIH_55319 Length: 50
+# KBZYIH_55319 Number of predicted TMRs: 0
+KBZYIH_55319	inside	1	50				
+//
+# KBZYIH_4806 Length: 49
+# KBZYIH_4806 Number of predicted TMRs: 0
+KBZYIH_4806	outside	1	49				
+//
+# KBZYIH_106673 Length: 44
+# KBZYIH_106673 Number of predicted TMRs: 0
+KBZYIH_106673	inside	1	44				
+//
+# KBZYIH_142812 Length: 48
+# KBZYIH_142812 Number of predicted TMRs: 0
+KBZYIH_142812	inside	1	48				
+//
+# KBZYIH_75639 Length: 49
+# KBZYIH_75639 Number of predicted TMRs: 0
+KBZYIH_75639	inside	1	49				
+//
+# KBZYIH_163394 Length: 49
+# KBZYIH_163394 Number of predicted TMRs: 0
+KBZYIH_163394	outside	1	49				
+//
+# KBZYIH_44421 Length: 44
+# KBZYIH_44421 Number of predicted TMRs: 0
+KBZYIH_44421	inside	1	44				
+//
+# KBZYIH_24029 Length: 38
+# KBZYIH_24029 Number of predicted TMRs: 0
+KBZYIH_24029	inside	1	38				
+//
+# KBZYIH_74753 Length: 28
+# KBZYIH_74753 Number of predicted TMRs: 0
+KBZYIH_74753	signal	1	27				
+KBZYIH_74753	outside	28	28				
+//
+# KBZYIH_46772 Length: 49
+# KBZYIH_46772 Number of predicted TMRs: 0
+KBZYIH_46772	inside	1	49				
+//
+# KBZYIH_44513 Length: 40
+# KBZYIH_44513 Number of predicted TMRs: 0
+KBZYIH_44513	inside	1	40				
+//
+# KBZYIH_132079 Length: 50
+# KBZYIH_132079 Number of predicted TMRs: 0
+KBZYIH_132079	inside	1	50				
+//
+# KBZYIH_143163 Length: 48
+# KBZYIH_143163 Number of predicted TMRs: 0
+KBZYIH_143163	inside	1	48				
+//
+# KBZYIH_84149 Length: 48
+# KBZYIH_84149 Number of predicted TMRs: 0
+KBZYIH_84149	inside	1	48				
+//
+# KBZYIH_56457 Length: 45
+# KBZYIH_56457 Number of predicted TMRs: 0
+KBZYIH_56457	inside	1	45				
+//
+# KBZYIH_131286 Length: 42
+# KBZYIH_131286 Number of predicted TMRs: 0
+KBZYIH_131286	inside	1	42				
+//
+# KBZYIH_79387 Length: 43
+# KBZYIH_79387 Number of predicted TMRs: 0
+KBZYIH_79387	outside	1	43				
+//
+# KBZYIH_165823 Length: 43
+# KBZYIH_165823 Number of predicted TMRs: 0
+KBZYIH_165823	signal	1	42				
+KBZYIH_165823	outside	43	43				
+//
+# KBZYIH_166626 Length: 46
+# KBZYIH_166626 Number of predicted TMRs: 0
+KBZYIH_166626	inside	1	46				
+//
+# KBZYIH_58719 Length: 46
+# KBZYIH_58719 Number of predicted TMRs: 0
+KBZYIH_58719	signal	1	32				
+KBZYIH_58719	outside	33	46				
+//
+# KBZYIH_126004 Length: 46
+# KBZYIH_126004 Number of predicted TMRs: 0
+KBZYIH_126004	signal	1	25				
+KBZYIH_126004	outside	26	46				
+//
+# KBZYIH_128647 Length: 31
+# KBZYIH_128647 Number of predicted TMRs: 0
+KBZYIH_128647	inside	1	31				
+//
+# KBZYIH_136423 Length: 31
+# KBZYIH_136423 Number of predicted TMRs: 0
+KBZYIH_136423	signal	1	21				
+KBZYIH_136423	outside	22	31				
+//
+# KBZYIH_5252 Length: 49
+# KBZYIH_5252 Number of predicted TMRs: 0
+KBZYIH_5252	inside	1	49				
+//
+# KBZYIH_113766 Length: 50
+# KBZYIH_113766 Number of predicted TMRs: 0
+KBZYIH_113766	inside	1	50				
+//
+# KBZYIH_38491 Length: 43
+# KBZYIH_38491 Number of predicted TMRs: 0
+KBZYIH_38491	signal	1	42				
+KBZYIH_38491	outside	43	43				
+//
+# KBZYIH_97020 Length: 46
+# KBZYIH_97020 Number of predicted TMRs: 0
+KBZYIH_97020	signal	1	12				
+KBZYIH_97020	outside	13	46				
+//
+# KBZYIH_90037 Length: 35
+# KBZYIH_90037 Number of predicted TMRs: 0
+KBZYIH_90037	signal	1	31				
+KBZYIH_90037	outside	32	35				
+//
+# KBZYIH_96858 Length: 42
+# KBZYIH_96858 Number of predicted TMRs: 0
+KBZYIH_96858	outside	1	42				
+//
+# KBZYIH_170586 Length: 46
+# KBZYIH_170586 Number of predicted TMRs: 0
+KBZYIH_170586	inside	1	46				
+//
+# KBZYIH_9307 Length: 48
+# KBZYIH_9307 Number of predicted TMRs: 0
+KBZYIH_9307	signal	1	45				
+KBZYIH_9307	outside	46	48				
+//
+# KBZYIH_75453 Length: 41
+# KBZYIH_75453 Number of predicted TMRs: 0
+KBZYIH_75453	inside	1	41				
+//
+# KBZYIH_62905 Length: 47
+# KBZYIH_62905 Number of predicted TMRs: 0
+KBZYIH_62905	signal	1	22				
+KBZYIH_62905	outside	23	47				
+//
+# KBZYIH_43193 Length: 49
+# KBZYIH_43193 Number of predicted TMRs: 0
+KBZYIH_43193	signal	1	20				
+KBZYIH_43193	outside	21	49				
+//
+# KBZYIH_130286 Length: 50
+# KBZYIH_130286 Number of predicted TMRs: 0
+KBZYIH_130286	inside	1	50				
+//
+# KBZYIH_168451 Length: 42
+# KBZYIH_168451 Number of predicted TMRs: 0
+KBZYIH_168451	inside	1	42				
+//
+# KBZYIH_145004 Length: 50
+# KBZYIH_145004 Number of predicted TMRs: 0
+KBZYIH_145004	inside	1	50				
+//
+# KBZYIH_101820 Length: 47
+# KBZYIH_101820 Number of predicted TMRs: 0
+KBZYIH_101820	inside	1	47				
+//
+# KBZYIH_86732 Length: 42
+# KBZYIH_86732 Number of predicted TMRs: 0
+KBZYIH_86732	signal	1	26				
+KBZYIH_86732	outside	27	42				
+//
+# KBZYIH_48099 Length: 49
+# KBZYIH_48099 Number of predicted TMRs: 0
+KBZYIH_48099	signal	1	40				
+KBZYIH_48099	outside	41	49				
+//
+# KBZYIH_167865 Length: 50
+# KBZYIH_167865 Number of predicted TMRs: 0
+KBZYIH_167865	signal	1	21				
+KBZYIH_167865	outside	22	50				
+//
+# KBZYIH_171478 Length: 44
+# KBZYIH_171478 Number of predicted TMRs: 0
+KBZYIH_171478	inside	1	44				
+//
+# KBZYIH_21147 Length: 49
+# KBZYIH_21147 Number of predicted TMRs: 0
+KBZYIH_21147	inside	1	49				
+//
+# KBZYIH_66066 Length: 36
+# KBZYIH_66066 Number of predicted TMRs: 0
+KBZYIH_66066	inside	1	36				
+//
+# KBZYIH_66094 Length: 43
+# KBZYIH_66094 Number of predicted TMRs: 0
+KBZYIH_66094	inside	1	43				
+//
+# KBZYIH_12617 Length: 40
+# KBZYIH_12617 Number of predicted TMRs: 0
+KBZYIH_12617	inside	1	40				
+//
+# KBZYIH_105723 Length: 46
+# KBZYIH_105723 Number of predicted TMRs: 0
+KBZYIH_105723	inside	1	46				
+//
+# KBZYIH_63855 Length: 44
+# KBZYIH_63855 Number of predicted TMRs: 0
+KBZYIH_63855	inside	1	44				
+//
+# KBZYIH_82281 Length: 38
+# KBZYIH_82281 Number of predicted TMRs: 0
+KBZYIH_82281	signal	1	36				
+KBZYIH_82281	outside	37	38				
+//
+# KBZYIH_136982 Length: 40
+# KBZYIH_136982 Number of predicted TMRs: 0
+KBZYIH_136982	inside	1	40				
+//
+# KBZYIH_41073 Length: 37
+# KBZYIH_41073 Number of predicted TMRs: 0
+KBZYIH_41073	signal	1	25				
+KBZYIH_41073	outside	26	37				
+//
+# KBZYIH_93341 Length: 45
+# KBZYIH_93341 Number of predicted TMRs: 0
+KBZYIH_93341	inside	1	45				
+//
+# KBZYIH_19464 Length: 36
+# KBZYIH_19464 Number of predicted TMRs: 0
+KBZYIH_19464	inside	1	36				
+//
+# KBZYIH_21061 Length: 49
+# KBZYIH_21061 Number of predicted TMRs: 0
+KBZYIH_21061	signal	1	14				
+KBZYIH_21061	outside	15	49				
+//
+# KBZYIH_129602 Length: 48
+# KBZYIH_129602 Number of predicted TMRs: 0
+KBZYIH_129602	signal	1	38				
+KBZYIH_129602	outside	39	48				
+//
+# KBZYIH_60166 Length: 49
+# KBZYIH_60166 Number of predicted TMRs: 0
+KBZYIH_60166	inside	1	49				
+//
+# KBZYIH_102922 Length: 49
+# KBZYIH_102922 Number of predicted TMRs: 0
+KBZYIH_102922	signal	1	48				
+KBZYIH_102922	outside	49	49				
+//
+# KBZYIH_35433 Length: 43
+# KBZYIH_35433 Number of predicted TMRs: 0
+KBZYIH_35433	inside	1	43				
+//
+# KBZYIH_59387 Length: 50
+# KBZYIH_59387 Number of predicted TMRs: 0
+KBZYIH_59387	inside	1	50				
+//
+# KBZYIH_63065 Length: 50
+# KBZYIH_63065 Number of predicted TMRs: 0
+KBZYIH_63065	inside	1	50				
+//
+# KBZYIH_119163 Length: 47
+# KBZYIH_119163 Number of predicted TMRs: 0
+KBZYIH_119163	inside	1	47				
+//
+# KBZYIH_28954 Length: 42
+# KBZYIH_28954 Number of predicted TMRs: 0
+KBZYIH_28954	signal	1	41				
+KBZYIH_28954	outside	42	42				
+//
+# KBZYIH_48725 Length: 40
+# KBZYIH_48725 Number of predicted TMRs: 0
+KBZYIH_48725	inside	1	40				
+//
+# KBZYIH_87304 Length: 46
+# KBZYIH_87304 Number of predicted TMRs: 0
+KBZYIH_87304	inside	1	46				
+//
+# KBZYIH_26363 Length: 45
+# KBZYIH_26363 Number of predicted TMRs: 0
+KBZYIH_26363	inside	1	45				
+//
+# KBZYIH_139033 Length: 45
+# KBZYIH_139033 Number of predicted TMRs: 0
+KBZYIH_139033	signal	1	35				
+KBZYIH_139033	outside	36	45				
+//
+# KBZYIH_167445 Length: 47
+# KBZYIH_167445 Number of predicted TMRs: 0
+KBZYIH_167445	signal	1	10				
+KBZYIH_167445	outside	11	47				
+//
+# KBZYIH_59624 Length: 48
+# KBZYIH_59624 Number of predicted TMRs: 0
+KBZYIH_59624	signal	1	10				
+KBZYIH_59624	outside	11	48				
+//
+# KBZYIH_103831 Length: 46
+# KBZYIH_103831 Number of predicted TMRs: 0
+KBZYIH_103831	inside	1	46				
+//
+# KBZYIH_91736 Length: 50
+# KBZYIH_91736 Number of predicted TMRs: 0
+KBZYIH_91736	signal	1	47				
+KBZYIH_91736	outside	48	50				
+//
+# KBZYIH_26548 Length: 45
+# KBZYIH_26548 Number of predicted TMRs: 0
+KBZYIH_26548	inside	1	45				
+//
+# KBZYIH_98491 Length: 46
+# KBZYIH_98491 Number of predicted TMRs: 0
+KBZYIH_98491	inside	1	46				
+//
+# KBZYIH_112263 Length: 50
+# KBZYIH_112263 Number of predicted TMRs: 0
+KBZYIH_112263	inside	1	50				
+//
+# KBZYIH_106096 Length: 41
+# KBZYIH_106096 Number of predicted TMRs: 0
+KBZYIH_106096	signal	1	22				
+KBZYIH_106096	outside	23	41				
+//
+# KBZYIH_93645 Length: 50
+# KBZYIH_93645 Number of predicted TMRs: 0
+KBZYIH_93645	signal	1	23				
+KBZYIH_93645	outside	24	50				
+//
+# KBZYIH_170835 Length: 48
+# KBZYIH_170835 Number of predicted TMRs: 0
+KBZYIH_170835	inside	1	48				
+//
+# KBZYIH_165150 Length: 39
+# KBZYIH_165150 Number of predicted TMRs: 0
+KBZYIH_165150	signal	1	38				
+KBZYIH_165150	outside	39	39				
+//
+# KBZYIH_140220 Length: 43
+# KBZYIH_140220 Number of predicted TMRs: 0
+KBZYIH_140220	inside	1	43				
+//
+# KBZYIH_108008 Length: 46
+# KBZYIH_108008 Number of predicted TMRs: 0
+KBZYIH_108008	inside	1	46				
+//
+# KBZYIH_105175 Length: 46
+# KBZYIH_105175 Number of predicted TMRs: 0
+KBZYIH_105175	inside	1	46				
+//
+# KBZYIH_31220 Length: 36
+# KBZYIH_31220 Number of predicted TMRs: 0
+KBZYIH_31220	signal	1	35				
+KBZYIH_31220	outside	36	36				
+//
+# KBZYIH_88833 Length: 49
+# KBZYIH_88833 Number of predicted TMRs: 0
+KBZYIH_88833	inside	1	49				
+//
+# KBZYIH_28576 Length: 49
+# KBZYIH_28576 Number of predicted TMRs: 0
+KBZYIH_28576	inside	1	49				
+//
+# KBZYIH_171282 Length: 42
+# KBZYIH_171282 Number of predicted TMRs: 0
+KBZYIH_171282	inside	1	42				
+//
+# KBZYIH_122701 Length: 45
+# KBZYIH_122701 Number of predicted TMRs: 0
+KBZYIH_122701	signal	1	30				
+KBZYIH_122701	outside	31	45				
+//
+# KBZYIH_23031 Length: 34
+# KBZYIH_23031 Number of predicted TMRs: 0
+KBZYIH_23031	signal	1	30				
+KBZYIH_23031	outside	31	34				
+//
+# KBZYIH_146690 Length: 37
+# KBZYIH_146690 Number of predicted TMRs: 0
+KBZYIH_146690	signal	1	11				
+KBZYIH_146690	outside	12	37				
+//
+# KBZYIH_9183 Length: 47
+# KBZYIH_9183 Number of predicted TMRs: 0
+KBZYIH_9183	signal	1	46				
+KBZYIH_9183	outside	47	47				
+//
+# KBZYIH_145329 Length: 47
+# KBZYIH_145329 Number of predicted TMRs: 0
+KBZYIH_145329	signal	1	46				
+KBZYIH_145329	outside	47	47				
+//
+# KBZYIH_20798 Length: 49
+# KBZYIH_20798 Number of predicted TMRs: 0
+KBZYIH_20798	signal	1	48				
+KBZYIH_20798	outside	49	49				
+//
+# KBZYIH_118360 Length: 48
+# KBZYIH_118360 Number of predicted TMRs: 0
+KBZYIH_118360	inside	1	48				
+//
+# KBZYIH_7070 Length: 49
+# KBZYIH_7070 Number of predicted TMRs: 0
+KBZYIH_7070	inside	1	49				
+//
+# KBZYIH_101189 Length: 48
+# KBZYIH_101189 Number of predicted TMRs: 0
+KBZYIH_101189	inside	1	48				
+//
+# KBZYIH_61748 Length: 50
+# KBZYIH_61748 Number of predicted TMRs: 0
+KBZYIH_61748	inside	1	50				
+//
+# KBZYIH_128552 Length: 36
+# KBZYIH_128552 Number of predicted TMRs: 0
+KBZYIH_128552	inside	1	36				
+//
+# KBZYIH_38170 Length: 44
+# KBZYIH_38170 Number of predicted TMRs: 0
+KBZYIH_38170	signal	1	43				
+KBZYIH_38170	outside	44	44				
+//
+# KBZYIH_80069 Length: 35
+# KBZYIH_80069 Number of predicted TMRs: 0
+KBZYIH_80069	signal	1	26				
+KBZYIH_80069	outside	27	35				
+//
+# KBZYIH_100384 Length: 50
+# KBZYIH_100384 Number of predicted TMRs: 0
+KBZYIH_100384	inside	1	50				
+//
+# KBZYIH_95714 Length: 38
+# KBZYIH_95714 Number of predicted TMRs: 0
+KBZYIH_95714	inside	1	38				
+//
+# KBZYIH_5887 Length: 44
+# KBZYIH_5887 Number of predicted TMRs: 0
+KBZYIH_5887	inside	1	44				
+//
+# KBZYIH_70243 Length: 46
+# KBZYIH_70243 Number of predicted TMRs: 0
+KBZYIH_70243	inside	1	46				
+//
+# KBZYIH_76065 Length: 49
+# KBZYIH_76065 Number of predicted TMRs: 0
+KBZYIH_76065	inside	1	49				
+//
+# KBZYIH_169411 Length: 36
+# KBZYIH_169411 Number of predicted TMRs: 0
+KBZYIH_169411	signal	1	29				
+KBZYIH_169411	outside	30	36				
+//
+# KBZYIH_32372 Length: 47
+# KBZYIH_32372 Number of predicted TMRs: 0
+KBZYIH_32372	signal	1	46				
+KBZYIH_32372	outside	47	47				
+//
+# KBZYIH_78206 Length: 36
+# KBZYIH_78206 Number of predicted TMRs: 0
+KBZYIH_78206	inside	1	36				
+//
+# KBZYIH_100832 Length: 49
+# KBZYIH_100832 Number of predicted TMRs: 0
+KBZYIH_100832	inside	1	49				
+//
+# KBZYIH_121064 Length: 49
+# KBZYIH_121064 Number of predicted TMRs: 0
+KBZYIH_121064	outside	1	49				
+//
+# KBZYIH_29379 Length: 40
+# KBZYIH_29379 Number of predicted TMRs: 0
+KBZYIH_29379	inside	1	40				
+//
+# KBZYIH_29381 Length: 43
+# KBZYIH_29381 Number of predicted TMRs: 0
+KBZYIH_29381	signal	1	42				
+KBZYIH_29381	outside	43	43				
+//
+# KBZYIH_24579 Length: 48
+# KBZYIH_24579 Number of predicted TMRs: 0
+KBZYIH_24579	signal	1	45				
+KBZYIH_24579	outside	46	48				
+//
+# KBZYIH_154098 Length: 48
+# KBZYIH_154098 Number of predicted TMRs: 0
+KBZYIH_154098	inside	1	48				
+//
+# KBZYIH_47195 Length: 46
+# KBZYIH_47195 Number of predicted TMRs: 0
+KBZYIH_47195	signal	1	18				
+KBZYIH_47195	outside	19	46				
+//
+# KBZYIH_104236 Length: 49
+# KBZYIH_104236 Number of predicted TMRs: 0
+KBZYIH_104236	outside	1	49				
+//
+# KBZYIH_162902 Length: 48
+# KBZYIH_162902 Number of predicted TMRs: 0
+KBZYIH_162902	inside	1	48				
+//
+# KBZYIH_90823 Length: 44
+# KBZYIH_90823 Number of predicted TMRs: 0
+KBZYIH_90823	inside	1	44				
+//
+# KBZYIH_133149 Length: 48
+# KBZYIH_133149 Number of predicted TMRs: 0
+KBZYIH_133149	inside	1	48				
+//
+# KBZYIH_163767 Length: 43
+# KBZYIH_163767 Number of predicted TMRs: 0
+KBZYIH_163767	signal	1	41				
+KBZYIH_163767	outside	42	43				
+//
+# KBZYIH_70464 Length: 45
+# KBZYIH_70464 Number of predicted TMRs: 0
+KBZYIH_70464	signal	1	33				
+KBZYIH_70464	outside	34	45				
+//
+# KBZYIH_131918 Length: 48
+# KBZYIH_131918 Number of predicted TMRs: 0
+KBZYIH_131918	inside	1	48				
+//
+# KBZYIH_102291 Length: 46
+# KBZYIH_102291 Number of predicted TMRs: 0
+KBZYIH_102291	inside	1	46				
+//
+# KBZYIH_17697 Length: 44
+# KBZYIH_17697 Number of predicted TMRs: 0
+KBZYIH_17697	inside	1	44				
+//
+# KBZYIH_121065 Length: 45
+# KBZYIH_121065 Number of predicted TMRs: 0
+KBZYIH_121065	outside	1	45				
+//
+# KBZYIH_95830 Length: 46
+# KBZYIH_95830 Number of predicted TMRs: 0
+KBZYIH_95830	inside	1	46				
+//
+# KBZYIH_101750 Length: 38
+# KBZYIH_101750 Number of predicted TMRs: 0
+KBZYIH_101750	signal	1	13				
+KBZYIH_101750	outside	14	38				
+//
+# KBZYIH_158445 Length: 50
+# KBZYIH_158445 Number of predicted TMRs: 0
+KBZYIH_158445	inside	1	50				
+//
+# KBZYIH_147531 Length: 48
+# KBZYIH_147531 Number of predicted TMRs: 0
+KBZYIH_147531	outside	1	48				
+//
+# KBZYIH_46839 Length: 50
+# KBZYIH_46839 Number of predicted TMRs: 0
+KBZYIH_46839	signal	1	11				
+KBZYIH_46839	outside	12	50				
+//
+# KBZYIH_11817 Length: 39
+# KBZYIH_11817 Number of predicted TMRs: 0
+KBZYIH_11817	signal	1	21				
+KBZYIH_11817	outside	22	39				
+//
+# KBZYIH_132638 Length: 31
+# KBZYIH_132638 Number of predicted TMRs: 0
+KBZYIH_132638	signal	1	30				
+KBZYIH_132638	outside	31	31				
+//
+# KBZYIH_166108 Length: 38
+# KBZYIH_166108 Number of predicted TMRs: 0
+KBZYIH_166108	inside	1	38				
+//
+# KBZYIH_49754 Length: 46
+# KBZYIH_49754 Number of predicted TMRs: 0
+KBZYIH_49754	inside	1	46				
+//
+# KBZYIH_128148 Length: 44
+# KBZYIH_128148 Number of predicted TMRs: 0
+KBZYIH_128148	inside	1	44				
+//
+# KBZYIH_90671 Length: 49
+# KBZYIH_90671 Number of predicted TMRs: 0
+KBZYIH_90671	inside	1	49				
+//
+# KBZYIH_18388 Length: 40
+# KBZYIH_18388 Number of predicted TMRs: 0
+KBZYIH_18388	signal	1	38				
+KBZYIH_18388	outside	39	40				
+//
+# KBZYIH_166224 Length: 49
+# KBZYIH_166224 Number of predicted TMRs: 0
+KBZYIH_166224	inside	1	49				
+//
+# KBZYIH_47294 Length: 37
+# KBZYIH_47294 Number of predicted TMRs: 0
+KBZYIH_47294	signal	1	35				
+KBZYIH_47294	outside	36	37				
+//
+# KBZYIH_39838 Length: 35
+# KBZYIH_39838 Number of predicted TMRs: 0
+KBZYIH_39838	signal	1	15				
+KBZYIH_39838	outside	16	35				
+//
+# KBZYIH_94016 Length: 43
+# KBZYIH_94016 Number of predicted TMRs: 0
+KBZYIH_94016	signal	1	42				
+KBZYIH_94016	outside	43	43				
+//
+# KBZYIH_109023 Length: 40
+# KBZYIH_109023 Number of predicted TMRs: 0
+KBZYIH_109023	signal	1	25				
+KBZYIH_109023	outside	26	40				
+//
+# KBZYIH_38363 Length: 47
+# KBZYIH_38363 Number of predicted TMRs: 0
+KBZYIH_38363	inside	1	47				
+//
+# KBZYIH_45634 Length: 46
+# KBZYIH_45634 Number of predicted TMRs: 0
+KBZYIH_45634	signal	1	10				
+KBZYIH_45634	outside	11	46				
+//
+# KBZYIH_81461 Length: 44
+# KBZYIH_81461 Number of predicted TMRs: 0
+KBZYIH_81461	inside	1	44				
+//
+# KBZYIH_39931 Length: 37
+# KBZYIH_39931 Number of predicted TMRs: 0
+KBZYIH_39931	inside	1	37				
+//
+# KBZYIH_89361 Length: 50
+# KBZYIH_89361 Number of predicted TMRs: 0
+KBZYIH_89361	signal	1	37				
+KBZYIH_89361	outside	38	50				
+//
+# KBZYIH_148735 Length: 38
+# KBZYIH_148735 Number of predicted TMRs: 0
+KBZYIH_148735	signal	1	30				
+KBZYIH_148735	outside	31	38				
+//
+# KBZYIH_32354 Length: 46
+# KBZYIH_32354 Number of predicted TMRs: 0
+KBZYIH_32354	signal	1	18				
+KBZYIH_32354	outside	19	46				
+//
+# KBZYIH_51243 Length: 49
+# KBZYIH_51243 Number of predicted TMRs: 0
+KBZYIH_51243	inside	1	49				
+//
+# KBZYIH_117127 Length: 45
+# KBZYIH_117127 Number of predicted TMRs: 0
+KBZYIH_117127	inside	1	45				
+//
+# KBZYIH_139395 Length: 47
+# KBZYIH_139395 Number of predicted TMRs: 0
+KBZYIH_139395	signal	1	21				
+KBZYIH_139395	outside	22	47				
+//
+# KBZYIH_33731 Length: 47
+# KBZYIH_33731 Number of predicted TMRs: 0
+KBZYIH_33731	inside	1	47				
+//
+# KBZYIH_13518 Length: 50
+# KBZYIH_13518 Number of predicted TMRs: 0
+KBZYIH_13518	inside	1	50				
+//
+# KBZYIH_105283 Length: 40
+# KBZYIH_105283 Number of predicted TMRs: 0
+KBZYIH_105283	inside	1	40				
+//
+# KBZYIH_27089 Length: 44
+# KBZYIH_27089 Number of predicted TMRs: 0
+KBZYIH_27089	signal	1	43				
+KBZYIH_27089	outside	44	44				
+//
+# KBZYIH_58239 Length: 40
+# KBZYIH_58239 Number of predicted TMRs: 0
+KBZYIH_58239	signal	1	38				
+KBZYIH_58239	outside	39	40				
+//
+# KBZYIH_64817 Length: 44
+# KBZYIH_64817 Number of predicted TMRs: 0
+KBZYIH_64817	inside	1	44				
+//
+# KBZYIH_135084 Length: 44
+# KBZYIH_135084 Number of predicted TMRs: 0
+KBZYIH_135084	signal	1	11				
+KBZYIH_135084	outside	12	44				
+//
+# KBZYIH_79820 Length: 49
+# KBZYIH_79820 Number of predicted TMRs: 0
+KBZYIH_79820	signal	1	12				
+KBZYIH_79820	outside	13	49				
+//
+# KBZYIH_131962 Length: 45
+# KBZYIH_131962 Number of predicted TMRs: 0
+KBZYIH_131962	inside	1	45				
+//
+# KBZYIH_73821 Length: 35
+# KBZYIH_73821 Number of predicted TMRs: 0
+KBZYIH_73821	signal	1	34				
+KBZYIH_73821	outside	35	35				
+//
+# KBZYIH_61999 Length: 41
+# KBZYIH_61999 Number of predicted TMRs: 0
+KBZYIH_61999	inside	1	41				
+//
+# KBZYIH_19609 Length: 40
+# KBZYIH_19609 Number of predicted TMRs: 0
+KBZYIH_19609	signal	1	39				
+KBZYIH_19609	outside	40	40				
+//
+# KBZYIH_81067 Length: 43
+# KBZYIH_81067 Number of predicted TMRs: 0
+KBZYIH_81067	inside	1	43				
+//
+# KBZYIH_86817 Length: 48
+# KBZYIH_86817 Number of predicted TMRs: 0
+KBZYIH_86817	inside	1	48				
+//
+# KBZYIH_34892 Length: 47
+# KBZYIH_34892 Number of predicted TMRs: 0
+KBZYIH_34892	inside	1	47				
+//
+# KBZYIH_58165 Length: 46
+# KBZYIH_58165 Number of predicted TMRs: 0
+KBZYIH_58165	signal	1	24				
+KBZYIH_58165	outside	25	46				
+//
+# KBZYIH_100045 Length: 34
+# KBZYIH_100045 Number of predicted TMRs: 0
+KBZYIH_100045	signal	1	32				
+KBZYIH_100045	outside	33	34				
+//
+# KBZYIH_43149 Length: 43
+# KBZYIH_43149 Number of predicted TMRs: 0
+KBZYIH_43149	signal	1	31				
+KBZYIH_43149	outside	32	43				
+//
+# KBZYIH_5095 Length: 47
+# KBZYIH_5095 Number of predicted TMRs: 0
+KBZYIH_5095	signal	1	31				
+KBZYIH_5095	outside	32	47				
+//
+# KBZYIH_162727 Length: 48
+# KBZYIH_162727 Number of predicted TMRs: 0
+KBZYIH_162727	inside	1	48				
+//
+# KBZYIH_147954 Length: 45
+# KBZYIH_147954 Number of predicted TMRs: 0
+KBZYIH_147954	inside	1	45				
+//
+# KBZYIH_162456 Length: 36
+# KBZYIH_162456 Number of predicted TMRs: 0
+KBZYIH_162456	inside	1	36				
+//
+# KBZYIH_41961 Length: 43
+# KBZYIH_41961 Number of predicted TMRs: 0
+KBZYIH_41961	inside	1	43				
+//
+# KBZYIH_145509 Length: 43
+# KBZYIH_145509 Number of predicted TMRs: 0
+KBZYIH_145509	inside	1	43				
+//
+# KBZYIH_104872 Length: 40
+# KBZYIH_104872 Number of predicted TMRs: 0
+KBZYIH_104872	signal	1	35				
+KBZYIH_104872	outside	36	40				
+//
+# KBZYIH_123936 Length: 48
+# KBZYIH_123936 Number of predicted TMRs: 0
+KBZYIH_123936	inside	1	48				
+//
+# KBZYIH_83634 Length: 50
+# KBZYIH_83634 Number of predicted TMRs: 0
+KBZYIH_83634	signal	1	11				
+KBZYIH_83634	outside	12	50				
+//
+# KBZYIH_125195 Length: 35
+# KBZYIH_125195 Number of predicted TMRs: 0
+KBZYIH_125195	signal	1	34				
+KBZYIH_125195	outside	35	35				
+//
+# KBZYIH_2601 Length: 50
+# KBZYIH_2601 Number of predicted TMRs: 0
+KBZYIH_2601	inside	1	50				
+//
+# KBZYIH_97208 Length: 50
+# KBZYIH_97208 Number of predicted TMRs: 0
+KBZYIH_97208	inside	1	50				
+//
+# KBZYIH_168432 Length: 50
+# KBZYIH_168432 Number of predicted TMRs: 0
+KBZYIH_168432	inside	1	50				
+//
+# KBZYIH_122052 Length: 36
+# KBZYIH_122052 Number of predicted TMRs: 0
+KBZYIH_122052	signal	1	13				
+KBZYIH_122052	outside	14	36				
+//
+# KBZYIH_146366 Length: 46
+# KBZYIH_146366 Number of predicted TMRs: 0
+KBZYIH_146366	inside	1	46				
+//
+# KBZYIH_128375 Length: 50
+# KBZYIH_128375 Number of predicted TMRs: 0
+KBZYIH_128375	signal	1	49				
+KBZYIH_128375	outside	50	50				
+//
+# KBZYIH_31215 Length: 48
+# KBZYIH_31215 Number of predicted TMRs: 0
+KBZYIH_31215	inside	1	48				
+//
+# KBZYIH_156785 Length: 47
+# KBZYIH_156785 Number of predicted TMRs: 0
+KBZYIH_156785	inside	1	47				
+//
+# KBZYIH_128411 Length: 42
+# KBZYIH_128411 Number of predicted TMRs: 0
+KBZYIH_128411	signal	1	10				
+KBZYIH_128411	outside	11	42				
+//
+# KBZYIH_110341 Length: 49
+# KBZYIH_110341 Number of predicted TMRs: 0
+KBZYIH_110341	inside	1	49				
+//
+# KBZYIH_72645 Length: 50
+# KBZYIH_72645 Number of predicted TMRs: 0
+KBZYIH_72645	inside	1	50				
+//
+# KBZYIH_28802 Length: 42
+# KBZYIH_28802 Number of predicted TMRs: 0
+KBZYIH_28802	inside	1	42				
+//
+# KBZYIH_122241 Length: 39
+# KBZYIH_122241 Number of predicted TMRs: 0
+KBZYIH_122241	signal	1	38				
+KBZYIH_122241	outside	39	39				
+//
+# KBZYIH_107718 Length: 38
+# KBZYIH_107718 Number of predicted TMRs: 0
+KBZYIH_107718	signal	1	37				
+KBZYIH_107718	outside	38	38				
+//
+# KBZYIH_85130 Length: 49
+# KBZYIH_85130 Number of predicted TMRs: 0
+KBZYIH_85130	inside	1	49				
+//
+# KBZYIH_114503 Length: 44
+# KBZYIH_114503 Number of predicted TMRs: 0
+KBZYIH_114503	inside	1	44				
+//
+# KBZYIH_115992 Length: 36
+# KBZYIH_115992 Number of predicted TMRs: 0
+KBZYIH_115992	signal	1	35				
+KBZYIH_115992	outside	36	36				
+//
+# KBZYIH_115525 Length: 35
+# KBZYIH_115525 Number of predicted TMRs: 0
+KBZYIH_115525	inside	1	35				
+//
+# KBZYIH_98155 Length: 40
+# KBZYIH_98155 Number of predicted TMRs: 0
+KBZYIH_98155	signal	1	39				
+KBZYIH_98155	periplasm	40	40				
+//
+# KBZYIH_146819 Length: 50
+# KBZYIH_146819 Number of predicted TMRs: 0
+KBZYIH_146819	inside	1	50				
+//
+# KBZYIH_79624 Length: 36
+# KBZYIH_79624 Number of predicted TMRs: 0
+KBZYIH_79624	signal	1	35				
+KBZYIH_79624	outside	36	36				
+//
+# KBZYIH_23341 Length: 49
+# KBZYIH_23341 Number of predicted TMRs: 1
+KBZYIH_23341	outside	1	9				
+KBZYIH_23341	TMhelix	10	30				
+KBZYIH_23341	inside	31	49				
+//
+# KBZYIH_100268 Length: 41
+# KBZYIH_100268 Number of predicted TMRs: 0
+KBZYIH_100268	inside	1	41				
+//
+# KBZYIH_13812 Length: 48
+# KBZYIH_13812 Number of predicted TMRs: 0
+KBZYIH_13812	inside	1	48				
+//
+# KBZYIH_18702 Length: 48
+# KBZYIH_18702 Number of predicted TMRs: 0
+KBZYIH_18702	inside	1	48				
+//
+# KBZYIH_85980 Length: 41
+# KBZYIH_85980 Number of predicted TMRs: 0
+KBZYIH_85980	inside	1	41				
+//
+# KBZYIH_22874 Length: 49
+# KBZYIH_22874 Number of predicted TMRs: 0
+KBZYIH_22874	signal	1	47				
+KBZYIH_22874	outside	48	49				
+//
+# KBZYIH_23721 Length: 41
+# KBZYIH_23721 Number of predicted TMRs: 0
+KBZYIH_23721	inside	1	41				
+//
+# KBZYIH_17812 Length: 43
+# KBZYIH_17812 Number of predicted TMRs: 0
+KBZYIH_17812	signal	1	42				
+KBZYIH_17812	outside	43	43				
+//
+# KBZYIH_121059 Length: 44
+# KBZYIH_121059 Number of predicted TMRs: 0
+KBZYIH_121059	inside	1	44				
+//
+# KBZYIH_116711 Length: 47
+# KBZYIH_116711 Number of predicted TMRs: 0
+KBZYIH_116711	inside	1	47				
+//
+# KBZYIH_168332 Length: 44
+# KBZYIH_168332 Number of predicted TMRs: 0
+KBZYIH_168332	signal	1	12				
+KBZYIH_168332	outside	13	44				
+//
+# KBZYIH_24343 Length: 39
+# KBZYIH_24343 Number of predicted TMRs: 0
+KBZYIH_24343	inside	1	39				
+//
+# KBZYIH_120056 Length: 37
+# KBZYIH_120056 Number of predicted TMRs: 0
+KBZYIH_120056	inside	1	37				
+//
+# KBZYIH_116535 Length: 38
+# KBZYIH_116535 Number of predicted TMRs: 0
+KBZYIH_116535	outside	1	38				
+//
+# KBZYIH_141353 Length: 50
+# KBZYIH_141353 Number of predicted TMRs: 0
+KBZYIH_141353	inside	1	50				
+//
+# KBZYIH_77597 Length: 50
+# KBZYIH_77597 Number of predicted TMRs: 0
+KBZYIH_77597	signal	1	43				
+KBZYIH_77597	outside	44	50				
+//
+# KBZYIH_63041 Length: 38
+# KBZYIH_63041 Number of predicted TMRs: 0
+KBZYIH_63041	signal	1	24				
+KBZYIH_63041	outside	25	38				
+//
+# KBZYIH_64767 Length: 48
+# KBZYIH_64767 Number of predicted TMRs: 0
+KBZYIH_64767	inside	1	48				
+//
+# KBZYIH_90340 Length: 39
+# KBZYIH_90340 Number of predicted TMRs: 0
+KBZYIH_90340	inside	1	39				
+//
+# KBZYIH_50813 Length: 50
+# KBZYIH_50813 Number of predicted TMRs: 0
+KBZYIH_50813	signal	1	28				
+KBZYIH_50813	outside	29	50				
+//
+# KBZYIH_28866 Length: 43
+# KBZYIH_28866 Number of predicted TMRs: 0
+KBZYIH_28866	inside	1	43				
+//
+# KBZYIH_144855 Length: 47
+# KBZYIH_144855 Number of predicted TMRs: 0
+KBZYIH_144855	inside	1	47				
+//
+# KBZYIH_33499 Length: 48
+# KBZYIH_33499 Number of predicted TMRs: 0
+KBZYIH_33499	signal	1	47				
+KBZYIH_33499	outside	48	48				
+//
+# KBZYIH_9983 Length: 48
+# KBZYIH_9983 Number of predicted TMRs: 0
+KBZYIH_9983	inside	1	48				
+//
+# KBZYIH_23660 Length: 48
+# KBZYIH_23660 Number of predicted TMRs: 0
+KBZYIH_23660	signal	1	20				
+KBZYIH_23660	outside	21	48				
+//
+# KBZYIH_165408 Length: 50
+# KBZYIH_165408 Number of predicted TMRs: 0
+KBZYIH_165408	inside	1	50				
+//
+# KBZYIH_95195 Length: 33
+# KBZYIH_95195 Number of predicted TMRs: 0
+KBZYIH_95195	inside	1	33				
+//
+# KBZYIH_75182 Length: 48
+# KBZYIH_75182 Number of predicted TMRs: 0
+KBZYIH_75182	signal	1	44				
+KBZYIH_75182	outside	45	48				
+//
+# KBZYIH_5490 Length: 41
+# KBZYIH_5490 Number of predicted TMRs: 0
+KBZYIH_5490	inside	1	41				
+//
+# KBZYIH_142553 Length: 44
+# KBZYIH_142553 Number of predicted TMRs: 0
+KBZYIH_142553	signal	1	42				
+KBZYIH_142553	outside	43	44				
+//
+# KBZYIH_144483 Length: 46
+# KBZYIH_144483 Number of predicted TMRs: 0
+KBZYIH_144483	signal	1	38				
+KBZYIH_144483	outside	39	46				
+//
+# KBZYIH_11299 Length: 45
+# KBZYIH_11299 Number of predicted TMRs: 0
+KBZYIH_11299	signal	1	40				
+KBZYIH_11299	outside	41	45				
+//
+# KBZYIH_95665 Length: 48
+# KBZYIH_95665 Number of predicted TMRs: 0
+KBZYIH_95665	inside	1	48				
+//
+# KBZYIH_152835 Length: 47
+# KBZYIH_152835 Number of predicted TMRs: 0
+KBZYIH_152835	outside	1	47				
+//
+# KBZYIH_169005 Length: 49
+# KBZYIH_169005 Number of predicted TMRs: 0
+KBZYIH_169005	signal	1	17				
+KBZYIH_169005	outside	18	49				
+//
+# KBZYIH_80109 Length: 34
+# KBZYIH_80109 Number of predicted TMRs: 0
+KBZYIH_80109	signal	1	33				
+KBZYIH_80109	outside	34	34				
+//
+# KBZYIH_49500 Length: 42
+# KBZYIH_49500 Number of predicted TMRs: 0
+KBZYIH_49500	signal	1	39				
+KBZYIH_49500	outside	40	42				
+//
+# KBZYIH_12705 Length: 42
+# KBZYIH_12705 Number of predicted TMRs: 0
+KBZYIH_12705	inside	1	42				
+//
+# KBZYIH_172735 Length: 44
+# KBZYIH_172735 Number of predicted TMRs: 0
+KBZYIH_172735	inside	1	44				
+//
+# KBZYIH_15667 Length: 46
+# KBZYIH_15667 Number of predicted TMRs: 0
+KBZYIH_15667	signal	1	11				
+KBZYIH_15667	outside	12	46				
+//
+# KBZYIH_39531 Length: 49
+# KBZYIH_39531 Number of predicted TMRs: 0
+KBZYIH_39531	inside	1	49				
+//
+# KBZYIH_169632 Length: 46
+# KBZYIH_169632 Number of predicted TMRs: 0
+KBZYIH_169632	inside	1	46				
+//
+# KBZYIH_148183 Length: 50
+# KBZYIH_148183 Number of predicted TMRs: 0
+KBZYIH_148183	inside	1	50				
+//
+# KBZYIH_133184 Length: 50
+# KBZYIH_133184 Number of predicted TMRs: 0
+KBZYIH_133184	inside	1	50				
+//
+# KBZYIH_172975 Length: 43
+# KBZYIH_172975 Number of predicted TMRs: 0
+KBZYIH_172975	signal	1	42				
+KBZYIH_172975	outside	43	43				
+//
+# KBZYIH_154037 Length: 41
+# KBZYIH_154037 Number of predicted TMRs: 0
+KBZYIH_154037	inside	1	41				
+//
+# KBZYIH_18173 Length: 33
+# KBZYIH_18173 Number of predicted TMRs: 0
+KBZYIH_18173	signal	1	31				
+KBZYIH_18173	outside	32	33				
+//
+# KBZYIH_137171 Length: 42
+# KBZYIH_137171 Number of predicted TMRs: 0
+KBZYIH_137171	inside	1	42				
+//
+# KBZYIH_128275 Length: 50
+# KBZYIH_128275 Number of predicted TMRs: 0
+KBZYIH_128275	signal	1	28				
+KBZYIH_128275	outside	29	50				
+//
+# KBZYIH_13399 Length: 50
+# KBZYIH_13399 Number of predicted TMRs: 0
+KBZYIH_13399	signal	1	21				
+KBZYIH_13399	outside	22	50				
+//
+# KBZYIH_113401 Length: 50
+# KBZYIH_113401 Number of predicted TMRs: 0
+KBZYIH_113401	inside	1	50				
+//
+# KBZYIH_32481 Length: 45
+# KBZYIH_32481 Number of predicted TMRs: 0
+KBZYIH_32481	signal	1	24				
+KBZYIH_32481	outside	25	45				
+//
+# KBZYIH_30415 Length: 49
+# KBZYIH_30415 Number of predicted TMRs: 0
+KBZYIH_30415	signal	1	40				
+KBZYIH_30415	outside	41	49				
+//
+# KBZYIH_137744 Length: 45
+# KBZYIH_137744 Number of predicted TMRs: 0
+KBZYIH_137744	inside	1	45				
+//
+# KBZYIH_46120 Length: 50
+# KBZYIH_46120 Number of predicted TMRs: 0
+KBZYIH_46120	inside	1	50				
+//
+# KBZYIH_162368 Length: 37
+# KBZYIH_162368 Number of predicted TMRs: 0
+KBZYIH_162368	inside	1	37				
+//
+# KBZYIH_146892 Length: 49
+# KBZYIH_146892 Number of predicted TMRs: 0
+KBZYIH_146892	inside	1	49				
+//
+# KBZYIH_2737 Length: 46
+# KBZYIH_2737 Number of predicted TMRs: 0
+KBZYIH_2737	outside	1	46				
+//
+# KBZYIH_24936 Length: 46
+# KBZYIH_24936 Number of predicted TMRs: 0
+KBZYIH_24936	inside	1	46				
+//
+# KBZYIH_3660 Length: 48
+# KBZYIH_3660 Number of predicted TMRs: 0
+KBZYIH_3660	inside	1	48				
+//
+# KBZYIH_66575 Length: 47
+# KBZYIH_66575 Number of predicted TMRs: 0
+KBZYIH_66575	signal	1	32				
+KBZYIH_66575	outside	33	47				
+//
+# KBZYIH_91334 Length: 36
+# KBZYIH_91334 Number of predicted TMRs: 0
+KBZYIH_91334	signal	1	23				
+KBZYIH_91334	outside	24	36				
+//
+# KBZYIH_116136 Length: 49
+# KBZYIH_116136 Number of predicted TMRs: 0
+KBZYIH_116136	inside	1	49				
+//
+# KBZYIH_64313 Length: 44
+# KBZYIH_64313 Number of predicted TMRs: 0
+KBZYIH_64313	inside	1	44				
+//
+# KBZYIH_164936 Length: 44
+# KBZYIH_164936 Number of predicted TMRs: 0
+KBZYIH_164936	inside	1	44				
+//
+# KBZYIH_125798 Length: 47
+# KBZYIH_125798 Number of predicted TMRs: 0
+KBZYIH_125798	inside	1	47				
+//
+# KBZYIH_42209 Length: 48
+# KBZYIH_42209 Number of predicted TMRs: 0
+KBZYIH_42209	inside	1	48				
+//
+# KBZYIH_41503 Length: 39
+# KBZYIH_41503 Number of predicted TMRs: 0
+KBZYIH_41503	signal	1	38				
+KBZYIH_41503	outside	39	39				
+//
+# KBZYIH_95579 Length: 46
+# KBZYIH_95579 Number of predicted TMRs: 0
+KBZYIH_95579	signal	1	25				
+KBZYIH_95579	outside	26	46				
+//
+# KBZYIH_87763 Length: 46
+# KBZYIH_87763 Number of predicted TMRs: 0
+KBZYIH_87763	inside	1	46				
+//
+# KBZYIH_36526 Length: 43
+# KBZYIH_36526 Number of predicted TMRs: 0
+KBZYIH_36526	signal	1	40				
+KBZYIH_36526	outside	41	43				
+//
+# KBZYIH_37092 Length: 45
+# KBZYIH_37092 Number of predicted TMRs: 0
+KBZYIH_37092	inside	1	45				
+//
+# KBZYIH_143515 Length: 43
+# KBZYIH_143515 Number of predicted TMRs: 0
+KBZYIH_143515	inside	1	43				
+//
+# KBZYIH_38051 Length: 48
+# KBZYIH_38051 Number of predicted TMRs: 0
+KBZYIH_38051	inside	1	48				
+//
+# KBZYIH_170049 Length: 48
+# KBZYIH_170049 Number of predicted TMRs: 0
+KBZYIH_170049	inside	1	48				
+//
+# KBZYIH_40734 Length: 47
+# KBZYIH_40734 Number of predicted TMRs: 0
+KBZYIH_40734	inside	1	47				
+//
+# KBZYIH_129835 Length: 41
+# KBZYIH_129835 Number of predicted TMRs: 0
+KBZYIH_129835	inside	1	41				
+//
+# KBZYIH_117263 Length: 48
+# KBZYIH_117263 Number of predicted TMRs: 0
+KBZYIH_117263	signal	1	46				
+KBZYIH_117263	outside	47	48				
+//
+# KBZYIH_125679 Length: 47
+# KBZYIH_125679 Number of predicted TMRs: 0
+KBZYIH_125679	inside	1	47				
+//
+# KBZYIH_121725 Length: 37
+# KBZYIH_121725 Number of predicted TMRs: 0
+KBZYIH_121725	inside	1	37				
+//
+# KBZYIH_86954 Length: 34
+# KBZYIH_86954 Number of predicted TMRs: 0
+KBZYIH_86954	signal	1	20				
+KBZYIH_86954	outside	21	34				
+//
+# KBZYIH_133894 Length: 46
+# KBZYIH_133894 Number of predicted TMRs: 0
+KBZYIH_133894	signal	1	40				
+KBZYIH_133894	outside	41	46				
+//
+# KBZYIH_34042 Length: 50
+# KBZYIH_34042 Number of predicted TMRs: 0
+KBZYIH_34042	signal	1	44				
+KBZYIH_34042	outside	45	50				
+//
+# KBZYIH_93041 Length: 46
+# KBZYIH_93041 Number of predicted TMRs: 0
+KBZYIH_93041	outside	1	46				
+//
+# KBZYIH_33092 Length: 41
+# KBZYIH_33092 Number of predicted TMRs: 0
+KBZYIH_33092	signal	1	13				
+KBZYIH_33092	outside	14	41				
+//
+# KBZYIH_164982 Length: 38
+# KBZYIH_164982 Number of predicted TMRs: 0
+KBZYIH_164982	signal	1	37				
+KBZYIH_164982	outside	38	38				
+//
+# KBZYIH_117328 Length: 47
+# KBZYIH_117328 Number of predicted TMRs: 0
+KBZYIH_117328	signal	1	25				
+KBZYIH_117328	outside	26	47				

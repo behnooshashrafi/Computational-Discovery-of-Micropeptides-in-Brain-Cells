@@ -1,0 +1,4376 @@
+##gff-version 3
+# FNFHRZ_49193 Length: 41
+# FNFHRZ_49193 Number of predicted TMRs: 0
+FNFHRZ_49193	signal	1	36				
+FNFHRZ_49193	outside	37	41				
+//
+# FNFHRZ_118442 Length: 41
+# FNFHRZ_118442 Number of predicted TMRs: 0
+FNFHRZ_118442	signal	1	32				
+FNFHRZ_118442	outside	33	41				
+//
+# FNFHRZ_20777 Length: 48
+# FNFHRZ_20777 Number of predicted TMRs: 0
+FNFHRZ_20777	inside	1	48				
+//
+# FNFHRZ_122042 Length: 41
+# FNFHRZ_122042 Number of predicted TMRs: 0
+FNFHRZ_122042	outside	1	41				
+//
+# FNFHRZ_106334 Length: 40
+# FNFHRZ_106334 Number of predicted TMRs: 0
+FNFHRZ_106334	signal	1	14				
+FNFHRZ_106334	outside	15	40				
+//
+# FNFHRZ_53927 Length: 46
+# FNFHRZ_53927 Number of predicted TMRs: 0
+FNFHRZ_53927	inside	1	46				
+//
+# FNFHRZ_11214 Length: 42
+# FNFHRZ_11214 Number of predicted TMRs: 0
+FNFHRZ_11214	signal	1	38				
+FNFHRZ_11214	outside	39	42				
+//
+# FNFHRZ_21105 Length: 29
+# FNFHRZ_21105 Number of predicted TMRs: 0
+FNFHRZ_21105	signal	1	28				
+FNFHRZ_21105	outside	29	29				
+//
+# FNFHRZ_55197 Length: 50
+# FNFHRZ_55197 Number of predicted TMRs: 0
+FNFHRZ_55197	signal	1	43				
+FNFHRZ_55197	outside	44	50				
+//
+# FNFHRZ_135926 Length: 47
+# FNFHRZ_135926 Number of predicted TMRs: 1
+FNFHRZ_135926	outside	1	3				
+FNFHRZ_135926	TMhelix	4	19				
+FNFHRZ_135926	inside	20	47				
+//
+# FNFHRZ_56103 Length: 45
+# FNFHRZ_56103 Number of predicted TMRs: 0
+FNFHRZ_56103	inside	1	45				
+//
+# FNFHRZ_90057 Length: 42
+# FNFHRZ_90057 Number of predicted TMRs: 0
+FNFHRZ_90057	signal	1	27				
+FNFHRZ_90057	outside	28	42				
+//
+# FNFHRZ_40392 Length: 45
+# FNFHRZ_40392 Number of predicted TMRs: 0
+FNFHRZ_40392	inside	1	45				
+//
+# FNFHRZ_83200 Length: 42
+# FNFHRZ_83200 Number of predicted TMRs: 0
+FNFHRZ_83200	signal	1	18				
+FNFHRZ_83200	outside	19	42				
+//
+# FNFHRZ_42276 Length: 50
+# FNFHRZ_42276 Number of predicted TMRs: 0
+FNFHRZ_42276	inside	1	50				
+//
+# FNFHRZ_69134 Length: 49
+# FNFHRZ_69134 Number of predicted TMRs: 0
+FNFHRZ_69134	signal	1	47				
+FNFHRZ_69134	outside	48	49				
+//
+# FNFHRZ_64716 Length: 37
+# FNFHRZ_64716 Number of predicted TMRs: 0
+FNFHRZ_64716	inside	1	37				
+//
+# FNFHRZ_503 Length: 41
+# FNFHRZ_503 Number of predicted TMRs: 0
+FNFHRZ_503	inside	1	41				
+//
+# FNFHRZ_110350 Length: 49
+# FNFHRZ_110350 Number of predicted TMRs: 0
+FNFHRZ_110350	inside	1	49				
+//
+# FNFHRZ_52918 Length: 44
+# FNFHRZ_52918 Number of predicted TMRs: 0
+FNFHRZ_52918	inside	1	44				
+//
+# FNFHRZ_31425 Length: 46
+# FNFHRZ_31425 Number of predicted TMRs: 0
+FNFHRZ_31425	inside	1	46				
+//
+# FNFHRZ_42571 Length: 50
+# FNFHRZ_42571 Number of predicted TMRs: 0
+FNFHRZ_42571	signal	1	12				
+FNFHRZ_42571	outside	13	50				
+//
+# FNFHRZ_15915 Length: 39
+# FNFHRZ_15915 Number of predicted TMRs: 0
+FNFHRZ_15915	inside	1	39				
+//
+# FNFHRZ_151720 Length: 46
+# FNFHRZ_151720 Number of predicted TMRs: 0
+FNFHRZ_151720	inside	1	46				
+//
+# FNFHRZ_182 Length: 41
+# FNFHRZ_182 Number of predicted TMRs: 0
+FNFHRZ_182	signal	1	13				
+FNFHRZ_182	outside	14	41				
+//
+# FNFHRZ_50832 Length: 40
+# FNFHRZ_50832 Number of predicted TMRs: 0
+FNFHRZ_50832	inside	1	40				
+//
+# FNFHRZ_25856 Length: 42
+# FNFHRZ_25856 Number of predicted TMRs: 0
+FNFHRZ_25856	outside	1	42				
+//
+# FNFHRZ_104880 Length: 41
+# FNFHRZ_104880 Number of predicted TMRs: 0
+FNFHRZ_104880	signal	1	40				
+FNFHRZ_104880	outside	41	41				
+//
+# FNFHRZ_143941 Length: 37
+# FNFHRZ_143941 Number of predicted TMRs: 0
+FNFHRZ_143941	signal	1	30				
+FNFHRZ_143941	outside	31	37				
+//
+# FNFHRZ_122818 Length: 45
+# FNFHRZ_122818 Number of predicted TMRs: 0
+FNFHRZ_122818	signal	1	24				
+FNFHRZ_122818	outside	25	45				
+//
+# FNFHRZ_98390 Length: 50
+# FNFHRZ_98390 Number of predicted TMRs: 0
+FNFHRZ_98390	inside	1	50				
+//
+# FNFHRZ_141174 Length: 49
+# FNFHRZ_141174 Number of predicted TMRs: 0
+FNFHRZ_141174	outside	1	49				
+//
+# FNFHRZ_111907 Length: 41
+# FNFHRZ_111907 Number of predicted TMRs: 0
+FNFHRZ_111907	signal	1	29				
+FNFHRZ_111907	outside	30	41				
+//
+# FNFHRZ_44337 Length: 47
+# FNFHRZ_44337 Number of predicted TMRs: 0
+FNFHRZ_44337	signal	1	11				
+FNFHRZ_44337	outside	12	47				
+//
+# FNFHRZ_134597 Length: 46
+# FNFHRZ_134597 Number of predicted TMRs: 0
+FNFHRZ_134597	signal	1	45				
+FNFHRZ_134597	outside	46	46				
+//
+# FNFHRZ_32297 Length: 44
+# FNFHRZ_32297 Number of predicted TMRs: 0
+FNFHRZ_32297	inside	1	44				
+//
+# FNFHRZ_102687 Length: 50
+# FNFHRZ_102687 Number of predicted TMRs: 0
+FNFHRZ_102687	signal	1	49				
+FNFHRZ_102687	outside	50	50				
+//
+# FNFHRZ_40530 Length: 44
+# FNFHRZ_40530 Number of predicted TMRs: 0
+FNFHRZ_40530	inside	1	44				
+//
+# FNFHRZ_6802 Length: 42
+# FNFHRZ_6802 Number of predicted TMRs: 0
+FNFHRZ_6802	signal	1	32				
+FNFHRZ_6802	outside	33	42				
+//
+# FNFHRZ_67377 Length: 50
+# FNFHRZ_67377 Number of predicted TMRs: 0
+FNFHRZ_67377	signal	1	11				
+FNFHRZ_67377	outside	12	50				
+//
+# FNFHRZ_20301 Length: 35
+# FNFHRZ_20301 Number of predicted TMRs: 0
+FNFHRZ_20301	inside	1	35				
+//
+# FNFHRZ_92039 Length: 43
+# FNFHRZ_92039 Number of predicted TMRs: 0
+FNFHRZ_92039	signal	1	18				
+FNFHRZ_92039	outside	19	43				
+//
+# FNFHRZ_156724 Length: 46
+# FNFHRZ_156724 Number of predicted TMRs: 0
+FNFHRZ_156724	inside	1	46				
+//
+# FNFHRZ_7870 Length: 48
+# FNFHRZ_7870 Number of predicted TMRs: 0
+FNFHRZ_7870	inside	1	48				
+//
+# FNFHRZ_122145 Length: 40
+# FNFHRZ_122145 Number of predicted TMRs: 0
+FNFHRZ_122145	signal	1	39				
+FNFHRZ_122145	outside	40	40				
+//
+# FNFHRZ_135864 Length: 43
+# FNFHRZ_135864 Number of predicted TMRs: 0
+FNFHRZ_135864	signal	1	38				
+FNFHRZ_135864	outside	39	43				
+//
+# FNFHRZ_93705 Length: 32
+# FNFHRZ_93705 Number of predicted TMRs: 0
+FNFHRZ_93705	signal	1	27				
+FNFHRZ_93705	outside	28	32				
+//
+# FNFHRZ_10835 Length: 48
+# FNFHRZ_10835 Number of predicted TMRs: 0
+FNFHRZ_10835	inside	1	48				
+//
+# FNFHRZ_100498 Length: 46
+# FNFHRZ_100498 Number of predicted TMRs: 0
+FNFHRZ_100498	inside	1	46				
+//
+# FNFHRZ_29696 Length: 35
+# FNFHRZ_29696 Number of predicted TMRs: 0
+FNFHRZ_29696	inside	1	35				
+//
+# FNFHRZ_99264 Length: 41
+# FNFHRZ_99264 Number of predicted TMRs: 0
+FNFHRZ_99264	inside	1	41				
+//
+# FNFHRZ_96988 Length: 45
+# FNFHRZ_96988 Number of predicted TMRs: 0
+FNFHRZ_96988	inside	1	45				
+//
+# FNFHRZ_45525 Length: 44
+# FNFHRZ_45525 Number of predicted TMRs: 0
+FNFHRZ_45525	signal	1	43				
+FNFHRZ_45525	outside	44	44				
+//
+# FNFHRZ_139965 Length: 49
+# FNFHRZ_139965 Number of predicted TMRs: 0
+FNFHRZ_139965	inside	1	49				
+//
+# FNFHRZ_133043 Length: 49
+# FNFHRZ_133043 Number of predicted TMRs: 0
+FNFHRZ_133043	signal	1	40				
+FNFHRZ_133043	outside	41	49				
+//
+# FNFHRZ_69907 Length: 46
+# FNFHRZ_69907 Number of predicted TMRs: 0
+FNFHRZ_69907	signal	1	43				
+FNFHRZ_69907	outside	44	46				
+//
+# FNFHRZ_53806 Length: 49
+# FNFHRZ_53806 Number of predicted TMRs: 0
+FNFHRZ_53806	signal	1	22				
+FNFHRZ_53806	outside	23	49				
+//
+# FNFHRZ_26402 Length: 50
+# FNFHRZ_26402 Number of predicted TMRs: 0
+FNFHRZ_26402	inside	1	50				
+//
+# FNFHRZ_2489 Length: 44
+# FNFHRZ_2489 Number of predicted TMRs: 1
+FNFHRZ_2489	inside	1	18				
+FNFHRZ_2489	TMhelix	19	39				
+FNFHRZ_2489	outside	40	44				
+//
+# FNFHRZ_14522 Length: 47
+# FNFHRZ_14522 Number of predicted TMRs: 0
+FNFHRZ_14522	inside	1	47				
+//
+# FNFHRZ_129247 Length: 48
+# FNFHRZ_129247 Number of predicted TMRs: 0
+FNFHRZ_129247	inside	1	48				
+//
+# FNFHRZ_46087 Length: 47
+# FNFHRZ_46087 Number of predicted TMRs: 0
+FNFHRZ_46087	signal	1	41				
+FNFHRZ_46087	outside	42	47				
+//
+# FNFHRZ_55517 Length: 46
+# FNFHRZ_55517 Number of predicted TMRs: 1
+FNFHRZ_55517	signal	1	10				
+FNFHRZ_55517	outside	11	11				
+FNFHRZ_55517	TMhelix	12	32				
+FNFHRZ_55517	inside	33	46				
+//
+# FNFHRZ_93964 Length: 41
+# FNFHRZ_93964 Number of predicted TMRs: 0
+FNFHRZ_93964	inside	1	41				
+//
+# FNFHRZ_99646 Length: 46
+# FNFHRZ_99646 Number of predicted TMRs: 0
+FNFHRZ_99646	inside	1	46				
+//
+# FNFHRZ_93337 Length: 45
+# FNFHRZ_93337 Number of predicted TMRs: 0
+FNFHRZ_93337	signal	1	21				
+FNFHRZ_93337	outside	22	45				
+//
+# FNFHRZ_58662 Length: 41
+# FNFHRZ_58662 Number of predicted TMRs: 0
+FNFHRZ_58662	inside	1	41				
+//
+# FNFHRZ_18083 Length: 37
+# FNFHRZ_18083 Number of predicted TMRs: 0
+FNFHRZ_18083	signal	1	34				
+FNFHRZ_18083	outside	35	37				
+//
+# FNFHRZ_88338 Length: 38
+# FNFHRZ_88338 Number of predicted TMRs: 0
+FNFHRZ_88338	signal	1	37				
+FNFHRZ_88338	outside	38	38				
+//
+# FNFHRZ_124784 Length: 47
+# FNFHRZ_124784 Number of predicted TMRs: 0
+FNFHRZ_124784	signal	1	41				
+FNFHRZ_124784	outside	42	47				
+//
+# FNFHRZ_165104 Length: 37
+# FNFHRZ_165104 Number of predicted TMRs: 0
+FNFHRZ_165104	signal	1	11				
+FNFHRZ_165104	outside	12	37				
+//
+# FNFHRZ_140657 Length: 50
+# FNFHRZ_140657 Number of predicted TMRs: 0
+FNFHRZ_140657	outside	1	50				
+//
+# FNFHRZ_139728 Length: 39
+# FNFHRZ_139728 Number of predicted TMRs: 0
+FNFHRZ_139728	signal	1	38				
+FNFHRZ_139728	outside	39	39				
+//
+# FNFHRZ_88968 Length: 42
+# FNFHRZ_88968 Number of predicted TMRs: 0
+FNFHRZ_88968	inside	1	42				
+//
+# FNFHRZ_115046 Length: 44
+# FNFHRZ_115046 Number of predicted TMRs: 0
+FNFHRZ_115046	signal	1	43				
+FNFHRZ_115046	outside	44	44				
+//
+# FNFHRZ_50989 Length: 37
+# FNFHRZ_50989 Number of predicted TMRs: 0
+FNFHRZ_50989	inside	1	37				
+//
+# FNFHRZ_12765 Length: 49
+# FNFHRZ_12765 Number of predicted TMRs: 0
+FNFHRZ_12765	inside	1	49				
+//
+# FNFHRZ_90826 Length: 47
+# FNFHRZ_90826 Number of predicted TMRs: 0
+FNFHRZ_90826	inside	1	47				
+//
+# FNFHRZ_125929 Length: 45
+# FNFHRZ_125929 Number of predicted TMRs: 0
+FNFHRZ_125929	signal	1	41				
+FNFHRZ_125929	outside	42	45				
+//
+# FNFHRZ_53267 Length: 47
+# FNFHRZ_53267 Number of predicted TMRs: 0
+FNFHRZ_53267	signal	1	18				
+FNFHRZ_53267	outside	19	47				
+//
+# FNFHRZ_17807 Length: 37
+# FNFHRZ_17807 Number of predicted TMRs: 0
+FNFHRZ_17807	inside	1	37				
+//
+# FNFHRZ_171125 Length: 47
+# FNFHRZ_171125 Number of predicted TMRs: 0
+FNFHRZ_171125	signal	1	14				
+FNFHRZ_171125	outside	15	47				
+//
+# FNFHRZ_100815 Length: 46
+# FNFHRZ_100815 Number of predicted TMRs: 0
+FNFHRZ_100815	inside	1	46				
+//
+# FNFHRZ_61272 Length: 44
+# FNFHRZ_61272 Number of predicted TMRs: 0
+FNFHRZ_61272	inside	1	44				
+//
+# FNFHRZ_140165 Length: 44
+# FNFHRZ_140165 Number of predicted TMRs: 0
+FNFHRZ_140165	signal	1	43				
+FNFHRZ_140165	outside	44	44				
+//
+# FNFHRZ_87901 Length: 45
+# FNFHRZ_87901 Number of predicted TMRs: 0
+FNFHRZ_87901	inside	1	45				
+//
+# FNFHRZ_136249 Length: 36
+# FNFHRZ_136249 Number of predicted TMRs: 0
+FNFHRZ_136249	inside	1	36				
+//
+# FNFHRZ_51704 Length: 50
+# FNFHRZ_51704 Number of predicted TMRs: 0
+FNFHRZ_51704	inside	1	50				
+//
+# FNFHRZ_123290 Length: 40
+# FNFHRZ_123290 Number of predicted TMRs: 0
+FNFHRZ_123290	signal	1	35				
+FNFHRZ_123290	outside	36	40				
+//
+# FNFHRZ_86197 Length: 39
+# FNFHRZ_86197 Number of predicted TMRs: 0
+FNFHRZ_86197	inside	1	39				
+//
+# FNFHRZ_128855 Length: 33
+# FNFHRZ_128855 Number of predicted TMRs: 0
+FNFHRZ_128855	inside	1	33				
+//
+# FNFHRZ_152016 Length: 37
+# FNFHRZ_152016 Number of predicted TMRs: 0
+FNFHRZ_152016	inside	1	37				
+//
+# FNFHRZ_144221 Length: 38
+# FNFHRZ_144221 Number of predicted TMRs: 0
+FNFHRZ_144221	signal	1	22				
+FNFHRZ_144221	outside	23	38				
+//
+# FNFHRZ_144239 Length: 45
+# FNFHRZ_144239 Number of predicted TMRs: 0
+FNFHRZ_144239	inside	1	45				
+//
+# FNFHRZ_4845 Length: 46
+# FNFHRZ_4845 Number of predicted TMRs: 0
+FNFHRZ_4845	inside	1	46				
+//
+# FNFHRZ_164360 Length: 39
+# FNFHRZ_164360 Number of predicted TMRs: 0
+FNFHRZ_164360	inside	1	39				
+//
+# FNFHRZ_93424 Length: 34
+# FNFHRZ_93424 Number of predicted TMRs: 0
+FNFHRZ_93424	inside	1	34				
+//
+# FNFHRZ_137456 Length: 47
+# FNFHRZ_137456 Number of predicted TMRs: 0
+FNFHRZ_137456	inside	1	47				
+//
+# FNFHRZ_13396 Length: 46
+# FNFHRZ_13396 Number of predicted TMRs: 0
+FNFHRZ_13396	signal	1	26				
+FNFHRZ_13396	outside	27	46				
+//
+# FNFHRZ_25236 Length: 47
+# FNFHRZ_25236 Number of predicted TMRs: 0
+FNFHRZ_25236	inside	1	47				
+//
+# FNFHRZ_38670 Length: 46
+# FNFHRZ_38670 Number of predicted TMRs: 0
+FNFHRZ_38670	signal	1	23				
+FNFHRZ_38670	outside	24	46				
+//
+# FNFHRZ_34597 Length: 37
+# FNFHRZ_34597 Number of predicted TMRs: 0
+FNFHRZ_34597	signal	1	13				
+FNFHRZ_34597	outside	14	37				
+//
+# FNFHRZ_113205 Length: 49
+# FNFHRZ_113205 Number of predicted TMRs: 0
+FNFHRZ_113205	signal	1	14				
+FNFHRZ_113205	outside	15	49				
+//
+# FNFHRZ_125928 Length: 50
+# FNFHRZ_125928 Number of predicted TMRs: 0
+FNFHRZ_125928	inside	1	50				
+//
+# FNFHRZ_136104 Length: 47
+# FNFHRZ_136104 Number of predicted TMRs: 0
+FNFHRZ_136104	inside	1	47				
+//
+# FNFHRZ_19161 Length: 45
+# FNFHRZ_19161 Number of predicted TMRs: 0
+FNFHRZ_19161	inside	1	45				
+//
+# FNFHRZ_25054 Length: 37
+# FNFHRZ_25054 Number of predicted TMRs: 0
+FNFHRZ_25054	signal	1	35				
+FNFHRZ_25054	outside	36	37				
+//
+# FNFHRZ_73319 Length: 45
+# FNFHRZ_73319 Number of predicted TMRs: 0
+FNFHRZ_73319	inside	1	45				
+//
+# FNFHRZ_106975 Length: 44
+# FNFHRZ_106975 Number of predicted TMRs: 0
+FNFHRZ_106975	signal	1	20				
+FNFHRZ_106975	outside	21	44				
+//
+# FNFHRZ_92309 Length: 47
+# FNFHRZ_92309 Number of predicted TMRs: 0
+FNFHRZ_92309	inside	1	47				
+//
+# FNFHRZ_143591 Length: 49
+# FNFHRZ_143591 Number of predicted TMRs: 0
+FNFHRZ_143591	inside	1	49				
+//
+# FNFHRZ_162629 Length: 43
+# FNFHRZ_162629 Number of predicted TMRs: 0
+FNFHRZ_162629	signal	1	13				
+FNFHRZ_162629	outside	14	43				
+//
+# FNFHRZ_113002 Length: 48
+# FNFHRZ_113002 Number of predicted TMRs: 1
+FNFHRZ_113002	outside	1	14				
+FNFHRZ_113002	TMhelix	15	35				
+FNFHRZ_113002	inside	36	48				
+//
+# FNFHRZ_19155 Length: 41
+# FNFHRZ_19155 Number of predicted TMRs: 0
+FNFHRZ_19155	signal	1	30				
+FNFHRZ_19155	outside	31	41				
+//
+# FNFHRZ_21860 Length: 49
+# FNFHRZ_21860 Number of predicted TMRs: 0
+FNFHRZ_21860	signal	1	47				
+FNFHRZ_21860	outside	48	49				
+//
+# FNFHRZ_8019 Length: 47
+# FNFHRZ_8019 Number of predicted TMRs: 0
+FNFHRZ_8019	outside	1	47				
+//
+# FNFHRZ_141868 Length: 48
+# FNFHRZ_141868 Number of predicted TMRs: 0
+FNFHRZ_141868	inside	1	48				
+//
+# FNFHRZ_80363 Length: 48
+# FNFHRZ_80363 Number of predicted TMRs: 0
+FNFHRZ_80363	inside	1	48				
+//
+# FNFHRZ_68819 Length: 44
+# FNFHRZ_68819 Number of predicted TMRs: 0
+FNFHRZ_68819	inside	1	44				
+//
+# FNFHRZ_128089 Length: 34
+# FNFHRZ_128089 Number of predicted TMRs: 0
+FNFHRZ_128089	signal	1	27				
+FNFHRZ_128089	outside	28	34				
+//
+# FNFHRZ_109904 Length: 43
+# FNFHRZ_109904 Number of predicted TMRs: 0
+FNFHRZ_109904	inside	1	43				
+//
+# FNFHRZ_12321 Length: 49
+# FNFHRZ_12321 Number of predicted TMRs: 0
+FNFHRZ_12321	inside	1	49				
+//
+# FNFHRZ_20490 Length: 50
+# FNFHRZ_20490 Number of predicted TMRs: 0
+FNFHRZ_20490	inside	1	50				
+//
+# FNFHRZ_85319 Length: 48
+# FNFHRZ_85319 Number of predicted TMRs: 0
+FNFHRZ_85319	signal	1	47				
+FNFHRZ_85319	outside	48	48				
+//
+# FNFHRZ_18797 Length: 45
+# FNFHRZ_18797 Number of predicted TMRs: 0
+FNFHRZ_18797	inside	1	45				
+//
+# FNFHRZ_714 Length: 47
+# FNFHRZ_714 Number of predicted TMRs: 0
+FNFHRZ_714	inside	1	47				
+//
+# FNFHRZ_700 Length: 45
+# FNFHRZ_700 Number of predicted TMRs: 0
+FNFHRZ_700	inside	1	45				
+//
+# FNFHRZ_143597 Length: 49
+# FNFHRZ_143597 Number of predicted TMRs: 0
+FNFHRZ_143597	inside	1	49				
+//
+# FNFHRZ_23916 Length: 50
+# FNFHRZ_23916 Number of predicted TMRs: 0
+FNFHRZ_23916	inside	1	50				
+//
+# FNFHRZ_143851 Length: 45
+# FNFHRZ_143851 Number of predicted TMRs: 0
+FNFHRZ_143851	signal	1	20				
+FNFHRZ_143851	outside	21	45				
+//
+# FNFHRZ_82691 Length: 46
+# FNFHRZ_82691 Number of predicted TMRs: 0
+FNFHRZ_82691	signal	1	45				
+FNFHRZ_82691	outside	46	46				
+//
+# FNFHRZ_17297 Length: 46
+# FNFHRZ_17297 Number of predicted TMRs: 0
+FNFHRZ_17297	signal	1	45				
+FNFHRZ_17297	outside	46	46				
+//
+# FNFHRZ_97633 Length: 43
+# FNFHRZ_97633 Number of predicted TMRs: 0
+FNFHRZ_97633	inside	1	43				
+//
+# FNFHRZ_120884 Length: 50
+# FNFHRZ_120884 Number of predicted TMRs: 0
+FNFHRZ_120884	signal	1	48				
+FNFHRZ_120884	outside	49	50				
+//
+# FNFHRZ_109218 Length: 35
+# FNFHRZ_109218 Number of predicted TMRs: 0
+FNFHRZ_109218	signal	1	33				
+FNFHRZ_109218	outside	34	35				
+//
+# FNFHRZ_138340 Length: 47
+# FNFHRZ_138340 Number of predicted TMRs: 0
+FNFHRZ_138340	signal	1	45				
+FNFHRZ_138340	outside	46	47				
+//
+# FNFHRZ_139407 Length: 42
+# FNFHRZ_139407 Number of predicted TMRs: 0
+FNFHRZ_139407	inside	1	42				
+//
+# FNFHRZ_161901 Length: 41
+# FNFHRZ_161901 Number of predicted TMRs: 0
+FNFHRZ_161901	inside	1	41				
+//
+# FNFHRZ_99275 Length: 50
+# FNFHRZ_99275 Number of predicted TMRs: 0
+FNFHRZ_99275	signal	1	17				
+FNFHRZ_99275	outside	18	50				
+//
+# FNFHRZ_95440 Length: 39
+# FNFHRZ_95440 Number of predicted TMRs: 0
+FNFHRZ_95440	inside	1	39				
+//
+# FNFHRZ_32379 Length: 36
+# FNFHRZ_32379 Number of predicted TMRs: 0
+FNFHRZ_32379	inside	1	36				
+//
+# FNFHRZ_57227 Length: 41
+# FNFHRZ_57227 Number of predicted TMRs: 0
+FNFHRZ_57227	inside	1	41				
+//
+# FNFHRZ_38562 Length: 47
+# FNFHRZ_38562 Number of predicted TMRs: 0
+FNFHRZ_38562	signal	1	35				
+FNFHRZ_38562	outside	36	47				
+//
+# FNFHRZ_167706 Length: 35
+# FNFHRZ_167706 Number of predicted TMRs: 0
+FNFHRZ_167706	signal	1	32				
+FNFHRZ_167706	outside	33	35				
+//
+# FNFHRZ_13153 Length: 48
+# FNFHRZ_13153 Number of predicted TMRs: 0
+FNFHRZ_13153	inside	1	48				
+//
+# FNFHRZ_18996 Length: 40
+# FNFHRZ_18996 Number of predicted TMRs: 0
+FNFHRZ_18996	signal	1	39				
+FNFHRZ_18996	outside	40	40				
+//
+# FNFHRZ_31238 Length: 42
+# FNFHRZ_31238 Number of predicted TMRs: 0
+FNFHRZ_31238	signal	1	35				
+FNFHRZ_31238	outside	36	42				
+//
+# FNFHRZ_2922 Length: 50
+# FNFHRZ_2922 Number of predicted TMRs: 0
+FNFHRZ_2922	inside	1	50				
+//
+# FNFHRZ_141672 Length: 46
+# FNFHRZ_141672 Number of predicted TMRs: 0
+FNFHRZ_141672	inside	1	46				
+//
+# FNFHRZ_125757 Length: 46
+# FNFHRZ_125757 Number of predicted TMRs: 0
+FNFHRZ_125757	inside	1	46				
+//
+# FNFHRZ_120730 Length: 39
+# FNFHRZ_120730 Number of predicted TMRs: 0
+FNFHRZ_120730	inside	1	39				
+//
+# FNFHRZ_123513 Length: 48
+# FNFHRZ_123513 Number of predicted TMRs: 0
+FNFHRZ_123513	signal	1	46				
+FNFHRZ_123513	outside	47	48				
+//
+# FNFHRZ_95623 Length: 47
+# FNFHRZ_95623 Number of predicted TMRs: 0
+FNFHRZ_95623	signal	1	16				
+FNFHRZ_95623	outside	17	47				
+//
+# FNFHRZ_6340 Length: 48
+# FNFHRZ_6340 Number of predicted TMRs: 0
+FNFHRZ_6340	inside	1	48				
+//
+# FNFHRZ_2754 Length: 36
+# FNFHRZ_2754 Number of predicted TMRs: 0
+FNFHRZ_2754	signal	1	34				
+FNFHRZ_2754	outside	35	36				
+//
+# FNFHRZ_99975 Length: 24
+# FNFHRZ_99975 Number of predicted TMRs: 0
+FNFHRZ_99975	inside	1	24				
+//
+# FNFHRZ_111799 Length: 33
+# FNFHRZ_111799 Number of predicted TMRs: 0
+FNFHRZ_111799	signal	1	32				
+FNFHRZ_111799	outside	33	33				
+//
+# FNFHRZ_109646 Length: 44
+# FNFHRZ_109646 Number of predicted TMRs: 0
+FNFHRZ_109646	inside	1	44				
+//
+# FNFHRZ_146907 Length: 40
+# FNFHRZ_146907 Number of predicted TMRs: 0
+FNFHRZ_146907	signal	1	39				
+FNFHRZ_146907	outside	40	40				
+//
+# FNFHRZ_1223 Length: 35
+# FNFHRZ_1223 Number of predicted TMRs: 0
+FNFHRZ_1223	signal	1	18				
+FNFHRZ_1223	outside	19	35				
+//
+# FNFHRZ_29085 Length: 47
+# FNFHRZ_29085 Number of predicted TMRs: 0
+FNFHRZ_29085	signal	1	10				
+FNFHRZ_29085	outside	11	47				
+//
+# FNFHRZ_74176 Length: 42
+# FNFHRZ_74176 Number of predicted TMRs: 0
+FNFHRZ_74176	inside	1	42				
+//
+# FNFHRZ_35652 Length: 39
+# FNFHRZ_35652 Number of predicted TMRs: 0
+FNFHRZ_35652	inside	1	39				
+//
+# FNFHRZ_103481 Length: 45
+# FNFHRZ_103481 Number of predicted TMRs: 0
+FNFHRZ_103481	signal	1	17				
+FNFHRZ_103481	outside	18	45				
+//
+# FNFHRZ_40832 Length: 42
+# FNFHRZ_40832 Number of predicted TMRs: 0
+FNFHRZ_40832	inside	1	42				
+//
+# FNFHRZ_132365 Length: 48
+# FNFHRZ_132365 Number of predicted TMRs: 0
+FNFHRZ_132365	inside	1	48				
+//
+# FNFHRZ_42128 Length: 45
+# FNFHRZ_42128 Number of predicted TMRs: 0
+FNFHRZ_42128	inside	1	45				
+//
+# FNFHRZ_114576 Length: 39
+# FNFHRZ_114576 Number of predicted TMRs: 0
+FNFHRZ_114576	inside	1	39				
+//
+# FNFHRZ_37275 Length: 43
+# FNFHRZ_37275 Number of predicted TMRs: 0
+FNFHRZ_37275	inside	1	43				
+//
+# FNFHRZ_122089 Length: 44
+# FNFHRZ_122089 Number of predicted TMRs: 0
+FNFHRZ_122089	inside	1	44				
+//
+# FNFHRZ_74758 Length: 49
+# FNFHRZ_74758 Number of predicted TMRs: 0
+FNFHRZ_74758	inside	1	49				
+//
+# FNFHRZ_139763 Length: 48
+# FNFHRZ_139763 Number of predicted TMRs: 0
+FNFHRZ_139763	signal	1	47				
+FNFHRZ_139763	outside	48	48				
+//
+# FNFHRZ_34992 Length: 45
+# FNFHRZ_34992 Number of predicted TMRs: 0
+FNFHRZ_34992	inside	1	45				
+//
+# FNFHRZ_93165 Length: 48
+# FNFHRZ_93165 Number of predicted TMRs: 0
+FNFHRZ_93165	signal	1	12				
+FNFHRZ_93165	outside	13	48				
+//
+# FNFHRZ_149005 Length: 40
+# FNFHRZ_149005 Number of predicted TMRs: 0
+FNFHRZ_149005	inside	1	40				
+//
+# FNFHRZ_37481 Length: 49
+# FNFHRZ_37481 Number of predicted TMRs: 0
+FNFHRZ_37481	inside	1	49				
+//
+# FNFHRZ_83612 Length: 42
+# FNFHRZ_83612 Number of predicted TMRs: 0
+FNFHRZ_83612	signal	1	26				
+FNFHRZ_83612	outside	27	42				
+//
+# FNFHRZ_152415 Length: 45
+# FNFHRZ_152415 Number of predicted TMRs: 0
+FNFHRZ_152415	signal	1	22				
+FNFHRZ_152415	outside	23	45				
+//
+# FNFHRZ_16471 Length: 48
+# FNFHRZ_16471 Number of predicted TMRs: 0
+FNFHRZ_16471	inside	1	48				
+//
+# FNFHRZ_75360 Length: 37
+# FNFHRZ_75360 Number of predicted TMRs: 0
+FNFHRZ_75360	inside	1	37				
+//
+# FNFHRZ_1181 Length: 48
+# FNFHRZ_1181 Number of predicted TMRs: 0
+FNFHRZ_1181	inside	1	48				
+//
+# FNFHRZ_62172 Length: 32
+# FNFHRZ_62172 Number of predicted TMRs: 0
+FNFHRZ_62172	signal	1	31				
+FNFHRZ_62172	outside	32	32				
+//
+# FNFHRZ_148543 Length: 46
+# FNFHRZ_148543 Number of predicted TMRs: 0
+FNFHRZ_148543	inside	1	46				
+//
+# FNFHRZ_86717 Length: 50
+# FNFHRZ_86717 Number of predicted TMRs: 0
+FNFHRZ_86717	signal	1	45				
+FNFHRZ_86717	outside	46	50				
+//
+# FNFHRZ_109569 Length: 43
+# FNFHRZ_109569 Number of predicted TMRs: 0
+FNFHRZ_109569	inside	1	43				
+//
+# FNFHRZ_103929 Length: 37
+# FNFHRZ_103929 Number of predicted TMRs: 0
+FNFHRZ_103929	inside	1	37				
+//
+# FNFHRZ_84896 Length: 28
+# FNFHRZ_84896 Number of predicted TMRs: 0
+FNFHRZ_84896	outside	1	28				
+//
+# FNFHRZ_68610 Length: 48
+# FNFHRZ_68610 Number of predicted TMRs: 0
+FNFHRZ_68610	inside	1	48				
+//
+# FNFHRZ_155878 Length: 44
+# FNFHRZ_155878 Number of predicted TMRs: 0
+FNFHRZ_155878	inside	1	44				
+//
+# FNFHRZ_146418 Length: 37
+# FNFHRZ_146418 Number of predicted TMRs: 0
+FNFHRZ_146418	signal	1	36				
+FNFHRZ_146418	outside	37	37				
+//
+# FNFHRZ_122023 Length: 50
+# FNFHRZ_122023 Number of predicted TMRs: 0
+FNFHRZ_122023	inside	1	50				
+//
+# FNFHRZ_145438 Length: 50
+# FNFHRZ_145438 Number of predicted TMRs: 0
+FNFHRZ_145438	inside	1	50				
+//
+# FNFHRZ_54428 Length: 45
+# FNFHRZ_54428 Number of predicted TMRs: 0
+FNFHRZ_54428	inside	1	45				
+//
+# FNFHRZ_127768 Length: 44
+# FNFHRZ_127768 Number of predicted TMRs: 0
+FNFHRZ_127768	inside	1	44				
+//
+# FNFHRZ_102455 Length: 47
+# FNFHRZ_102455 Number of predicted TMRs: 0
+FNFHRZ_102455	inside	1	47				
+//
+# FNFHRZ_7986 Length: 34
+# FNFHRZ_7986 Number of predicted TMRs: 0
+FNFHRZ_7986	signal	1	15				
+FNFHRZ_7986	outside	16	34				
+//
+# FNFHRZ_153058 Length: 44
+# FNFHRZ_153058 Number of predicted TMRs: 0
+FNFHRZ_153058	signal	1	40				
+FNFHRZ_153058	outside	41	44				
+//
+# FNFHRZ_126600 Length: 48
+# FNFHRZ_126600 Number of predicted TMRs: 0
+FNFHRZ_126600	signal	1	10				
+FNFHRZ_126600	outside	11	48				
+//
+# FNFHRZ_103811 Length: 43
+# FNFHRZ_103811 Number of predicted TMRs: 0
+FNFHRZ_103811	signal	1	35				
+FNFHRZ_103811	outside	36	43				
+//
+# FNFHRZ_96319 Length: 43
+# FNFHRZ_96319 Number of predicted TMRs: 0
+FNFHRZ_96319	inside	1	43				
+//
+# FNFHRZ_140711 Length: 49
+# FNFHRZ_140711 Number of predicted TMRs: 0
+FNFHRZ_140711	signal	1	32				
+FNFHRZ_140711	outside	33	49				
+//
+# FNFHRZ_161373 Length: 45
+# FNFHRZ_161373 Number of predicted TMRs: 0
+FNFHRZ_161373	inside	1	45				
+//
+# FNFHRZ_15344 Length: 50
+# FNFHRZ_15344 Number of predicted TMRs: 0
+FNFHRZ_15344	signal	1	10				
+FNFHRZ_15344	outside	11	50				
+//
+# FNFHRZ_76285 Length: 43
+# FNFHRZ_76285 Number of predicted TMRs: 0
+FNFHRZ_76285	signal	1	19				
+FNFHRZ_76285	outside	20	43				
+//
+# FNFHRZ_147429 Length: 46
+# FNFHRZ_147429 Number of predicted TMRs: 0
+FNFHRZ_147429	inside	1	46				
+//
+# FNFHRZ_118867 Length: 47
+# FNFHRZ_118867 Number of predicted TMRs: 0
+FNFHRZ_118867	signal	1	37				
+FNFHRZ_118867	outside	38	47				
+//
+# FNFHRZ_33114 Length: 28
+# FNFHRZ_33114 Number of predicted TMRs: 0
+FNFHRZ_33114	signal	1	27				
+FNFHRZ_33114	outside	28	28				
+//
+# FNFHRZ_122552 Length: 45
+# FNFHRZ_122552 Number of predicted TMRs: 0
+FNFHRZ_122552	outside	1	45				
+//
+# FNFHRZ_82293 Length: 40
+# FNFHRZ_82293 Number of predicted TMRs: 0
+FNFHRZ_82293	inside	1	40				
+//
+# FNFHRZ_129322 Length: 44
+# FNFHRZ_129322 Number of predicted TMRs: 0
+FNFHRZ_129322	signal	1	42				
+FNFHRZ_129322	outside	43	44				
+//
+# FNFHRZ_118199 Length: 46
+# FNFHRZ_118199 Number of predicted TMRs: 0
+FNFHRZ_118199	signal	1	43				
+FNFHRZ_118199	outside	44	46				
+//
+# FNFHRZ_114104 Length: 28
+# FNFHRZ_114104 Number of predicted TMRs: 0
+FNFHRZ_114104	inside	1	28				
+//
+# FNFHRZ_95178 Length: 28
+# FNFHRZ_95178 Number of predicted TMRs: 0
+FNFHRZ_95178	inside	1	28				
+//
+# FNFHRZ_164695 Length: 46
+# FNFHRZ_164695 Number of predicted TMRs: 0
+FNFHRZ_164695	outside	1	46				
+//
+# FNFHRZ_115727 Length: 28
+# FNFHRZ_115727 Number of predicted TMRs: 0
+FNFHRZ_115727	signal	1	26				
+FNFHRZ_115727	outside	27	28				
+//
+# FNFHRZ_136094 Length: 42
+# FNFHRZ_136094 Number of predicted TMRs: 0
+FNFHRZ_136094	inside	1	42				
+//
+# FNFHRZ_111409 Length: 47
+# FNFHRZ_111409 Number of predicted TMRs: 0
+FNFHRZ_111409	signal	1	25				
+FNFHRZ_111409	outside	26	47				
+//
+# FNFHRZ_160384 Length: 37
+# FNFHRZ_160384 Number of predicted TMRs: 0
+FNFHRZ_160384	inside	1	37				
+//
+# FNFHRZ_146929 Length: 45
+# FNFHRZ_146929 Number of predicted TMRs: 0
+FNFHRZ_146929	inside	1	45				
+//
+# FNFHRZ_98620 Length: 45
+# FNFHRZ_98620 Number of predicted TMRs: 0
+FNFHRZ_98620	inside	1	45				
+//
+# FNFHRZ_84898 Length: 35
+# FNFHRZ_84898 Number of predicted TMRs: 0
+FNFHRZ_84898	outside	1	35				
+//
+# FNFHRZ_106782 Length: 35
+# FNFHRZ_106782 Number of predicted TMRs: 0
+FNFHRZ_106782	outside	1	35				
+//
+# FNFHRZ_84899 Length: 48
+# FNFHRZ_84899 Number of predicted TMRs: 0
+FNFHRZ_84899	inside	1	48				
+//
+# FNFHRZ_20766 Length: 41
+# FNFHRZ_20766 Number of predicted TMRs: 0
+FNFHRZ_20766	signal	1	28				
+FNFHRZ_20766	outside	29	41				
+//
+# FNFHRZ_112360 Length: 46
+# FNFHRZ_112360 Number of predicted TMRs: 0
+FNFHRZ_112360	inside	1	46				
+//
+# FNFHRZ_11909 Length: 35
+# FNFHRZ_11909 Number of predicted TMRs: 0
+FNFHRZ_11909	inside	1	35				
+//
+# FNFHRZ_114224 Length: 46
+# FNFHRZ_114224 Number of predicted TMRs: 0
+FNFHRZ_114224	inside	1	46				
+//
+# FNFHRZ_106976 Length: 50
+# FNFHRZ_106976 Number of predicted TMRs: 0
+FNFHRZ_106976	inside	1	50				
+//
+# FNFHRZ_31375 Length: 49
+# FNFHRZ_31375 Number of predicted TMRs: 0
+FNFHRZ_31375	inside	1	49				
+//
+# FNFHRZ_9676 Length: 42
+# FNFHRZ_9676 Number of predicted TMRs: 0
+FNFHRZ_9676	outside	1	42				
+//
+# FNFHRZ_155746 Length: 48
+# FNFHRZ_155746 Number of predicted TMRs: 0
+FNFHRZ_155746	inside	1	48				
+//
+# FNFHRZ_21580 Length: 46
+# FNFHRZ_21580 Number of predicted TMRs: 0
+FNFHRZ_21580	inside	1	46				
+//
+# FNFHRZ_56422 Length: 41
+# FNFHRZ_56422 Number of predicted TMRs: 0
+FNFHRZ_56422	signal	1	32				
+FNFHRZ_56422	outside	33	41				
+//
+# FNFHRZ_110353 Length: 44
+# FNFHRZ_110353 Number of predicted TMRs: 0
+FNFHRZ_110353	inside	1	44				
+//
+# FNFHRZ_123664 Length: 38
+# FNFHRZ_123664 Number of predicted TMRs: 0
+FNFHRZ_123664	signal	1	32				
+FNFHRZ_123664	outside	33	38				
+//
+# FNFHRZ_77740 Length: 37
+# FNFHRZ_77740 Number of predicted TMRs: 0
+FNFHRZ_77740	signal	1	36				
+FNFHRZ_77740	outside	37	37				
+//
+# FNFHRZ_15081 Length: 37
+# FNFHRZ_15081 Number of predicted TMRs: 0
+FNFHRZ_15081	inside	1	37				
+//
+# FNFHRZ_157091 Length: 49
+# FNFHRZ_157091 Number of predicted TMRs: 0
+FNFHRZ_157091	inside	1	49				
+//
+# FNFHRZ_99474 Length: 34
+# FNFHRZ_99474 Number of predicted TMRs: 0
+FNFHRZ_99474	outside	1	34				
+//
+# FNFHRZ_109124 Length: 48
+# FNFHRZ_109124 Number of predicted TMRs: 0
+FNFHRZ_109124	signal	1	21				
+FNFHRZ_109124	outside	22	48				
+//
+# FNFHRZ_57284 Length: 47
+# FNFHRZ_57284 Number of predicted TMRs: 0
+FNFHRZ_57284	inside	1	47				
+//
+# FNFHRZ_141441 Length: 49
+# FNFHRZ_141441 Number of predicted TMRs: 0
+FNFHRZ_141441	inside	1	49				
+//
+# FNFHRZ_49708 Length: 49
+# FNFHRZ_49708 Number of predicted TMRs: 0
+FNFHRZ_49708	inside	1	49				
+//
+# FNFHRZ_20877 Length: 44
+# FNFHRZ_20877 Number of predicted TMRs: 0
+FNFHRZ_20877	inside	1	44				
+//
+# FNFHRZ_142274 Length: 43
+# FNFHRZ_142274 Number of predicted TMRs: 0
+FNFHRZ_142274	signal	1	11				
+FNFHRZ_142274	outside	12	43				
+//
+# FNFHRZ_97825 Length: 46
+# FNFHRZ_97825 Number of predicted TMRs: 0
+FNFHRZ_97825	inside	1	46				
+//
+# FNFHRZ_141854 Length: 49
+# FNFHRZ_141854 Number of predicted TMRs: 0
+FNFHRZ_141854	signal	1	29				
+FNFHRZ_141854	outside	30	49				
+//
+# FNFHRZ_106168 Length: 47
+# FNFHRZ_106168 Number of predicted TMRs: 0
+FNFHRZ_106168	inside	1	47				
+//
+# FNFHRZ_14921 Length: 33
+# FNFHRZ_14921 Number of predicted TMRs: 0
+FNFHRZ_14921	inside	1	33				
+//
+# FNFHRZ_170074 Length: 32
+# FNFHRZ_170074 Number of predicted TMRs: 0
+FNFHRZ_170074	inside	1	32				
+//
+# FNFHRZ_8348 Length: 44
+# FNFHRZ_8348 Number of predicted TMRs: 0
+FNFHRZ_8348	inside	1	44				
+//
+# FNFHRZ_111163 Length: 40
+# FNFHRZ_111163 Number of predicted TMRs: 0
+FNFHRZ_111163	signal	1	39				
+FNFHRZ_111163	outside	40	40				
+//
+# FNFHRZ_12064 Length: 47
+# FNFHRZ_12064 Number of predicted TMRs: 0
+FNFHRZ_12064	inside	1	47				
+//
+# FNFHRZ_169626 Length: 44
+# FNFHRZ_169626 Number of predicted TMRs: 0
+FNFHRZ_169626	inside	1	44				
+//
+# FNFHRZ_169353 Length: 47
+# FNFHRZ_169353 Number of predicted TMRs: 0
+FNFHRZ_169353	signal	1	43				
+FNFHRZ_169353	outside	44	47				
+//
+# FNFHRZ_12967 Length: 48
+# FNFHRZ_12967 Number of predicted TMRs: 1
+FNFHRZ_12967	outside	1	12				
+FNFHRZ_12967	TMhelix	13	33				
+FNFHRZ_12967	inside	34	48				
+//
+# FNFHRZ_122643 Length: 47
+# FNFHRZ_122643 Number of predicted TMRs: 0
+FNFHRZ_122643	inside	1	47				
+//
+# FNFHRZ_16968 Length: 49
+# FNFHRZ_16968 Number of predicted TMRs: 0
+FNFHRZ_16968	inside	1	49				
+//
+# FNFHRZ_73443 Length: 50
+# FNFHRZ_73443 Number of predicted TMRs: 0
+FNFHRZ_73443	signal	1	41				
+FNFHRZ_73443	outside	42	50				
+//
+# FNFHRZ_121891 Length: 47
+# FNFHRZ_121891 Number of predicted TMRs: 0
+FNFHRZ_121891	inside	1	47				
+//
+# FNFHRZ_150280 Length: 39
+# FNFHRZ_150280 Number of predicted TMRs: 0
+FNFHRZ_150280	signal	1	32				
+FNFHRZ_150280	outside	33	39				
+//
+# FNFHRZ_104358 Length: 49
+# FNFHRZ_104358 Number of predicted TMRs: 0
+FNFHRZ_104358	inside	1	49				
+//
+# FNFHRZ_9504 Length: 40
+# FNFHRZ_9504 Number of predicted TMRs: 0
+FNFHRZ_9504	signal	1	22				
+FNFHRZ_9504	outside	23	40				
+//
+# FNFHRZ_133353 Length: 36
+# FNFHRZ_133353 Number of predicted TMRs: 0
+FNFHRZ_133353	inside	1	36				
+//
+# FNFHRZ_163916 Length: 50
+# FNFHRZ_163916 Number of predicted TMRs: 0
+FNFHRZ_163916	signal	1	33				
+FNFHRZ_163916	outside	34	50				
+//
+# FNFHRZ_10361 Length: 49
+# FNFHRZ_10361 Number of predicted TMRs: 0
+FNFHRZ_10361	inside	1	49				
+//
+# FNFHRZ_161923 Length: 39
+# FNFHRZ_161923 Number of predicted TMRs: 0
+FNFHRZ_161923	inside	1	39				
+//
+# FNFHRZ_83015 Length: 39
+# FNFHRZ_83015 Number of predicted TMRs: 0
+FNFHRZ_83015	inside	1	39				
+//
+# FNFHRZ_100809 Length: 36
+# FNFHRZ_100809 Number of predicted TMRs: 0
+FNFHRZ_100809	signal	1	35				
+FNFHRZ_100809	outside	36	36				
+//
+# FNFHRZ_29524 Length: 42
+# FNFHRZ_29524 Number of predicted TMRs: 0
+FNFHRZ_29524	inside	1	42				
+//
+# FNFHRZ_26089 Length: 44
+# FNFHRZ_26089 Number of predicted TMRs: 0
+FNFHRZ_26089	outside	1	44				
+//
+# FNFHRZ_137452 Length: 45
+# FNFHRZ_137452 Number of predicted TMRs: 0
+FNFHRZ_137452	signal	1	43				
+FNFHRZ_137452	outside	44	45				
+//
+# FNFHRZ_8031 Length: 27
+# FNFHRZ_8031 Number of predicted TMRs: 0
+FNFHRZ_8031	signal	1	26				
+FNFHRZ_8031	outside	27	27				
+//
+# FNFHRZ_131015 Length: 50
+# FNFHRZ_131015 Number of predicted TMRs: 0
+FNFHRZ_131015	signal	1	49				
+FNFHRZ_131015	outside	50	50				
+//
+# FNFHRZ_87863 Length: 44
+# FNFHRZ_87863 Number of predicted TMRs: 0
+FNFHRZ_87863	inside	1	44				
+//
+# FNFHRZ_143167 Length: 49
+# FNFHRZ_143167 Number of predicted TMRs: 0
+FNFHRZ_143167	inside	1	49				
+//
+# FNFHRZ_110280 Length: 30
+# FNFHRZ_110280 Number of predicted TMRs: 0
+FNFHRZ_110280	inside	1	30				
+//
+# FNFHRZ_114487 Length: 45
+# FNFHRZ_114487 Number of predicted TMRs: 0
+FNFHRZ_114487	inside	1	45				
+//
+# FNFHRZ_77207 Length: 50
+# FNFHRZ_77207 Number of predicted TMRs: 0
+FNFHRZ_77207	inside	1	50				
+//
+# FNFHRZ_27808 Length: 48
+# FNFHRZ_27808 Number of predicted TMRs: 0
+FNFHRZ_27808	inside	1	48				
+//
+# FNFHRZ_44389 Length: 48
+# FNFHRZ_44389 Number of predicted TMRs: 0
+FNFHRZ_44389	inside	1	48				
+//
+# FNFHRZ_60093 Length: 42
+# FNFHRZ_60093 Number of predicted TMRs: 0
+FNFHRZ_60093	inside	1	42				
+//
+# FNFHRZ_36724 Length: 38
+# FNFHRZ_36724 Number of predicted TMRs: 0
+FNFHRZ_36724	signal	1	11				
+FNFHRZ_36724	outside	12	38				
+//
+# FNFHRZ_3168 Length: 38
+# FNFHRZ_3168 Number of predicted TMRs: 0
+FNFHRZ_3168	inside	1	38				
+//
+# FNFHRZ_133055 Length: 50
+# FNFHRZ_133055 Number of predicted TMRs: 0
+FNFHRZ_133055	signal	1	47				
+FNFHRZ_133055	outside	48	50				
+//
+# FNFHRZ_36492 Length: 35
+# FNFHRZ_36492 Number of predicted TMRs: 0
+FNFHRZ_36492	inside	1	35				
+//
+# FNFHRZ_10084 Length: 48
+# FNFHRZ_10084 Number of predicted TMRs: 0
+FNFHRZ_10084	inside	1	48				
+//
+# FNFHRZ_17977 Length: 35
+# FNFHRZ_17977 Number of predicted TMRs: 0
+FNFHRZ_17977	inside	1	35				
+//
+# FNFHRZ_143748 Length: 43
+# FNFHRZ_143748 Number of predicted TMRs: 0
+FNFHRZ_143748	signal	1	15				
+FNFHRZ_143748	outside	16	43				
+//
+# FNFHRZ_133962 Length: 47
+# FNFHRZ_133962 Number of predicted TMRs: 0
+FNFHRZ_133962	inside	1	47				
+//
+# FNFHRZ_120090 Length: 40
+# FNFHRZ_120090 Number of predicted TMRs: 0
+FNFHRZ_120090	signal	1	38				
+FNFHRZ_120090	outside	39	40				
+//
+# FNFHRZ_84656 Length: 37
+# FNFHRZ_84656 Number of predicted TMRs: 0
+FNFHRZ_84656	signal	1	35				
+FNFHRZ_84656	outside	36	37				
+//
+# FNFHRZ_90230 Length: 48
+# FNFHRZ_90230 Number of predicted TMRs: 0
+FNFHRZ_90230	signal	1	11				
+FNFHRZ_90230	outside	12	48				
+//
+# FNFHRZ_120667 Length: 46
+# FNFHRZ_120667 Number of predicted TMRs: 0
+FNFHRZ_120667	inside	1	46				
+//
+# FNFHRZ_23214 Length: 45
+# FNFHRZ_23214 Number of predicted TMRs: 0
+FNFHRZ_23214	inside	1	45				
+//
+# FNFHRZ_168405 Length: 48
+# FNFHRZ_168405 Number of predicted TMRs: 0
+FNFHRZ_168405	inside	1	48				
+//
+# FNFHRZ_131439 Length: 39
+# FNFHRZ_131439 Number of predicted TMRs: 0
+FNFHRZ_131439	inside	1	39				
+//
+# FNFHRZ_66554 Length: 41
+# FNFHRZ_66554 Number of predicted TMRs: 0
+FNFHRZ_66554	inside	1	41				
+//
+# FNFHRZ_54300 Length: 43
+# FNFHRZ_54300 Number of predicted TMRs: 0
+FNFHRZ_54300	inside	1	43				
+//
+# FNFHRZ_152189 Length: 50
+# FNFHRZ_152189 Number of predicted TMRs: 0
+FNFHRZ_152189	inside	1	50				
+//
+# FNFHRZ_12032 Length: 43
+# FNFHRZ_12032 Number of predicted TMRs: 0
+FNFHRZ_12032	signal	1	30				
+FNFHRZ_12032	outside	31	43				
+//
+# FNFHRZ_92683 Length: 31
+# FNFHRZ_92683 Number of predicted TMRs: 0
+FNFHRZ_92683	inside	1	31				
+//
+# FNFHRZ_134855 Length: 47
+# FNFHRZ_134855 Number of predicted TMRs: 0
+FNFHRZ_134855	inside	1	47				
+//
+# FNFHRZ_31214 Length: 41
+# FNFHRZ_31214 Number of predicted TMRs: 0
+FNFHRZ_31214	signal	1	10				
+FNFHRZ_31214	outside	11	41				
+//
+# FNFHRZ_114883 Length: 41
+# FNFHRZ_114883 Number of predicted TMRs: 0
+FNFHRZ_114883	inside	1	41				
+//
+# FNFHRZ_44225 Length: 45
+# FNFHRZ_44225 Number of predicted TMRs: 0
+FNFHRZ_44225	inside	1	45				
+//
+# FNFHRZ_52357 Length: 46
+# FNFHRZ_52357 Number of predicted TMRs: 0
+FNFHRZ_52357	inside	1	46				
+//
+# FNFHRZ_87872 Length: 47
+# FNFHRZ_87872 Number of predicted TMRs: 0
+FNFHRZ_87872	signal	1	20				
+FNFHRZ_87872	outside	21	47				
+//
+# FNFHRZ_56958 Length: 44
+# FNFHRZ_56958 Number of predicted TMRs: 0
+FNFHRZ_56958	signal	1	10				
+FNFHRZ_56958	outside	11	44				
+//
+# FNFHRZ_105470 Length: 48
+# FNFHRZ_105470 Number of predicted TMRs: 0
+FNFHRZ_105470	inside	1	48				
+//
+# FNFHRZ_36257 Length: 45
+# FNFHRZ_36257 Number of predicted TMRs: 0
+FNFHRZ_36257	inside	1	45				
+//
+# FNFHRZ_58737 Length: 42
+# FNFHRZ_58737 Number of predicted TMRs: 0
+FNFHRZ_58737	outside	1	42				
+//
+# FNFHRZ_110495 Length: 49
+# FNFHRZ_110495 Number of predicted TMRs: 0
+FNFHRZ_110495	inside	1	49				
+//
+# FNFHRZ_75748 Length: 42
+# FNFHRZ_75748 Number of predicted TMRs: 0
+FNFHRZ_75748	inside	1	42				
+//
+# FNFHRZ_105581 Length: 50
+# FNFHRZ_105581 Number of predicted TMRs: 0
+FNFHRZ_105581	inside	1	50				
+//
+# FNFHRZ_143050 Length: 42
+# FNFHRZ_143050 Number of predicted TMRs: 0
+FNFHRZ_143050	inside	1	42				
+//
+# FNFHRZ_43025 Length: 36
+# FNFHRZ_43025 Number of predicted TMRs: 0
+FNFHRZ_43025	inside	1	36				
+//
+# FNFHRZ_146630 Length: 45
+# FNFHRZ_146630 Number of predicted TMRs: 0
+FNFHRZ_146630	inside	1	45				
+//
+# FNFHRZ_115273 Length: 45
+# FNFHRZ_115273 Number of predicted TMRs: 0
+FNFHRZ_115273	inside	1	45				
+//
+# FNFHRZ_46188 Length: 50
+# FNFHRZ_46188 Number of predicted TMRs: 0
+FNFHRZ_46188	inside	1	50				
+//
+# FNFHRZ_118287 Length: 49
+# FNFHRZ_118287 Number of predicted TMRs: 0
+FNFHRZ_118287	inside	1	49				
+//
+# FNFHRZ_93132 Length: 46
+# FNFHRZ_93132 Number of predicted TMRs: 0
+FNFHRZ_93132	inside	1	46				
+//
+# FNFHRZ_12747 Length: 28
+# FNFHRZ_12747 Number of predicted TMRs: 0
+FNFHRZ_12747	outside	1	28				
+//
+# FNFHRZ_71954 Length: 46
+# FNFHRZ_71954 Number of predicted TMRs: 0
+FNFHRZ_71954	signal	1	37				
+FNFHRZ_71954	outside	38	46				
+//
+# FNFHRZ_76125 Length: 36
+# FNFHRZ_76125 Number of predicted TMRs: 0
+FNFHRZ_76125	signal	1	31				
+FNFHRZ_76125	outside	32	36				
+//
+# FNFHRZ_68137 Length: 37
+# FNFHRZ_68137 Number of predicted TMRs: 0
+FNFHRZ_68137	signal	1	36				
+FNFHRZ_68137	outside	37	37				
+//
+# FNFHRZ_144097 Length: 49
+# FNFHRZ_144097 Number of predicted TMRs: 0
+FNFHRZ_144097	inside	1	49				
+//
+# FNFHRZ_132527 Length: 44
+# FNFHRZ_132527 Number of predicted TMRs: 0
+FNFHRZ_132527	inside	1	44				
+//
+# FNFHRZ_167180 Length: 43
+# FNFHRZ_167180 Number of predicted TMRs: 0
+FNFHRZ_167180	inside	1	43				
+//
+# FNFHRZ_16448 Length: 41
+# FNFHRZ_16448 Number of predicted TMRs: 0
+FNFHRZ_16448	inside	1	41				
+//
+# FNFHRZ_6 Length: 48
+# FNFHRZ_6 Number of predicted TMRs: 0
+FNFHRZ_6	inside	1	48				
+//
+# FNFHRZ_35584 Length: 40
+# FNFHRZ_35584 Number of predicted TMRs: 0
+FNFHRZ_35584	signal	1	35				
+FNFHRZ_35584	outside	36	40				
+//
+# FNFHRZ_114533 Length: 50
+# FNFHRZ_114533 Number of predicted TMRs: 0
+FNFHRZ_114533	inside	1	50				
+//
+# FNFHRZ_59004 Length: 47
+# FNFHRZ_59004 Number of predicted TMRs: 0
+FNFHRZ_59004	inside	1	47				
+//
+# FNFHRZ_100705 Length: 45
+# FNFHRZ_100705 Number of predicted TMRs: 0
+FNFHRZ_100705	inside	1	45				
+//
+# FNFHRZ_3974 Length: 42
+# FNFHRZ_3974 Number of predicted TMRs: 0
+FNFHRZ_3974	inside	1	42				
+//
+# FNFHRZ_64938 Length: 40
+# FNFHRZ_64938 Number of predicted TMRs: 0
+FNFHRZ_64938	inside	1	40				
+//
+# FNFHRZ_137041 Length: 37
+# FNFHRZ_137041 Number of predicted TMRs: 0
+FNFHRZ_137041	signal	1	34				
+FNFHRZ_137041	outside	35	37				
+//
+# FNFHRZ_20133 Length: 41
+# FNFHRZ_20133 Number of predicted TMRs: 0
+FNFHRZ_20133	inside	1	41				
+//
+# FNFHRZ_31240 Length: 49
+# FNFHRZ_31240 Number of predicted TMRs: 0
+FNFHRZ_31240	inside	1	49				
+//
+# FNFHRZ_25621 Length: 38
+# FNFHRZ_25621 Number of predicted TMRs: 0
+FNFHRZ_25621	signal	1	32				
+FNFHRZ_25621	outside	33	38				
+//
+# FNFHRZ_137334 Length: 49
+# FNFHRZ_137334 Number of predicted TMRs: 0
+FNFHRZ_137334	inside	1	49				
+//
+# FNFHRZ_36296 Length: 49
+# FNFHRZ_36296 Number of predicted TMRs: 0
+FNFHRZ_36296	inside	1	49				
+//
+# FNFHRZ_36543 Length: 49
+# FNFHRZ_36543 Number of predicted TMRs: 0
+FNFHRZ_36543	inside	1	49				
+//
+# FNFHRZ_117954 Length: 50
+# FNFHRZ_117954 Number of predicted TMRs: 0
+FNFHRZ_117954	signal	1	33				
+FNFHRZ_117954	outside	34	50				
+//
+# FNFHRZ_81521 Length: 37
+# FNFHRZ_81521 Number of predicted TMRs: 0
+FNFHRZ_81521	signal	1	19				
+FNFHRZ_81521	outside	20	37				
+//
+# FNFHRZ_18458 Length: 38
+# FNFHRZ_18458 Number of predicted TMRs: 0
+FNFHRZ_18458	inside	1	38				
+//
+# FNFHRZ_91258 Length: 48
+# FNFHRZ_91258 Number of predicted TMRs: 0
+FNFHRZ_91258	signal	1	29				
+FNFHRZ_91258	outside	30	48				
+//
+# FNFHRZ_67413 Length: 42
+# FNFHRZ_67413 Number of predicted TMRs: 0
+FNFHRZ_67413	inside	1	42				
+//
+# FNFHRZ_122396 Length: 50
+# FNFHRZ_122396 Number of predicted TMRs: 0
+FNFHRZ_122396	inside	1	50				
+//
+# FNFHRZ_168554 Length: 47
+# FNFHRZ_168554 Number of predicted TMRs: 0
+FNFHRZ_168554	inside	1	47				
+//
+# FNFHRZ_143060 Length: 32
+# FNFHRZ_143060 Number of predicted TMRs: 0
+FNFHRZ_143060	inside	1	32				
+//
+# FNFHRZ_124870 Length: 50
+# FNFHRZ_124870 Number of predicted TMRs: 0
+FNFHRZ_124870	signal	1	48				
+FNFHRZ_124870	outside	49	50				
+//
+# FNFHRZ_133352 Length: 48
+# FNFHRZ_133352 Number of predicted TMRs: 0
+FNFHRZ_133352	signal	1	44				
+FNFHRZ_133352	outside	45	48				
+//
+# FNFHRZ_18647 Length: 43
+# FNFHRZ_18647 Number of predicted TMRs: 0
+FNFHRZ_18647	outside	1	43				
+//
+# FNFHRZ_120416 Length: 39
+# FNFHRZ_120416 Number of predicted TMRs: 0
+FNFHRZ_120416	signal	1	26				
+FNFHRZ_120416	outside	27	39				
+//
+# FNFHRZ_8037 Length: 49
+# FNFHRZ_8037 Number of predicted TMRs: 0
+FNFHRZ_8037	signal	1	44				
+FNFHRZ_8037	outside	45	49				
+//
+# FNFHRZ_73251 Length: 46
+# FNFHRZ_73251 Number of predicted TMRs: 0
+FNFHRZ_73251	inside	1	46				
+//
+# FNFHRZ_123936 Length: 42
+# FNFHRZ_123936 Number of predicted TMRs: 0
+FNFHRZ_123936	inside	1	42				
+//
+# FNFHRZ_14811 Length: 35
+# FNFHRZ_14811 Number of predicted TMRs: 0
+FNFHRZ_14811	signal	1	34				
+FNFHRZ_14811	outside	35	35				
+//
+# FNFHRZ_132324 Length: 38
+# FNFHRZ_132324 Number of predicted TMRs: 0
+FNFHRZ_132324	signal	1	37				
+FNFHRZ_132324	outside	38	38				
+//
+# FNFHRZ_143585 Length: 34
+# FNFHRZ_143585 Number of predicted TMRs: 0
+FNFHRZ_143585	signal	1	14				
+FNFHRZ_143585	outside	15	34				
+//
+# FNFHRZ_57283 Length: 48
+# FNFHRZ_57283 Number of predicted TMRs: 0
+FNFHRZ_57283	inside	1	48				
+//
+# FNFHRZ_6040 Length: 49
+# FNFHRZ_6040 Number of predicted TMRs: 0
+FNFHRZ_6040	inside	1	49				
+//
+# FNFHRZ_99090 Length: 45
+# FNFHRZ_99090 Number of predicted TMRs: 0
+FNFHRZ_99090	signal	1	15				
+FNFHRZ_99090	outside	16	45				
+//
+# FNFHRZ_135873 Length: 45
+# FNFHRZ_135873 Number of predicted TMRs: 0
+FNFHRZ_135873	signal	1	32				
+FNFHRZ_135873	outside	33	45				
+//
+# FNFHRZ_100363 Length: 46
+# FNFHRZ_100363 Number of predicted TMRs: 0
+FNFHRZ_100363	signal	1	43				
+FNFHRZ_100363	outside	44	46				
+//
+# FNFHRZ_137473 Length: 49
+# FNFHRZ_137473 Number of predicted TMRs: 0
+FNFHRZ_137473	inside	1	49				
+//
+# FNFHRZ_167815 Length: 47
+# FNFHRZ_167815 Number of predicted TMRs: 0
+FNFHRZ_167815	signal	1	45				
+FNFHRZ_167815	outside	46	47				
+//
+# FNFHRZ_79856 Length: 42
+# FNFHRZ_79856 Number of predicted TMRs: 0
+FNFHRZ_79856	signal	1	34				
+FNFHRZ_79856	outside	35	42				
+//
+# FNFHRZ_13142 Length: 49
+# FNFHRZ_13142 Number of predicted TMRs: 0
+FNFHRZ_13142	signal	1	40				
+FNFHRZ_13142	outside	41	49				
+//
+# FNFHRZ_20513 Length: 48
+# FNFHRZ_20513 Number of predicted TMRs: 0
+FNFHRZ_20513	inside	1	48				
+//
+# FNFHRZ_58690 Length: 49
+# FNFHRZ_58690 Number of predicted TMRs: 0
+FNFHRZ_58690	inside	1	49				
+//
+# FNFHRZ_94599 Length: 46
+# FNFHRZ_94599 Number of predicted TMRs: 0
+FNFHRZ_94599	inside	1	46				
+//
+# FNFHRZ_88787 Length: 48
+# FNFHRZ_88787 Number of predicted TMRs: 0
+FNFHRZ_88787	signal	1	25				
+FNFHRZ_88787	outside	26	48				
+//
+# FNFHRZ_96946 Length: 47
+# FNFHRZ_96946 Number of predicted TMRs: 0
+FNFHRZ_96946	inside	1	47				
+//
+# FNFHRZ_115913 Length: 48
+# FNFHRZ_115913 Number of predicted TMRs: 0
+FNFHRZ_115913	inside	1	48				
+//
+# FNFHRZ_109523 Length: 50
+# FNFHRZ_109523 Number of predicted TMRs: 0
+FNFHRZ_109523	inside	1	50				
+//
+# FNFHRZ_7097 Length: 37
+# FNFHRZ_7097 Number of predicted TMRs: 0
+FNFHRZ_7097	signal	1	35				
+FNFHRZ_7097	outside	36	37				
+//
+# FNFHRZ_38918 Length: 44
+# FNFHRZ_38918 Number of predicted TMRs: 1
+FNFHRZ_38918	inside	1	15				
+FNFHRZ_38918	TMhelix	16	36				
+FNFHRZ_38918	outside	37	44				
+//
+# FNFHRZ_99919 Length: 49
+# FNFHRZ_99919 Number of predicted TMRs: 0
+FNFHRZ_99919	signal	1	37				
+FNFHRZ_99919	outside	38	49				
+//
+# FNFHRZ_143234 Length: 46
+# FNFHRZ_143234 Number of predicted TMRs: 0
+FNFHRZ_143234	inside	1	46				
+//
+# FNFHRZ_15781 Length: 31
+# FNFHRZ_15781 Number of predicted TMRs: 0
+FNFHRZ_15781	signal	1	19				
+FNFHRZ_15781	outside	20	31				
+//
+# FNFHRZ_29738 Length: 38
+# FNFHRZ_29738 Number of predicted TMRs: 0
+FNFHRZ_29738	inside	1	38				
+//
+# FNFHRZ_99082 Length: 48
+# FNFHRZ_99082 Number of predicted TMRs: 0
+FNFHRZ_99082	inside	1	48				
+//
+# FNFHRZ_115622 Length: 46
+# FNFHRZ_115622 Number of predicted TMRs: 0
+FNFHRZ_115622	inside	1	46				
+//
+# FNFHRZ_107440 Length: 46
+# FNFHRZ_107440 Number of predicted TMRs: 0
+FNFHRZ_107440	inside	1	46				
+//
+# FNFHRZ_5811 Length: 50
+# FNFHRZ_5811 Number of predicted TMRs: 0
+FNFHRZ_5811	inside	1	50				
+//
+# FNFHRZ_24174 Length: 37
+# FNFHRZ_24174 Number of predicted TMRs: 0
+FNFHRZ_24174	inside	1	37				
+//
+# FNFHRZ_125059 Length: 50
+# FNFHRZ_125059 Number of predicted TMRs: 0
+FNFHRZ_125059	signal	1	35				
+FNFHRZ_125059	outside	36	50				
+//
+# FNFHRZ_108081 Length: 47
+# FNFHRZ_108081 Number of predicted TMRs: 0
+FNFHRZ_108081	signal	1	45				
+FNFHRZ_108081	outside	46	47				
+//
+# FNFHRZ_9465 Length: 42
+# FNFHRZ_9465 Number of predicted TMRs: 0
+FNFHRZ_9465	inside	1	42				
+//
+# FNFHRZ_73298 Length: 50
+# FNFHRZ_73298 Number of predicted TMRs: 0
+FNFHRZ_73298	inside	1	50				
+//
+# FNFHRZ_121286 Length: 42
+# FNFHRZ_121286 Number of predicted TMRs: 0
+FNFHRZ_121286	signal	1	24				
+FNFHRZ_121286	outside	25	42				
+//
+# FNFHRZ_134917 Length: 47
+# FNFHRZ_134917 Number of predicted TMRs: 0
+FNFHRZ_134917	outside	1	47				
+//
+# FNFHRZ_159641 Length: 37
+# FNFHRZ_159641 Number of predicted TMRs: 0
+FNFHRZ_159641	inside	1	37				
+//
+# FNFHRZ_71639 Length: 49
+# FNFHRZ_71639 Number of predicted TMRs: 0
+FNFHRZ_71639	inside	1	49				
+//
+# FNFHRZ_93404 Length: 43
+# FNFHRZ_93404 Number of predicted TMRs: 0
+FNFHRZ_93404	signal	1	41				
+FNFHRZ_93404	outside	42	43				
+//
+# FNFHRZ_18838 Length: 42
+# FNFHRZ_18838 Number of predicted TMRs: 0
+FNFHRZ_18838	inside	1	42				
+//
+# FNFHRZ_96465 Length: 47
+# FNFHRZ_96465 Number of predicted TMRs: 0
+FNFHRZ_96465	signal	1	46				
+FNFHRZ_96465	outside	47	47				
+//
+# FNFHRZ_4071 Length: 44
+# FNFHRZ_4071 Number of predicted TMRs: 0
+FNFHRZ_4071	inside	1	44				
+//
+# FNFHRZ_156879 Length: 44
+# FNFHRZ_156879 Number of predicted TMRs: 1
+FNFHRZ_156879	outside	1	8				
+FNFHRZ_156879	TMhelix	9	29				
+FNFHRZ_156879	inside	30	44				
+//
+# FNFHRZ_116554 Length: 46
+# FNFHRZ_116554 Number of predicted TMRs: 0
+FNFHRZ_116554	signal	1	28				
+FNFHRZ_116554	outside	29	46				
+//
+# FNFHRZ_123314 Length: 47
+# FNFHRZ_123314 Number of predicted TMRs: 0
+FNFHRZ_123314	inside	1	47				
+//
+# FNFHRZ_61445 Length: 49
+# FNFHRZ_61445 Number of predicted TMRs: 0
+FNFHRZ_61445	signal	1	45				
+FNFHRZ_61445	outside	46	49				
+//
+# FNFHRZ_87760 Length: 47
+# FNFHRZ_87760 Number of predicted TMRs: 0
+FNFHRZ_87760	inside	1	47				
+//
+# FNFHRZ_119492 Length: 37
+# FNFHRZ_119492 Number of predicted TMRs: 0
+FNFHRZ_119492	signal	1	25				
+FNFHRZ_119492	outside	26	37				
+//
+# FNFHRZ_130255 Length: 44
+# FNFHRZ_130255 Number of predicted TMRs: 0
+FNFHRZ_130255	signal	1	10				
+FNFHRZ_130255	outside	11	44				
+//
+# FNFHRZ_96086 Length: 36
+# FNFHRZ_96086 Number of predicted TMRs: 0
+FNFHRZ_96086	signal	1	11				
+FNFHRZ_96086	outside	12	36				
+//
+# FNFHRZ_167776 Length: 50
+# FNFHRZ_167776 Number of predicted TMRs: 0
+FNFHRZ_167776	inside	1	50				
+//
+# FNFHRZ_148213 Length: 50
+# FNFHRZ_148213 Number of predicted TMRs: 0
+FNFHRZ_148213	inside	1	50				
+//
+# FNFHRZ_122782 Length: 50
+# FNFHRZ_122782 Number of predicted TMRs: 0
+FNFHRZ_122782	inside	1	50				
+//
+# FNFHRZ_133180 Length: 48
+# FNFHRZ_133180 Number of predicted TMRs: 0
+FNFHRZ_133180	inside	1	48				
+//
+# FNFHRZ_119399 Length: 50
+# FNFHRZ_119399 Number of predicted TMRs: 0
+FNFHRZ_119399	inside	1	50				
+//
+# FNFHRZ_59464 Length: 50
+# FNFHRZ_59464 Number of predicted TMRs: 0
+FNFHRZ_59464	inside	1	50				
+//
+# FNFHRZ_143166 Length: 48
+# FNFHRZ_143166 Number of predicted TMRs: 0
+FNFHRZ_143166	inside	1	48				
+//
+# FNFHRZ_44195 Length: 43
+# FNFHRZ_44195 Number of predicted TMRs: 0
+FNFHRZ_44195	signal	1	12				
+FNFHRZ_44195	outside	13	43				
+//
+# FNFHRZ_144501 Length: 47
+# FNFHRZ_144501 Number of predicted TMRs: 0
+FNFHRZ_144501	signal	1	10				
+FNFHRZ_144501	outside	11	47				
+//
+# FNFHRZ_131903 Length: 50
+# FNFHRZ_131903 Number of predicted TMRs: 0
+FNFHRZ_131903	inside	1	50				
+//
+# FNFHRZ_113882 Length: 43
+# FNFHRZ_113882 Number of predicted TMRs: 0
+FNFHRZ_113882	signal	1	28				
+FNFHRZ_113882	outside	29	43				
+//
+# FNFHRZ_59847 Length: 47
+# FNFHRZ_59847 Number of predicted TMRs: 0
+FNFHRZ_59847	inside	1	47				
+//
+# FNFHRZ_122702 Length: 49
+# FNFHRZ_122702 Number of predicted TMRs: 0
+FNFHRZ_122702	inside	1	49				
+//
+# FNFHRZ_152883 Length: 48
+# FNFHRZ_152883 Number of predicted TMRs: 0
+FNFHRZ_152883	signal	1	38				
+FNFHRZ_152883	outside	39	48				
+//
+# FNFHRZ_8829 Length: 48
+# FNFHRZ_8829 Number of predicted TMRs: 0
+FNFHRZ_8829	inside	1	48				
+//
+# FNFHRZ_137288 Length: 36
+# FNFHRZ_137288 Number of predicted TMRs: 0
+FNFHRZ_137288	inside	1	36				
+//
+# FNFHRZ_133473 Length: 48
+# FNFHRZ_133473 Number of predicted TMRs: 0
+FNFHRZ_133473	inside	1	48				
+//
+# FNFHRZ_10026 Length: 47
+# FNFHRZ_10026 Number of predicted TMRs: 0
+FNFHRZ_10026	signal	1	46				
+FNFHRZ_10026	outside	47	47				
+//
+# FNFHRZ_40960 Length: 47
+# FNFHRZ_40960 Number of predicted TMRs: 0
+FNFHRZ_40960	signal	1	13				
+FNFHRZ_40960	outside	14	47				
+//
+# FNFHRZ_167841 Length: 41
+# FNFHRZ_167841 Number of predicted TMRs: 0
+FNFHRZ_167841	signal	1	21				
+FNFHRZ_167841	outside	22	41				
+//
+# FNFHRZ_131737 Length: 50
+# FNFHRZ_131737 Number of predicted TMRs: 0
+FNFHRZ_131737	inside	1	50				
+//
+# FNFHRZ_86055 Length: 50
+# FNFHRZ_86055 Number of predicted TMRs: 0
+FNFHRZ_86055	inside	1	50				
+//
+# FNFHRZ_164736 Length: 50
+# FNFHRZ_164736 Number of predicted TMRs: 0
+FNFHRZ_164736	inside	1	50				
+//
+# FNFHRZ_112584 Length: 50
+# FNFHRZ_112584 Number of predicted TMRs: 0
+FNFHRZ_112584	inside	1	50				
+//
+# FNFHRZ_9785 Length: 42
+# FNFHRZ_9785 Number of predicted TMRs: 0
+FNFHRZ_9785	inside	1	42				
+//
+# FNFHRZ_36795 Length: 44
+# FNFHRZ_36795 Number of predicted TMRs: 0
+FNFHRZ_36795	inside	1	44				
+//
+# FNFHRZ_11511 Length: 39
+# FNFHRZ_11511 Number of predicted TMRs: 0
+FNFHRZ_11511	signal	1	38				
+FNFHRZ_11511	outside	39	39				
+//
+# FNFHRZ_114050 Length: 44
+# FNFHRZ_114050 Number of predicted TMRs: 0
+FNFHRZ_114050	inside	1	44				
+//
+# FNFHRZ_70206 Length: 40
+# FNFHRZ_70206 Number of predicted TMRs: 0
+FNFHRZ_70206	inside	1	40				
+//
+# FNFHRZ_4883 Length: 47
+# FNFHRZ_4883 Number of predicted TMRs: 0
+FNFHRZ_4883	inside	1	47				
+//
+# FNFHRZ_137706 Length: 43
+# FNFHRZ_137706 Number of predicted TMRs: 0
+FNFHRZ_137706	outside	1	43				
+//
+# FNFHRZ_34938 Length: 50
+# FNFHRZ_34938 Number of predicted TMRs: 0
+FNFHRZ_34938	inside	1	50				
+//
+# FNFHRZ_166714 Length: 46
+# FNFHRZ_166714 Number of predicted TMRs: 0
+FNFHRZ_166714	signal	1	35				
+FNFHRZ_166714	outside	36	46				
+//
+# FNFHRZ_6606 Length: 48
+# FNFHRZ_6606 Number of predicted TMRs: 0
+FNFHRZ_6606	inside	1	48				
+//
+# FNFHRZ_11636 Length: 50
+# FNFHRZ_11636 Number of predicted TMRs: 0
+FNFHRZ_11636	inside	1	50				
+//
+# FNFHRZ_33349 Length: 49
+# FNFHRZ_33349 Number of predicted TMRs: 0
+FNFHRZ_33349	signal	1	46				
+FNFHRZ_33349	outside	47	49				
+//
+# FNFHRZ_97704 Length: 44
+# FNFHRZ_97704 Number of predicted TMRs: 0
+FNFHRZ_97704	inside	1	44				
+//
+# FNFHRZ_34156 Length: 42
+# FNFHRZ_34156 Number of predicted TMRs: 0
+FNFHRZ_34156	inside	1	42				
+//
+# FNFHRZ_22968 Length: 46
+# FNFHRZ_22968 Number of predicted TMRs: 0
+FNFHRZ_22968	inside	1	46				
+//
+# FNFHRZ_164847 Length: 43
+# FNFHRZ_164847 Number of predicted TMRs: 0
+FNFHRZ_164847	inside	1	43				
+//
+# FNFHRZ_69255 Length: 39
+# FNFHRZ_69255 Number of predicted TMRs: 0
+FNFHRZ_69255	inside	1	39				
+//
+# FNFHRZ_13807 Length: 33
+# FNFHRZ_13807 Number of predicted TMRs: 0
+FNFHRZ_13807	inside	1	33				
+//
+# FNFHRZ_138583 Length: 43
+# FNFHRZ_138583 Number of predicted TMRs: 0
+FNFHRZ_138583	signal	1	22				
+FNFHRZ_138583	outside	23	43				
+//
+# FNFHRZ_126032 Length: 35
+# FNFHRZ_126032 Number of predicted TMRs: 0
+FNFHRZ_126032	signal	1	32				
+FNFHRZ_126032	outside	33	35				
+//
+# FNFHRZ_79335 Length: 47
+# FNFHRZ_79335 Number of predicted TMRs: 0
+FNFHRZ_79335	inside	1	47				
+//
+# FNFHRZ_31040 Length: 43
+# FNFHRZ_31040 Number of predicted TMRs: 0
+FNFHRZ_31040	outside	1	43				
+//
+# FNFHRZ_164755 Length: 47
+# FNFHRZ_164755 Number of predicted TMRs: 0
+FNFHRZ_164755	signal	1	45				
+FNFHRZ_164755	outside	46	47				
+//
+# FNFHRZ_131043 Length: 50
+# FNFHRZ_131043 Number of predicted TMRs: 0
+FNFHRZ_131043	inside	1	50				
+//
+# FNFHRZ_99379 Length: 46
+# FNFHRZ_99379 Number of predicted TMRs: 0
+FNFHRZ_99379	inside	1	46				
+//
+# FNFHRZ_70342 Length: 50
+# FNFHRZ_70342 Number of predicted TMRs: 0
+FNFHRZ_70342	inside	1	50				
+//
+# FNFHRZ_17197 Length: 48
+# FNFHRZ_17197 Number of predicted TMRs: 0
+FNFHRZ_17197	inside	1	48				
+//
+# FNFHRZ_93361 Length: 50
+# FNFHRZ_93361 Number of predicted TMRs: 0
+FNFHRZ_93361	inside	1	50				
+//
+# FNFHRZ_112965 Length: 36
+# FNFHRZ_112965 Number of predicted TMRs: 0
+FNFHRZ_112965	signal	1	28				
+FNFHRZ_112965	outside	29	36				
+//
+# FNFHRZ_126047 Length: 35
+# FNFHRZ_126047 Number of predicted TMRs: 0
+FNFHRZ_126047	signal	1	34				
+FNFHRZ_126047	outside	35	35				
+//
+# FNFHRZ_56703 Length: 45
+# FNFHRZ_56703 Number of predicted TMRs: 0
+FNFHRZ_56703	signal	1	44				
+FNFHRZ_56703	outside	45	45				
+//
+# FNFHRZ_38062 Length: 33
+# FNFHRZ_38062 Number of predicted TMRs: 0
+FNFHRZ_38062	inside	1	33				
+//
+# FNFHRZ_146136 Length: 47
+# FNFHRZ_146136 Number of predicted TMRs: 0
+FNFHRZ_146136	signal	1	10				
+FNFHRZ_146136	outside	11	47				
+//
+# FNFHRZ_131469 Length: 46
+# FNFHRZ_131469 Number of predicted TMRs: 0
+FNFHRZ_131469	signal	1	44				
+FNFHRZ_131469	outside	45	46				
+//
+# FNFHRZ_125091 Length: 48
+# FNFHRZ_125091 Number of predicted TMRs: 0
+FNFHRZ_125091	inside	1	48				
+//
+# FNFHRZ_151323 Length: 42
+# FNFHRZ_151323 Number of predicted TMRs: 0
+FNFHRZ_151323	inside	1	42				
+//
+# FNFHRZ_148018 Length: 47
+# FNFHRZ_148018 Number of predicted TMRs: 0
+FNFHRZ_148018	inside	1	47				
+//
+# FNFHRZ_26403 Length: 40
+# FNFHRZ_26403 Number of predicted TMRs: 0
+FNFHRZ_26403	inside	1	40				
+//
+# FNFHRZ_18123 Length: 37
+# FNFHRZ_18123 Number of predicted TMRs: 0
+FNFHRZ_18123	signal	1	24				
+FNFHRZ_18123	outside	25	37				
+//
+# FNFHRZ_26716 Length: 42
+# FNFHRZ_26716 Number of predicted TMRs: 0
+FNFHRZ_26716	signal	1	10				
+FNFHRZ_26716	outside	11	42				
+//
+# FNFHRZ_49126 Length: 40
+# FNFHRZ_49126 Number of predicted TMRs: 0
+FNFHRZ_49126	signal	1	18				
+FNFHRZ_49126	outside	19	40				
+//
+# FNFHRZ_122088 Length: 43
+# FNFHRZ_122088 Number of predicted TMRs: 0
+FNFHRZ_122088	inside	1	43				
+//
+# FNFHRZ_137489 Length: 48
+# FNFHRZ_137489 Number of predicted TMRs: 0
+FNFHRZ_137489	inside	1	48				
+//
+# FNFHRZ_94776 Length: 46
+# FNFHRZ_94776 Number of predicted TMRs: 0
+FNFHRZ_94776	signal	1	45				
+FNFHRZ_94776	outside	46	46				
+//
+# FNFHRZ_136034 Length: 41
+# FNFHRZ_136034 Number of predicted TMRs: 0
+FNFHRZ_136034	signal	1	10				
+FNFHRZ_136034	outside	11	41				
+//
+# FNFHRZ_52256 Length: 43
+# FNFHRZ_52256 Number of predicted TMRs: 0
+FNFHRZ_52256	inside	1	43				
+//
+# FNFHRZ_74730 Length: 38
+# FNFHRZ_74730 Number of predicted TMRs: 0
+FNFHRZ_74730	inside	1	38				
+//
+# FNFHRZ_150235 Length: 48
+# FNFHRZ_150235 Number of predicted TMRs: 0
+FNFHRZ_150235	inside	1	48				
+//
+# FNFHRZ_86681 Length: 42
+# FNFHRZ_86681 Number of predicted TMRs: 0
+FNFHRZ_86681	signal	1	12				
+FNFHRZ_86681	outside	13	42				
+//
+# FNFHRZ_93246 Length: 50
+# FNFHRZ_93246 Number of predicted TMRs: 0
+FNFHRZ_93246	inside	1	50				
+//
+# FNFHRZ_85489 Length: 47
+# FNFHRZ_85489 Number of predicted TMRs: 0
+FNFHRZ_85489	signal	1	40				
+FNFHRZ_85489	outside	41	47				
+//
+# FNFHRZ_101534 Length: 50
+# FNFHRZ_101534 Number of predicted TMRs: 0
+FNFHRZ_101534	signal	1	21				
+FNFHRZ_101534	outside	22	50				
+//
+# FNFHRZ_78052 Length: 45
+# FNFHRZ_78052 Number of predicted TMRs: 0
+FNFHRZ_78052	inside	1	45				
+//
+# FNFHRZ_11733 Length: 49
+# FNFHRZ_11733 Number of predicted TMRs: 0
+FNFHRZ_11733	outside	1	49				
+//
+# FNFHRZ_83005 Length: 42
+# FNFHRZ_83005 Number of predicted TMRs: 0
+FNFHRZ_83005	inside	1	42				
+//
+# FNFHRZ_137768 Length: 34
+# FNFHRZ_137768 Number of predicted TMRs: 0
+FNFHRZ_137768	inside	1	34				
+//
+# FNFHRZ_148720 Length: 45
+# FNFHRZ_148720 Number of predicted TMRs: 0
+FNFHRZ_148720	outside	1	45				
+//
+# FNFHRZ_10906 Length: 43
+# FNFHRZ_10906 Number of predicted TMRs: 0
+FNFHRZ_10906	signal	1	19				
+FNFHRZ_10906	outside	20	43				
+//
+# FNFHRZ_75474 Length: 50
+# FNFHRZ_75474 Number of predicted TMRs: 0
+FNFHRZ_75474	inside	1	50				
+//
+# FNFHRZ_66949 Length: 48
+# FNFHRZ_66949 Number of predicted TMRs: 0
+FNFHRZ_66949	inside	1	48				
+//
+# FNFHRZ_42640 Length: 46
+# FNFHRZ_42640 Number of predicted TMRs: 0
+FNFHRZ_42640	inside	1	46				
+//
+# FNFHRZ_3141 Length: 47
+# FNFHRZ_3141 Number of predicted TMRs: 0
+FNFHRZ_3141	inside	1	47				
+//
+# FNFHRZ_86994 Length: 43
+# FNFHRZ_86994 Number of predicted TMRs: 0
+FNFHRZ_86994	inside	1	43				
+//
+# FNFHRZ_4718 Length: 43
+# FNFHRZ_4718 Number of predicted TMRs: 0
+FNFHRZ_4718	inside	1	43				
+//
+# FNFHRZ_164793 Length: 37
+# FNFHRZ_164793 Number of predicted TMRs: 0
+FNFHRZ_164793	signal	1	35				
+FNFHRZ_164793	outside	36	37				
+//
+# FNFHRZ_16205 Length: 50
+# FNFHRZ_16205 Number of predicted TMRs: 0
+FNFHRZ_16205	inside	1	50				
+//
+# FNFHRZ_89572 Length: 40
+# FNFHRZ_89572 Number of predicted TMRs: 0
+FNFHRZ_89572	inside	1	40				
+//
+# FNFHRZ_96413 Length: 48
+# FNFHRZ_96413 Number of predicted TMRs: 0
+FNFHRZ_96413	inside	1	48				
+//
+# FNFHRZ_72359 Length: 46
+# FNFHRZ_72359 Number of predicted TMRs: 0
+FNFHRZ_72359	signal	1	28				
+FNFHRZ_72359	outside	29	46				
+//
+# FNFHRZ_136902 Length: 47
+# FNFHRZ_136902 Number of predicted TMRs: 0
+FNFHRZ_136902	inside	1	47				
+//
+# FNFHRZ_105067 Length: 34
+# FNFHRZ_105067 Number of predicted TMRs: 0
+FNFHRZ_105067	signal	1	31				
+FNFHRZ_105067	outside	32	34				
+//
+# FNFHRZ_127925 Length: 46
+# FNFHRZ_127925 Number of predicted TMRs: 0
+FNFHRZ_127925	inside	1	46				
+//
+# FNFHRZ_124347 Length: 49
+# FNFHRZ_124347 Number of predicted TMRs: 0
+FNFHRZ_124347	inside	1	49				
+//
+# FNFHRZ_117908 Length: 50
+# FNFHRZ_117908 Number of predicted TMRs: 0
+FNFHRZ_117908	inside	1	50				
+//
+# FNFHRZ_43838 Length: 47
+# FNFHRZ_43838 Number of predicted TMRs: 0
+FNFHRZ_43838	inside	1	47				
+//
+# FNFHRZ_73244 Length: 38
+# FNFHRZ_73244 Number of predicted TMRs: 0
+FNFHRZ_73244	signal	1	37				
+FNFHRZ_73244	outside	38	38				
+//
+# FNFHRZ_44957 Length: 45
+# FNFHRZ_44957 Number of predicted TMRs: 0
+FNFHRZ_44957	inside	1	45				
+//
+# FNFHRZ_13897 Length: 46
+# FNFHRZ_13897 Number of predicted TMRs: 0
+FNFHRZ_13897	inside	1	46				
+//
+# FNFHRZ_29411 Length: 42
+# FNFHRZ_29411 Number of predicted TMRs: 0
+FNFHRZ_29411	inside	1	42				
+//
+# FNFHRZ_38859 Length: 49
+# FNFHRZ_38859 Number of predicted TMRs: 0
+FNFHRZ_38859	inside	1	49				
+//
+# FNFHRZ_117186 Length: 44
+# FNFHRZ_117186 Number of predicted TMRs: 0
+FNFHRZ_117186	inside	1	44				
+//
+# FNFHRZ_146180 Length: 48
+# FNFHRZ_146180 Number of predicted TMRs: 0
+FNFHRZ_146180	outside	1	48				
+//
+# FNFHRZ_40994 Length: 49
+# FNFHRZ_40994 Number of predicted TMRs: 0
+FNFHRZ_40994	inside	1	49				
+//
+# FNFHRZ_98051 Length: 36
+# FNFHRZ_98051 Number of predicted TMRs: 0
+FNFHRZ_98051	inside	1	36				
+//
+# FNFHRZ_101010 Length: 33
+# FNFHRZ_101010 Number of predicted TMRs: 0
+FNFHRZ_101010	inside	1	33				
+//
+# FNFHRZ_96744 Length: 37
+# FNFHRZ_96744 Number of predicted TMRs: 0
+FNFHRZ_96744	inside	1	37				
+//
+# FNFHRZ_147094 Length: 49
+# FNFHRZ_147094 Number of predicted TMRs: 0
+FNFHRZ_147094	inside	1	49				
+//
+# FNFHRZ_113877 Length: 40
+# FNFHRZ_113877 Number of predicted TMRs: 0
+FNFHRZ_113877	signal	1	39				
+FNFHRZ_113877	outside	40	40				
+//
+# FNFHRZ_34416 Length: 47
+# FNFHRZ_34416 Number of predicted TMRs: 0
+FNFHRZ_34416	inside	1	47				
+//
+# FNFHRZ_150278 Length: 41
+# FNFHRZ_150278 Number of predicted TMRs: 0
+FNFHRZ_150278	inside	1	41				
+//
+# FNFHRZ_57350 Length: 43
+# FNFHRZ_57350 Number of predicted TMRs: 0
+FNFHRZ_57350	inside	1	43				
+//
+# FNFHRZ_100754 Length: 48
+# FNFHRZ_100754 Number of predicted TMRs: 0
+FNFHRZ_100754	inside	1	48				
+//
+# FNFHRZ_148802 Length: 47
+# FNFHRZ_148802 Number of predicted TMRs: 0
+FNFHRZ_148802	inside	1	47				
+//
+# FNFHRZ_151638 Length: 46
+# FNFHRZ_151638 Number of predicted TMRs: 0
+FNFHRZ_151638	inside	1	46				
+//
+# FNFHRZ_35082 Length: 45
+# FNFHRZ_35082 Number of predicted TMRs: 0
+FNFHRZ_35082	inside	1	45				
+//
+# FNFHRZ_48597 Length: 48
+# FNFHRZ_48597 Number of predicted TMRs: 0
+FNFHRZ_48597	inside	1	48				
+//
+# FNFHRZ_6900 Length: 47
+# FNFHRZ_6900 Number of predicted TMRs: 0
+FNFHRZ_6900	inside	1	47				
+//
+# FNFHRZ_156725 Length: 50
+# FNFHRZ_156725 Number of predicted TMRs: 0
+FNFHRZ_156725	inside	1	50				
+//
+# FNFHRZ_86205 Length: 42
+# FNFHRZ_86205 Number of predicted TMRs: 0
+FNFHRZ_86205	inside	1	42				
+//
+# FNFHRZ_50507 Length: 35
+# FNFHRZ_50507 Number of predicted TMRs: 0
+FNFHRZ_50507	signal	1	17				
+FNFHRZ_50507	outside	18	35				
+//
+# FNFHRZ_10111 Length: 39
+# FNFHRZ_10111 Number of predicted TMRs: 0
+FNFHRZ_10111	signal	1	38				
+FNFHRZ_10111	outside	39	39				
+//
+# FNFHRZ_16812 Length: 50
+# FNFHRZ_16812 Number of predicted TMRs: 0
+FNFHRZ_16812	inside	1	50				
+//
+# FNFHRZ_57299 Length: 46
+# FNFHRZ_57299 Number of predicted TMRs: 0
+FNFHRZ_57299	signal	1	38				
+FNFHRZ_57299	outside	39	46				
+//
+# FNFHRZ_36545 Length: 42
+# FNFHRZ_36545 Number of predicted TMRs: 0
+FNFHRZ_36545	signal	1	35				
+FNFHRZ_36545	outside	36	42				
+//
+# FNFHRZ_152601 Length: 49
+# FNFHRZ_152601 Number of predicted TMRs: 0
+FNFHRZ_152601	inside	1	49				
+//
+# FNFHRZ_43133 Length: 39
+# FNFHRZ_43133 Number of predicted TMRs: 0
+FNFHRZ_43133	inside	1	39				
+//
+# FNFHRZ_62504 Length: 50
+# FNFHRZ_62504 Number of predicted TMRs: 0
+FNFHRZ_62504	inside	1	50				
+//
+# FNFHRZ_111760 Length: 50
+# FNFHRZ_111760 Number of predicted TMRs: 0
+FNFHRZ_111760	inside	1	50				
+//
+# FNFHRZ_132780 Length: 49
+# FNFHRZ_132780 Number of predicted TMRs: 0
+FNFHRZ_132780	signal	1	48				
+FNFHRZ_132780	outside	49	49				
+//
+# FNFHRZ_63305 Length: 41
+# FNFHRZ_63305 Number of predicted TMRs: 0
+FNFHRZ_63305	signal	1	40				
+FNFHRZ_63305	outside	41	41				
+//
+# FNFHRZ_60712 Length: 49
+# FNFHRZ_60712 Number of predicted TMRs: 0
+FNFHRZ_60712	inside	1	49				
+//
+# FNFHRZ_131999 Length: 49
+# FNFHRZ_131999 Number of predicted TMRs: 0
+FNFHRZ_131999	inside	1	49				
+//
+# FNFHRZ_84193 Length: 42
+# FNFHRZ_84193 Number of predicted TMRs: 0
+FNFHRZ_84193	signal	1	38				
+FNFHRZ_84193	outside	39	42				
+//
+# FNFHRZ_84197 Length: 50
+# FNFHRZ_84197 Number of predicted TMRs: 0
+FNFHRZ_84197	signal	1	12				
+FNFHRZ_84197	outside	13	50				
+//
+# FNFHRZ_163410 Length: 41
+# FNFHRZ_163410 Number of predicted TMRs: 0
+FNFHRZ_163410	inside	1	41				
+//
+# FNFHRZ_131162 Length: 49
+# FNFHRZ_131162 Number of predicted TMRs: 0
+FNFHRZ_131162	inside	1	49				
+//
+# FNFHRZ_83791 Length: 43
+# FNFHRZ_83791 Number of predicted TMRs: 0
+FNFHRZ_83791	inside	1	43				
+//
+# FNFHRZ_47267 Length: 48
+# FNFHRZ_47267 Number of predicted TMRs: 0
+FNFHRZ_47267	inside	1	48				
+//
+# FNFHRZ_90702 Length: 28
+# FNFHRZ_90702 Number of predicted TMRs: 0
+FNFHRZ_90702	inside	1	28				
+//
+# FNFHRZ_26867 Length: 47
+# FNFHRZ_26867 Number of predicted TMRs: 0
+FNFHRZ_26867	signal	1	41				
+FNFHRZ_26867	outside	42	47				
+//
+# FNFHRZ_106230 Length: 48
+# FNFHRZ_106230 Number of predicted TMRs: 0
+FNFHRZ_106230	inside	1	48				
+//
+# FNFHRZ_18218 Length: 50
+# FNFHRZ_18218 Number of predicted TMRs: 0
+FNFHRZ_18218	outside	1	50				
+//
+# FNFHRZ_44712 Length: 33
+# FNFHRZ_44712 Number of predicted TMRs: 0
+FNFHRZ_44712	inside	1	33				
+//
+# FNFHRZ_123606 Length: 50
+# FNFHRZ_123606 Number of predicted TMRs: 0
+FNFHRZ_123606	inside	1	50				
+//
+# FNFHRZ_132291 Length: 33
+# FNFHRZ_132291 Number of predicted TMRs: 0
+FNFHRZ_132291	signal	1	30				
+FNFHRZ_132291	outside	31	33				
+//
+# FNFHRZ_60213 Length: 33
+# FNFHRZ_60213 Number of predicted TMRs: 0
+FNFHRZ_60213	signal	1	25				
+FNFHRZ_60213	outside	26	33				
+//
+# FNFHRZ_33664 Length: 33
+# FNFHRZ_33664 Number of predicted TMRs: 0
+FNFHRZ_33664	signal	1	32				
+FNFHRZ_33664	outside	33	33				
+//
+# FNFHRZ_131476 Length: 33
+# FNFHRZ_131476 Number of predicted TMRs: 0
+FNFHRZ_131476	inside	1	33				
+//
+# FNFHRZ_65851 Length: 33
+# FNFHRZ_65851 Number of predicted TMRs: 0
+FNFHRZ_65851	signal	1	14				
+FNFHRZ_65851	outside	15	33				
+//
+# FNFHRZ_131895 Length: 39
+# FNFHRZ_131895 Number of predicted TMRs: 0
+FNFHRZ_131895	signal	1	38				
+FNFHRZ_131895	outside	39	39				
+//
+# FNFHRZ_158047 Length: 30
+# FNFHRZ_158047 Number of predicted TMRs: 1
+FNFHRZ_158047	outside	1	10				
+FNFHRZ_158047	TMhelix	11	26				
+FNFHRZ_158047	inside	27	30				
+//
+# FNFHRZ_10546 Length: 48
+# FNFHRZ_10546 Number of predicted TMRs: 0
+FNFHRZ_10546	signal	1	46				
+FNFHRZ_10546	outside	47	48				
+//
+# FNFHRZ_18902 Length: 45
+# FNFHRZ_18902 Number of predicted TMRs: 0
+FNFHRZ_18902	signal	1	44				
+FNFHRZ_18902	outside	45	45				
+//
+# FNFHRZ_127368 Length: 45
+# FNFHRZ_127368 Number of predicted TMRs: 0
+FNFHRZ_127368	inside	1	45				
+//
+# FNFHRZ_101728 Length: 49
+# FNFHRZ_101728 Number of predicted TMRs: 0
+FNFHRZ_101728	inside	1	49				
+//
+# FNFHRZ_125454 Length: 49
+# FNFHRZ_125454 Number of predicted TMRs: 0
+FNFHRZ_125454	inside	1	49				
+//
+# FNFHRZ_28082 Length: 50
+# FNFHRZ_28082 Number of predicted TMRs: 0
+FNFHRZ_28082	inside	1	50				
+//
+# FNFHRZ_121349 Length: 40
+# FNFHRZ_121349 Number of predicted TMRs: 0
+FNFHRZ_121349	signal	1	39				
+FNFHRZ_121349	outside	40	40				
+//
+# FNFHRZ_92489 Length: 48
+# FNFHRZ_92489 Number of predicted TMRs: 0
+FNFHRZ_92489	inside	1	48				
+//
+# FNFHRZ_83934 Length: 41
+# FNFHRZ_83934 Number of predicted TMRs: 0
+FNFHRZ_83934	inside	1	41				
+//
+# FNFHRZ_71854 Length: 49
+# FNFHRZ_71854 Number of predicted TMRs: 0
+FNFHRZ_71854	inside	1	49				
+//
+# FNFHRZ_132051 Length: 45
+# FNFHRZ_132051 Number of predicted TMRs: 0
+FNFHRZ_132051	signal	1	16				
+FNFHRZ_132051	outside	17	45				
+//
+# FNFHRZ_40518 Length: 34
+# FNFHRZ_40518 Number of predicted TMRs: 0
+FNFHRZ_40518	signal	1	30				
+FNFHRZ_40518	outside	31	34				
+//
+# FNFHRZ_148529 Length: 47
+# FNFHRZ_148529 Number of predicted TMRs: 0
+FNFHRZ_148529	inside	1	47				
+//
+# FNFHRZ_9120 Length: 46
+# FNFHRZ_9120 Number of predicted TMRs: 0
+FNFHRZ_9120	inside	1	46				
+//
+# FNFHRZ_18919 Length: 46
+# FNFHRZ_18919 Number of predicted TMRs: 0
+FNFHRZ_18919	inside	1	46				
+//
+# FNFHRZ_3123 Length: 42
+# FNFHRZ_3123 Number of predicted TMRs: 0
+FNFHRZ_3123	signal	1	41				
+FNFHRZ_3123	outside	42	42				
+//
+# FNFHRZ_73531 Length: 41
+# FNFHRZ_73531 Number of predicted TMRs: 0
+FNFHRZ_73531	inside	1	41				
+//
+# FNFHRZ_6263 Length: 49
+# FNFHRZ_6263 Number of predicted TMRs: 0
+FNFHRZ_6263	inside	1	49				
+//
+# FNFHRZ_67463 Length: 42
+# FNFHRZ_67463 Number of predicted TMRs: 0
+FNFHRZ_67463	signal	1	10				
+FNFHRZ_67463	outside	11	42				
+//
+# FNFHRZ_79701 Length: 39
+# FNFHRZ_79701 Number of predicted TMRs: 0
+FNFHRZ_79701	inside	1	39				
+//
+# FNFHRZ_149971 Length: 48
+# FNFHRZ_149971 Number of predicted TMRs: 0
+FNFHRZ_149971	inside	1	48				
+//
+# FNFHRZ_129466 Length: 50
+# FNFHRZ_129466 Number of predicted TMRs: 0
+FNFHRZ_129466	inside	1	50				
+//
+# FNFHRZ_13085 Length: 46
+# FNFHRZ_13085 Number of predicted TMRs: 0
+FNFHRZ_13085	inside	1	46				
+//
+# FNFHRZ_93056 Length: 38
+# FNFHRZ_93056 Number of predicted TMRs: 0
+FNFHRZ_93056	signal	1	25				
+FNFHRZ_93056	outside	26	38				
+//
+# FNFHRZ_113687 Length: 43
+# FNFHRZ_113687 Number of predicted TMRs: 0
+FNFHRZ_113687	signal	1	42				
+FNFHRZ_113687	outside	43	43				
+//
+# FNFHRZ_36528 Length: 43
+# FNFHRZ_36528 Number of predicted TMRs: 0
+FNFHRZ_36528	inside	1	43				
+//
+# FNFHRZ_30 Length: 44
+# FNFHRZ_30 Number of predicted TMRs: 0
+FNFHRZ_30	outside	1	44				
+//
+# FNFHRZ_18949 Length: 49
+# FNFHRZ_18949 Number of predicted TMRs: 0
+FNFHRZ_18949	inside	1	49				
+//
+# FNFHRZ_89658 Length: 50
+# FNFHRZ_89658 Number of predicted TMRs: 0
+FNFHRZ_89658	signal	1	38				
+FNFHRZ_89658	outside	39	50				
+//
+# FNFHRZ_9649 Length: 45
+# FNFHRZ_9649 Number of predicted TMRs: 0
+FNFHRZ_9649	inside	1	45				
+//
+# FNFHRZ_138648 Length: 42
+# FNFHRZ_138648 Number of predicted TMRs: 0
+FNFHRZ_138648	inside	1	42				
+//
+# FNFHRZ_129094 Length: 42
+# FNFHRZ_129094 Number of predicted TMRs: 0
+FNFHRZ_129094	signal	1	11				
+FNFHRZ_129094	outside	12	42				
+//
+# FNFHRZ_138219 Length: 48
+# FNFHRZ_138219 Number of predicted TMRs: 0
+FNFHRZ_138219	inside	1	48				
+//
+# FNFHRZ_81321 Length: 50
+# FNFHRZ_81321 Number of predicted TMRs: 0
+FNFHRZ_81321	inside	1	50				
+//
+# FNFHRZ_50461 Length: 50
+# FNFHRZ_50461 Number of predicted TMRs: 0
+FNFHRZ_50461	inside	1	50				
+//
+# FNFHRZ_18906 Length: 45
+# FNFHRZ_18906 Number of predicted TMRs: 0
+FNFHRZ_18906	inside	1	45				
+//
+# FNFHRZ_148630 Length: 43
+# FNFHRZ_148630 Number of predicted TMRs: 0
+FNFHRZ_148630	inside	1	43				
+//
+# FNFHRZ_52575 Length: 50
+# FNFHRZ_52575 Number of predicted TMRs: 0
+FNFHRZ_52575	inside	1	50				
+//
+# FNFHRZ_6881 Length: 49
+# FNFHRZ_6881 Number of predicted TMRs: 0
+FNFHRZ_6881	signal	1	32				
+FNFHRZ_6881	outside	33	49				
+//
+# FNFHRZ_35134 Length: 49
+# FNFHRZ_35134 Number of predicted TMRs: 0
+FNFHRZ_35134	signal	1	47				
+FNFHRZ_35134	outside	48	49				
+//
+# FNFHRZ_90231 Length: 45
+# FNFHRZ_90231 Number of predicted TMRs: 0
+FNFHRZ_90231	signal	1	40				
+FNFHRZ_90231	outside	41	45				
+//
+# FNFHRZ_64934 Length: 26
+# FNFHRZ_64934 Number of predicted TMRs: 0
+FNFHRZ_64934	inside	1	26				
+//
+# FNFHRZ_96152 Length: 27
+# FNFHRZ_96152 Number of predicted TMRs: 0
+FNFHRZ_96152	inside	1	27				
+//
+# FNFHRZ_89184 Length: 48
+# FNFHRZ_89184 Number of predicted TMRs: 0
+FNFHRZ_89184	inside	1	48				
+//
+# FNFHRZ_148801 Length: 47
+# FNFHRZ_148801 Number of predicted TMRs: 0
+FNFHRZ_148801	inside	1	47				
+//
+# FNFHRZ_119365 Length: 45
+# FNFHRZ_119365 Number of predicted TMRs: 0
+FNFHRZ_119365	signal	1	16				
+FNFHRZ_119365	outside	17	45				
+//
+# FNFHRZ_135158 Length: 49
+# FNFHRZ_135158 Number of predicted TMRs: 0
+FNFHRZ_135158	inside	1	49				
+//
+# FNFHRZ_130688 Length: 40
+# FNFHRZ_130688 Number of predicted TMRs: 0
+FNFHRZ_130688	signal	1	39				
+FNFHRZ_130688	outside	40	40				
+//
+# FNFHRZ_60277 Length: 46
+# FNFHRZ_60277 Number of predicted TMRs: 0
+FNFHRZ_60277	inside	1	46				
+//
+# FNFHRZ_36450 Length: 47
+# FNFHRZ_36450 Number of predicted TMRs: 0
+FNFHRZ_36450	inside	1	47				
+//
+# FNFHRZ_114912 Length: 24
+# FNFHRZ_114912 Number of predicted TMRs: 0
+FNFHRZ_114912	inside	1	24				
+//
+# FNFHRZ_79670 Length: 50
+# FNFHRZ_79670 Number of predicted TMRs: 0
+FNFHRZ_79670	inside	1	50				
+//
+# FNFHRZ_132870 Length: 39
+# FNFHRZ_132870 Number of predicted TMRs: 0
+FNFHRZ_132870	inside	1	39				
+//
+# FNFHRZ_119219 Length: 43
+# FNFHRZ_119219 Number of predicted TMRs: 0
+FNFHRZ_119219	signal	1	18				
+FNFHRZ_119219	outside	19	43				
+//
+# FNFHRZ_153469 Length: 43
+# FNFHRZ_153469 Number of predicted TMRs: 0
+FNFHRZ_153469	signal	1	20				
+FNFHRZ_153469	outside	21	43				
+//
+# FNFHRZ_134530 Length: 38
+# FNFHRZ_134530 Number of predicted TMRs: 0
+FNFHRZ_134530	inside	1	38				
+//
+# FNFHRZ_10829 Length: 50
+# FNFHRZ_10829 Number of predicted TMRs: 0
+FNFHRZ_10829	inside	1	50				
+//
+# FNFHRZ_50614 Length: 47
+# FNFHRZ_50614 Number of predicted TMRs: 0
+FNFHRZ_50614	inside	1	47				
+//
+# FNFHRZ_82550 Length: 44
+# FNFHRZ_82550 Number of predicted TMRs: 0
+FNFHRZ_82550	inside	1	44				
+//
+# FNFHRZ_135263 Length: 46
+# FNFHRZ_135263 Number of predicted TMRs: 0
+FNFHRZ_135263	inside	1	46				
+//
+# FNFHRZ_127699 Length: 50
+# FNFHRZ_127699 Number of predicted TMRs: 0
+FNFHRZ_127699	inside	1	50				
+//
+# FNFHRZ_10646 Length: 47
+# FNFHRZ_10646 Number of predicted TMRs: 0
+FNFHRZ_10646	inside	1	47				
+//
+# FNFHRZ_7599 Length: 34
+# FNFHRZ_7599 Number of predicted TMRs: 0
+FNFHRZ_7599	outside	1	34				
+//
+# FNFHRZ_89795 Length: 48
+# FNFHRZ_89795 Number of predicted TMRs: 0
+FNFHRZ_89795	signal	1	24				
+FNFHRZ_89795	outside	25	48				
+//
+# FNFHRZ_114324 Length: 45
+# FNFHRZ_114324 Number of predicted TMRs: 0
+FNFHRZ_114324	inside	1	45				
+//
+# FNFHRZ_106370 Length: 46
+# FNFHRZ_106370 Number of predicted TMRs: 0
+FNFHRZ_106370	inside	1	46				
+//
+# FNFHRZ_152215 Length: 49
+# FNFHRZ_152215 Number of predicted TMRs: 0
+FNFHRZ_152215	outside	1	49				
+//
+# FNFHRZ_142226 Length: 44
+# FNFHRZ_142226 Number of predicted TMRs: 0
+FNFHRZ_142226	inside	1	44				
+//
+# FNFHRZ_3118 Length: 46
+# FNFHRZ_3118 Number of predicted TMRs: 0
+FNFHRZ_3118	inside	1	46				
+//
+# FNFHRZ_171001 Length: 50
+# FNFHRZ_171001 Number of predicted TMRs: 0
+FNFHRZ_171001	inside	1	50				
+//
+# FNFHRZ_41694 Length: 43
+# FNFHRZ_41694 Number of predicted TMRs: 0
+FNFHRZ_41694	signal	1	22				
+FNFHRZ_41694	outside	23	43				
+//
+# FNFHRZ_86792 Length: 37
+# FNFHRZ_86792 Number of predicted TMRs: 0
+FNFHRZ_86792	signal	1	32				
+FNFHRZ_86792	outside	33	37				
+//
+# FNFHRZ_47163 Length: 31
+# FNFHRZ_47163 Number of predicted TMRs: 0
+FNFHRZ_47163	signal	1	30				
+FNFHRZ_47163	outside	31	31				
+//
+# FNFHRZ_43349 Length: 44
+# FNFHRZ_43349 Number of predicted TMRs: 0
+FNFHRZ_43349	inside	1	44				
+//
+# FNFHRZ_117526 Length: 45
+# FNFHRZ_117526 Number of predicted TMRs: 0
+FNFHRZ_117526	inside	1	45				
+//
+# FNFHRZ_120599 Length: 49
+# FNFHRZ_120599 Number of predicted TMRs: 0
+FNFHRZ_120599	signal	1	47				
+FNFHRZ_120599	outside	48	49				
+//
+# FNFHRZ_20955 Length: 46
+# FNFHRZ_20955 Number of predicted TMRs: 0
+FNFHRZ_20955	inside	1	46				
+//
+# FNFHRZ_122170 Length: 50
+# FNFHRZ_122170 Number of predicted TMRs: 0
+FNFHRZ_122170	inside	1	50				
+//
+# FNFHRZ_103769 Length: 30
+# FNFHRZ_103769 Number of predicted TMRs: 0
+FNFHRZ_103769	signal	1	24				
+FNFHRZ_103769	outside	25	30				
+//
+# FNFHRZ_23169 Length: 50
+# FNFHRZ_23169 Number of predicted TMRs: 0
+FNFHRZ_23169	signal	1	17				
+FNFHRZ_23169	outside	18	50				
+//
+# FNFHRZ_56135 Length: 36
+# FNFHRZ_56135 Number of predicted TMRs: 0
+FNFHRZ_56135	signal	1	35				
+FNFHRZ_56135	outside	36	36				
+//
+# FNFHRZ_12176 Length: 49
+# FNFHRZ_12176 Number of predicted TMRs: 0
+FNFHRZ_12176	inside	1	49				
+//
+# FNFHRZ_90047 Length: 44
+# FNFHRZ_90047 Number of predicted TMRs: 0
+FNFHRZ_90047	signal	1	10				
+FNFHRZ_90047	outside	11	44				
+//
+# FNFHRZ_89712 Length: 42
+# FNFHRZ_89712 Number of predicted TMRs: 0
+FNFHRZ_89712	inside	1	42				
+//
+# FNFHRZ_166847 Length: 49
+# FNFHRZ_166847 Number of predicted TMRs: 0
+FNFHRZ_166847	inside	1	49				
+//
+# FNFHRZ_123608 Length: 45
+# FNFHRZ_123608 Number of predicted TMRs: 0
+FNFHRZ_123608	inside	1	45				
+//
+# FNFHRZ_85912 Length: 50
+# FNFHRZ_85912 Number of predicted TMRs: 0
+FNFHRZ_85912	inside	1	50				
+//
+# FNFHRZ_102071 Length: 40
+# FNFHRZ_102071 Number of predicted TMRs: 0
+FNFHRZ_102071	inside	1	40				
+//
+# FNFHRZ_99775 Length: 47
+# FNFHRZ_99775 Number of predicted TMRs: 0
+FNFHRZ_99775	inside	1	47				
+//
+# FNFHRZ_1960 Length: 33
+# FNFHRZ_1960 Number of predicted TMRs: 0
+FNFHRZ_1960	signal	1	26				
+FNFHRZ_1960	outside	27	33				
+//
+# FNFHRZ_112977 Length: 40
+# FNFHRZ_112977 Number of predicted TMRs: 0
+FNFHRZ_112977	signal	1	20				
+FNFHRZ_112977	outside	21	40				
+//
+# FNFHRZ_35154 Length: 49
+# FNFHRZ_35154 Number of predicted TMRs: 0
+FNFHRZ_35154	inside	1	49				
+//
+# FNFHRZ_137259 Length: 43
+# FNFHRZ_137259 Number of predicted TMRs: 0
+FNFHRZ_137259	signal	1	15				
+FNFHRZ_137259	outside	16	43				
+//
+# FNFHRZ_86224 Length: 48
+# FNFHRZ_86224 Number of predicted TMRs: 0
+FNFHRZ_86224	inside	1	48				
+//
+# FNFHRZ_138036 Length: 29
+# FNFHRZ_138036 Number of predicted TMRs: 0
+FNFHRZ_138036	signal	1	26				
+FNFHRZ_138036	outside	27	29				
+//
+# FNFHRZ_23285 Length: 37
+# FNFHRZ_23285 Number of predicted TMRs: 0
+FNFHRZ_23285	signal	1	20				
+FNFHRZ_23285	outside	21	37				
+//
+# FNFHRZ_6318 Length: 42
+# FNFHRZ_6318 Number of predicted TMRs: 0
+FNFHRZ_6318	inside	1	42				
+//
+# FNFHRZ_66002 Length: 50
+# FNFHRZ_66002 Number of predicted TMRs: 0
+FNFHRZ_66002	inside	1	50				
+//
+# FNFHRZ_167379 Length: 38
+# FNFHRZ_167379 Number of predicted TMRs: 0
+FNFHRZ_167379	inside	1	38				
+//
+# FNFHRZ_19729 Length: 48
+# FNFHRZ_19729 Number of predicted TMRs: 0
+FNFHRZ_19729	outside	1	48				
+//
+# FNFHRZ_60279 Length: 50
+# FNFHRZ_60279 Number of predicted TMRs: 0
+FNFHRZ_60279	inside	1	50				
+//
+# FNFHRZ_40541 Length: 42
+# FNFHRZ_40541 Number of predicted TMRs: 0
+FNFHRZ_40541	inside	1	42				
+//
+# FNFHRZ_145957 Length: 50
+# FNFHRZ_145957 Number of predicted TMRs: 0
+FNFHRZ_145957	inside	1	50				
+//
+# FNFHRZ_126500 Length: 39
+# FNFHRZ_126500 Number of predicted TMRs: 0
+FNFHRZ_126500	outside	1	39				
+//
+# FNFHRZ_161752 Length: 42
+# FNFHRZ_161752 Number of predicted TMRs: 1
+FNFHRZ_161752	outside	1	11				
+FNFHRZ_161752	TMhelix	12	28				
+FNFHRZ_161752	inside	29	42				
+//
+# FNFHRZ_3553 Length: 46
+# FNFHRZ_3553 Number of predicted TMRs: 0
+FNFHRZ_3553	signal	1	45				
+FNFHRZ_3553	outside	46	46				
+//
+# FNFHRZ_16902 Length: 45
+# FNFHRZ_16902 Number of predicted TMRs: 0
+FNFHRZ_16902	signal	1	40				
+FNFHRZ_16902	outside	41	45				
+//
+# FNFHRZ_6967 Length: 49
+# FNFHRZ_6967 Number of predicted TMRs: 0
+FNFHRZ_6967	signal	1	44				
+FNFHRZ_6967	outside	45	49				
+//
+# FNFHRZ_145022 Length: 48
+# FNFHRZ_145022 Number of predicted TMRs: 0
+FNFHRZ_145022	signal	1	41				
+FNFHRZ_145022	outside	42	48				
+//
+# FNFHRZ_68714 Length: 49
+# FNFHRZ_68714 Number of predicted TMRs: 0
+FNFHRZ_68714	inside	1	49				
+//
+# FNFHRZ_142753 Length: 38
+# FNFHRZ_142753 Number of predicted TMRs: 0
+FNFHRZ_142753	signal	1	37				
+FNFHRZ_142753	outside	38	38				
+//
+# FNFHRZ_128284 Length: 43
+# FNFHRZ_128284 Number of predicted TMRs: 0
+FNFHRZ_128284	outside	1	43				
+//
+# FNFHRZ_79523 Length: 46
+# FNFHRZ_79523 Number of predicted TMRs: 0
+FNFHRZ_79523	inside	1	46				
+//
+# FNFHRZ_11184 Length: 47
+# FNFHRZ_11184 Number of predicted TMRs: 0
+FNFHRZ_11184	outside	1	47				
+//
+# FNFHRZ_58468 Length: 48
+# FNFHRZ_58468 Number of predicted TMRs: 0
+FNFHRZ_58468	signal	1	11				
+FNFHRZ_58468	outside	12	48				
+//
+# FNFHRZ_112496 Length: 46
+# FNFHRZ_112496 Number of predicted TMRs: 0
+FNFHRZ_112496	inside	1	46				
+//
+# FNFHRZ_46386 Length: 40
+# FNFHRZ_46386 Number of predicted TMRs: 0
+FNFHRZ_46386	inside	1	40				
+//
+# FNFHRZ_149897 Length: 41
+# FNFHRZ_149897 Number of predicted TMRs: 0
+FNFHRZ_149897	signal	1	40				
+FNFHRZ_149897	outside	41	41				
+//
+# FNFHRZ_117683 Length: 46
+# FNFHRZ_117683 Number of predicted TMRs: 0
+FNFHRZ_117683	inside	1	46				
+//
+# FNFHRZ_138514 Length: 46
+# FNFHRZ_138514 Number of predicted TMRs: 0
+FNFHRZ_138514	signal	1	42				
+FNFHRZ_138514	outside	43	46				
+//
+# FNFHRZ_37421 Length: 50
+# FNFHRZ_37421 Number of predicted TMRs: 0
+FNFHRZ_37421	inside	1	50				
+//
+# FNFHRZ_170922 Length: 39
+# FNFHRZ_170922 Number of predicted TMRs: 0
+FNFHRZ_170922	signal	1	35				
+FNFHRZ_170922	outside	36	39				
+//
+# FNFHRZ_16344 Length: 48
+# FNFHRZ_16344 Number of predicted TMRs: 0
+FNFHRZ_16344	inside	1	48				
+//
+# FNFHRZ_60882 Length: 46
+# FNFHRZ_60882 Number of predicted TMRs: 0
+FNFHRZ_60882	signal	1	38				
+FNFHRZ_60882	outside	39	46				
+//
+# FNFHRZ_111663 Length: 50
+# FNFHRZ_111663 Number of predicted TMRs: 0
+FNFHRZ_111663	inside	1	50				
+//
+# FNFHRZ_71266 Length: 44
+# FNFHRZ_71266 Number of predicted TMRs: 0
+FNFHRZ_71266	inside	1	44				
+//
+# FNFHRZ_49651 Length: 46
+# FNFHRZ_49651 Number of predicted TMRs: 0
+FNFHRZ_49651	signal	1	28				
+FNFHRZ_49651	outside	29	46				
+//
+# FNFHRZ_21702 Length: 36
+# FNFHRZ_21702 Number of predicted TMRs: 0
+FNFHRZ_21702	signal	1	35				
+FNFHRZ_21702	outside	36	36				
+//
+# FNFHRZ_166124 Length: 44
+# FNFHRZ_166124 Number of predicted TMRs: 0
+FNFHRZ_166124	inside	1	44				
+//
+# FNFHRZ_166835 Length: 50
+# FNFHRZ_166835 Number of predicted TMRs: 0
+FNFHRZ_166835	inside	1	50				
+//
+# FNFHRZ_163699 Length: 50
+# FNFHRZ_163699 Number of predicted TMRs: 0
+FNFHRZ_163699	inside	1	50				
+//
+# FNFHRZ_68595 Length: 45
+# FNFHRZ_68595 Number of predicted TMRs: 0
+FNFHRZ_68595	signal	1	44				
+FNFHRZ_68595	outside	45	45				
+//
+# FNFHRZ_96671 Length: 45
+# FNFHRZ_96671 Number of predicted TMRs: 0
+FNFHRZ_96671	inside	1	45				
+//
+# FNFHRZ_28769 Length: 47
+# FNFHRZ_28769 Number of predicted TMRs: 0
+FNFHRZ_28769	signal	1	12				
+FNFHRZ_28769	outside	13	47				
+//
+# FNFHRZ_141767 Length: 33
+# FNFHRZ_141767 Number of predicted TMRs: 0
+FNFHRZ_141767	outside	1	33				
+//
+# FNFHRZ_35435 Length: 38
+# FNFHRZ_35435 Number of predicted TMRs: 0
+FNFHRZ_35435	inside	1	38				
+//
+# FNFHRZ_126981 Length: 49
+# FNFHRZ_126981 Number of predicted TMRs: 0
+FNFHRZ_126981	signal	1	11				
+FNFHRZ_126981	outside	12	49				
+//
+# FNFHRZ_129488 Length: 44
+# FNFHRZ_129488 Number of predicted TMRs: 0
+FNFHRZ_129488	inside	1	44				
+//
+# FNFHRZ_8428 Length: 47
+# FNFHRZ_8428 Number of predicted TMRs: 0
+FNFHRZ_8428	signal	1	41				
+FNFHRZ_8428	outside	42	47				
+//
+# FNFHRZ_133939 Length: 43
+# FNFHRZ_133939 Number of predicted TMRs: 0
+FNFHRZ_133939	inside	1	43				
+//
+# FNFHRZ_87916 Length: 45
+# FNFHRZ_87916 Number of predicted TMRs: 0
+FNFHRZ_87916	inside	1	45				
+//
+# FNFHRZ_15651 Length: 47
+# FNFHRZ_15651 Number of predicted TMRs: 0
+FNFHRZ_15651	inside	1	47				
+//
+# FNFHRZ_123003 Length: 48
+# FNFHRZ_123003 Number of predicted TMRs: 0
+FNFHRZ_123003	signal	1	23				
+FNFHRZ_123003	outside	24	48				
+//
+# FNFHRZ_92715 Length: 36
+# FNFHRZ_92715 Number of predicted TMRs: 0
+FNFHRZ_92715	signal	1	31				
+FNFHRZ_92715	outside	32	36				
+//
+# FNFHRZ_45769 Length: 43
+# FNFHRZ_45769 Number of predicted TMRs: 0
+FNFHRZ_45769	inside	1	43				
+//
+# FNFHRZ_167944 Length: 41
+# FNFHRZ_167944 Number of predicted TMRs: 0
+FNFHRZ_167944	signal	1	40				
+FNFHRZ_167944	outside	41	41				
+//
+# FNFHRZ_106322 Length: 45
+# FNFHRZ_106322 Number of predicted TMRs: 0
+FNFHRZ_106322	signal	1	44				
+FNFHRZ_106322	outside	45	45				
+//
+# FNFHRZ_170121 Length: 44
+# FNFHRZ_170121 Number of predicted TMRs: 0
+FNFHRZ_170121	inside	1	44				
+//
+# FNFHRZ_121484 Length: 43
+# FNFHRZ_121484 Number of predicted TMRs: 0
+FNFHRZ_121484	inside	1	43				
+//
+# FNFHRZ_74001 Length: 47
+# FNFHRZ_74001 Number of predicted TMRs: 0
+FNFHRZ_74001	inside	1	47				
+//
+# FNFHRZ_53247 Length: 48
+# FNFHRZ_53247 Number of predicted TMRs: 0
+FNFHRZ_53247	inside	1	48				
+//
+# FNFHRZ_53244 Length: 48
+# FNFHRZ_53244 Number of predicted TMRs: 0
+FNFHRZ_53244	outside	1	48				
+//
+# FNFHRZ_106665 Length: 45
+# FNFHRZ_106665 Number of predicted TMRs: 0
+FNFHRZ_106665	signal	1	20				
+FNFHRZ_106665	outside	21	45				
+//
+# FNFHRZ_156995 Length: 49
+# FNFHRZ_156995 Number of predicted TMRs: 1
+FNFHRZ_156995	inside	1	21				
+FNFHRZ_156995	TMhelix	22	42				
+FNFHRZ_156995	outside	43	49				
+//
+# FNFHRZ_44290 Length: 47
+# FNFHRZ_44290 Number of predicted TMRs: 0
+FNFHRZ_44290	signal	1	10				
+FNFHRZ_44290	outside	11	47				
+//
+# FNFHRZ_44859 Length: 45
+# FNFHRZ_44859 Number of predicted TMRs: 0
+FNFHRZ_44859	inside	1	45				
+//
+# FNFHRZ_84453 Length: 46
+# FNFHRZ_84453 Number of predicted TMRs: 0
+FNFHRZ_84453	outside	1	46				
+//
+# FNFHRZ_121252 Length: 47
+# FNFHRZ_121252 Number of predicted TMRs: 0
+FNFHRZ_121252	inside	1	47				
+//
+# FNFHRZ_35118 Length: 49
+# FNFHRZ_35118 Number of predicted TMRs: 0
+FNFHRZ_35118	inside	1	49				
+//
+# FNFHRZ_63857 Length: 44
+# FNFHRZ_63857 Number of predicted TMRs: 0
+FNFHRZ_63857	inside	1	44				
+//
+# FNFHRZ_124735 Length: 48
+# FNFHRZ_124735 Number of predicted TMRs: 0
+FNFHRZ_124735	signal	1	47				
+FNFHRZ_124735	outside	48	48				
+//
+# FNFHRZ_90114 Length: 49
+# FNFHRZ_90114 Number of predicted TMRs: 0
+FNFHRZ_90114	signal	1	23				
+FNFHRZ_90114	outside	24	49				
+//
+# FNFHRZ_48518 Length: 37
+# FNFHRZ_48518 Number of predicted TMRs: 0
+FNFHRZ_48518	inside	1	37				
+//
+# FNFHRZ_101105 Length: 46
+# FNFHRZ_101105 Number of predicted TMRs: 0
+FNFHRZ_101105	inside	1	46				
+//
+# FNFHRZ_125761 Length: 35
+# FNFHRZ_125761 Number of predicted TMRs: 0
+FNFHRZ_125761	inside	1	35				
+//
+# FNFHRZ_10421 Length: 30
+# FNFHRZ_10421 Number of predicted TMRs: 0
+FNFHRZ_10421	signal	1	29				
+FNFHRZ_10421	outside	30	30				
+//
+# FNFHRZ_94540 Length: 44
+# FNFHRZ_94540 Number of predicted TMRs: 0
+FNFHRZ_94540	signal	1	43				
+FNFHRZ_94540	outside	44	44				
+//
+# FNFHRZ_54659 Length: 46
+# FNFHRZ_54659 Number of predicted TMRs: 0
+FNFHRZ_54659	signal	1	13				
+FNFHRZ_54659	outside	14	46				
+//
+# FNFHRZ_28861 Length: 43
+# FNFHRZ_28861 Number of predicted TMRs: 0
+FNFHRZ_28861	inside	1	43				
+//
+# FNFHRZ_14864 Length: 50
+# FNFHRZ_14864 Number of predicted TMRs: 0
+FNFHRZ_14864	inside	1	50				
+//
+# FNFHRZ_91210 Length: 50
+# FNFHRZ_91210 Number of predicted TMRs: 0
+FNFHRZ_91210	signal	1	18				
+FNFHRZ_91210	outside	19	50				
+//
+# FNFHRZ_13559 Length: 41
+# FNFHRZ_13559 Number of predicted TMRs: 0
+FNFHRZ_13559	inside	1	41				
+//
+# FNFHRZ_22677 Length: 44
+# FNFHRZ_22677 Number of predicted TMRs: 0
+FNFHRZ_22677	inside	1	44				
+//
+# FNFHRZ_135377 Length: 46
+# FNFHRZ_135377 Number of predicted TMRs: 0
+FNFHRZ_135377	inside	1	46				
+//
+# FNFHRZ_93455 Length: 48
+# FNFHRZ_93455 Number of predicted TMRs: 0
+FNFHRZ_93455	outside	1	48				
+//
+# FNFHRZ_91608 Length: 43
+# FNFHRZ_91608 Number of predicted TMRs: 0
+FNFHRZ_91608	inside	1	43				
+//
+# FNFHRZ_167808 Length: 41
+# FNFHRZ_167808 Number of predicted TMRs: 0
+FNFHRZ_167808	inside	1	41				
+//
+# FNFHRZ_88927 Length: 50
+# FNFHRZ_88927 Number of predicted TMRs: 0
+FNFHRZ_88927	inside	1	50				
+//
+# FNFHRZ_127869 Length: 34
+# FNFHRZ_127869 Number of predicted TMRs: 0
+FNFHRZ_127869	outside	1	34				
+//
+# FNFHRZ_39137 Length: 48
+# FNFHRZ_39137 Number of predicted TMRs: 0
+FNFHRZ_39137	inside	1	48				
+//
+# FNFHRZ_46969 Length: 47
+# FNFHRZ_46969 Number of predicted TMRs: 0
+FNFHRZ_46969	signal	1	10				
+FNFHRZ_46969	outside	11	47				
+//
+# FNFHRZ_99083 Length: 44
+# FNFHRZ_99083 Number of predicted TMRs: 0
+FNFHRZ_99083	inside	1	44				
+//
+# FNFHRZ_122068 Length: 45
+# FNFHRZ_122068 Number of predicted TMRs: 0
+FNFHRZ_122068	signal	1	44				
+FNFHRZ_122068	outside	45	45				
+//
+# FNFHRZ_38717 Length: 50
+# FNFHRZ_38717 Number of predicted TMRs: 0
+FNFHRZ_38717	inside	1	50				
+//
+# FNFHRZ_133618 Length: 41
+# FNFHRZ_133618 Number of predicted TMRs: 0
+FNFHRZ_133618	signal	1	32				
+FNFHRZ_133618	outside	33	41				
+//
+# FNFHRZ_167102 Length: 36
+# FNFHRZ_167102 Number of predicted TMRs: 0
+FNFHRZ_167102	inside	1	36				
+//
+# FNFHRZ_130345 Length: 50
+# FNFHRZ_130345 Number of predicted TMRs: 0
+FNFHRZ_130345	signal	1	39				
+FNFHRZ_130345	outside	40	50				
+//
+# FNFHRZ_169632 Length: 48
+# FNFHRZ_169632 Number of predicted TMRs: 0
+FNFHRZ_169632	signal	1	44				
+FNFHRZ_169632	outside	45	48				
+//
+# FNFHRZ_14703 Length: 48
+# FNFHRZ_14703 Number of predicted TMRs: 0
+FNFHRZ_14703	inside	1	48				
+//
+# FNFHRZ_65266 Length: 50
+# FNFHRZ_65266 Number of predicted TMRs: 0
+FNFHRZ_65266	inside	1	50				
+//
+# FNFHRZ_142066 Length: 50
+# FNFHRZ_142066 Number of predicted TMRs: 0
+FNFHRZ_142066	inside	1	50				
+//
+# FNFHRZ_110448 Length: 45
+# FNFHRZ_110448 Number of predicted TMRs: 0
+FNFHRZ_110448	signal	1	43				
+FNFHRZ_110448	outside	44	45				
+//
+# FNFHRZ_10007 Length: 33
+# FNFHRZ_10007 Number of predicted TMRs: 0
+FNFHRZ_10007	signal	1	15				
+FNFHRZ_10007	outside	16	33				
+//
+# FNFHRZ_146977 Length: 50
+# FNFHRZ_146977 Number of predicted TMRs: 0
+FNFHRZ_146977	inside	1	50				
+//
+# FNFHRZ_80429 Length: 44
+# FNFHRZ_80429 Number of predicted TMRs: 0
+FNFHRZ_80429	inside	1	44				
+//
+# FNFHRZ_125937 Length: 49
+# FNFHRZ_125937 Number of predicted TMRs: 0
+FNFHRZ_125937	signal	1	34				
+FNFHRZ_125937	outside	35	49				
+//
+# FNFHRZ_120312 Length: 50
+# FNFHRZ_120312 Number of predicted TMRs: 0
+FNFHRZ_120312	inside	1	50				
+//
+# FNFHRZ_102572 Length: 44
+# FNFHRZ_102572 Number of predicted TMRs: 0
+FNFHRZ_102572	inside	1	44				
+//
+# FNFHRZ_170469 Length: 50
+# FNFHRZ_170469 Number of predicted TMRs: 0
+FNFHRZ_170469	inside	1	50				
+//
+# FNFHRZ_12835 Length: 48
+# FNFHRZ_12835 Number of predicted TMRs: 0
+FNFHRZ_12835	inside	1	48				
+//
+# FNFHRZ_83690 Length: 42
+# FNFHRZ_83690 Number of predicted TMRs: 0
+FNFHRZ_83690	signal	1	18				
+FNFHRZ_83690	outside	19	42				
+//
+# FNFHRZ_56677 Length: 48
+# FNFHRZ_56677 Number of predicted TMRs: 0
+FNFHRZ_56677	inside	1	48				
+//
+# FNFHRZ_98399 Length: 49
+# FNFHRZ_98399 Number of predicted TMRs: 0
+FNFHRZ_98399	outside	1	49				
+//
+# FNFHRZ_81149 Length: 47
+# FNFHRZ_81149 Number of predicted TMRs: 0
+FNFHRZ_81149	inside	1	47				
+//
+# FNFHRZ_113710 Length: 40
+# FNFHRZ_113710 Number of predicted TMRs: 0
+FNFHRZ_113710	inside	1	40				
+//
+# FNFHRZ_57961 Length: 50
+# FNFHRZ_57961 Number of predicted TMRs: 0
+FNFHRZ_57961	signal	1	29				
+FNFHRZ_57961	outside	30	50				
+//
+# FNFHRZ_47528 Length: 45
+# FNFHRZ_47528 Number of predicted TMRs: 0
+FNFHRZ_47528	signal	1	44				
+FNFHRZ_47528	outside	45	45				
+//
+# FNFHRZ_75672 Length: 40
+# FNFHRZ_75672 Number of predicted TMRs: 0
+FNFHRZ_75672	signal	1	26				
+FNFHRZ_75672	outside	27	40				
+//
+# FNFHRZ_92686 Length: 41
+# FNFHRZ_92686 Number of predicted TMRs: 0
+FNFHRZ_92686	signal	1	28				
+FNFHRZ_92686	outside	29	41				
+//
+# FNFHRZ_148752 Length: 47
+# FNFHRZ_148752 Number of predicted TMRs: 0
+FNFHRZ_148752	signal	1	27				
+FNFHRZ_148752	outside	28	47				
+//
+# FNFHRZ_155481 Length: 47
+# FNFHRZ_155481 Number of predicted TMRs: 0
+FNFHRZ_155481	signal	1	38				
+FNFHRZ_155481	outside	39	47				
+//
+# FNFHRZ_66584 Length: 47
+# FNFHRZ_66584 Number of predicted TMRs: 0
+FNFHRZ_66584	signal	1	38				
+FNFHRZ_66584	outside	39	47				
+//
+# FNFHRZ_81267 Length: 46
+# FNFHRZ_81267 Number of predicted TMRs: 0
+FNFHRZ_81267	signal	1	15				
+FNFHRZ_81267	outside	16	46				
+//
+# FNFHRZ_19706 Length: 43
+# FNFHRZ_19706 Number of predicted TMRs: 0
+FNFHRZ_19706	signal	1	12				
+FNFHRZ_19706	outside	13	43				
+//
+# FNFHRZ_148823 Length: 46
+# FNFHRZ_148823 Number of predicted TMRs: 0
+FNFHRZ_148823	inside	1	46				
+//
+# FNFHRZ_16821 Length: 37
+# FNFHRZ_16821 Number of predicted TMRs: 0
+FNFHRZ_16821	signal	1	12				
+FNFHRZ_16821	outside	13	37				
+//
+# FNFHRZ_4955 Length: 50
+# FNFHRZ_4955 Number of predicted TMRs: 0
+FNFHRZ_4955	inside	1	50				
+//
+# FNFHRZ_121547 Length: 49
+# FNFHRZ_121547 Number of predicted TMRs: 0
+FNFHRZ_121547	inside	1	49				
+//
+# FNFHRZ_14133 Length: 47
+# FNFHRZ_14133 Number of predicted TMRs: 0
+FNFHRZ_14133	signal	1	15				
+FNFHRZ_14133	outside	16	47				
+//
+# FNFHRZ_1865 Length: 25
+# FNFHRZ_1865 Number of predicted TMRs: 0
+FNFHRZ_1865	inside	1	25				
+//
+# FNFHRZ_37552 Length: 44
+# FNFHRZ_37552 Number of predicted TMRs: 0
+FNFHRZ_37552	inside	1	44				
+//
+# FNFHRZ_55485 Length: 50
+# FNFHRZ_55485 Number of predicted TMRs: 0
+FNFHRZ_55485	signal	1	10				
+FNFHRZ_55485	outside	11	50				
+//
+# FNFHRZ_136087 Length: 34
+# FNFHRZ_136087 Number of predicted TMRs: 0
+FNFHRZ_136087	inside	1	34				
+//
+# FNFHRZ_134641 Length: 48
+# FNFHRZ_134641 Number of predicted TMRs: 0
+FNFHRZ_134641	signal	1	47				
+FNFHRZ_134641	outside	48	48				
+//
+# FNFHRZ_6189 Length: 43
+# FNFHRZ_6189 Number of predicted TMRs: 0
+FNFHRZ_6189	inside	1	43				
+//
+# FNFHRZ_110656 Length: 45
+# FNFHRZ_110656 Number of predicted TMRs: 0
+FNFHRZ_110656	outside	1	45				
+//
+# FNFHRZ_29499 Length: 47
+# FNFHRZ_29499 Number of predicted TMRs: 0
+FNFHRZ_29499	inside	1	47				
+//
+# FNFHRZ_111492 Length: 39
+# FNFHRZ_111492 Number of predicted TMRs: 0
+FNFHRZ_111492	signal	1	38				
+FNFHRZ_111492	outside	39	39				
+//
+# FNFHRZ_28374 Length: 30
+# FNFHRZ_28374 Number of predicted TMRs: 0
+FNFHRZ_28374	signal	1	29				
+FNFHRZ_28374	outside	30	30				
+//
+# FNFHRZ_50040 Length: 42
+# FNFHRZ_50040 Number of predicted TMRs: 0
+FNFHRZ_50040	inside	1	42				
+//
+# FNFHRZ_106686 Length: 42
+# FNFHRZ_106686 Number of predicted TMRs: 0
+FNFHRZ_106686	inside	1	42				
+//
+# FNFHRZ_35077 Length: 40
+# FNFHRZ_35077 Number of predicted TMRs: 0
+FNFHRZ_35077	inside	1	40				
+//
+# FNFHRZ_129194 Length: 48
+# FNFHRZ_129194 Number of predicted TMRs: 0
+FNFHRZ_129194	inside	1	48				
+//
+# FNFHRZ_141407 Length: 47
+# FNFHRZ_141407 Number of predicted TMRs: 0
+FNFHRZ_141407	signal	1	10				
+FNFHRZ_141407	outside	11	47				
+//
+# FNFHRZ_119670 Length: 47
+# FNFHRZ_119670 Number of predicted TMRs: 0
+FNFHRZ_119670	inside	1	47				
+//
+# FNFHRZ_98458 Length: 46
+# FNFHRZ_98458 Number of predicted TMRs: 0
+FNFHRZ_98458	inside	1	46				
+//
+# FNFHRZ_39010 Length: 50
+# FNFHRZ_39010 Number of predicted TMRs: 0
+FNFHRZ_39010	inside	1	50				
+//
+# FNFHRZ_52131 Length: 49
+# FNFHRZ_52131 Number of predicted TMRs: 0
+FNFHRZ_52131	inside	1	49				
+//
+# FNFHRZ_116184 Length: 49
+# FNFHRZ_116184 Number of predicted TMRs: 0
+FNFHRZ_116184	inside	1	49				
+//
+# FNFHRZ_82472 Length: 46
+# FNFHRZ_82472 Number of predicted TMRs: 0
+FNFHRZ_82472	inside	1	46				
+//
+# FNFHRZ_16008 Length: 38
+# FNFHRZ_16008 Number of predicted TMRs: 0
+FNFHRZ_16008	inside	1	38				
+//
+# FNFHRZ_124712 Length: 46
+# FNFHRZ_124712 Number of predicted TMRs: 0
+FNFHRZ_124712	signal	1	15				
+FNFHRZ_124712	outside	16	46				
+//
+# FNFHRZ_45952 Length: 43
+# FNFHRZ_45952 Number of predicted TMRs: 0
+FNFHRZ_45952	signal	1	26				
+FNFHRZ_45952	outside	27	43				
+//
+# FNFHRZ_55464 Length: 31
+# FNFHRZ_55464 Number of predicted TMRs: 0
+FNFHRZ_55464	signal	1	30				
+FNFHRZ_55464	outside	31	31				
+//
+# FNFHRZ_120608 Length: 45
+# FNFHRZ_120608 Number of predicted TMRs: 0
+FNFHRZ_120608	signal	1	25				
+FNFHRZ_120608	outside	26	45				
+//
+# FNFHRZ_71810 Length: 44
+# FNFHRZ_71810 Number of predicted TMRs: 0
+FNFHRZ_71810	inside	1	44				
+//
+# FNFHRZ_19067 Length: 28
+# FNFHRZ_19067 Number of predicted TMRs: 0
+FNFHRZ_19067	signal	1	25				
+FNFHRZ_19067	outside	26	28				
+//
+# FNFHRZ_108323 Length: 42
+# FNFHRZ_108323 Number of predicted TMRs: 0
+FNFHRZ_108323	signal	1	37				
+FNFHRZ_108323	outside	38	42				
+//
+# FNFHRZ_54787 Length: 46
+# FNFHRZ_54787 Number of predicted TMRs: 0
+FNFHRZ_54787	signal	1	33				
+FNFHRZ_54787	outside	34	46				
+//
+# FNFHRZ_118299 Length: 37
+# FNFHRZ_118299 Number of predicted TMRs: 0
+FNFHRZ_118299	signal	1	16				
+FNFHRZ_118299	outside	17	37				
+//
+# FNFHRZ_47412 Length: 42
+# FNFHRZ_47412 Number of predicted TMRs: 0
+FNFHRZ_47412	signal	1	13				
+FNFHRZ_47412	outside	14	42				
+//
+# FNFHRZ_113627 Length: 41
+# FNFHRZ_113627 Number of predicted TMRs: 0
+FNFHRZ_113627	signal	1	20				
+FNFHRZ_113627	outside	21	41				
+//
+# FNFHRZ_105071 Length: 49
+# FNFHRZ_105071 Number of predicted TMRs: 0
+FNFHRZ_105071	inside	1	49				
+//
+# FNFHRZ_170086 Length: 48
+# FNFHRZ_170086 Number of predicted TMRs: 0
+FNFHRZ_170086	inside	1	48				
+//
+# FNFHRZ_138484 Length: 50
+# FNFHRZ_138484 Number of predicted TMRs: 0
+FNFHRZ_138484	inside	1	50				
+//
+# FNFHRZ_40686 Length: 46
+# FNFHRZ_40686 Number of predicted TMRs: 0
+FNFHRZ_40686	inside	1	46				
+//
+# FNFHRZ_52534 Length: 39
+# FNFHRZ_52534 Number of predicted TMRs: 0
+FNFHRZ_52534	outside	1	39				
+//
+# FNFHRZ_17963 Length: 44
+# FNFHRZ_17963 Number of predicted TMRs: 0
+FNFHRZ_17963	inside	1	44				
+//
+# FNFHRZ_44524 Length: 45
+# FNFHRZ_44524 Number of predicted TMRs: 0
+FNFHRZ_44524	inside	1	45				
+//
+# FNFHRZ_14430 Length: 49
+# FNFHRZ_14430 Number of predicted TMRs: 0
+FNFHRZ_14430	inside	1	49				
+//
+# FNFHRZ_126356 Length: 48
+# FNFHRZ_126356 Number of predicted TMRs: 0
+FNFHRZ_126356	inside	1	48				
+//
+# FNFHRZ_42762 Length: 41
+# FNFHRZ_42762 Number of predicted TMRs: 0
+FNFHRZ_42762	signal	1	35				
+FNFHRZ_42762	outside	36	41				
+//
+# FNFHRZ_102709 Length: 48
+# FNFHRZ_102709 Number of predicted TMRs: 0
+FNFHRZ_102709	signal	1	27				
+FNFHRZ_102709	outside	28	48				
+//
+# FNFHRZ_1682 Length: 48
+# FNFHRZ_1682 Number of predicted TMRs: 0
+FNFHRZ_1682	signal	1	39				
+FNFHRZ_1682	outside	40	48				
+//
+# FNFHRZ_166825 Length: 36
+# FNFHRZ_166825 Number of predicted TMRs: 0
+FNFHRZ_166825	signal	1	35				
+FNFHRZ_166825	outside	36	36				
+//
+# FNFHRZ_129936 Length: 38
+# FNFHRZ_129936 Number of predicted TMRs: 0
+FNFHRZ_129936	inside	1	38				
+//
+# FNFHRZ_49862 Length: 38
+# FNFHRZ_49862 Number of predicted TMRs: 0
+FNFHRZ_49862	inside	1	38				
+//
+# FNFHRZ_10324 Length: 44
+# FNFHRZ_10324 Number of predicted TMRs: 0
+FNFHRZ_10324	inside	1	44				
+//
+# FNFHRZ_124255 Length: 48
+# FNFHRZ_124255 Number of predicted TMRs: 0
+FNFHRZ_124255	inside	1	48				
+//
+# FNFHRZ_38308 Length: 32
+# FNFHRZ_38308 Number of predicted TMRs: 0
+FNFHRZ_38308	signal	1	30				
+FNFHRZ_38308	outside	31	32				
+//
+# FNFHRZ_15838 Length: 45
+# FNFHRZ_15838 Number of predicted TMRs: 0
+FNFHRZ_15838	inside	1	45				
+//
+# FNFHRZ_144662 Length: 31
+# FNFHRZ_144662 Number of predicted TMRs: 0
+FNFHRZ_144662	signal	1	29				
+FNFHRZ_144662	outside	30	31				
+//
+# FNFHRZ_146980 Length: 46
+# FNFHRZ_146980 Number of predicted TMRs: 0
+FNFHRZ_146980	signal	1	44				
+FNFHRZ_146980	outside	45	46				
+//
+# FNFHRZ_65152 Length: 46
+# FNFHRZ_65152 Number of predicted TMRs: 0
+FNFHRZ_65152	inside	1	46				
+//
+# FNFHRZ_13030 Length: 44
+# FNFHRZ_13030 Number of predicted TMRs: 0
+FNFHRZ_13030	inside	1	44				
+//
+# FNFHRZ_79423 Length: 33
+# FNFHRZ_79423 Number of predicted TMRs: 0
+FNFHRZ_79423	inside	1	33				
+//
+# FNFHRZ_19299 Length: 45
+# FNFHRZ_19299 Number of predicted TMRs: 0
+FNFHRZ_19299	inside	1	45				
+//
+# FNFHRZ_19733 Length: 47
+# FNFHRZ_19733 Number of predicted TMRs: 0
+FNFHRZ_19733	inside	1	47				
+//
+# FNFHRZ_53248 Length: 48
+# FNFHRZ_53248 Number of predicted TMRs: 0
+FNFHRZ_53248	inside	1	48				
+//
+# FNFHRZ_44186 Length: 50
+# FNFHRZ_44186 Number of predicted TMRs: 1
+FNFHRZ_44186	inside	1	18				
+FNFHRZ_44186	TMhelix	19	39				
+FNFHRZ_44186	outside	40	50				
+//
+# FNFHRZ_100059 Length: 49
+# FNFHRZ_100059 Number of predicted TMRs: 0
+FNFHRZ_100059	inside	1	49				
+//
+# FNFHRZ_78200 Length: 49
+# FNFHRZ_78200 Number of predicted TMRs: 0
+FNFHRZ_78200	inside	1	49				
+//
+# FNFHRZ_132860 Length: 34
+# FNFHRZ_132860 Number of predicted TMRs: 0
+FNFHRZ_132860	signal	1	24				
+FNFHRZ_132860	outside	25	34				
+//
+# FNFHRZ_2091 Length: 45
+# FNFHRZ_2091 Number of predicted TMRs: 0
+FNFHRZ_2091	signal	1	35				
+FNFHRZ_2091	outside	36	45				
+//
+# FNFHRZ_34478 Length: 50
+# FNFHRZ_34478 Number of predicted TMRs: 0
+FNFHRZ_34478	inside	1	50				
+//
+# FNFHRZ_122642 Length: 43
+# FNFHRZ_122642 Number of predicted TMRs: 0
+FNFHRZ_122642	inside	1	43				
+//
+# FNFHRZ_47925 Length: 48
+# FNFHRZ_47925 Number of predicted TMRs: 0
+FNFHRZ_47925	inside	1	48				
+//
+# FNFHRZ_70989 Length: 41
+# FNFHRZ_70989 Number of predicted TMRs: 0
+FNFHRZ_70989	inside	1	41				
+//
+# FNFHRZ_75203 Length: 42
+# FNFHRZ_75203 Number of predicted TMRs: 0
+FNFHRZ_75203	inside	1	42				
+//
+# FNFHRZ_84018 Length: 39
+# FNFHRZ_84018 Number of predicted TMRs: 0
+FNFHRZ_84018	inside	1	39				
+//
+# FNFHRZ_19410 Length: 46
+# FNFHRZ_19410 Number of predicted TMRs: 0
+FNFHRZ_19410	inside	1	46				
+//
+# FNFHRZ_137776 Length: 47
+# FNFHRZ_137776 Number of predicted TMRs: 0
+FNFHRZ_137776	inside	1	47				
+//
+# FNFHRZ_168522 Length: 39
+# FNFHRZ_168522 Number of predicted TMRs: 0
+FNFHRZ_168522	inside	1	39				
+//
+# FNFHRZ_40123 Length: 46
+# FNFHRZ_40123 Number of predicted TMRs: 0
+FNFHRZ_40123	signal	1	27				
+FNFHRZ_40123	outside	28	46				
+//
+# FNFHRZ_116003 Length: 40
+# FNFHRZ_116003 Number of predicted TMRs: 0
+FNFHRZ_116003	signal	1	15				
+FNFHRZ_116003	outside	16	40				
+//
+# FNFHRZ_81416 Length: 49
+# FNFHRZ_81416 Number of predicted TMRs: 0
+FNFHRZ_81416	inside	1	49				
+//
+# FNFHRZ_26940 Length: 43
+# FNFHRZ_26940 Number of predicted TMRs: 0
+FNFHRZ_26940	inside	1	43				
+//
+# FNFHRZ_61218 Length: 46
+# FNFHRZ_61218 Number of predicted TMRs: 0
+FNFHRZ_61218	inside	1	46				
+//
+# FNFHRZ_71422 Length: 45
+# FNFHRZ_71422 Number of predicted TMRs: 0
+FNFHRZ_71422	signal	1	43				
+FNFHRZ_71422	outside	44	45				
+//
+# FNFHRZ_17975 Length: 48
+# FNFHRZ_17975 Number of predicted TMRs: 0
+FNFHRZ_17975	signal	1	41				
+FNFHRZ_17975	outside	42	48				
+//
+# FNFHRZ_7980 Length: 38
+# FNFHRZ_7980 Number of predicted TMRs: 0
+FNFHRZ_7980	inside	1	38				
+//
+# FNFHRZ_44043 Length: 40
+# FNFHRZ_44043 Number of predicted TMRs: 0
+FNFHRZ_44043	inside	1	40				
+//
+# FNFHRZ_8537 Length: 45
+# FNFHRZ_8537 Number of predicted TMRs: 0
+FNFHRZ_8537	inside	1	45				
+//
+# FNFHRZ_33060 Length: 46
+# FNFHRZ_33060 Number of predicted TMRs: 0
+FNFHRZ_33060	signal	1	37				
+FNFHRZ_33060	outside	38	46				
+//
+# FNFHRZ_139770 Length: 50
+# FNFHRZ_139770 Number of predicted TMRs: 0
+FNFHRZ_139770	signal	1	47				
+FNFHRZ_139770	outside	48	50				
+//
+# FNFHRZ_139264 Length: 40
+# FNFHRZ_139264 Number of predicted TMRs: 0
+FNFHRZ_139264	signal	1	38				
+FNFHRZ_139264	outside	39	40				
+//
+# FNFHRZ_47836 Length: 47
+# FNFHRZ_47836 Number of predicted TMRs: 0
+FNFHRZ_47836	inside	1	47				
+//
+# FNFHRZ_148834 Length: 46
+# FNFHRZ_148834 Number of predicted TMRs: 0
+FNFHRZ_148834	inside	1	46				
+//
+# FNFHRZ_53925 Length: 50
+# FNFHRZ_53925 Number of predicted TMRs: 0
+FNFHRZ_53925	inside	1	50				
+//
+# FNFHRZ_75837 Length: 49
+# FNFHRZ_75837 Number of predicted TMRs: 0
+FNFHRZ_75837	inside	1	49				
+//
+# FNFHRZ_29817 Length: 42
+# FNFHRZ_29817 Number of predicted TMRs: 0
+FNFHRZ_29817	inside	1	42				
+//
+# FNFHRZ_156301 Length: 44
+# FNFHRZ_156301 Number of predicted TMRs: 0
+FNFHRZ_156301	signal	1	39				
+FNFHRZ_156301	outside	40	44				
+//
+# FNFHRZ_25897 Length: 34
+# FNFHRZ_25897 Number of predicted TMRs: 0
+FNFHRZ_25897	inside	1	34				
+//
+# FNFHRZ_162956 Length: 49
+# FNFHRZ_162956 Number of predicted TMRs: 0
+FNFHRZ_162956	signal	1	44				
+FNFHRZ_162956	outside	45	49				
+//
+# FNFHRZ_152229 Length: 37
+# FNFHRZ_152229 Number of predicted TMRs: 0
+FNFHRZ_152229	signal	1	13				
+FNFHRZ_152229	outside	14	37				
+//
+# FNFHRZ_26297 Length: 41
+# FNFHRZ_26297 Number of predicted TMRs: 0
+FNFHRZ_26297	inside	1	41				
+//
+# FNFHRZ_57556 Length: 45
+# FNFHRZ_57556 Number of predicted TMRs: 0
+FNFHRZ_57556	inside	1	45				
+//
+# FNFHRZ_87988 Length: 47
+# FNFHRZ_87988 Number of predicted TMRs: 0
+FNFHRZ_87988	inside	1	47				
+//
+# FNFHRZ_21273 Length: 48
+# FNFHRZ_21273 Number of predicted TMRs: 0
+FNFHRZ_21273	signal	1	45				
+FNFHRZ_21273	outside	46	48				
+//
+# FNFHRZ_139097 Length: 43
+# FNFHRZ_139097 Number of predicted TMRs: 0
+FNFHRZ_139097	inside	1	43				
+//
+# FNFHRZ_20652 Length: 38
+# FNFHRZ_20652 Number of predicted TMRs: 0
+FNFHRZ_20652	signal	1	37				
+FNFHRZ_20652	outside	38	38				
+//
+# FNFHRZ_37994 Length: 40
+# FNFHRZ_37994 Number of predicted TMRs: 0
+FNFHRZ_37994	signal	1	35				
+FNFHRZ_37994	outside	36	40				
+//
+# FNFHRZ_55564 Length: 49
+# FNFHRZ_55564 Number of predicted TMRs: 0
+FNFHRZ_55564	inside	1	49				
+//
+# FNFHRZ_144670 Length: 33
+# FNFHRZ_144670 Number of predicted TMRs: 0
+FNFHRZ_144670	signal	1	15				
+FNFHRZ_144670	outside	16	33				
+//
+# FNFHRZ_80071 Length: 48
+# FNFHRZ_80071 Number of predicted TMRs: 0
+FNFHRZ_80071	inside	1	48				
+//
+# FNFHRZ_85879 Length: 47
+# FNFHRZ_85879 Number of predicted TMRs: 0
+FNFHRZ_85879	outside	1	47				
+//
+# FNFHRZ_52151 Length: 46
+# FNFHRZ_52151 Number of predicted TMRs: 0
+FNFHRZ_52151	inside	1	46				
+//
+# FNFHRZ_9403 Length: 39
+# FNFHRZ_9403 Number of predicted TMRs: 0
+FNFHRZ_9403	signal	1	38				
+FNFHRZ_9403	outside	39	39				
+//
+# FNFHRZ_121965 Length: 42
+# FNFHRZ_121965 Number of predicted TMRs: 0
+FNFHRZ_121965	inside	1	42				
+//
+# FNFHRZ_93193 Length: 49
+# FNFHRZ_93193 Number of predicted TMRs: 0
+FNFHRZ_93193	signal	1	27				
+FNFHRZ_93193	outside	28	49				
+//
+# FNFHRZ_142096 Length: 37
+# FNFHRZ_142096 Number of predicted TMRs: 0
+FNFHRZ_142096	signal	1	21				
+FNFHRZ_142096	outside	22	37				
+//
+# FNFHRZ_33386 Length: 48
+# FNFHRZ_33386 Number of predicted TMRs: 0
+FNFHRZ_33386	inside	1	48				
+//
+# FNFHRZ_162384 Length: 49
+# FNFHRZ_162384 Number of predicted TMRs: 0
+FNFHRZ_162384	inside	1	49				
+//
+# FNFHRZ_69123 Length: 49
+# FNFHRZ_69123 Number of predicted TMRs: 0
+FNFHRZ_69123	signal	1	26				
+FNFHRZ_69123	outside	27	49				
+//
+# FNFHRZ_165300 Length: 49
+# FNFHRZ_165300 Number of predicted TMRs: 0
+FNFHRZ_165300	inside	1	49				
+//
+# FNFHRZ_48820 Length: 50
+# FNFHRZ_48820 Number of predicted TMRs: 0
+FNFHRZ_48820	signal	1	23				
+FNFHRZ_48820	outside	24	50				
+//
+# FNFHRZ_144278 Length: 49
+# FNFHRZ_144278 Number of predicted TMRs: 0
+FNFHRZ_144278	inside	1	49				
+//
+# FNFHRZ_50658 Length: 49
+# FNFHRZ_50658 Number of predicted TMRs: 0
+FNFHRZ_50658	inside	1	49				
+//
+# FNFHRZ_169404 Length: 47
+# FNFHRZ_169404 Number of predicted TMRs: 0
+FNFHRZ_169404	signal	1	46				
+FNFHRZ_169404	periplasm	47	47				
+//
+# FNFHRZ_25836 Length: 46
+# FNFHRZ_25836 Number of predicted TMRs: 0
+FNFHRZ_25836	inside	1	46				
+//
+# FNFHRZ_150847 Length: 47
+# FNFHRZ_150847 Number of predicted TMRs: 0
+FNFHRZ_150847	signal	1	22				
+FNFHRZ_150847	outside	23	47				
+//
+# FNFHRZ_138078 Length: 44
+# FNFHRZ_138078 Number of predicted TMRs: 0
+FNFHRZ_138078	signal	1	37				
+FNFHRZ_138078	outside	38	44				
+//
+# FNFHRZ_46436 Length: 48
+# FNFHRZ_46436 Number of predicted TMRs: 0
+FNFHRZ_46436	inside	1	48				
+//
+# FNFHRZ_137716 Length: 40
+# FNFHRZ_137716 Number of predicted TMRs: 0
+FNFHRZ_137716	signal	1	26				
+FNFHRZ_137716	outside	27	40				
+//
+# FNFHRZ_165687 Length: 39
+# FNFHRZ_165687 Number of predicted TMRs: 0
+FNFHRZ_165687	outside	1	39				
+//
+# FNFHRZ_86369 Length: 46
+# FNFHRZ_86369 Number of predicted TMRs: 0
+FNFHRZ_86369	signal	1	18				
+FNFHRZ_86369	outside	19	46				
+//
+# FNFHRZ_144162 Length: 49
+# FNFHRZ_144162 Number of predicted TMRs: 0
+FNFHRZ_144162	inside	1	49				
+//
+# FNFHRZ_75019 Length: 36
+# FNFHRZ_75019 Number of predicted TMRs: 0
+FNFHRZ_75019	inside	1	36				
+//
+# FNFHRZ_45832 Length: 50
+# FNFHRZ_45832 Number of predicted TMRs: 0
+FNFHRZ_45832	signal	1	48				
+FNFHRZ_45832	outside	49	50				
+//
+# FNFHRZ_119477 Length: 48
+# FNFHRZ_119477 Number of predicted TMRs: 0
+FNFHRZ_119477	inside	1	48				
+//
+# FNFHRZ_92117 Length: 48
+# FNFHRZ_92117 Number of predicted TMRs: 0
+FNFHRZ_92117	inside	1	48				
+//
+# FNFHRZ_102590 Length: 46
+# FNFHRZ_102590 Number of predicted TMRs: 0
+FNFHRZ_102590	inside	1	46				
+//
+# FNFHRZ_71620 Length: 37
+# FNFHRZ_71620 Number of predicted TMRs: 0
+FNFHRZ_71620	signal	1	15				
+FNFHRZ_71620	outside	16	37				
+//
+# FNFHRZ_170079 Length: 43
+# FNFHRZ_170079 Number of predicted TMRs: 0
+FNFHRZ_170079	signal	1	42				
+FNFHRZ_170079	outside	43	43				
+//
+# FNFHRZ_98389 Length: 50
+# FNFHRZ_98389 Number of predicted TMRs: 0
+FNFHRZ_98389	signal	1	35				
+FNFHRZ_98389	outside	36	50				
+//
+# FNFHRZ_39640 Length: 49
+# FNFHRZ_39640 Number of predicted TMRs: 0
+FNFHRZ_39640	inside	1	49				
+//
+# FNFHRZ_61663 Length: 44
+# FNFHRZ_61663 Number of predicted TMRs: 0
+FNFHRZ_61663	signal	1	43				
+FNFHRZ_61663	outside	44	44				
+//
+# FNFHRZ_130056 Length: 48
+# FNFHRZ_130056 Number of predicted TMRs: 0
+FNFHRZ_130056	signal	1	38				
+FNFHRZ_130056	outside	39	48				
+//
+# FNFHRZ_115970 Length: 48
+# FNFHRZ_115970 Number of predicted TMRs: 0
+FNFHRZ_115970	inside	1	48				
+//
+# FNFHRZ_142084 Length: 36
+# FNFHRZ_142084 Number of predicted TMRs: 0
+FNFHRZ_142084	inside	1	36				
+//
+# FNFHRZ_138544 Length: 44
+# FNFHRZ_138544 Number of predicted TMRs: 0
+FNFHRZ_138544	signal	1	24				
+FNFHRZ_138544	outside	25	44				
+//
+# FNFHRZ_12159 Length: 49
+# FNFHRZ_12159 Number of predicted TMRs: 0
+FNFHRZ_12159	outside	1	49				
+//
+# FNFHRZ_113175 Length: 47
+# FNFHRZ_113175 Number of predicted TMRs: 0
+FNFHRZ_113175	inside	1	47				
+//
+# FNFHRZ_128195 Length: 50
+# FNFHRZ_128195 Number of predicted TMRs: 0
+FNFHRZ_128195	outside	1	50				
+//
+# FNFHRZ_99423 Length: 43
+# FNFHRZ_99423 Number of predicted TMRs: 0
+FNFHRZ_99423	inside	1	43				
+//
+# FNFHRZ_66482 Length: 36
+# FNFHRZ_66482 Number of predicted TMRs: 0
+FNFHRZ_66482	signal	1	25				
+FNFHRZ_66482	outside	26	36				
+//
+# FNFHRZ_146258 Length: 45
+# FNFHRZ_146258 Number of predicted TMRs: 0
+FNFHRZ_146258	inside	1	45				
+//
+# FNFHRZ_50163 Length: 46
+# FNFHRZ_50163 Number of predicted TMRs: 0
+FNFHRZ_50163	inside	1	46				
+//
+# FNFHRZ_64603 Length: 46
+# FNFHRZ_64603 Number of predicted TMRs: 0
+FNFHRZ_64603	signal	1	25				
+FNFHRZ_64603	outside	26	46				
+//
+# FNFHRZ_60628 Length: 48
+# FNFHRZ_60628 Number of predicted TMRs: 0
+FNFHRZ_60628	inside	1	48				
+//
+# FNFHRZ_25649 Length: 35
+# FNFHRZ_25649 Number of predicted TMRs: 0
+FNFHRZ_25649	inside	1	35				
+//
+# FNFHRZ_152176 Length: 47
+# FNFHRZ_152176 Number of predicted TMRs: 0
+FNFHRZ_152176	inside	1	47				
+//
+# FNFHRZ_163857 Length: 38
+# FNFHRZ_163857 Number of predicted TMRs: 0
+FNFHRZ_163857	inside	1	38				
+//
+# FNFHRZ_90012 Length: 49
+# FNFHRZ_90012 Number of predicted TMRs: 0
+FNFHRZ_90012	inside	1	49				
+//
+# FNFHRZ_53496 Length: 42
+# FNFHRZ_53496 Number of predicted TMRs: 0
+FNFHRZ_53496	inside	1	42				
+//
+# FNFHRZ_53500 Length: 44
+# FNFHRZ_53500 Number of predicted TMRs: 0
+FNFHRZ_53500	inside	1	44				
+//
+# FNFHRZ_136013 Length: 48
+# FNFHRZ_136013 Number of predicted TMRs: 0
+FNFHRZ_136013	inside	1	48				
+//
+# FNFHRZ_69583 Length: 39
+# FNFHRZ_69583 Number of predicted TMRs: 0
+FNFHRZ_69583	inside	1	39				
+//
+# FNFHRZ_89628 Length: 39
+# FNFHRZ_89628 Number of predicted TMRs: 0
+FNFHRZ_89628	signal	1	26				
+FNFHRZ_89628	outside	27	39				
+//
+# FNFHRZ_29810 Length: 39
+# FNFHRZ_29810 Number of predicted TMRs: 0
+FNFHRZ_29810	signal	1	38				
+FNFHRZ_29810	outside	39	39				
+//
+# FNFHRZ_140015 Length: 40
+# FNFHRZ_140015 Number of predicted TMRs: 0
+FNFHRZ_140015	inside	1	40				
+//
+# FNFHRZ_64709 Length: 45
+# FNFHRZ_64709 Number of predicted TMRs: 0
+FNFHRZ_64709	inside	1	45				
+//
+# FNFHRZ_42349 Length: 49
+# FNFHRZ_42349 Number of predicted TMRs: 0
+FNFHRZ_42349	inside	1	49				
+//
+# FNFHRZ_143822 Length: 45
+# FNFHRZ_143822 Number of predicted TMRs: 0
+FNFHRZ_143822	outside	1	45				
+//
+# FNFHRZ_102424 Length: 43
+# FNFHRZ_102424 Number of predicted TMRs: 0
+FNFHRZ_102424	inside	1	43				
+//
+# FNFHRZ_105687 Length: 37
+# FNFHRZ_105687 Number of predicted TMRs: 0
+FNFHRZ_105687	outside	1	37				
+//
+# FNFHRZ_41986 Length: 43
+# FNFHRZ_41986 Number of predicted TMRs: 0
+FNFHRZ_41986	inside	1	43				
+//
+# FNFHRZ_22734 Length: 50
+# FNFHRZ_22734 Number of predicted TMRs: 0
+FNFHRZ_22734	inside	1	50				
+//
+# FNFHRZ_29618 Length: 43
+# FNFHRZ_29618 Number of predicted TMRs: 0
+FNFHRZ_29618	inside	1	43				
+//
+# FNFHRZ_18903 Length: 45
+# FNFHRZ_18903 Number of predicted TMRs: 0
+FNFHRZ_18903	inside	1	45				
+//
+# FNFHRZ_109561 Length: 48
+# FNFHRZ_109561 Number of predicted TMRs: 0
+FNFHRZ_109561	inside	1	48				
+//
+# FNFHRZ_120942 Length: 37
+# FNFHRZ_120942 Number of predicted TMRs: 0
+FNFHRZ_120942	signal	1	35				
+FNFHRZ_120942	outside	36	37				
+//
+# FNFHRZ_111995 Length: 38
+# FNFHRZ_111995 Number of predicted TMRs: 0
+FNFHRZ_111995	inside	1	38				
+//
+# FNFHRZ_88125 Length: 47
+# FNFHRZ_88125 Number of predicted TMRs: 0
+FNFHRZ_88125	signal	1	46				
+FNFHRZ_88125	outside	47	47				
+//
+# FNFHRZ_161601 Length: 40
+# FNFHRZ_161601 Number of predicted TMRs: 0
+FNFHRZ_161601	signal	1	31				
+FNFHRZ_161601	outside	32	40				
+//
+# FNFHRZ_54913 Length: 46
+# FNFHRZ_54913 Number of predicted TMRs: 0
+FNFHRZ_54913	inside	1	46				
+//
+# FNFHRZ_126701 Length: 38
+# FNFHRZ_126701 Number of predicted TMRs: 0
+FNFHRZ_126701	inside	1	38				
+//
+# FNFHRZ_90180 Length: 50
+# FNFHRZ_90180 Number of predicted TMRs: 0
+FNFHRZ_90180	inside	1	50				
+//
+# FNFHRZ_124240 Length: 40
+# FNFHRZ_124240 Number of predicted TMRs: 0
+FNFHRZ_124240	inside	1	40				
+//
+# FNFHRZ_168238 Length: 41
+# FNFHRZ_168238 Number of predicted TMRs: 0
+FNFHRZ_168238	inside	1	41				
+//
+# FNFHRZ_164296 Length: 45
+# FNFHRZ_164296 Number of predicted TMRs: 0
+FNFHRZ_164296	inside	1	45				
+//
+# FNFHRZ_161984 Length: 37
+# FNFHRZ_161984 Number of predicted TMRs: 0
+FNFHRZ_161984	inside	1	37				
+//
+# FNFHRZ_86020 Length: 44
+# FNFHRZ_86020 Number of predicted TMRs: 0
+FNFHRZ_86020	inside	1	44				
+//
+# FNFHRZ_171461 Length: 48
+# FNFHRZ_171461 Number of predicted TMRs: 0
+FNFHRZ_171461	inside	1	48				
+//
+# FNFHRZ_98809 Length: 44
+# FNFHRZ_98809 Number of predicted TMRs: 0
+FNFHRZ_98809	inside	1	44				
+//
+# FNFHRZ_120393 Length: 33
+# FNFHRZ_120393 Number of predicted TMRs: 0
+FNFHRZ_120393	inside	1	33				
+//
+# FNFHRZ_121866 Length: 49
+# FNFHRZ_121866 Number of predicted TMRs: 0
+FNFHRZ_121866	inside	1	49				
+//
+# FNFHRZ_168607 Length: 41
+# FNFHRZ_168607 Number of predicted TMRs: 0
+FNFHRZ_168607	inside	1	41				
+//
+# FNFHRZ_29303 Length: 47
+# FNFHRZ_29303 Number of predicted TMRs: 0
+FNFHRZ_29303	inside	1	47				
+//
+# FNFHRZ_169952 Length: 40
+# FNFHRZ_169952 Number of predicted TMRs: 0
+FNFHRZ_169952	signal	1	24				
+FNFHRZ_169952	outside	25	40				
+//
+# FNFHRZ_55370 Length: 43
+# FNFHRZ_55370 Number of predicted TMRs: 0
+FNFHRZ_55370	inside	1	43				
+//
+# FNFHRZ_164885 Length: 50
+# FNFHRZ_164885 Number of predicted TMRs: 0
+FNFHRZ_164885	inside	1	50				
+//
+# FNFHRZ_90831 Length: 40
+# FNFHRZ_90831 Number of predicted TMRs: 0
+FNFHRZ_90831	inside	1	40				
+//
+# FNFHRZ_126416 Length: 48
+# FNFHRZ_126416 Number of predicted TMRs: 0
+FNFHRZ_126416	inside	1	48				
+//
+# FNFHRZ_7115 Length: 49
+# FNFHRZ_7115 Number of predicted TMRs: 0
+FNFHRZ_7115	inside	1	49				
+//
+# FNFHRZ_11840 Length: 44
+# FNFHRZ_11840 Number of predicted TMRs: 0
+FNFHRZ_11840	signal	1	26				
+FNFHRZ_11840	outside	27	44				
+//
+# FNFHRZ_108831 Length: 48
+# FNFHRZ_108831 Number of predicted TMRs: 0
+FNFHRZ_108831	inside	1	48				
+//
+# FNFHRZ_8698 Length: 46
+# FNFHRZ_8698 Number of predicted TMRs: 0
+FNFHRZ_8698	inside	1	46				
+//
+# FNFHRZ_125919 Length: 47
+# FNFHRZ_125919 Number of predicted TMRs: 0
+FNFHRZ_125919	inside	1	47				
+//
+# FNFHRZ_170618 Length: 44
+# FNFHRZ_170618 Number of predicted TMRs: 1
+FNFHRZ_170618	outside	1	18				
+FNFHRZ_170618	TMhelix	19	29				
+FNFHRZ_170618	inside	30	44				
+//
+# FNFHRZ_93150 Length: 44
+# FNFHRZ_93150 Number of predicted TMRs: 0
+FNFHRZ_93150	signal	1	37				
+FNFHRZ_93150	outside	38	44				
+//
+# FNFHRZ_79709 Length: 34
+# FNFHRZ_79709 Number of predicted TMRs: 0
+FNFHRZ_79709	inside	1	34				
+//
+# FNFHRZ_85833 Length: 47
+# FNFHRZ_85833 Number of predicted TMRs: 0
+FNFHRZ_85833	inside	1	47				
+//
+# FNFHRZ_76628 Length: 45
+# FNFHRZ_76628 Number of predicted TMRs: 0
+FNFHRZ_76628	inside	1	45				
+//
+# FNFHRZ_76655 Length: 45
+# FNFHRZ_76655 Number of predicted TMRs: 0
+FNFHRZ_76655	inside	1	45				
+//
+# FNFHRZ_62301 Length: 48
+# FNFHRZ_62301 Number of predicted TMRs: 0
+FNFHRZ_62301	inside	1	48				
+//
+# FNFHRZ_131838 Length: 48
+# FNFHRZ_131838 Number of predicted TMRs: 0
+FNFHRZ_131838	signal	1	40				
+FNFHRZ_131838	outside	41	48				
+//
+# FNFHRZ_136585 Length: 36
+# FNFHRZ_136585 Number of predicted TMRs: 0
+FNFHRZ_136585	signal	1	23				
+FNFHRZ_136585	outside	24	36				
+//
+# FNFHRZ_136591 Length: 48
+# FNFHRZ_136591 Number of predicted TMRs: 0
+FNFHRZ_136591	signal	1	35				
+FNFHRZ_136591	outside	36	48				
+//
+# FNFHRZ_11098 Length: 45
+# FNFHRZ_11098 Number of predicted TMRs: 0
+FNFHRZ_11098	signal	1	44				
+FNFHRZ_11098	outside	45	45				
+//
+# FNFHRZ_12552 Length: 38
+# FNFHRZ_12552 Number of predicted TMRs: 0
+FNFHRZ_12552	inside	1	38				
+//
+# FNFHRZ_119074 Length: 49
+# FNFHRZ_119074 Number of predicted TMRs: 0
+FNFHRZ_119074	inside	1	49				
+//
+# FNFHRZ_143478 Length: 46
+# FNFHRZ_143478 Number of predicted TMRs: 0
+FNFHRZ_143478	signal	1	18				
+FNFHRZ_143478	outside	19	46				
+//
+# FNFHRZ_143130 Length: 42
+# FNFHRZ_143130 Number of predicted TMRs: 0
+FNFHRZ_143130	inside	1	42				
+//
+# FNFHRZ_70573 Length: 49
+# FNFHRZ_70573 Number of predicted TMRs: 0
+FNFHRZ_70573	inside	1	49				
+//
+# FNFHRZ_92805 Length: 48
+# FNFHRZ_92805 Number of predicted TMRs: 0
+FNFHRZ_92805	inside	1	48				

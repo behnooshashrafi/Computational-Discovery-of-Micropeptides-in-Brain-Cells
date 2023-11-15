@@ -1,0 +1,4448 @@
+##gff-version 3
+# QASMCE_112422 Length: 44
+# QASMCE_112422 Number of predicted TMRs: 0
+QASMCE_112422	signal	1	16				
+QASMCE_112422	outside	17	44				
+//
+# QASMCE_154217 Length: 46
+# QASMCE_154217 Number of predicted TMRs: 0
+QASMCE_154217	signal	1	34				
+QASMCE_154217	outside	35	46				
+//
+# QASMCE_8071 Length: 43
+# QASMCE_8071 Number of predicted TMRs: 0
+QASMCE_8071	signal	1	10				
+QASMCE_8071	outside	11	43				
+//
+# QASMCE_16988 Length: 32
+# QASMCE_16988 Number of predicted TMRs: 0
+QASMCE_16988	inside	1	32				
+//
+# QASMCE_157502 Length: 47
+# QASMCE_157502 Number of predicted TMRs: 0
+QASMCE_157502	inside	1	47				
+//
+# QASMCE_92178 Length: 44
+# QASMCE_92178 Number of predicted TMRs: 0
+QASMCE_92178	signal	1	43				
+QASMCE_92178	outside	44	44				
+//
+# QASMCE_80099 Length: 44
+# QASMCE_80099 Number of predicted TMRs: 0
+QASMCE_80099	inside	1	44				
+//
+# QASMCE_124213 Length: 46
+# QASMCE_124213 Number of predicted TMRs: 0
+QASMCE_124213	inside	1	46				
+//
+# QASMCE_147457 Length: 41
+# QASMCE_147457 Number of predicted TMRs: 0
+QASMCE_147457	outside	1	41				
+//
+# QASMCE_169696 Length: 38
+# QASMCE_169696 Number of predicted TMRs: 0
+QASMCE_169696	inside	1	38				
+//
+# QASMCE_101702 Length: 46
+# QASMCE_101702 Number of predicted TMRs: 0
+QASMCE_101702	inside	1	46				
+//
+# QASMCE_16587 Length: 49
+# QASMCE_16587 Number of predicted TMRs: 0
+QASMCE_16587	signal	1	45				
+QASMCE_16587	outside	46	49				
+//
+# QASMCE_68489 Length: 50
+# QASMCE_68489 Number of predicted TMRs: 0
+QASMCE_68489	signal	1	44				
+QASMCE_68489	outside	45	50				
+//
+# QASMCE_102889 Length: 49
+# QASMCE_102889 Number of predicted TMRs: 0
+QASMCE_102889	signal	1	20				
+QASMCE_102889	outside	21	49				
+//
+# QASMCE_103858 Length: 42
+# QASMCE_103858 Number of predicted TMRs: 0
+QASMCE_103858	signal	1	12				
+QASMCE_103858	outside	13	42				
+//
+# QASMCE_80914 Length: 47
+# QASMCE_80914 Number of predicted TMRs: 0
+QASMCE_80914	inside	1	47				
+//
+# QASMCE_94888 Length: 45
+# QASMCE_94888 Number of predicted TMRs: 0
+QASMCE_94888	signal	1	10				
+QASMCE_94888	outside	11	45				
+//
+# QASMCE_104248 Length: 43
+# QASMCE_104248 Number of predicted TMRs: 0
+QASMCE_104248	inside	1	43				
+//
+# QASMCE_104825 Length: 41
+# QASMCE_104825 Number of predicted TMRs: 0
+QASMCE_104825	signal	1	10				
+QASMCE_104825	outside	11	41				
+//
+# QASMCE_126301 Length: 38
+# QASMCE_126301 Number of predicted TMRs: 0
+QASMCE_126301	inside	1	38				
+//
+# QASMCE_117887 Length: 47
+# QASMCE_117887 Number of predicted TMRs: 0
+QASMCE_117887	outside	1	47				
+//
+# QASMCE_65703 Length: 45
+# QASMCE_65703 Number of predicted TMRs: 0
+QASMCE_65703	inside	1	45				
+//
+# QASMCE_27459 Length: 38
+# QASMCE_27459 Number of predicted TMRs: 0
+QASMCE_27459	outside	1	38				
+//
+# QASMCE_62648 Length: 49
+# QASMCE_62648 Number of predicted TMRs: 0
+QASMCE_62648	signal	1	19				
+QASMCE_62648	outside	20	49				
+//
+# QASMCE_130053 Length: 38
+# QASMCE_130053 Number of predicted TMRs: 0
+QASMCE_130053	signal	1	37				
+QASMCE_130053	outside	38	38				
+//
+# QASMCE_42893 Length: 47
+# QASMCE_42893 Number of predicted TMRs: 0
+QASMCE_42893	inside	1	47				
+//
+# QASMCE_44586 Length: 44
+# QASMCE_44586 Number of predicted TMRs: 0
+QASMCE_44586	signal	1	40				
+QASMCE_44586	outside	41	44				
+//
+# QASMCE_168091 Length: 47
+# QASMCE_168091 Number of predicted TMRs: 0
+QASMCE_168091	signal	1	14				
+QASMCE_168091	outside	15	47				
+//
+# QASMCE_43567 Length: 43
+# QASMCE_43567 Number of predicted TMRs: 0
+QASMCE_43567	inside	1	43				
+//
+# QASMCE_70915 Length: 48
+# QASMCE_70915 Number of predicted TMRs: 0
+QASMCE_70915	inside	1	48				
+//
+# QASMCE_89521 Length: 50
+# QASMCE_89521 Number of predicted TMRs: 0
+QASMCE_89521	inside	1	50				
+//
+# QASMCE_129347 Length: 50
+# QASMCE_129347 Number of predicted TMRs: 0
+QASMCE_129347	inside	1	50				
+//
+# QASMCE_139261 Length: 35
+# QASMCE_139261 Number of predicted TMRs: 0
+QASMCE_139261	inside	1	35				
+//
+# QASMCE_22142 Length: 50
+# QASMCE_22142 Number of predicted TMRs: 0
+QASMCE_22142	signal	1	30				
+QASMCE_22142	outside	31	50				
+//
+# QASMCE_109990 Length: 42
+# QASMCE_109990 Number of predicted TMRs: 0
+QASMCE_109990	inside	1	42				
+//
+# QASMCE_87606 Length: 44
+# QASMCE_87606 Number of predicted TMRs: 0
+QASMCE_87606	signal	1	43				
+QASMCE_87606	outside	44	44				
+//
+# QASMCE_30053 Length: 40
+# QASMCE_30053 Number of predicted TMRs: 0
+QASMCE_30053	inside	1	40				
+//
+# QASMCE_65764 Length: 35
+# QASMCE_65764 Number of predicted TMRs: 0
+QASMCE_65764	signal	1	16				
+QASMCE_65764	outside	17	35				
+//
+# QASMCE_169060 Length: 43
+# QASMCE_169060 Number of predicted TMRs: 0
+QASMCE_169060	inside	1	43				
+//
+# QASMCE_149931 Length: 43
+# QASMCE_149931 Number of predicted TMRs: 0
+QASMCE_149931	inside	1	43				
+//
+# QASMCE_152091 Length: 49
+# QASMCE_152091 Number of predicted TMRs: 0
+QASMCE_152091	outside	1	49				
+//
+# QASMCE_163899 Length: 45
+# QASMCE_163899 Number of predicted TMRs: 0
+QASMCE_163899	inside	1	45				
+//
+# QASMCE_126119 Length: 44
+# QASMCE_126119 Number of predicted TMRs: 0
+QASMCE_126119	inside	1	44				
+//
+# QASMCE_115605 Length: 48
+# QASMCE_115605 Number of predicted TMRs: 0
+QASMCE_115605	signal	1	47				
+QASMCE_115605	outside	48	48				
+//
+# QASMCE_140174 Length: 32
+# QASMCE_140174 Number of predicted TMRs: 0
+QASMCE_140174	signal	1	12				
+QASMCE_140174	outside	13	32				
+//
+# QASMCE_139818 Length: 33
+# QASMCE_139818 Number of predicted TMRs: 0
+QASMCE_139818	signal	1	12				
+QASMCE_139818	outside	13	33				
+//
+# QASMCE_140168 Length: 43
+# QASMCE_140168 Number of predicted TMRs: 0
+QASMCE_140168	signal	1	12				
+QASMCE_140168	outside	13	43				
+//
+# QASMCE_170600 Length: 43
+# QASMCE_170600 Number of predicted TMRs: 0
+QASMCE_170600	inside	1	43				
+//
+# QASMCE_83348 Length: 45
+# QASMCE_83348 Number of predicted TMRs: 0
+QASMCE_83348	inside	1	45				
+//
+# QASMCE_42929 Length: 38
+# QASMCE_42929 Number of predicted TMRs: 0
+QASMCE_42929	signal	1	14				
+QASMCE_42929	outside	15	38				
+//
+# QASMCE_55320 Length: 47
+# QASMCE_55320 Number of predicted TMRs: 0
+QASMCE_55320	inside	1	47				
+//
+# QASMCE_170948 Length: 48
+# QASMCE_170948 Number of predicted TMRs: 0
+QASMCE_170948	inside	1	48				
+//
+# QASMCE_114683 Length: 50
+# QASMCE_114683 Number of predicted TMRs: 0
+QASMCE_114683	signal	1	11				
+QASMCE_114683	outside	12	50				
+//
+# QASMCE_14473 Length: 46
+# QASMCE_14473 Number of predicted TMRs: 0
+QASMCE_14473	inside	1	46				
+//
+# QASMCE_144656 Length: 42
+# QASMCE_144656 Number of predicted TMRs: 0
+QASMCE_144656	inside	1	42				
+//
+# QASMCE_122963 Length: 47
+# QASMCE_122963 Number of predicted TMRs: 0
+QASMCE_122963	signal	1	10				
+QASMCE_122963	outside	11	47				
+//
+# QASMCE_92678 Length: 50
+# QASMCE_92678 Number of predicted TMRs: 0
+QASMCE_92678	inside	1	50				
+//
+# QASMCE_85584 Length: 47
+# QASMCE_85584 Number of predicted TMRs: 0
+QASMCE_85584	inside	1	47				
+//
+# QASMCE_131835 Length: 47
+# QASMCE_131835 Number of predicted TMRs: 0
+QASMCE_131835	inside	1	47				
+//
+# QASMCE_2214 Length: 48
+# QASMCE_2214 Number of predicted TMRs: 0
+QASMCE_2214	inside	1	48				
+//
+# QASMCE_78458 Length: 34
+# QASMCE_78458 Number of predicted TMRs: 0
+QASMCE_78458	signal	1	33				
+QASMCE_78458	outside	34	34				
+//
+# QASMCE_92386 Length: 42
+# QASMCE_92386 Number of predicted TMRs: 0
+QASMCE_92386	inside	1	42				
+//
+# QASMCE_12985 Length: 41
+# QASMCE_12985 Number of predicted TMRs: 0
+QASMCE_12985	signal	1	10				
+QASMCE_12985	outside	11	41				
+//
+# QASMCE_69253 Length: 45
+# QASMCE_69253 Number of predicted TMRs: 0
+QASMCE_69253	inside	1	45				
+//
+# QASMCE_75141 Length: 42
+# QASMCE_75141 Number of predicted TMRs: 0
+QASMCE_75141	inside	1	42				
+//
+# QASMCE_104222 Length: 44
+# QASMCE_104222 Number of predicted TMRs: 0
+QASMCE_104222	inside	1	44				
+//
+# QASMCE_85104 Length: 37
+# QASMCE_85104 Number of predicted TMRs: 0
+QASMCE_85104	signal	1	28				
+QASMCE_85104	outside	29	37				
+//
+# QASMCE_74215 Length: 47
+# QASMCE_74215 Number of predicted TMRs: 0
+QASMCE_74215	inside	1	47				
+//
+# QASMCE_76911 Length: 50
+# QASMCE_76911 Number of predicted TMRs: 0
+QASMCE_76911	inside	1	50				
+//
+# QASMCE_156173 Length: 47
+# QASMCE_156173 Number of predicted TMRs: 0
+QASMCE_156173	outside	1	47				
+//
+# QASMCE_143814 Length: 38
+# QASMCE_143814 Number of predicted TMRs: 0
+QASMCE_143814	inside	1	38				
+//
+# QASMCE_161993 Length: 43
+# QASMCE_161993 Number of predicted TMRs: 0
+QASMCE_161993	inside	1	43				
+//
+# QASMCE_156901 Length: 44
+# QASMCE_156901 Number of predicted TMRs: 0
+QASMCE_156901	inside	1	44				
+//
+# QASMCE_116070 Length: 42
+# QASMCE_116070 Number of predicted TMRs: 0
+QASMCE_116070	signal	1	23				
+QASMCE_116070	outside	24	42				
+//
+# QASMCE_10839 Length: 45
+# QASMCE_10839 Number of predicted TMRs: 0
+QASMCE_10839	signal	1	21				
+QASMCE_10839	outside	22	45				
+//
+# QASMCE_59191 Length: 48
+# QASMCE_59191 Number of predicted TMRs: 0
+QASMCE_59191	inside	1	48				
+//
+# QASMCE_136941 Length: 37
+# QASMCE_136941 Number of predicted TMRs: 0
+QASMCE_136941	inside	1	37				
+//
+# QASMCE_141377 Length: 45
+# QASMCE_141377 Number of predicted TMRs: 0
+QASMCE_141377	signal	1	12				
+QASMCE_141377	outside	13	45				
+//
+# QASMCE_97368 Length: 44
+# QASMCE_97368 Number of predicted TMRs: 0
+QASMCE_97368	signal	1	41				
+QASMCE_97368	outside	42	44				
+//
+# QASMCE_102492 Length: 33
+# QASMCE_102492 Number of predicted TMRs: 0
+QASMCE_102492	signal	1	30				
+QASMCE_102492	outside	31	33				
+//
+# QASMCE_164801 Length: 46
+# QASMCE_164801 Number of predicted TMRs: 0
+QASMCE_164801	signal	1	37				
+QASMCE_164801	outside	38	46				
+//
+# QASMCE_101547 Length: 36
+# QASMCE_101547 Number of predicted TMRs: 0
+QASMCE_101547	signal	1	34				
+QASMCE_101547	outside	35	36				
+//
+# QASMCE_2658 Length: 49
+# QASMCE_2658 Number of predicted TMRs: 0
+QASMCE_2658	signal	1	48				
+QASMCE_2658	outside	49	49				
+//
+# QASMCE_70676 Length: 49
+# QASMCE_70676 Number of predicted TMRs: 0
+QASMCE_70676	inside	1	49				
+//
+# QASMCE_86278 Length: 49
+# QASMCE_86278 Number of predicted TMRs: 0
+QASMCE_86278	inside	1	49				
+//
+# QASMCE_9183 Length: 47
+# QASMCE_9183 Number of predicted TMRs: 0
+QASMCE_9183	signal	1	21				
+QASMCE_9183	outside	22	47				
+//
+# QASMCE_142764 Length: 48
+# QASMCE_142764 Number of predicted TMRs: 0
+QASMCE_142764	inside	1	48				
+//
+# QASMCE_148646 Length: 49
+# QASMCE_148646 Number of predicted TMRs: 0
+QASMCE_148646	inside	1	49				
+//
+# QASMCE_75562 Length: 40
+# QASMCE_75562 Number of predicted TMRs: 0
+QASMCE_75562	signal	1	32				
+QASMCE_75562	outside	33	40				
+//
+# QASMCE_33933 Length: 48
+# QASMCE_33933 Number of predicted TMRs: 0
+QASMCE_33933	signal	1	47				
+QASMCE_33933	outside	48	48				
+//
+# QASMCE_116247 Length: 50
+# QASMCE_116247 Number of predicted TMRs: 0
+QASMCE_116247	outside	1	50				
+//
+# QASMCE_9349 Length: 42
+# QASMCE_9349 Number of predicted TMRs: 0
+QASMCE_9349	inside	1	42				
+//
+# QASMCE_155010 Length: 37
+# QASMCE_155010 Number of predicted TMRs: 0
+QASMCE_155010	inside	1	37				
+//
+# QASMCE_27880 Length: 39
+# QASMCE_27880 Number of predicted TMRs: 0
+QASMCE_27880	signal	1	38				
+QASMCE_27880	outside	39	39				
+//
+# QASMCE_65715 Length: 39
+# QASMCE_65715 Number of predicted TMRs: 0
+QASMCE_65715	inside	1	39				
+//
+# QASMCE_110983 Length: 47
+# QASMCE_110983 Number of predicted TMRs: 0
+QASMCE_110983	inside	1	47				
+//
+# QASMCE_134775 Length: 50
+# QASMCE_134775 Number of predicted TMRs: 0
+QASMCE_134775	inside	1	50				
+//
+# QASMCE_94550 Length: 33
+# QASMCE_94550 Number of predicted TMRs: 0
+QASMCE_94550	signal	1	25				
+QASMCE_94550	outside	26	33				
+//
+# QASMCE_43366 Length: 47
+# QASMCE_43366 Number of predicted TMRs: 0
+QASMCE_43366	signal	1	32				
+QASMCE_43366	outside	33	47				
+//
+# QASMCE_76990 Length: 45
+# QASMCE_76990 Number of predicted TMRs: 0
+QASMCE_76990	signal	1	17				
+QASMCE_76990	outside	18	45				
+//
+# QASMCE_101024 Length: 45
+# QASMCE_101024 Number of predicted TMRs: 0
+QASMCE_101024	inside	1	45				
+//
+# QASMCE_19352 Length: 46
+# QASMCE_19352 Number of predicted TMRs: 0
+QASMCE_19352	signal	1	26				
+QASMCE_19352	outside	27	46				
+//
+# QASMCE_144367 Length: 40
+# QASMCE_144367 Number of predicted TMRs: 0
+QASMCE_144367	inside	1	40				
+//
+# QASMCE_98641 Length: 39
+# QASMCE_98641 Number of predicted TMRs: 0
+QASMCE_98641	signal	1	35				
+QASMCE_98641	outside	36	39				
+//
+# QASMCE_19091 Length: 44
+# QASMCE_19091 Number of predicted TMRs: 0
+QASMCE_19091	inside	1	44				
+//
+# QASMCE_69247 Length: 48
+# QASMCE_69247 Number of predicted TMRs: 0
+QASMCE_69247	inside	1	48				
+//
+# QASMCE_133521 Length: 39
+# QASMCE_133521 Number of predicted TMRs: 0
+QASMCE_133521	inside	1	39				
+//
+# QASMCE_60347 Length: 38
+# QASMCE_60347 Number of predicted TMRs: 0
+QASMCE_60347	signal	1	35				
+QASMCE_60347	outside	36	38				
+//
+# QASMCE_75367 Length: 37
+# QASMCE_75367 Number of predicted TMRs: 0
+QASMCE_75367	signal	1	34				
+QASMCE_75367	outside	35	37				
+//
+# QASMCE_76331 Length: 46
+# QASMCE_76331 Number of predicted TMRs: 0
+QASMCE_76331	signal	1	42				
+QASMCE_76331	outside	43	46				
+//
+# QASMCE_30144 Length: 46
+# QASMCE_30144 Number of predicted TMRs: 0
+QASMCE_30144	signal	1	45				
+QASMCE_30144	outside	46	46				
+//
+# QASMCE_78098 Length: 49
+# QASMCE_78098 Number of predicted TMRs: 0
+QASMCE_78098	outside	1	49				
+//
+# QASMCE_113304 Length: 48
+# QASMCE_113304 Number of predicted TMRs: 0
+QASMCE_113304	inside	1	48				
+//
+# QASMCE_68469 Length: 50
+# QASMCE_68469 Number of predicted TMRs: 0
+QASMCE_68469	inside	1	50				
+//
+# QASMCE_65730 Length: 40
+# QASMCE_65730 Number of predicted TMRs: 0
+QASMCE_65730	signal	1	20				
+QASMCE_65730	outside	21	40				
+//
+# QASMCE_62873 Length: 29
+# QASMCE_62873 Number of predicted TMRs: 0
+QASMCE_62873	inside	1	29				
+//
+# QASMCE_120140 Length: 47
+# QASMCE_120140 Number of predicted TMRs: 0
+QASMCE_120140	inside	1	47				
+//
+# QASMCE_103341 Length: 31
+# QASMCE_103341 Number of predicted TMRs: 0
+QASMCE_103341	inside	1	31				
+//
+# QASMCE_39889 Length: 50
+# QASMCE_39889 Number of predicted TMRs: 0
+QASMCE_39889	inside	1	50				
+//
+# QASMCE_172913 Length: 40
+# QASMCE_172913 Number of predicted TMRs: 0
+QASMCE_172913	inside	1	40				
+//
+# QASMCE_167800 Length: 40
+# QASMCE_167800 Number of predicted TMRs: 0
+QASMCE_167800	signal	1	21				
+QASMCE_167800	outside	22	40				
+//
+# QASMCE_75312 Length: 49
+# QASMCE_75312 Number of predicted TMRs: 0
+QASMCE_75312	inside	1	49				
+//
+# QASMCE_83847 Length: 44
+# QASMCE_83847 Number of predicted TMRs: 0
+QASMCE_83847	signal	1	43				
+QASMCE_83847	outside	44	44				
+//
+# QASMCE_64670 Length: 50
+# QASMCE_64670 Number of predicted TMRs: 0
+QASMCE_64670	signal	1	33				
+QASMCE_64670	outside	34	50				
+//
+# QASMCE_110874 Length: 35
+# QASMCE_110874 Number of predicted TMRs: 0
+QASMCE_110874	signal	1	11				
+QASMCE_110874	outside	12	35				
+//
+# QASMCE_151971 Length: 50
+# QASMCE_151971 Number of predicted TMRs: 0
+QASMCE_151971	inside	1	50				
+//
+# QASMCE_101860 Length: 35
+# QASMCE_101860 Number of predicted TMRs: 0
+QASMCE_101860	signal	1	33				
+QASMCE_101860	outside	34	35				
+//
+# QASMCE_26425 Length: 48
+# QASMCE_26425 Number of predicted TMRs: 0
+QASMCE_26425	inside	1	48				
+//
+# QASMCE_164170 Length: 46
+# QASMCE_164170 Number of predicted TMRs: 0
+QASMCE_164170	signal	1	45				
+QASMCE_164170	outside	46	46				
+//
+# QASMCE_100480 Length: 50
+# QASMCE_100480 Number of predicted TMRs: 0
+QASMCE_100480	inside	1	50				
+//
+# QASMCE_55801 Length: 36
+# QASMCE_55801 Number of predicted TMRs: 0
+QASMCE_55801	signal	1	24				
+QASMCE_55801	outside	25	36				
+//
+# QASMCE_105938 Length: 50
+# QASMCE_105938 Number of predicted TMRs: 0
+QASMCE_105938	outside	1	50				
+//
+# QASMCE_67896 Length: 50
+# QASMCE_67896 Number of predicted TMRs: 0
+QASMCE_67896	inside	1	50				
+//
+# QASMCE_72132 Length: 36
+# QASMCE_72132 Number of predicted TMRs: 0
+QASMCE_72132	inside	1	36				
+//
+# QASMCE_9926 Length: 47
+# QASMCE_9926 Number of predicted TMRs: 0
+QASMCE_9926	outside	1	47				
+//
+# QASMCE_42609 Length: 48
+# QASMCE_42609 Number of predicted TMRs: 0
+QASMCE_42609	inside	1	48				
+//
+# QASMCE_98103 Length: 46
+# QASMCE_98103 Number of predicted TMRs: 0
+QASMCE_98103	signal	1	35				
+QASMCE_98103	outside	36	46				
+//
+# QASMCE_74368 Length: 48
+# QASMCE_74368 Number of predicted TMRs: 0
+QASMCE_74368	inside	1	48				
+//
+# QASMCE_104850 Length: 47
+# QASMCE_104850 Number of predicted TMRs: 0
+QASMCE_104850	signal	1	44				
+QASMCE_104850	outside	45	47				
+//
+# QASMCE_13236 Length: 50
+# QASMCE_13236 Number of predicted TMRs: 0
+QASMCE_13236	inside	1	50				
+//
+# QASMCE_46286 Length: 49
+# QASMCE_46286 Number of predicted TMRs: 0
+QASMCE_46286	inside	1	49				
+//
+# QASMCE_144233 Length: 42
+# QASMCE_144233 Number of predicted TMRs: 0
+QASMCE_144233	signal	1	40				
+QASMCE_144233	outside	41	42				
+//
+# QASMCE_34997 Length: 50
+# QASMCE_34997 Number of predicted TMRs: 0
+QASMCE_34997	inside	1	50				
+//
+# QASMCE_30769 Length: 44
+# QASMCE_30769 Number of predicted TMRs: 0
+QASMCE_30769	signal	1	32				
+QASMCE_30769	outside	33	44				
+//
+# QASMCE_66875 Length: 42
+# QASMCE_66875 Number of predicted TMRs: 0
+QASMCE_66875	signal	1	28				
+QASMCE_66875	outside	29	42				
+//
+# QASMCE_84491 Length: 38
+# QASMCE_84491 Number of predicted TMRs: 0
+QASMCE_84491	signal	1	22				
+QASMCE_84491	outside	23	38				
+//
+# QASMCE_141728 Length: 43
+# QASMCE_141728 Number of predicted TMRs: 0
+QASMCE_141728	signal	1	32				
+QASMCE_141728	outside	33	43				
+//
+# QASMCE_6694 Length: 47
+# QASMCE_6694 Number of predicted TMRs: 0
+QASMCE_6694	signal	1	10				
+QASMCE_6694	outside	11	47				
+//
+# QASMCE_19832 Length: 49
+# QASMCE_19832 Number of predicted TMRs: 0
+QASMCE_19832	signal	1	20				
+QASMCE_19832	outside	21	49				
+//
+# QASMCE_3568 Length: 48
+# QASMCE_3568 Number of predicted TMRs: 0
+QASMCE_3568	inside	1	48				
+//
+# QASMCE_146720 Length: 41
+# QASMCE_146720 Number of predicted TMRs: 0
+QASMCE_146720	inside	1	41				
+//
+# QASMCE_154068 Length: 49
+# QASMCE_154068 Number of predicted TMRs: 0
+QASMCE_154068	inside	1	49				
+//
+# QASMCE_89287 Length: 49
+# QASMCE_89287 Number of predicted TMRs: 0
+QASMCE_89287	signal	1	35				
+QASMCE_89287	outside	36	49				
+//
+# QASMCE_105790 Length: 46
+# QASMCE_105790 Number of predicted TMRs: 0
+QASMCE_105790	outside	1	46				
+//
+# QASMCE_116242 Length: 41
+# QASMCE_116242 Number of predicted TMRs: 0
+QASMCE_116242	inside	1	41				
+//
+# QASMCE_147789 Length: 47
+# QASMCE_147789 Number of predicted TMRs: 0
+QASMCE_147789	inside	1	47				
+//
+# QASMCE_62656 Length: 43
+# QASMCE_62656 Number of predicted TMRs: 0
+QASMCE_62656	inside	1	43				
+//
+# QASMCE_111202 Length: 49
+# QASMCE_111202 Number of predicted TMRs: 0
+QASMCE_111202	inside	1	49				
+//
+# QASMCE_72637 Length: 50
+# QASMCE_72637 Number of predicted TMRs: 0
+QASMCE_72637	inside	1	50				
+//
+# QASMCE_63092 Length: 42
+# QASMCE_63092 Number of predicted TMRs: 0
+QASMCE_63092	inside	1	42				
+//
+# QASMCE_58947 Length: 44
+# QASMCE_58947 Number of predicted TMRs: 0
+QASMCE_58947	inside	1	44				
+//
+# QASMCE_18897 Length: 47
+# QASMCE_18897 Number of predicted TMRs: 0
+QASMCE_18897	inside	1	47				
+//
+# QASMCE_17449 Length: 39
+# QASMCE_17449 Number of predicted TMRs: 0
+QASMCE_17449	inside	1	39				
+//
+# QASMCE_71389 Length: 42
+# QASMCE_71389 Number of predicted TMRs: 0
+QASMCE_71389	signal	1	10				
+QASMCE_71389	outside	11	42				
+//
+# QASMCE_126509 Length: 47
+# QASMCE_126509 Number of predicted TMRs: 0
+QASMCE_126509	signal	1	46				
+QASMCE_126509	outside	47	47				
+//
+# QASMCE_14395 Length: 46
+# QASMCE_14395 Number of predicted TMRs: 0
+QASMCE_14395	inside	1	46				
+//
+# QASMCE_148734 Length: 45
+# QASMCE_148734 Number of predicted TMRs: 0
+QASMCE_148734	inside	1	45				
+//
+# QASMCE_73564 Length: 44
+# QASMCE_73564 Number of predicted TMRs: 0
+QASMCE_73564	inside	1	44				
+//
+# QASMCE_164842 Length: 46
+# QASMCE_164842 Number of predicted TMRs: 0
+QASMCE_164842	signal	1	44				
+QASMCE_164842	outside	45	46				
+//
+# QASMCE_122022 Length: 49
+# QASMCE_122022 Number of predicted TMRs: 0
+QASMCE_122022	inside	1	49				
+//
+# QASMCE_167705 Length: 48
+# QASMCE_167705 Number of predicted TMRs: 0
+QASMCE_167705	inside	1	48				
+//
+# QASMCE_106158 Length: 50
+# QASMCE_106158 Number of predicted TMRs: 0
+QASMCE_106158	inside	1	50				
+//
+# QASMCE_70348 Length: 43
+# QASMCE_70348 Number of predicted TMRs: 0
+QASMCE_70348	inside	1	43				
+//
+# QASMCE_49176 Length: 44
+# QASMCE_49176 Number of predicted TMRs: 0
+QASMCE_49176	inside	1	44				
+//
+# QASMCE_102644 Length: 46
+# QASMCE_102644 Number of predicted TMRs: 0
+QASMCE_102644	inside	1	46				
+//
+# QASMCE_78691 Length: 47
+# QASMCE_78691 Number of predicted TMRs: 0
+QASMCE_78691	inside	1	47				
+//
+# QASMCE_42588 Length: 50
+# QASMCE_42588 Number of predicted TMRs: 0
+QASMCE_42588	inside	1	50				
+//
+# QASMCE_119238 Length: 48
+# QASMCE_119238 Number of predicted TMRs: 0
+QASMCE_119238	inside	1	48				
+//
+# QASMCE_11946 Length: 48
+# QASMCE_11946 Number of predicted TMRs: 0
+QASMCE_11946	signal	1	17				
+QASMCE_11946	outside	18	48				
+//
+# QASMCE_46570 Length: 42
+# QASMCE_46570 Number of predicted TMRs: 0
+QASMCE_46570	inside	1	42				
+//
+# QASMCE_141814 Length: 40
+# QASMCE_141814 Number of predicted TMRs: 0
+QASMCE_141814	inside	1	40				
+//
+# QASMCE_170894 Length: 50
+# QASMCE_170894 Number of predicted TMRs: 0
+QASMCE_170894	signal	1	10				
+QASMCE_170894	outside	11	50				
+//
+# QASMCE_53897 Length: 37
+# QASMCE_53897 Number of predicted TMRs: 0
+QASMCE_53897	signal	1	34				
+QASMCE_53897	outside	35	37				
+//
+# QASMCE_40837 Length: 49
+# QASMCE_40837 Number of predicted TMRs: 0
+QASMCE_40837	inside	1	49				
+//
+# QASMCE_109640 Length: 46
+# QASMCE_109640 Number of predicted TMRs: 0
+QASMCE_109640	inside	1	46				
+//
+# QASMCE_22243 Length: 37
+# QASMCE_22243 Number of predicted TMRs: 0
+QASMCE_22243	signal	1	29				
+QASMCE_22243	outside	30	37				
+//
+# QASMCE_79691 Length: 50
+# QASMCE_79691 Number of predicted TMRs: 0
+QASMCE_79691	signal	1	41				
+QASMCE_79691	outside	42	50				
+//
+# QASMCE_14731 Length: 42
+# QASMCE_14731 Number of predicted TMRs: 0
+QASMCE_14731	inside	1	42				
+//
+# QASMCE_38995 Length: 45
+# QASMCE_38995 Number of predicted TMRs: 0
+QASMCE_38995	inside	1	45				
+//
+# QASMCE_132206 Length: 45
+# QASMCE_132206 Number of predicted TMRs: 0
+QASMCE_132206	signal	1	15				
+QASMCE_132206	outside	16	45				
+//
+# QASMCE_79898 Length: 46
+# QASMCE_79898 Number of predicted TMRs: 0
+QASMCE_79898	signal	1	45				
+QASMCE_79898	outside	46	46				
+//
+# QASMCE_82557 Length: 41
+# QASMCE_82557 Number of predicted TMRs: 0
+QASMCE_82557	signal	1	40				
+QASMCE_82557	outside	41	41				
+//
+# QASMCE_82795 Length: 47
+# QASMCE_82795 Number of predicted TMRs: 0
+QASMCE_82795	signal	1	46				
+QASMCE_82795	outside	47	47				
+//
+# QASMCE_149741 Length: 48
+# QASMCE_149741 Number of predicted TMRs: 0
+QASMCE_149741	signal	1	14				
+QASMCE_149741	outside	15	48				
+//
+# QASMCE_86309 Length: 49
+# QASMCE_86309 Number of predicted TMRs: 0
+QASMCE_86309	inside	1	49				
+//
+# QASMCE_43326 Length: 42
+# QASMCE_43326 Number of predicted TMRs: 0
+QASMCE_43326	inside	1	42				
+//
+# QASMCE_17597 Length: 44
+# QASMCE_17597 Number of predicted TMRs: 0
+QASMCE_17597	inside	1	44				
+//
+# QASMCE_135227 Length: 37
+# QASMCE_135227 Number of predicted TMRs: 0
+QASMCE_135227	inside	1	37				
+//
+# QASMCE_31903 Length: 47
+# QASMCE_31903 Number of predicted TMRs: 0
+QASMCE_31903	inside	1	47				
+//
+# QASMCE_23291 Length: 48
+# QASMCE_23291 Number of predicted TMRs: 0
+QASMCE_23291	inside	1	48				
+//
+# QASMCE_24046 Length: 45
+# QASMCE_24046 Number of predicted TMRs: 0
+QASMCE_24046	inside	1	45				
+//
+# QASMCE_133637 Length: 41
+# QASMCE_133637 Number of predicted TMRs: 0
+QASMCE_133637	signal	1	28				
+QASMCE_133637	outside	29	41				
+//
+# QASMCE_107099 Length: 38
+# QASMCE_107099 Number of predicted TMRs: 0
+QASMCE_107099	signal	1	37				
+QASMCE_107099	outside	38	38				
+//
+# QASMCE_42594 Length: 40
+# QASMCE_42594 Number of predicted TMRs: 0
+QASMCE_42594	inside	1	40				
+//
+# QASMCE_172578 Length: 50
+# QASMCE_172578 Number of predicted TMRs: 0
+QASMCE_172578	inside	1	50				
+//
+# QASMCE_85289 Length: 40
+# QASMCE_85289 Number of predicted TMRs: 0
+QASMCE_85289	signal	1	18				
+QASMCE_85289	outside	19	40				
+//
+# QASMCE_61914 Length: 38
+# QASMCE_61914 Number of predicted TMRs: 0
+QASMCE_61914	signal	1	18				
+QASMCE_61914	outside	19	38				
+//
+# QASMCE_45740 Length: 50
+# QASMCE_45740 Number of predicted TMRs: 0
+QASMCE_45740	inside	1	50				
+//
+# QASMCE_131940 Length: 46
+# QASMCE_131940 Number of predicted TMRs: 0
+QASMCE_131940	inside	1	46				
+//
+# QASMCE_62500 Length: 50
+# QASMCE_62500 Number of predicted TMRs: 0
+QASMCE_62500	inside	1	50				
+//
+# QASMCE_42870 Length: 47
+# QASMCE_42870 Number of predicted TMRs: 0
+QASMCE_42870	signal	1	45				
+QASMCE_42870	outside	46	47				
+//
+# QASMCE_74146 Length: 32
+# QASMCE_74146 Number of predicted TMRs: 0
+QASMCE_74146	inside	1	32				
+//
+# QASMCE_131544 Length: 47
+# QASMCE_131544 Number of predicted TMRs: 0
+QASMCE_131544	inside	1	47				
+//
+# QASMCE_155562 Length: 43
+# QASMCE_155562 Number of predicted TMRs: 0
+QASMCE_155562	inside	1	43				
+//
+# QASMCE_67133 Length: 46
+# QASMCE_67133 Number of predicted TMRs: 0
+QASMCE_67133	signal	1	45				
+QASMCE_67133	outside	46	46				
+//
+# QASMCE_60153 Length: 50
+# QASMCE_60153 Number of predicted TMRs: 0
+QASMCE_60153	signal	1	18				
+QASMCE_60153	outside	19	50				
+//
+# QASMCE_163580 Length: 42
+# QASMCE_163580 Number of predicted TMRs: 0
+QASMCE_163580	signal	1	40				
+QASMCE_163580	outside	41	42				
+//
+# QASMCE_22322 Length: 49
+# QASMCE_22322 Number of predicted TMRs: 0
+QASMCE_22322	inside	1	49				
+//
+# QASMCE_136770 Length: 43
+# QASMCE_136770 Number of predicted TMRs: 1
+QASMCE_136770	inside	1	21				
+QASMCE_136770	TMhelix	22	35				
+QASMCE_136770	outside	36	43				
+//
+# QASMCE_167245 Length: 38
+# QASMCE_167245 Number of predicted TMRs: 0
+QASMCE_167245	signal	1	37				
+QASMCE_167245	outside	38	38				
+//
+# QASMCE_50812 Length: 41
+# QASMCE_50812 Number of predicted TMRs: 0
+QASMCE_50812	inside	1	41				
+//
+# QASMCE_56141 Length: 45
+# QASMCE_56141 Number of predicted TMRs: 0
+QASMCE_56141	inside	1	45				
+//
+# QASMCE_172143 Length: 50
+# QASMCE_172143 Number of predicted TMRs: 0
+QASMCE_172143	inside	1	50				
+//
+# QASMCE_129327 Length: 40
+# QASMCE_129327 Number of predicted TMRs: 0
+QASMCE_129327	inside	1	40				
+//
+# QASMCE_73976 Length: 45
+# QASMCE_73976 Number of predicted TMRs: 0
+QASMCE_73976	signal	1	44				
+QASMCE_73976	outside	45	45				
+//
+# QASMCE_170442 Length: 44
+# QASMCE_170442 Number of predicted TMRs: 0
+QASMCE_170442	signal	1	29				
+QASMCE_170442	outside	30	44				
+//
+# QASMCE_20131 Length: 50
+# QASMCE_20131 Number of predicted TMRs: 0
+QASMCE_20131	inside	1	50				
+//
+# QASMCE_86378 Length: 45
+# QASMCE_86378 Number of predicted TMRs: 0
+QASMCE_86378	inside	1	45				
+//
+# QASMCE_138004 Length: 48
+# QASMCE_138004 Number of predicted TMRs: 0
+QASMCE_138004	signal	1	45				
+QASMCE_138004	outside	46	48				
+//
+# QASMCE_56142 Length: 42
+# QASMCE_56142 Number of predicted TMRs: 0
+QASMCE_56142	signal	1	41				
+QASMCE_56142	outside	42	42				
+//
+# QASMCE_26704 Length: 48
+# QASMCE_26704 Number of predicted TMRs: 0
+QASMCE_26704	inside	1	48				
+//
+# QASMCE_162995 Length: 42
+# QASMCE_162995 Number of predicted TMRs: 0
+QASMCE_162995	signal	1	40				
+QASMCE_162995	outside	41	42				
+//
+# QASMCE_42885 Length: 50
+# QASMCE_42885 Number of predicted TMRs: 0
+QASMCE_42885	inside	1	50				
+//
+# QASMCE_74703 Length: 47
+# QASMCE_74703 Number of predicted TMRs: 0
+QASMCE_74703	outside	1	47				
+//
+# QASMCE_4020 Length: 44
+# QASMCE_4020 Number of predicted TMRs: 0
+QASMCE_4020	inside	1	44				
+//
+# QASMCE_17448 Length: 49
+# QASMCE_17448 Number of predicted TMRs: 0
+QASMCE_17448	inside	1	49				
+//
+# QASMCE_24635 Length: 38
+# QASMCE_24635 Number of predicted TMRs: 0
+QASMCE_24635	signal	1	27				
+QASMCE_24635	outside	28	38				
+//
+# QASMCE_83694 Length: 44
+# QASMCE_83694 Number of predicted TMRs: 0
+QASMCE_83694	inside	1	44				
+//
+# QASMCE_100851 Length: 43
+# QASMCE_100851 Number of predicted TMRs: 0
+QASMCE_100851	inside	1	43				
+//
+# QASMCE_25746 Length: 47
+# QASMCE_25746 Number of predicted TMRs: 0
+QASMCE_25746	signal	1	15				
+QASMCE_25746	outside	16	47				
+//
+# QASMCE_160175 Length: 48
+# QASMCE_160175 Number of predicted TMRs: 0
+QASMCE_160175	signal	1	39				
+QASMCE_160175	outside	40	48				
+//
+# QASMCE_145371 Length: 41
+# QASMCE_145371 Number of predicted TMRs: 0
+QASMCE_145371	signal	1	39				
+QASMCE_145371	outside	40	41				
+//
+# QASMCE_124568 Length: 42
+# QASMCE_124568 Number of predicted TMRs: 0
+QASMCE_124568	inside	1	42				
+//
+# QASMCE_89857 Length: 50
+# QASMCE_89857 Number of predicted TMRs: 0
+QASMCE_89857	inside	1	50				
+//
+# QASMCE_28988 Length: 49
+# QASMCE_28988 Number of predicted TMRs: 0
+QASMCE_28988	inside	1	49				
+//
+# QASMCE_155881 Length: 46
+# QASMCE_155881 Number of predicted TMRs: 0
+QASMCE_155881	signal	1	45				
+QASMCE_155881	outside	46	46				
+//
+# QASMCE_25767 Length: 39
+# QASMCE_25767 Number of predicted TMRs: 0
+QASMCE_25767	signal	1	38				
+QASMCE_25767	outside	39	39				
+//
+# QASMCE_80569 Length: 45
+# QASMCE_80569 Number of predicted TMRs: 0
+QASMCE_80569	inside	1	45				
+//
+# QASMCE_43240 Length: 50
+# QASMCE_43240 Number of predicted TMRs: 0
+QASMCE_43240	inside	1	50				
+//
+# QASMCE_26080 Length: 44
+# QASMCE_26080 Number of predicted TMRs: 0
+QASMCE_26080	signal	1	43				
+QASMCE_26080	outside	44	44				
+//
+# QASMCE_59552 Length: 38
+# QASMCE_59552 Number of predicted TMRs: 0
+QASMCE_59552	signal	1	10				
+QASMCE_59552	outside	11	38				
+//
+# QASMCE_119240 Length: 34
+# QASMCE_119240 Number of predicted TMRs: 0
+QASMCE_119240	inside	1	34				
+//
+# QASMCE_135493 Length: 49
+# QASMCE_135493 Number of predicted TMRs: 0
+QASMCE_135493	inside	1	49				
+//
+# QASMCE_43412 Length: 44
+# QASMCE_43412 Number of predicted TMRs: 0
+QASMCE_43412	inside	1	44				
+//
+# QASMCE_12984 Length: 38
+# QASMCE_12984 Number of predicted TMRs: 0
+QASMCE_12984	signal	1	26				
+QASMCE_12984	outside	27	38				
+//
+# QASMCE_52876 Length: 35
+# QASMCE_52876 Number of predicted TMRs: 0
+QASMCE_52876	signal	1	34				
+QASMCE_52876	outside	35	35				
+//
+# QASMCE_50060 Length: 49
+# QASMCE_50060 Number of predicted TMRs: 0
+QASMCE_50060	inside	1	49				
+//
+# QASMCE_21486 Length: 47
+# QASMCE_21486 Number of predicted TMRs: 0
+QASMCE_21486	signal	1	44				
+QASMCE_21486	outside	45	47				
+//
+# QASMCE_45557 Length: 33
+# QASMCE_45557 Number of predicted TMRs: 0
+QASMCE_45557	signal	1	32				
+QASMCE_45557	outside	33	33				
+//
+# QASMCE_167934 Length: 43
+# QASMCE_167934 Number of predicted TMRs: 0
+QASMCE_167934	signal	1	42				
+QASMCE_167934	outside	43	43				
+//
+# QASMCE_123070 Length: 43
+# QASMCE_123070 Number of predicted TMRs: 0
+QASMCE_123070	signal	1	36				
+QASMCE_123070	outside	37	43				
+//
+# QASMCE_31219 Length: 48
+# QASMCE_31219 Number of predicted TMRs: 0
+QASMCE_31219	signal	1	47				
+QASMCE_31219	outside	48	48				
+//
+# QASMCE_4031 Length: 39
+# QASMCE_4031 Number of predicted TMRs: 0
+QASMCE_4031	signal	1	37				
+QASMCE_4031	outside	38	39				
+//
+# QASMCE_45459 Length: 45
+# QASMCE_45459 Number of predicted TMRs: 0
+QASMCE_45459	signal	1	17				
+QASMCE_45459	outside	18	45				
+//
+# QASMCE_89324 Length: 49
+# QASMCE_89324 Number of predicted TMRs: 0
+QASMCE_89324	signal	1	26				
+QASMCE_89324	outside	27	49				
+//
+# QASMCE_65457 Length: 34
+# QASMCE_65457 Number of predicted TMRs: 0
+QASMCE_65457	inside	1	34				
+//
+# QASMCE_99854 Length: 37
+# QASMCE_99854 Number of predicted TMRs: 0
+QASMCE_99854	signal	1	25				
+QASMCE_99854	outside	26	37				
+//
+# QASMCE_79579 Length: 49
+# QASMCE_79579 Number of predicted TMRs: 0
+QASMCE_79579	signal	1	48				
+QASMCE_79579	outside	49	49				
+//
+# QASMCE_118477 Length: 34
+# QASMCE_118477 Number of predicted TMRs: 0
+QASMCE_118477	inside	1	34				
+//
+# QASMCE_85555 Length: 37
+# QASMCE_85555 Number of predicted TMRs: 0
+QASMCE_85555	inside	1	37				
+//
+# QASMCE_93320 Length: 31
+# QASMCE_93320 Number of predicted TMRs: 0
+QASMCE_93320	signal	1	14				
+QASMCE_93320	outside	15	31				
+//
+# QASMCE_151507 Length: 43
+# QASMCE_151507 Number of predicted TMRs: 0
+QASMCE_151507	signal	1	10				
+QASMCE_151507	outside	11	43				
+//
+# QASMCE_49504 Length: 39
+# QASMCE_49504 Number of predicted TMRs: 0
+QASMCE_49504	inside	1	39				
+//
+# QASMCE_31138 Length: 48
+# QASMCE_31138 Number of predicted TMRs: 0
+QASMCE_31138	signal	1	21				
+QASMCE_31138	outside	22	48				
+//
+# QASMCE_49347 Length: 48
+# QASMCE_49347 Number of predicted TMRs: 0
+QASMCE_49347	inside	1	48				
+//
+# QASMCE_21314 Length: 42
+# QASMCE_21314 Number of predicted TMRs: 0
+QASMCE_21314	inside	1	42				
+//
+# QASMCE_79438 Length: 44
+# QASMCE_79438 Number of predicted TMRs: 0
+QASMCE_79438	signal	1	32				
+QASMCE_79438	outside	33	44				
+//
+# QASMCE_79448 Length: 49
+# QASMCE_79448 Number of predicted TMRs: 1
+QASMCE_79448	outside	1	4				
+QASMCE_79448	TMhelix	5	19				
+QASMCE_79448	inside	20	49				
+//
+# QASMCE_87051 Length: 39
+# QASMCE_87051 Number of predicted TMRs: 0
+QASMCE_87051	inside	1	39				
+//
+# QASMCE_119592 Length: 50
+# QASMCE_119592 Number of predicted TMRs: 0
+QASMCE_119592	inside	1	50				
+//
+# QASMCE_77988 Length: 49
+# QASMCE_77988 Number of predicted TMRs: 0
+QASMCE_77988	signal	1	47				
+QASMCE_77988	outside	48	49				
+//
+# QASMCE_70936 Length: 46
+# QASMCE_70936 Number of predicted TMRs: 0
+QASMCE_70936	inside	1	46				
+//
+# QASMCE_96194 Length: 46
+# QASMCE_96194 Number of predicted TMRs: 0
+QASMCE_96194	inside	1	46				
+//
+# QASMCE_138168 Length: 46
+# QASMCE_138168 Number of predicted TMRs: 0
+QASMCE_138168	inside	1	46				
+//
+# QASMCE_74047 Length: 42
+# QASMCE_74047 Number of predicted TMRs: 0
+QASMCE_74047	signal	1	38				
+QASMCE_74047	outside	39	42				
+//
+# QASMCE_98916 Length: 40
+# QASMCE_98916 Number of predicted TMRs: 0
+QASMCE_98916	signal	1	39				
+QASMCE_98916	outside	40	40				
+//
+# QASMCE_59013 Length: 44
+# QASMCE_59013 Number of predicted TMRs: 0
+QASMCE_59013	inside	1	44				
+//
+# QASMCE_31233 Length: 40
+# QASMCE_31233 Number of predicted TMRs: 0
+QASMCE_31233	signal	1	28				
+QASMCE_31233	outside	29	40				
+//
+# QASMCE_94708 Length: 35
+# QASMCE_94708 Number of predicted TMRs: 0
+QASMCE_94708	signal	1	34				
+QASMCE_94708	outside	35	35				
+//
+# QASMCE_87751 Length: 40
+# QASMCE_87751 Number of predicted TMRs: 0
+QASMCE_87751	signal	1	38				
+QASMCE_87751	outside	39	40				
+//
+# QASMCE_135147 Length: 49
+# QASMCE_135147 Number of predicted TMRs: 0
+QASMCE_135147	inside	1	49				
+//
+# QASMCE_146998 Length: 45
+# QASMCE_146998 Number of predicted TMRs: 0
+QASMCE_146998	inside	1	45				
+//
+# QASMCE_163465 Length: 50
+# QASMCE_163465 Number of predicted TMRs: 0
+QASMCE_163465	signal	1	30				
+QASMCE_163465	outside	31	50				
+//
+# QASMCE_92974 Length: 45
+# QASMCE_92974 Number of predicted TMRs: 0
+QASMCE_92974	signal	1	26				
+QASMCE_92974	outside	27	45				
+//
+# QASMCE_57058 Length: 50
+# QASMCE_57058 Number of predicted TMRs: 0
+QASMCE_57058	inside	1	50				
+//
+# QASMCE_15456 Length: 48
+# QASMCE_15456 Number of predicted TMRs: 0
+QASMCE_15456	inside	1	48				
+//
+# QASMCE_115999 Length: 41
+# QASMCE_115999 Number of predicted TMRs: 0
+QASMCE_115999	inside	1	41				
+//
+# QASMCE_169713 Length: 48
+# QASMCE_169713 Number of predicted TMRs: 0
+QASMCE_169713	inside	1	48				
+//
+# QASMCE_45413 Length: 45
+# QASMCE_45413 Number of predicted TMRs: 0
+QASMCE_45413	inside	1	45				
+//
+# QASMCE_93595 Length: 46
+# QASMCE_93595 Number of predicted TMRs: 0
+QASMCE_93595	signal	1	39				
+QASMCE_93595	outside	40	46				
+//
+# QASMCE_19689 Length: 48
+# QASMCE_19689 Number of predicted TMRs: 0
+QASMCE_19689	signal	1	28				
+QASMCE_19689	outside	29	48				
+//
+# QASMCE_111197 Length: 46
+# QASMCE_111197 Number of predicted TMRs: 0
+QASMCE_111197	inside	1	46				
+//
+# QASMCE_84872 Length: 27
+# QASMCE_84872 Number of predicted TMRs: 0
+QASMCE_84872	signal	1	23				
+QASMCE_84872	outside	24	27				
+//
+# QASMCE_34920 Length: 45
+# QASMCE_34920 Number of predicted TMRs: 0
+QASMCE_34920	inside	1	45				
+//
+# QASMCE_15069 Length: 48
+# QASMCE_15069 Number of predicted TMRs: 0
+QASMCE_15069	inside	1	48				
+//
+# QASMCE_68762 Length: 45
+# QASMCE_68762 Number of predicted TMRs: 0
+QASMCE_68762	inside	1	45				
+//
+# QASMCE_68759 Length: 47
+# QASMCE_68759 Number of predicted TMRs: 0
+QASMCE_68759	signal	1	39				
+QASMCE_68759	outside	40	47				
+//
+# QASMCE_31179 Length: 49
+# QASMCE_31179 Number of predicted TMRs: 0
+QASMCE_31179	inside	1	49				
+//
+# QASMCE_19205 Length: 40
+# QASMCE_19205 Number of predicted TMRs: 0
+QASMCE_19205	signal	1	34				
+QASMCE_19205	outside	35	40				
+//
+# QASMCE_142933 Length: 41
+# QASMCE_142933 Number of predicted TMRs: 0
+QASMCE_142933	signal	1	38				
+QASMCE_142933	outside	39	41				
+//
+# QASMCE_23394 Length: 50
+# QASMCE_23394 Number of predicted TMRs: 0
+QASMCE_23394	inside	1	50				
+//
+# QASMCE_47715 Length: 50
+# QASMCE_47715 Number of predicted TMRs: 0
+QASMCE_47715	inside	1	50				
+//
+# QASMCE_121358 Length: 48
+# QASMCE_121358 Number of predicted TMRs: 0
+QASMCE_121358	inside	1	48				
+//
+# QASMCE_31460 Length: 35
+# QASMCE_31460 Number of predicted TMRs: 0
+QASMCE_31460	signal	1	22				
+QASMCE_31460	outside	23	35				
+//
+# QASMCE_167885 Length: 35
+# QASMCE_167885 Number of predicted TMRs: 0
+QASMCE_167885	signal	1	21				
+QASMCE_167885	outside	22	35				
+//
+# QASMCE_144465 Length: 38
+# QASMCE_144465 Number of predicted TMRs: 0
+QASMCE_144465	signal	1	33				
+QASMCE_144465	outside	34	38				
+//
+# QASMCE_35350 Length: 47
+# QASMCE_35350 Number of predicted TMRs: 0
+QASMCE_35350	inside	1	47				
+//
+# QASMCE_104601 Length: 36
+# QASMCE_104601 Number of predicted TMRs: 0
+QASMCE_104601	inside	1	36				
+//
+# QASMCE_91415 Length: 46
+# QASMCE_91415 Number of predicted TMRs: 0
+QASMCE_91415	inside	1	46				
+//
+# QASMCE_86750 Length: 43
+# QASMCE_86750 Number of predicted TMRs: 0
+QASMCE_86750	inside	1	43				
+//
+# QASMCE_117255 Length: 48
+# QASMCE_117255 Number of predicted TMRs: 0
+QASMCE_117255	inside	1	48				
+//
+# QASMCE_80616 Length: 49
+# QASMCE_80616 Number of predicted TMRs: 0
+QASMCE_80616	signal	1	32				
+QASMCE_80616	outside	33	49				
+//
+# QASMCE_60667 Length: 46
+# QASMCE_60667 Number of predicted TMRs: 0
+QASMCE_60667	signal	1	34				
+QASMCE_60667	outside	35	46				
+//
+# QASMCE_114795 Length: 46
+# QASMCE_114795 Number of predicted TMRs: 0
+QASMCE_114795	inside	1	46				
+//
+# QASMCE_147685 Length: 49
+# QASMCE_147685 Number of predicted TMRs: 1
+QASMCE_147685	inside	1	26				
+QASMCE_147685	TMhelix	27	46				
+QASMCE_147685	outside	47	49				
+//
+# QASMCE_172774 Length: 46
+# QASMCE_172774 Number of predicted TMRs: 0
+QASMCE_172774	inside	1	46				
+//
+# QASMCE_171361 Length: 37
+# QASMCE_171361 Number of predicted TMRs: 0
+QASMCE_171361	inside	1	37				
+//
+# QASMCE_165356 Length: 47
+# QASMCE_165356 Number of predicted TMRs: 0
+QASMCE_165356	inside	1	47				
+//
+# QASMCE_128863 Length: 42
+# QASMCE_128863 Number of predicted TMRs: 0
+QASMCE_128863	inside	1	42				
+//
+# QASMCE_6740 Length: 39
+# QASMCE_6740 Number of predicted TMRs: 0
+QASMCE_6740	inside	1	39				
+//
+# QASMCE_133411 Length: 42
+# QASMCE_133411 Number of predicted TMRs: 0
+QASMCE_133411	signal	1	40				
+QASMCE_133411	outside	41	42				
+//
+# QASMCE_169608 Length: 40
+# QASMCE_169608 Number of predicted TMRs: 0
+QASMCE_169608	signal	1	24				
+QASMCE_169608	outside	25	40				
+//
+# QASMCE_94945 Length: 30
+# QASMCE_94945 Number of predicted TMRs: 0
+QASMCE_94945	signal	1	24				
+QASMCE_94945	outside	25	30				
+//
+# QASMCE_143136 Length: 42
+# QASMCE_143136 Number of predicted TMRs: 0
+QASMCE_143136	inside	1	42				
+//
+# QASMCE_40620 Length: 41
+# QASMCE_40620 Number of predicted TMRs: 0
+QASMCE_40620	inside	1	41				
+//
+# QASMCE_16081 Length: 49
+# QASMCE_16081 Number of predicted TMRs: 0
+QASMCE_16081	inside	1	49				
+//
+# QASMCE_149022 Length: 43
+# QASMCE_149022 Number of predicted TMRs: 0
+QASMCE_149022	inside	1	43				
+//
+# QASMCE_31070 Length: 40
+# QASMCE_31070 Number of predicted TMRs: 0
+QASMCE_31070	signal	1	39				
+QASMCE_31070	outside	40	40				
+//
+# QASMCE_31981 Length: 39
+# QASMCE_31981 Number of predicted TMRs: 0
+QASMCE_31981	inside	1	39				
+//
+# QASMCE_121395 Length: 33
+# QASMCE_121395 Number of predicted TMRs: 0
+QASMCE_121395	signal	1	30				
+QASMCE_121395	outside	31	33				
+//
+# QASMCE_119097 Length: 45
+# QASMCE_119097 Number of predicted TMRs: 0
+QASMCE_119097	inside	1	45				
+//
+# QASMCE_101000 Length: 43
+# QASMCE_101000 Number of predicted TMRs: 0
+QASMCE_101000	inside	1	43				
+//
+# QASMCE_35189 Length: 45
+# QASMCE_35189 Number of predicted TMRs: 0
+QASMCE_35189	inside	1	45				
+//
+# QASMCE_42491 Length: 46
+# QASMCE_42491 Number of predicted TMRs: 1
+QASMCE_42491	signal	1	10				
+QASMCE_42491	outside	11	11				
+QASMCE_42491	TMhelix	12	25				
+QASMCE_42491	inside	26	46				
+//
+# QASMCE_138729 Length: 46
+# QASMCE_138729 Number of predicted TMRs: 0
+QASMCE_138729	inside	1	46				
+//
+# QASMCE_31724 Length: 44
+# QASMCE_31724 Number of predicted TMRs: 0
+QASMCE_31724	inside	1	44				
+//
+# QASMCE_92489 Length: 48
+# QASMCE_92489 Number of predicted TMRs: 0
+QASMCE_92489	outside	1	48				
+//
+# QASMCE_140572 Length: 48
+# QASMCE_140572 Number of predicted TMRs: 0
+QASMCE_140572	inside	1	48				
+//
+# QASMCE_168816 Length: 46
+# QASMCE_168816 Number of predicted TMRs: 0
+QASMCE_168816	inside	1	46				
+//
+# QASMCE_22155 Length: 49
+# QASMCE_22155 Number of predicted TMRs: 1
+QASMCE_22155	inside	1	5				
+QASMCE_22155	TMhelix	6	20				
+QASMCE_22155	outside	21	49				
+//
+# QASMCE_76589 Length: 37
+# QASMCE_76589 Number of predicted TMRs: 0
+QASMCE_76589	inside	1	37				
+//
+# QASMCE_167425 Length: 39
+# QASMCE_167425 Number of predicted TMRs: 0
+QASMCE_167425	signal	1	17				
+QASMCE_167425	outside	18	39				
+//
+# QASMCE_83643 Length: 48
+# QASMCE_83643 Number of predicted TMRs: 0
+QASMCE_83643	signal	1	17				
+QASMCE_83643	outside	18	48				
+//
+# QASMCE_130599 Length: 46
+# QASMCE_130599 Number of predicted TMRs: 0
+QASMCE_130599	signal	1	31				
+QASMCE_130599	outside	32	46				
+//
+# QASMCE_94670 Length: 49
+# QASMCE_94670 Number of predicted TMRs: 0
+QASMCE_94670	signal	1	33				
+QASMCE_94670	outside	34	49				
+//
+# QASMCE_59232 Length: 41
+# QASMCE_59232 Number of predicted TMRs: 0
+QASMCE_59232	signal	1	13				
+QASMCE_59232	outside	14	41				
+//
+# QASMCE_6084 Length: 40
+# QASMCE_6084 Number of predicted TMRs: 0
+QASMCE_6084	inside	1	40				
+//
+# QASMCE_150256 Length: 49
+# QASMCE_150256 Number of predicted TMRs: 0
+QASMCE_150256	signal	1	18				
+QASMCE_150256	outside	19	49				
+//
+# QASMCE_117438 Length: 47
+# QASMCE_117438 Number of predicted TMRs: 0
+QASMCE_117438	inside	1	47				
+//
+# QASMCE_23835 Length: 40
+# QASMCE_23835 Number of predicted TMRs: 0
+QASMCE_23835	signal	1	31				
+QASMCE_23835	outside	32	40				
+//
+# QASMCE_157104 Length: 49
+# QASMCE_157104 Number of predicted TMRs: 0
+QASMCE_157104	inside	1	49				
+//
+# QASMCE_172782 Length: 36
+# QASMCE_172782 Number of predicted TMRs: 0
+QASMCE_172782	inside	1	36				
+//
+# QASMCE_120715 Length: 43
+# QASMCE_120715 Number of predicted TMRs: 0
+QASMCE_120715	signal	1	23				
+QASMCE_120715	outside	24	43				
+//
+# QASMCE_147693 Length: 46
+# QASMCE_147693 Number of predicted TMRs: 0
+QASMCE_147693	inside	1	46				
+//
+# QASMCE_43863 Length: 39
+# QASMCE_43863 Number of predicted TMRs: 0
+QASMCE_43863	inside	1	39				
+//
+# QASMCE_128707 Length: 49
+# QASMCE_128707 Number of predicted TMRs: 0
+QASMCE_128707	inside	1	49				
+//
+# QASMCE_171792 Length: 44
+# QASMCE_171792 Number of predicted TMRs: 0
+QASMCE_171792	inside	1	44				
+//
+# QASMCE_32121 Length: 45
+# QASMCE_32121 Number of predicted TMRs: 0
+QASMCE_32121	signal	1	41				
+QASMCE_32121	outside	42	45				
+//
+# QASMCE_65452 Length: 45
+# QASMCE_65452 Number of predicted TMRs: 0
+QASMCE_65452	inside	1	45				
+//
+# QASMCE_96338 Length: 40
+# QASMCE_96338 Number of predicted TMRs: 0
+QASMCE_96338	inside	1	40				
+//
+# QASMCE_48760 Length: 40
+# QASMCE_48760 Number of predicted TMRs: 0
+QASMCE_48760	signal	1	12				
+QASMCE_48760	outside	13	40				
+//
+# QASMCE_87071 Length: 37
+# QASMCE_87071 Number of predicted TMRs: 1
+QASMCE_87071	outside	1	6				
+QASMCE_87071	TMhelix	7	25				
+QASMCE_87071	inside	26	37				
+//
+# QASMCE_33179 Length: 50
+# QASMCE_33179 Number of predicted TMRs: 0
+QASMCE_33179	inside	1	50				
+//
+# QASMCE_69128 Length: 48
+# QASMCE_69128 Number of predicted TMRs: 0
+QASMCE_69128	outside	1	48				
+//
+# QASMCE_121580 Length: 39
+# QASMCE_121580 Number of predicted TMRs: 0
+QASMCE_121580	inside	1	39				
+//
+# QASMCE_104121 Length: 47
+# QASMCE_104121 Number of predicted TMRs: 0
+QASMCE_104121	signal	1	21				
+QASMCE_104121	outside	22	47				
+//
+# QASMCE_120772 Length: 45
+# QASMCE_120772 Number of predicted TMRs: 0
+QASMCE_120772	inside	1	45				
+//
+# QASMCE_129830 Length: 49
+# QASMCE_129830 Number of predicted TMRs: 0
+QASMCE_129830	inside	1	49				
+//
+# QASMCE_61921 Length: 45
+# QASMCE_61921 Number of predicted TMRs: 0
+QASMCE_61921	inside	1	45				
+//
+# QASMCE_24049 Length: 44
+# QASMCE_24049 Number of predicted TMRs: 0
+QASMCE_24049	inside	1	44				
+//
+# QASMCE_111998 Length: 50
+# QASMCE_111998 Number of predicted TMRs: 0
+QASMCE_111998	signal	1	49				
+QASMCE_111998	outside	50	50				
+//
+# QASMCE_20694 Length: 49
+# QASMCE_20694 Number of predicted TMRs: 0
+QASMCE_20694	inside	1	49				
+//
+# QASMCE_128955 Length: 38
+# QASMCE_128955 Number of predicted TMRs: 0
+QASMCE_128955	signal	1	37				
+QASMCE_128955	outside	38	38				
+//
+# QASMCE_123603 Length: 50
+# QASMCE_123603 Number of predicted TMRs: 0
+QASMCE_123603	inside	1	50				
+//
+# QASMCE_47838 Length: 49
+# QASMCE_47838 Number of predicted TMRs: 0
+QASMCE_47838	inside	1	49				
+//
+# QASMCE_31072 Length: 49
+# QASMCE_31072 Number of predicted TMRs: 0
+QASMCE_31072	signal	1	26				
+QASMCE_31072	outside	27	49				
+//
+# QASMCE_42088 Length: 49
+# QASMCE_42088 Number of predicted TMRs: 0
+QASMCE_42088	inside	1	49				
+//
+# QASMCE_135536 Length: 45
+# QASMCE_135536 Number of predicted TMRs: 0
+QASMCE_135536	inside	1	45				
+//
+# QASMCE_109588 Length: 49
+# QASMCE_109588 Number of predicted TMRs: 0
+QASMCE_109588	inside	1	49				
+//
+# QASMCE_21541 Length: 44
+# QASMCE_21541 Number of predicted TMRs: 0
+QASMCE_21541	inside	1	44				
+//
+# QASMCE_116528 Length: 40
+# QASMCE_116528 Number of predicted TMRs: 0
+QASMCE_116528	signal	1	37				
+QASMCE_116528	outside	38	40				
+//
+# QASMCE_91163 Length: 45
+# QASMCE_91163 Number of predicted TMRs: 0
+QASMCE_91163	inside	1	45				
+//
+# QASMCE_141241 Length: 44
+# QASMCE_141241 Number of predicted TMRs: 0
+QASMCE_141241	inside	1	44				
+//
+# QASMCE_115661 Length: 49
+# QASMCE_115661 Number of predicted TMRs: 0
+QASMCE_115661	signal	1	12				
+QASMCE_115661	outside	13	49				
+//
+# QASMCE_28461 Length: 44
+# QASMCE_28461 Number of predicted TMRs: 0
+QASMCE_28461	signal	1	24				
+QASMCE_28461	outside	25	44				
+//
+# QASMCE_139556 Length: 47
+# QASMCE_139556 Number of predicted TMRs: 0
+QASMCE_139556	inside	1	47				
+//
+# QASMCE_87520 Length: 45
+# QASMCE_87520 Number of predicted TMRs: 0
+QASMCE_87520	signal	1	29				
+QASMCE_87520	outside	30	45				
+//
+# QASMCE_19279 Length: 38
+# QASMCE_19279 Number of predicted TMRs: 0
+QASMCE_19279	inside	1	38				
+//
+# QASMCE_156774 Length: 50
+# QASMCE_156774 Number of predicted TMRs: 0
+QASMCE_156774	inside	1	50				
+//
+# QASMCE_9396 Length: 38
+# QASMCE_9396 Number of predicted TMRs: 0
+QASMCE_9396	signal	1	37				
+QASMCE_9396	outside	38	38				
+//
+# QASMCE_147045 Length: 41
+# QASMCE_147045 Number of predicted TMRs: 0
+QASMCE_147045	signal	1	38				
+QASMCE_147045	outside	39	41				
+//
+# QASMCE_23579 Length: 40
+# QASMCE_23579 Number of predicted TMRs: 0
+QASMCE_23579	signal	1	38				
+QASMCE_23579	outside	39	40				
+//
+# QASMCE_109235 Length: 43
+# QASMCE_109235 Number of predicted TMRs: 0
+QASMCE_109235	inside	1	43				
+//
+# QASMCE_170993 Length: 42
+# QASMCE_170993 Number of predicted TMRs: 0
+QASMCE_170993	inside	1	42				
+//
+# QASMCE_144475 Length: 44
+# QASMCE_144475 Number of predicted TMRs: 0
+QASMCE_144475	signal	1	33				
+QASMCE_144475	outside	34	44				
+//
+# QASMCE_119149 Length: 43
+# QASMCE_119149 Number of predicted TMRs: 0
+QASMCE_119149	signal	1	37				
+QASMCE_119149	outside	38	43				
+//
+# QASMCE_138539 Length: 42
+# QASMCE_138539 Number of predicted TMRs: 0
+QASMCE_138539	signal	1	40				
+QASMCE_138539	outside	41	42				
+//
+# QASMCE_9323 Length: 47
+# QASMCE_9323 Number of predicted TMRs: 0
+QASMCE_9323	inside	1	47				
+//
+# QASMCE_67572 Length: 49
+# QASMCE_67572 Number of predicted TMRs: 0
+QASMCE_67572	inside	1	49				
+//
+# QASMCE_113764 Length: 38
+# QASMCE_113764 Number of predicted TMRs: 0
+QASMCE_113764	signal	1	20				
+QASMCE_113764	outside	21	38				
+//
+# QASMCE_128377 Length: 40
+# QASMCE_128377 Number of predicted TMRs: 0
+QASMCE_128377	signal	1	10				
+QASMCE_128377	outside	11	40				
+//
+# QASMCE_104476 Length: 43
+# QASMCE_104476 Number of predicted TMRs: 0
+QASMCE_104476	outside	1	43				
+//
+# QASMCE_24134 Length: 49
+# QASMCE_24134 Number of predicted TMRs: 0
+QASMCE_24134	inside	1	49				
+//
+# QASMCE_14467 Length: 47
+# QASMCE_14467 Number of predicted TMRs: 0
+QASMCE_14467	signal	1	19				
+QASMCE_14467	outside	20	47				
+//
+# QASMCE_110023 Length: 41
+# QASMCE_110023 Number of predicted TMRs: 0
+QASMCE_110023	signal	1	29				
+QASMCE_110023	outside	30	41				
+//
+# QASMCE_126139 Length: 41
+# QASMCE_126139 Number of predicted TMRs: 0
+QASMCE_126139	inside	1	41				
+//
+# QASMCE_19873 Length: 45
+# QASMCE_19873 Number of predicted TMRs: 0
+QASMCE_19873	inside	1	45				
+//
+# QASMCE_135916 Length: 41
+# QASMCE_135916 Number of predicted TMRs: 0
+QASMCE_135916	inside	1	41				
+//
+# QASMCE_171449 Length: 49
+# QASMCE_171449 Number of predicted TMRs: 0
+QASMCE_171449	outside	1	49				
+//
+# QASMCE_139485 Length: 49
+# QASMCE_139485 Number of predicted TMRs: 0
+QASMCE_139485	outside	1	49				
+//
+# QASMCE_117346 Length: 49
+# QASMCE_117346 Number of predicted TMRs: 0
+QASMCE_117346	inside	1	49				
+//
+# QASMCE_78846 Length: 41
+# QASMCE_78846 Number of predicted TMRs: 0
+QASMCE_78846	inside	1	41				
+//
+# QASMCE_69604 Length: 50
+# QASMCE_69604 Number of predicted TMRs: 0
+QASMCE_69604	signal	1	49				
+QASMCE_69604	outside	50	50				
+//
+# QASMCE_56222 Length: 37
+# QASMCE_56222 Number of predicted TMRs: 0
+QASMCE_56222	signal	1	12				
+QASMCE_56222	outside	13	37				
+//
+# QASMCE_122905 Length: 39
+# QASMCE_122905 Number of predicted TMRs: 0
+QASMCE_122905	inside	1	39				
+//
+# QASMCE_116125 Length: 48
+# QASMCE_116125 Number of predicted TMRs: 0
+QASMCE_116125	signal	1	20				
+QASMCE_116125	outside	21	48				
+//
+# QASMCE_124834 Length: 39
+# QASMCE_124834 Number of predicted TMRs: 0
+QASMCE_124834	outside	1	39				
+//
+# QASMCE_38475 Length: 48
+# QASMCE_38475 Number of predicted TMRs: 0
+QASMCE_38475	inside	1	48				
+//
+# QASMCE_139007 Length: 47
+# QASMCE_139007 Number of predicted TMRs: 0
+QASMCE_139007	inside	1	47				
+//
+# QASMCE_93465 Length: 44
+# QASMCE_93465 Number of predicted TMRs: 0
+QASMCE_93465	outside	1	44				
+//
+# QASMCE_40712 Length: 28
+# QASMCE_40712 Number of predicted TMRs: 0
+QASMCE_40712	inside	1	28				
+//
+# QASMCE_15579 Length: 48
+# QASMCE_15579 Number of predicted TMRs: 0
+QASMCE_15579	signal	1	10				
+QASMCE_15579	outside	11	48				
+//
+# QASMCE_44438 Length: 49
+# QASMCE_44438 Number of predicted TMRs: 0
+QASMCE_44438	inside	1	49				
+//
+# QASMCE_5892 Length: 48
+# QASMCE_5892 Number of predicted TMRs: 0
+QASMCE_5892	inside	1	48				
+//
+# QASMCE_170814 Length: 38
+# QASMCE_170814 Number of predicted TMRs: 0
+QASMCE_170814	inside	1	38				
+//
+# QASMCE_15406 Length: 47
+# QASMCE_15406 Number of predicted TMRs: 0
+QASMCE_15406	inside	1	47				
+//
+# QASMCE_13886 Length: 43
+# QASMCE_13886 Number of predicted TMRs: 0
+QASMCE_13886	inside	1	43				
+//
+# QASMCE_131359 Length: 43
+# QASMCE_131359 Number of predicted TMRs: 0
+QASMCE_131359	inside	1	43				
+//
+# QASMCE_139350 Length: 48
+# QASMCE_139350 Number of predicted TMRs: 0
+QASMCE_139350	signal	1	46				
+QASMCE_139350	outside	47	48				
+//
+# QASMCE_36576 Length: 45
+# QASMCE_36576 Number of predicted TMRs: 0
+QASMCE_36576	signal	1	23				
+QASMCE_36576	outside	24	45				
+//
+# QASMCE_15131 Length: 49
+# QASMCE_15131 Number of predicted TMRs: 0
+QASMCE_15131	inside	1	49				
+//
+# QASMCE_121386 Length: 37
+# QASMCE_121386 Number of predicted TMRs: 0
+QASMCE_121386	signal	1	25				
+QASMCE_121386	outside	26	37				
+//
+# QASMCE_136376 Length: 39
+# QASMCE_136376 Number of predicted TMRs: 0
+QASMCE_136376	signal	1	10				
+QASMCE_136376	outside	11	39				
+//
+# QASMCE_7898 Length: 50
+# QASMCE_7898 Number of predicted TMRs: 0
+QASMCE_7898	inside	1	50				
+//
+# QASMCE_36569 Length: 39
+# QASMCE_36569 Number of predicted TMRs: 0
+QASMCE_36569	signal	1	35				
+QASMCE_36569	outside	36	39				
+//
+# QASMCE_169900 Length: 49
+# QASMCE_169900 Number of predicted TMRs: 0
+QASMCE_169900	inside	1	49				
+//
+# QASMCE_169889 Length: 46
+# QASMCE_169889 Number of predicted TMRs: 0
+QASMCE_169889	inside	1	46				
+//
+# QASMCE_19733 Length: 42
+# QASMCE_19733 Number of predicted TMRs: 0
+QASMCE_19733	signal	1	29				
+QASMCE_19733	outside	30	42				
+//
+# QASMCE_149014 Length: 43
+# QASMCE_149014 Number of predicted TMRs: 0
+QASMCE_149014	signal	1	38				
+QASMCE_149014	outside	39	43				
+//
+# QASMCE_22204 Length: 30
+# QASMCE_22204 Number of predicted TMRs: 0
+QASMCE_22204	signal	1	29				
+QASMCE_22204	outside	30	30				
+//
+# QASMCE_71401 Length: 49
+# QASMCE_71401 Number of predicted TMRs: 0
+QASMCE_71401	signal	1	10				
+QASMCE_71401	outside	11	49				
+//
+# QASMCE_5163 Length: 46
+# QASMCE_5163 Number of predicted TMRs: 0
+QASMCE_5163	inside	1	46				
+//
+# QASMCE_42922 Length: 43
+# QASMCE_42922 Number of predicted TMRs: 0
+QASMCE_42922	inside	1	43				
+//
+# QASMCE_164017 Length: 46
+# QASMCE_164017 Number of predicted TMRs: 0
+QASMCE_164017	inside	1	46				
+//
+# QASMCE_75473 Length: 50
+# QASMCE_75473 Number of predicted TMRs: 0
+QASMCE_75473	signal	1	43				
+QASMCE_75473	outside	44	50				
+//
+# QASMCE_113426 Length: 48
+# QASMCE_113426 Number of predicted TMRs: 0
+QASMCE_113426	inside	1	48				
+//
+# QASMCE_30995 Length: 30
+# QASMCE_30995 Number of predicted TMRs: 0
+QASMCE_30995	signal	1	29				
+QASMCE_30995	outside	30	30				
+//
+# QASMCE_166181 Length: 36
+# QASMCE_166181 Number of predicted TMRs: 0
+QASMCE_166181	inside	1	36				
+//
+# QASMCE_167823 Length: 47
+# QASMCE_167823 Number of predicted TMRs: 0
+QASMCE_167823	inside	1	47				
+//
+# QASMCE_89722 Length: 43
+# QASMCE_89722 Number of predicted TMRs: 0
+QASMCE_89722	inside	1	43				
+//
+# QASMCE_89844 Length: 50
+# QASMCE_89844 Number of predicted TMRs: 0
+QASMCE_89844	inside	1	50				
+//
+# QASMCE_22773 Length: 50
+# QASMCE_22773 Number of predicted TMRs: 0
+QASMCE_22773	inside	1	50				
+//
+# QASMCE_87216 Length: 41
+# QASMCE_87216 Number of predicted TMRs: 0
+QASMCE_87216	inside	1	41				
+//
+# QASMCE_42832 Length: 37
+# QASMCE_42832 Number of predicted TMRs: 0
+QASMCE_42832	inside	1	37				
+//
+# QASMCE_119535 Length: 39
+# QASMCE_119535 Number of predicted TMRs: 0
+QASMCE_119535	signal	1	23				
+QASMCE_119535	outside	24	39				
+//
+# QASMCE_21278 Length: 48
+# QASMCE_21278 Number of predicted TMRs: 0
+QASMCE_21278	signal	1	24				
+QASMCE_21278	outside	25	48				
+//
+# QASMCE_114140 Length: 50
+# QASMCE_114140 Number of predicted TMRs: 0
+QASMCE_114140	signal	1	40				
+QASMCE_114140	outside	41	50				
+//
+# QASMCE_11234 Length: 47
+# QASMCE_11234 Number of predicted TMRs: 0
+QASMCE_11234	inside	1	47				
+//
+# QASMCE_33079 Length: 44
+# QASMCE_33079 Number of predicted TMRs: 0
+QASMCE_33079	inside	1	44				
+//
+# QASMCE_104497 Length: 32
+# QASMCE_104497 Number of predicted TMRs: 0
+QASMCE_104497	inside	1	32				
+//
+# QASMCE_73371 Length: 41
+# QASMCE_73371 Number of predicted TMRs: 0
+QASMCE_73371	signal	1	24				
+QASMCE_73371	outside	25	41				
+//
+# QASMCE_64378 Length: 48
+# QASMCE_64378 Number of predicted TMRs: 0
+QASMCE_64378	inside	1	48				
+//
+# QASMCE_16502 Length: 40
+# QASMCE_16502 Number of predicted TMRs: 0
+QASMCE_16502	inside	1	40				
+//
+# QASMCE_121373 Length: 48
+# QASMCE_121373 Number of predicted TMRs: 0
+QASMCE_121373	inside	1	48				
+//
+# QASMCE_50843 Length: 49
+# QASMCE_50843 Number of predicted TMRs: 0
+QASMCE_50843	inside	1	49				
+//
+# QASMCE_48373 Length: 45
+# QASMCE_48373 Number of predicted TMRs: 0
+QASMCE_48373	inside	1	45				
+//
+# QASMCE_89222 Length: 44
+# QASMCE_89222 Number of predicted TMRs: 0
+QASMCE_89222	inside	1	44				
+//
+# QASMCE_123386 Length: 41
+# QASMCE_123386 Number of predicted TMRs: 0
+QASMCE_123386	inside	1	41				
+//
+# QASMCE_155612 Length: 44
+# QASMCE_155612 Number of predicted TMRs: 0
+QASMCE_155612	inside	1	44				
+//
+# QASMCE_93467 Length: 50
+# QASMCE_93467 Number of predicted TMRs: 0
+QASMCE_93467	inside	1	50				
+//
+# QASMCE_144389 Length: 38
+# QASMCE_144389 Number of predicted TMRs: 0
+QASMCE_144389	signal	1	37				
+QASMCE_144389	outside	38	38				
+//
+# QASMCE_10785 Length: 50
+# QASMCE_10785 Number of predicted TMRs: 0
+QASMCE_10785	inside	1	50				
+//
+# QASMCE_24210 Length: 44
+# QASMCE_24210 Number of predicted TMRs: 0
+QASMCE_24210	inside	1	44				
+//
+# QASMCE_46179 Length: 50
+# QASMCE_46179 Number of predicted TMRs: 0
+QASMCE_46179	inside	1	50				
+//
+# QASMCE_148018 Length: 46
+# QASMCE_148018 Number of predicted TMRs: 0
+QASMCE_148018	signal	1	29				
+QASMCE_148018	outside	30	46				
+//
+# QASMCE_113903 Length: 45
+# QASMCE_113903 Number of predicted TMRs: 0
+QASMCE_113903	inside	1	45				
+//
+# QASMCE_144099 Length: 43
+# QASMCE_144099 Number of predicted TMRs: 0
+QASMCE_144099	inside	1	43				
+//
+# QASMCE_33675 Length: 26
+# QASMCE_33675 Number of predicted TMRs: 0
+QASMCE_33675	inside	1	26				
+//
+# QASMCE_55975 Length: 47
+# QASMCE_55975 Number of predicted TMRs: 0
+QASMCE_55975	inside	1	47				
+//
+# QASMCE_57380 Length: 28
+# QASMCE_57380 Number of predicted TMRs: 0
+QASMCE_57380	inside	1	28				
+//
+# QASMCE_171461 Length: 35
+# QASMCE_171461 Number of predicted TMRs: 0
+QASMCE_171461	inside	1	35				
+//
+# QASMCE_123893 Length: 48
+# QASMCE_123893 Number of predicted TMRs: 0
+QASMCE_123893	signal	1	44				
+QASMCE_123893	outside	45	48				
+//
+# QASMCE_9615 Length: 34
+# QASMCE_9615 Number of predicted TMRs: 0
+QASMCE_9615	signal	1	32				
+QASMCE_9615	outside	33	34				
+//
+# QASMCE_30061 Length: 36
+# QASMCE_30061 Number of predicted TMRs: 0
+QASMCE_30061	inside	1	36				
+//
+# QASMCE_21903 Length: 40
+# QASMCE_21903 Number of predicted TMRs: 0
+QASMCE_21903	inside	1	40				
+//
+# QASMCE_169020 Length: 32
+# QASMCE_169020 Number of predicted TMRs: 0
+QASMCE_169020	signal	1	31				
+QASMCE_169020	outside	32	32				
+//
+# QASMCE_90233 Length: 47
+# QASMCE_90233 Number of predicted TMRs: 0
+QASMCE_90233	inside	1	47				
+//
+# QASMCE_140482 Length: 50
+# QASMCE_140482 Number of predicted TMRs: 0
+QASMCE_140482	inside	1	50				
+//
+# QASMCE_34175 Length: 43
+# QASMCE_34175 Number of predicted TMRs: 0
+QASMCE_34175	inside	1	43				
+//
+# QASMCE_8004 Length: 49
+# QASMCE_8004 Number of predicted TMRs: 0
+QASMCE_8004	inside	1	49				
+//
+# QASMCE_171259 Length: 46
+# QASMCE_171259 Number of predicted TMRs: 0
+QASMCE_171259	inside	1	46				
+//
+# QASMCE_95198 Length: 50
+# QASMCE_95198 Number of predicted TMRs: 0
+QASMCE_95198	inside	1	50				
+//
+# QASMCE_99623 Length: 43
+# QASMCE_99623 Number of predicted TMRs: 0
+QASMCE_99623	inside	1	43				
+//
+# QASMCE_16263 Length: 37
+# QASMCE_16263 Number of predicted TMRs: 0
+QASMCE_16263	signal	1	32				
+QASMCE_16263	outside	33	37				
+//
+# QASMCE_26138 Length: 38
+# QASMCE_26138 Number of predicted TMRs: 0
+QASMCE_26138	signal	1	30				
+QASMCE_26138	outside	31	38				
+//
+# QASMCE_171414 Length: 49
+# QASMCE_171414 Number of predicted TMRs: 0
+QASMCE_171414	inside	1	49				
+//
+# QASMCE_19264 Length: 49
+# QASMCE_19264 Number of predicted TMRs: 0
+QASMCE_19264	inside	1	49				
+//
+# QASMCE_88251 Length: 48
+# QASMCE_88251 Number of predicted TMRs: 0
+QASMCE_88251	inside	1	48				
+//
+# QASMCE_16885 Length: 44
+# QASMCE_16885 Number of predicted TMRs: 0
+QASMCE_16885	signal	1	35				
+QASMCE_16885	outside	36	44				
+//
+# QASMCE_163345 Length: 46
+# QASMCE_163345 Number of predicted TMRs: 0
+QASMCE_163345	signal	1	11				
+QASMCE_163345	outside	12	46				
+//
+# QASMCE_168957 Length: 46
+# QASMCE_168957 Number of predicted TMRs: 0
+QASMCE_168957	signal	1	45				
+QASMCE_168957	outside	46	46				
+//
+# QASMCE_91364 Length: 50
+# QASMCE_91364 Number of predicted TMRs: 0
+QASMCE_91364	inside	1	50				
+//
+# QASMCE_73754 Length: 50
+# QASMCE_73754 Number of predicted TMRs: 0
+QASMCE_73754	inside	1	50				
+//
+# QASMCE_32459 Length: 44
+# QASMCE_32459 Number of predicted TMRs: 0
+QASMCE_32459	signal	1	15				
+QASMCE_32459	outside	16	44				
+//
+# QASMCE_6486 Length: 45
+# QASMCE_6486 Number of predicted TMRs: 0
+QASMCE_6486	signal	1	25				
+QASMCE_6486	outside	26	45				
+//
+# QASMCE_9418 Length: 44
+# QASMCE_9418 Number of predicted TMRs: 0
+QASMCE_9418	signal	1	43				
+QASMCE_9418	outside	44	44				
+//
+# QASMCE_108901 Length: 49
+# QASMCE_108901 Number of predicted TMRs: 0
+QASMCE_108901	inside	1	49				
+//
+# QASMCE_102279 Length: 39
+# QASMCE_102279 Number of predicted TMRs: 0
+QASMCE_102279	signal	1	37				
+QASMCE_102279	outside	38	39				
+//
+# QASMCE_67 Length: 43
+# QASMCE_67 Number of predicted TMRs: 0
+QASMCE_67	inside	1	43				
+//
+# QASMCE_141237 Length: 50
+# QASMCE_141237 Number of predicted TMRs: 0
+QASMCE_141237	inside	1	50				
+//
+# QASMCE_86746 Length: 50
+# QASMCE_86746 Number of predicted TMRs: 0
+QASMCE_86746	inside	1	50				
+//
+# QASMCE_134857 Length: 37
+# QASMCE_134857 Number of predicted TMRs: 0
+QASMCE_134857	signal	1	28				
+QASMCE_134857	outside	29	37				
+//
+# QASMCE_77206 Length: 47
+# QASMCE_77206 Number of predicted TMRs: 0
+QASMCE_77206	signal	1	44				
+QASMCE_77206	outside	45	47				
+//
+# QASMCE_18804 Length: 47
+# QASMCE_18804 Number of predicted TMRs: 0
+QASMCE_18804	inside	1	47				
+//
+# QASMCE_66613 Length: 49
+# QASMCE_66613 Number of predicted TMRs: 0
+QASMCE_66613	inside	1	49				
+//
+# QASMCE_141782 Length: 32
+# QASMCE_141782 Number of predicted TMRs: 0
+QASMCE_141782	outside	1	32				
+//
+# QASMCE_166377 Length: 33
+# QASMCE_166377 Number of predicted TMRs: 0
+QASMCE_166377	inside	1	33				
+//
+# QASMCE_128480 Length: 43
+# QASMCE_128480 Number of predicted TMRs: 0
+QASMCE_128480	signal	1	42				
+QASMCE_128480	outside	43	43				
+//
+# QASMCE_164676 Length: 38
+# QASMCE_164676 Number of predicted TMRs: 0
+QASMCE_164676	signal	1	28				
+QASMCE_164676	outside	29	38				
+//
+# QASMCE_154590 Length: 50
+# QASMCE_154590 Number of predicted TMRs: 0
+QASMCE_154590	inside	1	50				
+//
+# QASMCE_61653 Length: 45
+# QASMCE_61653 Number of predicted TMRs: 0
+QASMCE_61653	inside	1	45				
+//
+# QASMCE_83471 Length: 44
+# QASMCE_83471 Number of predicted TMRs: 0
+QASMCE_83471	signal	1	42				
+QASMCE_83471	outside	43	44				
+//
+# QASMCE_117566 Length: 50
+# QASMCE_117566 Number of predicted TMRs: 0
+QASMCE_117566	signal	1	22				
+QASMCE_117566	outside	23	50				
+//
+# QASMCE_169625 Length: 36
+# QASMCE_169625 Number of predicted TMRs: 0
+QASMCE_169625	signal	1	10				
+QASMCE_169625	outside	11	36				
+//
+# QASMCE_5328 Length: 45
+# QASMCE_5328 Number of predicted TMRs: 0
+QASMCE_5328	inside	1	45				
+//
+# QASMCE_135403 Length: 45
+# QASMCE_135403 Number of predicted TMRs: 0
+QASMCE_135403	inside	1	45				
+//
+# QASMCE_127822 Length: 44
+# QASMCE_127822 Number of predicted TMRs: 0
+QASMCE_127822	inside	1	44				
+//
+# QASMCE_38119 Length: 45
+# QASMCE_38119 Number of predicted TMRs: 0
+QASMCE_38119	signal	1	44				
+QASMCE_38119	outside	45	45				
+//
+# QASMCE_107359 Length: 46
+# QASMCE_107359 Number of predicted TMRs: 0
+QASMCE_107359	inside	1	46				
+//
+# QASMCE_8662 Length: 42
+# QASMCE_8662 Number of predicted TMRs: 0
+QASMCE_8662	inside	1	42				
+//
+# QASMCE_142581 Length: 37
+# QASMCE_142581 Number of predicted TMRs: 0
+QASMCE_142581	inside	1	37				
+//
+# QASMCE_95514 Length: 50
+# QASMCE_95514 Number of predicted TMRs: 0
+QASMCE_95514	inside	1	50				
+//
+# QASMCE_85589 Length: 42
+# QASMCE_85589 Number of predicted TMRs: 0
+QASMCE_85589	signal	1	35				
+QASMCE_85589	outside	36	42				
+//
+# QASMCE_48393 Length: 46
+# QASMCE_48393 Number of predicted TMRs: 0
+QASMCE_48393	inside	1	46				
+//
+# QASMCE_146858 Length: 42
+# QASMCE_146858 Number of predicted TMRs: 0
+QASMCE_146858	inside	1	42				
+//
+# QASMCE_94210 Length: 48
+# QASMCE_94210 Number of predicted TMRs: 0
+QASMCE_94210	inside	1	48				
+//
+# QASMCE_110493 Length: 40
+# QASMCE_110493 Number of predicted TMRs: 0
+QASMCE_110493	inside	1	40				
+//
+# QASMCE_93473 Length: 47
+# QASMCE_93473 Number of predicted TMRs: 0
+QASMCE_93473	inside	1	47				
+//
+# QASMCE_38210 Length: 49
+# QASMCE_38210 Number of predicted TMRs: 0
+QASMCE_38210	signal	1	47				
+QASMCE_38210	outside	48	49				
+//
+# QASMCE_49405 Length: 50
+# QASMCE_49405 Number of predicted TMRs: 0
+QASMCE_49405	inside	1	50				
+//
+# QASMCE_9672 Length: 48
+# QASMCE_9672 Number of predicted TMRs: 0
+QASMCE_9672	inside	1	48				
+//
+# QASMCE_89118 Length: 33
+# QASMCE_89118 Number of predicted TMRs: 0
+QASMCE_89118	signal	1	21				
+QASMCE_89118	outside	22	33				
+//
+# QASMCE_112269 Length: 43
+# QASMCE_112269 Number of predicted TMRs: 0
+QASMCE_112269	inside	1	43				
+//
+# QASMCE_15467 Length: 44
+# QASMCE_15467 Number of predicted TMRs: 0
+QASMCE_15467	inside	1	44				
+//
+# QASMCE_61119 Length: 44
+# QASMCE_61119 Number of predicted TMRs: 0
+QASMCE_61119	inside	1	44				
+//
+# QASMCE_144319 Length: 30
+# QASMCE_144319 Number of predicted TMRs: 0
+QASMCE_144319	inside	1	30				
+//
+# QASMCE_82556 Length: 50
+# QASMCE_82556 Number of predicted TMRs: 0
+QASMCE_82556	inside	1	50				
+//
+# QASMCE_20007 Length: 50
+# QASMCE_20007 Number of predicted TMRs: 0
+QASMCE_20007	inside	1	50				
+//
+# QASMCE_147304 Length: 49
+# QASMCE_147304 Number of predicted TMRs: 0
+QASMCE_147304	inside	1	49				
+//
+# QASMCE_92880 Length: 38
+# QASMCE_92880 Number of predicted TMRs: 0
+QASMCE_92880	outside	1	38				
+//
+# QASMCE_129908 Length: 44
+# QASMCE_129908 Number of predicted TMRs: 0
+QASMCE_129908	signal	1	43				
+QASMCE_129908	outside	44	44				
+//
+# QASMCE_56731 Length: 45
+# QASMCE_56731 Number of predicted TMRs: 0
+QASMCE_56731	inside	1	45				
+//
+# QASMCE_133575 Length: 50
+# QASMCE_133575 Number of predicted TMRs: 0
+QASMCE_133575	inside	1	50				
+//
+# QASMCE_123390 Length: 35
+# QASMCE_123390 Number of predicted TMRs: 0
+QASMCE_123390	signal	1	32				
+QASMCE_123390	outside	33	35				
+//
+# QASMCE_66481 Length: 41
+# QASMCE_66481 Number of predicted TMRs: 0
+QASMCE_66481	signal	1	35				
+QASMCE_66481	outside	36	41				
+//
+# QASMCE_79520 Length: 44
+# QASMCE_79520 Number of predicted TMRs: 0
+QASMCE_79520	inside	1	44				
+//
+# QASMCE_13089 Length: 42
+# QASMCE_13089 Number of predicted TMRs: 0
+QASMCE_13089	inside	1	42				
+//
+# QASMCE_98714 Length: 36
+# QASMCE_98714 Number of predicted TMRs: 0
+QASMCE_98714	signal	1	28				
+QASMCE_98714	outside	29	36				
+//
+# QASMCE_115181 Length: 46
+# QASMCE_115181 Number of predicted TMRs: 0
+QASMCE_115181	inside	1	46				
+//
+# QASMCE_21209 Length: 44
+# QASMCE_21209 Number of predicted TMRs: 0
+QASMCE_21209	inside	1	44				
+//
+# QASMCE_15907 Length: 45
+# QASMCE_15907 Number of predicted TMRs: 0
+QASMCE_15907	signal	1	44				
+QASMCE_15907	outside	45	45				
+//
+# QASMCE_49443 Length: 50
+# QASMCE_49443 Number of predicted TMRs: 0
+QASMCE_49443	inside	1	50				
+//
+# QASMCE_10105 Length: 42
+# QASMCE_10105 Number of predicted TMRs: 0
+QASMCE_10105	inside	1	42				
+//
+# QASMCE_65019 Length: 40
+# QASMCE_65019 Number of predicted TMRs: 0
+QASMCE_65019	signal	1	20				
+QASMCE_65019	outside	21	40				
+//
+# QASMCE_55493 Length: 46
+# QASMCE_55493 Number of predicted TMRs: 0
+QASMCE_55493	inside	1	46				
+//
+# QASMCE_54547 Length: 39
+# QASMCE_54547 Number of predicted TMRs: 1
+QASMCE_54547	inside	1	14				
+QASMCE_54547	TMhelix	15	35				
+QASMCE_54547	outside	36	39				
+//
+# QASMCE_55572 Length: 46
+# QASMCE_55572 Number of predicted TMRs: 0
+QASMCE_55572	inside	1	46				
+//
+# QASMCE_94344 Length: 50
+# QASMCE_94344 Number of predicted TMRs: 0
+QASMCE_94344	inside	1	50				
+//
+# QASMCE_20960 Length: 42
+# QASMCE_20960 Number of predicted TMRs: 0
+QASMCE_20960	inside	1	42				
+//
+# QASMCE_136607 Length: 42
+# QASMCE_136607 Number of predicted TMRs: 0
+QASMCE_136607	inside	1	42				
+//
+# QASMCE_121083 Length: 46
+# QASMCE_121083 Number of predicted TMRs: 0
+QASMCE_121083	inside	1	46				
+//
+# QASMCE_105859 Length: 36
+# QASMCE_105859 Number of predicted TMRs: 0
+QASMCE_105859	inside	1	36				
+//
+# QASMCE_87279 Length: 43
+# QASMCE_87279 Number of predicted TMRs: 0
+QASMCE_87279	inside	1	43				
+//
+# QASMCE_93061 Length: 50
+# QASMCE_93061 Number of predicted TMRs: 0
+QASMCE_93061	inside	1	50				
+//
+# QASMCE_88567 Length: 46
+# QASMCE_88567 Number of predicted TMRs: 0
+QASMCE_88567	inside	1	46				
+//
+# QASMCE_146813 Length: 34
+# QASMCE_146813 Number of predicted TMRs: 0
+QASMCE_146813	inside	1	34				
+//
+# QASMCE_98959 Length: 39
+# QASMCE_98959 Number of predicted TMRs: 0
+QASMCE_98959	inside	1	39				
+//
+# QASMCE_32850 Length: 48
+# QASMCE_32850 Number of predicted TMRs: 0
+QASMCE_32850	inside	1	48				
+//
+# QASMCE_122651 Length: 45
+# QASMCE_122651 Number of predicted TMRs: 0
+QASMCE_122651	inside	1	45				
+//
+# QASMCE_36636 Length: 49
+# QASMCE_36636 Number of predicted TMRs: 0
+QASMCE_36636	signal	1	46				
+QASMCE_36636	outside	47	49				
+//
+# QASMCE_9332 Length: 47
+# QASMCE_9332 Number of predicted TMRs: 0
+QASMCE_9332	inside	1	47				
+//
+# QASMCE_69379 Length: 50
+# QASMCE_69379 Number of predicted TMRs: 0
+QASMCE_69379	signal	1	15				
+QASMCE_69379	outside	16	50				
+//
+# QASMCE_28606 Length: 49
+# QASMCE_28606 Number of predicted TMRs: 0
+QASMCE_28606	inside	1	49				
+//
+# QASMCE_41835 Length: 47
+# QASMCE_41835 Number of predicted TMRs: 0
+QASMCE_41835	inside	1	47				
+//
+# QASMCE_59089 Length: 49
+# QASMCE_59089 Number of predicted TMRs: 0
+QASMCE_59089	signal	1	42				
+QASMCE_59089	outside	43	49				
+//
+# QASMCE_98934 Length: 48
+# QASMCE_98934 Number of predicted TMRs: 0
+QASMCE_98934	inside	1	48				
+//
+# QASMCE_131929 Length: 48
+# QASMCE_131929 Number of predicted TMRs: 0
+QASMCE_131929	inside	1	48				
+//
+# QASMCE_61487 Length: 40
+# QASMCE_61487 Number of predicted TMRs: 0
+QASMCE_61487	inside	1	40				
+//
+# QASMCE_27814 Length: 50
+# QASMCE_27814 Number of predicted TMRs: 0
+QASMCE_27814	inside	1	50				
+//
+# QASMCE_87986 Length: 34
+# QASMCE_87986 Number of predicted TMRs: 0
+QASMCE_87986	signal	1	33				
+QASMCE_87986	outside	34	34				
+//
+# QASMCE_142339 Length: 40
+# QASMCE_142339 Number of predicted TMRs: 0
+QASMCE_142339	inside	1	40				
+//
+# QASMCE_92847 Length: 39
+# QASMCE_92847 Number of predicted TMRs: 0
+QASMCE_92847	signal	1	28				
+QASMCE_92847	outside	29	39				
+//
+# QASMCE_21668 Length: 44
+# QASMCE_21668 Number of predicted TMRs: 0
+QASMCE_21668	signal	1	15				
+QASMCE_21668	outside	16	44				
+//
+# QASMCE_116092 Length: 47
+# QASMCE_116092 Number of predicted TMRs: 0
+QASMCE_116092	inside	1	47				
+//
+# QASMCE_132379 Length: 42
+# QASMCE_132379 Number of predicted TMRs: 0
+QASMCE_132379	inside	1	42				
+//
+# QASMCE_145097 Length: 44
+# QASMCE_145097 Number of predicted TMRs: 0
+QASMCE_145097	inside	1	44				
+//
+# QASMCE_46016 Length: 39
+# QASMCE_46016 Number of predicted TMRs: 0
+QASMCE_46016	inside	1	39				
+//
+# QASMCE_147972 Length: 46
+# QASMCE_147972 Number of predicted TMRs: 0
+QASMCE_147972	signal	1	37				
+QASMCE_147972	outside	38	46				
+//
+# QASMCE_172125 Length: 50
+# QASMCE_172125 Number of predicted TMRs: 0
+QASMCE_172125	signal	1	26				
+QASMCE_172125	outside	27	50				
+//
+# QASMCE_70120 Length: 49
+# QASMCE_70120 Number of predicted TMRs: 0
+QASMCE_70120	signal	1	48				
+QASMCE_70120	outside	49	49				
+//
+# QASMCE_20928 Length: 38
+# QASMCE_20928 Number of predicted TMRs: 0
+QASMCE_20928	signal	1	32				
+QASMCE_20928	outside	33	38				
+//
+# QASMCE_82300 Length: 42
+# QASMCE_82300 Number of predicted TMRs: 0
+QASMCE_82300	inside	1	42				
+//
+# QASMCE_101387 Length: 42
+# QASMCE_101387 Number of predicted TMRs: 0
+QASMCE_101387	signal	1	30				
+QASMCE_101387	outside	31	42				
+//
+# QASMCE_81275 Length: 30
+# QASMCE_81275 Number of predicted TMRs: 0
+QASMCE_81275	inside	1	30				
+//
+# QASMCE_151643 Length: 45
+# QASMCE_151643 Number of predicted TMRs: 0
+QASMCE_151643	inside	1	45				
+//
+# QASMCE_77308 Length: 32
+# QASMCE_77308 Number of predicted TMRs: 0
+QASMCE_77308	signal	1	28				
+QASMCE_77308	outside	29	32				
+//
+# QASMCE_93432 Length: 43
+# QASMCE_93432 Number of predicted TMRs: 0
+QASMCE_93432	inside	1	43				
+//
+# QASMCE_41085 Length: 41
+# QASMCE_41085 Number of predicted TMRs: 0
+QASMCE_41085	signal	1	36				
+QASMCE_41085	outside	37	41				
+//
+# QASMCE_124478 Length: 42
+# QASMCE_124478 Number of predicted TMRs: 0
+QASMCE_124478	signal	1	40				
+QASMCE_124478	outside	41	42				
+//
+# QASMCE_153242 Length: 50
+# QASMCE_153242 Number of predicted TMRs: 0
+QASMCE_153242	inside	1	50				
+//
+# QASMCE_131861 Length: 44
+# QASMCE_131861 Number of predicted TMRs: 0
+QASMCE_131861	inside	1	44				
+//
+# QASMCE_144082 Length: 50
+# QASMCE_144082 Number of predicted TMRs: 0
+QASMCE_144082	inside	1	50				
+//
+# QASMCE_116643 Length: 45
+# QASMCE_116643 Number of predicted TMRs: 0
+QASMCE_116643	inside	1	45				
+//
+# QASMCE_165537 Length: 36
+# QASMCE_165537 Number of predicted TMRs: 0
+QASMCE_165537	outside	1	36				
+//
+# QASMCE_86059 Length: 40
+# QASMCE_86059 Number of predicted TMRs: 0
+QASMCE_86059	signal	1	10				
+QASMCE_86059	outside	11	40				
+//
+# QASMCE_118410 Length: 25
+# QASMCE_118410 Number of predicted TMRs: 0
+QASMCE_118410	inside	1	25				
+//
+# QASMCE_3976 Length: 46
+# QASMCE_3976 Number of predicted TMRs: 0
+QASMCE_3976	inside	1	46				
+//
+# QASMCE_88709 Length: 49
+# QASMCE_88709 Number of predicted TMRs: 0
+QASMCE_88709	inside	1	49				
+//
+# QASMCE_119232 Length: 40
+# QASMCE_119232 Number of predicted TMRs: 0
+QASMCE_119232	outside	1	40				
+//
+# QASMCE_95617 Length: 49
+# QASMCE_95617 Number of predicted TMRs: 0
+QASMCE_95617	inside	1	49				
+//
+# QASMCE_70761 Length: 46
+# QASMCE_70761 Number of predicted TMRs: 0
+QASMCE_70761	signal	1	11				
+QASMCE_70761	outside	12	46				
+//
+# QASMCE_103475 Length: 48
+# QASMCE_103475 Number of predicted TMRs: 0
+QASMCE_103475	signal	1	37				
+QASMCE_103475	outside	38	48				
+//
+# QASMCE_59006 Length: 47
+# QASMCE_59006 Number of predicted TMRs: 0
+QASMCE_59006	signal	1	14				
+QASMCE_59006	outside	15	47				
+//
+# QASMCE_83641 Length: 43
+# QASMCE_83641 Number of predicted TMRs: 0
+QASMCE_83641	inside	1	43				
+//
+# QASMCE_6697 Length: 36
+# QASMCE_6697 Number of predicted TMRs: 0
+QASMCE_6697	signal	1	18				
+QASMCE_6697	outside	19	36				
+//
+# QASMCE_169473 Length: 50
+# QASMCE_169473 Number of predicted TMRs: 0
+QASMCE_169473	inside	1	50				
+//
+# QASMCE_9288 Length: 45
+# QASMCE_9288 Number of predicted TMRs: 0
+QASMCE_9288	inside	1	45				
+//
+# QASMCE_170628 Length: 50
+# QASMCE_170628 Number of predicted TMRs: 0
+QASMCE_170628	inside	1	50				
+//
+# QASMCE_79668 Length: 40
+# QASMCE_79668 Number of predicted TMRs: 0
+QASMCE_79668	signal	1	39				
+QASMCE_79668	outside	40	40				
+//
+# QASMCE_92795 Length: 50
+# QASMCE_92795 Number of predicted TMRs: 0
+QASMCE_92795	inside	1	50				
+//
+# QASMCE_102838 Length: 49
+# QASMCE_102838 Number of predicted TMRs: 0
+QASMCE_102838	signal	1	24				
+QASMCE_102838	outside	25	49				
+//
+# QASMCE_59613 Length: 48
+# QASMCE_59613 Number of predicted TMRs: 0
+QASMCE_59613	signal	1	10				
+QASMCE_59613	outside	11	48				
+//
+# QASMCE_92529 Length: 49
+# QASMCE_92529 Number of predicted TMRs: 0
+QASMCE_92529	inside	1	49				
+//
+# QASMCE_42506 Length: 40
+# QASMCE_42506 Number of predicted TMRs: 0
+QASMCE_42506	inside	1	40				
+//
+# QASMCE_40123 Length: 49
+# QASMCE_40123 Number of predicted TMRs: 0
+QASMCE_40123	inside	1	49				
+//
+# QASMCE_143061 Length: 50
+# QASMCE_143061 Number of predicted TMRs: 0
+QASMCE_143061	inside	1	50				
+//
+# QASMCE_66173 Length: 49
+# QASMCE_66173 Number of predicted TMRs: 0
+QASMCE_66173	inside	1	49				
+//
+# QASMCE_124505 Length: 49
+# QASMCE_124505 Number of predicted TMRs: 0
+QASMCE_124505	inside	1	49				
+//
+# QASMCE_45276 Length: 48
+# QASMCE_45276 Number of predicted TMRs: 0
+QASMCE_45276	signal	1	13				
+QASMCE_45276	outside	14	48				
+//
+# QASMCE_74371 Length: 47
+# QASMCE_74371 Number of predicted TMRs: 0
+QASMCE_74371	inside	1	47				
+//
+# QASMCE_117927 Length: 46
+# QASMCE_117927 Number of predicted TMRs: 0
+QASMCE_117927	inside	1	46				
+//
+# QASMCE_12279 Length: 41
+# QASMCE_12279 Number of predicted TMRs: 0
+QASMCE_12279	inside	1	41				
+//
+# QASMCE_42075 Length: 43
+# QASMCE_42075 Number of predicted TMRs: 0
+QASMCE_42075	signal	1	26				
+QASMCE_42075	outside	27	43				
+//
+# QASMCE_169331 Length: 48
+# QASMCE_169331 Number of predicted TMRs: 0
+QASMCE_169331	signal	1	26				
+QASMCE_169331	outside	27	48				
+//
+# QASMCE_110743 Length: 49
+# QASMCE_110743 Number of predicted TMRs: 0
+QASMCE_110743	inside	1	49				
+//
+# QASMCE_107708 Length: 41
+# QASMCE_107708 Number of predicted TMRs: 0
+QASMCE_107708	signal	1	11				
+QASMCE_107708	outside	12	41				
+//
+# QASMCE_142828 Length: 44
+# QASMCE_142828 Number of predicted TMRs: 0
+QASMCE_142828	inside	1	44				
+//
+# QASMCE_135440 Length: 46
+# QASMCE_135440 Number of predicted TMRs: 0
+QASMCE_135440	inside	1	46				
+//
+# QASMCE_97837 Length: 43
+# QASMCE_97837 Number of predicted TMRs: 0
+QASMCE_97837	signal	1	42				
+QASMCE_97837	outside	43	43				
+//
+# QASMCE_87408 Length: 30
+# QASMCE_87408 Number of predicted TMRs: 0
+QASMCE_87408	inside	1	30				
+//
+# QASMCE_154825 Length: 46
+# QASMCE_154825 Number of predicted TMRs: 0
+QASMCE_154825	inside	1	46				
+//
+# QASMCE_121403 Length: 49
+# QASMCE_121403 Number of predicted TMRs: 0
+QASMCE_121403	signal	1	48				
+QASMCE_121403	outside	49	49				
+//
+# QASMCE_23369 Length: 46
+# QASMCE_23369 Number of predicted TMRs: 0
+QASMCE_23369	inside	1	46				
+//
+# QASMCE_34773 Length: 37
+# QASMCE_34773 Number of predicted TMRs: 0
+QASMCE_34773	inside	1	37				
+//
+# QASMCE_154066 Length: 39
+# QASMCE_154066 Number of predicted TMRs: 0
+QASMCE_154066	inside	1	39				
+//
+# QASMCE_86884 Length: 50
+# QASMCE_86884 Number of predicted TMRs: 0
+QASMCE_86884	signal	1	47				
+QASMCE_86884	outside	48	50				
+//
+# QASMCE_28805 Length: 48
+# QASMCE_28805 Number of predicted TMRs: 0
+QASMCE_28805	inside	1	48				
+//
+# QASMCE_142490 Length: 48
+# QASMCE_142490 Number of predicted TMRs: 0
+QASMCE_142490	inside	1	48				
+//
+# QASMCE_93606 Length: 49
+# QASMCE_93606 Number of predicted TMRs: 0
+QASMCE_93606	inside	1	49				
+//
+# QASMCE_172772 Length: 49
+# QASMCE_172772 Number of predicted TMRs: 0
+QASMCE_172772	inside	1	49				
+//
+# QASMCE_168265 Length: 46
+# QASMCE_168265 Number of predicted TMRs: 0
+QASMCE_168265	inside	1	46				
+//
+# QASMCE_167730 Length: 37
+# QASMCE_167730 Number of predicted TMRs: 0
+QASMCE_167730	inside	1	37				
+//
+# QASMCE_34155 Length: 37
+# QASMCE_34155 Number of predicted TMRs: 0
+QASMCE_34155	signal	1	32				
+QASMCE_34155	outside	33	37				
+//
+# QASMCE_137957 Length: 46
+# QASMCE_137957 Number of predicted TMRs: 0
+QASMCE_137957	signal	1	10				
+QASMCE_137957	outside	11	46				
+//
+# QASMCE_86066 Length: 40
+# QASMCE_86066 Number of predicted TMRs: 0
+QASMCE_86066	inside	1	40				
+//
+# QASMCE_68649 Length: 43
+# QASMCE_68649 Number of predicted TMRs: 0
+QASMCE_68649	inside	1	43				
+//
+# QASMCE_74319 Length: 35
+# QASMCE_74319 Number of predicted TMRs: 0
+QASMCE_74319	inside	1	35				
+//
+# QASMCE_148834 Length: 42
+# QASMCE_148834 Number of predicted TMRs: 0
+QASMCE_148834	signal	1	40				
+QASMCE_148834	outside	41	42				
+//
+# QASMCE_111306 Length: 38
+# QASMCE_111306 Number of predicted TMRs: 0
+QASMCE_111306	signal	1	36				
+QASMCE_111306	outside	37	38				
+//
+# QASMCE_21319 Length: 43
+# QASMCE_21319 Number of predicted TMRs: 0
+QASMCE_21319	inside	1	43				
+//
+# QASMCE_129023 Length: 46
+# QASMCE_129023 Number of predicted TMRs: 0
+QASMCE_129023	inside	1	46				
+//
+# QASMCE_11398 Length: 48
+# QASMCE_11398 Number of predicted TMRs: 0
+QASMCE_11398	signal	1	47				
+QASMCE_11398	outside	48	48				
+//
+# QASMCE_16551 Length: 40
+# QASMCE_16551 Number of predicted TMRs: 0
+QASMCE_16551	signal	1	27				
+QASMCE_16551	outside	28	40				
+//
+# QASMCE_154093 Length: 41
+# QASMCE_154093 Number of predicted TMRs: 0
+QASMCE_154093	inside	1	41				
+//
+# QASMCE_143171 Length: 48
+# QASMCE_143171 Number of predicted TMRs: 0
+QASMCE_143171	signal	1	47				
+QASMCE_143171	outside	48	48				
+//
+# QASMCE_52002 Length: 45
+# QASMCE_52002 Number of predicted TMRs: 0
+QASMCE_52002	inside	1	45				
+//
+# QASMCE_112835 Length: 48
+# QASMCE_112835 Number of predicted TMRs: 0
+QASMCE_112835	inside	1	48				
+//
+# QASMCE_72345 Length: 50
+# QASMCE_72345 Number of predicted TMRs: 0
+QASMCE_72345	inside	1	50				
+//
+# QASMCE_50517 Length: 49
+# QASMCE_50517 Number of predicted TMRs: 0
+QASMCE_50517	signal	1	30				
+QASMCE_50517	outside	31	49				
+//
+# QASMCE_77777 Length: 41
+# QASMCE_77777 Number of predicted TMRs: 0
+QASMCE_77777	signal	1	40				
+QASMCE_77777	outside	41	41				
+//
+# QASMCE_148277 Length: 47
+# QASMCE_148277 Number of predicted TMRs: 0
+QASMCE_148277	signal	1	14				
+QASMCE_148277	outside	15	47				
+//
+# QASMCE_109356 Length: 36
+# QASMCE_109356 Number of predicted TMRs: 0
+QASMCE_109356	signal	1	12				
+QASMCE_109356	outside	13	36				
+//
+# QASMCE_80654 Length: 45
+# QASMCE_80654 Number of predicted TMRs: 0
+QASMCE_80654	inside	1	45				
+//
+# QASMCE_38705 Length: 38
+# QASMCE_38705 Number of predicted TMRs: 0
+QASMCE_38705	signal	1	30				
+QASMCE_38705	outside	31	38				
+//
+# QASMCE_64651 Length: 41
+# QASMCE_64651 Number of predicted TMRs: 0
+QASMCE_64651	inside	1	41				
+//
+# QASMCE_64648 Length: 48
+# QASMCE_64648 Number of predicted TMRs: 0
+QASMCE_64648	inside	1	48				
+//
+# QASMCE_44583 Length: 49
+# QASMCE_44583 Number of predicted TMRs: 0
+QASMCE_44583	signal	1	12				
+QASMCE_44583	outside	13	49				
+//
+# QASMCE_56501 Length: 43
+# QASMCE_56501 Number of predicted TMRs: 0
+QASMCE_56501	inside	1	43				
+//
+# QASMCE_21853 Length: 34
+# QASMCE_21853 Number of predicted TMRs: 0
+QASMCE_21853	inside	1	34				
+//
+# QASMCE_23505 Length: 42
+# QASMCE_23505 Number of predicted TMRs: 0
+QASMCE_23505	signal	1	41				
+QASMCE_23505	outside	42	42				
+//
+# QASMCE_98082 Length: 46
+# QASMCE_98082 Number of predicted TMRs: 0
+QASMCE_98082	signal	1	12				
+QASMCE_98082	outside	13	46				
+//
+# QASMCE_86538 Length: 35
+# QASMCE_86538 Number of predicted TMRs: 0
+QASMCE_86538	signal	1	34				
+QASMCE_86538	outside	35	35				
+//
+# QASMCE_114502 Length: 48
+# QASMCE_114502 Number of predicted TMRs: 0
+QASMCE_114502	signal	1	47				
+QASMCE_114502	outside	48	48				
+//
+# QASMCE_67958 Length: 47
+# QASMCE_67958 Number of predicted TMRs: 0
+QASMCE_67958	inside	1	47				
+//
+# QASMCE_124986 Length: 46
+# QASMCE_124986 Number of predicted TMRs: 0
+QASMCE_124986	signal	1	43				
+QASMCE_124986	outside	44	46				
+//
+# QASMCE_116104 Length: 41
+# QASMCE_116104 Number of predicted TMRs: 0
+QASMCE_116104	signal	1	40				
+QASMCE_116104	outside	41	41				
+//
+# QASMCE_38098 Length: 47
+# QASMCE_38098 Number of predicted TMRs: 0
+QASMCE_38098	inside	1	47				
+//
+# QASMCE_77518 Length: 50
+# QASMCE_77518 Number of predicted TMRs: 0
+QASMCE_77518	signal	1	49				
+QASMCE_77518	outside	50	50				
+//
+# QASMCE_49270 Length: 46
+# QASMCE_49270 Number of predicted TMRs: 0
+QASMCE_49270	signal	1	30				
+QASMCE_49270	outside	31	46				
+//
+# QASMCE_56696 Length: 47
+# QASMCE_56696 Number of predicted TMRs: 0
+QASMCE_56696	inside	1	47				
+//
+# QASMCE_69762 Length: 42
+# QASMCE_69762 Number of predicted TMRs: 0
+QASMCE_69762	signal	1	32				
+QASMCE_69762	outside	33	42				
+//
+# QASMCE_72602 Length: 43
+# QASMCE_72602 Number of predicted TMRs: 0
+QASMCE_72602	signal	1	42				
+QASMCE_72602	outside	43	43				
+//
+# QASMCE_143170 Length: 36
+# QASMCE_143170 Number of predicted TMRs: 1
+QASMCE_143170	inside	1	11				
+QASMCE_143170	TMhelix	12	28				
+QASMCE_143170	outside	29	36				
+//
+# QASMCE_93399 Length: 43
+# QASMCE_93399 Number of predicted TMRs: 0
+QASMCE_93399	signal	1	32				
+QASMCE_93399	outside	33	43				
+//
+# QASMCE_116821 Length: 43
+# QASMCE_116821 Number of predicted TMRs: 0
+QASMCE_116821	signal	1	39				
+QASMCE_116821	outside	40	43				
+//
+# QASMCE_122902 Length: 45
+# QASMCE_122902 Number of predicted TMRs: 0
+QASMCE_122902	inside	1	45				
+//
+# QASMCE_23316 Length: 44
+# QASMCE_23316 Number of predicted TMRs: 0
+QASMCE_23316	signal	1	28				
+QASMCE_23316	outside	29	44				
+//
+# QASMCE_132180 Length: 26
+# QASMCE_132180 Number of predicted TMRs: 0
+QASMCE_132180	inside	1	26				
+//
+# QASMCE_117805 Length: 47
+# QASMCE_117805 Number of predicted TMRs: 0
+QASMCE_117805	inside	1	47				
+//
+# QASMCE_170769 Length: 45
+# QASMCE_170769 Number of predicted TMRs: 0
+QASMCE_170769	signal	1	26				
+QASMCE_170769	outside	27	45				
+//
+# QASMCE_50983 Length: 45
+# QASMCE_50983 Number of predicted TMRs: 0
+QASMCE_50983	inside	1	45				
+//
+# QASMCE_16010 Length: 50
+# QASMCE_16010 Number of predicted TMRs: 0
+QASMCE_16010	inside	1	50				
+//
+# QASMCE_41104 Length: 47
+# QASMCE_41104 Number of predicted TMRs: 0
+QASMCE_41104	signal	1	23				
+QASMCE_41104	outside	24	47				
+//
+# QASMCE_69086 Length: 34
+# QASMCE_69086 Number of predicted TMRs: 0
+QASMCE_69086	signal	1	23				
+QASMCE_69086	outside	24	34				
+//
+# QASMCE_163499 Length: 41
+# QASMCE_163499 Number of predicted TMRs: 0
+QASMCE_163499	signal	1	33				
+QASMCE_163499	outside	34	41				
+//
+# QASMCE_150002 Length: 49
+# QASMCE_150002 Number of predicted TMRs: 0
+QASMCE_150002	inside	1	49				
+//
+# QASMCE_18873 Length: 49
+# QASMCE_18873 Number of predicted TMRs: 0
+QASMCE_18873	signal	1	12				
+QASMCE_18873	outside	13	49				
+//
+# QASMCE_86335 Length: 39
+# QASMCE_86335 Number of predicted TMRs: 1
+QASMCE_86335	outside	1	6				
+QASMCE_86335	TMhelix	7	27				
+QASMCE_86335	inside	28	39				
+//
+# QASMCE_66206 Length: 47
+# QASMCE_66206 Number of predicted TMRs: 1
+QASMCE_66206	inside	1	27				
+QASMCE_66206	TMhelix	28	41				
+QASMCE_66206	outside	42	47				
+//
+# QASMCE_104837 Length: 49
+# QASMCE_104837 Number of predicted TMRs: 0
+QASMCE_104837	inside	1	49				
+//
+# QASMCE_129153 Length: 49
+# QASMCE_129153 Number of predicted TMRs: 0
+QASMCE_129153	inside	1	49				
+//
+# QASMCE_13161 Length: 41
+# QASMCE_13161 Number of predicted TMRs: 0
+QASMCE_13161	signal	1	25				
+QASMCE_13161	outside	26	41				
+//
+# QASMCE_103122 Length: 40
+# QASMCE_103122 Number of predicted TMRs: 0
+QASMCE_103122	signal	1	28				
+QASMCE_103122	outside	29	40				
+//
+# QASMCE_12578 Length: 49
+# QASMCE_12578 Number of predicted TMRs: 0
+QASMCE_12578	signal	1	38				
+QASMCE_12578	outside	39	49				
+//
+# QASMCE_97655 Length: 49
+# QASMCE_97655 Number of predicted TMRs: 0
+QASMCE_97655	signal	1	10				
+QASMCE_97655	outside	11	49				
+//
+# QASMCE_64553 Length: 33
+# QASMCE_64553 Number of predicted TMRs: 0
+QASMCE_64553	signal	1	29				
+QASMCE_64553	outside	30	33				
+//
+# QASMCE_24302 Length: 37
+# QASMCE_24302 Number of predicted TMRs: 0
+QASMCE_24302	signal	1	35				
+QASMCE_24302	outside	36	37				
+//
+# QASMCE_27634 Length: 28
+# QASMCE_27634 Number of predicted TMRs: 0
+QASMCE_27634	signal	1	25				
+QASMCE_27634	outside	26	28				
+//
+# QASMCE_34494 Length: 44
+# QASMCE_34494 Number of predicted TMRs: 0
+QASMCE_34494	signal	1	43				
+QASMCE_34494	outside	44	44				
+//
+# QASMCE_145010 Length: 47
+# QASMCE_145010 Number of predicted TMRs: 0
+QASMCE_145010	inside	1	47				
+//
+# QASMCE_35061 Length: 48
+# QASMCE_35061 Number of predicted TMRs: 0
+QASMCE_35061	inside	1	48				
+//
+# QASMCE_23320 Length: 48
+# QASMCE_23320 Number of predicted TMRs: 0
+QASMCE_23320	inside	1	48				
+//
+# QASMCE_69028 Length: 46
+# QASMCE_69028 Number of predicted TMRs: 0
+QASMCE_69028	signal	1	45				
+QASMCE_69028	outside	46	46				
+//
+# QASMCE_14831 Length: 47
+# QASMCE_14831 Number of predicted TMRs: 0
+QASMCE_14831	signal	1	46				
+QASMCE_14831	outside	47	47				
+//
+# QASMCE_135274 Length: 45
+# QASMCE_135274 Number of predicted TMRs: 0
+QASMCE_135274	signal	1	34				
+QASMCE_135274	outside	35	45				
+//
+# QASMCE_138747 Length: 47
+# QASMCE_138747 Number of predicted TMRs: 0
+QASMCE_138747	signal	1	34				
+QASMCE_138747	outside	35	47				
+//
+# QASMCE_24248 Length: 48
+# QASMCE_24248 Number of predicted TMRs: 0
+QASMCE_24248	signal	1	10				
+QASMCE_24248	outside	11	48				
+//
+# QASMCE_74701 Length: 37
+# QASMCE_74701 Number of predicted TMRs: 0
+QASMCE_74701	inside	1	37				
+//
+# QASMCE_93463 Length: 37
+# QASMCE_93463 Number of predicted TMRs: 0
+QASMCE_93463	outside	1	37				
+//
+# QASMCE_29666 Length: 49
+# QASMCE_29666 Number of predicted TMRs: 0
+QASMCE_29666	inside	1	49				
+//
+# QASMCE_42688 Length: 44
+# QASMCE_42688 Number of predicted TMRs: 0
+QASMCE_42688	inside	1	44				
+//
+# QASMCE_29897 Length: 42
+# QASMCE_29897 Number of predicted TMRs: 0
+QASMCE_29897	signal	1	39				
+QASMCE_29897	outside	40	42				
+//
+# QASMCE_88190 Length: 45
+# QASMCE_88190 Number of predicted TMRs: 0
+QASMCE_88190	signal	1	21				
+QASMCE_88190	outside	22	45				
+//
+# QASMCE_138302 Length: 49
+# QASMCE_138302 Number of predicted TMRs: 0
+QASMCE_138302	inside	1	49				
+//
+# QASMCE_172310 Length: 40
+# QASMCE_172310 Number of predicted TMRs: 0
+QASMCE_172310	signal	1	14				
+QASMCE_172310	outside	15	40				
+//
+# QASMCE_165326 Length: 49
+# QASMCE_165326 Number of predicted TMRs: 0
+QASMCE_165326	inside	1	49				
+//
+# QASMCE_47695 Length: 48
+# QASMCE_47695 Number of predicted TMRs: 0
+QASMCE_47695	inside	1	48				
+//
+# QASMCE_23532 Length: 48
+# QASMCE_23532 Number of predicted TMRs: 0
+QASMCE_23532	inside	1	48				
+//
+# QASMCE_77896 Length: 40
+# QASMCE_77896 Number of predicted TMRs: 0
+QASMCE_77896	signal	1	20				
+QASMCE_77896	outside	21	40				
+//
+# QASMCE_77882 Length: 41
+# QASMCE_77882 Number of predicted TMRs: 0
+QASMCE_77882	signal	1	21				
+QASMCE_77882	outside	22	41				
+//
+# QASMCE_151321 Length: 48
+# QASMCE_151321 Number of predicted TMRs: 0
+QASMCE_151321	outside	1	48				
+//
+# QASMCE_168673 Length: 41
+# QASMCE_168673 Number of predicted TMRs: 0
+QASMCE_168673	signal	1	14				
+QASMCE_168673	outside	15	41				
+//
+# QASMCE_92434 Length: 49
+# QASMCE_92434 Number of predicted TMRs: 0
+QASMCE_92434	inside	1	49				
+//
+# QASMCE_87873 Length: 45
+# QASMCE_87873 Number of predicted TMRs: 0
+QASMCE_87873	inside	1	45				
+//
+# QASMCE_73951 Length: 47
+# QASMCE_73951 Number of predicted TMRs: 0
+QASMCE_73951	inside	1	47				
+//
+# QASMCE_107163 Length: 48
+# QASMCE_107163 Number of predicted TMRs: 0
+QASMCE_107163	signal	1	29				
+QASMCE_107163	outside	30	48				
+//
+# QASMCE_73430 Length: 46
+# QASMCE_73430 Number of predicted TMRs: 0
+QASMCE_73430	inside	1	46				
+//
+# QASMCE_137927 Length: 42
+# QASMCE_137927 Number of predicted TMRs: 0
+QASMCE_137927	signal	1	41				
+QASMCE_137927	outside	42	42				
+//
+# QASMCE_47215 Length: 50
+# QASMCE_47215 Number of predicted TMRs: 0
+QASMCE_47215	inside	1	50				
+//
+# QASMCE_143934 Length: 43
+# QASMCE_143934 Number of predicted TMRs: 0
+QASMCE_143934	inside	1	43				
+//
+# QASMCE_53198 Length: 46
+# QASMCE_53198 Number of predicted TMRs: 0
+QASMCE_53198	inside	1	46				
+//
+# QASMCE_84508 Length: 50
+# QASMCE_84508 Number of predicted TMRs: 0
+QASMCE_84508	inside	1	50				
+//
+# QASMCE_140585 Length: 44
+# QASMCE_140585 Number of predicted TMRs: 0
+QASMCE_140585	inside	1	44				
+//
+# QASMCE_140261 Length: 42
+# QASMCE_140261 Number of predicted TMRs: 0
+QASMCE_140261	inside	1	42				
+//
+# QASMCE_126267 Length: 42
+# QASMCE_126267 Number of predicted TMRs: 0
+QASMCE_126267	signal	1	27				
+QASMCE_126267	outside	28	42				
+//
+# QASMCE_127935 Length: 50
+# QASMCE_127935 Number of predicted TMRs: 0
+QASMCE_127935	inside	1	50				
+//
+# QASMCE_146921 Length: 44
+# QASMCE_146921 Number of predicted TMRs: 0
+QASMCE_146921	signal	1	40				
+QASMCE_146921	outside	41	44				
+//
+# QASMCE_55982 Length: 39
+# QASMCE_55982 Number of predicted TMRs: 0
+QASMCE_55982	signal	1	37				
+QASMCE_55982	outside	38	39				
+//
+# QASMCE_164363 Length: 44
+# QASMCE_164363 Number of predicted TMRs: 0
+QASMCE_164363	inside	1	44				
+//
+# QASMCE_117025 Length: 32
+# QASMCE_117025 Number of predicted TMRs: 0
+QASMCE_117025	signal	1	31				
+QASMCE_117025	outside	32	32				
+//
+# QASMCE_139260 Length: 46
+# QASMCE_139260 Number of predicted TMRs: 0
+QASMCE_139260	signal	1	45				
+QASMCE_139260	outside	46	46				
+//
+# QASMCE_87440 Length: 46
+# QASMCE_87440 Number of predicted TMRs: 0
+QASMCE_87440	signal	1	32				
+QASMCE_87440	outside	33	46				
+//
+# QASMCE_52240 Length: 39
+# QASMCE_52240 Number of predicted TMRs: 0
+QASMCE_52240	signal	1	35				
+QASMCE_52240	outside	36	39				
+//
+# QASMCE_27678 Length: 49
+# QASMCE_27678 Number of predicted TMRs: 0
+QASMCE_27678	signal	1	14				
+QASMCE_27678	outside	15	49				
+//
+# QASMCE_73636 Length: 44
+# QASMCE_73636 Number of predicted TMRs: 0
+QASMCE_73636	signal	1	11				
+QASMCE_73636	outside	12	44				
+//
+# QASMCE_166526 Length: 43
+# QASMCE_166526 Number of predicted TMRs: 0
+QASMCE_166526	signal	1	35				
+QASMCE_166526	outside	36	43				
+//
+# QASMCE_133705 Length: 43
+# QASMCE_133705 Number of predicted TMRs: 0
+QASMCE_133705	inside	1	43				
+//
+# QASMCE_149003 Length: 46
+# QASMCE_149003 Number of predicted TMRs: 0
+QASMCE_149003	signal	1	40				
+QASMCE_149003	outside	41	46				
+//
+# QASMCE_33054 Length: 40
+# QASMCE_33054 Number of predicted TMRs: 0
+QASMCE_33054	signal	1	39				
+QASMCE_33054	outside	40	40				
+//
+# QASMCE_79404 Length: 39
+# QASMCE_79404 Number of predicted TMRs: 0
+QASMCE_79404	signal	1	38				
+QASMCE_79404	outside	39	39				
+//
+# QASMCE_48466 Length: 46
+# QASMCE_48466 Number of predicted TMRs: 0
+QASMCE_48466	signal	1	10				
+QASMCE_48466	outside	11	46				
+//
+# QASMCE_114557 Length: 49
+# QASMCE_114557 Number of predicted TMRs: 0
+QASMCE_114557	signal	1	47				
+QASMCE_114557	outside	48	49				
+//
+# QASMCE_82922 Length: 33
+# QASMCE_82922 Number of predicted TMRs: 0
+QASMCE_82922	outside	1	33				
+//
+# QASMCE_41309 Length: 50
+# QASMCE_41309 Number of predicted TMRs: 0
+QASMCE_41309	signal	1	44				
+QASMCE_41309	outside	45	50				
+//
+# QASMCE_120676 Length: 40
+# QASMCE_120676 Number of predicted TMRs: 0
+QASMCE_120676	signal	1	20				
+QASMCE_120676	outside	21	40				
+//
+# QASMCE_103731 Length: 47
+# QASMCE_103731 Number of predicted TMRs: 0
+QASMCE_103731	signal	1	15				
+QASMCE_103731	outside	16	47				
+//
+# QASMCE_101239 Length: 49
+# QASMCE_101239 Number of predicted TMRs: 0
+QASMCE_101239	signal	1	46				
+QASMCE_101239	outside	47	49				
+//
+# QASMCE_36806 Length: 46
+# QASMCE_36806 Number of predicted TMRs: 0
+QASMCE_36806	signal	1	11				
+QASMCE_36806	outside	12	46				
+//
+# QASMCE_123931 Length: 46
+# QASMCE_123931 Number of predicted TMRs: 0
+QASMCE_123931	signal	1	23				
+QASMCE_123931	outside	24	46				
+//
+# QASMCE_88302 Length: 49
+# QASMCE_88302 Number of predicted TMRs: 0
+QASMCE_88302	signal	1	37				
+QASMCE_88302	outside	38	49				
+//
+# QASMCE_91862 Length: 50
+# QASMCE_91862 Number of predicted TMRs: 0
+QASMCE_91862	signal	1	44				
+QASMCE_91862	outside	45	50				
+//
+# QASMCE_58273 Length: 35
+# QASMCE_58273 Number of predicted TMRs: 0
+QASMCE_58273	signal	1	12				
+QASMCE_58273	outside	13	35				
+//
+# QASMCE_57706 Length: 36
+# QASMCE_57706 Number of predicted TMRs: 0
+QASMCE_57706	signal	1	12				
+QASMCE_57706	outside	13	36				
+//
+# QASMCE_156785 Length: 43
+# QASMCE_156785 Number of predicted TMRs: 0
+QASMCE_156785	signal	1	35				
+QASMCE_156785	outside	36	43				
+//
+# QASMCE_116047 Length: 48
+# QASMCE_116047 Number of predicted TMRs: 0
+QASMCE_116047	inside	1	48				
+//
+# QASMCE_18041 Length: 48
+# QASMCE_18041 Number of predicted TMRs: 0
+QASMCE_18041	inside	1	48				
+//
+# QASMCE_56460 Length: 37
+# QASMCE_56460 Number of predicted TMRs: 0
+QASMCE_56460	signal	1	29				
+QASMCE_56460	outside	30	37				
+//
+# QASMCE_112295 Length: 38
+# QASMCE_112295 Number of predicted TMRs: 0
+QASMCE_112295	signal	1	21				
+QASMCE_112295	outside	22	38				
+//
+# QASMCE_122746 Length: 40
+# QASMCE_122746 Number of predicted TMRs: 0
+QASMCE_122746	signal	1	27				
+QASMCE_122746	outside	28	40				
+//
+# QASMCE_88618 Length: 50
+# QASMCE_88618 Number of predicted TMRs: 0
+QASMCE_88618	signal	1	43				
+QASMCE_88618	outside	44	50				
+//
+# QASMCE_133425 Length: 49
+# QASMCE_133425 Number of predicted TMRs: 0
+QASMCE_133425	signal	1	10				
+QASMCE_133425	outside	11	49				
+//
+# QASMCE_110755 Length: 35
+# QASMCE_110755 Number of predicted TMRs: 0
+QASMCE_110755	signal	1	34				
+QASMCE_110755	outside	35	35				
+//
+# QASMCE_23020 Length: 46
+# QASMCE_23020 Number of predicted TMRs: 0
+QASMCE_23020	signal	1	18				
+QASMCE_23020	outside	19	46				
+//
+# QASMCE_14907 Length: 42
+# QASMCE_14907 Number of predicted TMRs: 0
+QASMCE_14907	signal	1	41				
+QASMCE_14907	outside	42	42				
+//
+# QASMCE_132285 Length: 42
+# QASMCE_132285 Number of predicted TMRs: 0
+QASMCE_132285	inside	1	42				
+//
+# QASMCE_124831 Length: 42
+# QASMCE_124831 Number of predicted TMRs: 0
+QASMCE_124831	inside	1	42				
+//
+# QASMCE_144205 Length: 42
+# QASMCE_144205 Number of predicted TMRs: 0
+QASMCE_144205	signal	1	40				
+QASMCE_144205	outside	41	42				
+//
+# QASMCE_148772 Length: 42
+# QASMCE_148772 Number of predicted TMRs: 0
+QASMCE_148772	inside	1	42				
+//
+# QASMCE_128511 Length: 42
+# QASMCE_128511 Number of predicted TMRs: 0
+QASMCE_128511	inside	1	42				
+//
+# QASMCE_172604 Length: 42
+# QASMCE_172604 Number of predicted TMRs: 0
+QASMCE_172604	signal	1	41				
+QASMCE_172604	outside	42	42				
+//
+# QASMCE_113299 Length: 42
+# QASMCE_113299 Number of predicted TMRs: 0
+QASMCE_113299	inside	1	42				
+//
+# QASMCE_119273 Length: 41
+# QASMCE_119273 Number of predicted TMRs: 0
+QASMCE_119273	signal	1	37				
+QASMCE_119273	outside	38	41				
+//
+# QASMCE_16464 Length: 42
+# QASMCE_16464 Number of predicted TMRs: 0
+QASMCE_16464	signal	1	40				
+QASMCE_16464	outside	41	42				
+//
+# QASMCE_171286 Length: 42
+# QASMCE_171286 Number of predicted TMRs: 0
+QASMCE_171286	signal	1	41				
+QASMCE_171286	outside	42	42				
+//
+# QASMCE_138582 Length: 42
+# QASMCE_138582 Number of predicted TMRs: 0
+QASMCE_138582	inside	1	42				
+//
+# QASMCE_124826 Length: 42
+# QASMCE_124826 Number of predicted TMRs: 0
+QASMCE_124826	inside	1	42				
+//
+# QASMCE_16875 Length: 42
+# QASMCE_16875 Number of predicted TMRs: 0
+QASMCE_16875	signal	1	41				
+QASMCE_16875	outside	42	42				
+//
+# QASMCE_169678 Length: 42
+# QASMCE_169678 Number of predicted TMRs: 0
+QASMCE_169678	signal	1	41				
+QASMCE_169678	outside	42	42				
+//
+# QASMCE_128529 Length: 42
+# QASMCE_128529 Number of predicted TMRs: 0
+QASMCE_128529	signal	1	41				
+QASMCE_128529	outside	42	42				
+//
+# QASMCE_164935 Length: 42
+# QASMCE_164935 Number of predicted TMRs: 0
+QASMCE_164935	inside	1	42				
+//
+# QASMCE_93640 Length: 42
+# QASMCE_93640 Number of predicted TMRs: 0
+QASMCE_93640	inside	1	42				
+//
+# QASMCE_172473 Length: 42
+# QASMCE_172473 Number of predicted TMRs: 0
+QASMCE_172473	inside	1	42				
+//
+# QASMCE_122507 Length: 42
+# QASMCE_122507 Number of predicted TMRs: 0
+QASMCE_122507	signal	1	41				
+QASMCE_122507	outside	42	42				
+//
+# QASMCE_165933 Length: 42
+# QASMCE_165933 Number of predicted TMRs: 0
+QASMCE_165933	signal	1	41				
+QASMCE_165933	outside	42	42				
+//
+# QASMCE_29474 Length: 44
+# QASMCE_29474 Number of predicted TMRs: 0
+QASMCE_29474	signal	1	32				
+QASMCE_29474	outside	33	44				
+//
+# QASMCE_172238 Length: 42
+# QASMCE_172238 Number of predicted TMRs: 0
+QASMCE_172238	inside	1	42				
+//
+# QASMCE_165628 Length: 42
+# QASMCE_165628 Number of predicted TMRs: 0
+QASMCE_165628	signal	1	41				
+QASMCE_165628	outside	42	42				
+//
+# QASMCE_90587 Length: 42
+# QASMCE_90587 Number of predicted TMRs: 0
+QASMCE_90587	signal	1	41				
+QASMCE_90587	outside	42	42				
+//
+# QASMCE_22831 Length: 38
+# QASMCE_22831 Number of predicted TMRs: 0
+QASMCE_22831	signal	1	10				
+QASMCE_22831	outside	11	38				
+//
+# QASMCE_166999 Length: 35
+# QASMCE_166999 Number of predicted TMRs: 0
+QASMCE_166999	signal	1	33				
+QASMCE_166999	outside	34	35				
+//
+# QASMCE_41475 Length: 45
+# QASMCE_41475 Number of predicted TMRs: 0
+QASMCE_41475	signal	1	29				
+QASMCE_41475	outside	30	45				
+//
+# QASMCE_140655 Length: 44
+# QASMCE_140655 Number of predicted TMRs: 0
+QASMCE_140655	inside	1	44				
+//
+# QASMCE_27807 Length: 44
+# QASMCE_27807 Number of predicted TMRs: 0
+QASMCE_27807	signal	1	35				
+QASMCE_27807	outside	36	44				
+//
+# QASMCE_84476 Length: 43
+# QASMCE_84476 Number of predicted TMRs: 0
+QASMCE_84476	inside	1	43				
+//
+# QASMCE_61297 Length: 48
+# QASMCE_61297 Number of predicted TMRs: 0
+QASMCE_61297	signal	1	38				
+QASMCE_61297	outside	39	48				
+//
+# QASMCE_144007 Length: 49
+# QASMCE_144007 Number of predicted TMRs: 0
+QASMCE_144007	inside	1	49				
+//
+# QASMCE_2837 Length: 44
+# QASMCE_2837 Number of predicted TMRs: 0
+QASMCE_2837	signal	1	31				
+QASMCE_2837	outside	32	44				
+//
+# QASMCE_128817 Length: 50
+# QASMCE_128817 Number of predicted TMRs: 0
+QASMCE_128817	inside	1	50				
+//
+# QASMCE_135359 Length: 42
+# QASMCE_135359 Number of predicted TMRs: 0
+QASMCE_135359	signal	1	40				
+QASMCE_135359	outside	41	42				
+//
+# QASMCE_31510 Length: 48
+# QASMCE_31510 Number of predicted TMRs: 0
+QASMCE_31510	inside	1	48				
+//
+# QASMCE_55684 Length: 44
+# QASMCE_55684 Number of predicted TMRs: 0
+QASMCE_55684	signal	1	34				
+QASMCE_55684	outside	35	44				
+//
+# QASMCE_2743 Length: 41
+# QASMCE_2743 Number of predicted TMRs: 0
+QASMCE_2743	signal	1	40				
+QASMCE_2743	outside	41	41				
+//
+# QASMCE_83143 Length: 38
+# QASMCE_83143 Number of predicted TMRs: 0
+QASMCE_83143	inside	1	38				
+//
+# QASMCE_37079 Length: 46
+# QASMCE_37079 Number of predicted TMRs: 0
+QASMCE_37079	signal	1	10				
+QASMCE_37079	outside	11	46				
+//
+# QASMCE_145291 Length: 47
+# QASMCE_145291 Number of predicted TMRs: 0
+QASMCE_145291	inside	1	47				
+//
+# QASMCE_133416 Length: 47
+# QASMCE_133416 Number of predicted TMRs: 0
+QASMCE_133416	inside	1	47				
+//
+# QASMCE_156578 Length: 35
+# QASMCE_156578 Number of predicted TMRs: 0
+QASMCE_156578	signal	1	20				
+QASMCE_156578	outside	21	35				
+//
+# QASMCE_31834 Length: 38
+# QASMCE_31834 Number of predicted TMRs: 0
+QASMCE_31834	inside	1	38				
+//
+# QASMCE_55366 Length: 44
+# QASMCE_55366 Number of predicted TMRs: 0
+QASMCE_55366	signal	1	32				
+QASMCE_55366	outside	33	44				
+//
+# QASMCE_153086 Length: 50
+# QASMCE_153086 Number of predicted TMRs: 0
+QASMCE_153086	signal	1	38				
+QASMCE_153086	outside	39	50				
+//
+# QASMCE_133013 Length: 44
+# QASMCE_133013 Number of predicted TMRs: 0
+QASMCE_133013	signal	1	10				
+QASMCE_133013	outside	11	44				
+//
+# QASMCE_94220 Length: 38
+# QASMCE_94220 Number of predicted TMRs: 0
+QASMCE_94220	outside	1	38				
+//
+# QASMCE_43798 Length: 45
+# QASMCE_43798 Number of predicted TMRs: 0
+QASMCE_43798	inside	1	45				
+//
+# QASMCE_14705 Length: 47
+# QASMCE_14705 Number of predicted TMRs: 0
+QASMCE_14705	signal	1	41				
+QASMCE_14705	outside	42	47				
+//
+# QASMCE_79300 Length: 49
+# QASMCE_79300 Number of predicted TMRs: 0
+QASMCE_79300	inside	1	49				
+//
+# QASMCE_44444 Length: 48
+# QASMCE_44444 Number of predicted TMRs: 0
+QASMCE_44444	inside	1	48				
+//
+# QASMCE_172519 Length: 41
+# QASMCE_172519 Number of predicted TMRs: 0
+QASMCE_172519	inside	1	41				
+//
+# QASMCE_165103 Length: 43
+# QASMCE_165103 Number of predicted TMRs: 0
+QASMCE_165103	inside	1	43				
+//
+# QASMCE_118193 Length: 48
+# QASMCE_118193 Number of predicted TMRs: 0
+QASMCE_118193	inside	1	48				
+//
+# QASMCE_138596 Length: 47
+# QASMCE_138596 Number of predicted TMRs: 0
+QASMCE_138596	inside	1	47				
+//
+# QASMCE_99267 Length: 37
+# QASMCE_99267 Number of predicted TMRs: 0
+QASMCE_99267	signal	1	35				
+QASMCE_99267	outside	36	37				
+//
+# QASMCE_47523 Length: 49
+# QASMCE_47523 Number of predicted TMRs: 0
+QASMCE_47523	inside	1	49				
+//
+# QASMCE_30020 Length: 37
+# QASMCE_30020 Number of predicted TMRs: 0
+QASMCE_30020	signal	1	23				
+QASMCE_30020	outside	24	37				
+//
+# QASMCE_17939 Length: 46
+# QASMCE_17939 Number of predicted TMRs: 0
+QASMCE_17939	signal	1	26				
+QASMCE_17939	outside	27	46				
+//
+# QASMCE_115745 Length: 41
+# QASMCE_115745 Number of predicted TMRs: 0
+QASMCE_115745	inside	1	41				
+//
+# QASMCE_68876 Length: 49
+# QASMCE_68876 Number of predicted TMRs: 0
+QASMCE_68876	inside	1	49				
+//
+# QASMCE_112215 Length: 47
+# QASMCE_112215 Number of predicted TMRs: 0
+QASMCE_112215	inside	1	47				
+//
+# QASMCE_6232 Length: 45
+# QASMCE_6232 Number of predicted TMRs: 0
+QASMCE_6232	signal	1	44				
+QASMCE_6232	outside	45	45				
+//
+# QASMCE_66990 Length: 41
+# QASMCE_66990 Number of predicted TMRs: 0
+QASMCE_66990	inside	1	41				
+//
+# QASMCE_168879 Length: 41
+# QASMCE_168879 Number of predicted TMRs: 0
+QASMCE_168879	inside	1	41				
+//
+# QASMCE_147739 Length: 44
+# QASMCE_147739 Number of predicted TMRs: 0
+QASMCE_147739	signal	1	42				
+QASMCE_147739	outside	43	44				
+//
+# QASMCE_92717 Length: 39
+# QASMCE_92717 Number of predicted TMRs: 0
+QASMCE_92717	signal	1	10				
+QASMCE_92717	outside	11	39				
+//
+# QASMCE_137587 Length: 34
+# QASMCE_137587 Number of predicted TMRs: 0
+QASMCE_137587	signal	1	33				
+QASMCE_137587	outside	34	34				
+//
+# QASMCE_21005 Length: 47
+# QASMCE_21005 Number of predicted TMRs: 0
+QASMCE_21005	signal	1	10				
+QASMCE_21005	outside	11	47				
+//
+# QASMCE_165550 Length: 42
+# QASMCE_165550 Number of predicted TMRs: 0
+QASMCE_165550	signal	1	15				
+QASMCE_165550	outside	16	42				
+//
+# QASMCE_72876 Length: 50
+# QASMCE_72876 Number of predicted TMRs: 0
+QASMCE_72876	inside	1	50				
+//
+# QASMCE_163484 Length: 49
+# QASMCE_163484 Number of predicted TMRs: 0
+QASMCE_163484	inside	1	49				
+//
+# QASMCE_41041 Length: 50
+# QASMCE_41041 Number of predicted TMRs: 0
+QASMCE_41041	outside	1	50				
+//
+# QASMCE_2208 Length: 46
+# QASMCE_2208 Number of predicted TMRs: 0
+QASMCE_2208	inside	1	46				
+//
+# QASMCE_114027 Length: 49
+# QASMCE_114027 Number of predicted TMRs: 0
+QASMCE_114027	inside	1	49				
+//
+# QASMCE_168518 Length: 41
+# QASMCE_168518 Number of predicted TMRs: 0
+QASMCE_168518	signal	1	32				
+QASMCE_168518	outside	33	41				
+//
+# QASMCE_16975 Length: 47
+# QASMCE_16975 Number of predicted TMRs: 0
+QASMCE_16975	signal	1	28				
+QASMCE_16975	outside	29	47				
+//
+# QASMCE_117272 Length: 46
+# QASMCE_117272 Number of predicted TMRs: 0
+QASMCE_117272	signal	1	15				
+QASMCE_117272	outside	16	46				
+//
+# QASMCE_49145 Length: 41
+# QASMCE_49145 Number of predicted TMRs: 0
+QASMCE_49145	signal	1	36				
+QASMCE_49145	outside	37	41				
+//
+# QASMCE_118951 Length: 41
+# QASMCE_118951 Number of predicted TMRs: 0
+QASMCE_118951	signal	1	32				
+QASMCE_118951	outside	33	41				
+//
+# QASMCE_106661 Length: 40
+# QASMCE_106661 Number of predicted TMRs: 0
+QASMCE_106661	signal	1	14				
+QASMCE_106661	outside	15	40				
+//
+# QASMCE_53945 Length: 46
+# QASMCE_53945 Number of predicted TMRs: 0
+QASMCE_53945	inside	1	46				
+//
+# QASMCE_17689 Length: 49
+# QASMCE_17689 Number of predicted TMRs: 0
+QASMCE_17689	signal	1	24				
+QASMCE_17689	outside	25	49				
+//
+# QASMCE_55218 Length: 50
+# QASMCE_55218 Number of predicted TMRs: 0
+QASMCE_55218	signal	1	43				
+QASMCE_55218	outside	44	50				
+//
+# QASMCE_144123 Length: 50
+# QASMCE_144123 Number of predicted TMRs: 0
+QASMCE_144123	inside	1	50				
+//
+# QASMCE_136686 Length: 47
+# QASMCE_136686 Number of predicted TMRs: 1
+QASMCE_136686	outside	1	3				
+QASMCE_136686	TMhelix	4	19				
+QASMCE_136686	inside	20	47				
+//
+# QASMCE_25583 Length: 38
+# QASMCE_25583 Number of predicted TMRs: 0
+QASMCE_25583	signal	1	37				
+QASMCE_25583	outside	38	38				
+//
+# QASMCE_90295 Length: 42
+# QASMCE_90295 Number of predicted TMRs: 0
+QASMCE_90295	signal	1	27				
+QASMCE_90295	outside	28	42				
+//
+# QASMCE_14513 Length: 47
+# QASMCE_14513 Number of predicted TMRs: 0
+QASMCE_14513	inside	1	47				
+//
+# QASMCE_83320 Length: 42
+# QASMCE_83320 Number of predicted TMRs: 0
+QASMCE_83320	signal	1	18				
+QASMCE_83320	outside	19	42				
+//
+# QASMCE_128426 Length: 45
+# QASMCE_128426 Number of predicted TMRs: 0
+QASMCE_128426	inside	1	45				
+//
+# QASMCE_42249 Length: 50
+# QASMCE_42249 Number of predicted TMRs: 0
+QASMCE_42249	inside	1	50				
+//
+# QASMCE_69203 Length: 49
+# QASMCE_69203 Number of predicted TMRs: 0
+QASMCE_69203	signal	1	47				
+QASMCE_69203	outside	48	49				
+//
+# QASMCE_64735 Length: 37
+# QASMCE_64735 Number of predicted TMRs: 0
+QASMCE_64735	inside	1	37				
+//
+# QASMCE_390 Length: 41
+# QASMCE_390 Number of predicted TMRs: 0
+QASMCE_390	inside	1	41				
+//
+# QASMCE_52962 Length: 44
+# QASMCE_52962 Number of predicted TMRs: 0
+QASMCE_52962	inside	1	44				
+//
+# QASMCE_31437 Length: 46
+# QASMCE_31437 Number of predicted TMRs: 0
+QASMCE_31437	inside	1	46				
+//
+# QASMCE_81242 Length: 48
+# QASMCE_81242 Number of predicted TMRs: 0
+QASMCE_81242	inside	1	48				
+//
+# QASMCE_42448 Length: 50
+# QASMCE_42448 Number of predicted TMRs: 0
+QASMCE_42448	signal	1	12				
+QASMCE_42448	outside	13	50				
+//
+# QASMCE_105968 Length: 45
+# QASMCE_105968 Number of predicted TMRs: 0
+QASMCE_105968	inside	1	45				
+//
+# QASMCE_16023 Length: 39
+# QASMCE_16023 Number of predicted TMRs: 0
+QASMCE_16023	inside	1	39				
+//
+# QASMCE_21974 Length: 50
+# QASMCE_21974 Number of predicted TMRs: 0
+QASMCE_21974	outside	1	50				
+//
+# QASMCE_2746 Length: 47
+# QASMCE_2746 Number of predicted TMRs: 0
+QASMCE_2746	inside	1	47				
+//
+# QASMCE_50793 Length: 40
+# QASMCE_50793 Number of predicted TMRs: 0
+QASMCE_50793	inside	1	40				
+//
+# QASMCE_25910 Length: 42
+# QASMCE_25910 Number of predicted TMRs: 0
+QASMCE_25910	outside	1	42				
+//
+# QASMCE_105232 Length: 41
+# QASMCE_105232 Number of predicted TMRs: 0
+QASMCE_105232	signal	1	40				
+QASMCE_105232	outside	41	41				
+//
+# QASMCE_144797 Length: 37
+# QASMCE_144797 Number of predicted TMRs: 0
+QASMCE_144797	signal	1	30				
+QASMCE_144797	outside	31	37				
+//
+# QASMCE_123571 Length: 45
+# QASMCE_123571 Number of predicted TMRs: 0
+QASMCE_123571	signal	1	24				
+QASMCE_123571	outside	25	45				
+//
+# QASMCE_98727 Length: 50
+# QASMCE_98727 Number of predicted TMRs: 0
+QASMCE_98727	inside	1	50				
+//
+# QASMCE_142082 Length: 49
+# QASMCE_142082 Number of predicted TMRs: 0
+QASMCE_142082	outside	1	49				
+//
+# QASMCE_112242 Length: 41
+# QASMCE_112242 Number of predicted TMRs: 0
+QASMCE_112242	signal	1	29				
+QASMCE_112242	outside	30	41				
+//
+# QASMCE_91225 Length: 42
+# QASMCE_91225 Number of predicted TMRs: 0
+QASMCE_91225	signal	1	16				
+QASMCE_91225	outside	17	42				
+//
+# QASMCE_37671 Length: 49
+# QASMCE_37671 Number of predicted TMRs: 0
+QASMCE_37671	signal	1	23				
+QASMCE_37671	outside	24	49				
+//
+# QASMCE_103042 Length: 50
+# QASMCE_103042 Number of predicted TMRs: 0
+QASMCE_103042	signal	1	49				
+QASMCE_103042	outside	50	50				
+//
+# QASMCE_167964 Length: 44
+# QASMCE_167964 Number of predicted TMRs: 0
+QASMCE_167964	signal	1	43				
+QASMCE_167964	outside	44	44				
+//
+# QASMCE_18063 Length: 46
+# QASMCE_18063 Number of predicted TMRs: 0
+QASMCE_18063	inside	1	46				
+//
+# QASMCE_40447 Length: 44
+# QASMCE_40447 Number of predicted TMRs: 0
+QASMCE_40447	inside	1	44				
+//
+# QASMCE_83851 Length: 42
+# QASMCE_83851 Number of predicted TMRs: 0
+QASMCE_83851	signal	1	41				
+QASMCE_83851	outside	42	42				
+//
+# QASMCE_154613 Length: 46
+# QASMCE_154613 Number of predicted TMRs: 0
+QASMCE_154613	inside	1	46				
+//
+# QASMCE_5850 Length: 48
+# QASMCE_5850 Number of predicted TMRs: 0
+QASMCE_5850	inside	1	48				
+//
+# QASMCE_122894 Length: 40
+# QASMCE_122894 Number of predicted TMRs: 0
+QASMCE_122894	signal	1	39				
+QASMCE_122894	outside	40	40				
+//
+# QASMCE_44142 Length: 50
+# QASMCE_44142 Number of predicted TMRs: 0
+QASMCE_44142	signal	1	47				
+QASMCE_44142	outside	48	50				
+//
+# QASMCE_136595 Length: 43
+# QASMCE_136595 Number of predicted TMRs: 0
+QASMCE_136595	signal	1	38				
+QASMCE_136595	outside	39	43				
+//
+# QASMCE_10950 Length: 48
+# QASMCE_10950 Number of predicted TMRs: 0
+QASMCE_10950	inside	1	48				
+//
+# QASMCE_100814 Length: 46
+# QASMCE_100814 Number of predicted TMRs: 0
+QASMCE_100814	inside	1	46				
+//
+# QASMCE_29727 Length: 35
+# QASMCE_29727 Number of predicted TMRs: 0
+QASMCE_29727	inside	1	35				
+//
+# QASMCE_97264 Length: 45
+# QASMCE_97264 Number of predicted TMRs: 0
+QASMCE_97264	inside	1	45				
+//
+# QASMCE_60772 Length: 35
+# QASMCE_60772 Number of predicted TMRs: 0
+QASMCE_60772	inside	1	35				
+//
+# QASMCE_45461 Length: 44
+# QASMCE_45461 Number of predicted TMRs: 0
+QASMCE_45461	signal	1	43				
+QASMCE_45461	outside	44	44				
+//
+# QASMCE_138772 Length: 49
+# QASMCE_138772 Number of predicted TMRs: 0
+QASMCE_138772	inside	1	49				
+//
+# QASMCE_133846 Length: 49
+# QASMCE_133846 Number of predicted TMRs: 0
+QASMCE_133846	signal	1	40				
+QASMCE_133846	outside	41	49				
+//
+# QASMCE_43982 Length: 40
+# QASMCE_43982 Number of predicted TMRs: 0
+QASMCE_43982	signal	1	10				
+QASMCE_43982	outside	11	40				
+//
+# QASMCE_143511 Length: 45
+# QASMCE_143511 Number of predicted TMRs: 0
+QASMCE_143511	inside	1	45				
+//
+# QASMCE_168087 Length: 45
+# QASMCE_168087 Number of predicted TMRs: 0
+QASMCE_168087	inside	1	45				
+//
+# QASMCE_70025 Length: 46
+# QASMCE_70025 Number of predicted TMRs: 0
+QASMCE_70025	signal	1	43				
+QASMCE_70025	outside	44	46				
+//
+# QASMCE_53834 Length: 49
+# QASMCE_53834 Number of predicted TMRs: 0
+QASMCE_53834	signal	1	22				
+QASMCE_53834	outside	23	49				
+//
+# QASMCE_26339 Length: 50
+# QASMCE_26339 Number of predicted TMRs: 0
+QASMCE_26339	inside	1	50				
+//
+# QASMCE_55428 Length: 43
+# QASMCE_55428 Number of predicted TMRs: 0
+QASMCE_55428	inside	1	43				
+//
+# QASMCE_115264 Length: 49
+# QASMCE_115264 Number of predicted TMRs: 0
+QASMCE_115264	signal	1	48				
+QASMCE_115264	outside	49	49				
+//
+# QASMCE_14588 Length: 47
+# QASMCE_14588 Number of predicted TMRs: 0
+QASMCE_14588	inside	1	47				
+//
+# QASMCE_132380 Length: 46
+# QASMCE_132380 Number of predicted TMRs: 0
+QASMCE_132380	inside	1	46				
+//
+# QASMCE_129954 Length: 48
+# QASMCE_129954 Number of predicted TMRs: 0
+QASMCE_129954	inside	1	48				
+//
+# QASMCE_155446 Length: 47
+# QASMCE_155446 Number of predicted TMRs: 0
+QASMCE_155446	signal	1	41				
+QASMCE_155446	outside	42	47				
+//
+# QASMCE_55547 Length: 46
+# QASMCE_55547 Number of predicted TMRs: 1
+QASMCE_55547	signal	1	10				
+QASMCE_55547	outside	11	11				
+QASMCE_55547	TMhelix	12	32				
+QASMCE_55547	inside	33	46				
+//
+# QASMCE_100075 Length: 46
+# QASMCE_100075 Number of predicted TMRs: 0
+QASMCE_100075	inside	1	46				
+//
+# QASMCE_88497 Length: 38
+# QASMCE_88497 Number of predicted TMRs: 0
+QASMCE_88497	signal	1	37				
+QASMCE_88497	outside	38	38				
+//
+# QASMCE_166029 Length: 37
+# QASMCE_166029 Number of predicted TMRs: 0
+QASMCE_166029	signal	1	11				
+QASMCE_166029	outside	12	37				
+//
+# QASMCE_141552 Length: 50
+# QASMCE_141552 Number of predicted TMRs: 0
+QASMCE_141552	outside	1	50				
+//
+# QASMCE_138690 Length: 39
+# QASMCE_138690 Number of predicted TMRs: 0
+QASMCE_138690	signal	1	38				
+QASMCE_138690	outside	39	39				
+//
+# QASMCE_89194 Length: 42
+# QASMCE_89194 Number of predicted TMRs: 0
+QASMCE_89194	inside	1	42				
+//
+# QASMCE_115423 Length: 44
+# QASMCE_115423 Number of predicted TMRs: 0
+QASMCE_115423	signal	1	43				
+QASMCE_115423	outside	44	44				
+//
+# QASMCE_92620 Length: 47
+# QASMCE_92620 Number of predicted TMRs: 0
+QASMCE_92620	signal	1	44				
+QASMCE_92620	outside	45	47				
+//
+# QASMCE_102020 Length: 47
+# QASMCE_102020 Number of predicted TMRs: 0
+QASMCE_102020	signal	1	46				
+QASMCE_102020	outside	47	47				
+//
+# QASMCE_12925 Length: 49
+# QASMCE_12925 Number of predicted TMRs: 0
+QASMCE_12925	inside	1	49				
+//
+# QASMCE_126629 Length: 45
+# QASMCE_126629 Number of predicted TMRs: 0
+QASMCE_126629	signal	1	41				
+QASMCE_126629	outside	42	45				
+//
+# QASMCE_53250 Length: 47
+# QASMCE_53250 Number of predicted TMRs: 0
+QASMCE_53250	signal	1	18				
+QASMCE_53250	outside	19	47				
+//
+# QASMCE_103394 Length: 50
+# QASMCE_103394 Number of predicted TMRs: 0
+QASMCE_103394	inside	1	50				
+//
+# QASMCE_172520 Length: 47
+# QASMCE_172520 Number of predicted TMRs: 0
+QASMCE_172520	signal	1	14				
+QASMCE_172520	outside	15	47				
+//
+# QASMCE_61183 Length: 44
+# QASMCE_61183 Number of predicted TMRs: 0
+QASMCE_61183	inside	1	44				
+//
+# QASMCE_87634 Length: 45
+# QASMCE_87634 Number of predicted TMRs: 0
+QASMCE_87634	inside	1	45				
+//
+# QASMCE_88168 Length: 45
+# QASMCE_88168 Number of predicted TMRs: 0
+QASMCE_88168	inside	1	45				
+//
+# QASMCE_51425 Length: 50
+# QASMCE_51425 Number of predicted TMRs: 0
+QASMCE_51425	inside	1	50				
+//
+# QASMCE_87349 Length: 49
+# QASMCE_87349 Number of predicted TMRs: 0
+QASMCE_87349	inside	1	49				
+//
+# QASMCE_80570 Length: 42
+# QASMCE_80570 Number of predicted TMRs: 0
+QASMCE_80570	signal	1	41				
+QASMCE_80570	outside	42	42				
+//
+# QASMCE_72794 Length: 50
+# QASMCE_72794 Number of predicted TMRs: 0
+QASMCE_72794	inside	1	50				
+//
+# QASMCE_145100 Length: 45
+# QASMCE_145100 Number of predicted TMRs: 0
+QASMCE_145100	inside	1	45				
+//
+# QASMCE_4871 Length: 46
+# QASMCE_4871 Number of predicted TMRs: 0
+QASMCE_4871	inside	1	46				
+//
+# QASMCE_165335 Length: 39
+# QASMCE_165335 Number of predicted TMRs: 0
+QASMCE_165335	inside	1	39				
+//
+# QASMCE_93585 Length: 34
+# QASMCE_93585 Number of predicted TMRs: 0
+QASMCE_93585	inside	1	34				
+//
+# QASMCE_138214 Length: 47
+# QASMCE_138214 Number of predicted TMRs: 0
+QASMCE_138214	inside	1	47				
+//
+# QASMCE_13414 Length: 46
+# QASMCE_13414 Number of predicted TMRs: 0
+QASMCE_13414	signal	1	26				
+QASMCE_13414	outside	27	46				
+//
+# QASMCE_25198 Length: 47
+# QASMCE_25198 Number of predicted TMRs: 0
+QASMCE_25198	inside	1	47				
+//
+# QASMCE_38630 Length: 46
+# QASMCE_38630 Number of predicted TMRs: 0
+QASMCE_38630	signal	1	23				
+QASMCE_38630	outside	24	46				
+//
+# QASMCE_34619 Length: 37
+# QASMCE_34619 Number of predicted TMRs: 0
+QASMCE_34619	signal	1	13				
+QASMCE_34619	outside	14	37				
+//
+# QASMCE_113538 Length: 49
+# QASMCE_113538 Number of predicted TMRs: 0
+QASMCE_113538	signal	1	14				
+QASMCE_113538	outside	15	49				
+//
+# QASMCE_126628 Length: 50
+# QASMCE_126628 Number of predicted TMRs: 0
+QASMCE_126628	inside	1	50				
+//
+# QASMCE_24999 Length: 37
+# QASMCE_24999 Number of predicted TMRs: 0
+QASMCE_24999	signal	1	35				
+QASMCE_24999	outside	36	37				
+//
+# QASMCE_52951 Length: 42
+# QASMCE_52951 Number of predicted TMRs: 0
+QASMCE_52951	signal	1	22				
+QASMCE_52951	outside	23	42				
+//
+# QASMCE_73458 Length: 45
+# QASMCE_73458 Number of predicted TMRs: 0
+QASMCE_73458	inside	1	45				
+//
+# QASMCE_144998 Length: 47
+# QASMCE_144998 Number of predicted TMRs: 0
+QASMCE_144998	inside	1	47				
+//
+# QASMCE_120511 Length: 34
+# QASMCE_120511 Number of predicted TMRs: 0
+QASMCE_120511	signal	1	19				
+QASMCE_120511	outside	20	34				
+//
+# QASMCE_144474 Length: 49
+# QASMCE_144474 Number of predicted TMRs: 0
+QASMCE_144474	inside	1	49				
+//
+# QASMCE_19252 Length: 41
+# QASMCE_19252 Number of predicted TMRs: 0
+QASMCE_19252	signal	1	30				
+QASMCE_19252	outside	31	41				
+//
+# QASMCE_21851 Length: 49
+# QASMCE_21851 Number of predicted TMRs: 0
+QASMCE_21851	signal	1	47				
+QASMCE_21851	outside	48	49				
+//
+# QASMCE_5962 Length: 47
+# QASMCE_5962 Number of predicted TMRs: 0
+QASMCE_5962	outside	1	47				

@@ -1,0 +1,4346 @@
+##gff-version 3
+# BPGRVI_101382 Length: 46
+# BPGRVI_101382 Number of predicted TMRs: 0
+BPGRVI_101382	inside	1	46				
+//
+# BPGRVI_145057 Length: 44
+# BPGRVI_145057 Number of predicted TMRs: 0
+BPGRVI_145057	signal	1	32				
+BPGRVI_145057	outside	33	44				
+//
+# BPGRVI_29854 Length: 35
+# BPGRVI_29854 Number of predicted TMRs: 0
+BPGRVI_29854	inside	1	35				
+//
+# BPGRVI_97911 Length: 45
+# BPGRVI_97911 Number of predicted TMRs: 0
+BPGRVI_97911	inside	1	45				
+//
+# BPGRVI_45726 Length: 44
+# BPGRVI_45726 Number of predicted TMRs: 0
+BPGRVI_45726	signal	1	43				
+BPGRVI_45726	outside	44	44				
+//
+# BPGRVI_139571 Length: 49
+# BPGRVI_139571 Number of predicted TMRs: 0
+BPGRVI_139571	inside	1	49				
+//
+# BPGRVI_134086 Length: 49
+# BPGRVI_134086 Number of predicted TMRs: 0
+BPGRVI_134086	signal	1	40				
+BPGRVI_134086	outside	41	49				
+//
+# BPGRVI_172805 Length: 43
+# BPGRVI_172805 Number of predicted TMRs: 0
+BPGRVI_172805	inside	1	43				
+//
+# BPGRVI_70443 Length: 46
+# BPGRVI_70443 Number of predicted TMRs: 0
+BPGRVI_70443	signal	1	43				
+BPGRVI_70443	outside	44	46				
+//
+# BPGRVI_25055 Length: 49
+# BPGRVI_25055 Number of predicted TMRs: 0
+BPGRVI_25055	inside	1	49				
+//
+# BPGRVI_54123 Length: 49
+# BPGRVI_54123 Number of predicted TMRs: 0
+BPGRVI_54123	signal	1	22				
+BPGRVI_54123	outside	23	49				
+//
+# BPGRVI_26614 Length: 50
+# BPGRVI_26614 Number of predicted TMRs: 0
+BPGRVI_26614	inside	1	50				
+//
+# BPGRVI_55850 Length: 43
+# BPGRVI_55850 Number of predicted TMRs: 0
+BPGRVI_55850	inside	1	43				
+//
+# BPGRVI_132711 Length: 46
+# BPGRVI_132711 Number of predicted TMRs: 0
+BPGRVI_132711	inside	1	46				
+//
+# BPGRVI_130268 Length: 48
+# BPGRVI_130268 Number of predicted TMRs: 0
+BPGRVI_130268	inside	1	48				
+//
+# BPGRVI_26820 Length: 45
+# BPGRVI_26820 Number of predicted TMRs: 0
+BPGRVI_26820	inside	1	45				
+//
+# BPGRVI_46321 Length: 47
+# BPGRVI_46321 Number of predicted TMRs: 0
+BPGRVI_46321	signal	1	41				
+BPGRVI_46321	outside	42	47				
+//
+# BPGRVI_55990 Length: 46
+# BPGRVI_55990 Number of predicted TMRs: 1
+BPGRVI_55990	signal	1	10				
+BPGRVI_55990	outside	11	11				
+BPGRVI_55990	TMhelix	12	32				
+BPGRVI_55990	inside	33	46				
+//
+# BPGRVI_95476 Length: 41
+# BPGRVI_95476 Number of predicted TMRs: 0
+BPGRVI_95476	inside	1	41				
+//
+# BPGRVI_100571 Length: 46
+# BPGRVI_100571 Number of predicted TMRs: 0
+BPGRVI_100571	inside	1	46				
+//
+# BPGRVI_87259 Length: 48
+# BPGRVI_87259 Number of predicted TMRs: 0
+BPGRVI_87259	inside	1	48				
+//
+# BPGRVI_138237 Length: 39
+# BPGRVI_138237 Number of predicted TMRs: 0
+BPGRVI_138237	signal	1	19				
+BPGRVI_138237	outside	20	39				
+//
+# BPGRVI_125836 Length: 47
+# BPGRVI_125836 Number of predicted TMRs: 0
+BPGRVI_125836	signal	1	41				
+BPGRVI_125836	outside	42	47				
+//
+# BPGRVI_166732 Length: 37
+# BPGRVI_166732 Number of predicted TMRs: 0
+BPGRVI_166732	signal	1	11				
+BPGRVI_166732	outside	12	37				
+//
+# BPGRVI_142220 Length: 50
+# BPGRVI_142220 Number of predicted TMRs: 0
+BPGRVI_142220	outside	1	50				
+//
+# BPGRVI_139468 Length: 39
+# BPGRVI_139468 Number of predicted TMRs: 0
+BPGRVI_139468	signal	1	38				
+BPGRVI_139468	outside	39	39				
+//
+# BPGRVI_89752 Length: 42
+# BPGRVI_89752 Number of predicted TMRs: 0
+BPGRVI_89752	inside	1	42				
+//
+# BPGRVI_115936 Length: 44
+# BPGRVI_115936 Number of predicted TMRs: 0
+BPGRVI_115936	signal	1	43				
+BPGRVI_115936	outside	44	44				
+//
+# BPGRVI_102412 Length: 47
+# BPGRVI_102412 Number of predicted TMRs: 0
+BPGRVI_102412	signal	1	46				
+BPGRVI_102412	outside	47	47				
+//
+# BPGRVI_12946 Length: 49
+# BPGRVI_12946 Number of predicted TMRs: 0
+BPGRVI_12946	inside	1	49				
+//
+# BPGRVI_129358 Length: 38
+# BPGRVI_129358 Number of predicted TMRs: 0
+BPGRVI_129358	inside	1	38				
+//
+# BPGRVI_81097 Length: 43
+# BPGRVI_81097 Number of predicted TMRs: 0
+BPGRVI_81097	inside	1	43				
+//
+# BPGRVI_126918 Length: 45
+# BPGRVI_126918 Number of predicted TMRs: 0
+BPGRVI_126918	signal	1	41				
+BPGRVI_126918	outside	42	45				
+//
+# BPGRVI_53633 Length: 47
+# BPGRVI_53633 Number of predicted TMRs: 0
+BPGRVI_53633	signal	1	18				
+BPGRVI_53633	outside	19	47				
+//
+# BPGRVI_18032 Length: 37
+# BPGRVI_18032 Number of predicted TMRs: 0
+BPGRVI_18032	inside	1	37				
+//
+# BPGRVI_103916 Length: 50
+# BPGRVI_103916 Number of predicted TMRs: 0
+BPGRVI_103916	inside	1	50				
+//
+# BPGRVI_173364 Length: 47
+# BPGRVI_173364 Number of predicted TMRs: 0
+BPGRVI_173364	signal	1	14				
+BPGRVI_173364	outside	15	47				
+//
+# BPGRVI_101795 Length: 46
+# BPGRVI_101795 Number of predicted TMRs: 0
+BPGRVI_101795	inside	1	46				
+//
+# BPGRVI_61593 Length: 44
+# BPGRVI_61593 Number of predicted TMRs: 0
+BPGRVI_61593	inside	1	44				
+//
+# BPGRVI_88141 Length: 45
+# BPGRVI_88141 Number of predicted TMRs: 0
+BPGRVI_88141	inside	1	45				
+//
+# BPGRVI_141738 Length: 44
+# BPGRVI_141738 Number of predicted TMRs: 0
+BPGRVI_141738	signal	1	43				
+BPGRVI_141738	outside	44	44				
+//
+# BPGRVI_88703 Length: 45
+# BPGRVI_88703 Number of predicted TMRs: 0
+BPGRVI_88703	inside	1	45				
+//
+# BPGRVI_52087 Length: 50
+# BPGRVI_52087 Number of predicted TMRs: 0
+BPGRVI_52087	inside	1	50				
+//
+# BPGRVI_124375 Length: 40
+# BPGRVI_124375 Number of predicted TMRs: 0
+BPGRVI_124375	signal	1	35				
+BPGRVI_124375	outside	36	40				
+//
+# BPGRVI_162360 Length: 33
+# BPGRVI_162360 Number of predicted TMRs: 0
+BPGRVI_162360	inside	1	33				
+//
+# BPGRVI_81075 Length: 42
+# BPGRVI_81075 Number of predicted TMRs: 0
+BPGRVI_81075	signal	1	41				
+BPGRVI_81075	outside	42	42				
+//
+# BPGRVI_153212 Length: 37
+# BPGRVI_153212 Number of predicted TMRs: 0
+BPGRVI_153212	inside	1	37				
+//
+# BPGRVI_173093 Length: 38
+# BPGRVI_173093 Number of predicted TMRs: 0
+BPGRVI_173093	signal	1	22				
+BPGRVI_173093	outside	23	38				
+//
+# BPGRVI_73330 Length: 50
+# BPGRVI_73330 Number of predicted TMRs: 0
+BPGRVI_73330	inside	1	50				
+//
+# BPGRVI_145310 Length: 45
+# BPGRVI_145310 Number of predicted TMRs: 0
+BPGRVI_145310	inside	1	45				
+//
+# BPGRVI_4887 Length: 46
+# BPGRVI_4887 Number of predicted TMRs: 0
+BPGRVI_4887	inside	1	46				
+//
+# BPGRVI_166076 Length: 39
+# BPGRVI_166076 Number of predicted TMRs: 0
+BPGRVI_166076	inside	1	39				
+//
+# BPGRVI_96770 Length: 34
+# BPGRVI_96770 Number of predicted TMRs: 0
+BPGRVI_96770	inside	1	34				
+//
+# BPGRVI_138472 Length: 47
+# BPGRVI_138472 Number of predicted TMRs: 0
+BPGRVI_138472	inside	1	47				
+//
+# BPGRVI_13556 Length: 46
+# BPGRVI_13556 Number of predicted TMRs: 0
+BPGRVI_13556	signal	1	26				
+BPGRVI_13556	outside	27	46				
+//
+# BPGRVI_25441 Length: 47
+# BPGRVI_25441 Number of predicted TMRs: 0
+BPGRVI_25441	inside	1	47				
+//
+# BPGRVI_38940 Length: 46
+# BPGRVI_38940 Number of predicted TMRs: 0
+BPGRVI_38940	signal	1	23				
+BPGRVI_38940	outside	24	46				
+//
+# BPGRVI_34798 Length: 37
+# BPGRVI_34798 Number of predicted TMRs: 0
+BPGRVI_34798	signal	1	13				
+BPGRVI_34798	outside	14	37				
+//
+# BPGRVI_113930 Length: 49
+# BPGRVI_113930 Number of predicted TMRs: 0
+BPGRVI_113930	signal	1	14				
+BPGRVI_113930	outside	15	49				
+//
+# BPGRVI_126917 Length: 50
+# BPGRVI_126917 Number of predicted TMRs: 0
+BPGRVI_126917	inside	1	50				
+//
+# BPGRVI_137116 Length: 47
+# BPGRVI_137116 Number of predicted TMRs: 0
+BPGRVI_137116	inside	1	47				
+//
+# BPGRVI_25255 Length: 37
+# BPGRVI_25255 Number of predicted TMRs: 0
+BPGRVI_25255	signal	1	35				
+BPGRVI_25255	outside	36	37				
+//
+# BPGRVI_53329 Length: 42
+# BPGRVI_53329 Number of predicted TMRs: 0
+BPGRVI_53329	signal	1	22				
+BPGRVI_53329	outside	23	42				
+//
+# BPGRVI_73843 Length: 45
+# BPGRVI_73843 Number of predicted TMRs: 0
+BPGRVI_73843	inside	1	45				
+//
+# BPGRVI_93172 Length: 47
+# BPGRVI_93172 Number of predicted TMRs: 0
+BPGRVI_93172	inside	1	47				
+//
+# BPGRVI_144680 Length: 49
+# BPGRVI_144680 Number of predicted TMRs: 0
+BPGRVI_144680	inside	1	49				
+//
+# BPGRVI_164289 Length: 43
+# BPGRVI_164289 Number of predicted TMRs: 0
+BPGRVI_164289	signal	1	13				
+BPGRVI_164289	outside	14	43				
+//
+# BPGRVI_6012 Length: 47
+# BPGRVI_6012 Number of predicted TMRs: 0
+BPGRVI_6012	outside	1	47				
+//
+# BPGRVI_142996 Length: 48
+# BPGRVI_142996 Number of predicted TMRs: 0
+BPGRVI_142996	inside	1	48				
+//
+# BPGRVI_157016 Length: 48
+# BPGRVI_157016 Number of predicted TMRs: 0
+BPGRVI_157016	inside	1	48				
+//
+# BPGRVI_129533 Length: 34
+# BPGRVI_129533 Number of predicted TMRs: 0
+BPGRVI_129533	signal	1	27				
+BPGRVI_129533	outside	28	34				
+//
+# BPGRVI_110698 Length: 43
+# BPGRVI_110698 Number of predicted TMRs: 0
+BPGRVI_110698	inside	1	43				
+//
+# BPGRVI_12509 Length: 49
+# BPGRVI_12509 Number of predicted TMRs: 0
+BPGRVI_12509	inside	1	49				
+//
+# BPGRVI_20573 Length: 50
+# BPGRVI_20573 Number of predicted TMRs: 0
+BPGRVI_20573	inside	1	50				
+//
+# BPGRVI_86060 Length: 48
+# BPGRVI_86060 Number of predicted TMRs: 0
+BPGRVI_86060	signal	1	47				
+BPGRVI_86060	outside	48	48				
+//
+# BPGRVI_116570 Length: 49
+# BPGRVI_116570 Number of predicted TMRs: 0
+BPGRVI_116570	inside	1	49				
+//
+# BPGRVI_19020 Length: 45
+# BPGRVI_19020 Number of predicted TMRs: 0
+BPGRVI_19020	inside	1	45				
+//
+# BPGRVI_166968 Length: 44
+# BPGRVI_166968 Number of predicted TMRs: 0
+BPGRVI_166968	signal	1	21				
+BPGRVI_166968	outside	22	44				
+//
+# BPGRVI_671 Length: 45
+# BPGRVI_671 Number of predicted TMRs: 0
+BPGRVI_671	inside	1	45				
+//
+# BPGRVI_144686 Length: 49
+# BPGRVI_144686 Number of predicted TMRs: 0
+BPGRVI_144686	inside	1	49				
+//
+# BPGRVI_24067 Length: 50
+# BPGRVI_24067 Number of predicted TMRs: 0
+BPGRVI_24067	inside	1	50				
+//
+# BPGRVI_144934 Length: 45
+# BPGRVI_144934 Number of predicted TMRs: 0
+BPGRVI_144934	signal	1	20				
+BPGRVI_144934	outside	21	45				
+//
+# BPGRVI_17488 Length: 46
+# BPGRVI_17488 Number of predicted TMRs: 0
+BPGRVI_17488	signal	1	45				
+BPGRVI_17488	outside	46	46				
+//
+# BPGRVI_98589 Length: 43
+# BPGRVI_98589 Number of predicted TMRs: 0
+BPGRVI_98589	inside	1	43				
+//
+# BPGRVI_121964 Length: 50
+# BPGRVI_121964 Number of predicted TMRs: 0
+BPGRVI_121964	signal	1	48				
+BPGRVI_121964	outside	49	50				
+//
+# BPGRVI_109986 Length: 35
+# BPGRVI_109986 Number of predicted TMRs: 0
+BPGRVI_109986	signal	1	33				
+BPGRVI_109986	outside	34	35				
+//
+# BPGRVI_139844 Length: 47
+# BPGRVI_139844 Number of predicted TMRs: 0
+BPGRVI_139844	signal	1	45				
+BPGRVI_139844	outside	46	47				
+//
+# BPGRVI_163578 Length: 41
+# BPGRVI_163578 Number of predicted TMRs: 0
+BPGRVI_163578	inside	1	41				
+//
+# BPGRVI_94827 Length: 39
+# BPGRVI_94827 Number of predicted TMRs: 0
+BPGRVI_94827	inside	1	39				
+//
+# BPGRVI_32582 Length: 36
+# BPGRVI_32582 Number of predicted TMRs: 0
+BPGRVI_32582	inside	1	36				
+//
+# BPGRVI_38710 Length: 47
+# BPGRVI_38710 Number of predicted TMRs: 0
+BPGRVI_38710	signal	1	35				
+BPGRVI_38710	outside	36	47				
+//
+# BPGRVI_13344 Length: 48
+# BPGRVI_13344 Number of predicted TMRs: 0
+BPGRVI_13344	inside	1	48				
+//
+# BPGRVI_19200 Length: 40
+# BPGRVI_19200 Number of predicted TMRs: 0
+BPGRVI_19200	signal	1	39				
+BPGRVI_19200	outside	40	40				
+//
+# BPGRVI_31373 Length: 42
+# BPGRVI_31373 Number of predicted TMRs: 0
+BPGRVI_31373	signal	1	35				
+BPGRVI_31373	outside	36	42				
+//
+# BPGRVI_165448 Length: 37
+# BPGRVI_165448 Number of predicted TMRs: 0
+BPGRVI_165448	signal	1	35				
+BPGRVI_165448	outside	36	37				
+//
+# BPGRVI_142767 Length: 46
+# BPGRVI_142767 Number of predicted TMRs: 0
+BPGRVI_142767	inside	1	46				
+//
+# BPGRVI_126784 Length: 46
+# BPGRVI_126784 Number of predicted TMRs: 0
+BPGRVI_126784	inside	1	46				
+//
+# BPGRVI_121808 Length: 39
+# BPGRVI_121808 Number of predicted TMRs: 0
+BPGRVI_121808	inside	1	39				
+//
+# BPGRVI_124593 Length: 48
+# BPGRVI_124593 Number of predicted TMRs: 0
+BPGRVI_124593	signal	1	46				
+BPGRVI_124593	outside	47	48				
+//
+# BPGRVI_6581 Length: 48
+# BPGRVI_6581 Number of predicted TMRs: 0
+BPGRVI_6581	inside	1	48				
+//
+# BPGRVI_2781 Length: 36
+# BPGRVI_2781 Number of predicted TMRs: 0
+BPGRVI_2781	signal	1	34				
+BPGRVI_2781	outside	35	36				
+//
+# BPGRVI_112615 Length: 33
+# BPGRVI_112615 Number of predicted TMRs: 0
+BPGRVI_112615	signal	1	32				
+BPGRVI_112615	outside	33	33				
+//
+# BPGRVI_110354 Length: 44
+# BPGRVI_110354 Number of predicted TMRs: 0
+BPGRVI_110354	inside	1	44				
+//
+# BPGRVI_148035 Length: 40
+# BPGRVI_148035 Number of predicted TMRs: 0
+BPGRVI_148035	signal	1	39				
+BPGRVI_148035	outside	40	40				
+//
+# BPGRVI_1213 Length: 35
+# BPGRVI_1213 Number of predicted TMRs: 0
+BPGRVI_1213	signal	1	18				
+BPGRVI_1213	outside	19	35				
+//
+# BPGRVI_29325 Length: 47
+# BPGRVI_29325 Number of predicted TMRs: 0
+BPGRVI_29325	signal	1	10				
+BPGRVI_29325	outside	11	47				
+//
+# BPGRVI_104348 Length: 45
+# BPGRVI_104348 Number of predicted TMRs: 0
+BPGRVI_104348	signal	1	17				
+BPGRVI_104348	outside	18	45				
+//
+# BPGRVI_40984 Length: 42
+# BPGRVI_40984 Number of predicted TMRs: 0
+BPGRVI_40984	inside	1	42				
+//
+# BPGRVI_133390 Length: 48
+# BPGRVI_133390 Number of predicted TMRs: 0
+BPGRVI_133390	inside	1	48				
+//
+# BPGRVI_42363 Length: 45
+# BPGRVI_42363 Number of predicted TMRs: 0
+BPGRVI_42363	inside	1	45				
+//
+# BPGRVI_115472 Length: 39
+# BPGRVI_115472 Number of predicted TMRs: 0
+BPGRVI_115472	inside	1	39				
+//
+# BPGRVI_123116 Length: 44
+# BPGRVI_123116 Number of predicted TMRs: 0
+BPGRVI_123116	inside	1	44				
+//
+# BPGRVI_149336 Length: 48
+# BPGRVI_149336 Number of predicted TMRs: 0
+BPGRVI_149336	inside	1	48				
+//
+# BPGRVI_75331 Length: 49
+# BPGRVI_75331 Number of predicted TMRs: 0
+BPGRVI_75331	inside	1	49				
+//
+# BPGRVI_141309 Length: 48
+# BPGRVI_141309 Number of predicted TMRs: 0
+BPGRVI_141309	signal	1	47				
+BPGRVI_141309	outside	48	48				
+//
+# BPGRVI_100424 Length: 27
+# BPGRVI_100424 Number of predicted TMRs: 0
+BPGRVI_100424	inside	1	27				
+//
+# BPGRVI_35243 Length: 45
+# BPGRVI_35243 Number of predicted TMRs: 0
+BPGRVI_35243	inside	1	45				
+//
+# BPGRVI_96183 Length: 48
+# BPGRVI_96183 Number of predicted TMRs: 0
+BPGRVI_96183	signal	1	12				
+BPGRVI_96183	outside	13	48				
+//
+# BPGRVI_150112 Length: 40
+# BPGRVI_150112 Number of predicted TMRs: 0
+BPGRVI_150112	inside	1	40				
+//
+# BPGRVI_37591 Length: 49
+# BPGRVI_37591 Number of predicted TMRs: 0
+BPGRVI_37591	inside	1	49				
+//
+# BPGRVI_16586 Length: 48
+# BPGRVI_16586 Number of predicted TMRs: 0
+BPGRVI_16586	inside	1	48				
+//
+# BPGRVI_137246 Length: 44
+# BPGRVI_137246 Number of predicted TMRs: 0
+BPGRVI_137246	signal	1	29				
+BPGRVI_137246	outside	30	44				
+//
+# BPGRVI_62617 Length: 32
+# BPGRVI_62617 Number of predicted TMRs: 0
+BPGRVI_62617	signal	1	31				
+BPGRVI_62617	outside	32	32				
+//
+# BPGRVI_149628 Length: 46
+# BPGRVI_149628 Number of predicted TMRs: 0
+BPGRVI_149628	inside	1	46				
+//
+# BPGRVI_87548 Length: 50
+# BPGRVI_87548 Number of predicted TMRs: 0
+BPGRVI_87548	signal	1	45				
+BPGRVI_87548	outside	46	50				
+//
+# BPGRVI_110280 Length: 43
+# BPGRVI_110280 Number of predicted TMRs: 0
+BPGRVI_110280	inside	1	43				
+//
+# BPGRVI_157342 Length: 37
+# BPGRVI_157342 Number of predicted TMRs: 0
+BPGRVI_157342	inside	1	37				
+//
+# BPGRVI_69121 Length: 48
+# BPGRVI_69121 Number of predicted TMRs: 0
+BPGRVI_69121	inside	1	48				
+//
+# BPGRVI_123061 Length: 50
+# BPGRVI_123061 Number of predicted TMRs: 0
+BPGRVI_123061	inside	1	50				
+//
+# BPGRVI_146572 Length: 50
+# BPGRVI_146572 Number of predicted TMRs: 0
+BPGRVI_146572	inside	1	50				
+//
+# BPGRVI_25241 Length: 41
+# BPGRVI_25241 Number of predicted TMRs: 0
+BPGRVI_25241	inside	1	41				
+//
+# BPGRVI_54878 Length: 45
+# BPGRVI_54878 Number of predicted TMRs: 0
+BPGRVI_54878	inside	1	45				
+//
+# BPGRVI_103355 Length: 47
+# BPGRVI_103355 Number of predicted TMRs: 0
+BPGRVI_103355	inside	1	47				
+//
+# BPGRVI_154251 Length: 44
+# BPGRVI_154251 Number of predicted TMRs: 0
+BPGRVI_154251	signal	1	40				
+BPGRVI_154251	outside	41	44				
+//
+# BPGRVI_127598 Length: 48
+# BPGRVI_127598 Number of predicted TMRs: 0
+BPGRVI_127598	signal	1	10				
+BPGRVI_127598	outside	11	48				
+//
+# BPGRVI_65450 Length: 43
+# BPGRVI_65450 Number of predicted TMRs: 0
+BPGRVI_65450	signal	1	39				
+BPGRVI_65450	outside	40	43				
+//
+# BPGRVI_104710 Length: 43
+# BPGRVI_104710 Number of predicted TMRs: 0
+BPGRVI_104710	signal	1	35				
+BPGRVI_104710	outside	36	43				
+//
+# BPGRVI_97530 Length: 43
+# BPGRVI_97530 Number of predicted TMRs: 0
+BPGRVI_97530	inside	1	43				
+//
+# BPGRVI_142483 Length: 43
+# BPGRVI_142483 Number of predicted TMRs: 0
+BPGRVI_142483	inside	1	43				
+//
+# BPGRVI_162998 Length: 45
+# BPGRVI_162998 Number of predicted TMRs: 0
+BPGRVI_162998	inside	1	45				
+//
+# BPGRVI_148529 Length: 46
+# BPGRVI_148529 Number of predicted TMRs: 0
+BPGRVI_148529	inside	1	46				
+//
+# BPGRVI_119849 Length: 47
+# BPGRVI_119849 Number of predicted TMRs: 0
+BPGRVI_119849	signal	1	37				
+BPGRVI_119849	outside	38	47				
+//
+# BPGRVI_172124 Length: 45
+# BPGRVI_172124 Number of predicted TMRs: 0
+BPGRVI_172124	outside	1	45				
+//
+# BPGRVI_83009 Length: 40
+# BPGRVI_83009 Number of predicted TMRs: 0
+BPGRVI_83009	inside	1	40				
+//
+# BPGRVI_47606 Length: 49
+# BPGRVI_47606 Number of predicted TMRs: 0
+BPGRVI_47606	signal	1	23				
+BPGRVI_47606	outside	24	49				
+//
+# BPGRVI_130339 Length: 44
+# BPGRVI_130339 Number of predicted TMRs: 0
+BPGRVI_130339	signal	1	42				
+BPGRVI_130339	outside	43	44				
+//
+# BPGRVI_119141 Length: 46
+# BPGRVI_119141 Number of predicted TMRs: 0
+BPGRVI_119141	signal	1	43				
+BPGRVI_119141	outside	44	46				
+//
+# BPGRVI_115016 Length: 28
+# BPGRVI_115016 Number of predicted TMRs: 0
+BPGRVI_115016	inside	1	28				
+//
+# BPGRVI_96475 Length: 28
+# BPGRVI_96475 Number of predicted TMRs: 0
+BPGRVI_96475	inside	1	28				
+//
+# BPGRVI_116602 Length: 28
+# BPGRVI_116602 Number of predicted TMRs: 0
+BPGRVI_116602	signal	1	26				
+BPGRVI_116602	outside	27	28				
+//
+# BPGRVI_137082 Length: 42
+# BPGRVI_137082 Number of predicted TMRs: 0
+BPGRVI_137082	inside	1	42				
+//
+# BPGRVI_161984 Length: 37
+# BPGRVI_161984 Number of predicted TMRs: 0
+BPGRVI_161984	inside	1	37				
+//
+# BPGRVI_70894 Length: 38
+# BPGRVI_70894 Number of predicted TMRs: 0
+BPGRVI_70894	outside	1	38				
+//
+# BPGRVI_20894 Length: 41
+# BPGRVI_20894 Number of predicted TMRs: 0
+BPGRVI_20894	signal	1	28				
+BPGRVI_20894	outside	29	41				
+//
+# BPGRVI_113155 Length: 46
+# BPGRVI_113155 Number of predicted TMRs: 0
+BPGRVI_113155	inside	1	46				
+//
+# BPGRVI_11984 Length: 35
+# BPGRVI_11984 Number of predicted TMRs: 0
+BPGRVI_11984	inside	1	35				
+//
+# BPGRVI_32509 Length: 45
+# BPGRVI_32509 Number of predicted TMRs: 0
+BPGRVI_32509	inside	1	45				
+//
+# BPGRVI_22773 Length: 49
+# BPGRVI_22773 Number of predicted TMRs: 0
+BPGRVI_22773	inside	1	49				
+//
+# BPGRVI_9777 Length: 42
+# BPGRVI_9777 Number of predicted TMRs: 0
+BPGRVI_9777	outside	1	42				
+//
+# BPGRVI_158790 Length: 48
+# BPGRVI_158790 Number of predicted TMRs: 0
+BPGRVI_158790	inside	1	48				
+//
+# BPGRVI_21752 Length: 46
+# BPGRVI_21752 Number of predicted TMRs: 0
+BPGRVI_21752	inside	1	46				
+//
+# BPGRVI_55715 Length: 41
+# BPGRVI_55715 Number of predicted TMRs: 0
+BPGRVI_55715	signal	1	32				
+BPGRVI_55715	outside	33	41				
+//
+# BPGRVI_172166 Length: 38
+# BPGRVI_172166 Number of predicted TMRs: 0
+BPGRVI_172166	signal	1	32				
+BPGRVI_172166	outside	33	38				
+//
+# BPGRVI_15215 Length: 37
+# BPGRVI_15215 Number of predicted TMRs: 0
+BPGRVI_15215	inside	1	37				
+//
+# BPGRVI_158475 Length: 49
+# BPGRVI_158475 Number of predicted TMRs: 0
+BPGRVI_158475	inside	1	49				
+//
+# BPGRVI_100323 Length: 34
+# BPGRVI_100323 Number of predicted TMRs: 0
+BPGRVI_100323	outside	1	34				
+//
+# BPGRVI_109889 Length: 48
+# BPGRVI_109889 Number of predicted TMRs: 0
+BPGRVI_109889	signal	1	21				
+BPGRVI_109889	outside	22	48				
+//
+# BPGRVI_57407 Length: 47
+# BPGRVI_57407 Number of predicted TMRs: 0
+BPGRVI_57407	inside	1	47				
+//
+# BPGRVI_35552 Length: 31
+# BPGRVI_35552 Number of predicted TMRs: 0
+BPGRVI_35552	signal	1	27				
+BPGRVI_35552	outside	28	31				
+//
+# BPGRVI_138666 Length: 49
+# BPGRVI_138666 Number of predicted TMRs: 0
+BPGRVI_138666	inside	1	49				
+//
+# BPGRVI_50116 Length: 49
+# BPGRVI_50116 Number of predicted TMRs: 0
+BPGRVI_50116	inside	1	49				
+//
+# BPGRVI_21044 Length: 44
+# BPGRVI_21044 Number of predicted TMRs: 0
+BPGRVI_21044	inside	1	44				
+//
+# BPGRVI_143358 Length: 43
+# BPGRVI_143358 Number of predicted TMRs: 0
+BPGRVI_143358	signal	1	11				
+BPGRVI_143358	outside	12	43				
+//
+# BPGRVI_41432 Length: 49
+# BPGRVI_41432 Number of predicted TMRs: 0
+BPGRVI_41432	signal	1	26				
+BPGRVI_41432	outside	27	49				
+//
+# BPGRVI_142979 Length: 49
+# BPGRVI_142979 Number of predicted TMRs: 0
+BPGRVI_142979	signal	1	29				
+BPGRVI_142979	outside	30	49				
+//
+# BPGRVI_107056 Length: 47
+# BPGRVI_107056 Number of predicted TMRs: 0
+BPGRVI_107056	inside	1	47				
+//
+# BPGRVI_15060 Length: 33
+# BPGRVI_15060 Number of predicted TMRs: 0
+BPGRVI_15060	inside	1	33				
+//
+# BPGRVI_93123 Length: 33
+# BPGRVI_93123 Number of predicted TMRs: 0
+BPGRVI_93123	inside	1	33				
+//
+# BPGRVI_6343 Length: 44
+# BPGRVI_6343 Number of predicted TMRs: 0
+BPGRVI_6343	inside	1	44				
+//
+# BPGRVI_12172 Length: 47
+# BPGRVI_12172 Number of predicted TMRs: 0
+BPGRVI_12172	inside	1	47				
+//
+# BPGRVI_107737 Length: 44
+# BPGRVI_107737 Number of predicted TMRs: 0
+BPGRVI_107737	inside	1	44				
+//
+# BPGRVI_109562 Length: 43
+# BPGRVI_109562 Number of predicted TMRs: 0
+BPGRVI_109562	inside	1	43				
+//
+# BPGRVI_74552 Length: 39
+# BPGRVI_74552 Number of predicted TMRs: 0
+BPGRVI_74552	inside	1	39				
+//
+# BPGRVI_79678 Length: 44
+# BPGRVI_79678 Number of predicted TMRs: 0
+BPGRVI_79678	inside	1	44				
+//
+# BPGRVI_123747 Length: 47
+# BPGRVI_123747 Number of predicted TMRs: 0
+BPGRVI_123747	inside	1	47				
+//
+# BPGRVI_17075 Length: 49
+# BPGRVI_17075 Number of predicted TMRs: 0
+BPGRVI_17075	inside	1	49				
+//
+# BPGRVI_122920 Length: 47
+# BPGRVI_122920 Number of predicted TMRs: 0
+BPGRVI_122920	inside	1	47				
+//
+# BPGRVI_105386 Length: 49
+# BPGRVI_105386 Number of predicted TMRs: 0
+BPGRVI_105386	inside	1	49				
+//
+# BPGRVI_134416 Length: 36
+# BPGRVI_134416 Number of predicted TMRs: 0
+BPGRVI_134416	inside	1	36				
+//
+# BPGRVI_173453 Length: 50
+# BPGRVI_173453 Number of predicted TMRs: 0
+BPGRVI_173453	signal	1	33				
+BPGRVI_173453	outside	34	50				
+//
+# BPGRVI_10473 Length: 49
+# BPGRVI_10473 Number of predicted TMRs: 0
+BPGRVI_10473	inside	1	49				
+//
+# BPGRVI_163596 Length: 39
+# BPGRVI_163596 Number of predicted TMRs: 0
+BPGRVI_163596	inside	1	39				
+//
+# BPGRVI_72876 Length: 46
+# BPGRVI_72876 Number of predicted TMRs: 0
+BPGRVI_72876	inside	1	46				
+//
+# BPGRVI_83707 Length: 39
+# BPGRVI_83707 Number of predicted TMRs: 0
+BPGRVI_83707	inside	1	39				
+//
+# BPGRVI_101802 Length: 36
+# BPGRVI_101802 Number of predicted TMRs: 0
+BPGRVI_101802	signal	1	35				
+BPGRVI_101802	outside	36	36				
+//
+# BPGRVI_29667 Length: 42
+# BPGRVI_29667 Number of predicted TMRs: 0
+BPGRVI_29667	inside	1	42				
+//
+# BPGRVI_26321 Length: 44
+# BPGRVI_26321 Number of predicted TMRs: 0
+BPGRVI_26321	outside	1	44				
+//
+# BPGRVI_138456 Length: 45
+# BPGRVI_138456 Number of predicted TMRs: 0
+BPGRVI_138456	signal	1	43				
+BPGRVI_138456	outside	44	45				
+//
+# BPGRVI_118135 Length: 50
+# BPGRVI_118135 Number of predicted TMRs: 0
+BPGRVI_118135	signal	1	46				
+BPGRVI_118135	outside	47	50				
+//
+# BPGRVI_6026 Length: 27
+# BPGRVI_6026 Number of predicted TMRs: 0
+BPGRVI_6026	signal	1	26				
+BPGRVI_6026	outside	27	27				
+//
+# BPGRVI_158898 Length: 45
+# BPGRVI_158898 Number of predicted TMRs: 0
+BPGRVI_158898	inside	1	45				
+//
+# BPGRVI_132081 Length: 50
+# BPGRVI_132081 Number of predicted TMRs: 0
+BPGRVI_132081	signal	1	49				
+BPGRVI_132081	outside	50	50				
+//
+# BPGRVI_144255 Length: 49
+# BPGRVI_144255 Number of predicted TMRs: 0
+BPGRVI_144255	inside	1	49				
+//
+# BPGRVI_77859 Length: 50
+# BPGRVI_77859 Number of predicted TMRs: 0
+BPGRVI_77859	inside	1	50				
+//
+# BPGRVI_28093 Length: 48
+# BPGRVI_28093 Number of predicted TMRs: 0
+BPGRVI_28093	inside	1	48				
+//
+# BPGRVI_44642 Length: 48
+# BPGRVI_44642 Number of predicted TMRs: 0
+BPGRVI_44642	inside	1	48				
+//
+# BPGRVI_60425 Length: 42
+# BPGRVI_60425 Number of predicted TMRs: 0
+BPGRVI_60425	inside	1	42				
+//
+# BPGRVI_36835 Length: 38
+# BPGRVI_36835 Number of predicted TMRs: 0
+BPGRVI_36835	signal	1	11				
+BPGRVI_36835	outside	12	38				
+//
+# BPGRVI_100794 Length: 38
+# BPGRVI_100794 Number of predicted TMRs: 0
+BPGRVI_100794	inside	1	38				
+//
+# BPGRVI_3102 Length: 38
+# BPGRVI_3102 Number of predicted TMRs: 0
+BPGRVI_3102	inside	1	38				
+//
+# BPGRVI_134082 Length: 50
+# BPGRVI_134082 Number of predicted TMRs: 0
+BPGRVI_134082	signal	1	47				
+BPGRVI_134082	outside	48	50				
+//
+# BPGRVI_36626 Length: 35
+# BPGRVI_36626 Number of predicted TMRs: 0
+BPGRVI_36626	inside	1	35				
+//
+# BPGRVI_10199 Length: 48
+# BPGRVI_10199 Number of predicted TMRs: 0
+BPGRVI_10199	inside	1	48				
+//
+# BPGRVI_119996 Length: 47
+# BPGRVI_119996 Number of predicted TMRs: 0
+BPGRVI_119996	inside	1	47				
+//
+# BPGRVI_18215 Length: 35
+# BPGRVI_18215 Number of predicted TMRs: 0
+BPGRVI_18215	inside	1	35				
+//
+# BPGRVI_134989 Length: 47
+# BPGRVI_134989 Number of predicted TMRs: 0
+BPGRVI_134989	inside	1	47				
+//
+# BPGRVI_82628 Length: 42
+# BPGRVI_82628 Number of predicted TMRs: 0
+BPGRVI_82628	signal	1	15				
+BPGRVI_82628	outside	16	42				
+//
+# BPGRVI_121716 Length: 46
+# BPGRVI_121716 Number of predicted TMRs: 0
+BPGRVI_121716	inside	1	46				
+//
+# BPGRVI_23398 Length: 45
+# BPGRVI_23398 Number of predicted TMRs: 0
+BPGRVI_23398	inside	1	45				
+//
+# BPGRVI_132512 Length: 39
+# BPGRVI_132512 Number of predicted TMRs: 0
+BPGRVI_132512	inside	1	39				
+//
+# BPGRVI_170144 Length: 41
+# BPGRVI_170144 Number of predicted TMRs: 0
+BPGRVI_170144	inside	1	41				
+//
+# BPGRVI_153355 Length: 50
+# BPGRVI_153355 Number of predicted TMRs: 0
+BPGRVI_153355	inside	1	50				
+//
+# BPGRVI_12276 Length: 43
+# BPGRVI_12276 Number of predicted TMRs: 0
+BPGRVI_12276	signal	1	30				
+BPGRVI_12276	outside	31	43				
+//
+# BPGRVI_93530 Length: 31
+# BPGRVI_93530 Number of predicted TMRs: 0
+BPGRVI_93530	inside	1	31				
+//
+# BPGRVI_135916 Length: 47
+# BPGRVI_135916 Number of predicted TMRs: 0
+BPGRVI_135916	inside	1	47				
+//
+# BPGRVI_115768 Length: 41
+# BPGRVI_115768 Number of predicted TMRs: 0
+BPGRVI_115768	inside	1	41				
+//
+# BPGRVI_44456 Length: 45
+# BPGRVI_44456 Number of predicted TMRs: 0
+BPGRVI_44456	inside	1	45				
+//
+# BPGRVI_37450 Length: 49
+# BPGRVI_37450 Number of predicted TMRs: 0
+BPGRVI_37450	inside	1	49				
+//
+# BPGRVI_46147 Length: 45
+# BPGRVI_46147 Number of predicted TMRs: 0
+BPGRVI_46147	inside	1	45				
+//
+# BPGRVI_106236 Length: 48
+# BPGRVI_106236 Number of predicted TMRs: 0
+BPGRVI_106236	inside	1	48				
+//
+# BPGRVI_36376 Length: 45
+# BPGRVI_36376 Number of predicted TMRs: 0
+BPGRVI_36376	inside	1	45				
+//
+# BPGRVI_59063 Length: 42
+# BPGRVI_59063 Number of predicted TMRs: 0
+BPGRVI_59063	outside	1	42				
+//
+# BPGRVI_76479 Length: 42
+# BPGRVI_76479 Number of predicted TMRs: 0
+BPGRVI_76479	inside	1	42				
+//
+# BPGRVI_106486 Length: 50
+# BPGRVI_106486 Number of predicted TMRs: 0
+BPGRVI_106486	inside	1	50				
+//
+# BPGRVI_157377 Length: 48
+# BPGRVI_157377 Number of predicted TMRs: 0
+BPGRVI_157377	inside	1	48				
+//
+# BPGRVI_5462 Length: 39
+# BPGRVI_5462 Number of predicted TMRs: 0
+BPGRVI_5462	signal	1	20				
+BPGRVI_5462	outside	21	39				
+//
+# BPGRVI_147653 Length: 45
+# BPGRVI_147653 Number of predicted TMRs: 0
+BPGRVI_147653	inside	1	45				
+//
+# BPGRVI_46433 Length: 50
+# BPGRVI_46433 Number of predicted TMRs: 0
+BPGRVI_46433	inside	1	50				
+//
+# BPGRVI_119226 Length: 49
+# BPGRVI_119226 Number of predicted TMRs: 0
+BPGRVI_119226	inside	1	49				
+//
+# BPGRVI_12929 Length: 28
+# BPGRVI_12929 Number of predicted TMRs: 0
+BPGRVI_12929	outside	1	28				
+//
+# BPGRVI_76760 Length: 36
+# BPGRVI_76760 Number of predicted TMRs: 0
+BPGRVI_76760	signal	1	31				
+BPGRVI_76760	outside	32	36				
+//
+# BPGRVI_145151 Length: 49
+# BPGRVI_145151 Number of predicted TMRs: 0
+BPGRVI_145151	inside	1	49				
+//
+# BPGRVI_77960 Length: 45
+# BPGRVI_77960 Number of predicted TMRs: 0
+BPGRVI_77960	inside	1	45				
+//
+# BPGRVI_16576 Length: 41
+# BPGRVI_16576 Number of predicted TMRs: 0
+BPGRVI_16576	inside	1	41				
+//
+# BPGRVI_35769 Length: 40
+# BPGRVI_35769 Number of predicted TMRs: 0
+BPGRVI_35769	signal	1	35				
+BPGRVI_35769	outside	36	40				
+//
+# BPGRVI_122030 Length: 46
+# BPGRVI_122030 Number of predicted TMRs: 0
+BPGRVI_122030	signal	1	45				
+BPGRVI_122030	outside	46	46				
+//
+# BPGRVI_59372 Length: 47
+# BPGRVI_59372 Number of predicted TMRs: 0
+BPGRVI_59372	inside	1	47				
+//
+# BPGRVI_101609 Length: 45
+# BPGRVI_101609 Number of predicted TMRs: 0
+BPGRVI_101609	inside	1	45				
+//
+# BPGRVI_3984 Length: 42
+# BPGRVI_3984 Number of predicted TMRs: 0
+BPGRVI_3984	inside	1	42				
+//
+# BPGRVI_65297 Length: 40
+# BPGRVI_65297 Number of predicted TMRs: 0
+BPGRVI_65297	inside	1	40				
+//
+# BPGRVI_68894 Length: 42
+# BPGRVI_68894 Number of predicted TMRs: 0
+BPGRVI_68894	inside	1	42				
+//
+# BPGRVI_138070 Length: 37
+# BPGRVI_138070 Number of predicted TMRs: 0
+BPGRVI_138070	signal	1	34				
+BPGRVI_138070	outside	35	37				
+//
+# BPGRVI_168765 Length: 44
+# BPGRVI_168765 Number of predicted TMRs: 0
+BPGRVI_168765	inside	1	44				
+//
+# BPGRVI_25873 Length: 38
+# BPGRVI_25873 Number of predicted TMRs: 0
+BPGRVI_25873	signal	1	32				
+BPGRVI_25873	outside	33	38				
+//
+# BPGRVI_138376 Length: 49
+# BPGRVI_138376 Number of predicted TMRs: 0
+BPGRVI_138376	inside	1	49				
+//
+# BPGRVI_36418 Length: 49
+# BPGRVI_36418 Number of predicted TMRs: 0
+BPGRVI_36418	inside	1	49				
+//
+# BPGRVI_36669 Length: 49
+# BPGRVI_36669 Number of predicted TMRs: 0
+BPGRVI_36669	inside	1	49				
+//
+# BPGRVI_118869 Length: 50
+# BPGRVI_118869 Number of predicted TMRs: 0
+BPGRVI_118869	signal	1	33				
+BPGRVI_118869	outside	34	50				
+//
+# BPGRVI_18657 Length: 38
+# BPGRVI_18657 Number of predicted TMRs: 0
+BPGRVI_18657	inside	1	38				
+//
+# BPGRVI_92093 Length: 48
+# BPGRVI_92093 Number of predicted TMRs: 0
+BPGRVI_92093	signal	1	29				
+BPGRVI_92093	outside	30	48				
+//
+# BPGRVI_67867 Length: 42
+# BPGRVI_67867 Number of predicted TMRs: 0
+BPGRVI_67867	inside	1	42				
+//
+# BPGRVI_123459 Length: 50
+# BPGRVI_123459 Number of predicted TMRs: 0
+BPGRVI_123459	inside	1	50				
+//
+# BPGRVI_170292 Length: 47
+# BPGRVI_170292 Number of predicted TMRs: 0
+BPGRVI_170292	inside	1	47				
+//
+# BPGRVI_69009 Length: 45
+# BPGRVI_69009 Number of predicted TMRs: 0
+BPGRVI_69009	inside	1	45				
+//
+# BPGRVI_125909 Length: 50
+# BPGRVI_125909 Number of predicted TMRs: 0
+BPGRVI_125909	signal	1	48				
+BPGRVI_125909	outside	49	50				
+//
+# BPGRVI_102193 Length: 46
+# BPGRVI_102193 Number of predicted TMRs: 0
+BPGRVI_102193	inside	1	46				
+//
+# BPGRVI_134433 Length: 48
+# BPGRVI_134433 Number of predicted TMRs: 0
+BPGRVI_134433	signal	1	44				
+BPGRVI_134433	outside	45	48				
+//
+# BPGRVI_18877 Length: 43
+# BPGRVI_18877 Number of predicted TMRs: 0
+BPGRVI_18877	outside	1	43				
+//
+# BPGRVI_121464 Length: 39
+# BPGRVI_121464 Number of predicted TMRs: 0
+BPGRVI_121464	signal	1	26				
+BPGRVI_121464	outside	27	39				
+//
+# BPGRVI_6038 Length: 49
+# BPGRVI_6038 Number of predicted TMRs: 0
+BPGRVI_6038	signal	1	44				
+BPGRVI_6038	outside	45	49				
+//
+# BPGRVI_89679 Length: 34
+# BPGRVI_89679 Number of predicted TMRs: 0
+BPGRVI_89679	inside	1	34				
+//
+# BPGRVI_73682 Length: 46
+# BPGRVI_73682 Number of predicted TMRs: 0
+BPGRVI_73682	inside	1	46				
+//
+# BPGRVI_10057 Length: 40
+# BPGRVI_10057 Number of predicted TMRs: 0
+BPGRVI_10057	signal	1	34				
+BPGRVI_10057	outside	35	40				
+//
+# BPGRVI_138401 Length: 39
+# BPGRVI_138401 Number of predicted TMRs: 0
+BPGRVI_138401	inside	1	39				
+//
+# BPGRVI_99715 Length: 48
+# BPGRVI_99715 Number of predicted TMRs: 0
+BPGRVI_99715	inside	1	48				
+//
+# BPGRVI_133898 Length: 44
+# BPGRVI_133898 Number of predicted TMRs: 0
+BPGRVI_133898	inside	1	44				
+//
+# BPGRVI_124982 Length: 42
+# BPGRVI_124982 Number of predicted TMRs: 0
+BPGRVI_124982	inside	1	42				
+//
+# BPGRVI_43013 Length: 39
+# BPGRVI_43013 Number of predicted TMRs: 0
+BPGRVI_43013	inside	1	39				
+//
+# BPGRVI_133340 Length: 38
+# BPGRVI_133340 Number of predicted TMRs: 0
+BPGRVI_133340	signal	1	37				
+BPGRVI_133340	outside	38	38				
+//
+# BPGRVI_144677 Length: 34
+# BPGRVI_144677 Number of predicted TMRs: 0
+BPGRVI_144677	signal	1	14				
+BPGRVI_144677	outside	15	34				
+//
+# BPGRVI_143577 Length: 44
+# BPGRVI_143577 Number of predicted TMRs: 0
+BPGRVI_143577	inside	1	44				
+//
+# BPGRVI_57406 Length: 48
+# BPGRVI_57406 Number of predicted TMRs: 0
+BPGRVI_57406	inside	1	48				
+//
+# BPGRVI_100031 Length: 45
+# BPGRVI_100031 Number of predicted TMRs: 0
+BPGRVI_100031	signal	1	15				
+BPGRVI_100031	outside	16	45				
+//
+# BPGRVI_136859 Length: 38
+# BPGRVI_136859 Number of predicted TMRs: 0
+BPGRVI_136859	signal	1	35				
+BPGRVI_136859	outside	36	38				
+//
+# BPGRVI_38748 Length: 47
+# BPGRVI_38748 Number of predicted TMRs: 0
+BPGRVI_38748	inside	1	47				
+//
+# BPGRVI_153788 Length: 43
+# BPGRVI_153788 Number of predicted TMRs: 0
+BPGRVI_153788	inside	1	43				
+//
+# BPGRVI_138487 Length: 49
+# BPGRVI_138487 Number of predicted TMRs: 0
+BPGRVI_138487	inside	1	49				
+//
+# BPGRVI_80523 Length: 42
+# BPGRVI_80523 Number of predicted TMRs: 0
+BPGRVI_80523	signal	1	34				
+BPGRVI_80523	outside	35	42				
+//
+# BPGRVI_13314 Length: 49
+# BPGRVI_13314 Number of predicted TMRs: 0
+BPGRVI_13314	signal	1	40				
+BPGRVI_13314	outside	41	49				
+//
+# BPGRVI_20612 Length: 48
+# BPGRVI_20612 Number of predicted TMRs: 0
+BPGRVI_20612	inside	1	48				
+//
+# BPGRVI_128940 Length: 48
+# BPGRVI_128940 Number of predicted TMRs: 0
+BPGRVI_128940	inside	1	48				
+//
+# BPGRVI_59163 Length: 49
+# BPGRVI_59163 Number of predicted TMRs: 0
+BPGRVI_59163	inside	1	49				
+//
+# BPGRVI_94373 Length: 46
+# BPGRVI_94373 Number of predicted TMRs: 0
+BPGRVI_94373	inside	1	46				
+//
+# BPGRVI_97879 Length: 47
+# BPGRVI_97879 Number of predicted TMRs: 0
+BPGRVI_97879	inside	1	47				
+//
+# BPGRVI_116771 Length: 48
+# BPGRVI_116771 Number of predicted TMRs: 0
+BPGRVI_116771	inside	1	48				
+//
+# BPGRVI_7980 Length: 37
+# BPGRVI_7980 Number of predicted TMRs: 0
+BPGRVI_7980	signal	1	35				
+BPGRVI_7980	outside	36	37				
+//
+# BPGRVI_99747 Length: 41
+# BPGRVI_99747 Number of predicted TMRs: 0
+BPGRVI_99747	inside	1	41				
+//
+# BPGRVI_39134 Length: 44
+# BPGRVI_39134 Number of predicted TMRs: 1
+BPGRVI_39134	inside	1	15				
+BPGRVI_39134	TMhelix	16	36				
+BPGRVI_39134	outside	37	44				
+//
+# BPGRVI_170378 Length: 45
+# BPGRVI_170378 Number of predicted TMRs: 0
+BPGRVI_170378	inside	1	45				
+//
+# BPGRVI_29895 Length: 38
+# BPGRVI_29895 Number of predicted TMRs: 0
+BPGRVI_29895	inside	1	38				
+//
+# BPGRVI_140239 Length: 37
+# BPGRVI_140239 Number of predicted TMRs: 0
+BPGRVI_140239	signal	1	29				
+BPGRVI_140239	outside	30	37				
+//
+# BPGRVI_100022 Length: 48
+# BPGRVI_100022 Number of predicted TMRs: 0
+BPGRVI_100022	inside	1	48				
+//
+# BPGRVI_108382 Length: 46
+# BPGRVI_108382 Number of predicted TMRs: 0
+BPGRVI_108382	inside	1	46				
+//
+# BPGRVI_168904 Length: 50
+# BPGRVI_168904 Number of predicted TMRs: 0
+BPGRVI_168904	inside	1	50				
+//
+# BPGRVI_6416 Length: 50
+# BPGRVI_6416 Number of predicted TMRs: 0
+BPGRVI_6416	inside	1	50				
+//
+# BPGRVI_24341 Length: 37
+# BPGRVI_24341 Number of predicted TMRs: 0
+BPGRVI_24341	inside	1	37				
+//
+# BPGRVI_126068 Length: 50
+# BPGRVI_126068 Number of predicted TMRs: 0
+BPGRVI_126068	signal	1	35				
+BPGRVI_126068	outside	36	50				
+//
+# BPGRVI_103738 Length: 47
+# BPGRVI_103738 Number of predicted TMRs: 0
+BPGRVI_103738	signal	1	45				
+BPGRVI_103738	outside	46	47				
+//
+# BPGRVI_145542 Length: 50
+# BPGRVI_145542 Number of predicted TMRs: 0
+BPGRVI_145542	inside	1	50				
+//
+# BPGRVI_122168 Length: 42
+# BPGRVI_122168 Number of predicted TMRs: 0
+BPGRVI_122168	signal	1	24				
+BPGRVI_122168	outside	25	42				
+//
+# BPGRVI_61211 Length: 50
+# BPGRVI_61211 Number of predicted TMRs: 0
+BPGRVI_61211	inside	1	50				
+//
+# BPGRVI_135971 Length: 47
+# BPGRVI_135971 Number of predicted TMRs: 0
+BPGRVI_135971	outside	1	47				
+//
+# BPGRVI_157895 Length: 37
+# BPGRVI_157895 Number of predicted TMRs: 0
+BPGRVI_157895	inside	1	37				
+//
+# BPGRVI_72154 Length: 49
+# BPGRVI_72154 Number of predicted TMRs: 0
+BPGRVI_72154	inside	1	49				
+//
+# BPGRVI_94840 Length: 43
+# BPGRVI_94840 Number of predicted TMRs: 0
+BPGRVI_94840	signal	1	41				
+BPGRVI_94840	outside	42	43				
+//
+# BPGRVI_19066 Length: 42
+# BPGRVI_19066 Number of predicted TMRs: 0
+BPGRVI_19066	inside	1	42				
+//
+# BPGRVI_93587 Length: 47
+# BPGRVI_93587 Number of predicted TMRs: 0
+BPGRVI_93587	signal	1	46				
+BPGRVI_93587	outside	47	47				
+//
+# BPGRVI_158224 Length: 44
+# BPGRVI_158224 Number of predicted TMRs: 1
+BPGRVI_158224	outside	1	8				
+BPGRVI_158224	TMhelix	9	29				
+BPGRVI_158224	inside	30	44				
+//
+# BPGRVI_124399 Length: 47
+# BPGRVI_124399 Number of predicted TMRs: 0
+BPGRVI_124399	inside	1	47				
+//
+# BPGRVI_61808 Length: 49
+# BPGRVI_61808 Number of predicted TMRs: 0
+BPGRVI_61808	signal	1	45				
+BPGRVI_61808	outside	46	49				
+//
+# BPGRVI_12628 Length: 40
+# BPGRVI_12628 Number of predicted TMRs: 0
+BPGRVI_12628	inside	1	40				
+//
+# BPGRVI_17657 Length: 48
+# BPGRVI_17657 Number of predicted TMRs: 0
+BPGRVI_17657	signal	1	45				
+BPGRVI_17657	outside	46	48				
+//
+# BPGRVI_79914 Length: 46
+# BPGRVI_79914 Number of predicted TMRs: 0
+BPGRVI_79914	inside	1	46				
+//
+# BPGRVI_88564 Length: 47
+# BPGRVI_88564 Number of predicted TMRs: 0
+BPGRVI_88564	inside	1	47				
+//
+# BPGRVI_21619 Length: 36
+# BPGRVI_21619 Number of predicted TMRs: 0
+BPGRVI_21619	inside	1	36				
+//
+# BPGRVI_163442 Length: 42
+# BPGRVI_163442 Number of predicted TMRs: 0
+BPGRVI_163442	inside	1	42				
+//
+# BPGRVI_161728 Length: 48
+# BPGRVI_161728 Number of predicted TMRs: 0
+BPGRVI_161728	inside	1	48				
+//
+# BPGRVI_120459 Length: 37
+# BPGRVI_120459 Number of predicted TMRs: 0
+BPGRVI_120459	signal	1	25				
+BPGRVI_120459	outside	26	37				
+//
+# BPGRVI_131416 Length: 44
+# BPGRVI_131416 Number of predicted TMRs: 0
+BPGRVI_131416	signal	1	10				
+BPGRVI_131416	outside	11	44				
+//
+# BPGRVI_169028 Length: 49
+# BPGRVI_169028 Number of predicted TMRs: 0
+BPGRVI_169028	inside	1	49				
+//
+# BPGRVI_169543 Length: 50
+# BPGRVI_169543 Number of predicted TMRs: 0
+BPGRVI_169543	inside	1	50				
+//
+# BPGRVI_66760 Length: 50
+# BPGRVI_66760 Number of predicted TMRs: 0
+BPGRVI_66760	inside	1	50				
+//
+# BPGRVI_169707 Length: 50
+# BPGRVI_169707 Number of predicted TMRs: 0
+BPGRVI_169707	inside	1	50				
+//
+# BPGRVI_149282 Length: 50
+# BPGRVI_149282 Number of predicted TMRs: 0
+BPGRVI_149282	inside	1	50				
+//
+# BPGRVI_38954 Length: 32
+# BPGRVI_38954 Number of predicted TMRs: 0
+BPGRVI_38954	signal	1	31				
+BPGRVI_38954	outside	32	32				
+//
+# BPGRVI_134122 Length: 48
+# BPGRVI_134122 Number of predicted TMRs: 0
+BPGRVI_134122	inside	1	48				
+//
+# BPGRVI_171824 Length: 50
+# BPGRVI_171824 Number of predicted TMRs: 0
+BPGRVI_171824	inside	1	50				
+//
+# BPGRVI_173475 Length: 49
+# BPGRVI_173475 Number of predicted TMRs: 0
+BPGRVI_173475	inside	1	49				
+//
+# BPGRVI_173685 Length: 50
+# BPGRVI_173685 Number of predicted TMRs: 0
+BPGRVI_173685	inside	1	50				
+//
+# BPGRVI_169514 Length: 50
+# BPGRVI_169514 Number of predicted TMRs: 0
+BPGRVI_169514	inside	1	50				
+//
+# BPGRVI_144254 Length: 48
+# BPGRVI_144254 Number of predicted TMRs: 0
+BPGRVI_144254	inside	1	48				
+//
+# BPGRVI_44440 Length: 43
+# BPGRVI_44440 Number of predicted TMRs: 0
+BPGRVI_44440	signal	1	12				
+BPGRVI_44440	outside	13	43				
+//
+# BPGRVI_145590 Length: 47
+# BPGRVI_145590 Number of predicted TMRs: 0
+BPGRVI_145590	signal	1	10				
+BPGRVI_145590	outside	11	47				
+//
+# BPGRVI_172397 Length: 50
+# BPGRVI_172397 Number of predicted TMRs: 0
+BPGRVI_172397	inside	1	50				
+//
+# BPGRVI_114794 Length: 43
+# BPGRVI_114794 Number of predicted TMRs: 0
+BPGRVI_114794	signal	1	28				
+BPGRVI_114794	outside	29	43				
+//
+# BPGRVI_69756 Length: 49
+# BPGRVI_69756 Number of predicted TMRs: 0
+BPGRVI_69756	signal	1	10				
+BPGRVI_69756	outside	11	49				
+//
+# BPGRVI_60178 Length: 47
+# BPGRVI_60178 Number of predicted TMRs: 0
+BPGRVI_60178	inside	1	47				
+//
+# BPGRVI_123755 Length: 49
+# BPGRVI_123755 Number of predicted TMRs: 0
+BPGRVI_123755	inside	1	49				
+//
+# BPGRVI_62776 Length: 48
+# BPGRVI_62776 Number of predicted TMRs: 0
+BPGRVI_62776	signal	1	38				
+BPGRVI_62776	outside	39	48				
+//
+# BPGRVI_8913 Length: 48
+# BPGRVI_8913 Number of predicted TMRs: 0
+BPGRVI_8913	inside	1	48				
+//
+# BPGRVI_138289 Length: 36
+# BPGRVI_138289 Number of predicted TMRs: 0
+BPGRVI_138289	inside	1	36				
+//
+# BPGRVI_94150 Length: 46
+# BPGRVI_94150 Number of predicted TMRs: 0
+BPGRVI_94150	inside	1	46				
+//
+# BPGRVI_134534 Length: 48
+# BPGRVI_134534 Number of predicted TMRs: 0
+BPGRVI_134534	inside	1	48				
+//
+# BPGRVI_132831 Length: 50
+# BPGRVI_132831 Number of predicted TMRs: 0
+BPGRVI_132831	inside	1	50				
+//
+# BPGRVI_1672 Length: 45
+# BPGRVI_1672 Number of predicted TMRs: 0
+BPGRVI_1672	signal	1	39				
+BPGRVI_1672	outside	40	45				
+//
+# BPGRVI_166412 Length: 50
+# BPGRVI_166412 Number of predicted TMRs: 0
+BPGRVI_166412	inside	1	50				
+//
+# BPGRVI_171576 Length: 50
+# BPGRVI_171576 Number of predicted TMRs: 0
+BPGRVI_171576	inside	1	50				
+//
+# BPGRVI_124293 Length: 48
+# BPGRVI_124293 Number of predicted TMRs: 0
+BPGRVI_124293	inside	1	48				
+//
+# BPGRVI_82995 Length: 50
+# BPGRVI_82995 Number of predicted TMRs: 0
+BPGRVI_82995	inside	1	50				
+//
+# BPGRVI_11619 Length: 39
+# BPGRVI_11619 Number of predicted TMRs: 0
+BPGRVI_11619	signal	1	38				
+BPGRVI_11619	outside	39	39				
+//
+# BPGRVI_164109 Length: 47
+# BPGRVI_164109 Number of predicted TMRs: 0
+BPGRVI_164109	inside	1	47				
+//
+# BPGRVI_47864 Length: 50
+# BPGRVI_47864 Number of predicted TMRs: 0
+BPGRVI_47864	inside	1	50				
+//
+# BPGRVI_139119 Length: 43
+# BPGRVI_139119 Number of predicted TMRs: 0
+BPGRVI_139119	outside	1	43				
+//
+# BPGRVI_35190 Length: 50
+# BPGRVI_35190 Number of predicted TMRs: 0
+BPGRVI_35190	inside	1	50				
+//
+# BPGRVI_95803 Length: 41
+# BPGRVI_95803 Number of predicted TMRs: 0
+BPGRVI_95803	signal	1	40				
+BPGRVI_95803	outside	41	41				
+//
+# BPGRVI_27607 Length: 40
+# BPGRVI_27607 Number of predicted TMRs: 0
+BPGRVI_27607	inside	1	40				
+//
+# BPGRVI_149205 Length: 41
+# BPGRVI_149205 Number of predicted TMRs: 0
+BPGRVI_149205	signal	1	29				
+BPGRVI_149205	outside	30	41				
+//
+# BPGRVI_168404 Length: 46
+# BPGRVI_168404 Number of predicted TMRs: 0
+BPGRVI_168404	signal	1	35				
+BPGRVI_168404	outside	36	46				
+//
+# BPGRVI_11744 Length: 50
+# BPGRVI_11744 Number of predicted TMRs: 0
+BPGRVI_11744	inside	1	50				
+//
+# BPGRVI_98648 Length: 44
+# BPGRVI_98648 Number of predicted TMRs: 0
+BPGRVI_98648	inside	1	44				
+//
+# BPGRVI_75796 Length: 44
+# BPGRVI_75796 Number of predicted TMRs: 0
+BPGRVI_75796	inside	1	44				
+//
+# BPGRVI_34337 Length: 42
+# BPGRVI_34337 Number of predicted TMRs: 0
+BPGRVI_34337	inside	1	42				
+//
+# BPGRVI_4489 Length: 41
+# BPGRVI_4489 Number of predicted TMRs: 0
+BPGRVI_4489	inside	1	41				
+//
+# BPGRVI_102107 Length: 48
+# BPGRVI_102107 Number of predicted TMRs: 0
+BPGRVI_102107	inside	1	48				
+//
+# BPGRVI_22972 Length: 46
+# BPGRVI_22972 Number of predicted TMRs: 0
+BPGRVI_22972	inside	1	46				
+//
+# BPGRVI_69744 Length: 39
+# BPGRVI_69744 Number of predicted TMRs: 0
+BPGRVI_69744	inside	1	39				
+//
+# BPGRVI_40425 Length: 48
+# BPGRVI_40425 Number of predicted TMRs: 0
+BPGRVI_40425	inside	1	48				
+//
+# BPGRVI_142725 Length: 43
+# BPGRVI_142725 Number of predicted TMRs: 0
+BPGRVI_142725	signal	1	22				
+BPGRVI_142725	outside	23	43				
+//
+# BPGRVI_16865 Length: 50
+# BPGRVI_16865 Number of predicted TMRs: 0
+BPGRVI_16865	inside	1	50				
+//
+# BPGRVI_147037 Length: 45
+# BPGRVI_147037 Number of predicted TMRs: 0
+BPGRVI_147037	inside	1	45				
+//
+# BPGRVI_127211 Length: 35
+# BPGRVI_127211 Number of predicted TMRs: 0
+BPGRVI_127211	signal	1	32				
+BPGRVI_127211	outside	33	35				
+//
+# BPGRVI_80168 Length: 47
+# BPGRVI_80168 Number of predicted TMRs: 0
+BPGRVI_80168	inside	1	47				
+//
+# BPGRVI_31200 Length: 43
+# BPGRVI_31200 Number of predicted TMRs: 0
+BPGRVI_31200	outside	1	43				
+//
+# BPGRVI_98724 Length: 49
+# BPGRVI_98724 Number of predicted TMRs: 0
+BPGRVI_98724	signal	1	10				
+BPGRVI_98724	outside	11	49				
+//
+# BPGRVI_166435 Length: 47
+# BPGRVI_166435 Number of predicted TMRs: 0
+BPGRVI_166435	signal	1	45				
+BPGRVI_166435	outside	46	47				
+//
+# BPGRVI_8884 Length: 44
+# BPGRVI_8884 Number of predicted TMRs: 0
+BPGRVI_8884	inside	1	44				
+//
+# BPGRVI_100415 Length: 46
+# BPGRVI_100415 Number of predicted TMRs: 0
+BPGRVI_100415	inside	1	46				
+//
+# BPGRVI_17370 Length: 48
+# BPGRVI_17370 Number of predicted TMRs: 0
+BPGRVI_17370	inside	1	48				
+//
+# BPGRVI_94806 Length: 50
+# BPGRVI_94806 Number of predicted TMRs: 0
+BPGRVI_94806	inside	1	50				
+//
+# BPGRVI_113785 Length: 36
+# BPGRVI_113785 Number of predicted TMRs: 0
+BPGRVI_113785	signal	1	28				
+BPGRVI_113785	outside	29	36				
+//
+# BPGRVI_83205 Length: 50
+# BPGRVI_83205 Number of predicted TMRs: 0
+BPGRVI_83205	inside	1	50				
+//
+# BPGRVI_21083 Length: 43
+# BPGRVI_21083 Number of predicted TMRs: 0
+BPGRVI_21083	signal	1	11				
+BPGRVI_21083	outside	12	43				
+//
+# BPGRVI_127241 Length: 35
+# BPGRVI_127241 Number of predicted TMRs: 0
+BPGRVI_127241	signal	1	34				
+BPGRVI_127241	outside	35	35				
+//
+# BPGRVI_82963 Length: 49
+# BPGRVI_82963 Number of predicted TMRs: 0
+BPGRVI_82963	inside	1	49				
+//
+# BPGRVI_57076 Length: 45
+# BPGRVI_57076 Number of predicted TMRs: 0
+BPGRVI_57076	signal	1	44				
+BPGRVI_57076	outside	45	45				
+//
+# BPGRVI_38161 Length: 33
+# BPGRVI_38161 Number of predicted TMRs: 0
+BPGRVI_38161	inside	1	33				
+//
+# BPGRVI_95806 Length: 50
+# BPGRVI_95806 Number of predicted TMRs: 0
+BPGRVI_95806	inside	1	50				
+//
+# BPGRVI_147234 Length: 47
+# BPGRVI_147234 Number of predicted TMRs: 0
+BPGRVI_147234	signal	1	10				
+BPGRVI_147234	outside	11	47				
+//
+# BPGRVI_132547 Length: 46
+# BPGRVI_132547 Number of predicted TMRs: 0
+BPGRVI_132547	signal	1	44				
+BPGRVI_132547	outside	45	46				
+//
+# BPGRVI_126098 Length: 48
+# BPGRVI_126098 Number of predicted TMRs: 0
+BPGRVI_126098	inside	1	48				
+//
+# BPGRVI_152534 Length: 42
+# BPGRVI_152534 Number of predicted TMRs: 0
+BPGRVI_152534	inside	1	42				
+//
+# BPGRVI_149116 Length: 47
+# BPGRVI_149116 Number of predicted TMRs: 0
+BPGRVI_149116	inside	1	47				
+//
+# BPGRVI_86856 Length: 45
+# BPGRVI_86856 Number of predicted TMRs: 0
+BPGRVI_86856	signal	1	40				
+BPGRVI_86856	outside	41	45				
+//
+# BPGRVI_26615 Length: 40
+# BPGRVI_26615 Number of predicted TMRs: 0
+BPGRVI_26615	inside	1	40				
+//
+# BPGRVI_18368 Length: 37
+# BPGRVI_18368 Number of predicted TMRs: 0
+BPGRVI_18368	signal	1	24				
+BPGRVI_18368	outside	25	37				
+//
+# BPGRVI_26994 Length: 42
+# BPGRVI_26994 Number of predicted TMRs: 0
+BPGRVI_26994	signal	1	10				
+BPGRVI_26994	outside	11	42				
+//
+# BPGRVI_151256 Length: 48
+# BPGRVI_151256 Number of predicted TMRs: 0
+BPGRVI_151256	inside	1	48				
+//
+# BPGRVI_96064 Length: 50
+# BPGRVI_96064 Number of predicted TMRs: 0
+BPGRVI_96064	inside	1	50				
+//
+# BPGRVI_19253 Length: 48
+# BPGRVI_19253 Number of predicted TMRs: 0
+BPGRVI_19253	signal	1	38				
+BPGRVI_19253	outside	39	48				
+//
+# BPGRVI_49514 Length: 40
+# BPGRVI_49514 Number of predicted TMRs: 0
+BPGRVI_49514	signal	1	18				
+BPGRVI_49514	outside	19	40				
+//
+# BPGRVI_21920 Length: 35
+# BPGRVI_21920 Number of predicted TMRs: 0
+BPGRVI_21920	inside	1	35				
+//
+# BPGRVI_138506 Length: 48
+# BPGRVI_138506 Number of predicted TMRs: 0
+BPGRVI_138506	inside	1	48				
+//
+# BPGRVI_94491 Length: 46
+# BPGRVI_94491 Number of predicted TMRs: 0
+BPGRVI_94491	signal	1	45				
+BPGRVI_94491	outside	46	46				
+//
+# BPGRVI_137031 Length: 41
+# BPGRVI_137031 Number of predicted TMRs: 0
+BPGRVI_137031	signal	1	10				
+BPGRVI_137031	outside	11	41				
+//
+# BPGRVI_52606 Length: 43
+# BPGRVI_52606 Number of predicted TMRs: 0
+BPGRVI_52606	inside	1	43				
+//
+# BPGRVI_75270 Length: 38
+# BPGRVI_75270 Number of predicted TMRs: 0
+BPGRVI_75270	inside	1	38				
+//
+# BPGRVI_87519 Length: 42
+# BPGRVI_87519 Number of predicted TMRs: 0
+BPGRVI_87519	signal	1	12				
+BPGRVI_87519	outside	13	42				
+//
+# BPGRVI_94648 Length: 50
+# BPGRVI_94648 Number of predicted TMRs: 0
+BPGRVI_94648	inside	1	50				
+//
+# BPGRVI_86253 Length: 47
+# BPGRVI_86253 Number of predicted TMRs: 0
+BPGRVI_86253	signal	1	40				
+BPGRVI_86253	outside	41	47				
+//
+# BPGRVI_102458 Length: 50
+# BPGRVI_102458 Number of predicted TMRs: 0
+BPGRVI_102458	signal	1	21				
+BPGRVI_102458	outside	22	50				
+//
+# BPGRVI_78728 Length: 45
+# BPGRVI_78728 Number of predicted TMRs: 0
+BPGRVI_78728	inside	1	45				
+//
+# BPGRVI_11857 Length: 49
+# BPGRVI_11857 Number of predicted TMRs: 0
+BPGRVI_11857	outside	1	49				
+//
+# BPGRVI_83397 Length: 42
+# BPGRVI_83397 Number of predicted TMRs: 0
+BPGRVI_83397	inside	1	42				
+//
+# BPGRVI_139180 Length: 34
+# BPGRVI_139180 Number of predicted TMRs: 0
+BPGRVI_139180	inside	1	34				
+//
+# BPGRVI_149804 Length: 45
+# BPGRVI_149804 Number of predicted TMRs: 0
+BPGRVI_149804	outside	1	45				
+//
+# BPGRVI_11025 Length: 43
+# BPGRVI_11025 Number of predicted TMRs: 0
+BPGRVI_11025	signal	1	19				
+BPGRVI_11025	outside	20	43				
+//
+# BPGRVI_76098 Length: 50
+# BPGRVI_76098 Number of predicted TMRs: 0
+BPGRVI_76098	inside	1	50				
+//
+# BPGRVI_67414 Length: 48
+# BPGRVI_67414 Number of predicted TMRs: 0
+BPGRVI_67414	inside	1	48				
+//
+# BPGRVI_42795 Length: 46
+# BPGRVI_42795 Number of predicted TMRs: 0
+BPGRVI_42795	inside	1	46				
+//
+# BPGRVI_163639 Length: 50
+# BPGRVI_163639 Number of predicted TMRs: 0
+BPGRVI_163639	inside	1	50				
+//
+# BPGRVI_165172 Length: 40
+# BPGRVI_165172 Number of predicted TMRs: 0
+BPGRVI_165172	inside	1	40				
+//
+# BPGRVI_4761 Length: 43
+# BPGRVI_4761 Number of predicted TMRs: 0
+BPGRVI_4761	inside	1	43				
+//
+# BPGRVI_170285 Length: 49
+# BPGRVI_170285 Number of predicted TMRs: 0
+BPGRVI_170285	signal	1	29				
+BPGRVI_170285	outside	30	49				
+//
+# BPGRVI_166478 Length: 37
+# BPGRVI_166478 Number of predicted TMRs: 0
+BPGRVI_166478	signal	1	35				
+BPGRVI_166478	outside	36	37				
+//
+# BPGRVI_16291 Length: 50
+# BPGRVI_16291 Number of predicted TMRs: 0
+BPGRVI_16291	inside	1	50				
+//
+# BPGRVI_90377 Length: 40
+# BPGRVI_90377 Number of predicted TMRs: 0
+BPGRVI_90377	inside	1	40				
+//
+# BPGRVI_137941 Length: 47
+# BPGRVI_137941 Number of predicted TMRs: 0
+BPGRVI_137941	inside	1	47				
+//
+# BPGRVI_128682 Length: 46
+# BPGRVI_128682 Number of predicted TMRs: 0
+BPGRVI_128682	inside	1	46				
+//
+# BPGRVI_125367 Length: 49
+# BPGRVI_125367 Number of predicted TMRs: 0
+BPGRVI_125367	inside	1	49				
+//
+# BPGRVI_118812 Length: 50
+# BPGRVI_118812 Number of predicted TMRs: 0
+BPGRVI_118812	inside	1	50				
+//
+# BPGRVI_45136 Length: 45
+# BPGRVI_45136 Number of predicted TMRs: 0
+BPGRVI_45136	inside	1	45				
+//
+# BPGRVI_57846 Length: 50
+# BPGRVI_57846 Number of predicted TMRs: 0
+BPGRVI_57846	inside	1	50				
+//
+# BPGRVI_57821 Length: 46
+# BPGRVI_57821 Number of predicted TMRs: 0
+BPGRVI_57821	inside	1	46				
+//
+# BPGRVI_14058 Length: 46
+# BPGRVI_14058 Number of predicted TMRs: 0
+BPGRVI_14058	inside	1	46				
+//
+# BPGRVI_116103 Length: 44
+# BPGRVI_116103 Number of predicted TMRs: 0
+BPGRVI_116103	inside	1	44				
+//
+# BPGRVI_29593 Length: 42
+# BPGRVI_29593 Number of predicted TMRs: 0
+BPGRVI_29593	inside	1	42				
+//
+# BPGRVI_38838 Length: 49
+# BPGRVI_38838 Number of predicted TMRs: 0
+BPGRVI_38838	inside	1	49				
+//
+# BPGRVI_118141 Length: 44
+# BPGRVI_118141 Number of predicted TMRs: 0
+BPGRVI_118141	inside	1	44				
+//
+# BPGRVI_99048 Length: 36
+# BPGRVI_99048 Number of predicted TMRs: 0
+BPGRVI_99048	inside	1	36				
+//
+# BPGRVI_97798 Length: 37
+# BPGRVI_97798 Number of predicted TMRs: 0
+BPGRVI_97798	inside	1	37				
+//
+# BPGRVI_114789 Length: 40
+# BPGRVI_114789 Number of predicted TMRs: 0
+BPGRVI_114789	signal	1	39				
+BPGRVI_114789	outside	40	40				
+//
+# BPGRVI_34586 Length: 47
+# BPGRVI_34586 Number of predicted TMRs: 0
+BPGRVI_34586	inside	1	47				
+//
+# BPGRVI_151547 Length: 41
+# BPGRVI_151547 Number of predicted TMRs: 0
+BPGRVI_151547	inside	1	41				
+//
+# BPGRVI_90136 Length: 35
+# BPGRVI_90136 Number of predicted TMRs: 0
+BPGRVI_90136	inside	1	35				
+//
+# BPGRVI_57670 Length: 43
+# BPGRVI_57670 Number of predicted TMRs: 0
+BPGRVI_57670	inside	1	43				
+//
+# BPGRVI_85259 Length: 44
+# BPGRVI_85259 Number of predicted TMRs: 0
+BPGRVI_85259	inside	1	44				
+//
+# BPGRVI_115149 Length: 50
+# BPGRVI_115149 Number of predicted TMRs: 0
+BPGRVI_115149	inside	1	50				
+//
+# BPGRVI_79896 Length: 48
+# BPGRVI_79896 Number of predicted TMRs: 0
+BPGRVI_79896	inside	1	48				
+//
+# BPGRVI_149904 Length: 47
+# BPGRVI_149904 Number of predicted TMRs: 0
+BPGRVI_149904	inside	1	47				
+//
+# BPGRVI_153052 Length: 46
+# BPGRVI_153052 Number of predicted TMRs: 0
+BPGRVI_153052	inside	1	46				
+//
+# BPGRVI_49082 Length: 48
+# BPGRVI_49082 Number of predicted TMRs: 0
+BPGRVI_49082	inside	1	48				
+//
+# BPGRVI_6790 Length: 47
+# BPGRVI_6790 Number of predicted TMRs: 0
+BPGRVI_6790	inside	1	47				
+//
+# BPGRVI_154775 Length: 50
+# BPGRVI_154775 Number of predicted TMRs: 0
+BPGRVI_154775	inside	1	50				
+//
+# BPGRVI_87029 Length: 42
+# BPGRVI_87029 Number of predicted TMRs: 0
+BPGRVI_87029	inside	1	42				
+//
+# BPGRVI_50941 Length: 35
+# BPGRVI_50941 Number of predicted TMRs: 0
+BPGRVI_50941	signal	1	17				
+BPGRVI_50941	outside	18	35				
+//
+# BPGRVI_16945 Length: 50
+# BPGRVI_16945 Number of predicted TMRs: 0
+BPGRVI_16945	inside	1	50				
+//
+# BPGRVI_57426 Length: 46
+# BPGRVI_57426 Number of predicted TMRs: 0
+BPGRVI_57426	signal	1	38				
+BPGRVI_57426	outside	39	46				
+//
+# BPGRVI_153730 Length: 49
+# BPGRVI_153730 Number of predicted TMRs: 0
+BPGRVI_153730	inside	1	49				
+//
+# BPGRVI_43316 Length: 39
+# BPGRVI_43316 Number of predicted TMRs: 0
+BPGRVI_43316	inside	1	39				
+//
+# BPGRVI_62872 Length: 50
+# BPGRVI_62872 Number of predicted TMRs: 0
+BPGRVI_62872	inside	1	50				
+//
+# BPGRVI_112585 Length: 50
+# BPGRVI_112585 Number of predicted TMRs: 0
+BPGRVI_112585	inside	1	50				
+//
+# BPGRVI_74079 Length: 50
+# BPGRVI_74079 Number of predicted TMRs: 0
+BPGRVI_74079	signal	1	47				
+BPGRVI_74079	outside	48	50				
+//
+# BPGRVI_101755 Length: 48
+# BPGRVI_101755 Number of predicted TMRs: 0
+BPGRVI_101755	signal	1	44				
+BPGRVI_101755	outside	45	48				
+//
+# BPGRVI_7647 Length: 48
+# BPGRVI_7647 Number of predicted TMRs: 0
+BPGRVI_7647	signal	1	46				
+BPGRVI_7647	outside	47	48				
+//
+# BPGRVI_131155 Length: 31
+# BPGRVI_131155 Number of predicted TMRs: 0
+BPGRVI_131155	inside	1	31				
+//
+# BPGRVI_133022 Length: 49
+# BPGRVI_133022 Number of predicted TMRs: 0
+BPGRVI_133022	inside	1	49				
+//
+# BPGRVI_84924 Length: 42
+# BPGRVI_84924 Number of predicted TMRs: 0
+BPGRVI_84924	signal	1	38				
+BPGRVI_84924	outside	39	42				
+//
+# BPGRVI_84928 Length: 50
+# BPGRVI_84928 Number of predicted TMRs: 0
+BPGRVI_84928	signal	1	12				
+BPGRVI_84928	outside	13	50				
+//
+# BPGRVI_165125 Length: 41
+# BPGRVI_165125 Number of predicted TMRs: 0
+BPGRVI_165125	inside	1	41				
+//
+# BPGRVI_132208 Length: 49
+# BPGRVI_132208 Number of predicted TMRs: 0
+BPGRVI_132208	inside	1	49				
+//
+# BPGRVI_105651 Length: 47
+# BPGRVI_105651 Number of predicted TMRs: 0
+BPGRVI_105651	inside	1	47				
+//
+# BPGRVI_84559 Length: 43
+# BPGRVI_84559 Number of predicted TMRs: 0
+BPGRVI_84559	inside	1	43				
+//
+# BPGRVI_47533 Length: 48
+# BPGRVI_47533 Number of predicted TMRs: 0
+BPGRVI_47533	inside	1	48				
+//
+# BPGRVI_27174 Length: 47
+# BPGRVI_27174 Number of predicted TMRs: 0
+BPGRVI_27174	signal	1	41				
+BPGRVI_27174	outside	42	47				
+//
+# BPGRVI_107094 Length: 48
+# BPGRVI_107094 Number of predicted TMRs: 0
+BPGRVI_107094	inside	1	48				
+//
+# BPGRVI_18416 Length: 50
+# BPGRVI_18416 Number of predicted TMRs: 0
+BPGRVI_18416	outside	1	50				
+//
+# BPGRVI_44923 Length: 33
+# BPGRVI_44923 Number of predicted TMRs: 0
+BPGRVI_44923	inside	1	33				
+//
+# BPGRVI_108413 Length: 47
+# BPGRVI_108413 Number of predicted TMRs: 0
+BPGRVI_108413	signal	1	17				
+BPGRVI_108413	outside	18	47				
+//
+# BPGRVI_124700 Length: 50
+# BPGRVI_124700 Number of predicted TMRs: 0
+BPGRVI_124700	inside	1	50				
+//
+# BPGRVI_60515 Length: 33
+# BPGRVI_60515 Number of predicted TMRs: 0
+BPGRVI_60515	signal	1	25				
+BPGRVI_60515	outside	26	33				
+//
+# BPGRVI_132443 Length: 33
+# BPGRVI_132443 Number of predicted TMRs: 0
+BPGRVI_132443	inside	1	33				
+//
+# BPGRVI_34476 Length: 45
+# BPGRVI_34476 Number of predicted TMRs: 0
+BPGRVI_34476	inside	1	45				
+//
+# BPGRVI_66124 Length: 33
+# BPGRVI_66124 Number of predicted TMRs: 0
+BPGRVI_66124	signal	1	14				
+BPGRVI_66124	outside	15	33				
+//
+# BPGRVI_172406 Length: 39
+# BPGRVI_172406 Number of predicted TMRs: 0
+BPGRVI_172406	signal	1	38				
+BPGRVI_172406	outside	39	39				
+//
+# BPGRVI_38468 Length: 48
+# BPGRVI_38468 Number of predicted TMRs: 0
+BPGRVI_38468	signal	1	40				
+BPGRVI_38468	outside	41	48				
+//
+# BPGRVI_70893 Length: 48
+# BPGRVI_70893 Number of predicted TMRs: 0
+BPGRVI_70893	inside	1	48				
+//
+# BPGRVI_129045 Length: 45
+# BPGRVI_129045 Number of predicted TMRs: 0
+BPGRVI_129045	inside	1	45				
+//
+# BPGRVI_102652 Length: 49
+# BPGRVI_102652 Number of predicted TMRs: 0
+BPGRVI_102652	inside	1	49				
+//
+# BPGRVI_26993 Length: 48
+# BPGRVI_26993 Number of predicted TMRs: 0
+BPGRVI_26993	inside	1	48				
+//
+# BPGRVI_126463 Length: 49
+# BPGRVI_126463 Number of predicted TMRs: 0
+BPGRVI_126463	inside	1	49				
+//
+# BPGRVI_164905 Length: 40
+# BPGRVI_164905 Number of predicted TMRs: 0
+BPGRVI_164905	inside	1	40				
+//
+# BPGRVI_93341 Length: 48
+# BPGRVI_93341 Number of predicted TMRs: 0
+BPGRVI_93341	inside	1	48				
+//
+# BPGRVI_72429 Length: 49
+# BPGRVI_72429 Number of predicted TMRs: 0
+BPGRVI_72429	inside	1	49				
+//
+# BPGRVI_133080 Length: 45
+# BPGRVI_133080 Number of predicted TMRs: 0
+BPGRVI_133080	signal	1	16				
+BPGRVI_133080	outside	17	45				
+//
+# BPGRVI_102567 Length: 48
+# BPGRVI_102567 Number of predicted TMRs: 0
+BPGRVI_102567	inside	1	48				
+//
+# BPGRVI_75153 Length: 45
+# BPGRVI_75153 Number of predicted TMRs: 0
+BPGRVI_75153	inside	1	45				
+//
+# BPGRVI_40670 Length: 34
+# BPGRVI_40670 Number of predicted TMRs: 0
+BPGRVI_40670	signal	1	30				
+BPGRVI_40670	outside	31	34				
+//
+# BPGRVI_149614 Length: 47
+# BPGRVI_149614 Number of predicted TMRs: 0
+BPGRVI_149614	inside	1	47				
+//
+# BPGRVI_9175 Length: 46
+# BPGRVI_9175 Number of predicted TMRs: 0
+BPGRVI_9175	inside	1	46				
+//
+# BPGRVI_19367 Length: 46
+# BPGRVI_19367 Number of predicted TMRs: 0
+BPGRVI_19367	inside	1	46				
+//
+# BPGRVI_19135 Length: 46
+# BPGRVI_19135 Number of predicted TMRs: 0
+BPGRVI_19135	inside	1	46				
+//
+# BPGRVI_3454 Length: 42
+# BPGRVI_3454 Number of predicted TMRs: 0
+BPGRVI_3454	signal	1	41				
+BPGRVI_3454	outside	42	42				
+//
+# BPGRVI_136207 Length: 46
+# BPGRVI_136207 Number of predicted TMRs: 0
+BPGRVI_136207	inside	1	46				
+//
+# BPGRVI_74042 Length: 41
+# BPGRVI_74042 Number of predicted TMRs: 0
+BPGRVI_74042	inside	1	41				
+//
+# BPGRVI_2485 Length: 47
+# BPGRVI_2485 Number of predicted TMRs: 0
+BPGRVI_2485	inside	1	47				
+//
+# BPGRVI_80435 Length: 39
+# BPGRVI_80435 Number of predicted TMRs: 0
+BPGRVI_80435	inside	1	39				
+//
+# BPGRVI_95293 Length: 43
+# BPGRVI_95293 Number of predicted TMRs: 0
+BPGRVI_95293	signal	1	19				
+BPGRVI_95293	outside	20	43				
+//
+# BPGRVI_13271 Length: 46
+# BPGRVI_13271 Number of predicted TMRs: 0
+BPGRVI_13271	inside	1	46				
+//
+# BPGRVI_96000 Length: 38
+# BPGRVI_96000 Number of predicted TMRs: 0
+BPGRVI_96000	signal	1	25				
+BPGRVI_96000	outside	26	38				
+//
+# BPGRVI_101336 Length: 48
+# BPGRVI_101336 Number of predicted TMRs: 0
+BPGRVI_101336	outside	1	48				
+//
+# BPGRVI_114576 Length: 43
+# BPGRVI_114576 Number of predicted TMRs: 0
+BPGRVI_114576	signal	1	42				
+BPGRVI_114576	outside	43	43				
+//
+# BPGRVI_36652 Length: 43
+# BPGRVI_36652 Number of predicted TMRs: 0
+BPGRVI_36652	inside	1	43				
+//
+# BPGRVI_19089 Length: 49
+# BPGRVI_19089 Number of predicted TMRs: 0
+BPGRVI_19089	inside	1	49				
+//
+# BPGRVI_90480 Length: 50
+# BPGRVI_90480 Number of predicted TMRs: 0
+BPGRVI_90480	signal	1	38				
+BPGRVI_90480	outside	39	50				
+//
+# BPGRVI_9754 Length: 45
+# BPGRVI_9754 Number of predicted TMRs: 0
+BPGRVI_9754	inside	1	45				
+//
+# BPGRVI_25519 Length: 49
+# BPGRVI_25519 Number of predicted TMRs: 0
+BPGRVI_25519	inside	1	49				
+//
+# BPGRVI_165654 Length: 44
+# BPGRVI_165654 Number of predicted TMRs: 0
+BPGRVI_165654	inside	1	44				
+//
+# BPGRVI_82045 Length: 50
+# BPGRVI_82045 Number of predicted TMRs: 0
+BPGRVI_82045	inside	1	50				
+//
+# BPGRVI_6802 Length: 49
+# BPGRVI_6802 Number of predicted TMRs: 0
+BPGRVI_6802	signal	1	32				
+BPGRVI_6802	outside	33	49				
+//
+# BPGRVI_35126 Length: 49
+# BPGRVI_35126 Number of predicted TMRs: 0
+BPGRVI_35126	signal	1	47				
+BPGRVI_35126	outside	48	49				
+//
+# BPGRVI_65293 Length: 26
+# BPGRVI_65293 Number of predicted TMRs: 0
+BPGRVI_65293	inside	1	26				
+//
+# BPGRVI_97370 Length: 27
+# BPGRVI_97370 Number of predicted TMRs: 0
+BPGRVI_97370	inside	1	27				
+//
+# BPGRVI_90000 Length: 48
+# BPGRVI_90000 Number of predicted TMRs: 0
+BPGRVI_90000	inside	1	48				
+//
+# BPGRVI_149903 Length: 47
+# BPGRVI_149903 Number of predicted TMRs: 0
+BPGRVI_149903	inside	1	47				
+//
+# BPGRVI_136256 Length: 49
+# BPGRVI_136256 Number of predicted TMRs: 0
+BPGRVI_136256	inside	1	49				
+//
+# BPGRVI_131731 Length: 40
+# BPGRVI_131731 Number of predicted TMRs: 0
+BPGRVI_131731	signal	1	39				
+BPGRVI_131731	outside	40	40				
+//
+# BPGRVI_60599 Length: 46
+# BPGRVI_60599 Number of predicted TMRs: 0
+BPGRVI_60599	inside	1	46				
+//
+# BPGRVI_36582 Length: 47
+# BPGRVI_36582 Number of predicted TMRs: 0
+BPGRVI_36582	inside	1	47				
+//
+# BPGRVI_127636 Length: 41
+# BPGRVI_127636 Number of predicted TMRs: 0
+BPGRVI_127636	signal	1	15				
+BPGRVI_127636	outside	16	41				
+//
+# BPGRVI_80381 Length: 50
+# BPGRVI_80381 Number of predicted TMRs: 0
+BPGRVI_80381	inside	1	50				
+//
+# BPGRVI_172466 Length: 39
+# BPGRVI_172466 Number of predicted TMRs: 0
+BPGRVI_172466	inside	1	39				
+//
+# BPGRVI_39825 Length: 34
+# BPGRVI_39825 Number of predicted TMRs: 0
+BPGRVI_39825	inside	1	34				
+//
+# BPGRVI_120089 Length: 43
+# BPGRVI_120089 Number of predicted TMRs: 0
+BPGRVI_120089	signal	1	18				
+BPGRVI_120089	outside	19	43				
+//
+# BPGRVI_123680 Length: 43
+# BPGRVI_123680 Number of predicted TMRs: 0
+BPGRVI_123680	signal	1	20				
+BPGRVI_123680	outside	21	43				
+//
+# BPGRVI_135665 Length: 38
+# BPGRVI_135665 Number of predicted TMRs: 0
+BPGRVI_135665	inside	1	38				
+//
+# BPGRVI_10943 Length: 50
+# BPGRVI_10943 Number of predicted TMRs: 0
+BPGRVI_10943	inside	1	50				
+//
+# BPGRVI_20526 Length: 49
+# BPGRVI_20526 Number of predicted TMRs: 0
+BPGRVI_20526	inside	1	49				
+//
+# BPGRVI_92876 Length: 39
+# BPGRVI_92876 Number of predicted TMRs: 0
+BPGRVI_92876	outside	1	39				
+//
+# BPGRVI_83197 Length: 44
+# BPGRVI_83197 Number of predicted TMRs: 0
+BPGRVI_83197	inside	1	44				
+//
+# BPGRVI_120428 Length: 50
+# BPGRVI_120428 Number of predicted TMRs: 0
+BPGRVI_120428	inside	1	50				
+//
+# BPGRVI_128597 Length: 50
+# BPGRVI_128597 Number of predicted TMRs: 0
+BPGRVI_128597	inside	1	50				
+//
+# BPGRVI_10786 Length: 47
+# BPGRVI_10786 Number of predicted TMRs: 0
+BPGRVI_10786	inside	1	47				
+//
+# BPGRVI_89881 Length: 48
+# BPGRVI_89881 Number of predicted TMRs: 0
+BPGRVI_89881	signal	1	24				
+BPGRVI_89881	outside	25	48				
+//
+# BPGRVI_115231 Length: 45
+# BPGRVI_115231 Number of predicted TMRs: 0
+BPGRVI_115231	inside	1	45				
+//
+# BPGRVI_107267 Length: 46
+# BPGRVI_107267 Number of predicted TMRs: 0
+BPGRVI_107267	inside	1	46				
+//
+# BPGRVI_169423 Length: 47
+# BPGRVI_169423 Number of predicted TMRs: 0
+BPGRVI_169423	inside	1	47				
+//
+# BPGRVI_153374 Length: 49
+# BPGRVI_153374 Number of predicted TMRs: 0
+BPGRVI_153374	outside	1	49				
+//
+# BPGRVI_143317 Length: 44
+# BPGRVI_143317 Number of predicted TMRs: 0
+BPGRVI_143317	inside	1	44				
+//
+# BPGRVI_3438 Length: 46
+# BPGRVI_3438 Number of predicted TMRs: 0
+BPGRVI_3438	inside	1	46				
+//
+# BPGRVI_167228 Length: 43
+# BPGRVI_167228 Number of predicted TMRs: 0
+BPGRVI_167228	signal	1	14				
+BPGRVI_167228	outside	15	43				
+//
+# BPGRVI_173206 Length: 50
+# BPGRVI_173206 Number of predicted TMRs: 0
+BPGRVI_173206	inside	1	50				
+//
+# BPGRVI_43607 Length: 44
+# BPGRVI_43607 Number of predicted TMRs: 0
+BPGRVI_43607	inside	1	44				
+//
+# BPGRVI_118465 Length: 45
+# BPGRVI_118465 Number of predicted TMRs: 0
+BPGRVI_118465	inside	1	45				
+//
+# BPGRVI_171023 Length: 39
+# BPGRVI_171023 Number of predicted TMRs: 0
+BPGRVI_171023	signal	1	37				
+BPGRVI_171023	outside	38	39				
+//
+# BPGRVI_139309 Length: 45
+# BPGRVI_139309 Number of predicted TMRs: 0
+BPGRVI_139309	inside	1	45				
+//
+# BPGRVI_171949 Length: 49
+# BPGRVI_171949 Number of predicted TMRs: 0
+BPGRVI_171949	signal	1	47				
+BPGRVI_171949	outside	48	49				
+//
+# BPGRVI_121674 Length: 50
+# BPGRVI_121674 Number of predicted TMRs: 0
+BPGRVI_121674	signal	1	49				
+BPGRVI_121674	outside	50	50				
+//
+# BPGRVI_21119 Length: 46
+# BPGRVI_21119 Number of predicted TMRs: 0
+BPGRVI_21119	inside	1	46				
+//
+# BPGRVI_147644 Length: 40
+# BPGRVI_147644 Number of predicted TMRs: 0
+BPGRVI_147644	inside	1	40				
+//
+# BPGRVI_23382 Length: 50
+# BPGRVI_23382 Number of predicted TMRs: 0
+BPGRVI_23382	signal	1	17				
+BPGRVI_23382	outside	18	50				
+//
+# BPGRVI_90541 Length: 42
+# BPGRVI_90541 Number of predicted TMRs: 0
+BPGRVI_90541	inside	1	42				
+//
+# BPGRVI_86737 Length: 50
+# BPGRVI_86737 Number of predicted TMRs: 0
+BPGRVI_86737	inside	1	50				
+//
+# BPGRVI_103091 Length: 40
+# BPGRVI_103091 Number of predicted TMRs: 0
+BPGRVI_103091	inside	1	40				
+//
+# BPGRVI_114865 Length: 46
+# BPGRVI_114865 Number of predicted TMRs: 0
+BPGRVI_114865	inside	1	46				
+//
+# BPGRVI_100671 Length: 47
+# BPGRVI_100671 Number of predicted TMRs: 0
+BPGRVI_100671	inside	1	47				
+//
+# BPGRVI_168477 Length: 33
+# BPGRVI_168477 Number of predicted TMRs: 0
+BPGRVI_168477	signal	1	26				
+BPGRVI_168477	outside	27	33				
+//
+# BPGRVI_35167 Length: 49
+# BPGRVI_35167 Number of predicted TMRs: 0
+BPGRVI_35167	inside	1	49				
+//
+# BPGRVI_87056 Length: 48
+# BPGRVI_87056 Number of predicted TMRs: 0
+BPGRVI_87056	inside	1	48				
+//
+# BPGRVI_141502 Length: 29
+# BPGRVI_141502 Number of predicted TMRs: 0
+BPGRVI_141502	signal	1	26				
+BPGRVI_141502	outside	27	29				
+//
+# BPGRVI_7506 Length: 42
+# BPGRVI_7506 Number of predicted TMRs: 0
+BPGRVI_7506	inside	1	42				
+//
+# BPGRVI_112849 Length: 39
+# BPGRVI_112849 Number of predicted TMRs: 0
+BPGRVI_112849	signal	1	29				
+BPGRVI_112849	outside	30	39				
+//
+# BPGRVI_23648 Length: 38
+# BPGRVI_23648 Number of predicted TMRs: 0
+BPGRVI_23648	inside	1	38				
+//
+# BPGRVI_36184 Length: 47
+# BPGRVI_36184 Number of predicted TMRs: 0
+BPGRVI_36184	inside	1	47				
+//
+# BPGRVI_60600 Length: 50
+# BPGRVI_60600 Number of predicted TMRs: 0
+BPGRVI_60600	inside	1	50				
+//
+# BPGRVI_127522 Length: 39
+# BPGRVI_127522 Number of predicted TMRs: 0
+BPGRVI_127522	outside	1	39				
+//
+# BPGRVI_163269 Length: 42
+# BPGRVI_163269 Number of predicted TMRs: 1
+BPGRVI_163269	outside	1	11				
+BPGRVI_163269	TMhelix	12	28				
+BPGRVI_163269	inside	29	42				
+//
+# BPGRVI_3628 Length: 46
+# BPGRVI_3628 Number of predicted TMRs: 0
+BPGRVI_3628	signal	1	45				
+BPGRVI_3628	outside	46	46				
+//
+# BPGRVI_17022 Length: 45
+# BPGRVI_17022 Number of predicted TMRs: 0
+BPGRVI_17022	signal	1	40				
+BPGRVI_17022	outside	41	45				
+//
+# BPGRVI_6833 Length: 49
+# BPGRVI_6833 Number of predicted TMRs: 0
+BPGRVI_6833	signal	1	44				
+BPGRVI_6833	outside	45	49				
+//
+# BPGRVI_31480 Length: 49
+# BPGRVI_31480 Number of predicted TMRs: 0
+BPGRVI_31480	inside	1	49				
+//
+# BPGRVI_143858 Length: 38
+# BPGRVI_143858 Number of predicted TMRs: 0
+BPGRVI_143858	signal	1	37				
+BPGRVI_143858	outside	38	38				
+//
+# BPGRVI_160230 Length: 43
+# BPGRVI_160230 Number of predicted TMRs: 0
+BPGRVI_160230	outside	1	43				
+//
+# BPGRVI_80265 Length: 46
+# BPGRVI_80265 Number of predicted TMRs: 0
+BPGRVI_80265	inside	1	46				
+//
+# BPGRVI_46837 Length: 40
+# BPGRVI_46837 Number of predicted TMRs: 0
+BPGRVI_46837	inside	1	40				
+//
+# BPGRVI_118594 Length: 46
+# BPGRVI_118594 Number of predicted TMRs: 0
+BPGRVI_118594	inside	1	46				
+//
+# BPGRVI_140087 Length: 46
+# BPGRVI_140087 Number of predicted TMRs: 0
+BPGRVI_140087	signal	1	42				
+BPGRVI_140087	outside	43	46				
+//
+# BPGRVI_170258 Length: 49
+# BPGRVI_170258 Number of predicted TMRs: 0
+BPGRVI_170258	inside	1	49				
+//
+# BPGRVI_82241 Length: 48
+# BPGRVI_82241 Number of predicted TMRs: 0
+BPGRVI_82241	signal	1	20				
+BPGRVI_82241	outside	21	48				
+//
+# BPGRVI_37527 Length: 50
+# BPGRVI_37527 Number of predicted TMRs: 0
+BPGRVI_37527	inside	1	50				
+//
+# BPGRVI_16424 Length: 48
+# BPGRVI_16424 Number of predicted TMRs: 0
+BPGRVI_16424	inside	1	48				
+//
+# BPGRVI_136225 Length: 34
+# BPGRVI_136225 Number of predicted TMRs: 0
+BPGRVI_136225	inside	1	34				
+//
+# BPGRVI_112926 Length: 48
+# BPGRVI_112926 Number of predicted TMRs: 0
+BPGRVI_112926	signal	1	10				
+BPGRVI_112926	outside	11	48				
+//
+# BPGRVI_50055 Length: 46
+# BPGRVI_50055 Number of predicted TMRs: 0
+BPGRVI_50055	signal	1	28				
+BPGRVI_50055	outside	29	46				
+//
+# BPGRVI_99390 Length: 46
+# BPGRVI_99390 Number of predicted TMRs: 0
+BPGRVI_99390	inside	1	46				
+//
+# BPGRVI_63017 Length: 41
+# BPGRVI_63017 Number of predicted TMRs: 0
+BPGRVI_63017	inside	1	41				
+//
+# BPGRVI_6947 Length: 50
+# BPGRVI_6947 Number of predicted TMRs: 0
+BPGRVI_6947	inside	1	50				
+//
+# BPGRVI_165426 Length: 50
+# BPGRVI_165426 Number of predicted TMRs: 0
+BPGRVI_165426	inside	1	50				
+//
+# BPGRVI_69101 Length: 45
+# BPGRVI_69101 Number of predicted TMRs: 0
+BPGRVI_69101	signal	1	44				
+BPGRVI_69101	outside	45	45				
+//
+# BPGRVI_93797 Length: 45
+# BPGRVI_93797 Number of predicted TMRs: 0
+BPGRVI_93797	inside	1	45				
+//
+# BPGRVI_51027 Length: 37
+# BPGRVI_51027 Number of predicted TMRs: 0
+BPGRVI_51027	signal	1	24				
+BPGRVI_51027	outside	25	37				
+//
+# BPGRVI_142879 Length: 33
+# BPGRVI_142879 Number of predicted TMRs: 0
+BPGRVI_142879	outside	1	33				
+//
+# BPGRVI_88115 Length: 45
+# BPGRVI_88115 Number of predicted TMRs: 0
+BPGRVI_88115	inside	1	45				
+//
+# BPGRVI_22690 Length: 45
+# BPGRVI_22690 Number of predicted TMRs: 0
+BPGRVI_22690	signal	1	42				
+BPGRVI_22690	outside	43	45				
+//
+# BPGRVI_127995 Length: 49
+# BPGRVI_127995 Number of predicted TMRs: 0
+BPGRVI_127995	signal	1	11				
+BPGRVI_127995	outside	12	49				
+//
+# BPGRVI_145820 Length: 45
+# BPGRVI_145820 Number of predicted TMRs: 0
+BPGRVI_145820	signal	1	44				
+BPGRVI_145820	outside	45	45				
+//
+# BPGRVI_8546 Length: 47
+# BPGRVI_8546 Number of predicted TMRs: 0
+BPGRVI_8546	signal	1	41				
+BPGRVI_8546	outside	42	47				
+//
+# BPGRVI_15778 Length: 47
+# BPGRVI_15778 Number of predicted TMRs: 0
+BPGRVI_15778	inside	1	47				
+//
+# BPGRVI_173476 Length: 50
+# BPGRVI_173476 Number of predicted TMRs: 0
+BPGRVI_173476	outside	1	50				
+//
+# BPGRVI_124092 Length: 48
+# BPGRVI_124092 Number of predicted TMRs: 0
+BPGRVI_124092	signal	1	23				
+BPGRVI_124092	outside	24	48				
+//
+# BPGRVI_93844 Length: 36
+# BPGRVI_93844 Number of predicted TMRs: 0
+BPGRVI_93844	signal	1	31				
+BPGRVI_93844	outside	32	36				
+//
+# BPGRVI_46004 Length: 43
+# BPGRVI_46004 Number of predicted TMRs: 0
+BPGRVI_46004	inside	1	43				
+//
+# BPGRVI_169744 Length: 41
+# BPGRVI_169744 Number of predicted TMRs: 0
+BPGRVI_169744	signal	1	40				
+BPGRVI_169744	outside	41	41				
+//
+# BPGRVI_1215 Length: 39
+# BPGRVI_1215 Number of predicted TMRs: 0
+BPGRVI_1215	inside	1	39				
+//
+# BPGRVI_107200 Length: 45
+# BPGRVI_107200 Number of predicted TMRs: 0
+BPGRVI_107200	signal	1	44				
+BPGRVI_107200	outside	45	45				
+//
+# BPGRVI_122565 Length: 43
+# BPGRVI_122565 Number of predicted TMRs: 0
+BPGRVI_122565	inside	1	43				
+//
+# BPGRVI_107568 Length: 45
+# BPGRVI_107568 Number of predicted TMRs: 0
+BPGRVI_107568	signal	1	20				
+BPGRVI_107568	outside	21	45				
+//
+# BPGRVI_158362 Length: 49
+# BPGRVI_158362 Number of predicted TMRs: 1
+BPGRVI_158362	inside	1	21				
+BPGRVI_158362	TMhelix	22	42				
+BPGRVI_158362	outside	43	49				
+//
+# BPGRVI_44522 Length: 47
+# BPGRVI_44522 Number of predicted TMRs: 0
+BPGRVI_44522	signal	1	10				
+BPGRVI_44522	outside	11	47				
+//
+# BPGRVI_45093 Length: 45
+# BPGRVI_45093 Number of predicted TMRs: 0
+BPGRVI_45093	inside	1	45				
+//
+# BPGRVI_65128 Length: 36
+# BPGRVI_65128 Number of predicted TMRs: 0
+BPGRVI_65128	inside	1	36				
+//
+# BPGRVI_85068 Length: 46
+# BPGRVI_85068 Number of predicted TMRs: 0
+BPGRVI_85068	outside	1	46				
+//
+# BPGRVI_169469 Length: 49
+# BPGRVI_169469 Number of predicted TMRs: 0
+BPGRVI_169469	inside	1	49				
+//
+# BPGRVI_125802 Length: 48
+# BPGRVI_125802 Number of predicted TMRs: 0
+BPGRVI_125802	signal	1	47				
+BPGRVI_125802	outside	48	48				
+//
+# BPGRVI_90945 Length: 49
+# BPGRVI_90945 Number of predicted TMRs: 0
+BPGRVI_90945	signal	1	23				
+BPGRVI_90945	outside	24	49				
+//
+# BPGRVI_48934 Length: 32
+# BPGRVI_48934 Number of predicted TMRs: 0
+BPGRVI_48934	inside	1	32				
+//
+# BPGRVI_102075 Length: 46
+# BPGRVI_102075 Number of predicted TMRs: 0
+BPGRVI_102075	inside	1	46				
+//
+# BPGRVI_126757 Length: 35
+# BPGRVI_126757 Number of predicted TMRs: 0
+BPGRVI_126757	inside	1	35				
+//
+# BPGRVI_10459 Length: 30
+# BPGRVI_10459 Number of predicted TMRs: 0
+BPGRVI_10459	signal	1	29				
+BPGRVI_10459	outside	30	30				
+//
+# BPGRVI_54988 Length: 46
+# BPGRVI_54988 Number of predicted TMRs: 0
+BPGRVI_54988	signal	1	13				
+BPGRVI_54988	outside	14	46				
+//
+# BPGRVI_29078 Length: 43
+# BPGRVI_29078 Number of predicted TMRs: 0
+BPGRVI_29078	inside	1	43				
+//
+# BPGRVI_14982 Length: 50
+# BPGRVI_14982 Number of predicted TMRs: 0
+BPGRVI_14982	inside	1	50				
+//
+# BPGRVI_62276 Length: 35
+# BPGRVI_62276 Number of predicted TMRs: 0
+BPGRVI_62276	inside	1	35				
+//
+# BPGRVI_92162 Length: 50
+# BPGRVI_92162 Number of predicted TMRs: 0
+BPGRVI_92162	signal	1	18				
+BPGRVI_92162	outside	19	50				
+//
+# BPGRVI_81537 Length: 39
+# BPGRVI_81537 Number of predicted TMRs: 0
+BPGRVI_81537	inside	1	39				
+//
+# BPGRVI_13868 Length: 41
+# BPGRVI_13868 Number of predicted TMRs: 0
+BPGRVI_13868	inside	1	41				
+//
+# BPGRVI_22902 Length: 44
+# BPGRVI_22902 Number of predicted TMRs: 0
+BPGRVI_22902	inside	1	44				
+//
+# BPGRVI_142760 Length: 47
+# BPGRVI_142760 Number of predicted TMRs: 0
+BPGRVI_142760	inside	1	47				
+//
+# BPGRVI_94904 Length: 48
+# BPGRVI_94904 Number of predicted TMRs: 0
+BPGRVI_94904	outside	1	48				
+//
+# BPGRVI_93260 Length: 43
+# BPGRVI_93260 Number of predicted TMRs: 0
+BPGRVI_93260	inside	1	43				
+//
+# BPGRVI_92439 Length: 43
+# BPGRVI_92439 Number of predicted TMRs: 0
+BPGRVI_92439	inside	1	43				
+//
+# BPGRVI_56759 Length: 48
+# BPGRVI_56759 Number of predicted TMRs: 0
+BPGRVI_56759	signal	1	40				
+BPGRVI_56759	outside	41	48				
+//
+# BPGRVI_169591 Length: 41
+# BPGRVI_169591 Number of predicted TMRs: 0
+BPGRVI_169591	inside	1	41				
+//
+# BPGRVI_89779 Length: 50
+# BPGRVI_89779 Number of predicted TMRs: 0
+BPGRVI_89779	inside	1	50				
+//
+# BPGRVI_39315 Length: 48
+# BPGRVI_39315 Number of predicted TMRs: 0
+BPGRVI_39315	inside	1	48				
+//
+# BPGRVI_47352 Length: 47
+# BPGRVI_47352 Number of predicted TMRs: 0
+BPGRVI_47352	signal	1	10				
+BPGRVI_47352	outside	11	47				
+//
+# BPGRVI_100023 Length: 44
+# BPGRVI_100023 Number of predicted TMRs: 0
+BPGRVI_100023	inside	1	44				
+//
+# BPGRVI_39033 Length: 50
+# BPGRVI_39033 Number of predicted TMRs: 0
+BPGRVI_39033	inside	1	50				
+//
+# BPGRVI_134613 Length: 41
+# BPGRVI_134613 Number of predicted TMRs: 0
+BPGRVI_134613	signal	1	32				
+BPGRVI_134613	outside	33	41				
+//
+# BPGRVI_13855 Length: 36
+# BPGRVI_13855 Number of predicted TMRs: 0
+BPGRVI_13855	inside	1	36				
+//
+# BPGRVI_131442 Length: 50
+# BPGRVI_131442 Number of predicted TMRs: 0
+BPGRVI_131442	signal	1	39				
+BPGRVI_131442	outside	40	50				
+//
+# BPGRVI_14837 Length: 48
+# BPGRVI_14837 Number of predicted TMRs: 0
+BPGRVI_14837	inside	1	48				
+//
+# BPGRVI_65640 Length: 50
+# BPGRVI_65640 Number of predicted TMRs: 0
+BPGRVI_65640	inside	1	50				
+//
+# BPGRVI_85537 Length: 46
+# BPGRVI_85537 Number of predicted TMRs: 0
+BPGRVI_85537	inside	1	46				
+//
+# BPGRVI_111267 Length: 45
+# BPGRVI_111267 Number of predicted TMRs: 0
+BPGRVI_111267	signal	1	43				
+BPGRVI_111267	outside	44	45				
+//
+# BPGRVI_134714 Length: 44
+# BPGRVI_134714 Number of predicted TMRs: 0
+BPGRVI_134714	signal	1	28				
+BPGRVI_134714	outside	29	44				
+//
+# BPGRVI_81100 Length: 44
+# BPGRVI_81100 Number of predicted TMRs: 0
+BPGRVI_81100	inside	1	44				
+//
+# BPGRVI_121336 Length: 50
+# BPGRVI_121336 Number of predicted TMRs: 0
+BPGRVI_121336	inside	1	50				
+//
+# BPGRVI_13025 Length: 48
+# BPGRVI_13025 Number of predicted TMRs: 0
+BPGRVI_13025	inside	1	48				
+//
+# BPGRVI_156247 Length: 48
+# BPGRVI_156247 Number of predicted TMRs: 0
+BPGRVI_156247	inside	1	48				
+//
+# BPGRVI_99352 Length: 49
+# BPGRVI_99352 Number of predicted TMRs: 0
+BPGRVI_99352	outside	1	49				
+//
+# BPGRVI_81850 Length: 47
+# BPGRVI_81850 Number of predicted TMRs: 0
+BPGRVI_81850	inside	1	47				
+//
+# BPGRVI_114613 Length: 40
+# BPGRVI_114613 Number of predicted TMRs: 0
+BPGRVI_114613	inside	1	40				
+//
+# BPGRVI_76296 Length: 40
+# BPGRVI_76296 Number of predicted TMRs: 0
+BPGRVI_76296	signal	1	26				
+BPGRVI_76296	outside	27	40				
+//
+# BPGRVI_93533 Length: 41
+# BPGRVI_93533 Number of predicted TMRs: 0
+BPGRVI_93533	signal	1	28				
+BPGRVI_93533	outside	29	41				
+//
+# BPGRVI_2928 Length: 50
+# BPGRVI_2928 Number of predicted TMRs: 0
+BPGRVI_2928	signal	1	13				
+BPGRVI_2928	outside	14	50				
+//
+# BPGRVI_149853 Length: 47
+# BPGRVI_149853 Number of predicted TMRs: 0
+BPGRVI_149853	signal	1	27				
+BPGRVI_149853	outside	28	47				
+//
+# BPGRVI_156654 Length: 47
+# BPGRVI_156654 Number of predicted TMRs: 0
+BPGRVI_156654	signal	1	38				
+BPGRVI_156654	outside	39	47				
+//
+# BPGRVI_67037 Length: 47
+# BPGRVI_67037 Number of predicted TMRs: 0
+BPGRVI_67037	signal	1	38				
+BPGRVI_67037	outside	39	47				
+//
+# BPGRVI_144088 Length: 46
+# BPGRVI_144088 Number of predicted TMRs: 0
+BPGRVI_144088	signal	1	45				
+BPGRVI_144088	outside	46	46				
+//
+# BPGRVI_149932 Length: 46
+# BPGRVI_149932 Number of predicted TMRs: 0
+BPGRVI_149932	inside	1	46				
+//
+# BPGRVI_16914 Length: 37
+# BPGRVI_16914 Number of predicted TMRs: 0
+BPGRVI_16914	signal	1	12				
+BPGRVI_16914	outside	13	37				
+//
+# BPGRVI_4974 Length: 50
+# BPGRVI_4974 Number of predicted TMRs: 0
+BPGRVI_4974	inside	1	50				
+//
+# BPGRVI_122598 Length: 49
+# BPGRVI_122598 Number of predicted TMRs: 0
+BPGRVI_122598	inside	1	49				
+//
+# BPGRVI_121833 Length: 50
+# BPGRVI_121833 Number of predicted TMRs: 0
+BPGRVI_121833	signal	1	26				
+BPGRVI_121833	outside	27	50				
+//
+# BPGRVI_37650 Length: 44
+# BPGRVI_37650 Number of predicted TMRs: 0
+BPGRVI_37650	inside	1	44				
+//
+# BPGRVI_55944 Length: 50
+# BPGRVI_55944 Number of predicted TMRs: 0
+BPGRVI_55944	signal	1	10				
+BPGRVI_55944	outside	11	50				
+//
+# BPGRVI_148588 Length: 45
+# BPGRVI_148588 Number of predicted TMRs: 0
+BPGRVI_148588	inside	1	45				
+//
+# BPGRVI_110475 Length: 49
+# BPGRVI_110475 Number of predicted TMRs: 0
+BPGRVI_110475	inside	1	49				
+//
+# BPGRVI_135661 Length: 48
+# BPGRVI_135661 Number of predicted TMRs: 0
+BPGRVI_135661	signal	1	47				
+BPGRVI_135661	outside	48	48				
+//
+# BPGRVI_7417 Length: 43
+# BPGRVI_7417 Number of predicted TMRs: 0
+BPGRVI_7417	inside	1	43				
+//
+# BPGRVI_3662 Length: 50
+# BPGRVI_3662 Number of predicted TMRs: 0
+BPGRVI_3662	inside	1	50				
+//
+# BPGRVI_111454 Length: 45
+# BPGRVI_111454 Number of predicted TMRs: 0
+BPGRVI_111454	outside	1	45				
+//
+# BPGRVI_94502 Length: 36
+# BPGRVI_94502 Number of predicted TMRs: 0
+BPGRVI_94502	inside	1	36				
+//
+# BPGRVI_29660 Length: 47
+# BPGRVI_29660 Number of predicted TMRs: 0
+BPGRVI_29660	inside	1	47				
+//
+# BPGRVI_112322 Length: 39
+# BPGRVI_112322 Number of predicted TMRs: 0
+BPGRVI_112322	signal	1	38				
+BPGRVI_112322	outside	39	39				
+//
+# BPGRVI_28600 Length: 30
+# BPGRVI_28600 Number of predicted TMRs: 0
+BPGRVI_28600	signal	1	29				
+BPGRVI_28600	outside	30	30				
+//
+# BPGRVI_107588 Length: 42
+# BPGRVI_107588 Number of predicted TMRs: 0
+BPGRVI_107588	inside	1	42				
+//
+# BPGRVI_35324 Length: 40
+# BPGRVI_35324 Number of predicted TMRs: 0
+BPGRVI_35324	inside	1	40				
+//
+# BPGRVI_130231 Length: 48
+# BPGRVI_130231 Number of predicted TMRs: 0
+BPGRVI_130231	inside	1	48				
+//
+# BPGRVI_138669 Length: 47
+# BPGRVI_138669 Number of predicted TMRs: 0
+BPGRVI_138669	signal	1	10				
+BPGRVI_138669	outside	11	47				
+//
+# BPGRVI_96781 Length: 48
+# BPGRVI_96781 Number of predicted TMRs: 0
+BPGRVI_96781	signal	1	17				
+BPGRVI_96781	outside	18	48				
+//
+# BPGRVI_99424 Length: 46
+# BPGRVI_99424 Number of predicted TMRs: 0
+BPGRVI_99424	inside	1	46				
+//
+# BPGRVI_39207 Length: 50
+# BPGRVI_39207 Number of predicted TMRs: 0
+BPGRVI_39207	inside	1	50				
+//
+# BPGRVI_52514 Length: 49
+# BPGRVI_52514 Number of predicted TMRs: 0
+BPGRVI_52514	inside	1	49				
+//
+# BPGRVI_172978 Length: 49
+# BPGRVI_172978 Number of predicted TMRs: 0
+BPGRVI_172978	inside	1	49				
+//
+# BPGRVI_117072 Length: 49
+# BPGRVI_117072 Number of predicted TMRs: 0
+BPGRVI_117072	inside	1	49				
+//
+# BPGRVI_83158 Length: 46
+# BPGRVI_83158 Number of predicted TMRs: 0
+BPGRVI_83158	inside	1	46				
+//
+# BPGRVI_16140 Length: 38
+# BPGRVI_16140 Number of predicted TMRs: 0
+BPGRVI_16140	inside	1	38				
+//
+# BPGRVI_49749 Length: 49
+# BPGRVI_49749 Number of predicted TMRs: 0
+BPGRVI_49749	inside	1	49				
+//
+# BPGRVI_125707 Length: 46
+# BPGRVI_125707 Number of predicted TMRs: 0
+BPGRVI_125707	signal	1	15				
+BPGRVI_125707	outside	16	46				
+//
+# BPGRVI_37824 Length: 47
+# BPGRVI_37824 Number of predicted TMRs: 0
+BPGRVI_37824	signal	1	34				
+BPGRVI_37824	outside	35	47				
+//
+# BPGRVI_46198 Length: 43
+# BPGRVI_46198 Number of predicted TMRs: 0
+BPGRVI_46198	signal	1	26				
+BPGRVI_46198	outside	27	43				
+//
+# BPGRVI_55918 Length: 31
+# BPGRVI_55918 Number of predicted TMRs: 0
+BPGRVI_55918	signal	1	30				
+BPGRVI_55918	outside	31	31				
+//
+# BPGRVI_121651 Length: 45
+# BPGRVI_121651 Number of predicted TMRs: 0
+BPGRVI_121651	signal	1	25				
+BPGRVI_121651	outside	26	45				
+//
+# BPGRVI_72353 Length: 44
+# BPGRVI_72353 Number of predicted TMRs: 0
+BPGRVI_72353	inside	1	44				
+//
+# BPGRVI_44817 Length: 32
+# BPGRVI_44817 Number of predicted TMRs: 0
+BPGRVI_44817	inside	1	32				
+//
+# BPGRVI_19265 Length: 28
+# BPGRVI_19265 Number of predicted TMRs: 0
+BPGRVI_19265	signal	1	25				
+BPGRVI_19265	outside	26	28				
+//
+# BPGRVI_55119 Length: 46
+# BPGRVI_55119 Number of predicted TMRs: 0
+BPGRVI_55119	signal	1	33				
+BPGRVI_55119	outside	34	46				
+//
+# BPGRVI_119236 Length: 37
+# BPGRVI_119236 Number of predicted TMRs: 0
+BPGRVI_119236	signal	1	16				
+BPGRVI_119236	outside	17	37				
+//
+# BPGRVI_47710 Length: 42
+# BPGRVI_47710 Number of predicted TMRs: 0
+BPGRVI_47710	signal	1	13				
+BPGRVI_47710	outside	14	42				
+//
+# BPGRVI_71303 Length: 38
+# BPGRVI_71303 Number of predicted TMRs: 0
+BPGRVI_71303	inside	1	38				
+//
+# BPGRVI_7441 Length: 39
+# BPGRVI_7441 Number of predicted TMRs: 0
+BPGRVI_7441	inside	1	39				
+//
+# BPGRVI_73706 Length: 33
+# BPGRVI_73706 Number of predicted TMRs: 0
+BPGRVI_73706	signal	1	21				
+BPGRVI_73706	outside	22	33				
+//
+# BPGRVI_114439 Length: 41
+# BPGRVI_114439 Number of predicted TMRs: 0
+BPGRVI_114439	signal	1	20				
+BPGRVI_114439	outside	21	41				
+//
+# BPGRVI_105982 Length: 49
+# BPGRVI_105982 Number of predicted TMRs: 0
+BPGRVI_105982	inside	1	49				
+//
+# BPGRVI_121981 Length: 48
+# BPGRVI_121981 Number of predicted TMRs: 0
+BPGRVI_121981	inside	1	48				
+//
+# BPGRVI_52935 Length: 39
+# BPGRVI_52935 Number of predicted TMRs: 0
+BPGRVI_52935	outside	1	39				
+//
+# BPGRVI_18197 Length: 44
+# BPGRVI_18197 Number of predicted TMRs: 0
+BPGRVI_18197	inside	1	44				
+//
+# BPGRVI_165490 Length: 43
+# BPGRVI_165490 Number of predicted TMRs: 0
+BPGRVI_165490	signal	1	10				
+BPGRVI_165490	outside	11	43				
+//
+# BPGRVI_21801 Length: 49
+# BPGRVI_21801 Number of predicted TMRs: 0
+BPGRVI_21801	inside	1	49				
+//
+# BPGRVI_127416 Length: 48
+# BPGRVI_127416 Number of predicted TMRs: 0
+BPGRVI_127416	inside	1	48				
+//
+# BPGRVI_42928 Length: 41
+# BPGRVI_42928 Number of predicted TMRs: 0
+BPGRVI_42928	signal	1	35				
+BPGRVI_42928	outside	36	41				
+//
+# BPGRVI_122525 Length: 47
+# BPGRVI_122525 Number of predicted TMRs: 0
+BPGRVI_122525	inside	1	47				
+//
+# BPGRVI_103569 Length: 48
+# BPGRVI_103569 Number of predicted TMRs: 0
+BPGRVI_103569	signal	1	27				
+BPGRVI_103569	outside	28	48				
+//
+# BPGRVI_1762 Length: 48
+# BPGRVI_1762 Number of predicted TMRs: 0
+BPGRVI_1762	signal	1	39				
+BPGRVI_1762	outside	40	48				
+//
+# BPGRVI_6793 Length: 36
+# BPGRVI_6793 Number of predicted TMRs: 0
+BPGRVI_6793	signal	1	35				
+BPGRVI_6793	outside	36	36				
+//
+# BPGRVI_130969 Length: 38
+# BPGRVI_130969 Number of predicted TMRs: 0
+BPGRVI_130969	inside	1	38				
+//
+# BPGRVI_50335 Length: 38
+# BPGRVI_50335 Number of predicted TMRs: 0
+BPGRVI_50335	inside	1	38				
+//
+# BPGRVI_125287 Length: 48
+# BPGRVI_125287 Number of predicted TMRs: 0
+BPGRVI_125287	inside	1	48				
+//
+# BPGRVI_148198 Length: 46
+# BPGRVI_148198 Number of predicted TMRs: 0
+BPGRVI_148198	signal	1	44				
+BPGRVI_148198	outside	45	46				
+//
+# BPGRVI_82629 Length: 45
+# BPGRVI_82629 Number of predicted TMRs: 0
+BPGRVI_82629	signal	1	44				
+BPGRVI_82629	outside	45	45				
+//
+# BPGRVI_13217 Length: 44
+# BPGRVI_13217 Number of predicted TMRs: 0
+BPGRVI_13217	inside	1	44				
+//
+# BPGRVI_19810 Length: 47
+# BPGRVI_19810 Number of predicted TMRs: 0
+BPGRVI_19810	inside	1	47				
+//
+# BPGRVI_101100 Length: 49
+# BPGRVI_101100 Number of predicted TMRs: 0
+BPGRVI_101100	inside	1	49				
+//
+# BPGRVI_85970 Length: 49
+# BPGRVI_85970 Number of predicted TMRs: 0
+BPGRVI_85970	inside	1	49				
+//
+# BPGRVI_78871 Length: 49
+# BPGRVI_78871 Number of predicted TMRs: 0
+BPGRVI_78871	inside	1	49				
+//
+# BPGRVI_133945 Length: 34
+# BPGRVI_133945 Number of predicted TMRs: 0
+BPGRVI_133945	signal	1	24				
+BPGRVI_133945	outside	25	34				
+//
+# BPGRVI_11523 Length: 40
+# BPGRVI_11523 Number of predicted TMRs: 0
+BPGRVI_11523	signal	1	39				
+BPGRVI_11523	outside	40	40				
+//
+# BPGRVI_104651 Length: 40
+# BPGRVI_104651 Number of predicted TMRs: 0
+BPGRVI_104651	inside	1	40				
+//
+# BPGRVI_2024 Length: 45
+# BPGRVI_2024 Number of predicted TMRs: 0
+BPGRVI_2024	signal	1	35				
+BPGRVI_2024	outside	36	45				
+//
+# BPGRVI_11140 Length: 39
+# BPGRVI_11140 Number of predicted TMRs: 0
+BPGRVI_11140	signal	1	38				
+BPGRVI_11140	outside	39	39				
+//
+# BPGRVI_123746 Length: 43
+# BPGRVI_123746 Number of predicted TMRs: 0
+BPGRVI_123746	inside	1	43				
+//
+# BPGRVI_48143 Length: 48
+# BPGRVI_48143 Number of predicted TMRs: 0
+BPGRVI_48143	inside	1	48				
+//
+# BPGRVI_71506 Length: 41
+# BPGRVI_71506 Number of predicted TMRs: 0
+BPGRVI_71506	inside	1	41				
+//
+# BPGRVI_75764 Length: 42
+# BPGRVI_75764 Number of predicted TMRs: 0
+BPGRVI_75764	inside	1	42				
+//
+# BPGRVI_59432 Length: 48
+# BPGRVI_59432 Number of predicted TMRs: 0
+BPGRVI_59432	inside	1	48				
+//
+# BPGRVI_19601 Length: 46
+# BPGRVI_19601 Number of predicted TMRs: 0
+BPGRVI_19601	inside	1	46				
+//
+# BPGRVI_119874 Length: 44
+# BPGRVI_119874 Number of predicted TMRs: 0
+BPGRVI_119874	signal	1	43				
+BPGRVI_119874	outside	44	44				
+//
+# BPGRVI_40424 Length: 46
+# BPGRVI_40424 Number of predicted TMRs: 0
+BPGRVI_40424	signal	1	27				
+BPGRVI_40424	outside	28	46				
+//
+# BPGRVI_116856 Length: 40
+# BPGRVI_116856 Number of predicted TMRs: 0
+BPGRVI_116856	signal	1	15				
+BPGRVI_116856	outside	16	40				
+//
+# BPGRVI_169341 Length: 50
+# BPGRVI_169341 Number of predicted TMRs: 0
+BPGRVI_169341	inside	1	50				
+//
+# BPGRVI_82091 Length: 49
+# BPGRVI_82091 Number of predicted TMRs: 0
+BPGRVI_82091	inside	1	49				
+//
+# BPGRVI_27294 Length: 43
+# BPGRVI_27294 Number of predicted TMRs: 0
+BPGRVI_27294	inside	1	43				
+//
+# BPGRVI_61545 Length: 46
+# BPGRVI_61545 Number of predicted TMRs: 0
+BPGRVI_61545	inside	1	46				
+//
+# BPGRVI_71993 Length: 45
+# BPGRVI_71993 Number of predicted TMRs: 0
+BPGRVI_71993	signal	1	43				
+BPGRVI_71993	outside	44	45				
+//
+# BPGRVI_18204 Length: 48
+# BPGRVI_18204 Number of predicted TMRs: 0
+BPGRVI_18204	signal	1	41				
+BPGRVI_18204	outside	42	48				
+//
+# BPGRVI_84314 Length: 30
+# BPGRVI_84314 Number of predicted TMRs: 0
+BPGRVI_84314	inside	1	30				
+//
+# BPGRVI_168573 Length: 38
+# BPGRVI_168573 Number of predicted TMRs: 0
+BPGRVI_168573	inside	1	38				
+//
+# BPGRVI_44267 Length: 40
+# BPGRVI_44267 Number of predicted TMRs: 0
+BPGRVI_44267	inside	1	40				
+//
+# BPGRVI_33280 Length: 46
+# BPGRVI_33280 Number of predicted TMRs: 0
+BPGRVI_33280	signal	1	37				
+BPGRVI_33280	outside	38	46				
+//
+# BPGRVI_141318 Length: 50
+# BPGRVI_141318 Number of predicted TMRs: 0
+BPGRVI_141318	signal	1	47				
+BPGRVI_141318	outside	48	50				
+//
+# BPGRVI_140854 Length: 40
+# BPGRVI_140854 Number of predicted TMRs: 0
+BPGRVI_140854	signal	1	38				
+BPGRVI_140854	outside	39	40				
+//
+# BPGRVI_48610 Length: 47
+# BPGRVI_48610 Number of predicted TMRs: 0
+BPGRVI_48610	inside	1	47				
+//
+# BPGRVI_149925 Length: 46
+# BPGRVI_149925 Number of predicted TMRs: 0
+BPGRVI_149925	inside	1	46				
+//
+# BPGRVI_157516 Length: 44
+# BPGRVI_157516 Number of predicted TMRs: 0
+BPGRVI_157516	signal	1	39				
+BPGRVI_157516	outside	40	44				
+//
+# BPGRVI_90553 Length: 48
+# BPGRVI_90553 Number of predicted TMRs: 0
+BPGRVI_90553	inside	1	48				
+//
+# BPGRVI_164675 Length: 49
+# BPGRVI_164675 Number of predicted TMRs: 0
+BPGRVI_164675	signal	1	44				
+BPGRVI_164675	outside	45	49				
+//
+# BPGRVI_153386 Length: 37
+# BPGRVI_153386 Number of predicted TMRs: 0
+BPGRVI_153386	signal	1	13				
+BPGRVI_153386	outside	14	37				
+//
+# BPGRVI_87894 Length: 44
+# BPGRVI_87894 Number of predicted TMRs: 1
+BPGRVI_87894	inside	1	7				
+BPGRVI_87894	TMhelix	8	25				
+BPGRVI_87894	outside	26	44				
+//
+# BPGRVI_26475 Length: 41
+# BPGRVI_26475 Number of predicted TMRs: 0
+BPGRVI_26475	inside	1	41				
+//
+# BPGRVI_57893 Length: 45
+# BPGRVI_57893 Number of predicted TMRs: 0
+BPGRVI_57893	inside	1	45				
+//
+# BPGRVI_12196 Length: 43
+# BPGRVI_12196 Number of predicted TMRs: 0
+BPGRVI_12196	inside	1	43				
+//
+# BPGRVI_88798 Length: 47
+# BPGRVI_88798 Number of predicted TMRs: 0
+BPGRVI_88798	inside	1	47				
+//
+# BPGRVI_21453 Length: 48
+# BPGRVI_21453 Number of predicted TMRs: 0
+BPGRVI_21453	signal	1	45				
+BPGRVI_21453	outside	46	48				
+//
+# BPGRVI_130038 Length: 33
+# BPGRVI_130038 Number of predicted TMRs: 0
+BPGRVI_130038	inside	1	33				
+//
+# BPGRVI_140692 Length: 43
+# BPGRVI_140692 Number of predicted TMRs: 0
+BPGRVI_140692	inside	1	43				
+//
+# BPGRVI_20795 Length: 38
+# BPGRVI_20795 Number of predicted TMRs: 0
+BPGRVI_20795	signal	1	37				
+BPGRVI_20795	outside	38	38				
+//
+# BPGRVI_38257 Length: 40
+# BPGRVI_38257 Number of predicted TMRs: 0
+BPGRVI_38257	signal	1	35				
+BPGRVI_38257	outside	36	40				
+//
+# BPGRVI_57273 Length: 49
+# BPGRVI_57273 Number of predicted TMRs: 0
+BPGRVI_57273	inside	1	49				
+//
+# BPGRVI_80756 Length: 48
+# BPGRVI_80756 Number of predicted TMRs: 0
+BPGRVI_80756	inside	1	48				
+//
+# BPGRVI_86673 Length: 47
+# BPGRVI_86673 Number of predicted TMRs: 0
+BPGRVI_86673	outside	1	47				
+//
+# BPGRVI_87995 Length: 48
+# BPGRVI_87995 Number of predicted TMRs: 0
+BPGRVI_87995	inside	1	48				
+//
+# BPGRVI_9542 Length: 39
+# BPGRVI_9542 Number of predicted TMRs: 0
+BPGRVI_9542	signal	1	38				
+BPGRVI_9542	outside	39	39				
+//
+# BPGRVI_122997 Length: 42
+# BPGRVI_122997 Number of predicted TMRs: 0
+BPGRVI_122997	inside	1	42				
+//
+# BPGRVI_85201 Length: 48
+# BPGRVI_85201 Number of predicted TMRs: 0
+BPGRVI_85201	inside	1	48				
+//
+# BPGRVI_32865 Length: 48
+# BPGRVI_32865 Number of predicted TMRs: 0
+BPGRVI_32865	inside	1	48				
+//
+# BPGRVI_164041 Length: 49
+# BPGRVI_164041 Number of predicted TMRs: 0
+BPGRVI_164041	inside	1	49				
+//
+# BPGRVI_166944 Length: 49
+# BPGRVI_166944 Number of predicted TMRs: 0
+BPGRVI_166944	inside	1	49				
+//
+# BPGRVI_49022 Length: 50
+# BPGRVI_49022 Number of predicted TMRs: 0
+BPGRVI_49022	signal	1	23				
+BPGRVI_49022	outside	24	50				
+//
+# BPGRVI_73997 Length: 49
+# BPGRVI_73997 Number of predicted TMRs: 0
+BPGRVI_73997	inside	1	49				
+//
+# BPGRVI_171192 Length: 47
+# BPGRVI_171192 Number of predicted TMRs: 0
+BPGRVI_171192	signal	1	46				
+BPGRVI_171192	periplasm	47	47				
+//
+# BPGRVI_151989 Length: 47
+# BPGRVI_151989 Number of predicted TMRs: 0
+BPGRVI_151989	signal	1	22				
+BPGRVI_151989	outside	23	47				
+//
+# BPGRVI_148737 Length: 38
+# BPGRVI_148737 Number of predicted TMRs: 0
+BPGRVI_148737	inside	1	38				
+//
+# BPGRVI_139595 Length: 44
+# BPGRVI_139595 Number of predicted TMRs: 0
+BPGRVI_139595	signal	1	37				
+BPGRVI_139595	outside	38	44				
+//
+# BPGRVI_97001 Length: 45
+# BPGRVI_97001 Number of predicted TMRs: 0
+BPGRVI_97001	inside	1	45				
+//
+# BPGRVI_46617 Length: 48
+# BPGRVI_46617 Number of predicted TMRs: 0
+BPGRVI_46617	inside	1	48				
+//
+# BPGRVI_16129 Length: 41
+# BPGRVI_16129 Number of predicted TMRs: 0
+BPGRVI_16129	signal	1	39				
+BPGRVI_16129	outside	40	41				
+//
+# BPGRVI_20948 Length: 32
+# BPGRVI_20948 Number of predicted TMRs: 0
+BPGRVI_20948	outside	1	32				
+//
+# BPGRVI_140655 Length: 40
+# BPGRVI_140655 Number of predicted TMRs: 0
+BPGRVI_140655	signal	1	26				
+BPGRVI_140655	outside	27	40				
+//
+# BPGRVI_3023 Length: 42
+# BPGRVI_3023 Number of predicted TMRs: 0
+BPGRVI_3023	signal	1	25				
+BPGRVI_3023	outside	26	42				
+//
+# BPGRVI_167376 Length: 39
+# BPGRVI_167376 Number of predicted TMRs: 0
+BPGRVI_167376	outside	1	39				
+//
+# BPGRVI_87209 Length: 46
+# BPGRVI_87209 Number of predicted TMRs: 0
+BPGRVI_87209	signal	1	18				
+BPGRVI_87209	outside	19	46				
+//
+# BPGRVI_145230 Length: 49
+# BPGRVI_145230 Number of predicted TMRs: 0
+BPGRVI_145230	inside	1	49				
+//
+# BPGRVI_75672 Length: 36
+# BPGRVI_75672 Number of predicted TMRs: 0
+BPGRVI_75672	inside	1	36				
+//
+# BPGRVI_46084 Length: 50
+# BPGRVI_46084 Number of predicted TMRs: 0
+BPGRVI_46084	signal	1	48				
+BPGRVI_46084	outside	49	50				
+//
+# BPGRVI_138287 Length: 48
+# BPGRVI_138287 Number of predicted TMRs: 0
+BPGRVI_138287	outside	1	48				
+//
+# BPGRVI_120648 Length: 50
+# BPGRVI_120648 Number of predicted TMRs: 0
+BPGRVI_120648	inside	1	50				
+//
+# BPGRVI_120441 Length: 48
+# BPGRVI_120441 Number of predicted TMRs: 0
+BPGRVI_120441	inside	1	48				
+//
+# BPGRVI_103458 Length: 46
+# BPGRVI_103458 Number of predicted TMRs: 0
+BPGRVI_103458	inside	1	46				
+//
+# BPGRVI_121855 Length: 43
+# BPGRVI_121855 Number of predicted TMRs: 0
+BPGRVI_121855	signal	1	42				
+BPGRVI_121855	outside	43	43				
+//
+# BPGRVI_1365 Length: 49
+# BPGRVI_1365 Number of predicted TMRs: 0
+BPGRVI_1365	signal	1	13				
+BPGRVI_1365	outside	14	49				
+//
+# BPGRVI_99346 Length: 50
+# BPGRVI_99346 Number of predicted TMRs: 0
+BPGRVI_99346	signal	1	35				
+BPGRVI_99346	outside	36	50				
+//
+# BPGRVI_39798 Length: 49
+# BPGRVI_39798 Number of predicted TMRs: 0
+BPGRVI_39798	inside	1	49				
+//
+# BPGRVI_61906 Length: 44
+# BPGRVI_61906 Number of predicted TMRs: 0
+BPGRVI_61906	signal	1	43				
+BPGRVI_61906	outside	44	44				
+//
+# BPGRVI_131096 Length: 48
+# BPGRVI_131096 Number of predicted TMRs: 0
+BPGRVI_131096	signal	1	38				
+BPGRVI_131096	outside	39	48				
+//
+# BPGRVI_142624 Length: 33
+# BPGRVI_142624 Number of predicted TMRs: 0
+BPGRVI_142624	signal	1	21				
+BPGRVI_142624	outside	22	33				
+//
+# BPGRVI_143149 Length: 36
+# BPGRVI_143149 Number of predicted TMRs: 0
+BPGRVI_143149	inside	1	36				
+//
+# BPGRVI_2371 Length: 38
+# BPGRVI_2371 Number of predicted TMRs: 0
+BPGRVI_2371	signal	1	35				
+BPGRVI_2371	outside	36	38				
+//
+# BPGRVI_12332 Length: 49
+# BPGRVI_12332 Number of predicted TMRs: 0
+BPGRVI_12332	outside	1	49				
+//
+# BPGRVI_113897 Length: 47
+# BPGRVI_113897 Number of predicted TMRs: 0
+BPGRVI_113897	inside	1	47				
+//
+# BPGRVI_124258 Length: 37
+# BPGRVI_124258 Number of predicted TMRs: 0
+BPGRVI_124258	inside	1	37				
+//
+# BPGRVI_90292 Length: 50
+# BPGRVI_90292 Number of predicted TMRs: 0
+BPGRVI_90292	inside	1	50				
+//
+# BPGRVI_100427 Length: 43
+# BPGRVI_100427 Number of predicted TMRs: 0
+BPGRVI_100427	inside	1	43				
+//
+# BPGRVI_66852 Length: 36
+# BPGRVI_66852 Number of predicted TMRs: 0
+BPGRVI_66852	signal	1	25				
+BPGRVI_66852	outside	26	36				
+//
+# BPGRVI_50575 Length: 46
+# BPGRVI_50575 Number of predicted TMRs: 0
+BPGRVI_50575	inside	1	46				
+//
+# BPGRVI_64956 Length: 46
+# BPGRVI_64956 Number of predicted TMRs: 0
+BPGRVI_64956	signal	1	25				
+BPGRVI_64956	outside	26	46				
+//
+# BPGRVI_25917 Length: 35
+# BPGRVI_25917 Number of predicted TMRs: 0
+BPGRVI_25917	inside	1	35				
+//
+# BPGRVI_165577 Length: 38
+# BPGRVI_165577 Number of predicted TMRs: 0
+BPGRVI_165577	inside	1	38				
+//
+# BPGRVI_90866 Length: 49
+# BPGRVI_90866 Number of predicted TMRs: 0
+BPGRVI_90866	inside	1	49				
+//
+# BPGRVI_53874 Length: 42
+# BPGRVI_53874 Number of predicted TMRs: 0
+BPGRVI_53874	inside	1	42				
+//
+# BPGRVI_53893 Length: 44
+# BPGRVI_53893 Number of predicted TMRs: 0
+BPGRVI_53893	inside	1	44				
+//
+# BPGRVI_136999 Length: 48
+# BPGRVI_136999 Number of predicted TMRs: 0
+BPGRVI_136999	inside	1	48				
+//
+# BPGRVI_70056 Length: 39
+# BPGRVI_70056 Number of predicted TMRs: 0
+BPGRVI_70056	inside	1	39				
+//
+# BPGRVI_90427 Length: 39
+# BPGRVI_90427 Number of predicted TMRs: 0
+BPGRVI_90427	signal	1	26				
+BPGRVI_90427	outside	27	39				
+//
+# BPGRVI_65056 Length: 45
+# BPGRVI_65056 Number of predicted TMRs: 0
+BPGRVI_65056	inside	1	45				
+//
+# BPGRVI_42524 Length: 49
+# BPGRVI_42524 Number of predicted TMRs: 0
+BPGRVI_42524	inside	1	49				
+//
+# BPGRVI_144902 Length: 45
+# BPGRVI_144902 Number of predicted TMRs: 0
+BPGRVI_144902	outside	1	45				
+//
+# BPGRVI_106576 Length: 37
+# BPGRVI_106576 Number of predicted TMRs: 0
+BPGRVI_106576	outside	1	37				
+//
+# BPGRVI_22955 Length: 50
+# BPGRVI_22955 Number of predicted TMRs: 0
+BPGRVI_22955	inside	1	50				
+//
+# BPGRVI_169338 Length: 43
+# BPGRVI_169338 Number of predicted TMRs: 0
+BPGRVI_169338	inside	1	43				
+//
+# BPGRVI_110262 Length: 48
+# BPGRVI_110262 Number of predicted TMRs: 0
+BPGRVI_110262	inside	1	48				
+//
+# BPGRVI_122011 Length: 37
+# BPGRVI_122011 Number of predicted TMRs: 0
+BPGRVI_122011	signal	1	35				
+BPGRVI_122011	outside	36	37				
+//
+# BPGRVI_88904 Length: 47
+# BPGRVI_88904 Number of predicted TMRs: 0
+BPGRVI_88904	signal	1	46				
+BPGRVI_88904	outside	47	47				
+//
+# BPGRVI_163288 Length: 40
+# BPGRVI_163288 Number of predicted TMRs: 0
+BPGRVI_163288	signal	1	31				
+BPGRVI_163288	outside	32	40				
+//
+# BPGRVI_132721 Length: 40
+# BPGRVI_132721 Number of predicted TMRs: 0
+BPGRVI_132721	inside	1	40				
+//
+# BPGRVI_55261 Length: 46
+# BPGRVI_55261 Number of predicted TMRs: 0
+BPGRVI_55261	inside	1	46				
+//
+# BPGRVI_127722 Length: 38
+# BPGRVI_127722 Number of predicted TMRs: 0
+BPGRVI_127722	inside	1	38				
+//
+# BPGRVI_72563 Length: 30
+# BPGRVI_72563 Number of predicted TMRs: 0
+BPGRVI_72563	signal	1	28				
+BPGRVI_72563	outside	29	30				
+//
+# BPGRVI_91024 Length: 50
+# BPGRVI_91024 Number of predicted TMRs: 0
+BPGRVI_91024	inside	1	50				
+//
+# BPGRVI_125277 Length: 40
+# BPGRVI_125277 Number of predicted TMRs: 0
+BPGRVI_125277	inside	1	40				
+//
+# BPGRVI_61600 Length: 41
+# BPGRVI_61600 Number of predicted TMRs: 0
+BPGRVI_61600	inside	1	41				
+//
+# BPGRVI_163666 Length: 37
+# BPGRVI_163666 Number of predicted TMRs: 0
+BPGRVI_163666	inside	1	37				
+//
+# BPGRVI_173742 Length: 48
+# BPGRVI_173742 Number of predicted TMRs: 0
+BPGRVI_173742	inside	1	48				
+//
+# BPGRVI_29732 Length: 47
+# BPGRVI_29732 Number of predicted TMRs: 0
+BPGRVI_29732	inside	1	47				
+//
+# BPGRVI_14452 Length: 50
+# BPGRVI_14452 Number of predicted TMRs: 0
+BPGRVI_14452	inside	1	50				
+//
+# BPGRVI_121429 Length: 33
+# BPGRVI_121429 Number of predicted TMRs: 0
+BPGRVI_121429	inside	1	33				
+//
+# BPGRVI_138011 Length: 31
+# BPGRVI_138011 Number of predicted TMRs: 0
+BPGRVI_138011	inside	1	31				
+//
+# BPGRVI_122917 Length: 49
+# BPGRVI_122917 Number of predicted TMRs: 0
+BPGRVI_122917	inside	1	49				
+//
+# BPGRVI_61598 Length: 36
+# BPGRVI_61598 Number of predicted TMRs: 0
+BPGRVI_61598	outside	1	36				
+//
+# BPGRVI_166571 Length: 50
+# BPGRVI_166571 Number of predicted TMRs: 0
+BPGRVI_166571	inside	1	50				
+//
+# BPGRVI_23453 Length: 45
+# BPGRVI_23453 Number of predicted TMRs: 0
+BPGRVI_23453	signal	1	22				
+BPGRVI_23453	outside	23	45				
+//
+# BPGRVI_91652 Length: 40
+# BPGRVI_91652 Number of predicted TMRs: 0
+BPGRVI_91652	inside	1	40				
+//
+# BPGRVI_127439 Length: 48
+# BPGRVI_127439 Number of predicted TMRs: 0
+BPGRVI_127439	inside	1	48				
+//
+# BPGRVI_6880 Length: 49
+# BPGRVI_6880 Number of predicted TMRs: 0
+BPGRVI_6880	inside	1	49				
+//
+# BPGRVI_12093 Length: 44
+# BPGRVI_12093 Number of predicted TMRs: 0
+BPGRVI_12093	signal	1	26				
+BPGRVI_12093	outside	27	44				
+//
+# BPGRVI_8780 Length: 46
+# BPGRVI_8780 Number of predicted TMRs: 0
+BPGRVI_8780	inside	1	46				
+//
+# BPGRVI_126908 Length: 47
+# BPGRVI_126908 Number of predicted TMRs: 0
+BPGRVI_126908	inside	1	47				
+//
+# BPGRVI_96118 Length: 44
+# BPGRVI_96118 Number of predicted TMRs: 0
+BPGRVI_96118	signal	1	37				
+BPGRVI_96118	outside	38	44				
+//
+# BPGRVI_155000 Length: 48
+# BPGRVI_155000 Number of predicted TMRs: 0
+BPGRVI_155000	inside	1	48				
+//
+# BPGRVI_80330 Length: 34
+# BPGRVI_80330 Number of predicted TMRs: 0
+BPGRVI_80330	inside	1	34				
+//
+# BPGRVI_62671 Length: 48
+# BPGRVI_62671 Number of predicted TMRs: 0
+BPGRVI_62671	inside	1	48				
+//
+# BPGRVI_44492 Length: 38
+# BPGRVI_44492 Number of predicted TMRs: 0
+BPGRVI_44492	inside	1	38				
+//
+# BPGRVI_116611 Length: 42
+# BPGRVI_116611 Number of predicted TMRs: 0
+BPGRVI_116611	signal	1	23				
+BPGRVI_116611	outside	24	42				
+//
+# BPGRVI_132903 Length: 48
+# BPGRVI_132903 Number of predicted TMRs: 0
+BPGRVI_132903	signal	1	40				
+BPGRVI_132903	outside	41	48				
+//
+# BPGRVI_137610 Length: 48
+# BPGRVI_137610 Number of predicted TMRs: 0
+BPGRVI_137610	signal	1	35				
+BPGRVI_137610	outside	36	48				
+//
+# BPGRVI_11216 Length: 45
+# BPGRVI_11216 Number of predicted TMRs: 0
+BPGRVI_11216	signal	1	44				
+BPGRVI_11216	outside	45	45				
+//
+# BPGRVI_33088 Length: 40
+# BPGRVI_33088 Number of predicted TMRs: 0
+BPGRVI_33088	inside	1	40				
+//
+# BPGRVI_120065 Length: 49
+# BPGRVI_120065 Number of predicted TMRs: 0
+BPGRVI_120065	inside	1	49				
+//
+# BPGRVI_144586 Length: 46
+# BPGRVI_144586 Number of predicted TMRs: 0
+BPGRVI_144586	signal	1	18				
+BPGRVI_144586	outside	19	46				
+//
+# BPGRVI_173018 Length: 42
+# BPGRVI_173018 Number of predicted TMRs: 0
+BPGRVI_173018	inside	1	42				
+//
+# BPGRVI_94005 Length: 48
+# BPGRVI_94005 Number of predicted TMRs: 0
+BPGRVI_94005	inside	1	48				
+//
+# BPGRVI_88832 Length: 46
+# BPGRVI_88832 Number of predicted TMRs: 0
+BPGRVI_88832	inside	1	46				
+//
+# BPGRVI_129562 Length: 46
+# BPGRVI_129562 Number of predicted TMRs: 0
+BPGRVI_129562	inside	1	46				
+//
+# BPGRVI_124780 Length: 38
+# BPGRVI_124780 Number of predicted TMRs: 0
+BPGRVI_124780	signal	1	33				
+BPGRVI_124780	outside	34	38				
+//
+# BPGRVI_8752 Length: 46
+# BPGRVI_8752 Number of predicted TMRs: 0
+BPGRVI_8752	signal	1	37				
+BPGRVI_8752	outside	38	46				
+//
+# BPGRVI_68439 Length: 43
+# BPGRVI_68439 Number of predicted TMRs: 0
+BPGRVI_68439	inside	1	43				
+//
+# BPGRVI_126824 Length: 44
+# BPGRVI_126824 Number of predicted TMRs: 0
+BPGRVI_126824	signal	1	41				
+BPGRVI_126824	outside	42	44				
+//
+# BPGRVI_36938 Length: 39
+# BPGRVI_36938 Number of predicted TMRs: 0
+BPGRVI_36938	signal	1	37				
+BPGRVI_36938	outside	38	39				
+//
+# BPGRVI_21867 Length: 43
+# BPGRVI_21867 Number of predicted TMRs: 0
+BPGRVI_21867	inside	1	43				
+//
+# BPGRVI_53197 Length: 49
+# BPGRVI_53197 Number of predicted TMRs: 0
+BPGRVI_53197	inside	1	49				
+//
+# BPGRVI_134353 Length: 45
+# BPGRVI_134353 Number of predicted TMRs: 0
+BPGRVI_134353	inside	1	45				
+//
+# BPGRVI_110379 Length: 38
+# BPGRVI_110379 Number of predicted TMRs: 0
+BPGRVI_110379	inside	1	38				
+//
+# BPGRVI_86523 Length: 50
+# BPGRVI_86523 Number of predicted TMRs: 0
+BPGRVI_86523	inside	1	50				
+//
+# BPGRVI_90865 Length: 30
+# BPGRVI_90865 Number of predicted TMRs: 0
+BPGRVI_90865	signal	1	18				
+BPGRVI_90865	outside	19	30				
+//
+# BPGRVI_60880 Length: 44
+# BPGRVI_60880 Number of predicted TMRs: 0
+BPGRVI_60880	inside	1	44				
+//
+# BPGRVI_120779 Length: 48
+# BPGRVI_120779 Number of predicted TMRs: 0
+BPGRVI_120779	inside	1	48				
+//
+# BPGRVI_24458 Length: 44
+# BPGRVI_24458 Number of predicted TMRs: 0
+BPGRVI_24458	inside	1	44				
+//
+# BPGRVI_76079 Length: 49
+# BPGRVI_76079 Number of predicted TMRs: 0
+BPGRVI_76079	inside	1	49				
+//
+# BPGRVI_124308 Length: 45
+# BPGRVI_124308 Number of predicted TMRs: 0
+BPGRVI_124308	inside	1	45				
+//
+# BPGRVI_97333 Length: 47
+# BPGRVI_97333 Number of predicted TMRs: 0
+BPGRVI_97333	inside	1	47				
+//
+# BPGRVI_102724 Length: 46
+# BPGRVI_102724 Number of predicted TMRs: 0
+BPGRVI_102724	inside	1	46				
+//
+# BPGRVI_118917 Length: 36
+# BPGRVI_118917 Number of predicted TMRs: 0
+BPGRVI_118917	signal	1	33				
+BPGRVI_118917	outside	34	36				
+//
+# BPGRVI_17556 Length: 31
+# BPGRVI_17556 Number of predicted TMRs: 0
+BPGRVI_17556	signal	1	30				
+BPGRVI_17556	outside	31	31				
+//
+# BPGRVI_12053 Length: 50
+# BPGRVI_12053 Number of predicted TMRs: 0
+BPGRVI_12053	inside	1	50				
+//
+# BPGRVI_71391 Length: 49
+# BPGRVI_71391 Number of predicted TMRs: 0
+BPGRVI_71391	signal	1	48				
+BPGRVI_71391	outside	49	49				
+//
+# BPGRVI_118396 Length: 46
+# BPGRVI_118396 Number of predicted TMRs: 0
+BPGRVI_118396	inside	1	46				
+//
+# BPGRVI_116226 Length: 48
+# BPGRVI_116226 Number of predicted TMRs: 0
+BPGRVI_116226	signal	1	13				
+BPGRVI_116226	outside	14	48				
+//
+# BPGRVI_21402 Length: 36
+# BPGRVI_21402 Number of predicted TMRs: 0
+BPGRVI_21402	inside	1	36				
+//
+# BPGRVI_28208 Length: 50
+# BPGRVI_28208 Number of predicted TMRs: 0
+BPGRVI_28208	signal	1	49				
+BPGRVI_28208	outside	50	50				
+//
+# BPGRVI_141106 Length: 44
+# BPGRVI_141106 Number of predicted TMRs: 0
+BPGRVI_141106	inside	1	44				
+//
+# BPGRVI_127529 Length: 40
+# BPGRVI_127529 Number of predicted TMRs: 0
+BPGRVI_127529	signal	1	25				
+BPGRVI_127529	outside	26	40				
+//
+# BPGRVI_82305 Length: 39
+# BPGRVI_82305 Number of predicted TMRs: 0
+BPGRVI_82305	inside	1	39				
+//
+# BPGRVI_30804 Length: 48
+# BPGRVI_30804 Number of predicted TMRs: 0
+BPGRVI_30804	inside	1	48				
+//
+# BPGRVI_38909 Length: 49
+# BPGRVI_38909 Number of predicted TMRs: 0
+BPGRVI_38909	inside	1	49				
+//
+# BPGRVI_133404 Length: 41
+# BPGRVI_133404 Number of predicted TMRs: 0
+BPGRVI_133404	inside	1	41				
+//
+# BPGRVI_134854 Length: 48
+# BPGRVI_134854 Number of predicted TMRs: 0
+BPGRVI_134854	inside	1	48				
+//
+# BPGRVI_140291 Length: 49
+# BPGRVI_140291 Number of predicted TMRs: 0
+BPGRVI_140291	signal	1	44				
+BPGRVI_140291	outside	45	49				
+//
+# BPGRVI_117281 Length: 40
+# BPGRVI_117281 Number of predicted TMRs: 0
+BPGRVI_117281	signal	1	17				
+BPGRVI_117281	outside	18	40				
+//
+# BPGRVI_80961 Length: 41
+# BPGRVI_80961 Number of predicted TMRs: 0
+BPGRVI_80961	signal	1	39				
+BPGRVI_80961	outside	40	41				
+//
+# BPGRVI_32987 Length: 48
+# BPGRVI_32987 Number of predicted TMRs: 0
+BPGRVI_32987	signal	1	21				
+BPGRVI_32987	outside	22	48				
+//
+# BPGRVI_62522 Length: 47
+# BPGRVI_62522 Number of predicted TMRs: 0
+BPGRVI_62522	inside	1	47				
+//
+# BPGRVI_5235 Length: 48
+# BPGRVI_5235 Number of predicted TMRs: 0
+BPGRVI_5235	signal	1	47				
+BPGRVI_5235	outside	48	48				
+//
+# BPGRVI_33924 Length: 44
+# BPGRVI_33924 Number of predicted TMRs: 0
+BPGRVI_33924	signal	1	43				
+BPGRVI_33924	outside	44	44				
+//
+# BPGRVI_152434 Length: 47
+# BPGRVI_152434 Number of predicted TMRs: 0
+BPGRVI_152434	inside	1	47				
+//
+# BPGRVI_32458 Length: 42
+# BPGRVI_32458 Number of predicted TMRs: 0
+BPGRVI_32458	inside	1	42				
+//
+# BPGRVI_37111 Length: 33
+# BPGRVI_37111 Number of predicted TMRs: 0
+BPGRVI_37111	signal	1	24				
+BPGRVI_37111	outside	25	33				
+//
+# BPGRVI_26963 Length: 38
+# BPGRVI_26963 Number of predicted TMRs: 0
+BPGRVI_26963	signal	1	23				
+BPGRVI_26963	outside	24	38				
+//
+# BPGRVI_145047 Length: 49
+# BPGRVI_145047 Number of predicted TMRs: 0
+BPGRVI_145047	inside	1	49				
+//
+# BPGRVI_168575 Length: 41
+# BPGRVI_168575 Number of predicted TMRs: 0
+BPGRVI_168575	signal	1	39				
+BPGRVI_168575	outside	40	41				
+//
+# BPGRVI_37394 Length: 46
+# BPGRVI_37394 Number of predicted TMRs: 0
+BPGRVI_37394	inside	1	46				
+//
+# BPGRVI_99777 Length: 44
+# BPGRVI_99777 Number of predicted TMRs: 0
+BPGRVI_99777	signal	1	43				
+BPGRVI_99777	outside	44	44				
+//
+# BPGRVI_133508 Length: 48
+# BPGRVI_133508 Number of predicted TMRs: 0
+BPGRVI_133508	inside	1	48				
+//
+# BPGRVI_57330 Length: 36
+# BPGRVI_57330 Number of predicted TMRs: 0
+BPGRVI_57330	signal	1	34				
+BPGRVI_57330	outside	35	36				
+//
+# BPGRVI_66587 Length: 41
+# BPGRVI_66587 Number of predicted TMRs: 0
+BPGRVI_66587	signal	1	38				
+BPGRVI_66587	outside	39	41				
+//
+# BPGRVI_133857 Length: 39
+# BPGRVI_133857 Number of predicted TMRs: 0
+BPGRVI_133857	inside	1	39				
+//
+# BPGRVI_2053 Length: 44
+# BPGRVI_2053 Number of predicted TMRs: 0
+BPGRVI_2053	signal	1	43				
+BPGRVI_2053	outside	44	44				
+//
+# BPGRVI_68573 Length: 43
+# BPGRVI_68573 Number of predicted TMRs: 0
+BPGRVI_68573	signal	1	42				
+BPGRVI_68573	outside	43	43				
+//
+# BPGRVI_83988 Length: 41
+# BPGRVI_83988 Number of predicted TMRs: 0
+BPGRVI_83988	signal	1	24				
+BPGRVI_83988	outside	25	41				
+//
+# BPGRVI_80994 Length: 43
+# BPGRVI_80994 Number of predicted TMRs: 0
+BPGRVI_80994	inside	1	43				
+//
+# BPGRVI_18668 Length: 40
+# BPGRVI_18668 Number of predicted TMRs: 0
+BPGRVI_18668	inside	1	40				
+//
+# BPGRVI_131061 Length: 50
+# BPGRVI_131061 Number of predicted TMRs: 0
+BPGRVI_131061	signal	1	49				
+BPGRVI_131061	outside	50	50				
+//
+# BPGRVI_130777 Length: 46
+# BPGRVI_130777 Number of predicted TMRs: 0
+BPGRVI_130777	inside	1	46				
+//
+# BPGRVI_78523 Length: 48
+# BPGRVI_78523 Number of predicted TMRs: 0
+BPGRVI_78523	signal	1	23				
+BPGRVI_78523	outside	24	48				
+//
+# BPGRVI_116990 Length: 46
+# BPGRVI_116990 Number of predicted TMRs: 0
+BPGRVI_116990	inside	1	46				
+//
+# BPGRVI_7673 Length: 43
+# BPGRVI_7673 Number of predicted TMRs: 0
+BPGRVI_7673	inside	1	43				
+//
+# BPGRVI_30976 Length: 49
+# BPGRVI_30976 Number of predicted TMRs: 0
+BPGRVI_30976	inside	1	49				
+//
+# BPGRVI_103711 Length: 47
+# BPGRVI_103711 Number of predicted TMRs: 0
+BPGRVI_103711	inside	1	47				
+//
+# BPGRVI_87062 Length: 47
+# BPGRVI_87062 Number of predicted TMRs: 0
+BPGRVI_87062	inside	1	47				
+//
+# BPGRVI_140403 Length: 43
+# BPGRVI_140403 Number of predicted TMRs: 0
+BPGRVI_140403	inside	1	43				
+//
+# BPGRVI_140442 Length: 44
+# BPGRVI_140442 Number of predicted TMRs: 0
+BPGRVI_140442	inside	1	44				
+//
+# BPGRVI_84736 Length: 45
+# BPGRVI_84736 Number of predicted TMRs: 0
+BPGRVI_84736	signal	1	20				
+BPGRVI_84736	outside	21	45				
+//
+# BPGRVI_5097 Length: 46
+# BPGRVI_5097 Number of predicted TMRs: 0
+BPGRVI_5097	inside	1	46				
+//
+# BPGRVI_80544 Length: 48
+# BPGRVI_80544 Number of predicted TMRs: 0
+BPGRVI_80544	inside	1	48				
+//
+# BPGRVI_68421 Length: 47
+# BPGRVI_68421 Number of predicted TMRs: 0
+BPGRVI_68421	inside	1	47				
+//
+# BPGRVI_153935 Length: 47
+# BPGRVI_153935 Number of predicted TMRs: 0
+BPGRVI_153935	inside	1	47				
+//
+# BPGRVI_144537 Length: 46
+# BPGRVI_144537 Number of predicted TMRs: 0
+BPGRVI_144537	signal	1	45				
+BPGRVI_144537	outside	46	46				
+//
+# BPGRVI_117177 Length: 41
+# BPGRVI_117177 Number of predicted TMRs: 0
+BPGRVI_117177	inside	1	41				
+//
+# BPGRVI_159273 Length: 49
+# BPGRVI_159273 Number of predicted TMRs: 0
+BPGRVI_159273	inside	1	49				
+//
+# BPGRVI_147267 Length: 39
+# BPGRVI_147267 Number of predicted TMRs: 0
+BPGRVI_147267	signal	1	32				
+BPGRVI_147267	outside	33	39				
+//
+# BPGRVI_165070 Length: 50
+# BPGRVI_165070 Number of predicted TMRs: 0
+BPGRVI_165070	inside	1	50				
+//
+# BPGRVI_168938 Length: 46
+# BPGRVI_168938 Number of predicted TMRs: 0
+BPGRVI_168938	signal	1	20				
+BPGRVI_168938	outside	21	46				
+//
+# BPGRVI_162802 Length: 39
+# BPGRVI_162802 Number of predicted TMRs: 0
+BPGRVI_162802	inside	1	39				
+//
+# BPGRVI_9366 Length: 44
+# BPGRVI_9366 Number of predicted TMRs: 0
+BPGRVI_9366	signal	1	22				
+BPGRVI_9366	outside	23	44				
+//
+# BPGRVI_102318 Length: 50
+# BPGRVI_102318 Number of predicted TMRs: 0
+BPGRVI_102318	inside	1	50				
+//
+# BPGRVI_97539 Length: 42
+# BPGRVI_97539 Number of predicted TMRs: 0
+BPGRVI_97539	inside	1	42				
+//
+# BPGRVI_54787 Length: 50
+# BPGRVI_54787 Number of predicted TMRs: 0
+BPGRVI_54787	inside	1	50				
+//
+# BPGRVI_122881 Length: 45
+# BPGRVI_122881 Number of predicted TMRs: 0
+BPGRVI_122881	inside	1	45				
+//
+# BPGRVI_17324 Length: 43
+# BPGRVI_17324 Number of predicted TMRs: 0
+BPGRVI_17324	inside	1	43				
+//
+# BPGRVI_170178 Length: 49
+# BPGRVI_170178 Number of predicted TMRs: 0
+BPGRVI_170178	inside	1	49				
+//
+# BPGRVI_137983 Length: 33
+# BPGRVI_137983 Number of predicted TMRs: 0
+BPGRVI_137983	inside	1	33				
+//
+# BPGRVI_75461 Length: 48
+# BPGRVI_75461 Number of predicted TMRs: 0
+BPGRVI_75461	signal	1	47				
+BPGRVI_75461	outside	48	48				
+//
+# BPGRVI_144059 Length: 47
+# BPGRVI_144059 Number of predicted TMRs: 0
+BPGRVI_144059	signal	1	46				
+BPGRVI_144059	outside	47	47				
+//
+# BPGRVI_115961 Length: 38
+# BPGRVI_115961 Number of predicted TMRs: 0
+BPGRVI_115961	inside	1	38				
+//
+# BPGRVI_130047 Length: 39
+# BPGRVI_130047 Number of predicted TMRs: 0
+BPGRVI_130047	signal	1	37				
+BPGRVI_130047	outside	38	39				
+//
+# BPGRVI_165868 Length: 42
+# BPGRVI_165868 Number of predicted TMRs: 0
+BPGRVI_165868	inside	1	42				
+//
+# BPGRVI_6331 Length: 49
+# BPGRVI_6331 Number of predicted TMRs: 0
+BPGRVI_6331	signal	1	40				
+BPGRVI_6331	outside	41	49				
+//
+# BPGRVI_88980 Length: 50
+# BPGRVI_88980 Number of predicted TMRs: 0
+BPGRVI_88980	inside	1	50				
+//
+# BPGRVI_169130 Length: 46
+# BPGRVI_169130 Number of predicted TMRs: 0
+BPGRVI_169130	signal	1	15				
+BPGRVI_169130	outside	16	46				
+//
+# BPGRVI_3953 Length: 40
+# BPGRVI_3953 Number of predicted TMRs: 0
+BPGRVI_3953	signal	1	39				
+BPGRVI_3953	outside	40	40				
+//
+# BPGRVI_136740 Length: 43
+# BPGRVI_136740 Number of predicted TMRs: 0
+BPGRVI_136740	signal	1	24				
+BPGRVI_136740	outside	25	43				
+//
+# BPGRVI_87317 Length: 42
+# BPGRVI_87317 Number of predicted TMRs: 0
+BPGRVI_87317	inside	1	42				
+//
+# BPGRVI_151054 Length: 50
+# BPGRVI_151054 Number of predicted TMRs: 0
+BPGRVI_151054	inside	1	50				
+//
+# BPGRVI_114080 Length: 40
+# BPGRVI_114080 Number of predicted TMRs: 0
+BPGRVI_114080	signal	1	20				
+BPGRVI_114080	outside	21	40				
+//
+# BPGRVI_45096 Length: 42
+# BPGRVI_45096 Number of predicted TMRs: 0
+BPGRVI_45096	signal	1	10				
+BPGRVI_45096	outside	11	42				
+//
+# BPGRVI_135912 Length: 45
+# BPGRVI_135912 Number of predicted TMRs: 0
+BPGRVI_135912	inside	1	45				
+//
+# BPGRVI_61262 Length: 44
+# BPGRVI_61262 Number of predicted TMRs: 0
+BPGRVI_61262	inside	1	44				
+//
+# BPGRVI_10901 Length: 49
+# BPGRVI_10901 Number of predicted TMRs: 0
+BPGRVI_10901	inside	1	49				
+//
+# BPGRVI_74390 Length: 42
+# BPGRVI_74390 Number of predicted TMRs: 0
+BPGRVI_74390	inside	1	42				
+//
+# BPGRVI_168598 Length: 49
+# BPGRVI_168598 Number of predicted TMRs: 0
+BPGRVI_168598	inside	1	49				
+//
+# BPGRVI_80206 Length: 44
+# BPGRVI_80206 Number of predicted TMRs: 0
+BPGRVI_80206	inside	1	44				

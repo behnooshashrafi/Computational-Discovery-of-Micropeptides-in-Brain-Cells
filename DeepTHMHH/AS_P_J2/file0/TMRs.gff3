@@ -1,0 +1,4370 @@
+##gff-version 3
+# ZIVNLE_139754 Length: 50
+# ZIVNLE_139754 Number of predicted TMRs: 0
+ZIVNLE_139754	inside	1	50				
+//
+# ZIVNLE_61809 Length: 46
+# ZIVNLE_61809 Number of predicted TMRs: 0
+ZIVNLE_61809	signal	1	20				
+ZIVNLE_61809	outside	21	46				
+//
+# ZIVNLE_51571 Length: 44
+# ZIVNLE_51571 Number of predicted TMRs: 0
+ZIVNLE_51571	inside	1	44				
+//
+# ZIVNLE_58060 Length: 46
+# ZIVNLE_58060 Number of predicted TMRs: 0
+ZIVNLE_58060	inside	1	46				
+//
+# ZIVNLE_37280 Length: 46
+# ZIVNLE_37280 Number of predicted TMRs: 0
+ZIVNLE_37280	inside	1	46				
+//
+# ZIVNLE_43685 Length: 40
+# ZIVNLE_43685 Number of predicted TMRs: 0
+ZIVNLE_43685	inside	1	40				
+//
+# ZIVNLE_34148 Length: 44
+# ZIVNLE_34148 Number of predicted TMRs: 0
+ZIVNLE_34148	inside	1	44				
+//
+# ZIVNLE_70187 Length: 44
+# ZIVNLE_70187 Number of predicted TMRs: 0
+ZIVNLE_70187	inside	1	44				
+//
+# ZIVNLE_14558 Length: 46
+# ZIVNLE_14558 Number of predicted TMRs: 0
+ZIVNLE_14558	signal	1	19				
+ZIVNLE_14558	outside	20	46				
+//
+# ZIVNLE_123286 Length: 47
+# ZIVNLE_123286 Number of predicted TMRs: 0
+ZIVNLE_123286	inside	1	47				
+//
+# ZIVNLE_91490 Length: 35
+# ZIVNLE_91490 Number of predicted TMRs: 0
+ZIVNLE_91490	inside	1	35				
+//
+# ZIVNLE_111577 Length: 39
+# ZIVNLE_111577 Number of predicted TMRs: 0
+ZIVNLE_111577	signal	1	38				
+ZIVNLE_111577	outside	39	39				
+//
+# ZIVNLE_19636 Length: 50
+# ZIVNLE_19636 Number of predicted TMRs: 0
+ZIVNLE_19636	inside	1	50				
+//
+# ZIVNLE_53900 Length: 37
+# ZIVNLE_53900 Number of predicted TMRs: 0
+ZIVNLE_53900	signal	1	24				
+ZIVNLE_53900	outside	25	37				
+//
+# ZIVNLE_13680 Length: 49
+# ZIVNLE_13680 Number of predicted TMRs: 0
+ZIVNLE_13680	inside	1	49				
+//
+# ZIVNLE_65994 Length: 38
+# ZIVNLE_65994 Number of predicted TMRs: 0
+ZIVNLE_65994	signal	1	15				
+ZIVNLE_65994	outside	16	38				
+//
+# ZIVNLE_45248 Length: 46
+# ZIVNLE_45248 Number of predicted TMRs: 0
+ZIVNLE_45248	signal	1	23				
+ZIVNLE_45248	outside	24	46				
+//
+# ZIVNLE_170241 Length: 50
+# ZIVNLE_170241 Number of predicted TMRs: 0
+ZIVNLE_170241	inside	1	50				
+//
+# ZIVNLE_124470 Length: 39
+# ZIVNLE_124470 Number of predicted TMRs: 0
+ZIVNLE_124470	inside	1	39				
+//
+# ZIVNLE_60621 Length: 36
+# ZIVNLE_60621 Number of predicted TMRs: 0
+ZIVNLE_60621	inside	1	36				
+//
+# ZIVNLE_138569 Length: 49
+# ZIVNLE_138569 Number of predicted TMRs: 0
+ZIVNLE_138569	inside	1	49				
+//
+# ZIVNLE_83404 Length: 48
+# ZIVNLE_83404 Number of predicted TMRs: 0
+ZIVNLE_83404	inside	1	48				
+//
+# ZIVNLE_59270 Length: 38
+# ZIVNLE_59270 Number of predicted TMRs: 0
+ZIVNLE_59270	inside	1	38				
+//
+# ZIVNLE_125444 Length: 45
+# ZIVNLE_125444 Number of predicted TMRs: 0
+ZIVNLE_125444	inside	1	45				
+//
+# ZIVNLE_22746 Length: 49
+# ZIVNLE_22746 Number of predicted TMRs: 0
+ZIVNLE_22746	inside	1	49				
+//
+# ZIVNLE_60461 Length: 39
+# ZIVNLE_60461 Number of predicted TMRs: 0
+ZIVNLE_60461	inside	1	39				
+//
+# ZIVNLE_133796 Length: 40
+# ZIVNLE_133796 Number of predicted TMRs: 0
+ZIVNLE_133796	inside	1	40				
+//
+# ZIVNLE_91680 Length: 48
+# ZIVNLE_91680 Number of predicted TMRs: 0
+ZIVNLE_91680	inside	1	48				
+//
+# ZIVNLE_128949 Length: 40
+# ZIVNLE_128949 Number of predicted TMRs: 0
+ZIVNLE_128949	inside	1	40				
+//
+# ZIVNLE_31083 Length: 39
+# ZIVNLE_31083 Number of predicted TMRs: 1
+ZIVNLE_31083	signal	1	13				
+ZIVNLE_31083	outside	14	14				
+ZIVNLE_31083	TMhelix	15	34				
+ZIVNLE_31083	inside	35	39				
+//
+# ZIVNLE_95432 Length: 43
+# ZIVNLE_95432 Number of predicted TMRs: 0
+ZIVNLE_95432	signal	1	42				
+ZIVNLE_95432	outside	43	43				
+//
+# ZIVNLE_52354 Length: 36
+# ZIVNLE_52354 Number of predicted TMRs: 0
+ZIVNLE_52354	inside	1	36				
+//
+# ZIVNLE_31297 Length: 48
+# ZIVNLE_31297 Number of predicted TMRs: 0
+ZIVNLE_31297	inside	1	48				
+//
+# ZIVNLE_77533 Length: 48
+# ZIVNLE_77533 Number of predicted TMRs: 0
+ZIVNLE_77533	inside	1	48				
+//
+# ZIVNLE_66401 Length: 46
+# ZIVNLE_66401 Number of predicted TMRs: 0
+ZIVNLE_66401	inside	1	46				
+//
+# ZIVNLE_47259 Length: 34
+# ZIVNLE_47259 Number of predicted TMRs: 0
+ZIVNLE_47259	signal	1	30				
+ZIVNLE_47259	outside	31	34				
+//
+# ZIVNLE_87695 Length: 48
+# ZIVNLE_87695 Number of predicted TMRs: 0
+ZIVNLE_87695	inside	1	48				
+//
+# ZIVNLE_5317 Length: 45
+# ZIVNLE_5317 Number of predicted TMRs: 0
+ZIVNLE_5317	signal	1	10				
+ZIVNLE_5317	outside	11	45				
+//
+# ZIVNLE_127410 Length: 44
+# ZIVNLE_127410 Number of predicted TMRs: 0
+ZIVNLE_127410	signal	1	20				
+ZIVNLE_127410	outside	21	44				
+//
+# ZIVNLE_162512 Length: 40
+# ZIVNLE_162512 Number of predicted TMRs: 0
+ZIVNLE_162512	inside	1	40				
+//
+# ZIVNLE_97277 Length: 47
+# ZIVNLE_97277 Number of predicted TMRs: 0
+ZIVNLE_97277	inside	1	47				
+//
+# ZIVNLE_97264 Length: 40
+# ZIVNLE_97264 Number of predicted TMRs: 0
+ZIVNLE_97264	inside	1	40				
+//
+# ZIVNLE_97291 Length: 31
+# ZIVNLE_97291 Number of predicted TMRs: 0
+ZIVNLE_97291	inside	1	31				
+//
+# ZIVNLE_80437 Length: 40
+# ZIVNLE_80437 Number of predicted TMRs: 0
+ZIVNLE_80437	inside	1	40				
+//
+# ZIVNLE_70301 Length: 42
+# ZIVNLE_70301 Number of predicted TMRs: 0
+ZIVNLE_70301	inside	1	42				
+//
+# ZIVNLE_113700 Length: 49
+# ZIVNLE_113700 Number of predicted TMRs: 0
+ZIVNLE_113700	inside	1	49				
+//
+# ZIVNLE_88784 Length: 44
+# ZIVNLE_88784 Number of predicted TMRs: 0
+ZIVNLE_88784	inside	1	44				
+//
+# ZIVNLE_36350 Length: 41
+# ZIVNLE_36350 Number of predicted TMRs: 0
+ZIVNLE_36350	inside	1	41				
+//
+# ZIVNLE_72556 Length: 49
+# ZIVNLE_72556 Number of predicted TMRs: 0
+ZIVNLE_72556	inside	1	49				
+//
+# ZIVNLE_23786 Length: 47
+# ZIVNLE_23786 Number of predicted TMRs: 0
+ZIVNLE_23786	inside	1	47				
+//
+# ZIVNLE_7972 Length: 36
+# ZIVNLE_7972 Number of predicted TMRs: 0
+ZIVNLE_7972	inside	1	36				
+//
+# ZIVNLE_7123 Length: 49
+# ZIVNLE_7123 Number of predicted TMRs: 0
+ZIVNLE_7123	inside	1	49				
+//
+# ZIVNLE_16925 Length: 34
+# ZIVNLE_16925 Number of predicted TMRs: 0
+ZIVNLE_16925	inside	1	34				
+//
+# ZIVNLE_27706 Length: 50
+# ZIVNLE_27706 Number of predicted TMRs: 0
+ZIVNLE_27706	signal	1	49				
+ZIVNLE_27706	outside	50	50				
+//
+# ZIVNLE_138710 Length: 49
+# ZIVNLE_138710 Number of predicted TMRs: 0
+ZIVNLE_138710	inside	1	49				
+//
+# ZIVNLE_72831 Length: 48
+# ZIVNLE_72831 Number of predicted TMRs: 0
+ZIVNLE_72831	inside	1	48				
+//
+# ZIVNLE_63418 Length: 43
+# ZIVNLE_63418 Number of predicted TMRs: 0
+ZIVNLE_63418	signal	1	18				
+ZIVNLE_63418	outside	19	43				
+//
+# ZIVNLE_145493 Length: 47
+# ZIVNLE_145493 Number of predicted TMRs: 0
+ZIVNLE_145493	inside	1	47				
+//
+# ZIVNLE_67303 Length: 28
+# ZIVNLE_67303 Number of predicted TMRs: 0
+ZIVNLE_67303	signal	1	27				
+ZIVNLE_67303	outside	28	28				
+//
+# ZIVNLE_7785 Length: 40
+# ZIVNLE_7785 Number of predicted TMRs: 0
+ZIVNLE_7785	signal	1	14				
+ZIVNLE_7785	outside	15	40				
+//
+# ZIVNLE_138392 Length: 41
+# ZIVNLE_138392 Number of predicted TMRs: 0
+ZIVNLE_138392	signal	1	37				
+ZIVNLE_138392	outside	38	41				
+//
+# ZIVNLE_155314 Length: 39
+# ZIVNLE_155314 Number of predicted TMRs: 0
+ZIVNLE_155314	signal	1	35				
+ZIVNLE_155314	outside	36	39				
+//
+# ZIVNLE_68200 Length: 49
+# ZIVNLE_68200 Number of predicted TMRs: 0
+ZIVNLE_68200	inside	1	49				
+//
+# ZIVNLE_57920 Length: 33
+# ZIVNLE_57920 Number of predicted TMRs: 0
+ZIVNLE_57920	inside	1	33				
+//
+# ZIVNLE_57917 Length: 50
+# ZIVNLE_57917 Number of predicted TMRs: 0
+ZIVNLE_57917	inside	1	50				
+//
+# ZIVNLE_65429 Length: 42
+# ZIVNLE_65429 Number of predicted TMRs: 0
+ZIVNLE_65429	inside	1	42				
+//
+# ZIVNLE_166054 Length: 43
+# ZIVNLE_166054 Number of predicted TMRs: 0
+ZIVNLE_166054	inside	1	43				
+//
+# ZIVNLE_54699 Length: 46
+# ZIVNLE_54699 Number of predicted TMRs: 0
+ZIVNLE_54699	inside	1	46				
+//
+# ZIVNLE_94138 Length: 45
+# ZIVNLE_94138 Number of predicted TMRs: 0
+ZIVNLE_94138	inside	1	45				
+//
+# ZIVNLE_29954 Length: 50
+# ZIVNLE_29954 Number of predicted TMRs: 0
+ZIVNLE_29954	inside	1	50				
+//
+# ZIVNLE_150168 Length: 28
+# ZIVNLE_150168 Number of predicted TMRs: 0
+ZIVNLE_150168	signal	1	27				
+ZIVNLE_150168	outside	28	28				
+//
+# ZIVNLE_146876 Length: 40
+# ZIVNLE_146876 Number of predicted TMRs: 0
+ZIVNLE_146876	signal	1	30				
+ZIVNLE_146876	outside	31	40				
+//
+# ZIVNLE_30897 Length: 48
+# ZIVNLE_30897 Number of predicted TMRs: 0
+ZIVNLE_30897	inside	1	48				
+//
+# ZIVNLE_61733 Length: 42
+# ZIVNLE_61733 Number of predicted TMRs: 0
+ZIVNLE_61733	inside	1	42				
+//
+# ZIVNLE_61762 Length: 42
+# ZIVNLE_61762 Number of predicted TMRs: 0
+ZIVNLE_61762	inside	1	42				
+//
+# ZIVNLE_61741 Length: 42
+# ZIVNLE_61741 Number of predicted TMRs: 0
+ZIVNLE_61741	inside	1	42				
+//
+# ZIVNLE_8245 Length: 39
+# ZIVNLE_8245 Number of predicted TMRs: 0
+ZIVNLE_8245	signal	1	29				
+ZIVNLE_8245	outside	30	39				
+//
+# ZIVNLE_8249 Length: 40
+# ZIVNLE_8249 Number of predicted TMRs: 0
+ZIVNLE_8249	signal	1	29				
+ZIVNLE_8249	outside	30	40				
+//
+# ZIVNLE_8243 Length: 47
+# ZIVNLE_8243 Number of predicted TMRs: 0
+ZIVNLE_8243	inside	1	47				
+//
+# ZIVNLE_149057 Length: 47
+# ZIVNLE_149057 Number of predicted TMRs: 0
+ZIVNLE_149057	signal	1	19				
+ZIVNLE_149057	outside	20	47				
+//
+# ZIVNLE_156697 Length: 47
+# ZIVNLE_156697 Number of predicted TMRs: 0
+ZIVNLE_156697	inside	1	47				
+//
+# ZIVNLE_5440 Length: 46
+# ZIVNLE_5440 Number of predicted TMRs: 0
+ZIVNLE_5440	inside	1	46				
+//
+# ZIVNLE_40834 Length: 50
+# ZIVNLE_40834 Number of predicted TMRs: 0
+ZIVNLE_40834	inside	1	50				
+//
+# ZIVNLE_10189 Length: 48
+# ZIVNLE_10189 Number of predicted TMRs: 0
+ZIVNLE_10189	inside	1	48				
+//
+# ZIVNLE_41736 Length: 50
+# ZIVNLE_41736 Number of predicted TMRs: 0
+ZIVNLE_41736	signal	1	47				
+ZIVNLE_41736	outside	48	50				
+//
+# ZIVNLE_122214 Length: 46
+# ZIVNLE_122214 Number of predicted TMRs: 0
+ZIVNLE_122214	inside	1	46				
+//
+# ZIVNLE_146480 Length: 29
+# ZIVNLE_146480 Number of predicted TMRs: 0
+ZIVNLE_146480	inside	1	29				
+//
+# ZIVNLE_60604 Length: 44
+# ZIVNLE_60604 Number of predicted TMRs: 0
+ZIVNLE_60604	inside	1	44				
+//
+# ZIVNLE_83715 Length: 48
+# ZIVNLE_83715 Number of predicted TMRs: 0
+ZIVNLE_83715	inside	1	48				
+//
+# ZIVNLE_85711 Length: 47
+# ZIVNLE_85711 Number of predicted TMRs: 0
+ZIVNLE_85711	inside	1	47				
+//
+# ZIVNLE_33881 Length: 46
+# ZIVNLE_33881 Number of predicted TMRs: 0
+ZIVNLE_33881	inside	1	46				
+//
+# ZIVNLE_44231 Length: 39
+# ZIVNLE_44231 Number of predicted TMRs: 0
+ZIVNLE_44231	inside	1	39				
+//
+# ZIVNLE_137944 Length: 42
+# ZIVNLE_137944 Number of predicted TMRs: 0
+ZIVNLE_137944	inside	1	42				
+//
+# ZIVNLE_53295 Length: 48
+# ZIVNLE_53295 Number of predicted TMRs: 0
+ZIVNLE_53295	signal	1	15				
+ZIVNLE_53295	outside	16	48				
+//
+# ZIVNLE_122062 Length: 43
+# ZIVNLE_122062 Number of predicted TMRs: 0
+ZIVNLE_122062	inside	1	43				
+//
+# ZIVNLE_41724 Length: 44
+# ZIVNLE_41724 Number of predicted TMRs: 0
+ZIVNLE_41724	signal	1	43				
+ZIVNLE_41724	outside	44	44				
+//
+# ZIVNLE_79904 Length: 46
+# ZIVNLE_79904 Number of predicted TMRs: 0
+ZIVNLE_79904	signal	1	44				
+ZIVNLE_79904	outside	45	46				
+//
+# ZIVNLE_17346 Length: 50
+# ZIVNLE_17346 Number of predicted TMRs: 0
+ZIVNLE_17346	inside	1	50				
+//
+# ZIVNLE_30652 Length: 45
+# ZIVNLE_30652 Number of predicted TMRs: 0
+ZIVNLE_30652	inside	1	45				
+//
+# ZIVNLE_92240 Length: 46
+# ZIVNLE_92240 Number of predicted TMRs: 0
+ZIVNLE_92240	inside	1	46				
+//
+# ZIVNLE_92230 Length: 47
+# ZIVNLE_92230 Number of predicted TMRs: 0
+ZIVNLE_92230	inside	1	47				
+//
+# ZIVNLE_89306 Length: 45
+# ZIVNLE_89306 Number of predicted TMRs: 0
+ZIVNLE_89306	inside	1	45				
+//
+# ZIVNLE_27106 Length: 39
+# ZIVNLE_27106 Number of predicted TMRs: 0
+ZIVNLE_27106	signal	1	26				
+ZIVNLE_27106	outside	27	39				
+//
+# ZIVNLE_127059 Length: 46
+# ZIVNLE_127059 Number of predicted TMRs: 0
+ZIVNLE_127059	inside	1	46				
+//
+# ZIVNLE_21914 Length: 48
+# ZIVNLE_21914 Number of predicted TMRs: 0
+ZIVNLE_21914	signal	1	43				
+ZIVNLE_21914	outside	44	48				
+//
+# ZIVNLE_21957 Length: 46
+# ZIVNLE_21957 Number of predicted TMRs: 0
+ZIVNLE_21957	signal	1	42				
+ZIVNLE_21957	outside	43	46				
+//
+# ZIVNLE_144225 Length: 49
+# ZIVNLE_144225 Number of predicted TMRs: 0
+ZIVNLE_144225	signal	1	34				
+ZIVNLE_144225	outside	35	49				
+//
+# ZIVNLE_98614 Length: 45
+# ZIVNLE_98614 Number of predicted TMRs: 0
+ZIVNLE_98614	signal	1	44				
+ZIVNLE_98614	outside	45	45				
+//
+# ZIVNLE_27119 Length: 39
+# ZIVNLE_27119 Number of predicted TMRs: 0
+ZIVNLE_27119	inside	1	39				
+//
+# ZIVNLE_32905 Length: 36
+# ZIVNLE_32905 Number of predicted TMRs: 0
+ZIVNLE_32905	signal	1	32				
+ZIVNLE_32905	outside	33	36				
+//
+# ZIVNLE_738 Length: 48
+# ZIVNLE_738 Number of predicted TMRs: 0
+ZIVNLE_738	signal	1	47				
+ZIVNLE_738	outside	48	48				
+//
+# ZIVNLE_36579 Length: 48
+# ZIVNLE_36579 Number of predicted TMRs: 0
+ZIVNLE_36579	signal	1	39				
+ZIVNLE_36579	outside	40	48				
+//
+# ZIVNLE_95466 Length: 46
+# ZIVNLE_95466 Number of predicted TMRs: 0
+ZIVNLE_95466	inside	1	46				
+//
+# ZIVNLE_120276 Length: 45
+# ZIVNLE_120276 Number of predicted TMRs: 0
+ZIVNLE_120276	signal	1	15				
+ZIVNLE_120276	outside	16	45				
+//
+# ZIVNLE_11598 Length: 44
+# ZIVNLE_11598 Number of predicted TMRs: 0
+ZIVNLE_11598	inside	1	44				
+//
+# ZIVNLE_157309 Length: 45
+# ZIVNLE_157309 Number of predicted TMRs: 0
+ZIVNLE_157309	signal	1	42				
+ZIVNLE_157309	outside	43	45				
+//
+# ZIVNLE_68044 Length: 50
+# ZIVNLE_68044 Number of predicted TMRs: 0
+ZIVNLE_68044	inside	1	50				
+//
+# ZIVNLE_52991 Length: 42
+# ZIVNLE_52991 Number of predicted TMRs: 0
+ZIVNLE_52991	signal	1	30				
+ZIVNLE_52991	outside	31	42				
+//
+# ZIVNLE_60573 Length: 48
+# ZIVNLE_60573 Number of predicted TMRs: 0
+ZIVNLE_60573	inside	1	48				
+//
+# ZIVNLE_40630 Length: 46
+# ZIVNLE_40630 Number of predicted TMRs: 0
+ZIVNLE_40630	signal	1	30				
+ZIVNLE_40630	outside	31	46				
+//
+# ZIVNLE_109167 Length: 48
+# ZIVNLE_109167 Number of predicted TMRs: 0
+ZIVNLE_109167	inside	1	48				
+//
+# ZIVNLE_51008 Length: 41
+# ZIVNLE_51008 Number of predicted TMRs: 0
+ZIVNLE_51008	inside	1	41				
+//
+# ZIVNLE_50977 Length: 46
+# ZIVNLE_50977 Number of predicted TMRs: 0
+ZIVNLE_50977	inside	1	46				
+//
+# ZIVNLE_59656 Length: 39
+# ZIVNLE_59656 Number of predicted TMRs: 0
+ZIVNLE_59656	inside	1	39				
+//
+# ZIVNLE_881 Length: 48
+# ZIVNLE_881 Number of predicted TMRs: 0
+ZIVNLE_881	signal	1	33				
+ZIVNLE_881	outside	34	48				
+//
+# ZIVNLE_85889 Length: 48
+# ZIVNLE_85889 Number of predicted TMRs: 0
+ZIVNLE_85889	outside	1	48				
+//
+# ZIVNLE_46044 Length: 50
+# ZIVNLE_46044 Number of predicted TMRs: 0
+ZIVNLE_46044	signal	1	47				
+ZIVNLE_46044	outside	48	50				
+//
+# ZIVNLE_107387 Length: 38
+# ZIVNLE_107387 Number of predicted TMRs: 0
+ZIVNLE_107387	signal	1	26				
+ZIVNLE_107387	outside	27	38				
+//
+# ZIVNLE_70449 Length: 46
+# ZIVNLE_70449 Number of predicted TMRs: 0
+ZIVNLE_70449	inside	1	46				
+//
+# ZIVNLE_163526 Length: 47
+# ZIVNLE_163526 Number of predicted TMRs: 0
+ZIVNLE_163526	inside	1	47				
+//
+# ZIVNLE_75804 Length: 33
+# ZIVNLE_75804 Number of predicted TMRs: 0
+ZIVNLE_75804	signal	1	32				
+ZIVNLE_75804	outside	33	33				
+//
+# ZIVNLE_7462 Length: 36
+# ZIVNLE_7462 Number of predicted TMRs: 1
+ZIVNLE_7462	inside	1	6				
+ZIVNLE_7462	TMhelix	7	23				
+ZIVNLE_7462	outside	24	36				
+//
+# ZIVNLE_2504 Length: 41
+# ZIVNLE_2504 Number of predicted TMRs: 0
+ZIVNLE_2504	signal	1	21				
+ZIVNLE_2504	outside	22	41				
+//
+# ZIVNLE_115339 Length: 46
+# ZIVNLE_115339 Number of predicted TMRs: 0
+ZIVNLE_115339	inside	1	46				
+//
+# ZIVNLE_36047 Length: 50
+# ZIVNLE_36047 Number of predicted TMRs: 0
+ZIVNLE_36047	inside	1	50				
+//
+# ZIVNLE_47686 Length: 41
+# ZIVNLE_47686 Number of predicted TMRs: 0
+ZIVNLE_47686	signal	1	40				
+ZIVNLE_47686	outside	41	41				
+//
+# ZIVNLE_25180 Length: 42
+# ZIVNLE_25180 Number of predicted TMRs: 0
+ZIVNLE_25180	signal	1	39				
+ZIVNLE_25180	outside	40	42				
+//
+# ZIVNLE_114340 Length: 48
+# ZIVNLE_114340 Number of predicted TMRs: 0
+ZIVNLE_114340	inside	1	48				
+//
+# ZIVNLE_29557 Length: 41
+# ZIVNLE_29557 Number of predicted TMRs: 0
+ZIVNLE_29557	signal	1	24				
+ZIVNLE_29557	outside	25	41				
+//
+# ZIVNLE_64633 Length: 48
+# ZIVNLE_64633 Number of predicted TMRs: 0
+ZIVNLE_64633	inside	1	48				
+//
+# ZIVNLE_96208 Length: 50
+# ZIVNLE_96208 Number of predicted TMRs: 0
+ZIVNLE_96208	inside	1	50				
+//
+# ZIVNLE_80067 Length: 48
+# ZIVNLE_80067 Number of predicted TMRs: 0
+ZIVNLE_80067	inside	1	48				
+//
+# ZIVNLE_23453 Length: 50
+# ZIVNLE_23453 Number of predicted TMRs: 0
+ZIVNLE_23453	inside	1	50				
+//
+# ZIVNLE_4894 Length: 35
+# ZIVNLE_4894 Number of predicted TMRs: 0
+ZIVNLE_4894	inside	1	35				
+//
+# ZIVNLE_126952 Length: 49
+# ZIVNLE_126952 Number of predicted TMRs: 0
+ZIVNLE_126952	inside	1	49				
+//
+# ZIVNLE_71409 Length: 45
+# ZIVNLE_71409 Number of predicted TMRs: 0
+ZIVNLE_71409	signal	1	27				
+ZIVNLE_71409	outside	28	45				
+//
+# ZIVNLE_84075 Length: 49
+# ZIVNLE_84075 Number of predicted TMRs: 0
+ZIVNLE_84075	inside	1	49				
+//
+# ZIVNLE_124705 Length: 45
+# ZIVNLE_124705 Number of predicted TMRs: 0
+ZIVNLE_124705	inside	1	45				
+//
+# ZIVNLE_67779 Length: 43
+# ZIVNLE_67779 Number of predicted TMRs: 0
+ZIVNLE_67779	signal	1	41				
+ZIVNLE_67779	outside	42	43				
+//
+# ZIVNLE_59627 Length: 44
+# ZIVNLE_59627 Number of predicted TMRs: 0
+ZIVNLE_59627	inside	1	44				
+//
+# ZIVNLE_44559 Length: 50
+# ZIVNLE_44559 Number of predicted TMRs: 0
+ZIVNLE_44559	inside	1	50				
+//
+# ZIVNLE_71207 Length: 29
+# ZIVNLE_71207 Number of predicted TMRs: 0
+ZIVNLE_71207	inside	1	29				
+//
+# ZIVNLE_127707 Length: 46
+# ZIVNLE_127707 Number of predicted TMRs: 0
+ZIVNLE_127707	inside	1	46				
+//
+# ZIVNLE_30290 Length: 33
+# ZIVNLE_30290 Number of predicted TMRs: 0
+ZIVNLE_30290	signal	1	32				
+ZIVNLE_30290	outside	33	33				
+//
+# ZIVNLE_50935 Length: 43
+# ZIVNLE_50935 Number of predicted TMRs: 0
+ZIVNLE_50935	inside	1	43				
+//
+# ZIVNLE_48000 Length: 48
+# ZIVNLE_48000 Number of predicted TMRs: 0
+ZIVNLE_48000	inside	1	48				
+//
+# ZIVNLE_18596 Length: 44
+# ZIVNLE_18596 Number of predicted TMRs: 0
+ZIVNLE_18596	inside	1	44				
+//
+# ZIVNLE_75390 Length: 42
+# ZIVNLE_75390 Number of predicted TMRs: 0
+ZIVNLE_75390	inside	1	42				
+//
+# ZIVNLE_144951 Length: 45
+# ZIVNLE_144951 Number of predicted TMRs: 0
+ZIVNLE_144951	signal	1	39				
+ZIVNLE_144951	outside	40	45				
+//
+# ZIVNLE_36179 Length: 42
+# ZIVNLE_36179 Number of predicted TMRs: 0
+ZIVNLE_36179	signal	1	28				
+ZIVNLE_36179	outside	29	42				
+//
+# ZIVNLE_125289 Length: 48
+# ZIVNLE_125289 Number of predicted TMRs: 0
+ZIVNLE_125289	inside	1	48				
+//
+# ZIVNLE_56001 Length: 33
+# ZIVNLE_56001 Number of predicted TMRs: 0
+ZIVNLE_56001	signal	1	30				
+ZIVNLE_56001	outside	31	33				
+//
+# ZIVNLE_166105 Length: 46
+# ZIVNLE_166105 Number of predicted TMRs: 0
+ZIVNLE_166105	inside	1	46				
+//
+# ZIVNLE_116660 Length: 49
+# ZIVNLE_116660 Number of predicted TMRs: 0
+ZIVNLE_116660	signal	1	26				
+ZIVNLE_116660	outside	27	49				
+//
+# ZIVNLE_74448 Length: 44
+# ZIVNLE_74448 Number of predicted TMRs: 0
+ZIVNLE_74448	signal	1	34				
+ZIVNLE_74448	outside	35	44				
+//
+# ZIVNLE_108402 Length: 47
+# ZIVNLE_108402 Number of predicted TMRs: 0
+ZIVNLE_108402	inside	1	47				
+//
+# ZIVNLE_118882 Length: 42
+# ZIVNLE_118882 Number of predicted TMRs: 0
+ZIVNLE_118882	signal	1	18				
+ZIVNLE_118882	outside	19	42				
+//
+# ZIVNLE_138772 Length: 48
+# ZIVNLE_138772 Number of predicted TMRs: 0
+ZIVNLE_138772	signal	1	10				
+ZIVNLE_138772	outside	11	48				
+//
+# ZIVNLE_103418 Length: 50
+# ZIVNLE_103418 Number of predicted TMRs: 0
+ZIVNLE_103418	inside	1	50				
+//
+# ZIVNLE_120632 Length: 45
+# ZIVNLE_120632 Number of predicted TMRs: 0
+ZIVNLE_120632	signal	1	30				
+ZIVNLE_120632	outside	31	45				
+//
+# ZIVNLE_56188 Length: 45
+# ZIVNLE_56188 Number of predicted TMRs: 0
+ZIVNLE_56188	inside	1	45				
+//
+# ZIVNLE_122017 Length: 33
+# ZIVNLE_122017 Number of predicted TMRs: 0
+ZIVNLE_122017	signal	1	12				
+ZIVNLE_122017	outside	13	33				
+//
+# ZIVNLE_161404 Length: 47
+# ZIVNLE_161404 Number of predicted TMRs: 0
+ZIVNLE_161404	signal	1	10				
+ZIVNLE_161404	outside	11	47				
+//
+# ZIVNLE_81369 Length: 48
+# ZIVNLE_81369 Number of predicted TMRs: 0
+ZIVNLE_81369	signal	1	38				
+ZIVNLE_81369	outside	39	48				
+//
+# ZIVNLE_129475 Length: 46
+# ZIVNLE_129475 Number of predicted TMRs: 0
+ZIVNLE_129475	inside	1	46				
+//
+# ZIVNLE_60597 Length: 47
+# ZIVNLE_60597 Number of predicted TMRs: 0
+ZIVNLE_60597	inside	1	47				
+//
+# ZIVNLE_18196 Length: 41
+# ZIVNLE_18196 Number of predicted TMRs: 0
+ZIVNLE_18196	signal	1	10				
+ZIVNLE_18196	outside	11	41				
+//
+# ZIVNLE_63194 Length: 33
+# ZIVNLE_63194 Number of predicted TMRs: 0
+ZIVNLE_63194	signal	1	32				
+ZIVNLE_63194	outside	33	33				
+//
+# ZIVNLE_132627 Length: 48
+# ZIVNLE_132627 Number of predicted TMRs: 0
+ZIVNLE_132627	inside	1	48				
+//
+# ZIVNLE_31564 Length: 43
+# ZIVNLE_31564 Number of predicted TMRs: 0
+ZIVNLE_31564	signal	1	42				
+ZIVNLE_31564	outside	43	43				
+//
+# ZIVNLE_108484 Length: 42
+# ZIVNLE_108484 Number of predicted TMRs: 0
+ZIVNLE_108484	signal	1	31				
+ZIVNLE_108484	outside	32	42				
+//
+# ZIVNLE_118914 Length: 47
+# ZIVNLE_118914 Number of predicted TMRs: 0
+ZIVNLE_118914	signal	1	12				
+ZIVNLE_118914	outside	13	47				
+//
+# ZIVNLE_146131 Length: 47
+# ZIVNLE_146131 Number of predicted TMRs: 0
+ZIVNLE_146131	signal	1	29				
+ZIVNLE_146131	outside	30	47				
+//
+# ZIVNLE_96067 Length: 41
+# ZIVNLE_96067 Number of predicted TMRs: 0
+ZIVNLE_96067	signal	1	40				
+ZIVNLE_96067	outside	41	41				
+//
+# ZIVNLE_111121 Length: 50
+# ZIVNLE_111121 Number of predicted TMRs: 0
+ZIVNLE_111121	signal	1	38				
+ZIVNLE_111121	outside	39	50				
+//
+# ZIVNLE_129896 Length: 35
+# ZIVNLE_129896 Number of predicted TMRs: 0
+ZIVNLE_129896	signal	1	34				
+ZIVNLE_129896	outside	35	35				
+//
+# ZIVNLE_49996 Length: 47
+# ZIVNLE_49996 Number of predicted TMRs: 0
+ZIVNLE_49996	signal	1	45				
+ZIVNLE_49996	outside	46	47				
+//
+# ZIVNLE_100353 Length: 49
+# ZIVNLE_100353 Number of predicted TMRs: 0
+ZIVNLE_100353	inside	1	49				
+//
+# ZIVNLE_135241 Length: 41
+# ZIVNLE_135241 Number of predicted TMRs: 0
+ZIVNLE_135241	signal	1	20				
+ZIVNLE_135241	outside	21	41				
+//
+# ZIVNLE_127662 Length: 47
+# ZIVNLE_127662 Number of predicted TMRs: 1
+ZIVNLE_127662	signal	1	12				
+ZIVNLE_127662	outside	13	20				
+ZIVNLE_127662	TMhelix	21	36				
+ZIVNLE_127662	inside	37	47				
+//
+# ZIVNLE_139981 Length: 50
+# ZIVNLE_139981 Number of predicted TMRs: 0
+ZIVNLE_139981	inside	1	50				
+//
+# ZIVNLE_126632 Length: 46
+# ZIVNLE_126632 Number of predicted TMRs: 0
+ZIVNLE_126632	inside	1	46				
+//
+# ZIVNLE_171552 Length: 49
+# ZIVNLE_171552 Number of predicted TMRs: 0
+ZIVNLE_171552	signal	1	12				
+ZIVNLE_171552	outside	13	49				
+//
+# ZIVNLE_105778 Length: 47
+# ZIVNLE_105778 Number of predicted TMRs: 0
+ZIVNLE_105778	inside	1	47				
+//
+# ZIVNLE_97254 Length: 47
+# ZIVNLE_97254 Number of predicted TMRs: 0
+ZIVNLE_97254	outside	1	47				
+//
+# ZIVNLE_141534 Length: 50
+# ZIVNLE_141534 Number of predicted TMRs: 0
+ZIVNLE_141534	inside	1	50				
+//
+# ZIVNLE_161108 Length: 41
+# ZIVNLE_161108 Number of predicted TMRs: 0
+ZIVNLE_161108	signal	1	18				
+ZIVNLE_161108	outside	19	41				
+//
+# ZIVNLE_117904 Length: 26
+# ZIVNLE_117904 Number of predicted TMRs: 0
+ZIVNLE_117904	inside	1	26				
+//
+# ZIVNLE_117898 Length: 44
+# ZIVNLE_117898 Number of predicted TMRs: 0
+ZIVNLE_117898	inside	1	44				
+//
+# ZIVNLE_36871 Length: 45
+# ZIVNLE_36871 Number of predicted TMRs: 0
+ZIVNLE_36871	signal	1	10				
+ZIVNLE_36871	outside	11	45				
+//
+# ZIVNLE_162660 Length: 45
+# ZIVNLE_162660 Number of predicted TMRs: 0
+ZIVNLE_162660	inside	1	45				
+//
+# ZIVNLE_84265 Length: 38
+# ZIVNLE_84265 Number of predicted TMRs: 0
+ZIVNLE_84265	signal	1	35				
+ZIVNLE_84265	outside	36	38				
+//
+# ZIVNLE_162354 Length: 45
+# ZIVNLE_162354 Number of predicted TMRs: 0
+ZIVNLE_162354	inside	1	45				
+//
+# ZIVNLE_14780 Length: 33
+# ZIVNLE_14780 Number of predicted TMRs: 0
+ZIVNLE_14780	inside	1	33				
+//
+# ZIVNLE_135388 Length: 46
+# ZIVNLE_135388 Number of predicted TMRs: 0
+ZIVNLE_135388	signal	1	22				
+ZIVNLE_135388	outside	23	46				
+//
+# ZIVNLE_72984 Length: 42
+# ZIVNLE_72984 Number of predicted TMRs: 0
+ZIVNLE_72984	inside	1	42				
+//
+# ZIVNLE_83471 Length: 45
+# ZIVNLE_83471 Number of predicted TMRs: 0
+ZIVNLE_83471	inside	1	45				
+//
+# ZIVNLE_170054 Length: 42
+# ZIVNLE_170054 Number of predicted TMRs: 0
+ZIVNLE_170054	signal	1	41				
+ZIVNLE_170054	outside	42	42				
+//
+# ZIVNLE_61925 Length: 35
+# ZIVNLE_61925 Number of predicted TMRs: 0
+ZIVNLE_61925	inside	1	35				
+//
+# ZIVNLE_67383 Length: 43
+# ZIVNLE_67383 Number of predicted TMRs: 0
+ZIVNLE_67383	inside	1	43				
+//
+# ZIVNLE_170129 Length: 48
+# ZIVNLE_170129 Number of predicted TMRs: 0
+ZIVNLE_170129	inside	1	48				
+//
+# ZIVNLE_85040 Length: 49
+# ZIVNLE_85040 Number of predicted TMRs: 0
+ZIVNLE_85040	signal	1	24				
+ZIVNLE_85040	outside	25	49				
+//
+# ZIVNLE_9837 Length: 42
+# ZIVNLE_9837 Number of predicted TMRs: 0
+ZIVNLE_9837	signal	1	11				
+ZIVNLE_9837	outside	12	42				
+//
+# ZIVNLE_112417 Length: 32
+# ZIVNLE_112417 Number of predicted TMRs: 0
+ZIVNLE_112417	inside	1	32				
+//
+# ZIVNLE_46394 Length: 43
+# ZIVNLE_46394 Number of predicted TMRs: 0
+ZIVNLE_46394	inside	1	43				
+//
+# ZIVNLE_144111 Length: 47
+# ZIVNLE_144111 Number of predicted TMRs: 0
+ZIVNLE_144111	inside	1	47				
+//
+# ZIVNLE_5318 Length: 42
+# ZIVNLE_5318 Number of predicted TMRs: 0
+ZIVNLE_5318	inside	1	42				
+//
+# ZIVNLE_163574 Length: 46
+# ZIVNLE_163574 Number of predicted TMRs: 0
+ZIVNLE_163574	inside	1	46				
+//
+# ZIVNLE_4781 Length: 45
+# ZIVNLE_4781 Number of predicted TMRs: 0
+ZIVNLE_4781	inside	1	45				
+//
+# ZIVNLE_106265 Length: 48
+# ZIVNLE_106265 Number of predicted TMRs: 0
+ZIVNLE_106265	inside	1	48				
+//
+# ZIVNLE_67887 Length: 50
+# ZIVNLE_67887 Number of predicted TMRs: 0
+ZIVNLE_67887	signal	1	18				
+ZIVNLE_67887	outside	19	50				
+//
+# ZIVNLE_140042 Length: 40
+# ZIVNLE_140042 Number of predicted TMRs: 0
+ZIVNLE_140042	signal	1	39				
+ZIVNLE_140042	outside	40	40				
+//
+# ZIVNLE_24494 Length: 46
+# ZIVNLE_24494 Number of predicted TMRs: 0
+ZIVNLE_24494	inside	1	46				
+//
+# ZIVNLE_41383 Length: 33
+# ZIVNLE_41383 Number of predicted TMRs: 0
+ZIVNLE_41383	inside	1	33				
+//
+# ZIVNLE_171309 Length: 48
+# ZIVNLE_171309 Number of predicted TMRs: 0
+ZIVNLE_171309	inside	1	48				
+//
+# ZIVNLE_19319 Length: 49
+# ZIVNLE_19319 Number of predicted TMRs: 0
+ZIVNLE_19319	inside	1	49				
+//
+# ZIVNLE_3946 Length: 36
+# ZIVNLE_3946 Number of predicted TMRs: 0
+ZIVNLE_3946	inside	1	36				
+//
+# ZIVNLE_136651 Length: 43
+# ZIVNLE_136651 Number of predicted TMRs: 0
+ZIVNLE_136651	inside	1	43				
+//
+# ZIVNLE_141768 Length: 49
+# ZIVNLE_141768 Number of predicted TMRs: 0
+ZIVNLE_141768	inside	1	49				
+//
+# ZIVNLE_17633 Length: 36
+# ZIVNLE_17633 Number of predicted TMRs: 0
+ZIVNLE_17633	inside	1	36				
+//
+# ZIVNLE_101789 Length: 41
+# ZIVNLE_101789 Number of predicted TMRs: 0
+ZIVNLE_101789	inside	1	41				
+//
+# ZIVNLE_14499 Length: 46
+# ZIVNLE_14499 Number of predicted TMRs: 0
+ZIVNLE_14499	signal	1	42				
+ZIVNLE_14499	outside	43	46				
+//
+# ZIVNLE_33985 Length: 45
+# ZIVNLE_33985 Number of predicted TMRs: 0
+ZIVNLE_33985	signal	1	10				
+ZIVNLE_33985	outside	11	45				
+//
+# ZIVNLE_13446 Length: 44
+# ZIVNLE_13446 Number of predicted TMRs: 0
+ZIVNLE_13446	signal	1	10				
+ZIVNLE_13446	outside	11	44				
+//
+# ZIVNLE_824 Length: 43
+# ZIVNLE_824 Number of predicted TMRs: 0
+ZIVNLE_824	signal	1	32				
+ZIVNLE_824	outside	33	43				
+//
+# ZIVNLE_116645 Length: 44
+# ZIVNLE_116645 Number of predicted TMRs: 0
+ZIVNLE_116645	inside	1	44				
+//
+# ZIVNLE_23390 Length: 36
+# ZIVNLE_23390 Number of predicted TMRs: 0
+ZIVNLE_23390	inside	1	36				
+//
+# ZIVNLE_111437 Length: 46
+# ZIVNLE_111437 Number of predicted TMRs: 0
+ZIVNLE_111437	inside	1	46				
+//
+# ZIVNLE_66303 Length: 50
+# ZIVNLE_66303 Number of predicted TMRs: 0
+ZIVNLE_66303	inside	1	50				
+//
+# ZIVNLE_41171 Length: 44
+# ZIVNLE_41171 Number of predicted TMRs: 0
+ZIVNLE_41171	inside	1	44				
+//
+# ZIVNLE_86543 Length: 41
+# ZIVNLE_86543 Number of predicted TMRs: 0
+ZIVNLE_86543	inside	1	41				
+//
+# ZIVNLE_107875 Length: 47
+# ZIVNLE_107875 Number of predicted TMRs: 0
+ZIVNLE_107875	inside	1	47				
+//
+# ZIVNLE_11977 Length: 38
+# ZIVNLE_11977 Number of predicted TMRs: 0
+ZIVNLE_11977	inside	1	38				
+//
+# ZIVNLE_54936 Length: 50
+# ZIVNLE_54936 Number of predicted TMRs: 0
+ZIVNLE_54936	inside	1	50				
+//
+# ZIVNLE_14374 Length: 36
+# ZIVNLE_14374 Number of predicted TMRs: 0
+ZIVNLE_14374	inside	1	36				
+//
+# ZIVNLE_36743 Length: 50
+# ZIVNLE_36743 Number of predicted TMRs: 0
+ZIVNLE_36743	inside	1	50				
+//
+# ZIVNLE_37536 Length: 40
+# ZIVNLE_37536 Number of predicted TMRs: 0
+ZIVNLE_37536	signal	1	28				
+ZIVNLE_37536	outside	29	40				
+//
+# ZIVNLE_127748 Length: 37
+# ZIVNLE_127748 Number of predicted TMRs: 0
+ZIVNLE_127748	inside	1	37				
+//
+# ZIVNLE_92907 Length: 42
+# ZIVNLE_92907 Number of predicted TMRs: 0
+ZIVNLE_92907	inside	1	42				
+//
+# ZIVNLE_3211 Length: 46
+# ZIVNLE_3211 Number of predicted TMRs: 0
+ZIVNLE_3211	inside	1	46				
+//
+# ZIVNLE_145639 Length: 47
+# ZIVNLE_145639 Number of predicted TMRs: 0
+ZIVNLE_145639	signal	1	30				
+ZIVNLE_145639	outside	31	47				
+//
+# ZIVNLE_66326 Length: 42
+# ZIVNLE_66326 Number of predicted TMRs: 0
+ZIVNLE_66326	inside	1	42				
+//
+# ZIVNLE_25937 Length: 30
+# ZIVNLE_25937 Number of predicted TMRs: 0
+ZIVNLE_25937	signal	1	28				
+ZIVNLE_25937	outside	29	30				
+//
+# ZIVNLE_56010 Length: 48
+# ZIVNLE_56010 Number of predicted TMRs: 0
+ZIVNLE_56010	inside	1	48				
+//
+# ZIVNLE_88590 Length: 50
+# ZIVNLE_88590 Number of predicted TMRs: 0
+ZIVNLE_88590	signal	1	12				
+ZIVNLE_88590	outside	13	50				
+//
+# ZIVNLE_5169 Length: 48
+# ZIVNLE_5169 Number of predicted TMRs: 0
+ZIVNLE_5169	signal	1	37				
+ZIVNLE_5169	outside	38	48				
+//
+# ZIVNLE_115060 Length: 42
+# ZIVNLE_115060 Number of predicted TMRs: 0
+ZIVNLE_115060	inside	1	42				
+//
+# ZIVNLE_127629 Length: 49
+# ZIVNLE_127629 Number of predicted TMRs: 0
+ZIVNLE_127629	inside	1	49				
+//
+# ZIVNLE_42189 Length: 50
+# ZIVNLE_42189 Number of predicted TMRs: 0
+ZIVNLE_42189	inside	1	50				
+//
+# ZIVNLE_105699 Length: 45
+# ZIVNLE_105699 Number of predicted TMRs: 0
+ZIVNLE_105699	inside	1	45				
+//
+# ZIVNLE_28822 Length: 49
+# ZIVNLE_28822 Number of predicted TMRs: 0
+ZIVNLE_28822	signal	1	45				
+ZIVNLE_28822	outside	46	49				
+//
+# ZIVNLE_65424 Length: 35
+# ZIVNLE_65424 Number of predicted TMRs: 0
+ZIVNLE_65424	signal	1	32				
+ZIVNLE_65424	outside	33	35				
+//
+# ZIVNLE_92573 Length: 48
+# ZIVNLE_92573 Number of predicted TMRs: 0
+ZIVNLE_92573	inside	1	48				
+//
+# ZIVNLE_60062 Length: 48
+# ZIVNLE_60062 Number of predicted TMRs: 0
+ZIVNLE_60062	inside	1	48				
+//
+# ZIVNLE_153100 Length: 46
+# ZIVNLE_153100 Number of predicted TMRs: 0
+ZIVNLE_153100	signal	1	31				
+ZIVNLE_153100	outside	32	46				
+//
+# ZIVNLE_153098 Length: 50
+# ZIVNLE_153098 Number of predicted TMRs: 0
+ZIVNLE_153098	signal	1	31				
+ZIVNLE_153098	outside	32	50				
+//
+# ZIVNLE_27639 Length: 50
+# ZIVNLE_27639 Number of predicted TMRs: 0
+ZIVNLE_27639	inside	1	50				
+//
+# ZIVNLE_23955 Length: 45
+# ZIVNLE_23955 Number of predicted TMRs: 0
+ZIVNLE_23955	inside	1	45				
+//
+# ZIVNLE_78246 Length: 32
+# ZIVNLE_78246 Number of predicted TMRs: 0
+ZIVNLE_78246	signal	1	30				
+ZIVNLE_78246	outside	31	32				
+//
+# ZIVNLE_58667 Length: 48
+# ZIVNLE_58667 Number of predicted TMRs: 0
+ZIVNLE_58667	inside	1	48				
+//
+# ZIVNLE_102320 Length: 44
+# ZIVNLE_102320 Number of predicted TMRs: 0
+ZIVNLE_102320	inside	1	44				
+//
+# ZIVNLE_154167 Length: 45
+# ZIVNLE_154167 Number of predicted TMRs: 0
+ZIVNLE_154167	inside	1	45				
+//
+# ZIVNLE_142121 Length: 46
+# ZIVNLE_142121 Number of predicted TMRs: 0
+ZIVNLE_142121	inside	1	46				
+//
+# ZIVNLE_128778 Length: 46
+# ZIVNLE_128778 Number of predicted TMRs: 0
+ZIVNLE_128778	signal	1	44				
+ZIVNLE_128778	outside	45	46				
+//
+# ZIVNLE_170979 Length: 32
+# ZIVNLE_170979 Number of predicted TMRs: 0
+ZIVNLE_170979	inside	1	32				
+//
+# ZIVNLE_12384 Length: 44
+# ZIVNLE_12384 Number of predicted TMRs: 0
+ZIVNLE_12384	inside	1	44				
+//
+# ZIVNLE_104790 Length: 47
+# ZIVNLE_104790 Number of predicted TMRs: 0
+ZIVNLE_104790	inside	1	47				
+//
+# ZIVNLE_165327 Length: 39
+# ZIVNLE_165327 Number of predicted TMRs: 0
+ZIVNLE_165327	inside	1	39				
+//
+# ZIVNLE_93859 Length: 48
+# ZIVNLE_93859 Number of predicted TMRs: 0
+ZIVNLE_93859	inside	1	48				
+//
+# ZIVNLE_111474 Length: 48
+# ZIVNLE_111474 Number of predicted TMRs: 0
+ZIVNLE_111474	signal	1	46				
+ZIVNLE_111474	outside	47	48				
+//
+# ZIVNLE_105984 Length: 42
+# ZIVNLE_105984 Number of predicted TMRs: 0
+ZIVNLE_105984	inside	1	42				
+//
+# ZIVNLE_86438 Length: 42
+# ZIVNLE_86438 Number of predicted TMRs: 0
+ZIVNLE_86438	signal	1	31				
+ZIVNLE_86438	outside	32	42				
+//
+# ZIVNLE_150368 Length: 38
+# ZIVNLE_150368 Number of predicted TMRs: 0
+ZIVNLE_150368	signal	1	18				
+ZIVNLE_150368	outside	19	38				
+//
+# ZIVNLE_63174 Length: 50
+# ZIVNLE_63174 Number of predicted TMRs: 0
+ZIVNLE_63174	signal	1	31				
+ZIVNLE_63174	outside	32	50				
+//
+# ZIVNLE_36855 Length: 48
+# ZIVNLE_36855 Number of predicted TMRs: 0
+ZIVNLE_36855	signal	1	15				
+ZIVNLE_36855	outside	16	48				
+//
+# ZIVNLE_136325 Length: 49
+# ZIVNLE_136325 Number of predicted TMRs: 0
+ZIVNLE_136325	inside	1	49				
+//
+# ZIVNLE_169190 Length: 36
+# ZIVNLE_169190 Number of predicted TMRs: 0
+ZIVNLE_169190	signal	1	35				
+ZIVNLE_169190	outside	36	36				
+//
+# ZIVNLE_98931 Length: 48
+# ZIVNLE_98931 Number of predicted TMRs: 0
+ZIVNLE_98931	signal	1	47				
+ZIVNLE_98931	outside	48	48				
+//
+# ZIVNLE_15025 Length: 48
+# ZIVNLE_15025 Number of predicted TMRs: 0
+ZIVNLE_15025	inside	1	48				
+//
+# ZIVNLE_127260 Length: 38
+# ZIVNLE_127260 Number of predicted TMRs: 0
+ZIVNLE_127260	inside	1	38				
+//
+# ZIVNLE_73693 Length: 40
+# ZIVNLE_73693 Number of predicted TMRs: 0
+ZIVNLE_73693	inside	1	40				
+//
+# ZIVNLE_114743 Length: 43
+# ZIVNLE_114743 Number of predicted TMRs: 0
+ZIVNLE_114743	signal	1	23				
+ZIVNLE_114743	outside	24	43				
+//
+# ZIVNLE_74378 Length: 44
+# ZIVNLE_74378 Number of predicted TMRs: 0
+ZIVNLE_74378	inside	1	44				
+//
+# ZIVNLE_54464 Length: 38
+# ZIVNLE_54464 Number of predicted TMRs: 0
+ZIVNLE_54464	inside	1	38				
+//
+# ZIVNLE_50978 Length: 36
+# ZIVNLE_50978 Number of predicted TMRs: 0
+ZIVNLE_50978	signal	1	35				
+ZIVNLE_50978	outside	36	36				
+//
+# ZIVNLE_23391 Length: 43
+# ZIVNLE_23391 Number of predicted TMRs: 1
+ZIVNLE_23391	signal	1	12				
+ZIVNLE_23391	outside	13	13				
+ZIVNLE_23391	TMhelix	14	23				
+ZIVNLE_23391	inside	24	43				
+//
+# ZIVNLE_58092 Length: 38
+# ZIVNLE_58092 Number of predicted TMRs: 0
+ZIVNLE_58092	inside	1	38				
+//
+# ZIVNLE_110836 Length: 48
+# ZIVNLE_110836 Number of predicted TMRs: 0
+ZIVNLE_110836	signal	1	13				
+ZIVNLE_110836	outside	14	48				
+//
+# ZIVNLE_160644 Length: 46
+# ZIVNLE_160644 Number of predicted TMRs: 0
+ZIVNLE_160644	signal	1	11				
+ZIVNLE_160644	outside	12	46				
+//
+# ZIVNLE_166390 Length: 50
+# ZIVNLE_166390 Number of predicted TMRs: 0
+ZIVNLE_166390	inside	1	50				
+//
+# ZIVNLE_97691 Length: 46
+# ZIVNLE_97691 Number of predicted TMRs: 0
+ZIVNLE_97691	signal	1	21				
+ZIVNLE_97691	outside	22	46				
+//
+# ZIVNLE_137058 Length: 37
+# ZIVNLE_137058 Number of predicted TMRs: 0
+ZIVNLE_137058	signal	1	32				
+ZIVNLE_137058	outside	33	37				
+//
+# ZIVNLE_103649 Length: 50
+# ZIVNLE_103649 Number of predicted TMRs: 0
+ZIVNLE_103649	inside	1	50				
+//
+# ZIVNLE_57767 Length: 47
+# ZIVNLE_57767 Number of predicted TMRs: 0
+ZIVNLE_57767	signal	1	31				
+ZIVNLE_57767	outside	32	47				
+//
+# ZIVNLE_24478 Length: 50
+# ZIVNLE_24478 Number of predicted TMRs: 0
+ZIVNLE_24478	signal	1	15				
+ZIVNLE_24478	outside	16	50				
+//
+# ZIVNLE_169879 Length: 34
+# ZIVNLE_169879 Number of predicted TMRs: 0
+ZIVNLE_169879	inside	1	34				
+//
+# ZIVNLE_1355 Length: 47
+# ZIVNLE_1355 Number of predicted TMRs: 0
+ZIVNLE_1355	inside	1	47				
+//
+# ZIVNLE_139605 Length: 49
+# ZIVNLE_139605 Number of predicted TMRs: 0
+ZIVNLE_139605	inside	1	49				
+//
+# ZIVNLE_45107 Length: 50
+# ZIVNLE_45107 Number of predicted TMRs: 0
+ZIVNLE_45107	inside	1	50				
+//
+# ZIVNLE_110653 Length: 36
+# ZIVNLE_110653 Number of predicted TMRs: 0
+ZIVNLE_110653	inside	1	36				
+//
+# ZIVNLE_42531 Length: 45
+# ZIVNLE_42531 Number of predicted TMRs: 0
+ZIVNLE_42531	outside	1	45				
+//
+# ZIVNLE_113938 Length: 48
+# ZIVNLE_113938 Number of predicted TMRs: 0
+ZIVNLE_113938	inside	1	48				
+//
+# ZIVNLE_18731 Length: 41
+# ZIVNLE_18731 Number of predicted TMRs: 0
+ZIVNLE_18731	signal	1	35				
+ZIVNLE_18731	outside	36	41				
+//
+# ZIVNLE_58957 Length: 48
+# ZIVNLE_58957 Number of predicted TMRs: 0
+ZIVNLE_58957	signal	1	27				
+ZIVNLE_58957	outside	28	48				
+//
+# ZIVNLE_130349 Length: 39
+# ZIVNLE_130349 Number of predicted TMRs: 0
+ZIVNLE_130349	signal	1	26				
+ZIVNLE_130349	outside	27	39				
+//
+# ZIVNLE_165964 Length: 48
+# ZIVNLE_165964 Number of predicted TMRs: 0
+ZIVNLE_165964	inside	1	48				
+//
+# ZIVNLE_52915 Length: 42
+# ZIVNLE_52915 Number of predicted TMRs: 0
+ZIVNLE_52915	signal	1	15				
+ZIVNLE_52915	outside	16	42				
+//
+# ZIVNLE_24477 Length: 46
+# ZIVNLE_24477 Number of predicted TMRs: 0
+ZIVNLE_24477	inside	1	46				
+//
+# ZIVNLE_92889 Length: 43
+# ZIVNLE_92889 Number of predicted TMRs: 0
+ZIVNLE_92889	inside	1	43				
+//
+# ZIVNLE_86014 Length: 47
+# ZIVNLE_86014 Number of predicted TMRs: 0
+ZIVNLE_86014	inside	1	47				
+//
+# ZIVNLE_131671 Length: 44
+# ZIVNLE_131671 Number of predicted TMRs: 0
+ZIVNLE_131671	inside	1	44				
+//
+# ZIVNLE_85183 Length: 37
+# ZIVNLE_85183 Number of predicted TMRs: 0
+ZIVNLE_85183	signal	1	36				
+ZIVNLE_85183	outside	37	37				
+//
+# ZIVNLE_114923 Length: 48
+# ZIVNLE_114923 Number of predicted TMRs: 0
+ZIVNLE_114923	signal	1	20				
+ZIVNLE_114923	outside	21	48				
+//
+# ZIVNLE_131450 Length: 44
+# ZIVNLE_131450 Number of predicted TMRs: 0
+ZIVNLE_131450	inside	1	44				
+//
+# ZIVNLE_83239 Length: 44
+# ZIVNLE_83239 Number of predicted TMRs: 0
+ZIVNLE_83239	signal	1	43				
+ZIVNLE_83239	outside	44	44				
+//
+# ZIVNLE_96072 Length: 45
+# ZIVNLE_96072 Number of predicted TMRs: 0
+ZIVNLE_96072	signal	1	44				
+ZIVNLE_96072	outside	45	45				
+//
+# ZIVNLE_91002 Length: 47
+# ZIVNLE_91002 Number of predicted TMRs: 0
+ZIVNLE_91002	signal	1	30				
+ZIVNLE_91002	outside	31	47				
+//
+# ZIVNLE_83283 Length: 47
+# ZIVNLE_83283 Number of predicted TMRs: 0
+ZIVNLE_83283	signal	1	15				
+ZIVNLE_83283	outside	16	47				
+//
+# ZIVNLE_165648 Length: 41
+# ZIVNLE_165648 Number of predicted TMRs: 0
+ZIVNLE_165648	signal	1	28				
+ZIVNLE_165648	outside	29	41				
+//
+# ZIVNLE_38656 Length: 30
+# ZIVNLE_38656 Number of predicted TMRs: 0
+ZIVNLE_38656	signal	1	13				
+ZIVNLE_38656	outside	14	30				
+//
+# ZIVNLE_110400 Length: 44
+# ZIVNLE_110400 Number of predicted TMRs: 0
+ZIVNLE_110400	inside	1	44				
+//
+# ZIVNLE_123374 Length: 50
+# ZIVNLE_123374 Number of predicted TMRs: 0
+ZIVNLE_123374	inside	1	50				
+//
+# ZIVNLE_89566 Length: 49
+# ZIVNLE_89566 Number of predicted TMRs: 0
+ZIVNLE_89566	inside	1	49				
+//
+# ZIVNLE_111859 Length: 45
+# ZIVNLE_111859 Number of predicted TMRs: 0
+ZIVNLE_111859	inside	1	45				
+//
+# ZIVNLE_108147 Length: 50
+# ZIVNLE_108147 Number of predicted TMRs: 0
+ZIVNLE_108147	inside	1	50				
+//
+# ZIVNLE_137588 Length: 43
+# ZIVNLE_137588 Number of predicted TMRs: 0
+ZIVNLE_137588	signal	1	33				
+ZIVNLE_137588	outside	34	43				
+//
+# ZIVNLE_137751 Length: 38
+# ZIVNLE_137751 Number of predicted TMRs: 0
+ZIVNLE_137751	signal	1	37				
+ZIVNLE_137751	outside	38	38				
+//
+# ZIVNLE_126787 Length: 43
+# ZIVNLE_126787 Number of predicted TMRs: 0
+ZIVNLE_126787	inside	1	43				
+//
+# ZIVNLE_107670 Length: 48
+# ZIVNLE_107670 Number of predicted TMRs: 0
+ZIVNLE_107670	inside	1	48				
+//
+# ZIVNLE_138541 Length: 39
+# ZIVNLE_138541 Number of predicted TMRs: 0
+ZIVNLE_138541	inside	1	39				
+//
+# ZIVNLE_101458 Length: 43
+# ZIVNLE_101458 Number of predicted TMRs: 0
+ZIVNLE_101458	inside	1	43				
+//
+# ZIVNLE_135537 Length: 43
+# ZIVNLE_135537 Number of predicted TMRs: 0
+ZIVNLE_135537	inside	1	43				
+//
+# ZIVNLE_149359 Length: 40
+# ZIVNLE_149359 Number of predicted TMRs: 0
+ZIVNLE_149359	inside	1	40				
+//
+# ZIVNLE_132165 Length: 46
+# ZIVNLE_132165 Number of predicted TMRs: 0
+ZIVNLE_132165	signal	1	32				
+ZIVNLE_132165	outside	33	46				
+//
+# ZIVNLE_20591 Length: 45
+# ZIVNLE_20591 Number of predicted TMRs: 0
+ZIVNLE_20591	inside	1	45				
+//
+# ZIVNLE_142516 Length: 47
+# ZIVNLE_142516 Number of predicted TMRs: 0
+ZIVNLE_142516	inside	1	47				
+//
+# ZIVNLE_164179 Length: 50
+# ZIVNLE_164179 Number of predicted TMRs: 0
+ZIVNLE_164179	inside	1	50				
+//
+# ZIVNLE_108404 Length: 46
+# ZIVNLE_108404 Number of predicted TMRs: 0
+ZIVNLE_108404	signal	1	21				
+ZIVNLE_108404	outside	22	46				
+//
+# ZIVNLE_143110 Length: 39
+# ZIVNLE_143110 Number of predicted TMRs: 0
+ZIVNLE_143110	inside	1	39				
+//
+# ZIVNLE_86681 Length: 44
+# ZIVNLE_86681 Number of predicted TMRs: 0
+ZIVNLE_86681	inside	1	44				
+//
+# ZIVNLE_17996 Length: 47
+# ZIVNLE_17996 Number of predicted TMRs: 0
+ZIVNLE_17996	inside	1	47				
+//
+# ZIVNLE_58950 Length: 46
+# ZIVNLE_58950 Number of predicted TMRs: 0
+ZIVNLE_58950	signal	1	43				
+ZIVNLE_58950	outside	44	46				
+//
+# ZIVNLE_90314 Length: 42
+# ZIVNLE_90314 Number of predicted TMRs: 0
+ZIVNLE_90314	signal	1	32				
+ZIVNLE_90314	outside	33	42				
+//
+# ZIVNLE_24502 Length: 50
+# ZIVNLE_24502 Number of predicted TMRs: 0
+ZIVNLE_24502	inside	1	50				
+//
+# ZIVNLE_162314 Length: 45
+# ZIVNLE_162314 Number of predicted TMRs: 0
+ZIVNLE_162314	signal	1	20				
+ZIVNLE_162314	outside	21	45				
+//
+# ZIVNLE_12133 Length: 40
+# ZIVNLE_12133 Number of predicted TMRs: 0
+ZIVNLE_12133	signal	1	39				
+ZIVNLE_12133	outside	40	40				
+//
+# ZIVNLE_113116 Length: 43
+# ZIVNLE_113116 Number of predicted TMRs: 0
+ZIVNLE_113116	inside	1	43				
+//
+# ZIVNLE_165622 Length: 40
+# ZIVNLE_165622 Number of predicted TMRs: 0
+ZIVNLE_165622	outside	1	40				
+//
+# ZIVNLE_77846 Length: 39
+# ZIVNLE_77846 Number of predicted TMRs: 0
+ZIVNLE_77846	inside	1	39				
+//
+# ZIVNLE_78940 Length: 36
+# ZIVNLE_78940 Number of predicted TMRs: 0
+ZIVNLE_78940	inside	1	36				
+//
+# ZIVNLE_68365 Length: 39
+# ZIVNLE_68365 Number of predicted TMRs: 0
+ZIVNLE_68365	inside	1	39				
+//
+# ZIVNLE_107727 Length: 39
+# ZIVNLE_107727 Number of predicted TMRs: 0
+ZIVNLE_107727	inside	1	39				
+//
+# ZIVNLE_108668 Length: 48
+# ZIVNLE_108668 Number of predicted TMRs: 0
+ZIVNLE_108668	outside	1	48				
+//
+# ZIVNLE_79780 Length: 35
+# ZIVNLE_79780 Number of predicted TMRs: 0
+ZIVNLE_79780	inside	1	35				
+//
+# ZIVNLE_59681 Length: 45
+# ZIVNLE_59681 Number of predicted TMRs: 0
+ZIVNLE_59681	signal	1	18				
+ZIVNLE_59681	outside	19	45				
+//
+# ZIVNLE_105815 Length: 48
+# ZIVNLE_105815 Number of predicted TMRs: 0
+ZIVNLE_105815	inside	1	48				
+//
+# ZIVNLE_120878 Length: 40
+# ZIVNLE_120878 Number of predicted TMRs: 0
+ZIVNLE_120878	signal	1	20				
+ZIVNLE_120878	outside	21	40				
+//
+# ZIVNLE_24043 Length: 50
+# ZIVNLE_24043 Number of predicted TMRs: 0
+ZIVNLE_24043	inside	1	50				
+//
+# ZIVNLE_168256 Length: 48
+# ZIVNLE_168256 Number of predicted TMRs: 0
+ZIVNLE_168256	inside	1	48				
+//
+# ZIVNLE_160409 Length: 48
+# ZIVNLE_160409 Number of predicted TMRs: 0
+ZIVNLE_160409	inside	1	48				
+//
+# ZIVNLE_4195 Length: 48
+# ZIVNLE_4195 Number of predicted TMRs: 0
+ZIVNLE_4195	inside	1	48				
+//
+# ZIVNLE_90201 Length: 43
+# ZIVNLE_90201 Number of predicted TMRs: 0
+ZIVNLE_90201	signal	1	10				
+ZIVNLE_90201	outside	11	43				
+//
+# ZIVNLE_16136 Length: 49
+# ZIVNLE_16136 Number of predicted TMRs: 0
+ZIVNLE_16136	inside	1	49				
+//
+# ZIVNLE_74598 Length: 50
+# ZIVNLE_74598 Number of predicted TMRs: 0
+ZIVNLE_74598	inside	1	50				
+//
+# ZIVNLE_62718 Length: 33
+# ZIVNLE_62718 Number of predicted TMRs: 0
+ZIVNLE_62718	inside	1	33				
+//
+# ZIVNLE_88325 Length: 46
+# ZIVNLE_88325 Number of predicted TMRs: 0
+ZIVNLE_88325	inside	1	46				
+//
+# ZIVNLE_150147 Length: 46
+# ZIVNLE_150147 Number of predicted TMRs: 0
+ZIVNLE_150147	inside	1	46				
+//
+# ZIVNLE_33132 Length: 44
+# ZIVNLE_33132 Number of predicted TMRs: 0
+ZIVNLE_33132	inside	1	44				
+//
+# ZIVNLE_34480 Length: 36
+# ZIVNLE_34480 Number of predicted TMRs: 0
+ZIVNLE_34480	inside	1	36				
+//
+# ZIVNLE_163384 Length: 38
+# ZIVNLE_163384 Number of predicted TMRs: 0
+ZIVNLE_163384	signal	1	28				
+ZIVNLE_163384	outside	29	38				
+//
+# ZIVNLE_142402 Length: 39
+# ZIVNLE_142402 Number of predicted TMRs: 0
+ZIVNLE_142402	inside	1	39				
+//
+# ZIVNLE_75514 Length: 40
+# ZIVNLE_75514 Number of predicted TMRs: 0
+ZIVNLE_75514	inside	1	40				
+//
+# ZIVNLE_146348 Length: 38
+# ZIVNLE_146348 Number of predicted TMRs: 0
+ZIVNLE_146348	inside	1	38				
+//
+# ZIVNLE_94186 Length: 38
+# ZIVNLE_94186 Number of predicted TMRs: 0
+ZIVNLE_94186	signal	1	33				
+ZIVNLE_94186	outside	34	38				
+//
+# ZIVNLE_97197 Length: 48
+# ZIVNLE_97197 Number of predicted TMRs: 0
+ZIVNLE_97197	outside	1	48				
+//
+# ZIVNLE_160716 Length: 46
+# ZIVNLE_160716 Number of predicted TMRs: 0
+ZIVNLE_160716	signal	1	15				
+ZIVNLE_160716	outside	16	46				
+//
+# ZIVNLE_137139 Length: 50
+# ZIVNLE_137139 Number of predicted TMRs: 0
+ZIVNLE_137139	inside	1	50				
+//
+# ZIVNLE_129117 Length: 49
+# ZIVNLE_129117 Number of predicted TMRs: 0
+ZIVNLE_129117	signal	1	20				
+ZIVNLE_129117	outside	21	49				
+//
+# ZIVNLE_89779 Length: 44
+# ZIVNLE_89779 Number of predicted TMRs: 0
+ZIVNLE_89779	signal	1	43				
+ZIVNLE_89779	outside	44	44				
+//
+# ZIVNLE_52040 Length: 41
+# ZIVNLE_52040 Number of predicted TMRs: 0
+ZIVNLE_52040	signal	1	13				
+ZIVNLE_52040	outside	14	41				
+//
+# ZIVNLE_24859 Length: 48
+# ZIVNLE_24859 Number of predicted TMRs: 0
+ZIVNLE_24859	inside	1	48				
+//
+# ZIVNLE_40797 Length: 49
+# ZIVNLE_40797 Number of predicted TMRs: 0
+ZIVNLE_40797	inside	1	49				
+//
+# ZIVNLE_98453 Length: 50
+# ZIVNLE_98453 Number of predicted TMRs: 0
+ZIVNLE_98453	inside	1	50				
+//
+# ZIVNLE_48568 Length: 40
+# ZIVNLE_48568 Number of predicted TMRs: 0
+ZIVNLE_48568	signal	1	12				
+ZIVNLE_48568	outside	13	40				
+//
+# ZIVNLE_60575 Length: 35
+# ZIVNLE_60575 Number of predicted TMRs: 0
+ZIVNLE_60575	signal	1	33				
+ZIVNLE_60575	outside	34	35				
+//
+# ZIVNLE_35247 Length: 42
+# ZIVNLE_35247 Number of predicted TMRs: 0
+ZIVNLE_35247	inside	1	42				
+//
+# ZIVNLE_45493 Length: 46
+# ZIVNLE_45493 Number of predicted TMRs: 0
+ZIVNLE_45493	signal	1	13				
+ZIVNLE_45493	outside	14	46				
+//
+# ZIVNLE_115910 Length: 45
+# ZIVNLE_115910 Number of predicted TMRs: 0
+ZIVNLE_115910	signal	1	33				
+ZIVNLE_115910	outside	34	45				
+//
+# ZIVNLE_150680 Length: 35
+# ZIVNLE_150680 Number of predicted TMRs: 0
+ZIVNLE_150680	inside	1	35				
+//
+# ZIVNLE_77205 Length: 50
+# ZIVNLE_77205 Number of predicted TMRs: 0
+ZIVNLE_77205	inside	1	50				
+//
+# ZIVNLE_9176 Length: 47
+# ZIVNLE_9176 Number of predicted TMRs: 0
+ZIVNLE_9176	inside	1	47				
+//
+# ZIVNLE_169567 Length: 46
+# ZIVNLE_169567 Number of predicted TMRs: 0
+ZIVNLE_169567	signal	1	10				
+ZIVNLE_169567	outside	11	46				
+//
+# ZIVNLE_64001 Length: 47
+# ZIVNLE_64001 Number of predicted TMRs: 0
+ZIVNLE_64001	inside	1	47				
+//
+# ZIVNLE_138558 Length: 49
+# ZIVNLE_138558 Number of predicted TMRs: 0
+ZIVNLE_138558	signal	1	13				
+ZIVNLE_138558	outside	14	49				
+//
+# ZIVNLE_59307 Length: 41
+# ZIVNLE_59307 Number of predicted TMRs: 0
+ZIVNLE_59307	signal	1	40				
+ZIVNLE_59307	outside	41	41				
+//
+# ZIVNLE_98319 Length: 47
+# ZIVNLE_98319 Number of predicted TMRs: 0
+ZIVNLE_98319	inside	1	47				
+//
+# ZIVNLE_15938 Length: 40
+# ZIVNLE_15938 Number of predicted TMRs: 0
+ZIVNLE_15938	inside	1	40				
+//
+# ZIVNLE_115414 Length: 50
+# ZIVNLE_115414 Number of predicted TMRs: 0
+ZIVNLE_115414	inside	1	50				
+//
+# ZIVNLE_20570 Length: 46
+# ZIVNLE_20570 Number of predicted TMRs: 0
+ZIVNLE_20570	inside	1	46				
+//
+# ZIVNLE_73775 Length: 43
+# ZIVNLE_73775 Number of predicted TMRs: 0
+ZIVNLE_73775	signal	1	41				
+ZIVNLE_73775	outside	42	43				
+//
+# ZIVNLE_117356 Length: 50
+# ZIVNLE_117356 Number of predicted TMRs: 1
+ZIVNLE_117356	inside	1	28				
+ZIVNLE_117356	TMhelix	29	49				
+ZIVNLE_117356	outside	50	50				
+//
+# ZIVNLE_57308 Length: 36
+# ZIVNLE_57308 Number of predicted TMRs: 0
+ZIVNLE_57308	signal	1	35				
+ZIVNLE_57308	outside	36	36				
+//
+# ZIVNLE_153317 Length: 37
+# ZIVNLE_153317 Number of predicted TMRs: 0
+ZIVNLE_153317	signal	1	33				
+ZIVNLE_153317	outside	34	37				
+//
+# ZIVNLE_28454 Length: 34
+# ZIVNLE_28454 Number of predicted TMRs: 0
+ZIVNLE_28454	signal	1	32				
+ZIVNLE_28454	outside	33	34				
+//
+# ZIVNLE_50056 Length: 40
+# ZIVNLE_50056 Number of predicted TMRs: 0
+ZIVNLE_50056	inside	1	40				
+//
+# ZIVNLE_137865 Length: 48
+# ZIVNLE_137865 Number of predicted TMRs: 0
+ZIVNLE_137865	inside	1	48				
+//
+# ZIVNLE_168960 Length: 49
+# ZIVNLE_168960 Number of predicted TMRs: 0
+ZIVNLE_168960	inside	1	49				
+//
+# ZIVNLE_150525 Length: 32
+# ZIVNLE_150525 Number of predicted TMRs: 0
+ZIVNLE_150525	inside	1	32				
+//
+# ZIVNLE_80638 Length: 44
+# ZIVNLE_80638 Number of predicted TMRs: 0
+ZIVNLE_80638	signal	1	32				
+ZIVNLE_80638	outside	33	44				
+//
+# ZIVNLE_9447 Length: 48
+# ZIVNLE_9447 Number of predicted TMRs: 0
+ZIVNLE_9447	signal	1	47				
+ZIVNLE_9447	outside	48	48				
+//
+# ZIVNLE_40811 Length: 39
+# ZIVNLE_40811 Number of predicted TMRs: 0
+ZIVNLE_40811	inside	1	39				
+//
+# ZIVNLE_18487 Length: 30
+# ZIVNLE_18487 Number of predicted TMRs: 0
+ZIVNLE_18487	inside	1	30				
+//
+# ZIVNLE_112187 Length: 47
+# ZIVNLE_112187 Number of predicted TMRs: 0
+ZIVNLE_112187	signal	1	15				
+ZIVNLE_112187	outside	16	47				
+//
+# ZIVNLE_6834 Length: 45
+# ZIVNLE_6834 Number of predicted TMRs: 0
+ZIVNLE_6834	inside	1	45				
+//
+# ZIVNLE_93333 Length: 48
+# ZIVNLE_93333 Number of predicted TMRs: 0
+ZIVNLE_93333	inside	1	48				
+//
+# ZIVNLE_154575 Length: 33
+# ZIVNLE_154575 Number of predicted TMRs: 0
+ZIVNLE_154575	signal	1	22				
+ZIVNLE_154575	outside	23	33				
+//
+# ZIVNLE_68055 Length: 48
+# ZIVNLE_68055 Number of predicted TMRs: 0
+ZIVNLE_68055	inside	1	48				
+//
+# ZIVNLE_48737 Length: 39
+# ZIVNLE_48737 Number of predicted TMRs: 0
+ZIVNLE_48737	signal	1	10				
+ZIVNLE_48737	outside	11	39				
+//
+# ZIVNLE_41186 Length: 48
+# ZIVNLE_41186 Number of predicted TMRs: 0
+ZIVNLE_41186	inside	1	48				
+//
+# ZIVNLE_69920 Length: 40
+# ZIVNLE_69920 Number of predicted TMRs: 0
+ZIVNLE_69920	inside	1	40				
+//
+# ZIVNLE_17083 Length: 47
+# ZIVNLE_17083 Number of predicted TMRs: 0
+ZIVNLE_17083	signal	1	46				
+ZIVNLE_17083	outside	47	47				
+//
+# ZIVNLE_16947 Length: 44
+# ZIVNLE_16947 Number of predicted TMRs: 0
+ZIVNLE_16947	inside	1	44				
+//
+# ZIVNLE_16950 Length: 49
+# ZIVNLE_16950 Number of predicted TMRs: 0
+ZIVNLE_16950	inside	1	49				
+//
+# ZIVNLE_100770 Length: 39
+# ZIVNLE_100770 Number of predicted TMRs: 0
+ZIVNLE_100770	inside	1	39				
+//
+# ZIVNLE_116456 Length: 49
+# ZIVNLE_116456 Number of predicted TMRs: 0
+ZIVNLE_116456	inside	1	49				
+//
+# ZIVNLE_50223 Length: 50
+# ZIVNLE_50223 Number of predicted TMRs: 0
+ZIVNLE_50223	inside	1	50				
+//
+# ZIVNLE_110417 Length: 50
+# ZIVNLE_110417 Number of predicted TMRs: 0
+ZIVNLE_110417	signal	1	49				
+ZIVNLE_110417	outside	50	50				
+//
+# ZIVNLE_132687 Length: 45
+# ZIVNLE_132687 Number of predicted TMRs: 0
+ZIVNLE_132687	signal	1	12				
+ZIVNLE_132687	outside	13	45				
+//
+# ZIVNLE_94291 Length: 42
+# ZIVNLE_94291 Number of predicted TMRs: 0
+ZIVNLE_94291	signal	1	41				
+ZIVNLE_94291	outside	42	42				
+//
+# ZIVNLE_55086 Length: 43
+# ZIVNLE_55086 Number of predicted TMRs: 0
+ZIVNLE_55086	inside	1	43				
+//
+# ZIVNLE_8290 Length: 47
+# ZIVNLE_8290 Number of predicted TMRs: 0
+ZIVNLE_8290	inside	1	47				
+//
+# ZIVNLE_133585 Length: 44
+# ZIVNLE_133585 Number of predicted TMRs: 0
+ZIVNLE_133585	inside	1	44				
+//
+# ZIVNLE_57643 Length: 50
+# ZIVNLE_57643 Number of predicted TMRs: 0
+ZIVNLE_57643	inside	1	50				
+//
+# ZIVNLE_95214 Length: 45
+# ZIVNLE_95214 Number of predicted TMRs: 0
+ZIVNLE_95214	signal	1	44				
+ZIVNLE_95214	outside	45	45				
+//
+# ZIVNLE_131365 Length: 45
+# ZIVNLE_131365 Number of predicted TMRs: 0
+ZIVNLE_131365	signal	1	41				
+ZIVNLE_131365	outside	42	45				
+//
+# ZIVNLE_19197 Length: 46
+# ZIVNLE_19197 Number of predicted TMRs: 0
+ZIVNLE_19197	inside	1	46				
+//
+# ZIVNLE_117215 Length: 48
+# ZIVNLE_117215 Number of predicted TMRs: 0
+ZIVNLE_117215	signal	1	44				
+ZIVNLE_117215	outside	45	48				
+//
+# ZIVNLE_25828 Length: 44
+# ZIVNLE_25828 Number of predicted TMRs: 0
+ZIVNLE_25828	signal	1	29				
+ZIVNLE_25828	outside	30	44				
+//
+# ZIVNLE_30032 Length: 49
+# ZIVNLE_30032 Number of predicted TMRs: 0
+ZIVNLE_30032	signal	1	11				
+ZIVNLE_30032	outside	12	49				
+//
+# ZIVNLE_166110 Length: 47
+# ZIVNLE_166110 Number of predicted TMRs: 0
+ZIVNLE_166110	inside	1	47				
+//
+# ZIVNLE_69260 Length: 49
+# ZIVNLE_69260 Number of predicted TMRs: 0
+ZIVNLE_69260	inside	1	49				
+//
+# ZIVNLE_26626 Length: 45
+# ZIVNLE_26626 Number of predicted TMRs: 0
+ZIVNLE_26626	inside	1	45				
+//
+# ZIVNLE_150975 Length: 44
+# ZIVNLE_150975 Number of predicted TMRs: 0
+ZIVNLE_150975	inside	1	44				
+//
+# ZIVNLE_42097 Length: 45
+# ZIVNLE_42097 Number of predicted TMRs: 0
+ZIVNLE_42097	signal	1	44				
+ZIVNLE_42097	outside	45	45				
+//
+# ZIVNLE_19753 Length: 49
+# ZIVNLE_19753 Number of predicted TMRs: 0
+ZIVNLE_19753	inside	1	49				
+//
+# ZIVNLE_133402 Length: 37
+# ZIVNLE_133402 Number of predicted TMRs: 0
+ZIVNLE_133402	signal	1	27				
+ZIVNLE_133402	outside	28	37				
+//
+# ZIVNLE_109394 Length: 31
+# ZIVNLE_109394 Number of predicted TMRs: 0
+ZIVNLE_109394	inside	1	31				
+//
+# ZIVNLE_12724 Length: 47
+# ZIVNLE_12724 Number of predicted TMRs: 0
+ZIVNLE_12724	inside	1	47				
+//
+# ZIVNLE_8855 Length: 42
+# ZIVNLE_8855 Number of predicted TMRs: 0
+ZIVNLE_8855	signal	1	39				
+ZIVNLE_8855	outside	40	42				
+//
+# ZIVNLE_76131 Length: 50
+# ZIVNLE_76131 Number of predicted TMRs: 0
+ZIVNLE_76131	inside	1	50				
+//
+# ZIVNLE_17072 Length: 36
+# ZIVNLE_17072 Number of predicted TMRs: 0
+ZIVNLE_17072	inside	1	36				
+//
+# ZIVNLE_113809 Length: 40
+# ZIVNLE_113809 Number of predicted TMRs: 0
+ZIVNLE_113809	outside	1	40				
+//
+# ZIVNLE_16167 Length: 33
+# ZIVNLE_16167 Number of predicted TMRs: 0
+ZIVNLE_16167	inside	1	33				
+//
+# ZIVNLE_102932 Length: 37
+# ZIVNLE_102932 Number of predicted TMRs: 0
+ZIVNLE_102932	inside	1	37				
+//
+# ZIVNLE_141491 Length: 20
+# ZIVNLE_141491 Number of predicted TMRs: 0
+ZIVNLE_141491	inside	1	20				
+//
+# ZIVNLE_69431 Length: 42
+# ZIVNLE_69431 Number of predicted TMRs: 0
+ZIVNLE_69431	inside	1	42				
+//
+# ZIVNLE_21757 Length: 29
+# ZIVNLE_21757 Number of predicted TMRs: 0
+ZIVNLE_21757	signal	1	23				
+ZIVNLE_21757	outside	24	29				
+//
+# ZIVNLE_120502 Length: 46
+# ZIVNLE_120502 Number of predicted TMRs: 0
+ZIVNLE_120502	inside	1	46				
+//
+# ZIVNLE_70128 Length: 45
+# ZIVNLE_70128 Number of predicted TMRs: 0
+ZIVNLE_70128	inside	1	45				
+//
+# ZIVNLE_18570 Length: 40
+# ZIVNLE_18570 Number of predicted TMRs: 0
+ZIVNLE_18570	signal	1	27				
+ZIVNLE_18570	outside	28	40				
+//
+# ZIVNLE_43903 Length: 27
+# ZIVNLE_43903 Number of predicted TMRs: 0
+ZIVNLE_43903	signal	1	26				
+ZIVNLE_43903	outside	27	27				
+//
+# ZIVNLE_102639 Length: 42
+# ZIVNLE_102639 Number of predicted TMRs: 0
+ZIVNLE_102639	signal	1	40				
+ZIVNLE_102639	outside	41	42				
+//
+# ZIVNLE_48748 Length: 49
+# ZIVNLE_48748 Number of predicted TMRs: 0
+ZIVNLE_48748	signal	1	31				
+ZIVNLE_48748	outside	32	49				
+//
+# ZIVNLE_100127 Length: 39
+# ZIVNLE_100127 Number of predicted TMRs: 0
+ZIVNLE_100127	signal	1	38				
+ZIVNLE_100127	outside	39	39				
+//
+# ZIVNLE_134340 Length: 44
+# ZIVNLE_134340 Number of predicted TMRs: 0
+ZIVNLE_134340	inside	1	44				
+//
+# ZIVNLE_117199 Length: 39
+# ZIVNLE_117199 Number of predicted TMRs: 0
+ZIVNLE_117199	inside	1	39				
+//
+# ZIVNLE_37668 Length: 36
+# ZIVNLE_37668 Number of predicted TMRs: 0
+ZIVNLE_37668	inside	1	36				
+//
+# ZIVNLE_4168 Length: 42
+# ZIVNLE_4168 Number of predicted TMRs: 0
+ZIVNLE_4168	signal	1	41				
+ZIVNLE_4168	outside	42	42				
+//
+# ZIVNLE_79205 Length: 50
+# ZIVNLE_79205 Number of predicted TMRs: 0
+ZIVNLE_79205	inside	1	50				
+//
+# ZIVNLE_144148 Length: 44
+# ZIVNLE_144148 Number of predicted TMRs: 0
+ZIVNLE_144148	inside	1	44				
+//
+# ZIVNLE_107813 Length: 44
+# ZIVNLE_107813 Number of predicted TMRs: 0
+ZIVNLE_107813	signal	1	12				
+ZIVNLE_107813	outside	13	44				
+//
+# ZIVNLE_129820 Length: 36
+# ZIVNLE_129820 Number of predicted TMRs: 0
+ZIVNLE_129820	signal	1	20				
+ZIVNLE_129820	outside	21	36				
+//
+# ZIVNLE_60655 Length: 43
+# ZIVNLE_60655 Number of predicted TMRs: 0
+ZIVNLE_60655	inside	1	43				
+//
+# ZIVNLE_10750 Length: 33
+# ZIVNLE_10750 Number of predicted TMRs: 0
+ZIVNLE_10750	signal	1	30				
+ZIVNLE_10750	outside	31	33				
+//
+# ZIVNLE_44780 Length: 50
+# ZIVNLE_44780 Number of predicted TMRs: 0
+ZIVNLE_44780	inside	1	50				
+//
+# ZIVNLE_58576 Length: 49
+# ZIVNLE_58576 Number of predicted TMRs: 0
+ZIVNLE_58576	signal	1	48				
+ZIVNLE_58576	outside	49	49				
+//
+# ZIVNLE_52313 Length: 48
+# ZIVNLE_52313 Number of predicted TMRs: 0
+ZIVNLE_52313	inside	1	48				
+//
+# ZIVNLE_28427 Length: 43
+# ZIVNLE_28427 Number of predicted TMRs: 0
+ZIVNLE_28427	inside	1	43				
+//
+# ZIVNLE_152076 Length: 40
+# ZIVNLE_152076 Number of predicted TMRs: 0
+ZIVNLE_152076	inside	1	40				
+//
+# ZIVNLE_58884 Length: 48
+# ZIVNLE_58884 Number of predicted TMRs: 0
+ZIVNLE_58884	inside	1	48				
+//
+# ZIVNLE_99416 Length: 37
+# ZIVNLE_99416 Number of predicted TMRs: 0
+ZIVNLE_99416	inside	1	37				
+//
+# ZIVNLE_23552 Length: 32
+# ZIVNLE_23552 Number of predicted TMRs: 0
+ZIVNLE_23552	inside	1	32				
+//
+# ZIVNLE_51568 Length: 34
+# ZIVNLE_51568 Number of predicted TMRs: 0
+ZIVNLE_51568	inside	1	34				
+//
+# ZIVNLE_171123 Length: 42
+# ZIVNLE_171123 Number of predicted TMRs: 0
+ZIVNLE_171123	signal	1	37				
+ZIVNLE_171123	outside	38	42				
+//
+# ZIVNLE_8515 Length: 48
+# ZIVNLE_8515 Number of predicted TMRs: 0
+ZIVNLE_8515	signal	1	21				
+ZIVNLE_8515	outside	22	48				
+//
+# ZIVNLE_135549 Length: 43
+# ZIVNLE_135549 Number of predicted TMRs: 0
+ZIVNLE_135549	signal	1	26				
+ZIVNLE_135549	outside	27	43				
+//
+# ZIVNLE_156785 Length: 36
+# ZIVNLE_156785 Number of predicted TMRs: 0
+ZIVNLE_156785	inside	1	36				
+//
+# ZIVNLE_81364 Length: 43
+# ZIVNLE_81364 Number of predicted TMRs: 0
+ZIVNLE_81364	signal	1	42				
+ZIVNLE_81364	outside	43	43				
+//
+# ZIVNLE_167485 Length: 46
+# ZIVNLE_167485 Number of predicted TMRs: 0
+ZIVNLE_167485	signal	1	35				
+ZIVNLE_167485	outside	36	46				
+//
+# ZIVNLE_103087 Length: 48
+# ZIVNLE_103087 Number of predicted TMRs: 0
+ZIVNLE_103087	inside	1	48				
+//
+# ZIVNLE_147528 Length: 49
+# ZIVNLE_147528 Number of predicted TMRs: 0
+ZIVNLE_147528	signal	1	47				
+ZIVNLE_147528	outside	48	49				
+//
+# ZIVNLE_100461 Length: 41
+# ZIVNLE_100461 Number of predicted TMRs: 0
+ZIVNLE_100461	inside	1	41				
+//
+# ZIVNLE_141214 Length: 44
+# ZIVNLE_141214 Number of predicted TMRs: 0
+ZIVNLE_141214	inside	1	44				
+//
+# ZIVNLE_99283 Length: 43
+# ZIVNLE_99283 Number of predicted TMRs: 0
+ZIVNLE_99283	inside	1	43				
+//
+# ZIVNLE_96624 Length: 37
+# ZIVNLE_96624 Number of predicted TMRs: 0
+ZIVNLE_96624	signal	1	30				
+ZIVNLE_96624	outside	31	37				
+//
+# ZIVNLE_119740 Length: 23
+# ZIVNLE_119740 Number of predicted TMRs: 0
+ZIVNLE_119740	inside	1	23				
+//
+# ZIVNLE_111183 Length: 46
+# ZIVNLE_111183 Number of predicted TMRs: 0
+ZIVNLE_111183	inside	1	46				
+//
+# ZIVNLE_11290 Length: 44
+# ZIVNLE_11290 Number of predicted TMRs: 0
+ZIVNLE_11290	inside	1	44				
+//
+# ZIVNLE_42297 Length: 39
+# ZIVNLE_42297 Number of predicted TMRs: 0
+ZIVNLE_42297	inside	1	39				
+//
+# ZIVNLE_137035 Length: 44
+# ZIVNLE_137035 Number of predicted TMRs: 0
+ZIVNLE_137035	signal	1	13				
+ZIVNLE_137035	outside	14	44				
+//
+# ZIVNLE_120802 Length: 46
+# ZIVNLE_120802 Number of predicted TMRs: 0
+ZIVNLE_120802	inside	1	46				
+//
+# ZIVNLE_121804 Length: 42
+# ZIVNLE_121804 Number of predicted TMRs: 0
+ZIVNLE_121804	inside	1	42				
+//
+# ZIVNLE_21520 Length: 40
+# ZIVNLE_21520 Number of predicted TMRs: 0
+ZIVNLE_21520	inside	1	40				
+//
+# ZIVNLE_146467 Length: 50
+# ZIVNLE_146467 Number of predicted TMRs: 0
+ZIVNLE_146467	inside	1	50				
+//
+# ZIVNLE_37244 Length: 42
+# ZIVNLE_37244 Number of predicted TMRs: 0
+ZIVNLE_37244	inside	1	42				
+//
+# ZIVNLE_17462 Length: 42
+# ZIVNLE_17462 Number of predicted TMRs: 0
+ZIVNLE_17462	inside	1	42				
+//
+# ZIVNLE_163251 Length: 48
+# ZIVNLE_163251 Number of predicted TMRs: 0
+ZIVNLE_163251	inside	1	48				
+//
+# ZIVNLE_75551 Length: 49
+# ZIVNLE_75551 Number of predicted TMRs: 0
+ZIVNLE_75551	signal	1	33				
+ZIVNLE_75551	outside	34	49				
+//
+# ZIVNLE_4579 Length: 41
+# ZIVNLE_4579 Number of predicted TMRs: 1
+ZIVNLE_4579	inside	1	20				
+ZIVNLE_4579	TMhelix	21	38				
+ZIVNLE_4579	outside	39	41				
+//
+# ZIVNLE_152055 Length: 43
+# ZIVNLE_152055 Number of predicted TMRs: 0
+ZIVNLE_152055	inside	1	43				
+//
+# ZIVNLE_120260 Length: 46
+# ZIVNLE_120260 Number of predicted TMRs: 0
+ZIVNLE_120260	inside	1	46				
+//
+# ZIVNLE_62936 Length: 42
+# ZIVNLE_62936 Number of predicted TMRs: 0
+ZIVNLE_62936	signal	1	40				
+ZIVNLE_62936	outside	41	42				
+//
+# ZIVNLE_14488 Length: 40
+# ZIVNLE_14488 Number of predicted TMRs: 0
+ZIVNLE_14488	signal	1	39				
+ZIVNLE_14488	outside	40	40				
+//
+# ZIVNLE_33771 Length: 45
+# ZIVNLE_33771 Number of predicted TMRs: 0
+ZIVNLE_33771	inside	1	45				
+//
+# ZIVNLE_73567 Length: 48
+# ZIVNLE_73567 Number of predicted TMRs: 0
+ZIVNLE_73567	signal	1	26				
+ZIVNLE_73567	outside	27	48				
+//
+# ZIVNLE_49559 Length: 39
+# ZIVNLE_49559 Number of predicted TMRs: 0
+ZIVNLE_49559	signal	1	36				
+ZIVNLE_49559	outside	37	39				
+//
+# ZIVNLE_71439 Length: 40
+# ZIVNLE_71439 Number of predicted TMRs: 0
+ZIVNLE_71439	signal	1	39				
+ZIVNLE_71439	outside	40	40				
+//
+# ZIVNLE_131298 Length: 45
+# ZIVNLE_131298 Number of predicted TMRs: 0
+ZIVNLE_131298	inside	1	45				
+//
+# ZIVNLE_88785 Length: 49
+# ZIVNLE_88785 Number of predicted TMRs: 0
+ZIVNLE_88785	inside	1	49				
+//
+# ZIVNLE_58964 Length: 38
+# ZIVNLE_58964 Number of predicted TMRs: 0
+ZIVNLE_58964	outside	1	38				
+//
+# ZIVNLE_147204 Length: 45
+# ZIVNLE_147204 Number of predicted TMRs: 0
+ZIVNLE_147204	inside	1	45				
+//
+# ZIVNLE_58262 Length: 46
+# ZIVNLE_58262 Number of predicted TMRs: 0
+ZIVNLE_58262	signal	1	26				
+ZIVNLE_58262	outside	27	46				
+//
+# ZIVNLE_91047 Length: 48
+# ZIVNLE_91047 Number of predicted TMRs: 0
+ZIVNLE_91047	inside	1	48				
+//
+# ZIVNLE_133812 Length: 46
+# ZIVNLE_133812 Number of predicted TMRs: 0
+ZIVNLE_133812	signal	1	34				
+ZIVNLE_133812	outside	35	46				
+//
+# ZIVNLE_5048 Length: 38
+# ZIVNLE_5048 Number of predicted TMRs: 0
+ZIVNLE_5048	signal	1	32				
+ZIVNLE_5048	outside	33	38				
+//
+# ZIVNLE_16366 Length: 31
+# ZIVNLE_16366 Number of predicted TMRs: 0
+ZIVNLE_16366	signal	1	28				
+ZIVNLE_16366	outside	29	31				
+//
+# ZIVNLE_20909 Length: 46
+# ZIVNLE_20909 Number of predicted TMRs: 0
+ZIVNLE_20909	inside	1	46				
+//
+# ZIVNLE_164548 Length: 46
+# ZIVNLE_164548 Number of predicted TMRs: 0
+ZIVNLE_164548	inside	1	46				
+//
+# ZIVNLE_75022 Length: 45
+# ZIVNLE_75022 Number of predicted TMRs: 0
+ZIVNLE_75022	inside	1	45				
+//
+# ZIVNLE_137350 Length: 48
+# ZIVNLE_137350 Number of predicted TMRs: 0
+ZIVNLE_137350	signal	1	39				
+ZIVNLE_137350	outside	40	48				
+//
+# ZIVNLE_52031 Length: 41
+# ZIVNLE_52031 Number of predicted TMRs: 0
+ZIVNLE_52031	signal	1	33				
+ZIVNLE_52031	outside	34	41				
+//
+# ZIVNLE_6862 Length: 41
+# ZIVNLE_6862 Number of predicted TMRs: 0
+ZIVNLE_6862	inside	1	41				
+//
+# ZIVNLE_77190 Length: 47
+# ZIVNLE_77190 Number of predicted TMRs: 0
+ZIVNLE_77190	inside	1	47				
+//
+# ZIVNLE_64244 Length: 48
+# ZIVNLE_64244 Number of predicted TMRs: 0
+ZIVNLE_64244	inside	1	48				
+//
+# ZIVNLE_44338 Length: 46
+# ZIVNLE_44338 Number of predicted TMRs: 0
+ZIVNLE_44338	inside	1	46				
+//
+# ZIVNLE_86352 Length: 49
+# ZIVNLE_86352 Number of predicted TMRs: 0
+ZIVNLE_86352	signal	1	12				
+ZIVNLE_86352	outside	13	49				
+//
+# ZIVNLE_145602 Length: 45
+# ZIVNLE_145602 Number of predicted TMRs: 0
+ZIVNLE_145602	signal	1	16				
+ZIVNLE_145602	outside	17	45				
+//
+# ZIVNLE_142880 Length: 36
+# ZIVNLE_142880 Number of predicted TMRs: 0
+ZIVNLE_142880	inside	1	36				
+//
+# ZIVNLE_79645 Length: 46
+# ZIVNLE_79645 Number of predicted TMRs: 0
+ZIVNLE_79645	inside	1	46				
+//
+# ZIVNLE_17816 Length: 48
+# ZIVNLE_17816 Number of predicted TMRs: 0
+ZIVNLE_17816	inside	1	48				
+//
+# ZIVNLE_59899 Length: 47
+# ZIVNLE_59899 Number of predicted TMRs: 0
+ZIVNLE_59899	signal	1	38				
+ZIVNLE_59899	outside	39	47				
+//
+# ZIVNLE_31317 Length: 36
+# ZIVNLE_31317 Number of predicted TMRs: 0
+ZIVNLE_31317	signal	1	35				
+ZIVNLE_31317	outside	36	36				
+//
+# ZIVNLE_53011 Length: 36
+# ZIVNLE_53011 Number of predicted TMRs: 0
+ZIVNLE_53011	signal	1	24				
+ZIVNLE_53011	outside	25	36				
+//
+# ZIVNLE_317 Length: 36
+# ZIVNLE_317 Number of predicted TMRs: 0
+ZIVNLE_317	signal	1	33				
+ZIVNLE_317	outside	34	36				
+//
+# ZIVNLE_347 Length: 36
+# ZIVNLE_347 Number of predicted TMRs: 0
+ZIVNLE_347	signal	1	35				
+ZIVNLE_347	outside	36	36				
+//
+# ZIVNLE_160536 Length: 39
+# ZIVNLE_160536 Number of predicted TMRs: 0
+ZIVNLE_160536	signal	1	38				
+ZIVNLE_160536	outside	39	39				
+//
+# ZIVNLE_155320 Length: 46
+# ZIVNLE_155320 Number of predicted TMRs: 0
+ZIVNLE_155320	inside	1	46				
+//
+# ZIVNLE_83115 Length: 39
+# ZIVNLE_83115 Number of predicted TMRs: 0
+ZIVNLE_83115	signal	1	32				
+ZIVNLE_83115	outside	33	39				
+//
+# ZIVNLE_65694 Length: 48
+# ZIVNLE_65694 Number of predicted TMRs: 0
+ZIVNLE_65694	signal	1	25				
+ZIVNLE_65694	outside	26	48				
+//
+# ZIVNLE_65685 Length: 47
+# ZIVNLE_65685 Number of predicted TMRs: 0
+ZIVNLE_65685	signal	1	25				
+ZIVNLE_65685	outside	26	47				
+//
+# ZIVNLE_117684 Length: 44
+# ZIVNLE_117684 Number of predicted TMRs: 0
+ZIVNLE_117684	inside	1	44				
+//
+# ZIVNLE_80397 Length: 42
+# ZIVNLE_80397 Number of predicted TMRs: 0
+ZIVNLE_80397	inside	1	42				
+//
+# ZIVNLE_80399 Length: 50
+# ZIVNLE_80399 Number of predicted TMRs: 0
+ZIVNLE_80399	inside	1	50				
+//
+# ZIVNLE_14605 Length: 42
+# ZIVNLE_14605 Number of predicted TMRs: 0
+ZIVNLE_14605	signal	1	41				
+ZIVNLE_14605	outside	42	42				
+//
+# ZIVNLE_72969 Length: 44
+# ZIVNLE_72969 Number of predicted TMRs: 0
+ZIVNLE_72969	signal	1	13				
+ZIVNLE_72969	outside	14	44				
+//
+# ZIVNLE_24256 Length: 46
+# ZIVNLE_24256 Number of predicted TMRs: 0
+ZIVNLE_24256	inside	1	46				
+//
+# ZIVNLE_19440 Length: 47
+# ZIVNLE_19440 Number of predicted TMRs: 0
+ZIVNLE_19440	inside	1	47				
+//
+# ZIVNLE_41333 Length: 41
+# ZIVNLE_41333 Number of predicted TMRs: 0
+ZIVNLE_41333	inside	1	41				
+//
+# ZIVNLE_40031 Length: 46
+# ZIVNLE_40031 Number of predicted TMRs: 0
+ZIVNLE_40031	inside	1	46				
+//
+# ZIVNLE_69381 Length: 49
+# ZIVNLE_69381 Number of predicted TMRs: 0
+ZIVNLE_69381	inside	1	49				
+//
+# ZIVNLE_14854 Length: 38
+# ZIVNLE_14854 Number of predicted TMRs: 0
+ZIVNLE_14854	signal	1	34				
+ZIVNLE_14854	outside	35	38				
+//
+# ZIVNLE_6286 Length: 43
+# ZIVNLE_6286 Number of predicted TMRs: 0
+ZIVNLE_6286	inside	1	43				
+//
+# ZIVNLE_18885 Length: 45
+# ZIVNLE_18885 Number of predicted TMRs: 0
+ZIVNLE_18885	inside	1	45				
+//
+# ZIVNLE_46940 Length: 45
+# ZIVNLE_46940 Number of predicted TMRs: 0
+ZIVNLE_46940	inside	1	45				
+//
+# ZIVNLE_34536 Length: 50
+# ZIVNLE_34536 Number of predicted TMRs: 0
+ZIVNLE_34536	inside	1	50				
+//
+# ZIVNLE_43201 Length: 42
+# ZIVNLE_43201 Number of predicted TMRs: 0
+ZIVNLE_43201	inside	1	42				
+//
+# ZIVNLE_123484 Length: 47
+# ZIVNLE_123484 Number of predicted TMRs: 0
+ZIVNLE_123484	inside	1	47				
+//
+# ZIVNLE_29095 Length: 49
+# ZIVNLE_29095 Number of predicted TMRs: 0
+ZIVNLE_29095	inside	1	49				
+//
+# ZIVNLE_83352 Length: 46
+# ZIVNLE_83352 Number of predicted TMRs: 0
+ZIVNLE_83352	inside	1	46				
+//
+# ZIVNLE_56686 Length: 46
+# ZIVNLE_56686 Number of predicted TMRs: 0
+ZIVNLE_56686	inside	1	46				
+//
+# ZIVNLE_77874 Length: 35
+# ZIVNLE_77874 Number of predicted TMRs: 0
+ZIVNLE_77874	inside	1	35				
+//
+# ZIVNLE_41104 Length: 37
+# ZIVNLE_41104 Number of predicted TMRs: 0
+ZIVNLE_41104	signal	1	36				
+ZIVNLE_41104	outside	37	37				
+//
+# ZIVNLE_11114 Length: 48
+# ZIVNLE_11114 Number of predicted TMRs: 0
+ZIVNLE_11114	inside	1	48				
+//
+# ZIVNLE_107725 Length: 49
+# ZIVNLE_107725 Number of predicted TMRs: 0
+ZIVNLE_107725	inside	1	49				
+//
+# ZIVNLE_161381 Length: 50
+# ZIVNLE_161381 Number of predicted TMRs: 0
+ZIVNLE_161381	inside	1	50				
+//
+# ZIVNLE_136300 Length: 46
+# ZIVNLE_136300 Number of predicted TMRs: 0
+ZIVNLE_136300	signal	1	45				
+ZIVNLE_136300	outside	46	46				
+//
+# ZIVNLE_28921 Length: 39
+# ZIVNLE_28921 Number of predicted TMRs: 0
+ZIVNLE_28921	inside	1	39				
+//
+# ZIVNLE_82368 Length: 34
+# ZIVNLE_82368 Number of predicted TMRs: 0
+ZIVNLE_82368	inside	1	34				
+//
+# ZIVNLE_10094 Length: 45
+# ZIVNLE_10094 Number of predicted TMRs: 0
+ZIVNLE_10094	inside	1	45				
+//
+# ZIVNLE_54463 Length: 43
+# ZIVNLE_54463 Number of predicted TMRs: 0
+ZIVNLE_54463	inside	1	43				
+//
+# ZIVNLE_124541 Length: 44
+# ZIVNLE_124541 Number of predicted TMRs: 0
+ZIVNLE_124541	inside	1	44				
+//
+# ZIVNLE_74055 Length: 30
+# ZIVNLE_74055 Number of predicted TMRs: 0
+ZIVNLE_74055	inside	1	30				
+//
+# ZIVNLE_93433 Length: 45
+# ZIVNLE_93433 Number of predicted TMRs: 0
+ZIVNLE_93433	inside	1	45				
+//
+# ZIVNLE_78164 Length: 50
+# ZIVNLE_78164 Number of predicted TMRs: 0
+ZIVNLE_78164	signal	1	47				
+ZIVNLE_78164	outside	48	50				
+//
+# ZIVNLE_12107 Length: 40
+# ZIVNLE_12107 Number of predicted TMRs: 0
+ZIVNLE_12107	inside	1	40				
+//
+# ZIVNLE_139903 Length: 46
+# ZIVNLE_139903 Number of predicted TMRs: 0
+ZIVNLE_139903	inside	1	46				
+//
+# ZIVNLE_1476 Length: 32
+# ZIVNLE_1476 Number of predicted TMRs: 0
+ZIVNLE_1476	inside	1	32				
+//
+# ZIVNLE_131217 Length: 48
+# ZIVNLE_131217 Number of predicted TMRs: 0
+ZIVNLE_131217	inside	1	48				
+//
+# ZIVNLE_74081 Length: 45
+# ZIVNLE_74081 Number of predicted TMRs: 0
+ZIVNLE_74081	signal	1	10				
+ZIVNLE_74081	outside	11	45				
+//
+# ZIVNLE_129228 Length: 50
+# ZIVNLE_129228 Number of predicted TMRs: 0
+ZIVNLE_129228	inside	1	50				
+//
+# ZIVNLE_17453 Length: 46
+# ZIVNLE_17453 Number of predicted TMRs: 0
+ZIVNLE_17453	inside	1	46				
+//
+# ZIVNLE_36142 Length: 43
+# ZIVNLE_36142 Number of predicted TMRs: 0
+ZIVNLE_36142	inside	1	43				
+//
+# ZIVNLE_111433 Length: 37
+# ZIVNLE_111433 Number of predicted TMRs: 0
+ZIVNLE_111433	inside	1	37				
+//
+# ZIVNLE_125980 Length: 49
+# ZIVNLE_125980 Number of predicted TMRs: 0
+ZIVNLE_125980	inside	1	49				
+//
+# ZIVNLE_111156 Length: 50
+# ZIVNLE_111156 Number of predicted TMRs: 0
+ZIVNLE_111156	inside	1	50				
+//
+# ZIVNLE_2336 Length: 49
+# ZIVNLE_2336 Number of predicted TMRs: 0
+ZIVNLE_2336	inside	1	49				
+//
+# ZIVNLE_44002 Length: 40
+# ZIVNLE_44002 Number of predicted TMRs: 0
+ZIVNLE_44002	inside	1	40				
+//
+# ZIVNLE_154161 Length: 48
+# ZIVNLE_154161 Number of predicted TMRs: 0
+ZIVNLE_154161	inside	1	48				
+//
+# ZIVNLE_135492 Length: 42
+# ZIVNLE_135492 Number of predicted TMRs: 0
+ZIVNLE_135492	inside	1	42				
+//
+# ZIVNLE_46904 Length: 48
+# ZIVNLE_46904 Number of predicted TMRs: 0
+ZIVNLE_46904	inside	1	48				
+//
+# ZIVNLE_23927 Length: 38
+# ZIVNLE_23927 Number of predicted TMRs: 0
+ZIVNLE_23927	signal	1	37				
+ZIVNLE_23927	outside	38	38				
+//
+# ZIVNLE_18468 Length: 36
+# ZIVNLE_18468 Number of predicted TMRs: 0
+ZIVNLE_18468	inside	1	36				
+//
+# ZIVNLE_32669 Length: 42
+# ZIVNLE_32669 Number of predicted TMRs: 0
+ZIVNLE_32669	signal	1	31				
+ZIVNLE_32669	outside	32	42				
+//
+# ZIVNLE_44644 Length: 42
+# ZIVNLE_44644 Number of predicted TMRs: 0
+ZIVNLE_44644	signal	1	40				
+ZIVNLE_44644	outside	41	42				
+//
+# ZIVNLE_23732 Length: 45
+# ZIVNLE_23732 Number of predicted TMRs: 0
+ZIVNLE_23732	inside	1	45				
+//
+# ZIVNLE_81971 Length: 39
+# ZIVNLE_81971 Number of predicted TMRs: 0
+ZIVNLE_81971	signal	1	38				
+ZIVNLE_81971	outside	39	39				
+//
+# ZIVNLE_115998 Length: 50
+# ZIVNLE_115998 Number of predicted TMRs: 0
+ZIVNLE_115998	inside	1	50				
+//
+# ZIVNLE_160968 Length: 45
+# ZIVNLE_160968 Number of predicted TMRs: 0
+ZIVNLE_160968	inside	1	45				
+//
+# ZIVNLE_33646 Length: 49
+# ZIVNLE_33646 Number of predicted TMRs: 0
+ZIVNLE_33646	inside	1	49				
+//
+# ZIVNLE_133886 Length: 48
+# ZIVNLE_133886 Number of predicted TMRs: 0
+ZIVNLE_133886	inside	1	48				
+//
+# ZIVNLE_96227 Length: 39
+# ZIVNLE_96227 Number of predicted TMRs: 0
+ZIVNLE_96227	signal	1	38				
+ZIVNLE_96227	outside	39	39				
+//
+# ZIVNLE_60720 Length: 44
+# ZIVNLE_60720 Number of predicted TMRs: 0
+ZIVNLE_60720	inside	1	44				
+//
+# ZIVNLE_76910 Length: 50
+# ZIVNLE_76910 Number of predicted TMRs: 0
+ZIVNLE_76910	inside	1	50				
+//
+# ZIVNLE_31834 Length: 49
+# ZIVNLE_31834 Number of predicted TMRs: 0
+ZIVNLE_31834	outside	1	49				
+//
+# ZIVNLE_153577 Length: 38
+# ZIVNLE_153577 Number of predicted TMRs: 0
+ZIVNLE_153577	inside	1	38				
+//
+# ZIVNLE_90386 Length: 46
+# ZIVNLE_90386 Number of predicted TMRs: 0
+ZIVNLE_90386	signal	1	10				
+ZIVNLE_90386	outside	11	46				
+//
+# ZIVNLE_128090 Length: 45
+# ZIVNLE_128090 Number of predicted TMRs: 0
+ZIVNLE_128090	inside	1	45				
+//
+# ZIVNLE_5249 Length: 38
+# ZIVNLE_5249 Number of predicted TMRs: 0
+ZIVNLE_5249	inside	1	38				
+//
+# ZIVNLE_49164 Length: 43
+# ZIVNLE_49164 Number of predicted TMRs: 0
+ZIVNLE_49164	inside	1	43				
+//
+# ZIVNLE_82551 Length: 46
+# ZIVNLE_82551 Number of predicted TMRs: 0
+ZIVNLE_82551	inside	1	46				
+//
+# ZIVNLE_152546 Length: 47
+# ZIVNLE_152546 Number of predicted TMRs: 0
+ZIVNLE_152546	outside	1	47				
+//
+# ZIVNLE_78283 Length: 44
+# ZIVNLE_78283 Number of predicted TMRs: 0
+ZIVNLE_78283	signal	1	43				
+ZIVNLE_78283	outside	44	44				
+//
+# ZIVNLE_26930 Length: 48
+# ZIVNLE_26930 Number of predicted TMRs: 0
+ZIVNLE_26930	inside	1	48				
+//
+# ZIVNLE_156745 Length: 46
+# ZIVNLE_156745 Number of predicted TMRs: 0
+ZIVNLE_156745	inside	1	46				
+//
+# ZIVNLE_124869 Length: 43
+# ZIVNLE_124869 Number of predicted TMRs: 0
+ZIVNLE_124869	inside	1	43				
+//
+# ZIVNLE_5227 Length: 48
+# ZIVNLE_5227 Number of predicted TMRs: 0
+ZIVNLE_5227	inside	1	48				
+//
+# ZIVNLE_122033 Length: 36
+# ZIVNLE_122033 Number of predicted TMRs: 0
+ZIVNLE_122033	signal	1	26				
+ZIVNLE_122033	outside	27	36				
+//
+# ZIVNLE_39044 Length: 42
+# ZIVNLE_39044 Number of predicted TMRs: 0
+ZIVNLE_39044	inside	1	42				
+//
+# ZIVNLE_66105 Length: 42
+# ZIVNLE_66105 Number of predicted TMRs: 0
+ZIVNLE_66105	signal	1	34				
+ZIVNLE_66105	outside	35	42				
+//
+# ZIVNLE_125055 Length: 50
+# ZIVNLE_125055 Number of predicted TMRs: 0
+ZIVNLE_125055	inside	1	50				
+//
+# ZIVNLE_152928 Length: 45
+# ZIVNLE_152928 Number of predicted TMRs: 0
+ZIVNLE_152928	inside	1	45				
+//
+# ZIVNLE_43088 Length: 38
+# ZIVNLE_43088 Number of predicted TMRs: 0
+ZIVNLE_43088	inside	1	38				
+//
+# ZIVNLE_125263 Length: 50
+# ZIVNLE_125263 Number of predicted TMRs: 0
+ZIVNLE_125263	inside	1	50				
+//
+# ZIVNLE_167869 Length: 44
+# ZIVNLE_167869 Number of predicted TMRs: 0
+ZIVNLE_167869	signal	1	23				
+ZIVNLE_167869	outside	24	44				
+//
+# ZIVNLE_48301 Length: 45
+# ZIVNLE_48301 Number of predicted TMRs: 0
+ZIVNLE_48301	inside	1	45				
+//
+# ZIVNLE_133567 Length: 50
+# ZIVNLE_133567 Number of predicted TMRs: 0
+ZIVNLE_133567	inside	1	50				
+//
+# ZIVNLE_32113 Length: 44
+# ZIVNLE_32113 Number of predicted TMRs: 0
+ZIVNLE_32113	inside	1	44				
+//
+# ZIVNLE_153026 Length: 45
+# ZIVNLE_153026 Number of predicted TMRs: 0
+ZIVNLE_153026	signal	1	10				
+ZIVNLE_153026	outside	11	45				
+//
+# ZIVNLE_100510 Length: 49
+# ZIVNLE_100510 Number of predicted TMRs: 0
+ZIVNLE_100510	inside	1	49				
+//
+# ZIVNLE_34439 Length: 32
+# ZIVNLE_34439 Number of predicted TMRs: 0
+ZIVNLE_34439	signal	1	30				
+ZIVNLE_34439	outside	31	32				
+//
+# ZIVNLE_42387 Length: 44
+# ZIVNLE_42387 Number of predicted TMRs: 0
+ZIVNLE_42387	signal	1	43				
+ZIVNLE_42387	outside	44	44				
+//
+# ZIVNLE_124479 Length: 50
+# ZIVNLE_124479 Number of predicted TMRs: 0
+ZIVNLE_124479	inside	1	50				
+//
+# ZIVNLE_132286 Length: 41
+# ZIVNLE_132286 Number of predicted TMRs: 0
+ZIVNLE_132286	inside	1	41				
+//
+# ZIVNLE_132289 Length: 38
+# ZIVNLE_132289 Number of predicted TMRs: 0
+ZIVNLE_132289	inside	1	38				
+//
+# ZIVNLE_29170 Length: 42
+# ZIVNLE_29170 Number of predicted TMRs: 0
+ZIVNLE_29170	inside	1	42				
+//
+# ZIVNLE_163148 Length: 42
+# ZIVNLE_163148 Number of predicted TMRs: 0
+ZIVNLE_163148	signal	1	34				
+ZIVNLE_163148	outside	35	42				
+//
+# ZIVNLE_62538 Length: 45
+# ZIVNLE_62538 Number of predicted TMRs: 0
+ZIVNLE_62538	inside	1	45				
+//
+# ZIVNLE_137712 Length: 42
+# ZIVNLE_137712 Number of predicted TMRs: 0
+ZIVNLE_137712	inside	1	42				
+//
+# ZIVNLE_104312 Length: 36
+# ZIVNLE_104312 Number of predicted TMRs: 0
+ZIVNLE_104312	inside	1	36				
+//
+# ZIVNLE_69878 Length: 50
+# ZIVNLE_69878 Number of predicted TMRs: 0
+ZIVNLE_69878	inside	1	50				
+//
+# ZIVNLE_81398 Length: 50
+# ZIVNLE_81398 Number of predicted TMRs: 0
+ZIVNLE_81398	inside	1	50				
+//
+# ZIVNLE_89384 Length: 39
+# ZIVNLE_89384 Number of predicted TMRs: 0
+ZIVNLE_89384	inside	1	39				
+//
+# ZIVNLE_60380 Length: 48
+# ZIVNLE_60380 Number of predicted TMRs: 0
+ZIVNLE_60380	signal	1	11				
+ZIVNLE_60380	outside	12	48				
+//
+# ZIVNLE_12374 Length: 38
+# ZIVNLE_12374 Number of predicted TMRs: 0
+ZIVNLE_12374	signal	1	12				
+ZIVNLE_12374	outside	13	38				
+//
+# ZIVNLE_138843 Length: 38
+# ZIVNLE_138843 Number of predicted TMRs: 0
+ZIVNLE_138843	signal	1	33				
+ZIVNLE_138843	outside	34	38				
+//
+# ZIVNLE_104412 Length: 42
+# ZIVNLE_104412 Number of predicted TMRs: 0
+ZIVNLE_104412	signal	1	34				
+ZIVNLE_104412	outside	35	42				
+//
+# ZIVNLE_135343 Length: 45
+# ZIVNLE_135343 Number of predicted TMRs: 0
+ZIVNLE_135343	signal	1	44				
+ZIVNLE_135343	outside	45	45				
+//
+# ZIVNLE_31813 Length: 47
+# ZIVNLE_31813 Number of predicted TMRs: 0
+ZIVNLE_31813	inside	1	47				
+//
+# ZIVNLE_138642 Length: 37
+# ZIVNLE_138642 Number of predicted TMRs: 0
+ZIVNLE_138642	signal	1	36				
+ZIVNLE_138642	outside	37	37				
+//
+# ZIVNLE_11657 Length: 43
+# ZIVNLE_11657 Number of predicted TMRs: 0
+ZIVNLE_11657	inside	1	43				
+//
+# ZIVNLE_14765 Length: 43
+# ZIVNLE_14765 Number of predicted TMRs: 0
+ZIVNLE_14765	signal	1	35				
+ZIVNLE_14765	outside	36	43				
+//
+# ZIVNLE_99181 Length: 44
+# ZIVNLE_99181 Number of predicted TMRs: 0
+ZIVNLE_99181	inside	1	44				
+//
+# ZIVNLE_83047 Length: 38
+# ZIVNLE_83047 Number of predicted TMRs: 0
+ZIVNLE_83047	signal	1	10				
+ZIVNLE_83047	outside	11	38				
+//
+# ZIVNLE_67076 Length: 50
+# ZIVNLE_67076 Number of predicted TMRs: 0
+ZIVNLE_67076	inside	1	50				
+//
+# ZIVNLE_106408 Length: 42
+# ZIVNLE_106408 Number of predicted TMRs: 0
+ZIVNLE_106408	inside	1	42				
+//
+# ZIVNLE_133916 Length: 44
+# ZIVNLE_133916 Number of predicted TMRs: 0
+ZIVNLE_133916	inside	1	44				
+//
+# ZIVNLE_153318 Length: 42
+# ZIVNLE_153318 Number of predicted TMRs: 0
+ZIVNLE_153318	inside	1	42				
+//
+# ZIVNLE_27926 Length: 40
+# ZIVNLE_27926 Number of predicted TMRs: 0
+ZIVNLE_27926	signal	1	39				
+ZIVNLE_27926	outside	40	40				
+//
+# ZIVNLE_79748 Length: 48
+# ZIVNLE_79748 Number of predicted TMRs: 0
+ZIVNLE_79748	signal	1	47				
+ZIVNLE_79748	outside	48	48				
+//
+# ZIVNLE_169008 Length: 50
+# ZIVNLE_169008 Number of predicted TMRs: 0
+ZIVNLE_169008	inside	1	50				
+//
+# ZIVNLE_103761 Length: 40
+# ZIVNLE_103761 Number of predicted TMRs: 0
+ZIVNLE_103761	inside	1	40				
+//
+# ZIVNLE_133182 Length: 50
+# ZIVNLE_133182 Number of predicted TMRs: 0
+ZIVNLE_133182	inside	1	50				
+//
+# ZIVNLE_4644 Length: 38
+# ZIVNLE_4644 Number of predicted TMRs: 0
+ZIVNLE_4644	signal	1	37				
+ZIVNLE_4644	outside	38	38				
+//
+# ZIVNLE_125098 Length: 50
+# ZIVNLE_125098 Number of predicted TMRs: 0
+ZIVNLE_125098	signal	1	49				
+ZIVNLE_125098	outside	50	50				
+//
+# ZIVNLE_69255 Length: 45
+# ZIVNLE_69255 Number of predicted TMRs: 0
+ZIVNLE_69255	outside	1	45				
+//
+# ZIVNLE_146286 Length: 41
+# ZIVNLE_146286 Number of predicted TMRs: 0
+ZIVNLE_146286	inside	1	41				
+//
+# ZIVNLE_97647 Length: 32
+# ZIVNLE_97647 Number of predicted TMRs: 0
+ZIVNLE_97647	signal	1	23				
+ZIVNLE_97647	outside	24	32				
+//
+# ZIVNLE_72229 Length: 41
+# ZIVNLE_72229 Number of predicted TMRs: 0
+ZIVNLE_72229	signal	1	39				
+ZIVNLE_72229	outside	40	41				
+//
+# ZIVNLE_65713 Length: 44
+# ZIVNLE_65713 Number of predicted TMRs: 0
+ZIVNLE_65713	inside	1	44				
+//
+# ZIVNLE_121152 Length: 38
+# ZIVNLE_121152 Number of predicted TMRs: 0
+ZIVNLE_121152	signal	1	31				
+ZIVNLE_121152	outside	32	38				
+//
+# ZIVNLE_48166 Length: 39
+# ZIVNLE_48166 Number of predicted TMRs: 0
+ZIVNLE_48166	signal	1	37				
+ZIVNLE_48166	outside	38	39				
+//
+# ZIVNLE_72279 Length: 48
+# ZIVNLE_72279 Number of predicted TMRs: 0
+ZIVNLE_72279	outside	1	48				
+//
+# ZIVNLE_109252 Length: 50
+# ZIVNLE_109252 Number of predicted TMRs: 0
+ZIVNLE_109252	signal	1	34				
+ZIVNLE_109252	outside	35	50				
+//
+# ZIVNLE_163261 Length: 48
+# ZIVNLE_163261 Number of predicted TMRs: 0
+ZIVNLE_163261	signal	1	36				
+ZIVNLE_163261	outside	37	48				
+//
+# ZIVNLE_141974 Length: 38
+# ZIVNLE_141974 Number of predicted TMRs: 0
+ZIVNLE_141974	signal	1	37				
+ZIVNLE_141974	outside	38	38				
+//
+# ZIVNLE_99035 Length: 46
+# ZIVNLE_99035 Number of predicted TMRs: 0
+ZIVNLE_99035	inside	1	46				
+//
+# ZIVNLE_122155 Length: 40
+# ZIVNLE_122155 Number of predicted TMRs: 0
+ZIVNLE_122155	inside	1	40				
+//
+# ZIVNLE_127955 Length: 48
+# ZIVNLE_127955 Number of predicted TMRs: 0
+ZIVNLE_127955	inside	1	48				
+//
+# ZIVNLE_74100 Length: 50
+# ZIVNLE_74100 Number of predicted TMRs: 0
+ZIVNLE_74100	inside	1	50				
+//
+# ZIVNLE_30557 Length: 33
+# ZIVNLE_30557 Number of predicted TMRs: 0
+ZIVNLE_30557	signal	1	17				
+ZIVNLE_30557	outside	18	33				
+//
+# ZIVNLE_22561 Length: 47
+# ZIVNLE_22561 Number of predicted TMRs: 0
+ZIVNLE_22561	signal	1	46				
+ZIVNLE_22561	outside	47	47				
+//
+# ZIVNLE_125410 Length: 47
+# ZIVNLE_125410 Number of predicted TMRs: 0
+ZIVNLE_125410	inside	1	47				
+//
+# ZIVNLE_117032 Length: 45
+# ZIVNLE_117032 Number of predicted TMRs: 0
+ZIVNLE_117032	inside	1	45				
+//
+# ZIVNLE_96826 Length: 42
+# ZIVNLE_96826 Number of predicted TMRs: 0
+ZIVNLE_96826	inside	1	42				
+//
+# ZIVNLE_116064 Length: 47
+# ZIVNLE_116064 Number of predicted TMRs: 0
+ZIVNLE_116064	inside	1	47				
+//
+# ZIVNLE_58031 Length: 44
+# ZIVNLE_58031 Number of predicted TMRs: 0
+ZIVNLE_58031	signal	1	38				
+ZIVNLE_58031	outside	39	44				
+//
+# ZIVNLE_105932 Length: 41
+# ZIVNLE_105932 Number of predicted TMRs: 0
+ZIVNLE_105932	signal	1	39				
+ZIVNLE_105932	outside	40	41				
+//
+# ZIVNLE_144162 Length: 48
+# ZIVNLE_144162 Number of predicted TMRs: 0
+ZIVNLE_144162	inside	1	48				
+//
+# ZIVNLE_70938 Length: 42
+# ZIVNLE_70938 Number of predicted TMRs: 0
+ZIVNLE_70938	inside	1	42				
+//
+# ZIVNLE_128363 Length: 41
+# ZIVNLE_128363 Number of predicted TMRs: 0
+ZIVNLE_128363	signal	1	39				
+ZIVNLE_128363	outside	40	41				
+//
+# ZIVNLE_69979 Length: 49
+# ZIVNLE_69979 Number of predicted TMRs: 0
+ZIVNLE_69979	inside	1	49				
+//
+# ZIVNLE_35222 Length: 45
+# ZIVNLE_35222 Number of predicted TMRs: 0
+ZIVNLE_35222	signal	1	21				
+ZIVNLE_35222	outside	22	45				
+//
+# ZIVNLE_91700 Length: 46
+# ZIVNLE_91700 Number of predicted TMRs: 0
+ZIVNLE_91700	inside	1	46				
+//
+# ZIVNLE_39323 Length: 34
+# ZIVNLE_39323 Number of predicted TMRs: 0
+ZIVNLE_39323	signal	1	33				
+ZIVNLE_39323	outside	34	34				
+//
+# ZIVNLE_14498 Length: 39
+# ZIVNLE_14498 Number of predicted TMRs: 0
+ZIVNLE_14498	inside	1	39				
+//
+# ZIVNLE_128596 Length: 42
+# ZIVNLE_128596 Number of predicted TMRs: 0
+ZIVNLE_128596	inside	1	42				
+//
+# ZIVNLE_69423 Length: 42
+# ZIVNLE_69423 Number of predicted TMRs: 0
+ZIVNLE_69423	signal	1	34				
+ZIVNLE_69423	outside	35	42				
+//
+# ZIVNLE_162245 Length: 43
+# ZIVNLE_162245 Number of predicted TMRs: 0
+ZIVNLE_162245	inside	1	43				
+//
+# ZIVNLE_16187 Length: 47
+# ZIVNLE_16187 Number of predicted TMRs: 0
+ZIVNLE_16187	signal	1	21				
+ZIVNLE_16187	outside	22	47				
+//
+# ZIVNLE_67380 Length: 45
+# ZIVNLE_67380 Number of predicted TMRs: 0
+ZIVNLE_67380	inside	1	45				
+//
+# ZIVNLE_75733 Length: 37
+# ZIVNLE_75733 Number of predicted TMRs: 0
+ZIVNLE_75733	inside	1	37				
+//
+# ZIVNLE_75039 Length: 41
+# ZIVNLE_75039 Number of predicted TMRs: 0
+ZIVNLE_75039	inside	1	41				
+//
+# ZIVNLE_167534 Length: 36
+# ZIVNLE_167534 Number of predicted TMRs: 0
+ZIVNLE_167534	inside	1	36				
+//
+# ZIVNLE_3700 Length: 43
+# ZIVNLE_3700 Number of predicted TMRs: 0
+ZIVNLE_3700	inside	1	43				
+//
+# ZIVNLE_55698 Length: 47
+# ZIVNLE_55698 Number of predicted TMRs: 0
+ZIVNLE_55698	inside	1	47				
+//
+# ZIVNLE_24196 Length: 50
+# ZIVNLE_24196 Number of predicted TMRs: 0
+ZIVNLE_24196	inside	1	50				
+//
+# ZIVNLE_34584 Length: 48
+# ZIVNLE_34584 Number of predicted TMRs: 0
+ZIVNLE_34584	inside	1	48				
+//
+# ZIVNLE_120455 Length: 34
+# ZIVNLE_120455 Number of predicted TMRs: 0
+ZIVNLE_120455	inside	1	34				
+//
+# ZIVNLE_40353 Length: 43
+# ZIVNLE_40353 Number of predicted TMRs: 0
+ZIVNLE_40353	inside	1	43				
+//
+# ZIVNLE_132191 Length: 46
+# ZIVNLE_132191 Number of predicted TMRs: 0
+ZIVNLE_132191	inside	1	46				
+//
+# ZIVNLE_34420 Length: 49
+# ZIVNLE_34420 Number of predicted TMRs: 0
+ZIVNLE_34420	inside	1	49				
+//
+# ZIVNLE_4780 Length: 32
+# ZIVNLE_4780 Number of predicted TMRs: 0
+ZIVNLE_4780	inside	1	32				
+//
+# ZIVNLE_146120 Length: 43
+# ZIVNLE_146120 Number of predicted TMRs: 0
+ZIVNLE_146120	outside	1	43				
+//
+# ZIVNLE_124405 Length: 34
+# ZIVNLE_124405 Number of predicted TMRs: 0
+ZIVNLE_124405	inside	1	34				
+//
+# ZIVNLE_14440 Length: 49
+# ZIVNLE_14440 Number of predicted TMRs: 0
+ZIVNLE_14440	inside	1	49				
+//
+# ZIVNLE_147712 Length: 50
+# ZIVNLE_147712 Number of predicted TMRs: 0
+ZIVNLE_147712	inside	1	50				
+//
+# ZIVNLE_162467 Length: 40
+# ZIVNLE_162467 Number of predicted TMRs: 0
+ZIVNLE_162467	signal	1	31				
+ZIVNLE_162467	outside	32	40				
+//
+# ZIVNLE_105485 Length: 50
+# ZIVNLE_105485 Number of predicted TMRs: 0
+ZIVNLE_105485	inside	1	50				
+//
+# ZIVNLE_166019 Length: 44
+# ZIVNLE_166019 Number of predicted TMRs: 0
+ZIVNLE_166019	inside	1	44				
+//
+# ZIVNLE_65212 Length: 46
+# ZIVNLE_65212 Number of predicted TMRs: 0
+ZIVNLE_65212	inside	1	46				
+//
+# ZIVNLE_136684 Length: 45
+# ZIVNLE_136684 Number of predicted TMRs: 0
+ZIVNLE_136684	inside	1	45				
+//
+# ZIVNLE_64305 Length: 46
+# ZIVNLE_64305 Number of predicted TMRs: 0
+ZIVNLE_64305	inside	1	46				
+//
+# ZIVNLE_111026 Length: 46
+# ZIVNLE_111026 Number of predicted TMRs: 0
+ZIVNLE_111026	signal	1	17				
+ZIVNLE_111026	outside	18	46				
+//
+# ZIVNLE_12175 Length: 50
+# ZIVNLE_12175 Number of predicted TMRs: 0
+ZIVNLE_12175	inside	1	50				
+//
+# ZIVNLE_9081 Length: 45
+# ZIVNLE_9081 Number of predicted TMRs: 0
+ZIVNLE_9081	signal	1	34				
+ZIVNLE_9081	outside	35	45				
+//
+# ZIVNLE_14099 Length: 27
+# ZIVNLE_14099 Number of predicted TMRs: 0
+ZIVNLE_14099	inside	1	27				
+//
+# ZIVNLE_18858 Length: 46
+# ZIVNLE_18858 Number of predicted TMRs: 0
+ZIVNLE_18858	signal	1	35				
+ZIVNLE_18858	outside	36	46				
+//
+# ZIVNLE_170461 Length: 43
+# ZIVNLE_170461 Number of predicted TMRs: 0
+ZIVNLE_170461	inside	1	43				
+//
+# ZIVNLE_84227 Length: 50
+# ZIVNLE_84227 Number of predicted TMRs: 0
+ZIVNLE_84227	inside	1	50				
+//
+# ZIVNLE_51466 Length: 49
+# ZIVNLE_51466 Number of predicted TMRs: 0
+ZIVNLE_51466	inside	1	49				
+//
+# ZIVNLE_76396 Length: 30
+# ZIVNLE_76396 Number of predicted TMRs: 0
+ZIVNLE_76396	signal	1	20				
+ZIVNLE_76396	outside	21	30				
+//
+# ZIVNLE_169277 Length: 40
+# ZIVNLE_169277 Number of predicted TMRs: 0
+ZIVNLE_169277	signal	1	20				
+ZIVNLE_169277	outside	21	40				
+//
+# ZIVNLE_29897 Length: 47
+# ZIVNLE_29897 Number of predicted TMRs: 0
+ZIVNLE_29897	inside	1	47				
+//
+# ZIVNLE_45942 Length: 47
+# ZIVNLE_45942 Number of predicted TMRs: 0
+ZIVNLE_45942	inside	1	47				
+//
+# ZIVNLE_124088 Length: 49
+# ZIVNLE_124088 Number of predicted TMRs: 0
+ZIVNLE_124088	inside	1	49				
+//
+# ZIVNLE_32268 Length: 49
+# ZIVNLE_32268 Number of predicted TMRs: 0
+ZIVNLE_32268	inside	1	49				
+//
+# ZIVNLE_83138 Length: 45
+# ZIVNLE_83138 Number of predicted TMRs: 0
+ZIVNLE_83138	inside	1	45				
+//
+# ZIVNLE_137739 Length: 46
+# ZIVNLE_137739 Number of predicted TMRs: 0
+ZIVNLE_137739	inside	1	46				
+//
+# ZIVNLE_134360 Length: 43
+# ZIVNLE_134360 Number of predicted TMRs: 0
+ZIVNLE_134360	inside	1	43				
+//
+# ZIVNLE_2300 Length: 50
+# ZIVNLE_2300 Number of predicted TMRs: 0
+ZIVNLE_2300	inside	1	50				
+//
+# ZIVNLE_130708 Length: 43
+# ZIVNLE_130708 Number of predicted TMRs: 0
+ZIVNLE_130708	signal	1	22				
+ZIVNLE_130708	outside	23	43				
+//
+# ZIVNLE_8937 Length: 50
+# ZIVNLE_8937 Number of predicted TMRs: 0
+ZIVNLE_8937	inside	1	50				
+//
+# ZIVNLE_69863 Length: 40
+# ZIVNLE_69863 Number of predicted TMRs: 0
+ZIVNLE_69863	inside	1	40				
+//
+# ZIVNLE_9174 Length: 50
+# ZIVNLE_9174 Number of predicted TMRs: 0
+ZIVNLE_9174	inside	1	50				
+//
+# ZIVNLE_27199 Length: 48
+# ZIVNLE_27199 Number of predicted TMRs: 0
+ZIVNLE_27199	inside	1	48				
+//
+# ZIVNLE_16159 Length: 43
+# ZIVNLE_16159 Number of predicted TMRs: 0
+ZIVNLE_16159	inside	1	43				
+//
+# ZIVNLE_5751 Length: 45
+# ZIVNLE_5751 Number of predicted TMRs: 0
+ZIVNLE_5751	inside	1	45				
+//
+# ZIVNLE_117404 Length: 49
+# ZIVNLE_117404 Number of predicted TMRs: 0
+ZIVNLE_117404	signal	1	47				
+ZIVNLE_117404	outside	48	49				
+//
+# ZIVNLE_43020 Length: 48
+# ZIVNLE_43020 Number of predicted TMRs: 0
+ZIVNLE_43020	inside	1	48				
+//
+# ZIVNLE_42162 Length: 42
+# ZIVNLE_42162 Number of predicted TMRs: 0
+ZIVNLE_42162	signal	1	18				
+ZIVNLE_42162	outside	19	42				
+//
+# ZIVNLE_71583 Length: 39
+# ZIVNLE_71583 Number of predicted TMRs: 0
+ZIVNLE_71583	inside	1	39				
+//
+# ZIVNLE_142478 Length: 39
+# ZIVNLE_142478 Number of predicted TMRs: 0
+ZIVNLE_142478	inside	1	39				
+//
+# ZIVNLE_132331 Length: 50
+# ZIVNLE_132331 Number of predicted TMRs: 0
+ZIVNLE_132331	inside	1	50				
+//
+# ZIVNLE_79095 Length: 31
+# ZIVNLE_79095 Number of predicted TMRs: 0
+ZIVNLE_79095	inside	1	31				
+//
+# ZIVNLE_20733 Length: 48
+# ZIVNLE_20733 Number of predicted TMRs: 0
+ZIVNLE_20733	inside	1	48				
+//
+# ZIVNLE_32873 Length: 49
+# ZIVNLE_32873 Number of predicted TMRs: 0
+ZIVNLE_32873	inside	1	49				
+//
+# ZIVNLE_142962 Length: 50
+# ZIVNLE_142962 Number of predicted TMRs: 0
+ZIVNLE_142962	inside	1	50				
+//
+# ZIVNLE_112464 Length: 42
+# ZIVNLE_112464 Number of predicted TMRs: 0
+ZIVNLE_112464	inside	1	42				
+//
+# ZIVNLE_90632 Length: 50
+# ZIVNLE_90632 Number of predicted TMRs: 0
+ZIVNLE_90632	inside	1	50				
+//
+# ZIVNLE_86970 Length: 41
+# ZIVNLE_86970 Number of predicted TMRs: 0
+ZIVNLE_86970	inside	1	41				
+//
+# ZIVNLE_157699 Length: 40
+# ZIVNLE_157699 Number of predicted TMRs: 0
+ZIVNLE_157699	inside	1	40				
+//
+# ZIVNLE_169716 Length: 47
+# ZIVNLE_169716 Number of predicted TMRs: 0
+ZIVNLE_169716	inside	1	47				
+//
+# ZIVNLE_142238 Length: 35
+# ZIVNLE_142238 Number of predicted TMRs: 0
+ZIVNLE_142238	signal	1	31				
+ZIVNLE_142238	outside	32	35				
+//
+# ZIVNLE_170044 Length: 28
+# ZIVNLE_170044 Number of predicted TMRs: 0
+ZIVNLE_170044	signal	1	27				
+ZIVNLE_170044	outside	28	28				
+//
+# ZIVNLE_110072 Length: 41
+# ZIVNLE_110072 Number of predicted TMRs: 0
+ZIVNLE_110072	inside	1	41				
+//
+# ZIVNLE_98740 Length: 50
+# ZIVNLE_98740 Number of predicted TMRs: 0
+ZIVNLE_98740	signal	1	35				
+ZIVNLE_98740	outside	36	50				
+//
+# ZIVNLE_60922 Length: 48
+# ZIVNLE_60922 Number of predicted TMRs: 0
+ZIVNLE_60922	inside	1	48				
+//
+# ZIVNLE_115806 Length: 35
+# ZIVNLE_115806 Number of predicted TMRs: 0
+ZIVNLE_115806	signal	1	34				
+ZIVNLE_115806	outside	35	35				
+//
+# ZIVNLE_34034 Length: 35
+# ZIVNLE_34034 Number of predicted TMRs: 0
+ZIVNLE_34034	inside	1	35				
+//
+# ZIVNLE_142016 Length: 49
+# ZIVNLE_142016 Number of predicted TMRs: 0
+ZIVNLE_142016	inside	1	49				
+//
+# ZIVNLE_45708 Length: 42
+# ZIVNLE_45708 Number of predicted TMRs: 0
+ZIVNLE_45708	signal	1	10				
+ZIVNLE_45708	outside	11	42				
+//
+# ZIVNLE_80295 Length: 50
+# ZIVNLE_80295 Number of predicted TMRs: 0
+ZIVNLE_80295	signal	1	49				
+ZIVNLE_80295	outside	50	50				
+//
+# ZIVNLE_30913 Length: 41
+# ZIVNLE_30913 Number of predicted TMRs: 0
+ZIVNLE_30913	signal	1	38				
+ZIVNLE_30913	outside	39	41				
+//
+# ZIVNLE_109769 Length: 43
+# ZIVNLE_109769 Number of predicted TMRs: 0
+ZIVNLE_109769	inside	1	43				
+//
+# ZIVNLE_127967 Length: 50
+# ZIVNLE_127967 Number of predicted TMRs: 0
+ZIVNLE_127967	inside	1	50				
+//
+# ZIVNLE_149246 Length: 40
+# ZIVNLE_149246 Number of predicted TMRs: 0
+ZIVNLE_149246	inside	1	40				
+//
+# ZIVNLE_169485 Length: 46
+# ZIVNLE_169485 Number of predicted TMRs: 0
+ZIVNLE_169485	inside	1	46				
+//
+# ZIVNLE_81936 Length: 41
+# ZIVNLE_81936 Number of predicted TMRs: 0
+ZIVNLE_81936	inside	1	41				
+//
+# ZIVNLE_19761 Length: 49
+# ZIVNLE_19761 Number of predicted TMRs: 0
+ZIVNLE_19761	inside	1	49				
+//
+# ZIVNLE_41372 Length: 49
+# ZIVNLE_41372 Number of predicted TMRs: 0
+ZIVNLE_41372	inside	1	49				
+//
+# ZIVNLE_16721 Length: 39
+# ZIVNLE_16721 Number of predicted TMRs: 0
+ZIVNLE_16721	inside	1	39				
+//
+# ZIVNLE_65979 Length: 41
+# ZIVNLE_65979 Number of predicted TMRs: 0
+ZIVNLE_65979	signal	1	20				
+ZIVNLE_65979	outside	21	41				
+//
+# ZIVNLE_6299 Length: 48
+# ZIVNLE_6299 Number of predicted TMRs: 0
+ZIVNLE_6299	signal	1	19				
+ZIVNLE_6299	outside	20	48				
+//
+# ZIVNLE_126132 Length: 41
+# ZIVNLE_126132 Number of predicted TMRs: 0
+ZIVNLE_126132	signal	1	39				
+ZIVNLE_126132	outside	40	41				
+//
+# ZIVNLE_119935 Length: 49
+# ZIVNLE_119935 Number of predicted TMRs: 1
+ZIVNLE_119935	signal	1	11				
+ZIVNLE_119935	outside	12	12				
+ZIVNLE_119935	TMhelix	13	23				
+ZIVNLE_119935	inside	24	49				
+//
+# ZIVNLE_39863 Length: 46
+# ZIVNLE_39863 Number of predicted TMRs: 0
+ZIVNLE_39863	signal	1	44				
+ZIVNLE_39863	outside	45	46				
+//
+# ZIVNLE_126617 Length: 39
+# ZIVNLE_126617 Number of predicted TMRs: 0
+ZIVNLE_126617	inside	1	39				
+//
+# ZIVNLE_165409 Length: 47
+# ZIVNLE_165409 Number of predicted TMRs: 0
+ZIVNLE_165409	inside	1	47				
+//
+# ZIVNLE_87105 Length: 47
+# ZIVNLE_87105 Number of predicted TMRs: 0
+ZIVNLE_87105	inside	1	47				
+//
+# ZIVNLE_81790 Length: 48
+# ZIVNLE_81790 Number of predicted TMRs: 0
+ZIVNLE_81790	signal	1	43				
+ZIVNLE_81790	outside	44	48				
+//
+# ZIVNLE_26072 Length: 32
+# ZIVNLE_26072 Number of predicted TMRs: 0
+ZIVNLE_26072	inside	1	32				
+//
+# ZIVNLE_144837 Length: 35
+# ZIVNLE_144837 Number of predicted TMRs: 0
+ZIVNLE_144837	signal	1	12				
+ZIVNLE_144837	outside	13	35				
+//
+# ZIVNLE_118249 Length: 43
+# ZIVNLE_118249 Number of predicted TMRs: 0
+ZIVNLE_118249	signal	1	35				
+ZIVNLE_118249	outside	36	43				
+//
+# ZIVNLE_49750 Length: 39
+# ZIVNLE_49750 Number of predicted TMRs: 0
+ZIVNLE_49750	inside	1	39				
+//
+# ZIVNLE_114363 Length: 45
+# ZIVNLE_114363 Number of predicted TMRs: 0
+ZIVNLE_114363	signal	1	40				
+ZIVNLE_114363	outside	41	45				
+//
+# ZIVNLE_9382 Length: 47
+# ZIVNLE_9382 Number of predicted TMRs: 0
+ZIVNLE_9382	inside	1	47				
+//
+# ZIVNLE_93703 Length: 49
+# ZIVNLE_93703 Number of predicted TMRs: 0
+ZIVNLE_93703	inside	1	49				
+//
+# ZIVNLE_66306 Length: 29
+# ZIVNLE_66306 Number of predicted TMRs: 0
+ZIVNLE_66306	inside	1	29				
+//
+# ZIVNLE_154732 Length: 29
+# ZIVNLE_154732 Number of predicted TMRs: 0
+ZIVNLE_154732	inside	1	29				
+//
+# ZIVNLE_74450 Length: 42
+# ZIVNLE_74450 Number of predicted TMRs: 0
+ZIVNLE_74450	signal	1	23				
+ZIVNLE_74450	outside	24	42				
+//
+# ZIVNLE_5768 Length: 46
+# ZIVNLE_5768 Number of predicted TMRs: 0
+ZIVNLE_5768	inside	1	46				
+//
+# ZIVNLE_90284 Length: 36
+# ZIVNLE_90284 Number of predicted TMRs: 0
+ZIVNLE_90284	signal	1	34				
+ZIVNLE_90284	outside	35	36				
+//
+# ZIVNLE_22614 Length: 38
+# ZIVNLE_22614 Number of predicted TMRs: 0
+ZIVNLE_22614	signal	1	15				
+ZIVNLE_22614	outside	16	38				
+//
+# ZIVNLE_57472 Length: 48
+# ZIVNLE_57472 Number of predicted TMRs: 0
+ZIVNLE_57472	inside	1	48				
+//
+# ZIVNLE_26524 Length: 49
+# ZIVNLE_26524 Number of predicted TMRs: 0
+ZIVNLE_26524	signal	1	12				
+ZIVNLE_26524	outside	13	49				
+//
+# ZIVNLE_9231 Length: 41
+# ZIVNLE_9231 Number of predicted TMRs: 0
+ZIVNLE_9231	signal	1	40				
+ZIVNLE_9231	outside	41	41				
+//
+# ZIVNLE_9225 Length: 50
+# ZIVNLE_9225 Number of predicted TMRs: 0
+ZIVNLE_9225	inside	1	50				
+//
+# ZIVNLE_63939 Length: 48
+# ZIVNLE_63939 Number of predicted TMRs: 1
+ZIVNLE_63939	inside	1	14				
+ZIVNLE_63939	TMhelix	15	34				
+ZIVNLE_63939	outside	35	48				
+//
+# ZIVNLE_22081 Length: 34
+# ZIVNLE_22081 Number of predicted TMRs: 0
+ZIVNLE_22081	inside	1	34				
+//
+# ZIVNLE_166601 Length: 43
+# ZIVNLE_166601 Number of predicted TMRs: 0
+ZIVNLE_166601	inside	1	43				
+//
+# ZIVNLE_17796 Length: 49
+# ZIVNLE_17796 Number of predicted TMRs: 0
+ZIVNLE_17796	signal	1	23				
+ZIVNLE_17796	outside	24	49				
+//
+# ZIVNLE_164839 Length: 50
+# ZIVNLE_164839 Number of predicted TMRs: 0
+ZIVNLE_164839	signal	1	49				
+ZIVNLE_164839	outside	50	50				
+//
+# ZIVNLE_86076 Length: 50
+# ZIVNLE_86076 Number of predicted TMRs: 0
+ZIVNLE_86076	inside	1	50				
+//
+# ZIVNLE_145638 Length: 49
+# ZIVNLE_145638 Number of predicted TMRs: 0
+ZIVNLE_145638	signal	1	48				
+ZIVNLE_145638	outside	49	49				
+//
+# ZIVNLE_125112 Length: 43
+# ZIVNLE_125112 Number of predicted TMRs: 0
+ZIVNLE_125112	inside	1	43				
+//
+# ZIVNLE_15061 Length: 47
+# ZIVNLE_15061 Number of predicted TMRs: 0
+ZIVNLE_15061	inside	1	47				
+//
+# ZIVNLE_33144 Length: 49
+# ZIVNLE_33144 Number of predicted TMRs: 0
+ZIVNLE_33144	inside	1	49				
+//
+# ZIVNLE_169688 Length: 40
+# ZIVNLE_169688 Number of predicted TMRs: 0
+ZIVNLE_169688	signal	1	38				
+ZIVNLE_169688	outside	39	40				
+//
+# ZIVNLE_103172 Length: 47
+# ZIVNLE_103172 Number of predicted TMRs: 0
+ZIVNLE_103172	inside	1	47				
+//
+# ZIVNLE_94544 Length: 46
+# ZIVNLE_94544 Number of predicted TMRs: 0
+ZIVNLE_94544	signal	1	44				
+ZIVNLE_94544	outside	45	46				
+//
+# ZIVNLE_171206 Length: 50
+# ZIVNLE_171206 Number of predicted TMRs: 0
+ZIVNLE_171206	inside	1	50				
+//
+# ZIVNLE_118414 Length: 32
+# ZIVNLE_118414 Number of predicted TMRs: 0
+ZIVNLE_118414	signal	1	26				
+ZIVNLE_118414	outside	27	32				
+//
+# ZIVNLE_171793 Length: 48
+# ZIVNLE_171793 Number of predicted TMRs: 0
+ZIVNLE_171793	outside	1	48				
+//
+# ZIVNLE_41912 Length: 50
+# ZIVNLE_41912 Number of predicted TMRs: 0
+ZIVNLE_41912	inside	1	50				
+//
+# ZIVNLE_163180 Length: 48
+# ZIVNLE_163180 Number of predicted TMRs: 0
+ZIVNLE_163180	inside	1	48				
+//
+# ZIVNLE_15643 Length: 47
+# ZIVNLE_15643 Number of predicted TMRs: 0
+ZIVNLE_15643	inside	1	47				
+//
+# ZIVNLE_47924 Length: 50
+# ZIVNLE_47924 Number of predicted TMRs: 0
+ZIVNLE_47924	signal	1	42				
+ZIVNLE_47924	outside	43	50				
+//
+# ZIVNLE_35355 Length: 50
+# ZIVNLE_35355 Number of predicted TMRs: 0
+ZIVNLE_35355	signal	1	42				
+ZIVNLE_35355	outside	43	50				
+//
+# ZIVNLE_133594 Length: 41
+# ZIVNLE_133594 Number of predicted TMRs: 0
+ZIVNLE_133594	inside	1	41				
+//
+# ZIVNLE_148141 Length: 41
+# ZIVNLE_148141 Number of predicted TMRs: 0
+ZIVNLE_148141	inside	1	41				
+//
+# ZIVNLE_166001 Length: 40
+# ZIVNLE_166001 Number of predicted TMRs: 0
+ZIVNLE_166001	inside	1	40				
+//
+# ZIVNLE_108931 Length: 41
+# ZIVNLE_108931 Number of predicted TMRs: 0
+ZIVNLE_108931	signal	1	37				
+ZIVNLE_108931	outside	38	41				
+//
+# ZIVNLE_25900 Length: 41
+# ZIVNLE_25900 Number of predicted TMRs: 0
+ZIVNLE_25900	signal	1	26				
+ZIVNLE_25900	outside	27	41				
+//
+# ZIVNLE_55088 Length: 43
+# ZIVNLE_55088 Number of predicted TMRs: 0
+ZIVNLE_55088	signal	1	14				
+ZIVNLE_55088	outside	15	43				
+//
+# ZIVNLE_106201 Length: 41
+# ZIVNLE_106201 Number of predicted TMRs: 0
+ZIVNLE_106201	signal	1	25				
+ZIVNLE_106201	outside	26	41				
+//
+# ZIVNLE_8598 Length: 43
+# ZIVNLE_8598 Number of predicted TMRs: 0
+ZIVNLE_8598	inside	1	43				
+//
+# ZIVNLE_43945 Length: 37
+# ZIVNLE_43945 Number of predicted TMRs: 0
+ZIVNLE_43945	signal	1	34				
+ZIVNLE_43945	outside	35	37				
+//
+# ZIVNLE_28244 Length: 49
+# ZIVNLE_28244 Number of predicted TMRs: 0
+ZIVNLE_28244	inside	1	49				
+//
+# ZIVNLE_35258 Length: 47
+# ZIVNLE_35258 Number of predicted TMRs: 0
+ZIVNLE_35258	signal	1	45				
+ZIVNLE_35258	periplasm	46	47				
+//
+# ZIVNLE_122896 Length: 49
+# ZIVNLE_122896 Number of predicted TMRs: 0
+ZIVNLE_122896	inside	1	49				
+//
+# ZIVNLE_139907 Length: 40
+# ZIVNLE_139907 Number of predicted TMRs: 0
+ZIVNLE_139907	signal	1	39				
+ZIVNLE_139907	outside	40	40				
+//
+# ZIVNLE_30742 Length: 49
+# ZIVNLE_30742 Number of predicted TMRs: 0
+ZIVNLE_30742	signal	1	18				
+ZIVNLE_30742	outside	19	49				
+//
+# ZIVNLE_120376 Length: 49
+# ZIVNLE_120376 Number of predicted TMRs: 0
+ZIVNLE_120376	inside	1	49				
+//
+# ZIVNLE_19820 Length: 44
+# ZIVNLE_19820 Number of predicted TMRs: 0
+ZIVNLE_19820	signal	1	39				
+ZIVNLE_19820	outside	40	44				
+//
+# ZIVNLE_162092 Length: 44
+# ZIVNLE_162092 Number of predicted TMRs: 0
+ZIVNLE_162092	inside	1	44				
+//
+# ZIVNLE_141290 Length: 50
+# ZIVNLE_141290 Number of predicted TMRs: 0
+ZIVNLE_141290	signal	1	35				
+ZIVNLE_141290	outside	36	50				
+//
+# ZIVNLE_41696 Length: 33
+# ZIVNLE_41696 Number of predicted TMRs: 0
+ZIVNLE_41696	inside	1	33				
+//
+# ZIVNLE_44255 Length: 46
+# ZIVNLE_44255 Number of predicted TMRs: 0
+ZIVNLE_44255	inside	1	46				
+//
+# ZIVNLE_2787 Length: 50
+# ZIVNLE_2787 Number of predicted TMRs: 0
+ZIVNLE_2787	inside	1	50				
+//
+# ZIVNLE_90775 Length: 48
+# ZIVNLE_90775 Number of predicted TMRs: 0
+ZIVNLE_90775	inside	1	48				
+//
+# ZIVNLE_159879 Length: 40
+# ZIVNLE_159879 Number of predicted TMRs: 0
+ZIVNLE_159879	signal	1	17				
+ZIVNLE_159879	outside	18	40				
+//
+# ZIVNLE_79286 Length: 36
+# ZIVNLE_79286 Number of predicted TMRs: 0
+ZIVNLE_79286	inside	1	36				
+//
+# ZIVNLE_116189 Length: 30
+# ZIVNLE_116189 Number of predicted TMRs: 0
+ZIVNLE_116189	signal	1	22				
+ZIVNLE_116189	outside	23	30				
+//
+# ZIVNLE_151325 Length: 47
+# ZIVNLE_151325 Number of predicted TMRs: 0
+ZIVNLE_151325	inside	1	47				
+//
+# ZIVNLE_95636 Length: 46
+# ZIVNLE_95636 Number of predicted TMRs: 0
+ZIVNLE_95636	inside	1	46				
+//
+# ZIVNLE_119473 Length: 48
+# ZIVNLE_119473 Number of predicted TMRs: 0
+ZIVNLE_119473	inside	1	48				
+//
+# ZIVNLE_100371 Length: 48
+# ZIVNLE_100371 Number of predicted TMRs: 0
+ZIVNLE_100371	inside	1	48				
+//
+# ZIVNLE_9979 Length: 43
+# ZIVNLE_9979 Number of predicted TMRs: 0
+ZIVNLE_9979	inside	1	43				
+//
+# ZIVNLE_29105 Length: 42
+# ZIVNLE_29105 Number of predicted TMRs: 0
+ZIVNLE_29105	inside	1	42				
+//
+# ZIVNLE_99676 Length: 46
+# ZIVNLE_99676 Number of predicted TMRs: 0
+ZIVNLE_99676	inside	1	46				
+//
+# ZIVNLE_17885 Length: 50
+# ZIVNLE_17885 Number of predicted TMRs: 0
+ZIVNLE_17885	inside	1	50				
+//
+# ZIVNLE_126902 Length: 49
+# ZIVNLE_126902 Number of predicted TMRs: 0
+ZIVNLE_126902	outside	1	49				
+//
+# ZIVNLE_130168 Length: 47
+# ZIVNLE_130168 Number of predicted TMRs: 0
+ZIVNLE_130168	inside	1	47				
+//
+# ZIVNLE_49177 Length: 34
+# ZIVNLE_49177 Number of predicted TMRs: 0
+ZIVNLE_49177	inside	1	34				
+//
+# ZIVNLE_47459 Length: 50
+# ZIVNLE_47459 Number of predicted TMRs: 0
+ZIVNLE_47459	inside	1	50				
+//
+# ZIVNLE_73566 Length: 48
+# ZIVNLE_73566 Number of predicted TMRs: 0
+ZIVNLE_73566	inside	1	48				
+//
+# ZIVNLE_147191 Length: 49
+# ZIVNLE_147191 Number of predicted TMRs: 0
+ZIVNLE_147191	inside	1	49				
+//
+# ZIVNLE_160582 Length: 48
+# ZIVNLE_160582 Number of predicted TMRs: 0
+ZIVNLE_160582	inside	1	48				
+//
+# ZIVNLE_89115 Length: 46
+# ZIVNLE_89115 Number of predicted TMRs: 0
+ZIVNLE_89115	inside	1	46				
+//
+# ZIVNLE_140182 Length: 42
+# ZIVNLE_140182 Number of predicted TMRs: 0
+ZIVNLE_140182	inside	1	42				
+//
+# ZIVNLE_68813 Length: 45
+# ZIVNLE_68813 Number of predicted TMRs: 0
+ZIVNLE_68813	signal	1	22				
+ZIVNLE_68813	outside	23	45				
+//
+# ZIVNLE_131433 Length: 47
+# ZIVNLE_131433 Number of predicted TMRs: 0
+ZIVNLE_131433	inside	1	47				
+//
+# ZIVNLE_92282 Length: 42
+# ZIVNLE_92282 Number of predicted TMRs: 0
+ZIVNLE_92282	inside	1	42				
+//
+# ZIVNLE_130898 Length: 47
+# ZIVNLE_130898 Number of predicted TMRs: 0
+ZIVNLE_130898	signal	1	14				
+ZIVNLE_130898	outside	15	47				
+//
+# ZIVNLE_2567 Length: 50
+# ZIVNLE_2567 Number of predicted TMRs: 0
+ZIVNLE_2567	inside	1	50				
+//
+# ZIVNLE_126879 Length: 37
+# ZIVNLE_126879 Number of predicted TMRs: 0
+ZIVNLE_126879	signal	1	32				
+ZIVNLE_126879	outside	33	37				
+//
+# ZIVNLE_137567 Length: 50
+# ZIVNLE_137567 Number of predicted TMRs: 0
+ZIVNLE_137567	inside	1	50				
+//
+# ZIVNLE_137521 Length: 50
+# ZIVNLE_137521 Number of predicted TMRs: 0
+ZIVNLE_137521	inside	1	50				
+//
+# ZIVNLE_130451 Length: 46
+# ZIVNLE_130451 Number of predicted TMRs: 0
+ZIVNLE_130451	inside	1	46				
+//
+# ZIVNLE_86115 Length: 36
+# ZIVNLE_86115 Number of predicted TMRs: 0
+ZIVNLE_86115	signal	1	14				
+ZIVNLE_86115	outside	15	36				
+//
+# ZIVNLE_105773 Length: 48
+# ZIVNLE_105773 Number of predicted TMRs: 0
+ZIVNLE_105773	inside	1	48				
+//
+# ZIVNLE_135034 Length: 45
+# ZIVNLE_135034 Number of predicted TMRs: 0
+ZIVNLE_135034	signal	1	15				
+ZIVNLE_135034	outside	16	45				
+//
+# ZIVNLE_21020 Length: 46
+# ZIVNLE_21020 Number of predicted TMRs: 0
+ZIVNLE_21020	inside	1	46				
+//
+# ZIVNLE_23925 Length: 35
+# ZIVNLE_23925 Number of predicted TMRs: 0
+ZIVNLE_23925	signal	1	10				
+ZIVNLE_23925	outside	11	35				
+//
+# ZIVNLE_25682 Length: 44
+# ZIVNLE_25682 Number of predicted TMRs: 0
+ZIVNLE_25682	inside	1	44				
+//
+# ZIVNLE_59839 Length: 40
+# ZIVNLE_59839 Number of predicted TMRs: 0
+ZIVNLE_59839	inside	1	40				
+//
+# ZIVNLE_105405 Length: 46
+# ZIVNLE_105405 Number of predicted TMRs: 0
+ZIVNLE_105405	inside	1	46				
+//
+# ZIVNLE_127010 Length: 32
+# ZIVNLE_127010 Number of predicted TMRs: 0
+ZIVNLE_127010	signal	1	29				
+ZIVNLE_127010	outside	30	32				
+//
+# ZIVNLE_73363 Length: 47
+# ZIVNLE_73363 Number of predicted TMRs: 0
+ZIVNLE_73363	signal	1	24				
+ZIVNLE_73363	outside	25	47				
+//
+# ZIVNLE_166436 Length: 46
+# ZIVNLE_166436 Number of predicted TMRs: 0
+ZIVNLE_166436	inside	1	46				
+//
+# ZIVNLE_131070 Length: 34
+# ZIVNLE_131070 Number of predicted TMRs: 0
+ZIVNLE_131070	signal	1	33				
+ZIVNLE_131070	outside	34	34				
+//
+# ZIVNLE_131996 Length: 43
+# ZIVNLE_131996 Number of predicted TMRs: 0
+ZIVNLE_131996	inside	1	43				
+//
+# ZIVNLE_116103 Length: 47
+# ZIVNLE_116103 Number of predicted TMRs: 0
+ZIVNLE_116103	inside	1	47				
+//
+# ZIVNLE_65468 Length: 49
+# ZIVNLE_65468 Number of predicted TMRs: 0
+ZIVNLE_65468	inside	1	49				
+//
+# ZIVNLE_6197 Length: 40
+# ZIVNLE_6197 Number of predicted TMRs: 0
+ZIVNLE_6197	inside	1	40				
+//
+# ZIVNLE_56409 Length: 45
+# ZIVNLE_56409 Number of predicted TMRs: 0
+ZIVNLE_56409	signal	1	25				
+ZIVNLE_56409	outside	26	45				
+//
+# ZIVNLE_35138 Length: 44
+# ZIVNLE_35138 Number of predicted TMRs: 0
+ZIVNLE_35138	signal	1	10				
+ZIVNLE_35138	outside	11	44				
+//
+# ZIVNLE_4616 Length: 49
+# ZIVNLE_4616 Number of predicted TMRs: 0
+ZIVNLE_4616	signal	1	33				
+ZIVNLE_4616	outside	34	49				
+//
+# ZIVNLE_22430 Length: 50
+# ZIVNLE_22430 Number of predicted TMRs: 0
+ZIVNLE_22430	outside	1	50				
+//
+# ZIVNLE_22426 Length: 50
+# ZIVNLE_22426 Number of predicted TMRs: 0
+ZIVNLE_22426	outside	1	50				
+//
+# ZIVNLE_14080 Length: 49
+# ZIVNLE_14080 Number of predicted TMRs: 0
+ZIVNLE_14080	signal	1	47				
+ZIVNLE_14080	outside	48	49				
+//
+# ZIVNLE_96437 Length: 47
+# ZIVNLE_96437 Number of predicted TMRs: 0
+ZIVNLE_96437	inside	1	47				
+//
+# ZIVNLE_33372 Length: 42
+# ZIVNLE_33372 Number of predicted TMRs: 0
+ZIVNLE_33372	signal	1	41				
+ZIVNLE_33372	outside	42	42				
+//
+# ZIVNLE_152186 Length: 41
+# ZIVNLE_152186 Number of predicted TMRs: 0
+ZIVNLE_152186	signal	1	30				
+ZIVNLE_152186	outside	31	41				
+//
+# ZIVNLE_94226 Length: 42
+# ZIVNLE_94226 Number of predicted TMRs: 0
+ZIVNLE_94226	signal	1	27				
+ZIVNLE_94226	outside	28	42				
+//
+# ZIVNLE_104985 Length: 49
+# ZIVNLE_104985 Number of predicted TMRs: 0
+ZIVNLE_104985	inside	1	49				
+//
+# ZIVNLE_7357 Length: 49
+# ZIVNLE_7357 Number of predicted TMRs: 0
+ZIVNLE_7357	signal	1	10				
+ZIVNLE_7357	outside	11	49				
+//
+# ZIVNLE_77238 Length: 48
+# ZIVNLE_77238 Number of predicted TMRs: 0
+ZIVNLE_77238	outside	1	48				
+//
+# ZIVNLE_55602 Length: 49
+# ZIVNLE_55602 Number of predicted TMRs: 0
+ZIVNLE_55602	inside	1	49				
+//
+# ZIVNLE_56419 Length: 50
+# ZIVNLE_56419 Number of predicted TMRs: 0
+ZIVNLE_56419	inside	1	50				
+//
+# ZIVNLE_144170 Length: 48
+# ZIVNLE_144170 Number of predicted TMRs: 0
+ZIVNLE_144170	outside	1	48				
+//
+# ZIVNLE_168273 Length: 45
+# ZIVNLE_168273 Number of predicted TMRs: 0
+ZIVNLE_168273	inside	1	45				
+//
+# ZIVNLE_98883 Length: 46
+# ZIVNLE_98883 Number of predicted TMRs: 0
+ZIVNLE_98883	inside	1	46				
+//
+# ZIVNLE_87788 Length: 48
+# ZIVNLE_87788 Number of predicted TMRs: 0
+ZIVNLE_87788	inside	1	48				
+//
+# ZIVNLE_11904 Length: 46
+# ZIVNLE_11904 Number of predicted TMRs: 0
+ZIVNLE_11904	signal	1	41				
+ZIVNLE_11904	outside	42	46				
+//
+# ZIVNLE_151124 Length: 42
+# ZIVNLE_151124 Number of predicted TMRs: 0
+ZIVNLE_151124	signal	1	28				
+ZIVNLE_151124	outside	29	42				
+//
+# ZIVNLE_124721 Length: 47
+# ZIVNLE_124721 Number of predicted TMRs: 0
+ZIVNLE_124721	inside	1	47				
+//
+# ZIVNLE_61597 Length: 48
+# ZIVNLE_61597 Number of predicted TMRs: 0
+ZIVNLE_61597	outside	1	48				
+//
+# ZIVNLE_912 Length: 42
+# ZIVNLE_912 Number of predicted TMRs: 0
+ZIVNLE_912	inside	1	42				
+//
+# ZIVNLE_57921 Length: 41
+# ZIVNLE_57921 Number of predicted TMRs: 0
+ZIVNLE_57921	inside	1	41				
+//
+# ZIVNLE_89072 Length: 47
+# ZIVNLE_89072 Number of predicted TMRs: 0
+ZIVNLE_89072	signal	1	46				
+ZIVNLE_89072	outside	47	47				
+//
+# ZIVNLE_92818 Length: 50
+# ZIVNLE_92818 Number of predicted TMRs: 0
+ZIVNLE_92818	signal	1	31				
+ZIVNLE_92818	outside	32	50				
+//
+# ZIVNLE_132824 Length: 49
+# ZIVNLE_132824 Number of predicted TMRs: 0
+ZIVNLE_132824	signal	1	44				
+ZIVNLE_132824	outside	45	49				
+//
+# ZIVNLE_45981 Length: 49
+# ZIVNLE_45981 Number of predicted TMRs: 0
+ZIVNLE_45981	inside	1	49				
+//
+# ZIVNLE_82984 Length: 45
+# ZIVNLE_82984 Number of predicted TMRs: 0
+ZIVNLE_82984	inside	1	45				
+//
+# ZIVNLE_92301 Length: 42
+# ZIVNLE_92301 Number of predicted TMRs: 0
+ZIVNLE_92301	inside	1	42				
+//
+# ZIVNLE_13457 Length: 47
+# ZIVNLE_13457 Number of predicted TMRs: 0
+ZIVNLE_13457	signal	1	13				
+ZIVNLE_13457	outside	14	47				
+//
+# ZIVNLE_67389 Length: 45
+# ZIVNLE_67389 Number of predicted TMRs: 0
+ZIVNLE_67389	inside	1	45				
+//
+# ZIVNLE_140006 Length: 49
+# ZIVNLE_140006 Number of predicted TMRs: 0
+ZIVNLE_140006	signal	1	12				
+ZIVNLE_140006	outside	13	49				
+//
+# ZIVNLE_24687 Length: 45
+# ZIVNLE_24687 Number of predicted TMRs: 0
+ZIVNLE_24687	inside	1	45				
+//
+# ZIVNLE_87928 Length: 46
+# ZIVNLE_87928 Number of predicted TMRs: 0
+ZIVNLE_87928	signal	1	38				
+ZIVNLE_87928	outside	39	46				
+//
+# ZIVNLE_87846 Length: 44
+# ZIVNLE_87846 Number of predicted TMRs: 0
+ZIVNLE_87846	outside	1	44				
+//
+# ZIVNLE_93074 Length: 49
+# ZIVNLE_93074 Number of predicted TMRs: 0
+ZIVNLE_93074	inside	1	49				
+//
+# ZIVNLE_156515 Length: 42
+# ZIVNLE_156515 Number of predicted TMRs: 0
+ZIVNLE_156515	signal	1	39				
+ZIVNLE_156515	outside	40	42				
+//
+# ZIVNLE_8842 Length: 49
+# ZIVNLE_8842 Number of predicted TMRs: 0
+ZIVNLE_8842	inside	1	49				
+//
+# ZIVNLE_142689 Length: 46
+# ZIVNLE_142689 Number of predicted TMRs: 0
+ZIVNLE_142689	inside	1	46				
+//
+# ZIVNLE_31994 Length: 42
+# ZIVNLE_31994 Number of predicted TMRs: 0
+ZIVNLE_31994	inside	1	42				
+//
+# ZIVNLE_163947 Length: 48
+# ZIVNLE_163947 Number of predicted TMRs: 0
+ZIVNLE_163947	inside	1	48				
+//
+# ZIVNLE_94517 Length: 42
+# ZIVNLE_94517 Number of predicted TMRs: 0
+ZIVNLE_94517	inside	1	42				
+//
+# ZIVNLE_106072 Length: 41
+# ZIVNLE_106072 Number of predicted TMRs: 0
+ZIVNLE_106072	signal	1	40				
+ZIVNLE_106072	outside	41	41				
+//
+# ZIVNLE_112674 Length: 50
+# ZIVNLE_112674 Number of predicted TMRs: 0
+ZIVNLE_112674	inside	1	50				
+//
+# ZIVNLE_164689 Length: 32
+# ZIVNLE_164689 Number of predicted TMRs: 0
+ZIVNLE_164689	signal	1	31				
+ZIVNLE_164689	outside	32	32				
+//
+# ZIVNLE_149880 Length: 42
+# ZIVNLE_149880 Number of predicted TMRs: 0
+ZIVNLE_149880	signal	1	34				
+ZIVNLE_149880	outside	35	42				
+//
+# ZIVNLE_148953 Length: 47
+# ZIVNLE_148953 Number of predicted TMRs: 0
+ZIVNLE_148953	inside	1	47				
+//
+# ZIVNLE_56674 Length: 43
+# ZIVNLE_56674 Number of predicted TMRs: 0
+ZIVNLE_56674	inside	1	43				
+//
+# ZIVNLE_119960 Length: 43
+# ZIVNLE_119960 Number of predicted TMRs: 0
+ZIVNLE_119960	signal	1	13				
+ZIVNLE_119960	outside	14	43				
+//
+# ZIVNLE_11287 Length: 30
+# ZIVNLE_11287 Number of predicted TMRs: 0
+ZIVNLE_11287	signal	1	29				
+ZIVNLE_11287	outside	30	30				
+//
+# ZIVNLE_27990 Length: 50
+# ZIVNLE_27990 Number of predicted TMRs: 0
+ZIVNLE_27990	inside	1	50				
+//
+# ZIVNLE_33070 Length: 49
+# ZIVNLE_33070 Number of predicted TMRs: 0
+ZIVNLE_33070	signal	1	21				
+ZIVNLE_33070	outside	22	49				
+//
+# ZIVNLE_86137 Length: 45
+# ZIVNLE_86137 Number of predicted TMRs: 0
+ZIVNLE_86137	signal	1	14				
+ZIVNLE_86137	outside	15	45				
+//
+# ZIVNLE_34390 Length: 49
+# ZIVNLE_34390 Number of predicted TMRs: 0
+ZIVNLE_34390	signal	1	48				
+ZIVNLE_34390	outside	49	49				
+//
+# ZIVNLE_51039 Length: 40
+# ZIVNLE_51039 Number of predicted TMRs: 0
+ZIVNLE_51039	inside	1	40				
+//
+# ZIVNLE_163576 Length: 47
+# ZIVNLE_163576 Number of predicted TMRs: 0
+ZIVNLE_163576	inside	1	47				
+//
+# ZIVNLE_40329 Length: 50
+# ZIVNLE_40329 Number of predicted TMRs: 0
+ZIVNLE_40329	inside	1	50				
+//
+# ZIVNLE_11006 Length: 46
+# ZIVNLE_11006 Number of predicted TMRs: 0
+ZIVNLE_11006	inside	1	46				
+//
+# ZIVNLE_2844 Length: 49
+# ZIVNLE_2844 Number of predicted TMRs: 0
+ZIVNLE_2844	inside	1	49				
+//
+# ZIVNLE_84812 Length: 47
+# ZIVNLE_84812 Number of predicted TMRs: 0
+ZIVNLE_84812	inside	1	47				
+//
+# ZIVNLE_85973 Length: 49
+# ZIVNLE_85973 Number of predicted TMRs: 0
+ZIVNLE_85973	inside	1	49				
+//
+# ZIVNLE_167674 Length: 40
+# ZIVNLE_167674 Number of predicted TMRs: 0
+ZIVNLE_167674	inside	1	40				
+//
+# ZIVNLE_14358 Length: 46
+# ZIVNLE_14358 Number of predicted TMRs: 0
+ZIVNLE_14358	inside	1	46				
+//
+# ZIVNLE_82526 Length: 50
+# ZIVNLE_82526 Number of predicted TMRs: 0
+ZIVNLE_82526	inside	1	50				
+//
+# ZIVNLE_39673 Length: 41
+# ZIVNLE_39673 Number of predicted TMRs: 0
+ZIVNLE_39673	signal	1	13				
+ZIVNLE_39673	outside	14	41				
+//
+# ZIVNLE_23107 Length: 45
+# ZIVNLE_23107 Number of predicted TMRs: 0
+ZIVNLE_23107	signal	1	28				
+ZIVNLE_23107	outside	29	45				
+//
+# ZIVNLE_71570 Length: 46
+# ZIVNLE_71570 Number of predicted TMRs: 0
+ZIVNLE_71570	inside	1	46				
+//
+# ZIVNLE_4389 Length: 35
+# ZIVNLE_4389 Number of predicted TMRs: 0
+ZIVNLE_4389	inside	1	35				
+//
+# ZIVNLE_82945 Length: 44
+# ZIVNLE_82945 Number of predicted TMRs: 0
+ZIVNLE_82945	inside	1	44				
+//
+# ZIVNLE_50683 Length: 47
+# ZIVNLE_50683 Number of predicted TMRs: 0
+ZIVNLE_50683	inside	1	47				
+//
+# ZIVNLE_74341 Length: 50
+# ZIVNLE_74341 Number of predicted TMRs: 0
+ZIVNLE_74341	signal	1	49				
+ZIVNLE_74341	outside	50	50				
+//
+# ZIVNLE_57657 Length: 50
+# ZIVNLE_57657 Number of predicted TMRs: 0
+ZIVNLE_57657	inside	1	50				
+//
+# ZIVNLE_134621 Length: 49
+# ZIVNLE_134621 Number of predicted TMRs: 0
+ZIVNLE_134621	inside	1	49				
+//
+# ZIVNLE_135235 Length: 45
+# ZIVNLE_135235 Number of predicted TMRs: 0
+ZIVNLE_135235	signal	1	13				
+ZIVNLE_135235	outside	14	45				
+//
+# ZIVNLE_129535 Length: 44
+# ZIVNLE_129535 Number of predicted TMRs: 0
+ZIVNLE_129535	signal	1	30				
+ZIVNLE_129535	outside	31	44				
+//
+# ZIVNLE_143859 Length: 49
+# ZIVNLE_143859 Number of predicted TMRs: 0
+ZIVNLE_143859	inside	1	49				
+//
+# ZIVNLE_91024 Length: 46
+# ZIVNLE_91024 Number of predicted TMRs: 0
+ZIVNLE_91024	inside	1	46				
+//
+# ZIVNLE_147661 Length: 50
+# ZIVNLE_147661 Number of predicted TMRs: 0
+ZIVNLE_147661	signal	1	12				
+ZIVNLE_147661	outside	13	50				
+//
+# ZIVNLE_86623 Length: 48
+# ZIVNLE_86623 Number of predicted TMRs: 0
+ZIVNLE_86623	signal	1	12				
+ZIVNLE_86623	outside	13	48				
+//
+# ZIVNLE_69844 Length: 50
+# ZIVNLE_69844 Number of predicted TMRs: 0
+ZIVNLE_69844	inside	1	50				
+//
+# ZIVNLE_68979 Length: 48
+# ZIVNLE_68979 Number of predicted TMRs: 0
+ZIVNLE_68979	signal	1	35				
+ZIVNLE_68979	outside	36	48				
+//
+# ZIVNLE_123852 Length: 47
+# ZIVNLE_123852 Number of predicted TMRs: 0
+ZIVNLE_123852	inside	1	47				
+//
+# ZIVNLE_19633 Length: 44
+# ZIVNLE_19633 Number of predicted TMRs: 0
+ZIVNLE_19633	signal	1	15				
+ZIVNLE_19633	outside	16	44				

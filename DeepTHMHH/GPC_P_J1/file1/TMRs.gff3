@@ -1,0 +1,4440 @@
+##gff-version 3
+# FIVAEU_171150 Length: 50
+# FIVAEU_171150 Number of predicted TMRs: 0
+FIVAEU_171150	inside	1	50				
+//
+# FIVAEU_52387 Length: 29
+# FIVAEU_52387 Number of predicted TMRs: 0
+FIVAEU_52387	inside	1	29				
+//
+# FIVAEU_93780 Length: 32
+# FIVAEU_93780 Number of predicted TMRs: 0
+FIVAEU_93780	signal	1	31				
+FIVAEU_93780	outside	32	32				
+//
+# FIVAEU_82609 Length: 44
+# FIVAEU_82609 Number of predicted TMRs: 0
+FIVAEU_82609	inside	1	44				
+//
+# FIVAEU_50651 Length: 47
+# FIVAEU_50651 Number of predicted TMRs: 0
+FIVAEU_50651	inside	1	47				
+//
+# FIVAEU_57671 Length: 50
+# FIVAEU_57671 Number of predicted TMRs: 0
+FIVAEU_57671	inside	1	50				
+//
+# FIVAEU_135280 Length: 49
+# FIVAEU_135280 Number of predicted TMRs: 0
+FIVAEU_135280	inside	1	49				
+//
+# FIVAEU_40345 Length: 44
+# FIVAEU_40345 Number of predicted TMRs: 0
+FIVAEU_40345	inside	1	44				
+//
+# FIVAEU_129902 Length: 44
+# FIVAEU_129902 Number of predicted TMRs: 0
+FIVAEU_129902	signal	1	30				
+FIVAEU_129902	outside	31	44				
+//
+# FIVAEU_144594 Length: 49
+# FIVAEU_144594 Number of predicted TMRs: 0
+FIVAEU_144594	inside	1	49				
+//
+# FIVAEU_77892 Length: 39
+# FIVAEU_77892 Number of predicted TMRs: 0
+FIVAEU_77892	inside	1	39				
+//
+# FIVAEU_124940 Length: 40
+# FIVAEU_124940 Number of predicted TMRs: 0
+FIVAEU_124940	inside	1	40				
+//
+# FIVAEU_148530 Length: 50
+# FIVAEU_148530 Number of predicted TMRs: 0
+FIVAEU_148530	signal	1	12				
+FIVAEU_148530	outside	13	50				
+//
+# FIVAEU_86611 Length: 48
+# FIVAEU_86611 Number of predicted TMRs: 0
+FIVAEU_86611	signal	1	12				
+FIVAEU_86611	outside	13	48				
+//
+# FIVAEU_90595 Length: 49
+# FIVAEU_90595 Number of predicted TMRs: 0
+FIVAEU_90595	inside	1	49				
+//
+# FIVAEU_10962 Length: 50
+# FIVAEU_10962 Number of predicted TMRs: 0
+FIVAEU_10962	inside	1	50				
+//
+# FIVAEU_69854 Length: 50
+# FIVAEU_69854 Number of predicted TMRs: 0
+FIVAEU_69854	inside	1	50				
+//
+# FIVAEU_109976 Length: 29
+# FIVAEU_109976 Number of predicted TMRs: 0
+FIVAEU_109976	signal	1	26				
+FIVAEU_109976	outside	27	29				
+//
+# FIVAEU_69014 Length: 48
+# FIVAEU_69014 Number of predicted TMRs: 0
+FIVAEU_69014	signal	1	35				
+FIVAEU_69014	outside	36	48				
+//
+# FIVAEU_19802 Length: 44
+# FIVAEU_19802 Number of predicted TMRs: 0
+FIVAEU_19802	signal	1	15				
+FIVAEU_19802	outside	16	44				
+//
+# FIVAEU_16567 Length: 49
+# FIVAEU_16567 Number of predicted TMRs: 0
+FIVAEU_16567	inside	1	49				
+//
+# FIVAEU_24103 Length: 49
+# FIVAEU_24103 Number of predicted TMRs: 0
+FIVAEU_24103	inside	1	49				
+//
+# FIVAEU_167453 Length: 40
+# FIVAEU_167453 Number of predicted TMRs: 0
+FIVAEU_167453	signal	1	39				
+FIVAEU_167453	outside	40	40				
+//
+# FIVAEU_40532 Length: 34
+# FIVAEU_40532 Number of predicted TMRs: 0
+FIVAEU_40532	signal	1	15				
+FIVAEU_40532	outside	16	34				
+//
+# FIVAEU_144611 Length: 48
+# FIVAEU_144611 Number of predicted TMRs: 0
+FIVAEU_144611	inside	1	48				
+//
+# FIVAEU_13909 Length: 46
+# FIVAEU_13909 Number of predicted TMRs: 0
+FIVAEU_13909	inside	1	46				
+//
+# FIVAEU_31708 Length: 46
+# FIVAEU_31708 Number of predicted TMRs: 0
+FIVAEU_31708	inside	1	46				
+//
+# FIVAEU_88701 Length: 43
+# FIVAEU_88701 Number of predicted TMRs: 0
+FIVAEU_88701	inside	1	43				
+//
+# FIVAEU_133617 Length: 41
+# FIVAEU_133617 Number of predicted TMRs: 0
+FIVAEU_133617	signal	1	34				
+FIVAEU_133617	outside	35	41				
+//
+# FIVAEU_161362 Length: 47
+# FIVAEU_161362 Number of predicted TMRs: 0
+FIVAEU_161362	inside	1	47				
+//
+# FIVAEU_172080 Length: 46
+# FIVAEU_172080 Number of predicted TMRs: 0
+FIVAEU_172080	signal	1	34				
+FIVAEU_172080	outside	35	46				
+//
+# FIVAEU_167513 Length: 49
+# FIVAEU_167513 Number of predicted TMRs: 0
+FIVAEU_167513	inside	1	49				
+//
+# FIVAEU_7176 Length: 43
+# FIVAEU_7176 Number of predicted TMRs: 0
+FIVAEU_7176	signal	1	10				
+FIVAEU_7176	outside	11	43				
+//
+# FIVAEU_89967 Length: 49
+# FIVAEU_89967 Number of predicted TMRs: 0
+FIVAEU_89967	signal	1	45				
+FIVAEU_89967	outside	46	49				
+//
+# FIVAEU_121530 Length: 44
+# FIVAEU_121530 Number of predicted TMRs: 0
+FIVAEU_121530	inside	1	44				
+//
+# FIVAEU_153227 Length: 48
+# FIVAEU_153227 Number of predicted TMRs: 0
+FIVAEU_153227	signal	1	27				
+FIVAEU_153227	outside	28	48				
+//
+# FIVAEU_157824 Length: 47
+# FIVAEU_157824 Number of predicted TMRs: 0
+FIVAEU_157824	inside	1	47				
+//
+# FIVAEU_91687 Length: 44
+# FIVAEU_91687 Number of predicted TMRs: 0
+FIVAEU_91687	signal	1	43				
+FIVAEU_91687	outside	44	44				
+//
+# FIVAEU_79782 Length: 44
+# FIVAEU_79782 Number of predicted TMRs: 0
+FIVAEU_79782	inside	1	44				
+//
+# FIVAEU_123455 Length: 46
+# FIVAEU_123455 Number of predicted TMRs: 0
+FIVAEU_123455	inside	1	46				
+//
+# FIVAEU_74747 Length: 38
+# FIVAEU_74747 Number of predicted TMRs: 0
+FIVAEU_74747	inside	1	38				
+//
+# FIVAEU_141847 Length: 45
+# FIVAEU_141847 Number of predicted TMRs: 0
+FIVAEU_141847	signal	1	39				
+FIVAEU_141847	outside	40	45				
+//
+# FIVAEU_16582 Length: 49
+# FIVAEU_16582 Number of predicted TMRs: 0
+FIVAEU_16582	signal	1	45				
+FIVAEU_16582	outside	46	49				
+//
+# FIVAEU_68266 Length: 50
+# FIVAEU_68266 Number of predicted TMRs: 0
+FIVAEU_68266	signal	1	44				
+FIVAEU_68266	outside	45	50				
+//
+# FIVAEU_103303 Length: 42
+# FIVAEU_103303 Number of predicted TMRs: 0
+FIVAEU_103303	signal	1	12				
+FIVAEU_103303	outside	13	42				
+//
+# FIVAEU_80611 Length: 47
+# FIVAEU_80611 Number of predicted TMRs: 0
+FIVAEU_80611	inside	1	47				
+//
+# FIVAEU_94164 Length: 45
+# FIVAEU_94164 Number of predicted TMRs: 0
+FIVAEU_94164	signal	1	10				
+FIVAEU_94164	outside	11	45				
+//
+# FIVAEU_103767 Length: 43
+# FIVAEU_103767 Number of predicted TMRs: 0
+FIVAEU_103767	inside	1	43				
+//
+# FIVAEU_170096 Length: 46
+# FIVAEU_170096 Number of predicted TMRs: 0
+FIVAEU_170096	inside	1	46				
+//
+# FIVAEU_170099 Length: 44
+# FIVAEU_170099 Number of predicted TMRs: 0
+FIVAEU_170099	inside	1	44				
+//
+# FIVAEU_104336 Length: 41
+# FIVAEU_104336 Number of predicted TMRs: 0
+FIVAEU_104336	signal	1	10				
+FIVAEU_104336	outside	11	41				
+//
+# FIVAEU_20041 Length: 47
+# FIVAEU_20041 Number of predicted TMRs: 0
+FIVAEU_20041	signal	1	22				
+FIVAEU_20041	outside	23	47				
+//
+# FIVAEU_125555 Length: 38
+# FIVAEU_125555 Number of predicted TMRs: 0
+FIVAEU_125555	inside	1	38				
+//
+# FIVAEU_117171 Length: 47
+# FIVAEU_117171 Number of predicted TMRs: 0
+FIVAEU_117171	outside	1	47				
+//
+# FIVAEU_65405 Length: 45
+# FIVAEU_65405 Number of predicted TMRs: 0
+FIVAEU_65405	inside	1	45				
+//
+# FIVAEU_27353 Length: 38
+# FIVAEU_27353 Number of predicted TMRs: 0
+FIVAEU_27353	outside	1	38				
+//
+# FIVAEU_129271 Length: 38
+# FIVAEU_129271 Number of predicted TMRs: 0
+FIVAEU_129271	signal	1	37				
+FIVAEU_129271	outside	38	38				
+//
+# FIVAEU_42699 Length: 47
+# FIVAEU_42699 Number of predicted TMRs: 0
+FIVAEU_42699	inside	1	47				
+//
+# FIVAEU_12520 Length: 47
+# FIVAEU_12520 Number of predicted TMRs: 0
+FIVAEU_12520	signal	1	14				
+FIVAEU_12520	outside	15	47				
+//
+# FIVAEU_43370 Length: 43
+# FIVAEU_43370 Number of predicted TMRs: 0
+FIVAEU_43370	inside	1	43				
+//
+# FIVAEU_171705 Length: 35
+# FIVAEU_171705 Number of predicted TMRs: 0
+FIVAEU_171705	signal	1	10				
+FIVAEU_171705	outside	11	35				
+//
+# FIVAEU_89167 Length: 50
+# FIVAEU_89167 Number of predicted TMRs: 0
+FIVAEU_89167	inside	1	50				
+//
+# FIVAEU_158902 Length: 41
+# FIVAEU_158902 Number of predicted TMRs: 0
+FIVAEU_158902	signal	1	12				
+FIVAEU_158902	outside	13	41				
+//
+# FIVAEU_127811 Length: 50
+# FIVAEU_127811 Number of predicted TMRs: 0
+FIVAEU_127811	inside	1	50				
+//
+# FIVAEU_138485 Length: 35
+# FIVAEU_138485 Number of predicted TMRs: 0
+FIVAEU_138485	inside	1	35				
+//
+# FIVAEU_50314 Length: 46
+# FIVAEU_50314 Number of predicted TMRs: 0
+FIVAEU_50314	inside	1	46				
+//
+# FIVAEU_22094 Length: 50
+# FIVAEU_22094 Number of predicted TMRs: 0
+FIVAEU_22094	signal	1	30				
+FIVAEU_22094	outside	31	50				
+//
+# FIVAEU_109335 Length: 42
+# FIVAEU_109335 Number of predicted TMRs: 0
+FIVAEU_109335	inside	1	42				
+//
+# FIVAEU_31817 Length: 44
+# FIVAEU_31817 Number of predicted TMRs: 0
+FIVAEU_31817	signal	1	40				
+FIVAEU_31817	outside	41	44				
+//
+# FIVAEU_117185 Length: 43
+# FIVAEU_117185 Number of predicted TMRs: 0
+FIVAEU_117185	signal	1	26				
+FIVAEU_117185	outside	27	43				
+//
+# FIVAEU_87251 Length: 44
+# FIVAEU_87251 Number of predicted TMRs: 0
+FIVAEU_87251	signal	1	43				
+FIVAEU_87251	outside	44	44				
+//
+# FIVAEU_29747 Length: 40
+# FIVAEU_29747 Number of predicted TMRs: 0
+FIVAEU_29747	inside	1	40				
+//
+# FIVAEU_9002 Length: 47
+# FIVAEU_9002 Number of predicted TMRs: 0
+FIVAEU_9002	inside	1	47				
+//
+# FIVAEU_65459 Length: 35
+# FIVAEU_65459 Number of predicted TMRs: 0
+FIVAEU_65459	signal	1	16				
+FIVAEU_65459	outside	17	35				
+//
+# FIVAEU_42696 Length: 49
+# FIVAEU_42696 Number of predicted TMRs: 0
+FIVAEU_42696	inside	1	49				
+//
+# FIVAEU_13705 Length: 45
+# FIVAEU_13705 Number of predicted TMRs: 0
+FIVAEU_13705	signal	1	41				
+FIVAEU_13705	outside	42	45				
+//
+# FIVAEU_42403 Length: 43
+# FIVAEU_42403 Number of predicted TMRs: 0
+FIVAEU_42403	inside	1	43				
+//
+# FIVAEU_149256 Length: 43
+# FIVAEU_149256 Number of predicted TMRs: 0
+FIVAEU_149256	inside	1	43				
+//
+# FIVAEU_56590 Length: 48
+# FIVAEU_56590 Number of predicted TMRs: 0
+FIVAEU_56590	signal	1	45				
+FIVAEU_56590	outside	46	48				
+//
+# FIVAEU_151259 Length: 49
+# FIVAEU_151259 Number of predicted TMRs: 0
+FIVAEU_151259	outside	1	49				
+//
+# FIVAEU_162624 Length: 45
+# FIVAEU_162624 Number of predicted TMRs: 0
+FIVAEU_162624	inside	1	45				
+//
+# FIVAEU_137742 Length: 32
+# FIVAEU_137742 Number of predicted TMRs: 0
+FIVAEU_137742	signal	1	12				
+FIVAEU_137742	outside	13	32				
+//
+# FIVAEU_139006 Length: 33
+# FIVAEU_139006 Number of predicted TMRs: 0
+FIVAEU_139006	signal	1	12				
+FIVAEU_139006	outside	13	33				
+//
+# FIVAEU_139345 Length: 43
+# FIVAEU_139345 Number of predicted TMRs: 0
+FIVAEU_139345	signal	1	12				
+FIVAEU_139345	outside	13	43				
+//
+# FIVAEU_169756 Length: 43
+# FIVAEU_169756 Number of predicted TMRs: 0
+FIVAEU_169756	inside	1	43				
+//
+# FIVAEU_162370 Length: 44
+# FIVAEU_162370 Number of predicted TMRs: 0
+FIVAEU_162370	signal	1	43				
+FIVAEU_162370	outside	44	44				
+//
+# FIVAEU_141565 Length: 41
+# FIVAEU_141565 Number of predicted TMRs: 0
+FIVAEU_141565	inside	1	41				
+//
+# FIVAEU_42788 Length: 38
+# FIVAEU_42788 Number of predicted TMRs: 0
+FIVAEU_42788	signal	1	14				
+FIVAEU_42788	outside	15	38				
+//
+# FIVAEU_54594 Length: 47
+# FIVAEU_54594 Number of predicted TMRs: 0
+FIVAEU_54594	inside	1	47				
+//
+# FIVAEU_84050 Length: 49
+# FIVAEU_84050 Number of predicted TMRs: 0
+FIVAEU_84050	inside	1	49				
+//
+# FIVAEU_114090 Length: 50
+# FIVAEU_114090 Number of predicted TMRs: 0
+FIVAEU_114090	signal	1	11				
+FIVAEU_114090	outside	12	50				
+//
+# FIVAEU_14483 Length: 46
+# FIVAEU_14483 Number of predicted TMRs: 0
+FIVAEU_14483	inside	1	46				
+//
+# FIVAEU_122178 Length: 47
+# FIVAEU_122178 Number of predicted TMRs: 0
+FIVAEU_122178	signal	1	10				
+FIVAEU_122178	outside	11	47				
+//
+# FIVAEU_85210 Length: 47
+# FIVAEU_85210 Number of predicted TMRs: 0
+FIVAEU_85210	inside	1	47				
+//
+# FIVAEU_130966 Length: 47
+# FIVAEU_130966 Number of predicted TMRs: 0
+FIVAEU_130966	inside	1	47				
+//
+# FIVAEU_2160 Length: 48
+# FIVAEU_2160 Number of predicted TMRs: 0
+FIVAEU_2160	inside	1	48				
+//
+# FIVAEU_78150 Length: 34
+# FIVAEU_78150 Number of predicted TMRs: 0
+FIVAEU_78150	signal	1	33				
+FIVAEU_78150	outside	34	34				
+//
+# FIVAEU_91955 Length: 42
+# FIVAEU_91955 Number of predicted TMRs: 0
+FIVAEU_91955	inside	1	42				
+//
+# FIVAEU_18231 Length: 38
+# FIVAEU_18231 Number of predicted TMRs: 0
+FIVAEU_18231	inside	1	38				
+//
+# FIVAEU_12979 Length: 41
+# FIVAEU_12979 Number of predicted TMRs: 0
+FIVAEU_12979	signal	1	10				
+FIVAEU_12979	outside	11	41				
+//
+# FIVAEU_68977 Length: 45
+# FIVAEU_68977 Number of predicted TMRs: 0
+FIVAEU_68977	inside	1	45				
+//
+# FIVAEU_74805 Length: 42
+# FIVAEU_74805 Number of predicted TMRs: 0
+FIVAEU_74805	inside	1	42				
+//
+# FIVAEU_156249 Length: 44
+# FIVAEU_156249 Number of predicted TMRs: 0
+FIVAEU_156249	inside	1	44				
+//
+# FIVAEU_84827 Length: 37
+# FIVAEU_84827 Number of predicted TMRs: 0
+FIVAEU_84827	signal	1	28				
+FIVAEU_84827	outside	29	37				
+//
+# FIVAEU_84816 Length: 46
+# FIVAEU_84816 Number of predicted TMRs: 0
+FIVAEU_84816	signal	1	29				
+FIVAEU_84816	outside	30	46				
+//
+# FIVAEU_73919 Length: 47
+# FIVAEU_73919 Number of predicted TMRs: 0
+FIVAEU_73919	inside	1	47				
+//
+# FIVAEU_76598 Length: 50
+# FIVAEU_76598 Number of predicted TMRs: 0
+FIVAEU_76598	inside	1	50				
+//
+# FIVAEU_142959 Length: 38
+# FIVAEU_142959 Number of predicted TMRs: 0
+FIVAEU_142959	inside	1	38				
+//
+# FIVAEU_161029 Length: 43
+# FIVAEU_161029 Number of predicted TMRs: 0
+FIVAEU_161029	inside	1	43				
+//
+# FIVAEU_115457 Length: 42
+# FIVAEU_115457 Number of predicted TMRs: 0
+FIVAEU_115457	signal	1	23				
+FIVAEU_115457	outside	24	42				
+//
+# FIVAEU_10842 Length: 45
+# FIVAEU_10842 Number of predicted TMRs: 0
+FIVAEU_10842	signal	1	21				
+FIVAEU_10842	outside	22	45				
+//
+# FIVAEU_58876 Length: 48
+# FIVAEU_58876 Number of predicted TMRs: 0
+FIVAEU_58876	inside	1	48				
+//
+# FIVAEU_140509 Length: 45
+# FIVAEU_140509 Number of predicted TMRs: 0
+FIVAEU_140509	signal	1	12				
+FIVAEU_140509	outside	13	45				
+//
+# FIVAEU_96900 Length: 44
+# FIVAEU_96900 Number of predicted TMRs: 0
+FIVAEU_96900	signal	1	41				
+FIVAEU_96900	outside	42	44				
+//
+# FIVAEU_163527 Length: 46
+# FIVAEU_163527 Number of predicted TMRs: 0
+FIVAEU_163527	signal	1	37				
+FIVAEU_163527	outside	38	46				
+//
+# FIVAEU_100836 Length: 36
+# FIVAEU_100836 Number of predicted TMRs: 0
+FIVAEU_100836	signal	1	34				
+FIVAEU_100836	outside	35	36				
+//
+# FIVAEU_2633 Length: 49
+# FIVAEU_2633 Number of predicted TMRs: 0
+FIVAEU_2633	signal	1	48				
+FIVAEU_2633	outside	49	49				
+//
+# FIVAEU_70449 Length: 49
+# FIVAEU_70449 Number of predicted TMRs: 0
+FIVAEU_70449	inside	1	49				
+//
+# FIVAEU_6390 Length: 50
+# FIVAEU_6390 Number of predicted TMRs: 0
+FIVAEU_6390	inside	1	50				
+//
+# FIVAEU_141938 Length: 48
+# FIVAEU_141938 Number of predicted TMRs: 0
+FIVAEU_141938	inside	1	48				
+//
+# FIVAEU_75314 Length: 40
+# FIVAEU_75314 Number of predicted TMRs: 0
+FIVAEU_75314	signal	1	32				
+FIVAEU_75314	outside	33	40				
+//
+# FIVAEU_33791 Length: 48
+# FIVAEU_33791 Number of predicted TMRs: 0
+FIVAEU_33791	signal	1	47				
+FIVAEU_33791	outside	48	48				
+//
+# FIVAEU_115630 Length: 50
+# FIVAEU_115630 Number of predicted TMRs: 0
+FIVAEU_115630	outside	1	50				
+//
+# FIVAEU_9272 Length: 42
+# FIVAEU_9272 Number of predicted TMRs: 0
+FIVAEU_9272	inside	1	42				
+//
+# FIVAEU_144946 Length: 37
+# FIVAEU_144946 Number of predicted TMRs: 0
+FIVAEU_144946	inside	1	37				
+//
+# FIVAEU_27788 Length: 39
+# FIVAEU_27788 Number of predicted TMRs: 0
+FIVAEU_27788	signal	1	38				
+FIVAEU_27788	outside	39	39				
+//
+# FIVAEU_168674 Length: 50
+# FIVAEU_168674 Number of predicted TMRs: 0
+FIVAEU_168674	inside	1	50				
+//
+# FIVAEU_90352 Length: 49
+# FIVAEU_90352 Number of predicted TMRs: 0
+FIVAEU_90352	inside	1	49				
+//
+# FIVAEU_98571 Length: 44
+# FIVAEU_98571 Number of predicted TMRs: 0
+FIVAEU_98571	inside	1	44				
+//
+# FIVAEU_70079 Length: 48
+# FIVAEU_70079 Number of predicted TMRs: 0
+FIVAEU_70079	signal	1	26				
+FIVAEU_70079	outside	27	48				
+//
+# FIVAEU_72374 Length: 49
+# FIVAEU_72374 Number of predicted TMRs: 0
+FIVAEU_72374	signal	1	44				
+FIVAEU_72374	outside	45	49				
+//
+# FIVAEU_65424 Length: 39
+# FIVAEU_65424 Number of predicted TMRs: 0
+FIVAEU_65424	inside	1	39				
+//
+# FIVAEU_120225 Length: 48
+# FIVAEU_120225 Number of predicted TMRs: 0
+FIVAEU_120225	inside	1	48				
+//
+# FIVAEU_28004 Length: 42
+# FIVAEU_28004 Number of predicted TMRs: 0
+FIVAEU_28004	signal	1	26				
+FIVAEU_28004	outside	27	42				
+//
+# FIVAEU_110350 Length: 47
+# FIVAEU_110350 Number of predicted TMRs: 0
+FIVAEU_110350	inside	1	47				
+//
+# FIVAEU_133988 Length: 50
+# FIVAEU_133988 Number of predicted TMRs: 0
+FIVAEU_133988	inside	1	50				
+//
+# FIVAEU_96983 Length: 50
+# FIVAEU_96983 Number of predicted TMRs: 0
+FIVAEU_96983	inside	1	50				
+//
+# FIVAEU_89569 Length: 46
+# FIVAEU_89569 Number of predicted TMRs: 0
+FIVAEU_89569	signal	1	37				
+FIVAEU_89569	outside	38	46				
+//
+# FIVAEU_92290 Length: 33
+# FIVAEU_92290 Number of predicted TMRs: 0
+FIVAEU_92290	signal	1	25				
+FIVAEU_92290	outside	26	33				
+//
+# FIVAEU_43040 Length: 47
+# FIVAEU_43040 Number of predicted TMRs: 0
+FIVAEU_43040	signal	1	32				
+FIVAEU_43040	outside	33	47				
+//
+# FIVAEU_76612 Length: 45
+# FIVAEU_76612 Number of predicted TMRs: 0
+FIVAEU_76612	signal	1	17				
+FIVAEU_76612	outside	18	45				
+//
+# FIVAEU_143529 Length: 40
+# FIVAEU_143529 Number of predicted TMRs: 0
+FIVAEU_143529	inside	1	40				
+//
+# FIVAEU_98141 Length: 39
+# FIVAEU_98141 Number of predicted TMRs: 0
+FIVAEU_98141	signal	1	35				
+FIVAEU_98141	outside	36	39				
+//
+# FIVAEU_19094 Length: 44
+# FIVAEU_19094 Number of predicted TMRs: 0
+FIVAEU_19094	inside	1	44				
+//
+# FIVAEU_81212 Length: 48
+# FIVAEU_81212 Number of predicted TMRs: 0
+FIVAEU_81212	inside	1	48				
+//
+# FIVAEU_132700 Length: 39
+# FIVAEU_132700 Number of predicted TMRs: 0
+FIVAEU_132700	inside	1	39				
+//
+# FIVAEU_60075 Length: 38
+# FIVAEU_60075 Number of predicted TMRs: 0
+FIVAEU_60075	signal	1	35				
+FIVAEU_60075	outside	36	38				
+//
+# FIVAEU_75014 Length: 37
+# FIVAEU_75014 Number of predicted TMRs: 0
+FIVAEU_75014	signal	1	34				
+FIVAEU_75014	outside	35	37				
+//
+# FIVAEU_75997 Length: 46
+# FIVAEU_75997 Number of predicted TMRs: 0
+FIVAEU_75997	signal	1	42				
+FIVAEU_75997	outside	43	46				
+//
+# FIVAEU_29912 Length: 46
+# FIVAEU_29912 Number of predicted TMRs: 0
+FIVAEU_29912	signal	1	45				
+FIVAEU_29912	outside	46	46				
+//
+# FIVAEU_77746 Length: 49
+# FIVAEU_77746 Number of predicted TMRs: 0
+FIVAEU_77746	outside	1	49				
+//
+# FIVAEU_112735 Length: 48
+# FIVAEU_112735 Number of predicted TMRs: 0
+FIVAEU_112735	inside	1	48				
+//
+# FIVAEU_163195 Length: 48
+# FIVAEU_163195 Number of predicted TMRs: 0
+FIVAEU_163195	signal	1	44				
+FIVAEU_163195	outside	45	48				
+//
+# FIVAEU_68170 Length: 50
+# FIVAEU_68170 Number of predicted TMRs: 0
+FIVAEU_68170	inside	1	50				
+//
+# FIVAEU_65437 Length: 40
+# FIVAEU_65437 Number of predicted TMRs: 0
+FIVAEU_65437	signal	1	20				
+FIVAEU_65437	outside	21	40				
+//
+# FIVAEU_32648 Length: 49
+# FIVAEU_32648 Number of predicted TMRs: 0
+FIVAEU_32648	inside	1	49				
+//
+# FIVAEU_62604 Length: 29
+# FIVAEU_62604 Number of predicted TMRs: 0
+FIVAEU_62604	inside	1	29				
+//
+# FIVAEU_116420 Length: 41
+# FIVAEU_116420 Number of predicted TMRs: 0
+FIVAEU_116420	outside	1	41				
+//
+# FIVAEU_39722 Length: 50
+# FIVAEU_39722 Number of predicted TMRs: 0
+FIVAEU_39722	inside	1	50				
+//
+# FIVAEU_166931 Length: 40
+# FIVAEU_166931 Number of predicted TMRs: 0
+FIVAEU_166931	inside	1	40				
+//
+# FIVAEU_166919 Length: 40
+# FIVAEU_166919 Number of predicted TMRs: 0
+FIVAEU_166919	signal	1	21				
+FIVAEU_166919	outside	22	40				
+//
+# FIVAEU_74989 Length: 49
+# FIVAEU_74989 Number of predicted TMRs: 0
+FIVAEU_74989	inside	1	49				
+//
+# FIVAEU_123873 Length: 42
+# FIVAEU_123873 Number of predicted TMRs: 0
+FIVAEU_123873	signal	1	25				
+FIVAEU_123873	outside	26	42				
+//
+# FIVAEU_19806 Length: 49
+# FIVAEU_19806 Number of predicted TMRs: 0
+FIVAEU_19806	inside	1	49				
+//
+# FIVAEU_83568 Length: 44
+# FIVAEU_83568 Number of predicted TMRs: 0
+FIVAEU_83568	signal	1	43				
+FIVAEU_83568	outside	44	44				
+//
+# FIVAEU_64414 Length: 50
+# FIVAEU_64414 Number of predicted TMRs: 0
+FIVAEU_64414	signal	1	33				
+FIVAEU_64414	outside	34	50				
+//
+# FIVAEU_110236 Length: 35
+# FIVAEU_110236 Number of predicted TMRs: 0
+FIVAEU_110236	signal	1	11				
+FIVAEU_110236	outside	12	35				
+//
+# FIVAEU_151267 Length: 50
+# FIVAEU_151267 Number of predicted TMRs: 0
+FIVAEU_151267	inside	1	50				
+//
+# FIVAEU_101355 Length: 35
+# FIVAEU_101355 Number of predicted TMRs: 0
+FIVAEU_101355	signal	1	33				
+FIVAEU_101355	outside	34	35				
+//
+# FIVAEU_162930 Length: 46
+# FIVAEU_162930 Number of predicted TMRs: 0
+FIVAEU_162930	signal	1	45				
+FIVAEU_162930	outside	46	46				
+//
+# FIVAEU_99992 Length: 50
+# FIVAEU_99992 Number of predicted TMRs: 0
+FIVAEU_99992	inside	1	50				
+//
+# FIVAEU_105348 Length: 50
+# FIVAEU_105348 Number of predicted TMRs: 0
+FIVAEU_105348	outside	1	50				
+//
+# FIVAEU_67677 Length: 50
+# FIVAEU_67677 Number of predicted TMRs: 0
+FIVAEU_67677	inside	1	50				
+//
+# FIVAEU_144285 Length: 49
+# FIVAEU_144285 Number of predicted TMRs: 0
+FIVAEU_144285	inside	1	49				
+//
+# FIVAEU_71898 Length: 46
+# FIVAEU_71898 Number of predicted TMRs: 0
+FIVAEU_71898	inside	1	46				
+//
+# FIVAEU_100510 Length: 37
+# FIVAEU_100510 Number of predicted TMRs: 0
+FIVAEU_100510	signal	1	26				
+FIVAEU_100510	outside	27	37				
+//
+# FIVAEU_71769 Length: 36
+# FIVAEU_71769 Number of predicted TMRs: 0
+FIVAEU_71769	inside	1	36				
+//
+# FIVAEU_47311 Length: 47
+# FIVAEU_47311 Number of predicted TMRs: 0
+FIVAEU_47311	inside	1	47				
+//
+# FIVAEU_97659 Length: 46
+# FIVAEU_97659 Number of predicted TMRs: 0
+FIVAEU_97659	signal	1	35				
+FIVAEU_97659	outside	36	46				
+//
+# FIVAEU_74047 Length: 48
+# FIVAEU_74047 Number of predicted TMRs: 0
+FIVAEU_74047	inside	1	48				
+//
+# FIVAEU_104380 Length: 47
+# FIVAEU_104380 Number of predicted TMRs: 0
+FIVAEU_104380	signal	1	44				
+FIVAEU_104380	outside	45	47				
+//
+# FIVAEU_13241 Length: 50
+# FIVAEU_13241 Number of predicted TMRs: 0
+FIVAEU_13241	inside	1	50				
+//
+# FIVAEU_46112 Length: 49
+# FIVAEU_46112 Number of predicted TMRs: 0
+FIVAEU_46112	inside	1	49				
+//
+# FIVAEU_122910 Length: 43
+# FIVAEU_122910 Number of predicted TMRs: 0
+FIVAEU_122910	signal	1	10				
+FIVAEU_122910	outside	11	43				
+//
+# FIVAEU_76281 Length: 33
+# FIVAEU_76281 Number of predicted TMRs: 0
+FIVAEU_76281	inside	1	33				
+//
+# FIVAEU_34904 Length: 50
+# FIVAEU_34904 Number of predicted TMRs: 0
+FIVAEU_34904	inside	1	50				
+//
+# FIVAEU_30557 Length: 44
+# FIVAEU_30557 Number of predicted TMRs: 0
+FIVAEU_30557	signal	1	32				
+FIVAEU_30557	outside	33	44				
+//
+# FIVAEU_66599 Length: 42
+# FIVAEU_66599 Number of predicted TMRs: 0
+FIVAEU_66599	signal	1	28				
+FIVAEU_66599	outside	29	42				
+//
+# FIVAEU_84211 Length: 38
+# FIVAEU_84211 Number of predicted TMRs: 0
+FIVAEU_84211	signal	1	22				
+FIVAEU_84211	outside	23	38				
+//
+# FIVAEU_140840 Length: 43
+# FIVAEU_140840 Number of predicted TMRs: 0
+FIVAEU_140840	signal	1	32				
+FIVAEU_140840	outside	33	43				
+//
+# FIVAEU_96736 Length: 49
+# FIVAEU_96736 Number of predicted TMRs: 0
+FIVAEU_96736	inside	1	49				
+//
+# FIVAEU_6809 Length: 47
+# FIVAEU_6809 Number of predicted TMRs: 0
+FIVAEU_6809	signal	1	10				
+FIVAEU_6809	outside	11	47				
+//
+# FIVAEU_3486 Length: 48
+# FIVAEU_3486 Number of predicted TMRs: 0
+FIVAEU_3486	inside	1	48				
+//
+# FIVAEU_77315 Length: 47
+# FIVAEU_77315 Number of predicted TMRs: 1
+FIVAEU_77315	inside	1	6				
+FIVAEU_77315	TMhelix	7	27				
+FIVAEU_77315	outside	28	47				
+//
+# FIVAEU_153290 Length: 49
+# FIVAEU_153290 Number of predicted TMRs: 0
+FIVAEU_153290	inside	1	49				
+//
+# FIVAEU_66138 Length: 49
+# FIVAEU_66138 Number of predicted TMRs: 0
+FIVAEU_66138	inside	1	49				
+//
+# FIVAEU_88924 Length: 49
+# FIVAEU_88924 Number of predicted TMRs: 0
+FIVAEU_88924	signal	1	35				
+FIVAEU_88924	outside	36	49				
+//
+# FIVAEU_115622 Length: 41
+# FIVAEU_115622 Number of predicted TMRs: 0
+FIVAEU_115622	inside	1	41				
+//
+# FIVAEU_147047 Length: 47
+# FIVAEU_147047 Number of predicted TMRs: 0
+FIVAEU_147047	inside	1	47				
+//
+# FIVAEU_62331 Length: 43
+# FIVAEU_62331 Number of predicted TMRs: 0
+FIVAEU_62331	inside	1	43				
+//
+# FIVAEU_85419 Length: 49
+# FIVAEU_85419 Number of predicted TMRs: 0
+FIVAEU_85419	inside	1	49				
+//
+# FIVAEU_62838 Length: 42
+# FIVAEU_62838 Number of predicted TMRs: 0
+FIVAEU_62838	inside	1	42				
+//
+# FIVAEU_124822 Length: 29
+# FIVAEU_124822 Number of predicted TMRs: 0
+FIVAEU_124822	inside	1	29				
+//
+# FIVAEU_122805 Length: 50
+# FIVAEU_122805 Number of predicted TMRs: 0
+FIVAEU_122805	inside	1	50				
+//
+# FIVAEU_58655 Length: 44
+# FIVAEU_58655 Number of predicted TMRs: 0
+FIVAEU_58655	inside	1	44				
+//
+# FIVAEU_29749 Length: 37
+# FIVAEU_29749 Number of predicted TMRs: 0
+FIVAEU_29749	signal	1	11				
+FIVAEU_29749	outside	12	37				
+//
+# FIVAEU_18898 Length: 47
+# FIVAEU_18898 Number of predicted TMRs: 0
+FIVAEU_18898	inside	1	47				
+//
+# FIVAEU_126714 Length: 48
+# FIVAEU_126714 Number of predicted TMRs: 0
+FIVAEU_126714	signal	1	10				
+FIVAEU_126714	outside	11	48				
+//
+# FIVAEU_17387 Length: 39
+# FIVAEU_17387 Number of predicted TMRs: 0
+FIVAEU_17387	inside	1	39				
+//
+# FIVAEU_71106 Length: 42
+# FIVAEU_71106 Number of predicted TMRs: 0
+FIVAEU_71106	signal	1	10				
+FIVAEU_71106	outside	11	42				
+//
+# FIVAEU_125750 Length: 47
+# FIVAEU_125750 Number of predicted TMRs: 0
+FIVAEU_125750	signal	1	46				
+FIVAEU_125750	outside	47	47				
+//
+# FIVAEU_14401 Length: 46
+# FIVAEU_14401 Number of predicted TMRs: 0
+FIVAEU_14401	inside	1	46				
+//
+# FIVAEU_104341 Length: 41
+# FIVAEU_104341 Number of predicted TMRs: 0
+FIVAEU_104341	inside	1	41				
+//
+# FIVAEU_107888 Length: 45
+# FIVAEU_107888 Number of predicted TMRs: 0
+FIVAEU_107888	signal	1	26				
+FIVAEU_107888	outside	27	45				
+//
+# FIVAEU_148029 Length: 45
+# FIVAEU_148029 Number of predicted TMRs: 0
+FIVAEU_148029	inside	1	45				
+//
+# FIVAEU_143155 Length: 50
+# FIVAEU_143155 Number of predicted TMRs: 0
+FIVAEU_143155	signal	1	34				
+FIVAEU_143155	outside	35	50				
+//
+# FIVAEU_109193 Length: 45
+# FIVAEU_109193 Number of predicted TMRs: 0
+FIVAEU_109193	inside	1	45				
+//
+# FIVAEU_171775 Length: 46
+# FIVAEU_171775 Number of predicted TMRs: 0
+FIVAEU_171775	signal	1	44				
+FIVAEU_171775	outside	45	46				
+//
+# FIVAEU_121043 Length: 49
+# FIVAEU_121043 Number of predicted TMRs: 0
+FIVAEU_121043	inside	1	49				
+//
+# FIVAEU_105621 Length: 50
+# FIVAEU_105621 Number of predicted TMRs: 0
+FIVAEU_105621	inside	1	50				
+//
+# FIVAEU_93126 Length: 41
+# FIVAEU_93126 Number of predicted TMRs: 0
+FIVAEU_93126	signal	1	25				
+FIVAEU_93126	outside	26	41				
+//
+# FIVAEU_164497 Length: 50
+# FIVAEU_164497 Number of predicted TMRs: 0
+FIVAEU_164497	inside	1	50				
+//
+# FIVAEU_86143 Length: 48
+# FIVAEU_86143 Number of predicted TMRs: 0
+FIVAEU_86143	inside	1	48				
+//
+# FIVAEU_102136 Length: 46
+# FIVAEU_102136 Number of predicted TMRs: 0
+FIVAEU_102136	inside	1	46				
+//
+# FIVAEU_165911 Length: 39
+# FIVAEU_165911 Number of predicted TMRs: 0
+FIVAEU_165911	inside	1	39				
+//
+# FIVAEU_21752 Length: 38
+# FIVAEU_21752 Number of predicted TMRs: 0
+FIVAEU_21752	signal	1	36				
+FIVAEU_21752	outside	37	38				
+//
+# FIVAEU_170473 Length: 48
+# FIVAEU_170473 Number of predicted TMRs: 0
+FIVAEU_170473	inside	1	48				
+//
+# FIVAEU_7954 Length: 42
+# FIVAEU_7954 Number of predicted TMRs: 0
+FIVAEU_7954	inside	1	42				
+//
+# FIVAEU_118578 Length: 48
+# FIVAEU_118578 Number of predicted TMRs: 0
+FIVAEU_118578	inside	1	48				
+//
+# FIVAEU_60148 Length: 48
+# FIVAEU_60148 Number of predicted TMRs: 0
+FIVAEU_60148	inside	1	48				
+//
+# FIVAEU_11920 Length: 48
+# FIVAEU_11920 Number of predicted TMRs: 0
+FIVAEU_11920	signal	1	17				
+FIVAEU_11920	outside	18	48				
+//
+# FIVAEU_46321 Length: 42
+# FIVAEU_46321 Number of predicted TMRs: 0
+FIVAEU_46321	inside	1	42				
+//
+# FIVAEU_140919 Length: 40
+# FIVAEU_140919 Number of predicted TMRs: 0
+FIVAEU_140919	inside	1	40				
+//
+# FIVAEU_170070 Length: 50
+# FIVAEU_170070 Number of predicted TMRs: 0
+FIVAEU_170070	signal	1	10				
+FIVAEU_170070	outside	11	50				
+//
+# FIVAEU_40709 Length: 49
+# FIVAEU_40709 Number of predicted TMRs: 0
+FIVAEU_40709	inside	1	49				
+//
+# FIVAEU_109003 Length: 46
+# FIVAEU_109003 Number of predicted TMRs: 0
+FIVAEU_109003	inside	1	46				
+//
+# FIVAEU_136678 Length: 49
+# FIVAEU_136678 Number of predicted TMRs: 0
+FIVAEU_136678	inside	1	49				
+//
+# FIVAEU_22192 Length: 37
+# FIVAEU_22192 Number of predicted TMRs: 0
+FIVAEU_22192	signal	1	29				
+FIVAEU_22192	outside	30	37				
+//
+# FIVAEU_79273 Length: 50
+# FIVAEU_79273 Number of predicted TMRs: 0
+FIVAEU_79273	signal	1	41				
+FIVAEU_79273	outside	42	50				
+//
+# FIVAEU_14758 Length: 42
+# FIVAEU_14758 Number of predicted TMRs: 0
+FIVAEU_14758	inside	1	42				
+//
+# FIVAEU_38818 Length: 45
+# FIVAEU_38818 Number of predicted TMRs: 0
+FIVAEU_38818	inside	1	45				
+//
+# FIVAEU_131263 Length: 45
+# FIVAEU_131263 Number of predicted TMRs: 0
+FIVAEU_131263	signal	1	15				
+FIVAEU_131263	outside	16	45				
+//
+# FIVAEU_121775 Length: 50
+# FIVAEU_121775 Number of predicted TMRs: 0
+FIVAEU_121775	outside	1	50				
+//
+# FIVAEU_79611 Length: 46
+# FIVAEU_79611 Number of predicted TMRs: 0
+FIVAEU_79611	signal	1	45				
+FIVAEU_79611	outside	46	46				
+//
+# FIVAEU_82307 Length: 41
+# FIVAEU_82307 Number of predicted TMRs: 0
+FIVAEU_82307	signal	1	40				
+FIVAEU_82307	outside	41	41				
+//
+# FIVAEU_149043 Length: 48
+# FIVAEU_149043 Number of predicted TMRs: 0
+FIVAEU_149043	signal	1	14				
+FIVAEU_149043	outside	15	48				
+//
+# FIVAEU_27233 Length: 45
+# FIVAEU_27233 Number of predicted TMRs: 0
+FIVAEU_27233	signal	1	43				
+FIVAEU_27233	outside	44	45				
+//
+# FIVAEU_121543 Length: 48
+# FIVAEU_121543 Number of predicted TMRs: 0
+FIVAEU_121543	inside	1	48				
+//
+# FIVAEU_43043 Length: 42
+# FIVAEU_43043 Number of predicted TMRs: 0
+FIVAEU_43043	inside	1	42				
+//
+# FIVAEU_134431 Length: 37
+# FIVAEU_134431 Number of predicted TMRs: 0
+FIVAEU_134431	inside	1	37				
+//
+# FIVAEU_65875 Length: 42
+# FIVAEU_65875 Number of predicted TMRs: 0
+FIVAEU_65875	signal	1	30				
+FIVAEU_65875	outside	31	42				
+//
+# FIVAEU_168112 Length: 48
+# FIVAEU_168112 Number of predicted TMRs: 0
+FIVAEU_168112	inside	1	48				
+//
+# FIVAEU_31707 Length: 47
+# FIVAEU_31707 Number of predicted TMRs: 0
+FIVAEU_31707	inside	1	47				
+//
+# FIVAEU_132813 Length: 41
+# FIVAEU_132813 Number of predicted TMRs: 0
+FIVAEU_132813	signal	1	28				
+FIVAEU_132813	outside	29	41				
+//
+# FIVAEU_106567 Length: 38
+# FIVAEU_106567 Number of predicted TMRs: 0
+FIVAEU_106567	signal	1	37				
+FIVAEU_106567	outside	38	38				
+//
+# FIVAEU_36059 Length: 48
+# FIVAEU_36059 Number of predicted TMRs: 0
+FIVAEU_36059	inside	1	48				
+//
+# FIVAEU_84962 Length: 40
+# FIVAEU_84962 Number of predicted TMRs: 0
+FIVAEU_84962	signal	1	18				
+FIVAEU_84962	outside	19	40				
+//
+# FIVAEU_35751 Length: 42
+# FIVAEU_35751 Number of predicted TMRs: 0
+FIVAEU_35751	inside	1	42				
+//
+# FIVAEU_168588 Length: 49
+# FIVAEU_168588 Number of predicted TMRs: 0
+FIVAEU_168588	inside	1	49				
+//
+# FIVAEU_61682 Length: 38
+# FIVAEU_61682 Number of predicted TMRs: 0
+FIVAEU_61682	signal	1	18				
+FIVAEU_61682	outside	19	38				
+//
+# FIVAEU_45531 Length: 50
+# FIVAEU_45531 Number of predicted TMRs: 0
+FIVAEU_45531	inside	1	50				
+//
+# FIVAEU_44610 Length: 49
+# FIVAEU_44610 Number of predicted TMRs: 0
+FIVAEU_44610	signal	1	47				
+FIVAEU_44610	outside	48	49				
+//
+# FIVAEU_117727 Length: 49
+# FIVAEU_117727 Number of predicted TMRs: 0
+FIVAEU_117727	inside	1	49				
+//
+# FIVAEU_131095 Length: 46
+# FIVAEU_131095 Number of predicted TMRs: 0
+FIVAEU_131095	inside	1	46				
+//
+# FIVAEU_62203 Length: 50
+# FIVAEU_62203 Number of predicted TMRs: 0
+FIVAEU_62203	inside	1	50				
+//
+# FIVAEU_42755 Length: 47
+# FIVAEU_42755 Number of predicted TMRs: 0
+FIVAEU_42755	signal	1	45				
+FIVAEU_42755	outside	46	47				
+//
+# FIVAEU_73856 Length: 32
+# FIVAEU_73856 Number of predicted TMRs: 0
+FIVAEU_73856	inside	1	32				
+//
+# FIVAEU_3514 Length: 48
+# FIVAEU_3514 Number of predicted TMRs: 0
+FIVAEU_3514	inside	1	48				
+//
+# FIVAEU_135684 Length: 50
+# FIVAEU_135684 Number of predicted TMRs: 0
+FIVAEU_135684	inside	1	50				
+//
+# FIVAEU_66891 Length: 46
+# FIVAEU_66891 Number of predicted TMRs: 0
+FIVAEU_66891	signal	1	45				
+FIVAEU_66891	outside	46	46				
+//
+# FIVAEU_164123 Length: 42
+# FIVAEU_164123 Number of predicted TMRs: 0
+FIVAEU_164123	outside	1	42				
+//
+# FIVAEU_22264 Length: 49
+# FIVAEU_22264 Number of predicted TMRs: 0
+FIVAEU_22264	inside	1	49				
+//
+# FIVAEU_166231 Length: 38
+# FIVAEU_166231 Number of predicted TMRs: 0
+FIVAEU_166231	signal	1	37				
+FIVAEU_166231	outside	38	38				
+//
+# FIVAEU_50513 Length: 41
+# FIVAEU_50513 Number of predicted TMRs: 0
+FIVAEU_50513	inside	1	41				
+//
+# FIVAEU_55836 Length: 45
+# FIVAEU_55836 Number of predicted TMRs: 0
+FIVAEU_55836	inside	1	45				
+//
+# FIVAEU_135204 Length: 50
+# FIVAEU_135204 Number of predicted TMRs: 0
+FIVAEU_135204	inside	1	50				
+//
+# FIVAEU_168829 Length: 45
+# FIVAEU_168829 Number of predicted TMRs: 0
+FIVAEU_168829	signal	1	44				
+FIVAEU_168829	outside	45	45				
+//
+# FIVAEU_169145 Length: 44
+# FIVAEU_169145 Number of predicted TMRs: 0
+FIVAEU_169145	signal	1	29				
+FIVAEU_169145	outside	30	44				
+//
+# FIVAEU_168472 Length: 40
+# FIVAEU_168472 Number of predicted TMRs: 0
+FIVAEU_168472	inside	1	40				
+//
+# FIVAEU_55837 Length: 42
+# FIVAEU_55837 Number of predicted TMRs: 0
+FIVAEU_55837	signal	1	41				
+FIVAEU_55837	outside	42	42				
+//
+# FIVAEU_89971 Length: 36
+# FIVAEU_89971 Number of predicted TMRs: 0
+FIVAEU_89971	inside	1	36				
+//
+# FIVAEU_26595 Length: 48
+# FIVAEU_26595 Number of predicted TMRs: 0
+FIVAEU_26595	inside	1	48				
+//
+# FIVAEU_161692 Length: 42
+# FIVAEU_161692 Number of predicted TMRs: 0
+FIVAEU_161692	signal	1	40				
+FIVAEU_161692	outside	41	42				
+//
+# FIVAEU_42759 Length: 50
+# FIVAEU_42759 Number of predicted TMRs: 0
+FIVAEU_42759	inside	1	50				
+//
+# FIVAEU_155865 Length: 48
+# FIVAEU_155865 Number of predicted TMRs: 0
+FIVAEU_155865	inside	1	48				
+//
+# FIVAEU_3985 Length: 44
+# FIVAEU_3985 Number of predicted TMRs: 0
+FIVAEU_3985	inside	1	44				
+//
+# FIVAEU_17386 Length: 49
+# FIVAEU_17386 Number of predicted TMRs: 0
+FIVAEU_17386	inside	1	49				
+//
+# FIVAEU_24561 Length: 38
+# FIVAEU_24561 Number of predicted TMRs: 0
+FIVAEU_24561	signal	1	27				
+FIVAEU_24561	outside	28	38				
+//
+# FIVAEU_100309 Length: 43
+# FIVAEU_100309 Number of predicted TMRs: 0
+FIVAEU_100309	inside	1	43				
+//
+# FIVAEU_25628 Length: 47
+# FIVAEU_25628 Number of predicted TMRs: 0
+FIVAEU_25628	signal	1	15				
+FIVAEU_25628	outside	16	47				
+//
+# FIVAEU_144523 Length: 41
+# FIVAEU_144523 Number of predicted TMRs: 0
+FIVAEU_144523	signal	1	39				
+FIVAEU_144523	outside	40	41				
+//
+# FIVAEU_123778 Length: 42
+# FIVAEU_123778 Number of predicted TMRs: 0
+FIVAEU_123778	inside	1	42				
+//
+# FIVAEU_126851 Length: 50
+# FIVAEU_126851 Number of predicted TMRs: 0
+FIVAEU_126851	inside	1	50				
+//
+# FIVAEU_28826 Length: 49
+# FIVAEU_28826 Number of predicted TMRs: 0
+FIVAEU_28826	inside	1	49				
+//
+# FIVAEU_155050 Length: 46
+# FIVAEU_155050 Number of predicted TMRs: 0
+FIVAEU_155050	signal	1	45				
+FIVAEU_155050	outside	46	46				
+//
+# FIVAEU_25624 Length: 39
+# FIVAEU_25624 Number of predicted TMRs: 0
+FIVAEU_25624	signal	1	38				
+FIVAEU_25624	outside	39	39				
+//
+# FIVAEU_100461 Length: 44
+# FIVAEU_100461 Number of predicted TMRs: 0
+FIVAEU_100461	inside	1	44				
+//
+# FIVAEU_80300 Length: 45
+# FIVAEU_80300 Number of predicted TMRs: 0
+FIVAEU_80300	inside	1	45				
+//
+# FIVAEU_43164 Length: 50
+# FIVAEU_43164 Number of predicted TMRs: 0
+FIVAEU_43164	inside	1	50				
+//
+# FIVAEU_25943 Length: 44
+# FIVAEU_25943 Number of predicted TMRs: 0
+FIVAEU_25943	signal	1	43				
+FIVAEU_25943	outside	44	44				
+//
+# FIVAEU_59248 Length: 38
+# FIVAEU_59248 Number of predicted TMRs: 0
+FIVAEU_59248	signal	1	10				
+FIVAEU_59248	outside	11	38				
+//
+# FIVAEU_21764 Length: 37
+# FIVAEU_21764 Number of predicted TMRs: 0
+FIVAEU_21764	signal	1	18				
+FIVAEU_21764	outside	19	37				
+//
+# FIVAEU_118580 Length: 34
+# FIVAEU_118580 Number of predicted TMRs: 0
+FIVAEU_118580	inside	1	34				
+//
+# FIVAEU_114770 Length: 50
+# FIVAEU_114770 Number of predicted TMRs: 0
+FIVAEU_114770	signal	1	49				
+FIVAEU_114770	outside	50	50				
+//
+# FIVAEU_134666 Length: 49
+# FIVAEU_134666 Number of predicted TMRs: 0
+FIVAEU_134666	inside	1	49				
+//
+# FIVAEU_3476 Length: 46
+# FIVAEU_3476 Number of predicted TMRs: 0
+FIVAEU_3476	inside	1	46				
+//
+# FIVAEU_12978 Length: 38
+# FIVAEU_12978 Number of predicted TMRs: 0
+FIVAEU_12978	signal	1	26				
+FIVAEU_12978	outside	27	38				
+//
+# FIVAEU_52624 Length: 35
+# FIVAEU_52624 Number of predicted TMRs: 0
+FIVAEU_52624	signal	1	34				
+FIVAEU_52624	outside	35	35				
+//
+# FIVAEU_21482 Length: 47
+# FIVAEU_21482 Number of predicted TMRs: 0
+FIVAEU_21482	signal	1	44				
+FIVAEU_21482	outside	45	47				
+//
+# FIVAEU_45347 Length: 33
+# FIVAEU_45347 Number of predicted TMRs: 0
+FIVAEU_45347	signal	1	32				
+FIVAEU_45347	outside	33	33				
+//
+# FIVAEU_122285 Length: 43
+# FIVAEU_122285 Number of predicted TMRs: 0
+FIVAEU_122285	signal	1	36				
+FIVAEU_122285	outside	37	43				
+//
+# FIVAEU_31012 Length: 48
+# FIVAEU_31012 Number of predicted TMRs: 0
+FIVAEU_31012	signal	1	47				
+FIVAEU_31012	outside	48	48				
+//
+# FIVAEU_126567 Length: 40
+# FIVAEU_126567 Number of predicted TMRs: 0
+FIVAEU_126567	inside	1	40				
+//
+# FIVAEU_3996 Length: 39
+# FIVAEU_3996 Number of predicted TMRs: 0
+FIVAEU_3996	signal	1	37				
+FIVAEU_3996	outside	38	39				
+//
+# FIVAEU_45249 Length: 45
+# FIVAEU_45249 Number of predicted TMRs: 0
+FIVAEU_45249	signal	1	17				
+FIVAEU_45249	outside	18	45				
+//
+# FIVAEU_99272 Length: 37
+# FIVAEU_99272 Number of predicted TMRs: 0
+FIVAEU_99272	signal	1	25				
+FIVAEU_99272	outside	26	37				
+//
+# FIVAEU_51139 Length: 43
+# FIVAEU_51139 Number of predicted TMRs: 0
+FIVAEU_51139	signal	1	15				
+FIVAEU_51139	outside	16	43				
+//
+# FIVAEU_125515 Length: 42
+# FIVAEU_125515 Number of predicted TMRs: 0
+FIVAEU_125515	inside	1	42				
+//
+# FIVAEU_118398 Length: 32
+# FIVAEU_118398 Number of predicted TMRs: 0
+FIVAEU_118398	signal	1	30				
+FIVAEU_118398	outside	31	32				
+//
+# FIVAEU_92644 Length: 31
+# FIVAEU_92644 Number of predicted TMRs: 0
+FIVAEU_92644	signal	1	14				
+FIVAEU_92644	outside	15	31				
+//
+# FIVAEU_150791 Length: 43
+# FIVAEU_150791 Number of predicted TMRs: 0
+FIVAEU_150791	signal	1	10				
+FIVAEU_150791	outside	11	43				
+//
+# FIVAEU_49215 Length: 39
+# FIVAEU_49215 Number of predicted TMRs: 0
+FIVAEU_49215	inside	1	39				
+//
+# FIVAEU_131627 Length: 45
+# FIVAEU_131627 Number of predicted TMRs: 0
+FIVAEU_131627	inside	1	45				
+//
+# FIVAEU_30944 Length: 48
+# FIVAEU_30944 Number of predicted TMRs: 0
+FIVAEU_30944	signal	1	21				
+FIVAEU_30944	outside	22	48				
+//
+# FIVAEU_49124 Length: 48
+# FIVAEU_49124 Number of predicted TMRs: 0
+FIVAEU_49124	inside	1	48				
+//
+# FIVAEU_6658 Length: 43
+# FIVAEU_6658 Number of predicted TMRs: 0
+FIVAEU_6658	inside	1	43				
+//
+# FIVAEU_21313 Length: 42
+# FIVAEU_21313 Number of predicted TMRs: 0
+FIVAEU_21313	inside	1	42				
+//
+# FIVAEU_79099 Length: 44
+# FIVAEU_79099 Number of predicted TMRs: 0
+FIVAEU_79099	signal	1	32				
+FIVAEU_79099	outside	33	44				
+//
+# FIVAEU_79115 Length: 49
+# FIVAEU_79115 Number of predicted TMRs: 1
+FIVAEU_79115	outside	1	4				
+FIVAEU_79115	TMhelix	5	19				
+FIVAEU_79115	inside	20	49				
+//
+# FIVAEU_86675 Length: 39
+# FIVAEU_86675 Number of predicted TMRs: 0
+FIVAEU_86675	inside	1	39				
+//
+# FIVAEU_141393 Length: 39
+# FIVAEU_141393 Number of predicted TMRs: 0
+FIVAEU_141393	signal	1	20				
+FIVAEU_141393	outside	21	39				
+//
+# FIVAEU_118906 Length: 50
+# FIVAEU_118906 Number of predicted TMRs: 0
+FIVAEU_118906	inside	1	50				
+//
+# FIVAEU_77730 Length: 49
+# FIVAEU_77730 Number of predicted TMRs: 0
+FIVAEU_77730	signal	1	47				
+FIVAEU_77730	outside	48	49				
+//
+# FIVAEU_70716 Length: 46
+# FIVAEU_70716 Number of predicted TMRs: 0
+FIVAEU_70716	inside	1	46				
+//
+# FIVAEU_137415 Length: 46
+# FIVAEU_137415 Number of predicted TMRs: 0
+FIVAEU_137415	inside	1	46				
+//
+# FIVAEU_73750 Length: 42
+# FIVAEU_73750 Number of predicted TMRs: 0
+FIVAEU_73750	signal	1	38				
+FIVAEU_73750	outside	39	42				
+//
+# FIVAEU_58722 Length: 44
+# FIVAEU_58722 Number of predicted TMRs: 0
+FIVAEU_58722	inside	1	44				
+//
+# FIVAEU_31025 Length: 40
+# FIVAEU_31025 Number of predicted TMRs: 0
+FIVAEU_31025	signal	1	28				
+FIVAEU_31025	outside	29	40				
+//
+# FIVAEU_6660 Length: 48
+# FIVAEU_6660 Number of predicted TMRs: 0
+FIVAEU_6660	inside	1	48				
+//
+# FIVAEU_87363 Length: 40
+# FIVAEU_87363 Number of predicted TMRs: 0
+FIVAEU_87363	signal	1	38				
+FIVAEU_87363	outside	39	40				
+//
+# FIVAEU_134354 Length: 49
+# FIVAEU_134354 Number of predicted TMRs: 0
+FIVAEU_134354	inside	1	49				
+//
+# FIVAEU_146204 Length: 45
+# FIVAEU_146204 Number of predicted TMRs: 0
+FIVAEU_146204	inside	1	45				
+//
+# FIVAEU_162149 Length: 50
+# FIVAEU_162149 Number of predicted TMRs: 0
+FIVAEU_162149	signal	1	30				
+FIVAEU_162149	outside	31	50				
+//
+# FIVAEU_118030 Length: 44
+# FIVAEU_118030 Number of predicted TMRs: 0
+FIVAEU_118030	inside	1	44				
+//
+# FIVAEU_56783 Length: 50
+# FIVAEU_56783 Number of predicted TMRs: 0
+FIVAEU_56783	inside	1	50				
+//
+# FIVAEU_15449 Length: 48
+# FIVAEU_15449 Number of predicted TMRs: 0
+FIVAEU_15449	inside	1	48				
+//
+# FIVAEU_81179 Length: 45
+# FIVAEU_81179 Number of predicted TMRs: 0
+FIVAEU_81179	inside	1	45				
+//
+# FIVAEU_115396 Length: 41
+# FIVAEU_115396 Number of predicted TMRs: 0
+FIVAEU_115396	inside	1	41				
+//
+# FIVAEU_168884 Length: 48
+# FIVAEU_168884 Number of predicted TMRs: 0
+FIVAEU_168884	inside	1	48				
+//
+# FIVAEU_45201 Length: 45
+# FIVAEU_45201 Number of predicted TMRs: 0
+FIVAEU_45201	inside	1	45				
+//
+# FIVAEU_92946 Length: 46
+# FIVAEU_92946 Number of predicted TMRs: 0
+FIVAEU_92946	signal	1	39				
+FIVAEU_92946	outside	40	46				
+//
+# FIVAEU_19682 Length: 48
+# FIVAEU_19682 Number of predicted TMRs: 0
+FIVAEU_19682	signal	1	28				
+FIVAEU_19682	outside	29	48				
+//
+# FIVAEU_88781 Length: 44
+# FIVAEU_88781 Number of predicted TMRs: 0
+FIVAEU_88781	signal	1	19				
+FIVAEU_88781	outside	20	44				
+//
+# FIVAEU_84573 Length: 27
+# FIVAEU_84573 Number of predicted TMRs: 0
+FIVAEU_84573	signal	1	23				
+FIVAEU_84573	outside	24	27				
+//
+# FIVAEU_34821 Length: 45
+# FIVAEU_34821 Number of predicted TMRs: 0
+FIVAEU_34821	inside	1	45				
+//
+# FIVAEU_15080 Length: 48
+# FIVAEU_15080 Number of predicted TMRs: 0
+FIVAEU_15080	inside	1	48				
+//
+# FIVAEU_68465 Length: 47
+# FIVAEU_68465 Number of predicted TMRs: 0
+FIVAEU_68465	signal	1	39				
+FIVAEU_68465	outside	40	47				
+//
+# FIVAEU_23312 Length: 50
+# FIVAEU_23312 Number of predicted TMRs: 0
+FIVAEU_23312	inside	1	50				
+//
+# FIVAEU_146124 Length: 50
+# FIVAEU_146124 Number of predicted TMRs: 0
+FIVAEU_146124	signal	1	49				
+FIVAEU_146124	periplasm	50	50				
+//
+# FIVAEU_130525 Length: 44
+# FIVAEU_130525 Number of predicted TMRs: 0
+FIVAEU_130525	inside	1	44				
+//
+# FIVAEU_47680 Length: 50
+# FIVAEU_47680 Number of predicted TMRs: 0
+FIVAEU_47680	inside	1	50				
+//
+# FIVAEU_31260 Length: 35
+# FIVAEU_31260 Number of predicted TMRs: 0
+FIVAEU_31260	signal	1	22				
+FIVAEU_31260	outside	23	35				
+//
+# FIVAEU_167023 Length: 35
+# FIVAEU_167023 Number of predicted TMRs: 0
+FIVAEU_167023	signal	1	21				
+FIVAEU_167023	outside	22	35				
+//
+# FIVAEU_143650 Length: 38
+# FIVAEU_143650 Number of predicted TMRs: 0
+FIVAEU_143650	signal	1	33				
+FIVAEU_143650	outside	34	38				
+//
+# FIVAEU_128231 Length: 36
+# FIVAEU_128231 Number of predicted TMRs: 0
+FIVAEU_128231	signal	1	18				
+FIVAEU_128231	outside	19	36				
+//
+# FIVAEU_104104 Length: 36
+# FIVAEU_104104 Number of predicted TMRs: 0
+FIVAEU_104104	inside	1	36				
+//
+# FIVAEU_32852 Length: 50
+# FIVAEU_32852 Number of predicted TMRs: 0
+FIVAEU_32852	inside	1	50				
+//
+# FIVAEU_1034 Length: 43
+# FIVAEU_1034 Number of predicted TMRs: 0
+FIVAEU_1034	inside	1	43				
+//
+# FIVAEU_91050 Length: 46
+# FIVAEU_91050 Number of predicted TMRs: 0
+FIVAEU_91050	inside	1	46				
+//
+# FIVAEU_86382 Length: 43
+# FIVAEU_86382 Number of predicted TMRs: 0
+FIVAEU_86382	inside	1	43				
+//
+# FIVAEU_116430 Length: 48
+# FIVAEU_116430 Number of predicted TMRs: 0
+FIVAEU_116430	inside	1	48				
+//
+# FIVAEU_80343 Length: 49
+# FIVAEU_80343 Number of predicted TMRs: 0
+FIVAEU_80343	signal	1	32				
+FIVAEU_80343	outside	33	49				
+//
+# FIVAEU_60367 Length: 46
+# FIVAEU_60367 Number of predicted TMRs: 0
+FIVAEU_60367	signal	1	34				
+FIVAEU_60367	outside	35	46				
+//
+# FIVAEU_33352 Length: 45
+# FIVAEU_33352 Number of predicted TMRs: 0
+FIVAEU_33352	inside	1	45				
+//
+# FIVAEU_114206 Length: 46
+# FIVAEU_114206 Number of predicted TMRs: 0
+FIVAEU_114206	inside	1	46				
+//
+# FIVAEU_131712 Length: 39
+# FIVAEU_131712 Number of predicted TMRs: 0
+FIVAEU_131712	signal	1	24				
+FIVAEU_131712	outside	25	39				
+//
+# FIVAEU_161638 Length: 34
+# FIVAEU_161638 Number of predicted TMRs: 0
+FIVAEU_161638	signal	1	15				
+FIVAEU_161638	outside	16	34				
+//
+# FIVAEU_126500 Length: 48
+# FIVAEU_126500 Number of predicted TMRs: 0
+FIVAEU_126500	inside	1	48				
+//
+# FIVAEU_146946 Length: 49
+# FIVAEU_146946 Number of predicted TMRs: 1
+FIVAEU_146946	inside	1	26				
+FIVAEU_146946	TMhelix	27	46				
+FIVAEU_146946	outside	47	49				
+//
+# FIVAEU_171945 Length: 46
+# FIVAEU_171945 Number of predicted TMRs: 0
+FIVAEU_171945	inside	1	46				
+//
+# FIVAEU_164064 Length: 47
+# FIVAEU_164064 Number of predicted TMRs: 0
+FIVAEU_164064	inside	1	47				
+//
+# FIVAEU_108858 Length: 49
+# FIVAEU_108858 Number of predicted TMRs: 0
+FIVAEU_108858	signal	1	47				
+FIVAEU_108858	outside	48	49				
+//
+# FIVAEU_127107 Length: 42
+# FIVAEU_127107 Number of predicted TMRs: 0
+FIVAEU_127107	inside	1	42				
+//
+# FIVAEU_6941 Length: 39
+# FIVAEU_6941 Number of predicted TMRs: 0
+FIVAEU_6941	inside	1	39				
+//
+# FIVAEU_132590 Length: 42
+# FIVAEU_132590 Number of predicted TMRs: 0
+FIVAEU_132590	signal	1	40				
+FIVAEU_132590	outside	41	42				
+//
+# FIVAEU_168774 Length: 40
+# FIVAEU_168774 Number of predicted TMRs: 0
+FIVAEU_168774	signal	1	24				
+FIVAEU_168774	outside	25	40				
+//
+# FIVAEU_92561 Length: 30
+# FIVAEU_92561 Number of predicted TMRs: 0
+FIVAEU_92561	signal	1	24				
+FIVAEU_92561	outside	25	30				
+//
+# FIVAEU_142323 Length: 42
+# FIVAEU_142323 Number of predicted TMRs: 0
+FIVAEU_142323	inside	1	42				
+//
+# FIVAEU_148286 Length: 43
+# FIVAEU_148286 Number of predicted TMRs: 0
+FIVAEU_148286	inside	1	43				
+//
+# FIVAEU_30875 Length: 40
+# FIVAEU_30875 Number of predicted TMRs: 0
+FIVAEU_30875	signal	1	39				
+FIVAEU_30875	outside	40	40				
+//
+# FIVAEU_31771 Length: 39
+# FIVAEU_31771 Number of predicted TMRs: 0
+FIVAEU_31771	inside	1	39				
+//
+# FIVAEU_100473 Length: 43
+# FIVAEU_100473 Number of predicted TMRs: 0
+FIVAEU_100473	inside	1	43				
+//
+# FIVAEU_35083 Length: 45
+# FIVAEU_35083 Number of predicted TMRs: 0
+FIVAEU_35083	inside	1	45				
+//
+# FIVAEU_139850 Length: 46
+# FIVAEU_139850 Number of predicted TMRs: 0
+FIVAEU_139850	inside	1	46				
+//
+# FIVAEU_2153 Length: 50
+# FIVAEU_2153 Number of predicted TMRs: 0
+FIVAEU_2153	inside	1	50				
+//
+# FIVAEU_70236 Length: 37
+# FIVAEU_70236 Number of predicted TMRs: 0
+FIVAEU_70236	signal	1	16				
+FIVAEU_70236	outside	17	37				
+//
+# FIVAEU_31518 Length: 44
+# FIVAEU_31518 Number of predicted TMRs: 0
+FIVAEU_31518	inside	1	44				
+//
+# FIVAEU_92036 Length: 48
+# FIVAEU_92036 Number of predicted TMRs: 0
+FIVAEU_92036	outside	1	48				
+//
+# FIVAEU_163087 Length: 45
+# FIVAEU_163087 Number of predicted TMRs: 0
+FIVAEU_163087	outside	1	45				
+//
+# FIVAEU_23202 Length: 42
+# FIVAEU_23202 Number of predicted TMRs: 0
+FIVAEU_23202	inside	1	42				
+//
+# FIVAEU_2121 Length: 50
+# FIVAEU_2121 Number of predicted TMRs: 0
+FIVAEU_2121	inside	1	50				
+//
+# FIVAEU_163194 Length: 42
+# FIVAEU_163194 Number of predicted TMRs: 0
+FIVAEU_163194	inside	1	42				
+//
+# FIVAEU_22107 Length: 49
+# FIVAEU_22107 Number of predicted TMRs: 1
+FIVAEU_22107	inside	1	5				
+FIVAEU_22107	TMhelix	6	20				
+FIVAEU_22107	outside	21	49				
+//
+# FIVAEU_108446 Length: 44
+# FIVAEU_108446 Number of predicted TMRs: 0
+FIVAEU_108446	signal	1	25				
+FIVAEU_108446	outside	26	44				
+//
+# FIVAEU_122215 Length: 38
+# FIVAEU_122215 Number of predicted TMRs: 0
+FIVAEU_122215	inside	1	38				
+//
+# FIVAEU_166554 Length: 39
+# FIVAEU_166554 Number of predicted TMRs: 0
+FIVAEU_166554	signal	1	17				
+FIVAEU_166554	outside	18	39				
+//
+# FIVAEU_129758 Length: 46
+# FIVAEU_129758 Number of predicted TMRs: 0
+FIVAEU_129758	signal	1	31				
+FIVAEU_129758	outside	32	46				
+//
+# FIVAEU_58932 Length: 41
+# FIVAEU_58932 Number of predicted TMRs: 0
+FIVAEU_58932	signal	1	13				
+FIVAEU_58932	outside	14	41				
+//
+# FIVAEU_8187 Length: 40
+# FIVAEU_8187 Number of predicted TMRs: 0
+FIVAEU_8187	inside	1	40				
+//
+# FIVAEU_42590 Length: 40
+# FIVAEU_42590 Number of predicted TMRs: 0
+FIVAEU_42590	inside	1	40				
+//
+# FIVAEU_116850 Length: 47
+# FIVAEU_116850 Number of predicted TMRs: 0
+FIVAEU_116850	inside	1	47				
+//
+# FIVAEU_23776 Length: 40
+# FIVAEU_23776 Number of predicted TMRs: 0
+FIVAEU_23776	signal	1	31				
+FIVAEU_23776	outside	32	40				
+//
+# FIVAEU_156224 Length: 49
+# FIVAEU_156224 Number of predicted TMRs: 0
+FIVAEU_156224	inside	1	49				
+//
+# FIVAEU_119988 Length: 43
+# FIVAEU_119988 Number of predicted TMRs: 0
+FIVAEU_119988	signal	1	23				
+FIVAEU_119988	outside	24	43				
+//
+# FIVAEU_103510 Length: 34
+# FIVAEU_103510 Number of predicted TMRs: 0
+FIVAEU_103510	signal	1	33				
+FIVAEU_103510	outside	34	34				
+//
+# FIVAEU_163603 Length: 39
+# FIVAEU_163603 Number of predicted TMRs: 0
+FIVAEU_163603	signal	1	21				
+FIVAEU_163603	outside	22	39				
+//
+# FIVAEU_58706 Length: 48
+# FIVAEU_58706 Number of predicted TMRs: 0
+FIVAEU_58706	inside	1	48				
+//
+# FIVAEU_130818 Length: 41
+# FIVAEU_130818 Number of predicted TMRs: 0
+FIVAEU_130818	signal	1	13				
+FIVAEU_130818	outside	14	41				
+//
+# FIVAEU_146915 Length: 46
+# FIVAEU_146915 Number of predicted TMRs: 0
+FIVAEU_146915	inside	1	46				
+//
+# FIVAEU_119883 Length: 39
+# FIVAEU_119883 Number of predicted TMRs: 0
+FIVAEU_119883	signal	1	27				
+FIVAEU_119883	outside	28	39				
+//
+# FIVAEU_43645 Length: 39
+# FIVAEU_43645 Number of predicted TMRs: 0
+FIVAEU_43645	inside	1	39				
+//
+# FIVAEU_128003 Length: 49
+# FIVAEU_128003 Number of predicted TMRs: 0
+FIVAEU_128003	inside	1	49				
+//
+# FIVAEU_157914 Length: 44
+# FIVAEU_157914 Number of predicted TMRs: 0
+FIVAEU_157914	inside	1	44				
+//
+# FIVAEU_31927 Length: 45
+# FIVAEU_31927 Number of predicted TMRs: 0
+FIVAEU_31927	signal	1	41				
+FIVAEU_31927	outside	42	45				
+//
+# FIVAEU_65139 Length: 45
+# FIVAEU_65139 Number of predicted TMRs: 0
+FIVAEU_65139	inside	1	45				
+//
+# FIVAEU_135282 Length: 43
+# FIVAEU_135282 Number of predicted TMRs: 0
+FIVAEU_135282	signal	1	32				
+FIVAEU_135282	outside	33	43				
+//
+# FIVAEU_30788 Length: 43
+# FIVAEU_30788 Number of predicted TMRs: 0
+FIVAEU_30788	signal	1	20				
+FIVAEU_30788	outside	21	43				
+//
+# FIVAEU_95545 Length: 40
+# FIVAEU_95545 Number of predicted TMRs: 0
+FIVAEU_95545	inside	1	40				
+//
+# FIVAEU_48529 Length: 40
+# FIVAEU_48529 Number of predicted TMRs: 0
+FIVAEU_48529	signal	1	12				
+FIVAEU_48529	outside	13	40				
+//
+# FIVAEU_33052 Length: 50
+# FIVAEU_33052 Number of predicted TMRs: 0
+FIVAEU_33052	inside	1	50				
+//
+# FIVAEU_68847 Length: 48
+# FIVAEU_68847 Number of predicted TMRs: 0
+FIVAEU_68847	outside	1	48				
+//
+# FIVAEU_120842 Length: 39
+# FIVAEU_120842 Number of predicted TMRs: 0
+FIVAEU_120842	inside	1	39				
+//
+# FIVAEU_103547 Length: 47
+# FIVAEU_103547 Number of predicted TMRs: 0
+FIVAEU_103547	signal	1	21				
+FIVAEU_103547	outside	22	47				
+//
+# FIVAEU_128988 Length: 49
+# FIVAEU_128988 Number of predicted TMRs: 0
+FIVAEU_128988	inside	1	49				
+//
+# FIVAEU_143485 Length: 43
+# FIVAEU_143485 Number of predicted TMRs: 0
+FIVAEU_143485	inside	1	43				
+//
+# FIVAEU_61634 Length: 45
+# FIVAEU_61634 Number of predicted TMRs: 0
+FIVAEU_61634	inside	1	45				
+//
+# FIVAEU_23996 Length: 44
+# FIVAEU_23996 Number of predicted TMRs: 0
+FIVAEU_23996	inside	1	44				
+//
+# FIVAEU_132394 Length: 46
+# FIVAEU_132394 Number of predicted TMRs: 0
+FIVAEU_132394	inside	1	46				
+//
+# FIVAEU_111254 Length: 50
+# FIVAEU_111254 Number of predicted TMRs: 0
+FIVAEU_111254	signal	1	49				
+FIVAEU_111254	outside	50	50				
+//
+# FIVAEU_20723 Length: 49
+# FIVAEU_20723 Number of predicted TMRs: 0
+FIVAEU_20723	inside	1	49				
+//
+# FIVAEU_122840 Length: 50
+# FIVAEU_122840 Number of predicted TMRs: 0
+FIVAEU_122840	inside	1	50				
+//
+# FIVAEU_44291 Length: 46
+# FIVAEU_44291 Number of predicted TMRs: 0
+FIVAEU_44291	signal	1	12				
+FIVAEU_44291	outside	13	46				
+//
+# FIVAEU_116043 Length: 48
+# FIVAEU_116043 Number of predicted TMRs: 0
+FIVAEU_116043	inside	1	48				
+//
+# FIVAEU_47711 Length: 49
+# FIVAEU_47711 Number of predicted TMRs: 0
+FIVAEU_47711	inside	1	49				
+//
+# FIVAEU_30877 Length: 49
+# FIVAEU_30877 Number of predicted TMRs: 0
+FIVAEU_30877	signal	1	26				
+FIVAEU_30877	outside	27	49				
+//
+# FIVAEU_41936 Length: 49
+# FIVAEU_41936 Number of predicted TMRs: 0
+FIVAEU_41936	inside	1	49				
+//
+# FIVAEU_108917 Length: 49
+# FIVAEU_108917 Number of predicted TMRs: 0
+FIVAEU_108917	inside	1	49				
+//
+# FIVAEU_115920 Length: 40
+# FIVAEU_115920 Number of predicted TMRs: 0
+FIVAEU_115920	signal	1	37				
+FIVAEU_115920	outside	38	40				
+//
+# FIVAEU_90769 Length: 45
+# FIVAEU_90769 Number of predicted TMRs: 0
+FIVAEU_90769	inside	1	45				
+//
+# FIVAEU_115036 Length: 49
+# FIVAEU_115036 Number of predicted TMRs: 0
+FIVAEU_115036	signal	1	12				
+FIVAEU_115036	outside	13	49				
+//
+# FIVAEU_28284 Length: 44
+# FIVAEU_28284 Number of predicted TMRs: 0
+FIVAEU_28284	signal	1	24				
+FIVAEU_28284	outside	25	44				
+//
+# FIVAEU_167546 Length: 48
+# FIVAEU_167546 Number of predicted TMRs: 0
+FIVAEU_167546	inside	1	48				
+//
+# FIVAEU_169731 Length: 45
+# FIVAEU_169731 Number of predicted TMRs: 0
+FIVAEU_169731	signal	1	29				
+FIVAEU_169731	outside	30	45				
+//
+# FIVAEU_19294 Length: 38
+# FIVAEU_19294 Number of predicted TMRs: 0
+FIVAEU_19294	inside	1	38				
+//
+# FIVAEU_155899 Length: 50
+# FIVAEU_155899 Number of predicted TMRs: 0
+FIVAEU_155899	inside	1	50				
+//
+# FIVAEU_67519 Length: 43
+# FIVAEU_67519 Number of predicted TMRs: 0
+FIVAEU_67519	signal	1	11				
+FIVAEU_67519	outside	12	43				
+//
+# FIVAEU_9705 Length: 43
+# FIVAEU_9705 Number of predicted TMRs: 0
+FIVAEU_9705	inside	1	43				
+//
+# FIVAEU_3173 Length: 43
+# FIVAEU_3173 Number of predicted TMRs: 0
+FIVAEU_3173	signal	1	26				
+FIVAEU_3173	outside	27	43				
+//
+# FIVAEU_146257 Length: 41
+# FIVAEU_146257 Number of predicted TMRs: 0
+FIVAEU_146257	signal	1	38				
+FIVAEU_146257	outside	39	41				
+//
+# FIVAEU_23490 Length: 40
+# FIVAEU_23490 Number of predicted TMRs: 0
+FIVAEU_23490	signal	1	38				
+FIVAEU_23490	outside	39	40				
+//
+# FIVAEU_155654 Length: 45
+# FIVAEU_155654 Number of predicted TMRs: 0
+FIVAEU_155654	inside	1	45				
+//
+# FIVAEU_108590 Length: 43
+# FIVAEU_108590 Number of predicted TMRs: 0
+FIVAEU_108590	inside	1	43				
+//
+# FIVAEU_170182 Length: 42
+# FIVAEU_170182 Number of predicted TMRs: 0
+FIVAEU_170182	inside	1	42				
+//
+# FIVAEU_143677 Length: 44
+# FIVAEU_143677 Number of predicted TMRs: 0
+FIVAEU_143677	signal	1	33				
+FIVAEU_143677	outside	34	44				
+//
+# FIVAEU_118474 Length: 43
+# FIVAEU_118474 Number of predicted TMRs: 0
+FIVAEU_118474	signal	1	37				
+FIVAEU_118474	outside	38	43				
+//
+# FIVAEU_147381 Length: 49
+# FIVAEU_147381 Number of predicted TMRs: 0
+FIVAEU_147381	inside	1	49				
+//
+# FIVAEU_139444 Length: 42
+# FIVAEU_139444 Number of predicted TMRs: 0
+FIVAEU_139444	signal	1	40				
+FIVAEU_139444	outside	41	42				
+//
+# FIVAEU_9252 Length: 47
+# FIVAEU_9252 Number of predicted TMRs: 0
+FIVAEU_9252	inside	1	47				
+//
+# FIVAEU_113181 Length: 38
+# FIVAEU_113181 Number of predicted TMRs: 0
+FIVAEU_113181	signal	1	20				
+FIVAEU_113181	outside	21	38				
+//
+# FIVAEU_127085 Length: 40
+# FIVAEU_127085 Number of predicted TMRs: 0
+FIVAEU_127085	signal	1	10				
+FIVAEU_127085	outside	11	40				
+//
+# FIVAEU_103965 Length: 43
+# FIVAEU_103965 Number of predicted TMRs: 0
+FIVAEU_103965	outside	1	43				
+//
+# FIVAEU_14477 Length: 47
+# FIVAEU_14477 Number of predicted TMRs: 0
+FIVAEU_14477	signal	1	19				
+FIVAEU_14477	outside	20	47				
+//
+# FIVAEU_109367 Length: 41
+# FIVAEU_109367 Number of predicted TMRs: 0
+FIVAEU_109367	signal	1	29				
+FIVAEU_109367	outside	30	41				
+//
+# FIVAEU_125389 Length: 41
+# FIVAEU_125389 Number of predicted TMRs: 0
+FIVAEU_125389	inside	1	41				
+//
+# FIVAEU_19885 Length: 45
+# FIVAEU_19885 Number of predicted TMRs: 0
+FIVAEU_19885	inside	1	45				
+//
+# FIVAEU_134585 Length: 50
+# FIVAEU_134585 Number of predicted TMRs: 0
+FIVAEU_134585	inside	1	50				
+//
+# FIVAEU_138684 Length: 49
+# FIVAEU_138684 Number of predicted TMRs: 0
+FIVAEU_138684	outside	1	49				
+//
+# FIVAEU_116646 Length: 49
+# FIVAEU_116646 Number of predicted TMRs: 0
+FIVAEU_116646	inside	1	49				
+//
+# FIVAEU_78531 Length: 48
+# FIVAEU_78531 Number of predicted TMRs: 0
+FIVAEU_78531	inside	1	48				
+//
+# FIVAEU_69374 Length: 50
+# FIVAEU_69374 Number of predicted TMRs: 0
+FIVAEU_69374	signal	1	49				
+FIVAEU_69374	outside	50	50				
+//
+# FIVAEU_122127 Length: 39
+# FIVAEU_122127 Number of predicted TMRs: 0
+FIVAEU_122127	inside	1	39				
+//
+# FIVAEU_121307 Length: 38
+# FIVAEU_121307 Number of predicted TMRs: 0
+FIVAEU_121307	inside	1	38				
+//
+# FIVAEU_115529 Length: 48
+# FIVAEU_115529 Number of predicted TMRs: 0
+FIVAEU_115529	signal	1	20				
+FIVAEU_115529	outside	21	48				
+//
+# FIVAEU_124031 Length: 39
+# FIVAEU_124031 Number of predicted TMRs: 0
+FIVAEU_124031	outside	1	39				
+//
+# FIVAEU_38334 Length: 48
+# FIVAEU_38334 Number of predicted TMRs: 0
+FIVAEU_38334	inside	1	48				
+//
+# FIVAEU_138233 Length: 47
+# FIVAEU_138233 Number of predicted TMRs: 0
+FIVAEU_138233	inside	1	47				
+//
+# FIVAEU_94627 Length: 44
+# FIVAEU_94627 Number of predicted TMRs: 0
+FIVAEU_94627	outside	1	44				
+//
+# FIVAEU_40601 Length: 28
+# FIVAEU_40601 Number of predicted TMRs: 0
+FIVAEU_40601	inside	1	28				
+//
+# FIVAEU_113093 Length: 48
+# FIVAEU_113093 Number of predicted TMRs: 0
+FIVAEU_113093	signal	1	42				
+FIVAEU_113093	outside	43	48				
+//
+# FIVAEU_7996 Length: 48
+# FIVAEU_7996 Number of predicted TMRs: 0
+FIVAEU_7996	inside	1	48				
+//
+# FIVAEU_161148 Length: 45
+# FIVAEU_161148 Number of predicted TMRs: 0
+FIVAEU_161148	outside	1	45				
+//
+# FIVAEU_15442 Length: 47
+# FIVAEU_15442 Number of predicted TMRs: 0
+FIVAEU_15442	inside	1	47				
+//
+# FIVAEU_150324 Length: 47
+# FIVAEU_150324 Number of predicted TMRs: 0
+FIVAEU_150324	inside	1	47				
+//
+# FIVAEU_13886 Length: 43
+# FIVAEU_13886 Number of predicted TMRs: 0
+FIVAEU_13886	inside	1	43				
+//
+# FIVAEU_130492 Length: 43
+# FIVAEU_130492 Number of predicted TMRs: 0
+FIVAEU_130492	inside	1	43				
+//
+# FIVAEU_14876 Length: 43
+# FIVAEU_14876 Number of predicted TMRs: 0
+FIVAEU_14876	inside	1	43				
+//
+# FIVAEU_40556 Length: 47
+# FIVAEU_40556 Number of predicted TMRs: 0
+FIVAEU_40556	inside	1	47				
+//
+# FIVAEU_36450 Length: 45
+# FIVAEU_36450 Number of predicted TMRs: 0
+FIVAEU_36450	signal	1	23				
+FIVAEU_36450	outside	24	45				
+//
+# FIVAEU_15184 Length: 49
+# FIVAEU_15184 Number of predicted TMRs: 0
+FIVAEU_15184	inside	1	49				
+//
+# FIVAEU_120638 Length: 37
+# FIVAEU_120638 Number of predicted TMRs: 0
+FIVAEU_120638	signal	1	25				
+FIVAEU_120638	outside	26	37				
+//
+# FIVAEU_135588 Length: 39
+# FIVAEU_135588 Number of predicted TMRs: 0
+FIVAEU_135588	signal	1	10				
+FIVAEU_135588	outside	11	39				
+//
+# FIVAEU_6939 Length: 50
+# FIVAEU_6939 Number of predicted TMRs: 0
+FIVAEU_6939	inside	1	50				
+//
+# FIVAEU_36468 Length: 39
+# FIVAEU_36468 Number of predicted TMRs: 0
+FIVAEU_36468	signal	1	35				
+FIVAEU_36468	outside	36	39				
+//
+# FIVAEU_169082 Length: 49
+# FIVAEU_169082 Number of predicted TMRs: 0
+FIVAEU_169082	inside	1	49				
+//
+# FIVAEU_169071 Length: 46
+# FIVAEU_169071 Number of predicted TMRs: 0
+FIVAEU_169071	inside	1	46				
+//
+# FIVAEU_154395 Length: 30
+# FIVAEU_154395 Number of predicted TMRs: 0
+FIVAEU_154395	signal	1	29				
+FIVAEU_154395	outside	30	30				
+//
+# FIVAEU_71121 Length: 49
+# FIVAEU_71121 Number of predicted TMRs: 0
+FIVAEU_71121	signal	1	10				
+FIVAEU_71121	outside	11	49				
+//
+# FIVAEU_5135 Length: 46
+# FIVAEU_5135 Number of predicted TMRs: 0
+FIVAEU_5135	inside	1	46				
+//
+# FIVAEU_92784 Length: 43
+# FIVAEU_92784 Number of predicted TMRs: 0
+FIVAEU_92784	signal	1	37				
+FIVAEU_92784	outside	38	43				
+//
+# FIVAEU_42781 Length: 43
+# FIVAEU_42781 Number of predicted TMRs: 0
+FIVAEU_42781	inside	1	43				
+//
+# FIVAEU_75125 Length: 50
+# FIVAEU_75125 Number of predicted TMRs: 0
+FIVAEU_75125	signal	1	43				
+FIVAEU_75125	outside	44	50				
+//
+# FIVAEU_112856 Length: 48
+# FIVAEU_112856 Number of predicted TMRs: 0
+FIVAEU_112856	inside	1	48				
+//
+# FIVAEU_30771 Length: 30
+# FIVAEU_30771 Number of predicted TMRs: 0
+FIVAEU_30771	signal	1	29				
+FIVAEU_30771	outside	30	30				
+//
+# FIVAEU_3554 Length: 47
+# FIVAEU_3554 Number of predicted TMRs: 0
+FIVAEU_3554	inside	1	47				
+//
+# FIVAEU_89401 Length: 43
+# FIVAEU_89401 Number of predicted TMRs: 0
+FIVAEU_89401	inside	1	43				
+//
+# FIVAEU_89504 Length: 50
+# FIVAEU_89504 Number of predicted TMRs: 0
+FIVAEU_89504	inside	1	50				
+//
+# FIVAEU_22691 Length: 50
+# FIVAEU_22691 Number of predicted TMRs: 0
+FIVAEU_22691	inside	1	50				
+//
+# FIVAEU_42685 Length: 37
+# FIVAEU_42685 Number of predicted TMRs: 0
+FIVAEU_42685	inside	1	37				
+//
+# FIVAEU_149041 Length: 49
+# FIVAEU_149041 Number of predicted TMRs: 0
+FIVAEU_149041	inside	1	49				
+//
+# FIVAEU_118829 Length: 39
+# FIVAEU_118829 Number of predicted TMRs: 0
+FIVAEU_118829	signal	1	23				
+FIVAEU_118829	outside	24	39				
+//
+# FIVAEU_21280 Length: 48
+# FIVAEU_21280 Number of predicted TMRs: 0
+FIVAEU_21280	signal	1	24				
+FIVAEU_21280	outside	25	48				
+//
+# FIVAEU_23249 Length: 47
+# FIVAEU_23249 Number of predicted TMRs: 0
+FIVAEU_23249	inside	1	47				
+//
+# FIVAEU_113551 Length: 50
+# FIVAEU_113551 Number of predicted TMRs: 0
+FIVAEU_113551	signal	1	40				
+FIVAEU_113551	outside	41	50				
+//
+# FIVAEU_11211 Length: 47
+# FIVAEU_11211 Number of predicted TMRs: 0
+FIVAEU_11211	inside	1	47				
+//
+# FIVAEU_32918 Length: 44
+# FIVAEU_32918 Number of predicted TMRs: 0
+FIVAEU_32918	inside	1	44				
+//
+# FIVAEU_104001 Length: 32
+# FIVAEU_104001 Number of predicted TMRs: 0
+FIVAEU_104001	inside	1	32				
+//
+# FIVAEU_73076 Length: 41
+# FIVAEU_73076 Number of predicted TMRs: 0
+FIVAEU_73076	signal	1	24				
+FIVAEU_73076	outside	25	41				
+//
+# FIVAEU_120605 Length: 48
+# FIVAEU_120605 Number of predicted TMRs: 0
+FIVAEU_120605	inside	1	48				
+//
+# FIVAEU_154453 Length: 44
+# FIVAEU_154453 Number of predicted TMRs: 0
+FIVAEU_154453	inside	1	44				
+//
+# FIVAEU_157389 Length: 45
+# FIVAEU_157389 Number of predicted TMRs: 0
+FIVAEU_157389	inside	1	45				
+//
+# FIVAEU_88850 Length: 44
+# FIVAEU_88850 Number of predicted TMRs: 0
+FIVAEU_88850	inside	1	44				
+//
+# FIVAEU_68699 Length: 40
+# FIVAEU_68699 Number of predicted TMRs: 0
+FIVAEU_68699	inside	1	40				
+//
+# FIVAEU_94629 Length: 50
+# FIVAEU_94629 Number of predicted TMRs: 0
+FIVAEU_94629	inside	1	50				
+//
+# FIVAEU_143556 Length: 38
+# FIVAEU_143556 Number of predicted TMRs: 0
+FIVAEU_143556	signal	1	37				
+FIVAEU_143556	outside	38	38				
+//
+# FIVAEU_24146 Length: 44
+# FIVAEU_24146 Number of predicted TMRs: 0
+FIVAEU_24146	inside	1	44				
+//
+# FIVAEU_85647 Length: 43
+# FIVAEU_85647 Number of predicted TMRs: 0
+FIVAEU_85647	signal	1	42				
+FIVAEU_85647	outside	43	43				
+//
+# FIVAEU_45953 Length: 50
+# FIVAEU_45953 Number of predicted TMRs: 0
+FIVAEU_45953	inside	1	50				
+//
+# FIVAEU_147302 Length: 46
+# FIVAEU_147302 Number of predicted TMRs: 0
+FIVAEU_147302	signal	1	29				
+FIVAEU_147302	outside	30	46				
+//
+# FIVAEU_113318 Length: 45
+# FIVAEU_113318 Number of predicted TMRs: 0
+FIVAEU_113318	inside	1	45				
+//
+# FIVAEU_143278 Length: 43
+# FIVAEU_143278 Number of predicted TMRs: 0
+FIVAEU_143278	inside	1	43				
+//
+# FIVAEU_149570 Length: 38
+# FIVAEU_149570 Number of predicted TMRs: 0
+FIVAEU_149570	inside	1	38				
+//
+# FIVAEU_33518 Length: 26
+# FIVAEU_33518 Number of predicted TMRs: 0
+FIVAEU_33518	inside	1	26				
+//
+# FIVAEU_57146 Length: 28
+# FIVAEU_57146 Number of predicted TMRs: 0
+FIVAEU_57146	inside	1	28				
+//
+# FIVAEU_123128 Length: 48
+# FIVAEU_123128 Number of predicted TMRs: 0
+FIVAEU_123128	signal	1	44				
+FIVAEU_123128	outside	45	48				
+//
+# FIVAEU_29915 Length: 36
+# FIVAEU_29915 Number of predicted TMRs: 0
+FIVAEU_29915	inside	1	36				
+//
+# FIVAEU_66247 Length: 48
+# FIVAEU_66247 Number of predicted TMRs: 0
+FIVAEU_66247	signal	1	23				
+FIVAEU_66247	outside	24	48				
+//
+# FIVAEU_89880 Length: 47
+# FIVAEU_89880 Number of predicted TMRs: 0
+FIVAEU_89880	inside	1	47				
+//
+# FIVAEU_34031 Length: 43
+# FIVAEU_34031 Number of predicted TMRs: 0
+FIVAEU_34031	inside	1	43				
+//
+# FIVAEU_7064 Length: 49
+# FIVAEU_7064 Number of predicted TMRs: 0
+FIVAEU_7064	inside	1	49				
+//
+# FIVAEU_170438 Length: 46
+# FIVAEU_170438 Number of predicted TMRs: 0
+FIVAEU_170438	inside	1	46				
+//
+# FIVAEU_94438 Length: 50
+# FIVAEU_94438 Number of predicted TMRs: 0
+FIVAEU_94438	inside	1	50				
+//
+# FIVAEU_99100 Length: 43
+# FIVAEU_99100 Number of predicted TMRs: 0
+FIVAEU_99100	inside	1	43				
+//
+# FIVAEU_16295 Length: 37
+# FIVAEU_16295 Number of predicted TMRs: 0
+FIVAEU_16295	signal	1	32				
+FIVAEU_16295	outside	33	37				
+//
+# FIVAEU_16840 Length: 44
+# FIVAEU_16840 Number of predicted TMRs: 0
+FIVAEU_16840	signal	1	35				
+FIVAEU_16840	outside	36	44				
+//
+# FIVAEU_32916 Length: 33
+# FIVAEU_32916 Number of predicted TMRs: 0
+FIVAEU_32916	signal	1	25				
+FIVAEU_32916	outside	26	33				
+//
+# FIVAEU_162014 Length: 46
+# FIVAEU_162014 Number of predicted TMRs: 0
+FIVAEU_162014	signal	1	11				
+FIVAEU_162014	outside	12	46				
+//
+# FIVAEU_168095 Length: 46
+# FIVAEU_168095 Number of predicted TMRs: 0
+FIVAEU_168095	signal	1	45				
+FIVAEU_168095	outside	46	46				
+//
+# FIVAEU_90971 Length: 50
+# FIVAEU_90971 Number of predicted TMRs: 0
+FIVAEU_90971	inside	1	50				
+//
+# FIVAEU_73472 Length: 50
+# FIVAEU_73472 Number of predicted TMRs: 0
+FIVAEU_73472	inside	1	50				
+//
+# FIVAEU_137399 Length: 37
+# FIVAEU_137399 Number of predicted TMRs: 0
+FIVAEU_137399	inside	1	37				
+//
+# FIVAEU_133699 Length: 48
+# FIVAEU_133699 Number of predicted TMRs: 0
+FIVAEU_133699	signal	1	47				
+FIVAEU_133699	outside	48	48				
+//
+# FIVAEU_32256 Length: 44
+# FIVAEU_32256 Number of predicted TMRs: 0
+FIVAEU_32256	signal	1	15				
+FIVAEU_32256	outside	16	44				
+//
+# FIVAEU_5932 Length: 45
+# FIVAEU_5932 Number of predicted TMRs: 0
+FIVAEU_5932	signal	1	25				
+FIVAEU_5932	outside	26	45				
+//
+# FIVAEU_106780 Length: 37
+# FIVAEU_106780 Number of predicted TMRs: 0
+FIVAEU_106780	inside	1	37				
+//
+# FIVAEU_122354 Length: 42
+# FIVAEU_122354 Number of predicted TMRs: 0
+FIVAEU_122354	signal	1	39				
+FIVAEU_122354	outside	40	42				
+//
+# FIVAEU_108004 Length: 49
+# FIVAEU_108004 Number of predicted TMRs: 0
+FIVAEU_108004	inside	1	49				
+//
+# FIVAEU_36 Length: 43
+# FIVAEU_36 Number of predicted TMRs: 0
+FIVAEU_36	inside	1	43				
+//
+# FIVAEU_86399 Length: 50
+# FIVAEU_86399 Number of predicted TMRs: 0
+FIVAEU_86399	inside	1	50				
+//
+# FIVAEU_18846 Length: 47
+# FIVAEU_18846 Number of predicted TMRs: 0
+FIVAEU_18846	inside	1	47				
+//
+# FIVAEU_141274 Length: 49
+# FIVAEU_141274 Number of predicted TMRs: 0
+FIVAEU_141274	signal	1	27				
+FIVAEU_141274	outside	28	49				
+//
+# FIVAEU_66366 Length: 49
+# FIVAEU_66366 Number of predicted TMRs: 0
+FIVAEU_66366	inside	1	49				
+//
+# FIVAEU_165455 Length: 33
+# FIVAEU_165455 Number of predicted TMRs: 0
+FIVAEU_165455	inside	1	33				
+//
+# FIVAEU_51130 Length: 40
+# FIVAEU_51130 Number of predicted TMRs: 0
+FIVAEU_51130	inside	1	40				
+//
+# FIVAEU_127367 Length: 43
+# FIVAEU_127367 Number of predicted TMRs: 0
+FIVAEU_127367	signal	1	42				
+FIVAEU_127367	outside	43	43				
+//
+# FIVAEU_83662 Length: 50
+# FIVAEU_83662 Number of predicted TMRs: 0
+FIVAEU_83662	inside	1	50				
+//
+# FIVAEU_115727 Length: 35
+# FIVAEU_115727 Number of predicted TMRs: 0
+FIVAEU_115727	inside	1	35				
+//
+# FIVAEU_163383 Length: 38
+# FIVAEU_163383 Number of predicted TMRs: 0
+FIVAEU_163383	signal	1	28				
+FIVAEU_163383	outside	29	38				
+//
+# FIVAEU_153796 Length: 50
+# FIVAEU_153796 Number of predicted TMRs: 0
+FIVAEU_153796	inside	1	50				
+//
+# FIVAEU_83260 Length: 44
+# FIVAEU_83260 Number of predicted TMRs: 0
+FIVAEU_83260	signal	1	42				
+FIVAEU_83260	outside	43	44				
+//
+# FIVAEU_116939 Length: 50
+# FIVAEU_116939 Number of predicted TMRs: 0
+FIVAEU_116939	signal	1	22				
+FIVAEU_116939	outside	23	50				
+//
+# FIVAEU_28615 Length: 42
+# FIVAEU_28615 Number of predicted TMRs: 0
+FIVAEU_28615	inside	1	42				
+//
+# FIVAEU_168790 Length: 36
+# FIVAEU_168790 Number of predicted TMRs: 0
+FIVAEU_168790	signal	1	10				
+FIVAEU_168790	outside	11	36				
+//
+# FIVAEU_73064 Length: 40
+# FIVAEU_73064 Number of predicted TMRs: 0
+FIVAEU_73064	inside	1	40				
+//
+# FIVAEU_62934 Length: 31
+# FIVAEU_62934 Number of predicted TMRs: 0
+FIVAEU_62934	inside	1	31				
+//
+# FIVAEU_134614 Length: 45
+# FIVAEU_134614 Number of predicted TMRs: 0
+FIVAEU_134614	inside	1	45				
+//
+# FIVAEU_114660 Length: 45
+# FIVAEU_114660 Number of predicted TMRs: 0
+FIVAEU_114660	inside	1	45				
+//
+# FIVAEU_128327 Length: 44
+# FIVAEU_128327 Number of predicted TMRs: 0
+FIVAEU_128327	inside	1	44				
+//
+# FIVAEU_37866 Length: 45
+# FIVAEU_37866 Number of predicted TMRs: 0
+FIVAEU_37866	signal	1	44				
+FIVAEU_37866	outside	45	45				
+//
+# FIVAEU_120129 Length: 49
+# FIVAEU_120129 Number of predicted TMRs: 0
+FIVAEU_120129	inside	1	49				
+//
+# FIVAEU_141741 Length: 37
+# FIVAEU_141741 Number of predicted TMRs: 0
+FIVAEU_141741	inside	1	37				
+//
+# FIVAEU_110106 Length: 49
+# FIVAEU_110106 Number of predicted TMRs: 0
+FIVAEU_110106	signal	1	15				
+FIVAEU_110106	outside	16	49				
+//
+# FIVAEU_43388 Length: 44
+# FIVAEU_43388 Number of predicted TMRs: 0
+FIVAEU_43388	inside	1	44				
+//
+# FIVAEU_163618 Length: 44
+# FIVAEU_163618 Number of predicted TMRs: 0
+FIVAEU_163618	signal	1	42				
+FIVAEU_163618	outside	43	44				
+//
+# FIVAEU_92827 Length: 50
+# FIVAEU_92827 Number of predicted TMRs: 0
+FIVAEU_92827	inside	1	50				
+//
+# FIVAEU_51545 Length: 46
+# FIVAEU_51545 Number of predicted TMRs: 0
+FIVAEU_51545	inside	1	46				
+//
+# FIVAEU_157398 Length: 46
+# FIVAEU_157398 Number of predicted TMRs: 0
+FIVAEU_157398	inside	1	46				
+//
+# FIVAEU_146038 Length: 42
+# FIVAEU_146038 Number of predicted TMRs: 0
+FIVAEU_146038	inside	1	42				
+//
+# FIVAEU_109767 Length: 40
+# FIVAEU_109767 Number of predicted TMRs: 0
+FIVAEU_109767	inside	1	40				
+//
+# FIVAEU_137523 Length: 42
+# FIVAEU_137523 Number of predicted TMRs: 0
+FIVAEU_137523	signal	1	41				
+FIVAEU_137523	outside	42	42				
+//
+# FIVAEU_168859 Length: 47
+# FIVAEU_168859 Number of predicted TMRs: 0
+FIVAEU_168859	inside	1	47				
+//
+# FIVAEU_38114 Length: 49
+# FIVAEU_38114 Number of predicted TMRs: 0
+FIVAEU_38114	signal	1	47				
+FIVAEU_38114	outside	48	49				
+//
+# FIVAEU_49092 Length: 50
+# FIVAEU_49092 Number of predicted TMRs: 0
+FIVAEU_49092	inside	1	50				
+//
+# FIVAEU_9594 Length: 48
+# FIVAEU_9594 Number of predicted TMRs: 0
+FIVAEU_9594	inside	1	48				
+//
+# FIVAEU_88706 Length: 33
+# FIVAEU_88706 Number of predicted TMRs: 0
+FIVAEU_88706	signal	1	21				
+FIVAEU_88706	outside	22	33				
+//
+# FIVAEU_111647 Length: 43
+# FIVAEU_111647 Number of predicted TMRs: 0
+FIVAEU_111647	inside	1	43				
+//
+# FIVAEU_15477 Length: 44
+# FIVAEU_15477 Number of predicted TMRs: 0
+FIVAEU_15477	inside	1	44				
+//
+# FIVAEU_58305 Length: 38
+# FIVAEU_58305 Number of predicted TMRs: 0
+FIVAEU_58305	outside	1	38				
+//
+# FIVAEU_60791 Length: 44
+# FIVAEU_60791 Number of predicted TMRs: 0
+FIVAEU_60791	inside	1	44				
+//
+# FIVAEU_82306 Length: 50
+# FIVAEU_82306 Number of predicted TMRs: 0
+FIVAEU_82306	inside	1	50				
+//
+# FIVAEU_63142 Length: 36
+# FIVAEU_63142 Number of predicted TMRs: 0
+FIVAEU_63142	inside	1	36				
+//
+# FIVAEU_20012 Length: 50
+# FIVAEU_20012 Number of predicted TMRs: 0
+FIVAEU_20012	inside	1	50				
+//
+# FIVAEU_146550 Length: 49
+# FIVAEU_146550 Number of predicted TMRs: 0
+FIVAEU_146550	inside	1	49				
+//
+# FIVAEU_92140 Length: 38
+# FIVAEU_92140 Number of predicted TMRs: 0
+FIVAEU_92140	outside	1	38				
+//
+# FIVAEU_73492 Length: 47
+# FIVAEU_73492 Number of predicted TMRs: 0
+FIVAEU_73492	signal	1	46				
+FIVAEU_73492	outside	47	47				
+//
+# FIVAEU_129053 Length: 44
+# FIVAEU_129053 Number of predicted TMRs: 0
+FIVAEU_129053	signal	1	43				
+FIVAEU_129053	outside	44	44				
+//
+# FIVAEU_54720 Length: 45
+# FIVAEU_54720 Number of predicted TMRs: 0
+FIVAEU_54720	inside	1	45				
+//
+# FIVAEU_57735 Length: 47
+# FIVAEU_57735 Number of predicted TMRs: 0
+FIVAEU_57735	inside	1	47				
+//
+# FIVAEU_16333 Length: 41
+# FIVAEU_16333 Number of predicted TMRs: 0
+FIVAEU_16333	inside	1	41				
+//
+# FIVAEU_16201 Length: 47
+# FIVAEU_16201 Number of predicted TMRs: 0
+FIVAEU_16201	inside	1	47				
+//
+# FIVAEU_114052 Length: 47
+# FIVAEU_114052 Number of predicted TMRs: 0
+FIVAEU_114052	inside	1	47				
+//
+# FIVAEU_122650 Length: 35
+# FIVAEU_122650 Number of predicted TMRs: 0
+FIVAEU_122650	signal	1	32				
+FIVAEU_122650	outside	33	35				
+//
+# FIVAEU_66233 Length: 41
+# FIVAEU_66233 Number of predicted TMRs: 0
+FIVAEU_66233	signal	1	35				
+FIVAEU_66233	outside	36	41				
+//
+# FIVAEU_158664 Length: 46
+# FIVAEU_158664 Number of predicted TMRs: 0
+FIVAEU_158664	inside	1	46				
+//
+# FIVAEU_79198 Length: 44
+# FIVAEU_79198 Number of predicted TMRs: 0
+FIVAEU_79198	inside	1	44				
+//
+# FIVAEU_13092 Length: 42
+# FIVAEU_13092 Number of predicted TMRs: 0
+FIVAEU_13092	inside	1	42				
+//
+# FIVAEU_98180 Length: 36
+# FIVAEU_98180 Number of predicted TMRs: 0
+FIVAEU_98180	signal	1	28				
+FIVAEU_98180	outside	29	36				
+//
+# FIVAEU_21205 Length: 44
+# FIVAEU_21205 Number of predicted TMRs: 0
+FIVAEU_21205	inside	1	44				
+//
+# FIVAEU_49164 Length: 50
+# FIVAEU_49164 Number of predicted TMRs: 0
+FIVAEU_49164	inside	1	50				
+//
+# FIVAEU_10054 Length: 42
+# FIVAEU_10054 Number of predicted TMRs: 0
+FIVAEU_10054	inside	1	42				
+//
+# FIVAEU_132008 Length: 39
+# FIVAEU_132008 Number of predicted TMRs: 0
+FIVAEU_132008	inside	1	39				
+//
+# FIVAEU_64708 Length: 40
+# FIVAEU_64708 Number of predicted TMRs: 0
+FIVAEU_64708	signal	1	20				
+FIVAEU_64708	outside	21	40				
+//
+# FIVAEU_54761 Length: 46
+# FIVAEU_54761 Number of predicted TMRs: 0
+FIVAEU_54761	inside	1	46				
+//
+# FIVAEU_53716 Length: 39
+# FIVAEU_53716 Number of predicted TMRs: 1
+FIVAEU_53716	inside	1	14				
+FIVAEU_53716	TMhelix	15	35				
+FIVAEU_53716	outside	36	39				
+//
+# FIVAEU_54829 Length: 46
+# FIVAEU_54829 Number of predicted TMRs: 0
+FIVAEU_54829	inside	1	46				
+//
+# FIVAEU_20930 Length: 42
+# FIVAEU_20930 Number of predicted TMRs: 0
+FIVAEU_20930	inside	1	42				
+//
+# FIVAEU_135832 Length: 42
+# FIVAEU_135832 Number of predicted TMRs: 0
+FIVAEU_135832	inside	1	42				
+//
+# FIVAEU_120354 Length: 46
+# FIVAEU_120354 Number of predicted TMRs: 0
+FIVAEU_120354	inside	1	46				
+//
+# FIVAEU_105304 Length: 36
+# FIVAEU_105304 Number of predicted TMRs: 0
+FIVAEU_105304	inside	1	36				
+//
+# FIVAEU_86905 Length: 43
+# FIVAEU_86905 Number of predicted TMRs: 0
+FIVAEU_86905	inside	1	43				
+//
+# FIVAEU_93824 Length: 50
+# FIVAEU_93824 Number of predicted TMRs: 0
+FIVAEU_93824	inside	1	50				
+//
+# FIVAEU_138612 Length: 42
+# FIVAEU_138612 Number of predicted TMRs: 0
+FIVAEU_138612	signal	1	35				
+FIVAEU_138612	outside	36	42				
+//
+# FIVAEU_88160 Length: 46
+# FIVAEU_88160 Number of predicted TMRs: 0
+FIVAEU_88160	inside	1	46				
+//
+# FIVAEU_146006 Length: 34
+# FIVAEU_146006 Number of predicted TMRs: 0
+FIVAEU_146006	inside	1	34				
+//
+# FIVAEU_77041 Length: 45
+# FIVAEU_77041 Number of predicted TMRs: 0
+FIVAEU_77041	signal	1	21				
+FIVAEU_77041	outside	22	45				
+//
+# FIVAEU_98432 Length: 39
+# FIVAEU_98432 Number of predicted TMRs: 0
+FIVAEU_98432	inside	1	39				
+//
+# FIVAEU_79742 Length: 44
+# FIVAEU_79742 Number of predicted TMRs: 0
+FIVAEU_79742	inside	1	44				
+//
+# FIVAEU_32685 Length: 48
+# FIVAEU_32685 Number of predicted TMRs: 0
+FIVAEU_32685	inside	1	48				
+//
+# FIVAEU_14173 Length: 46
+# FIVAEU_14173 Number of predicted TMRs: 0
+FIVAEU_14173	inside	1	46				
+//
+# FIVAEU_121912 Length: 45
+# FIVAEU_121912 Number of predicted TMRs: 0
+FIVAEU_121912	inside	1	45				
+//
+# FIVAEU_36516 Length: 49
+# FIVAEU_36516 Number of predicted TMRs: 0
+FIVAEU_36516	signal	1	46				
+FIVAEU_36516	outside	47	49				
+//
+# FIVAEU_9253 Length: 47
+# FIVAEU_9253 Number of predicted TMRs: 0
+FIVAEU_9253	inside	1	47				
+//
+# FIVAEU_41683 Length: 43
+# FIVAEU_41683 Number of predicted TMRs: 0
+FIVAEU_41683	inside	1	43				
+//
+# FIVAEU_69269 Length: 50
+# FIVAEU_69269 Number of predicted TMRs: 0
+FIVAEU_69269	signal	1	15				
+FIVAEU_69269	outside	16	50				
+//
+# FIVAEU_28451 Length: 49
+# FIVAEU_28451 Number of predicted TMRs: 0
+FIVAEU_28451	inside	1	49				
+//
+# FIVAEU_58807 Length: 49
+# FIVAEU_58807 Number of predicted TMRs: 0
+FIVAEU_58807	signal	1	42				
+FIVAEU_58807	outside	43	49				
+//
+# FIVAEU_147390 Length: 43
+# FIVAEU_147390 Number of predicted TMRs: 0
+FIVAEU_147390	signal	1	41				
+FIVAEU_147390	outside	42	43				
+//
+# FIVAEU_127416 Length: 35
+# FIVAEU_127416 Number of predicted TMRs: 0
+FIVAEU_127416	inside	1	35				
+//
+# FIVAEU_169952 Length: 48
+# FIVAEU_169952 Number of predicted TMRs: 0
+FIVAEU_169952	inside	1	48				
+//
+# FIVAEU_138106 Length: 48
+# FIVAEU_138106 Number of predicted TMRs: 0
+FIVAEU_138106	inside	1	48				
+//
+# FIVAEU_131080 Length: 48
+# FIVAEU_131080 Number of predicted TMRs: 0
+FIVAEU_131080	inside	1	48				
+//
+# FIVAEU_61134 Length: 40
+# FIVAEU_61134 Number of predicted TMRs: 0
+FIVAEU_61134	inside	1	40				
+//
+# FIVAEU_87606 Length: 34
+# FIVAEU_87606 Number of predicted TMRs: 0
+FIVAEU_87606	signal	1	33				
+FIVAEU_87606	outside	34	34				
+//
+# FIVAEU_143153 Length: 50
+# FIVAEU_143153 Number of predicted TMRs: 0
+FIVAEU_143153	inside	1	50				
+//
+# FIVAEU_10630 Length: 47
+# FIVAEU_10630 Number of predicted TMRs: 0
+FIVAEU_10630	signal	1	30				
+FIVAEU_10630	outside	31	47				
+//
+# FIVAEU_141485 Length: 40
+# FIVAEU_141485 Number of predicted TMRs: 0
+FIVAEU_141485	inside	1	40				
+//
+# FIVAEU_39360 Length: 47
+# FIVAEU_39360 Number of predicted TMRs: 0
+FIVAEU_39360	inside	1	47				
+//
+# FIVAEU_92114 Length: 39
+# FIVAEU_92114 Number of predicted TMRs: 0
+FIVAEU_92114	signal	1	28				
+FIVAEU_92114	outside	29	39				
+//
+# FIVAEU_21640 Length: 44
+# FIVAEU_21640 Number of predicted TMRs: 0
+FIVAEU_21640	signal	1	15				
+FIVAEU_21640	outside	16	44				
+//
+# FIVAEU_131532 Length: 42
+# FIVAEU_131532 Number of predicted TMRs: 0
+FIVAEU_131532	inside	1	42				
+//
+# FIVAEU_45815 Length: 39
+# FIVAEU_45815 Number of predicted TMRs: 0
+FIVAEU_45815	inside	1	39				
+//
+# FIVAEU_147225 Length: 46
+# FIVAEU_147225 Number of predicted TMRs: 0
+FIVAEU_147225	signal	1	37				
+FIVAEU_147225	outside	38	46				
+//
+# FIVAEU_171374 Length: 50
+# FIVAEU_171374 Number of predicted TMRs: 0
+FIVAEU_171374	signal	1	26				
+FIVAEU_171374	outside	27	50				
+//
+# FIVAEU_69880 Length: 49
+# FIVAEU_69880 Number of predicted TMRs: 0
+FIVAEU_69880	signal	1	48				
+FIVAEU_69880	outside	49	49				
+//
+# FIVAEU_20937 Length: 38
+# FIVAEU_20937 Number of predicted TMRs: 0
+FIVAEU_20937	signal	1	32				
+FIVAEU_20937	outside	33	38				
+//
+# FIVAEU_82049 Length: 42
+# FIVAEU_82049 Number of predicted TMRs: 0
+FIVAEU_82049	inside	1	42				
+//
+# FIVAEU_143299 Length: 45
+# FIVAEU_143299 Number of predicted TMRs: 0
+FIVAEU_143299	inside	1	45				
+//
+# FIVAEU_101042 Length: 42
+# FIVAEU_101042 Number of predicted TMRs: 0
+FIVAEU_101042	signal	1	30				
+FIVAEU_101042	outside	31	42				
+//
+# FIVAEU_150961 Length: 45
+# FIVAEU_150961 Number of predicted TMRs: 0
+FIVAEU_150961	inside	1	45				
+//
+# FIVAEU_94549 Length: 43
+# FIVAEU_94549 Number of predicted TMRs: 0
+FIVAEU_94549	inside	1	43				
+//
+# FIVAEU_41015 Length: 41
+# FIVAEU_41015 Number of predicted TMRs: 0
+FIVAEU_41015	signal	1	36				
+FIVAEU_41015	outside	37	41				
+//
+# FIVAEU_123705 Length: 42
+# FIVAEU_123705 Number of predicted TMRs: 0
+FIVAEU_123705	signal	1	40				
+FIVAEU_123705	outside	41	42				
+//
+# FIVAEU_152609 Length: 50
+# FIVAEU_152609 Number of predicted TMRs: 0
+FIVAEU_152609	inside	1	50				
+//
+# FIVAEU_131001 Length: 44
+# FIVAEU_131001 Number of predicted TMRs: 0
+FIVAEU_131001	inside	1	44				
+//
+# FIVAEU_143252 Length: 50
+# FIVAEU_143252 Number of predicted TMRs: 0
+FIVAEU_143252	inside	1	50				
+//
+# FIVAEU_116006 Length: 45
+# FIVAEU_116006 Number of predicted TMRs: 0
+FIVAEU_116006	inside	1	45				
+//
+# FIVAEU_164208 Length: 36
+# FIVAEU_164208 Number of predicted TMRs: 0
+FIVAEU_164208	outside	1	36				
+//
+# FIVAEU_85713 Length: 40
+# FIVAEU_85713 Number of predicted TMRs: 0
+FIVAEU_85713	signal	1	10				
+FIVAEU_85713	outside	11	40				
+//
+# FIVAEU_82074 Length: 47
+# FIVAEU_82074 Number of predicted TMRs: 0
+FIVAEU_82074	inside	1	47				
+//
+# FIVAEU_111166 Length: 47
+# FIVAEU_111166 Number of predicted TMRs: 0
+FIVAEU_111166	signal	1	45				
+FIVAEU_111166	outside	46	47				
+//
+# FIVAEU_117737 Length: 25
+# FIVAEU_117737 Number of predicted TMRs: 0
+FIVAEU_117737	inside	1	25				
+//
+# FIVAEU_3954 Length: 46
+# FIVAEU_3954 Number of predicted TMRs: 0
+FIVAEU_3954	inside	1	46				
+//
+# FIVAEU_88329 Length: 49
+# FIVAEU_88329 Number of predicted TMRs: 0
+FIVAEU_88329	inside	1	49				
+//
+# FIVAEU_118549 Length: 49
+# FIVAEU_118549 Number of predicted TMRs: 0
+FIVAEU_118549	inside	1	49				
+//
+# FIVAEU_94852 Length: 49
+# FIVAEU_94852 Number of predicted TMRs: 0
+FIVAEU_94852	inside	1	49				
+//
+# FIVAEU_136427 Length: 42
+# FIVAEU_136427 Number of predicted TMRs: 0
+FIVAEU_136427	signal	1	41				
+FIVAEU_136427	outside	42	42				
+//
+# FIVAEU_70560 Length: 46
+# FIVAEU_70560 Number of predicted TMRs: 0
+FIVAEU_70560	signal	1	11				
+FIVAEU_70560	outside	12	46				
+//
+# FIVAEU_171628 Length: 47
+# FIVAEU_171628 Number of predicted TMRs: 0
+FIVAEU_171628	signal	1	45				
+FIVAEU_171628	outside	46	47				
+//
+# FIVAEU_56796 Length: 46
+# FIVAEU_56796 Number of predicted TMRs: 0
+FIVAEU_56796	inside	1	46				
+//
+# FIVAEU_167125 Length: 48
+# FIVAEU_167125 Number of predicted TMRs: 0
+FIVAEU_167125	signal	1	10				
+FIVAEU_167125	outside	11	48				
+//
+# FIVAEU_113936 Length: 45
+# FIVAEU_113936 Number of predicted TMRs: 0
+FIVAEU_113936	inside	1	45				
+//
+# FIVAEU_15381 Length: 50
+# FIVAEU_15381 Number of predicted TMRs: 0
+FIVAEU_15381	signal	1	18				
+FIVAEU_15381	outside	19	50				
+//
+# FIVAEU_102942 Length: 48
+# FIVAEU_102942 Number of predicted TMRs: 0
+FIVAEU_102942	signal	1	37				
+FIVAEU_102942	outside	38	48				
+//
+# FIVAEU_151788 Length: 45
+# FIVAEU_151788 Number of predicted TMRs: 0
+FIVAEU_151788	inside	1	45				
+//
+# FIVAEU_58715 Length: 47
+# FIVAEU_58715 Number of predicted TMRs: 0
+FIVAEU_58715	signal	1	14				
+FIVAEU_58715	outside	15	47				
+//
+# FIVAEU_148119 Length: 39
+# FIVAEU_148119 Number of predicted TMRs: 0
+FIVAEU_148119	signal	1	10				
+FIVAEU_148119	outside	11	39				
+//
+# FIVAEU_6812 Length: 36
+# FIVAEU_6812 Number of predicted TMRs: 0
+FIVAEU_6812	signal	1	18				
+FIVAEU_6812	outside	19	36				
+//
+# FIVAEU_17379 Length: 37
+# FIVAEU_17379 Number of predicted TMRs: 0
+FIVAEU_17379	signal	1	35				
+FIVAEU_17379	outside	36	37				
+//
+# FIVAEU_64908 Length: 50
+# FIVAEU_64908 Number of predicted TMRs: 0
+FIVAEU_64908	inside	1	50				
+//
+# FIVAEU_9212 Length: 45
+# FIVAEU_9212 Number of predicted TMRs: 0
+FIVAEU_9212	inside	1	45				
+//
+# FIVAEU_79429 Length: 40
+# FIVAEU_79429 Number of predicted TMRs: 0
+FIVAEU_79429	signal	1	39				
+FIVAEU_79429	outside	40	40				
+//
+# FIVAEU_149415 Length: 46
+# FIVAEU_149415 Number of predicted TMRs: 0
+FIVAEU_149415	signal	1	24				
+FIVAEU_149415	outside	25	46				
+//
+# FIVAEU_59312 Length: 48
+# FIVAEU_59312 Number of predicted TMRs: 0
+FIVAEU_59312	signal	1	10				
+FIVAEU_59312	outside	11	48				
+//
+# FIVAEU_42322 Length: 40
+# FIVAEU_42322 Number of predicted TMRs: 0
+FIVAEU_42322	inside	1	40				
+//
+# FIVAEU_39868 Length: 49
+# FIVAEU_39868 Number of predicted TMRs: 0
+FIVAEU_39868	inside	1	49				
+//
+# FIVAEU_132946 Length: 45
+# FIVAEU_132946 Number of predicted TMRs: 0
+FIVAEU_132946	signal	1	35				
+FIVAEU_132946	outside	36	45				
+//
+# FIVAEU_142220 Length: 50
+# FIVAEU_142220 Number of predicted TMRs: 0
+FIVAEU_142220	inside	1	50				
+//
+# FIVAEU_100509 Length: 48
+# FIVAEU_100509 Number of predicted TMRs: 0
+FIVAEU_100509	inside	1	48				
+//
+# FIVAEU_65969 Length: 49
+# FIVAEU_65969 Number of predicted TMRs: 0
+FIVAEU_65969	inside	1	49				
+//
+# FIVAEU_123735 Length: 49
+# FIVAEU_123735 Number of predicted TMRs: 0
+FIVAEU_123735	inside	1	49				
+//
+# FIVAEU_45143 Length: 48
+# FIVAEU_45143 Number of predicted TMRs: 0
+FIVAEU_45143	signal	1	13				
+FIVAEU_45143	outside	14	48				
+//
+# FIVAEU_74034 Length: 47
+# FIVAEU_74034 Number of predicted TMRs: 0
+FIVAEU_74034	inside	1	47				
+//
+# FIVAEU_117256 Length: 46
+# FIVAEU_117256 Number of predicted TMRs: 0
+FIVAEU_117256	inside	1	46				
+//
+# FIVAEU_12144 Length: 41
+# FIVAEU_12144 Number of predicted TMRs: 0
+FIVAEU_12144	inside	1	41				
+//
+# FIVAEU_60694 Length: 49
+# FIVAEU_60694 Number of predicted TMRs: 0
+FIVAEU_60694	inside	1	49				
+//
+# FIVAEU_42104 Length: 43
+# FIVAEU_42104 Number of predicted TMRs: 0
+FIVAEU_42104	signal	1	26				
+FIVAEU_42104	outside	27	43				
+//
+# FIVAEU_168530 Length: 48
+# FIVAEU_168530 Number of predicted TMRs: 0
+FIVAEU_168530	signal	1	26				
+FIVAEU_168530	outside	27	48				
+//
+# FIVAEU_167101 Length: 40
+# FIVAEU_167101 Number of predicted TMRs: 0
+FIVAEU_167101	inside	1	40				
+//
+# FIVAEU_82545 Length: 47
+# FIVAEU_82545 Number of predicted TMRs: 0
+FIVAEU_82545	inside	1	47				
+//
+# FIVAEU_107161 Length: 41
+# FIVAEU_107161 Number of predicted TMRs: 0
+FIVAEU_107161	signal	1	11				
+FIVAEU_107161	outside	12	41				
+//
+# FIVAEU_149314 Length: 41
+# FIVAEU_149314 Number of predicted TMRs: 0
+FIVAEU_149314	signal	1	24				
+FIVAEU_149314	outside	25	41				
+//
+# FIVAEU_134651 Length: 46
+# FIVAEU_134651 Number of predicted TMRs: 0
+FIVAEU_134651	inside	1	46				
+//
+# FIVAEU_37150 Length: 46
+# FIVAEU_37150 Number of predicted TMRs: 0
+FIVAEU_37150	inside	1	46				
+//
+# FIVAEU_97447 Length: 43
+# FIVAEU_97447 Number of predicted TMRs: 0
+FIVAEU_97447	signal	1	42				
+FIVAEU_97447	outside	43	43				
+//
+# FIVAEU_87027 Length: 30
+# FIVAEU_87027 Number of predicted TMRs: 0
+FIVAEU_87027	inside	1	30				
+//
+# FIVAEU_154011 Length: 46
+# FIVAEU_154011 Number of predicted TMRs: 0
+FIVAEU_154011	inside	1	46				
+//
+# FIVAEU_23284 Length: 46
+# FIVAEU_23284 Number of predicted TMRs: 0
+FIVAEU_23284	inside	1	46				
+//
+# FIVAEU_34607 Length: 37
+# FIVAEU_34607 Number of predicted TMRs: 0
+FIVAEU_34607	inside	1	37				
+//
+# FIVAEU_11201 Length: 39
+# FIVAEU_11201 Number of predicted TMRs: 0
+FIVAEU_11201	inside	1	39				
+//
+# FIVAEU_86515 Length: 50
+# FIVAEU_86515 Number of predicted TMRs: 0
+FIVAEU_86515	signal	1	47				
+FIVAEU_86515	outside	48	50				
+//
+# FIVAEU_141729 Length: 48
+# FIVAEU_141729 Number of predicted TMRs: 0
+FIVAEU_141729	inside	1	48				
+//
+# FIVAEU_89033 Length: 47
+# FIVAEU_89033 Number of predicted TMRs: 0
+FIVAEU_89033	inside	1	47				
+//
+# FIVAEU_171943 Length: 49
+# FIVAEU_171943 Number of predicted TMRs: 0
+FIVAEU_171943	inside	1	49				
+//
+# FIVAEU_166854 Length: 37
+# FIVAEU_166854 Number of predicted TMRs: 0
+FIVAEU_166854	inside	1	37				
+//
+# FIVAEU_34011 Length: 37
+# FIVAEU_34011 Number of predicted TMRs: 0
+FIVAEU_34011	signal	1	32				
+FIVAEU_34011	outside	33	37				
+//
+# FIVAEU_137182 Length: 46
+# FIVAEU_137182 Number of predicted TMRs: 0
+FIVAEU_137182	signal	1	10				
+FIVAEU_137182	outside	11	46				
+//
+# FIVAEU_134488 Length: 46
+# FIVAEU_134488 Number of predicted TMRs: 0
+FIVAEU_134488	inside	1	46				
+//
+# FIVAEU_68384 Length: 43
+# FIVAEU_68384 Number of predicted TMRs: 0
+FIVAEU_68384	inside	1	43				
+//
+# FIVAEU_110720 Length: 38
+# FIVAEU_110720 Number of predicted TMRs: 0
+FIVAEU_110720	signal	1	36				
+FIVAEU_110720	outside	37	38				
+//
+# FIVAEU_136762 Length: 39
+# FIVAEU_136762 Number of predicted TMRs: 0
+FIVAEU_136762	inside	1	39				
+//
+# FIVAEU_21318 Length: 43
+# FIVAEU_21318 Number of predicted TMRs: 0
+FIVAEU_21318	inside	1	43				
+//
+# FIVAEU_127363 Length: 46
+# FIVAEU_127363 Number of predicted TMRs: 0
+FIVAEU_127363	inside	1	46				
+//
+# FIVAEU_153314 Length: 41
+# FIVAEU_153314 Number of predicted TMRs: 0
+FIVAEU_153314	inside	1	41				
+//
+# FIVAEU_142293 Length: 48
+# FIVAEU_142293 Number of predicted TMRs: 0
+FIVAEU_142293	signal	1	47				
+FIVAEU_142293	outside	48	48				
+//
+# FIVAEU_51755 Length: 45
+# FIVAEU_51755 Number of predicted TMRs: 0
+FIVAEU_51755	inside	1	45				
+//
+# FIVAEU_112236 Length: 48
+# FIVAEU_112236 Number of predicted TMRs: 0
+FIVAEU_112236	inside	1	48				
+//
+# FIVAEU_70442 Length: 46
+# FIVAEU_70442 Number of predicted TMRs: 0
+FIVAEU_70442	inside	1	46				
+//
+# FIVAEU_72025 Length: 50
+# FIVAEU_72025 Number of predicted TMRs: 0
+FIVAEU_72025	inside	1	50				
+//
+# FIVAEU_50227 Length: 49
+# FIVAEU_50227 Number of predicted TMRs: 0
+FIVAEU_50227	signal	1	30				
+FIVAEU_50227	outside	31	49				
+//
+# FIVAEU_86897 Length: 39
+# FIVAEU_86897 Number of predicted TMRs: 0
+FIVAEU_86897	inside	1	39				
+//
+# FIVAEU_77477 Length: 41
+# FIVAEU_77477 Number of predicted TMRs: 0
+FIVAEU_77477	signal	1	40				
+FIVAEU_77477	outside	41	41				
+//
+# FIVAEU_108697 Length: 36
+# FIVAEU_108697 Number of predicted TMRs: 0
+FIVAEU_108697	signal	1	12				
+FIVAEU_108697	outside	13	36				
+//
+# FIVAEU_169041 Length: 49
+# FIVAEU_169041 Number of predicted TMRs: 0
+FIVAEU_169041	inside	1	49				
+//
+# FIVAEU_80378 Length: 45
+# FIVAEU_80378 Number of predicted TMRs: 0
+FIVAEU_80378	inside	1	45				
+//
+# FIVAEU_143550 Length: 42
+# FIVAEU_143550 Number of predicted TMRs: 0
+FIVAEU_143550	signal	1	32				
+FIVAEU_143550	outside	33	42				
+//
+# FIVAEU_38524 Length: 38
+# FIVAEU_38524 Number of predicted TMRs: 0
+FIVAEU_38524	signal	1	30				
+FIVAEU_38524	outside	31	38				
+//
+# FIVAEU_67085 Length: 36
+# FIVAEU_67085 Number of predicted TMRs: 0
+FIVAEU_67085	inside	1	36				
+//
+# FIVAEU_64364 Length: 48
+# FIVAEU_64364 Number of predicted TMRs: 0
+FIVAEU_64364	inside	1	48				
+//
+# FIVAEU_44422 Length: 49
+# FIVAEU_44422 Number of predicted TMRs: 0
+FIVAEU_44422	signal	1	12				
+FIVAEU_44422	outside	13	49				
+//
+# FIVAEU_54572 Length: 43
+# FIVAEU_54572 Number of predicted TMRs: 0
+FIVAEU_54572	inside	1	43				
+//
+# FIVAEU_27567 Length: 43
+# FIVAEU_27567 Number of predicted TMRs: 0
+FIVAEU_27567	inside	1	43				
+//
+# FIVAEU_21852 Length: 34
+# FIVAEU_21852 Number of predicted TMRs: 0
+FIVAEU_21852	inside	1	34				
+//
+# FIVAEU_85457 Length: 44
+# FIVAEU_85457 Number of predicted TMRs: 0
+FIVAEU_85457	signal	1	43				
+FIVAEU_85457	outside	44	44				
+//
+# FIVAEU_86160 Length: 35
+# FIVAEU_86160 Number of predicted TMRs: 0
+FIVAEU_86160	signal	1	34				
+FIVAEU_86160	outside	35	35				
+//
+# FIVAEU_113910 Length: 48
+# FIVAEU_113910 Number of predicted TMRs: 0
+FIVAEU_113910	signal	1	47				
+FIVAEU_113910	outside	48	48				
+//
+# FIVAEU_124193 Length: 46
+# FIVAEU_124193 Number of predicted TMRs: 0
+FIVAEU_124193	signal	1	43				
+FIVAEU_124193	outside	44	46				
+//
+# FIVAEU_115499 Length: 41
+# FIVAEU_115499 Number of predicted TMRs: 0
+FIVAEU_115499	signal	1	40				
+FIVAEU_115499	outside	41	41				
+//
+# FIVAEU_111553 Length: 46
+# FIVAEU_111553 Number of predicted TMRs: 0
+FIVAEU_111553	signal	1	43				
+FIVAEU_111553	outside	44	46				
+//
+# FIVAEU_37847 Length: 47
+# FIVAEU_37847 Number of predicted TMRs: 0
+FIVAEU_37847	inside	1	47				
+//
+# FIVAEU_77230 Length: 50
+# FIVAEU_77230 Number of predicted TMRs: 0
+FIVAEU_77230	signal	1	49				
+FIVAEU_77230	outside	50	50				
+//
+# FIVAEU_48995 Length: 46
+# FIVAEU_48995 Number of predicted TMRs: 0
+FIVAEU_48995	signal	1	30				
+FIVAEU_48995	outside	31	46				
+//
+# FIVAEU_56384 Length: 47
+# FIVAEU_56384 Number of predicted TMRs: 0
+FIVAEU_56384	inside	1	47				
+//
+# FIVAEU_90174 Length: 48
+# FIVAEU_90174 Number of predicted TMRs: 0
+FIVAEU_90174	signal	1	44				
+FIVAEU_90174	outside	45	48				
+//
+# FIVAEU_69584 Length: 42
+# FIVAEU_69584 Number of predicted TMRs: 0
+FIVAEU_69584	signal	1	32				
+FIVAEU_69584	outside	33	42				
+//
+# FIVAEU_72280 Length: 43
+# FIVAEU_72280 Number of predicted TMRs: 0
+FIVAEU_72280	signal	1	42				
+FIVAEU_72280	outside	43	43				
+//
+# FIVAEU_124427 Length: 43
+# FIVAEU_124427 Number of predicted TMRs: 0
+FIVAEU_124427	inside	1	43				
+//
+# FIVAEU_142292 Length: 36
+# FIVAEU_142292 Number of predicted TMRs: 1
+FIVAEU_142292	inside	1	11				
+FIVAEU_142292	TMhelix	12	28				
+FIVAEU_142292	outside	29	36				
+//
+# FIVAEU_92728 Length: 43
+# FIVAEU_92728 Number of predicted TMRs: 0
+FIVAEU_92728	signal	1	32				
+FIVAEU_92728	outside	33	43				
+//
+# FIVAEU_121987 Length: 47
+# FIVAEU_121987 Number of predicted TMRs: 0
+FIVAEU_121987	inside	1	47				
+//
+# FIVAEU_116197 Length: 43
+# FIVAEU_116197 Number of predicted TMRs: 0
+FIVAEU_116197	signal	1	39				
+FIVAEU_116197	outside	40	43				
+//
+# FIVAEU_49794 Length: 42
+# FIVAEU_49794 Number of predicted TMRs: 0
+FIVAEU_49794	outside	1	42				
+//
+# FIVAEU_23223 Length: 44
+# FIVAEU_23223 Number of predicted TMRs: 0
+FIVAEU_23223	signal	1	28				
+FIVAEU_23223	outside	29	44				
+//
+# FIVAEU_131375 Length: 26
+# FIVAEU_131375 Number of predicted TMRs: 0
+FIVAEU_131375	inside	1	26				
+//
+# FIVAEU_40530 Length: 48
+# FIVAEU_40530 Number of predicted TMRs: 0
+FIVAEU_40530	inside	1	48				
+//
+# FIVAEU_117103 Length: 47
+# FIVAEU_117103 Number of predicted TMRs: 0
+FIVAEU_117103	inside	1	47				
+//
+# FIVAEU_98835 Length: 45
+# FIVAEU_98835 Number of predicted TMRs: 0
+FIVAEU_98835	signal	1	26				
+FIVAEU_98835	outside	27	45				
+//
+# FIVAEU_50710 Length: 45
+# FIVAEU_50710 Number of predicted TMRs: 0
+FIVAEU_50710	inside	1	45				
+//
+# FIVAEU_16021 Length: 50
+# FIVAEU_16021 Number of predicted TMRs: 0
+FIVAEU_16021	inside	1	50				
+//
+# FIVAEU_88683 Length: 42
+# FIVAEU_88683 Number of predicted TMRs: 0
+FIVAEU_88683	signal	1	12				
+FIVAEU_88683	outside	13	42				
+//
+# FIVAEU_40927 Length: 47
+# FIVAEU_40927 Number of predicted TMRs: 0
+FIVAEU_40927	signal	1	23				
+FIVAEU_40927	outside	24	47				
+//
+# FIVAEU_37271 Length: 36
+# FIVAEU_37271 Number of predicted TMRs: 0
+FIVAEU_37271	inside	1	36				
+//
+# FIVAEU_104967 Length: 43
+# FIVAEU_104967 Number of predicted TMRs: 0
+FIVAEU_104967	inside	1	43				
+//
+# FIVAEU_68805 Length: 34
+# FIVAEU_68805 Number of predicted TMRs: 0
+FIVAEU_68805	signal	1	23				
+FIVAEU_68805	outside	24	34				
+//
+# FIVAEU_162179 Length: 41
+# FIVAEU_162179 Number of predicted TMRs: 0
+FIVAEU_162179	signal	1	33				
+FIVAEU_162179	outside	34	41				
+//
+# FIVAEU_149320 Length: 49
+# FIVAEU_149320 Number of predicted TMRs: 0
+FIVAEU_149320	inside	1	49				
+//
+# FIVAEU_41065 Length: 38
+# FIVAEU_41065 Number of predicted TMRs: 0
+FIVAEU_41065	signal	1	18				
+FIVAEU_41065	outside	19	38				
+//
+# FIVAEU_18869 Length: 49
+# FIVAEU_18869 Number of predicted TMRs: 0
+FIVAEU_18869	signal	1	12				
+FIVAEU_18869	outside	13	49				
+//
+# FIVAEU_65947 Length: 47
+# FIVAEU_65947 Number of predicted TMRs: 1
+FIVAEU_65947	inside	1	27				
+FIVAEU_65947	TMhelix	28	41				
+FIVAEU_65947	outside	42	47				
+//
+# FIVAEU_104363 Length: 49
+# FIVAEU_104363 Number of predicted TMRs: 0
+FIVAEU_104363	inside	1	49				
+//
+# FIVAEU_48840 Length: 48
+# FIVAEU_48840 Number of predicted TMRs: 0
+FIVAEU_48840	inside	1	48				
+//
+# FIVAEU_118602 Length: 32
+# FIVAEU_118602 Number of predicted TMRs: 0
+FIVAEU_118602	signal	1	16				
+FIVAEU_118602	outside	17	32				
+//
+# FIVAEU_127568 Length: 49
+# FIVAEU_127568 Number of predicted TMRs: 0
+FIVAEU_127568	inside	1	49				
+//
+# FIVAEU_13162 Length: 41
+# FIVAEU_13162 Number of predicted TMRs: 0
+FIVAEU_13162	signal	1	25				
+FIVAEU_13162	outside	26	41				
+//
+# FIVAEU_102568 Length: 40
+# FIVAEU_102568 Number of predicted TMRs: 0
+FIVAEU_102568	signal	1	28				
+FIVAEU_102568	outside	29	40				
+//
+# FIVAEU_12576 Length: 49
+# FIVAEU_12576 Number of predicted TMRs: 0
+FIVAEU_12576	signal	1	38				
+FIVAEU_12576	outside	39	49				
+//
+# FIVAEU_97330 Length: 49
+# FIVAEU_97330 Number of predicted TMRs: 0
+FIVAEU_97330	signal	1	10				
+FIVAEU_97330	outside	11	49				
+//
+# FIVAEU_64293 Length: 33
+# FIVAEU_64293 Number of predicted TMRs: 0
+FIVAEU_64293	signal	1	29				
+FIVAEU_64293	outside	30	33				
+//
+# FIVAEU_27516 Length: 28
+# FIVAEU_27516 Number of predicted TMRs: 0
+FIVAEU_27516	signal	1	25				
+FIVAEU_27516	outside	26	28				
+//
+# FIVAEU_144199 Length: 47
+# FIVAEU_144199 Number of predicted TMRs: 0
+FIVAEU_144199	inside	1	47				
+//
+# FIVAEU_34916 Length: 48
+# FIVAEU_34916 Number of predicted TMRs: 0
+FIVAEU_34916	inside	1	48				
+//
+# FIVAEU_23227 Length: 48
+# FIVAEU_23227 Number of predicted TMRs: 0
+FIVAEU_23227	inside	1	48				
+//
+# FIVAEU_68734 Length: 46
+# FIVAEU_68734 Number of predicted TMRs: 0
+FIVAEU_68734	signal	1	45				
+FIVAEU_68734	outside	46	46				
+//
+# FIVAEU_14809 Length: 47
+# FIVAEU_14809 Number of predicted TMRs: 0
+FIVAEU_14809	signal	1	46				
+FIVAEU_14809	outside	47	47				
+//
+# FIVAEU_134462 Length: 45
+# FIVAEU_134462 Number of predicted TMRs: 0
+FIVAEU_134462	signal	1	34				
+FIVAEU_134462	outside	35	45				
+//
+# FIVAEU_138003 Length: 47
+# FIVAEU_138003 Number of predicted TMRs: 0
+FIVAEU_138003	signal	1	34				
+FIVAEU_138003	outside	35	47				
+//
+# FIVAEU_24181 Length: 48
+# FIVAEU_24181 Number of predicted TMRs: 0
+FIVAEU_24181	signal	1	10				
+FIVAEU_24181	outside	11	48				
+//
+# FIVAEU_74394 Length: 37
+# FIVAEU_74394 Number of predicted TMRs: 0
+FIVAEU_74394	inside	1	37				
+//
+# FIVAEU_87801 Length: 45
+# FIVAEU_87801 Number of predicted TMRs: 0
+FIVAEU_87801	signal	1	21				
+FIVAEU_87801	outside	22	45				
+//
+# FIVAEU_149832 Length: 36
+# FIVAEU_149832 Number of predicted TMRs: 0
+FIVAEU_149832	inside	1	36				
+//
+# FIVAEU_137542 Length: 49
+# FIVAEU_137542 Number of predicted TMRs: 0
+FIVAEU_137542	inside	1	49				
+//
+# FIVAEU_171530 Length: 40
+# FIVAEU_171530 Number of predicted TMRs: 0
+FIVAEU_171530	signal	1	14				
+FIVAEU_171530	outside	15	40				
+//
+# FIVAEU_164038 Length: 49
+# FIVAEU_164038 Number of predicted TMRs: 0
+FIVAEU_164038	inside	1	49				
+//
+# FIVAEU_167329 Length: 45
+# FIVAEU_167329 Number of predicted TMRs: 0
+FIVAEU_167329	inside	1	45				
+//
+# FIVAEU_90627 Length: 46
+# FIVAEU_90627 Number of predicted TMRs: 0
+FIVAEU_90627	signal	1	23				
+FIVAEU_90627	outside	24	46				
+//
+# FIVAEU_47507 Length: 48
+# FIVAEU_47507 Number of predicted TMRs: 0
+FIVAEU_47507	inside	1	48				
+//
+# FIVAEU_23452 Length: 48
+# FIVAEU_23452 Number of predicted TMRs: 0
+FIVAEU_23452	inside	1	48				
+//
+# FIVAEU_25907 Length: 50
+# FIVAEU_25907 Number of predicted TMRs: 0
+FIVAEU_25907	inside	1	50				
+//
+# FIVAEU_143120 Length: 38
+# FIVAEU_143120 Number of predicted TMRs: 0
+FIVAEU_143120	signal	1	21				
+FIVAEU_143120	outside	22	38				
+//
+# FIVAEU_77618 Length: 40
+# FIVAEU_77618 Number of predicted TMRs: 0
+FIVAEU_77618	signal	1	20				
+FIVAEU_77618	outside	21	40				
+//
+# FIVAEU_77599 Length: 41
+# FIVAEU_77599 Number of predicted TMRs: 0
+FIVAEU_77599	signal	1	21				
+FIVAEU_77599	outside	22	41				
+//
+# FIVAEU_150411 Length: 48
+# FIVAEU_150411 Number of predicted TMRs: 0
+FIVAEU_150411	outside	1	48				
+//
+# FIVAEU_29116 Length: 41
+# FIVAEU_29116 Number of predicted TMRs: 0
+FIVAEU_29116	signal	1	14				
+FIVAEU_29116	outside	15	41				
+//
+# FIVAEU_91983 Length: 49
+# FIVAEU_91983 Number of predicted TMRs: 0
+FIVAEU_91983	inside	1	49				
+//
+# FIVAEU_87518 Length: 45
+# FIVAEU_87518 Number of predicted TMRs: 0
+FIVAEU_87518	inside	1	45				
+//
+# FIVAEU_73683 Length: 47
+# FIVAEU_73683 Number of predicted TMRs: 0
+FIVAEU_73683	inside	1	47				
+//
+# FIVAEU_106572 Length: 48
+# FIVAEU_106572 Number of predicted TMRs: 0
+FIVAEU_106572	signal	1	29				
+FIVAEU_106572	outside	30	48				
+//
+# FIVAEU_73149 Length: 46
+# FIVAEU_73149 Number of predicted TMRs: 0
+FIVAEU_73149	inside	1	46				
+//
+# FIVAEU_73131 Length: 44
+# FIVAEU_73131 Number of predicted TMRs: 0
+FIVAEU_73131	inside	1	44				
+//
+# FIVAEU_74858 Length: 44
+# FIVAEU_74858 Number of predicted TMRs: 0
+FIVAEU_74858	inside	1	44				
+//
+# FIVAEU_137146 Length: 42
+# FIVAEU_137146 Number of predicted TMRs: 0
+FIVAEU_137146	signal	1	41				
+FIVAEU_137146	outside	42	42				
+//
+# FIVAEU_46995 Length: 50
+# FIVAEU_46995 Number of predicted TMRs: 0
+FIVAEU_46995	inside	1	50				
+//
+# FIVAEU_143067 Length: 43
+# FIVAEU_143067 Number of predicted TMRs: 0
+FIVAEU_143067	inside	1	43				
+//
+# FIVAEU_2331 Length: 43
+# FIVAEU_2331 Number of predicted TMRs: 0
+FIVAEU_2331	signal	1	42				
+FIVAEU_2331	outside	43	43				
+//
+# FIVAEU_98703 Length: 42
+# FIVAEU_98703 Number of predicted TMRs: 0
+FIVAEU_98703	signal	1	41				
+FIVAEU_98703	outside	42	42				
+//
+# FIVAEU_84228 Length: 50
+# FIVAEU_84228 Number of predicted TMRs: 0
+FIVAEU_84228	inside	1	50				
+//
+# FIVAEU_139730 Length: 44
+# FIVAEU_139730 Number of predicted TMRs: 0
+FIVAEU_139730	inside	1	44				
+//
+# FIVAEU_139429 Length: 42
+# FIVAEU_139429 Number of predicted TMRs: 0
+FIVAEU_139429	inside	1	42				
+//
+# FIVAEU_125497 Length: 42
+# FIVAEU_125497 Number of predicted TMRs: 0
+FIVAEU_125497	signal	1	27				
+FIVAEU_125497	outside	28	42				
+//
+# FIVAEU_128414 Length: 50
+# FIVAEU_128414 Number of predicted TMRs: 0
+FIVAEU_128414	inside	1	50				
+//
+# FIVAEU_146134 Length: 44
+# FIVAEU_146134 Number of predicted TMRs: 0
+FIVAEU_146134	signal	1	40				
+FIVAEU_146134	outside	41	44				
+//
+# FIVAEU_163119 Length: 44
+# FIVAEU_163119 Number of predicted TMRs: 0
+FIVAEU_163119	inside	1	44				
+//
+# FIVAEU_2495 Length: 46
+# FIVAEU_2495 Number of predicted TMRs: 0
+FIVAEU_2495	signal	1	12				
+FIVAEU_2495	outside	13	46				
+//
+# FIVAEU_116390 Length: 32
+# FIVAEU_116390 Number of predicted TMRs: 0
+FIVAEU_116390	signal	1	31				
+FIVAEU_116390	outside	32	32				
+//
+# FIVAEU_138484 Length: 46
+# FIVAEU_138484 Number of predicted TMRs: 0
+FIVAEU_138484	signal	1	45				
+FIVAEU_138484	outside	46	46				
+//
+# FIVAEU_87064 Length: 46
+# FIVAEU_87064 Number of predicted TMRs: 0
+FIVAEU_87064	signal	1	32				
+FIVAEU_87064	outside	33	46				
+//
+# FIVAEU_42680 Length: 46
+# FIVAEU_42680 Number of predicted TMRs: 0
+FIVAEU_42680	signal	1	45				
+FIVAEU_42680	outside	46	46				
+//
+# FIVAEU_21885 Length: 47
+# FIVAEU_21885 Number of predicted TMRs: 0
+FIVAEU_21885	inside	1	47				
+//
+# FIVAEU_70422 Length: 27
+# FIVAEU_70422 Number of predicted TMRs: 0
+FIVAEU_70422	signal	1	23				
+FIVAEU_70422	outside	24	27				
+//
+# FIVAEU_27573 Length: 49
+# FIVAEU_27573 Number of predicted TMRs: 0
+FIVAEU_27573	signal	1	14				
+FIVAEU_27573	outside	15	49				
+//
+# FIVAEU_73353 Length: 44
+# FIVAEU_73353 Number of predicted TMRs: 0
+FIVAEU_73353	signal	1	11				
+FIVAEU_73353	outside	12	44				
+//
+# FIVAEU_165610 Length: 43
+# FIVAEU_165610 Number of predicted TMRs: 0
+FIVAEU_165610	signal	1	35				
+FIVAEU_165610	outside	36	43				
+//
+# FIVAEU_70231 Length: 47
+# FIVAEU_70231 Number of predicted TMRs: 0
+FIVAEU_70231	inside	1	47				
+//
+# FIVAEU_148267 Length: 46
+# FIVAEU_148267 Number of predicted TMRs: 0
+FIVAEU_148267	signal	1	40				
+FIVAEU_148267	outside	41	46				
+//
+# FIVAEU_158788 Length: 50
+# FIVAEU_158788 Number of predicted TMRs: 0
+FIVAEU_158788	signal	1	13				
+FIVAEU_158788	outside	14	50				
+//
+# FIVAEU_32891 Length: 40
+# FIVAEU_32891 Number of predicted TMRs: 0
+FIVAEU_32891	signal	1	39				
+FIVAEU_32891	outside	40	40				
+//
+# FIVAEU_79068 Length: 39
+# FIVAEU_79068 Number of predicted TMRs: 0
+FIVAEU_79068	signal	1	38				
+FIVAEU_79068	outside	39	39				
+//
+# FIVAEU_48235 Length: 46
+# FIVAEU_48235 Number of predicted TMRs: 0
+FIVAEU_48235	signal	1	10				
+FIVAEU_48235	outside	11	46				
+//
+# FIVAEU_113968 Length: 49
+# FIVAEU_113968 Number of predicted TMRs: 0
+FIVAEU_113968	signal	1	47				
+FIVAEU_113968	outside	48	49				
+//
+# FIVAEU_95480 Length: 41
+# FIVAEU_95480 Number of predicted TMRs: 0
+FIVAEU_95480	signal	1	19				
+FIVAEU_95480	outside	20	41				
+//
+# FIVAEU_82769 Length: 33
+# FIVAEU_82769 Number of predicted TMRs: 0
+FIVAEU_82769	outside	1	33				
+//
+# FIVAEU_69525 Length: 50
+# FIVAEU_69525 Number of predicted TMRs: 0
+FIVAEU_69525	outside	1	50				
+//
+# FIVAEU_58221 Length: 39
+# FIVAEU_58221 Number of predicted TMRs: 0
+FIVAEU_58221	signal	1	17				
+FIVAEU_58221	outside	18	39				
+//
+# FIVAEU_41166 Length: 50
+# FIVAEU_41166 Number of predicted TMRs: 0
+FIVAEU_41166	signal	1	44				
+FIVAEU_41166	outside	45	50				
+//
+# FIVAEU_100636 Length: 49
+# FIVAEU_100636 Number of predicted TMRs: 0
+FIVAEU_100636	signal	1	46				
+FIVAEU_100636	outside	47	49				
+//
+# FIVAEU_36688 Length: 46
+# FIVAEU_36688 Number of predicted TMRs: 0
+FIVAEU_36688	signal	1	11				
+FIVAEU_36688	outside	12	46				
+//
+# FIVAEU_123145 Length: 46
+# FIVAEU_123145 Number of predicted TMRs: 0
+FIVAEU_123145	signal	1	23				
+FIVAEU_123145	outside	24	46				
+//
+# FIVAEU_85861 Length: 45
+# FIVAEU_85861 Number of predicted TMRs: 0
+FIVAEU_85861	inside	1	45				
+//
+# FIVAEU_87901 Length: 49
+# FIVAEU_87901 Number of predicted TMRs: 0
+FIVAEU_87901	signal	1	37				
+FIVAEU_87901	outside	38	49				
+//
+# FIVAEU_80189 Length: 41
+# FIVAEU_80189 Number of predicted TMRs: 0
+FIVAEU_80189	signal	1	40				
+FIVAEU_80189	outside	41	41				
+//
+# FIVAEU_89394 Length: 49
+# FIVAEU_89394 Number of predicted TMRs: 0
+FIVAEU_89394	inside	1	49				
+//
+# FIVAEU_91448 Length: 50
+# FIVAEU_91448 Number of predicted TMRs: 0
+FIVAEU_91448	signal	1	44				
+FIVAEU_91448	outside	45	50				
+//
+# FIVAEU_35861 Length: 49
+# FIVAEU_35861 Number of predicted TMRs: 0
+FIVAEU_35861	inside	1	49				
+//
+# FIVAEU_155910 Length: 43
+# FIVAEU_155910 Number of predicted TMRs: 0
+FIVAEU_155910	signal	1	35				
+FIVAEU_155910	outside	36	43				
+//
+# FIVAEU_115441 Length: 48
+# FIVAEU_115441 Number of predicted TMRs: 0
+FIVAEU_115441	inside	1	48				
+//
+# FIVAEU_18020 Length: 48
+# FIVAEU_18020 Number of predicted TMRs: 0
+FIVAEU_18020	inside	1	48				
+//
+# FIVAEU_56143 Length: 37
+# FIVAEU_56143 Number of predicted TMRs: 0
+FIVAEU_56143	signal	1	29				
+FIVAEU_56143	outside	30	37				
+//
+# FIVAEU_52532 Length: 47
+# FIVAEU_52532 Number of predicted TMRs: 0
+FIVAEU_52532	signal	1	35				
+FIVAEU_52532	outside	36	47				
+//
+# FIVAEU_111611 Length: 38
+# FIVAEU_111611 Number of predicted TMRs: 0
+FIVAEU_111611	signal	1	21				
+FIVAEU_111611	outside	22	38				
+//
+# FIVAEU_63138 Length: 47
+# FIVAEU_63138 Number of predicted TMRs: 0
+FIVAEU_63138	inside	1	47				
+//
+# FIVAEU_88238 Length: 50
+# FIVAEU_88238 Number of predicted TMRs: 0
+FIVAEU_88238	signal	1	43				
+FIVAEU_88238	outside	44	50				
+//
+# FIVAEU_170923 Length: 49
+# FIVAEU_170923 Number of predicted TMRs: 0
+FIVAEU_170923	signal	1	10				
+FIVAEU_170923	outside	11	49				
+//
+# FIVAEU_30071 Length: 50
+# FIVAEU_30071 Number of predicted TMRs: 0
+FIVAEU_30071	inside	1	50				
+//
+# FIVAEU_119204 Length: 38
+# FIVAEU_119204 Number of predicted TMRs: 0
+FIVAEU_119204	inside	1	38				
+//
+# FIVAEU_22868 Length: 46
+# FIVAEU_22868 Number of predicted TMRs: 0
+FIVAEU_22868	signal	1	18				
+FIVAEU_22868	outside	19	46				
+//
+# FIVAEU_14941 Length: 42
+# FIVAEU_14941 Number of predicted TMRs: 0
+FIVAEU_14941	signal	1	41				
+FIVAEU_14941	outside	42	42				
+//
+# FIVAEU_131422 Length: 42
+# FIVAEU_131422 Number of predicted TMRs: 0
+FIVAEU_131422	inside	1	42				
+//
+# FIVAEU_143366 Length: 42
+# FIVAEU_143366 Number of predicted TMRs: 0
+FIVAEU_143366	signal	1	40				
+FIVAEU_143366	outside	41	42				
+//
+# FIVAEU_131656 Length: 42
+# FIVAEU_131656 Number of predicted TMRs: 0
+FIVAEU_131656	signal	1	41				
+FIVAEU_131656	outside	42	42				
+//
+# FIVAEU_32656 Length: 42
+# FIVAEU_32656 Number of predicted TMRs: 0
+FIVAEU_32656	signal	1	41				
+FIVAEU_32656	outside	42	42				
+//
+# FIVAEU_119299 Length: 42
+# FIVAEU_119299 Number of predicted TMRs: 0
+FIVAEU_119299	inside	1	42				
+//
+# FIVAEU_148064 Length: 42
+# FIVAEU_148064 Number of predicted TMRs: 0
+FIVAEU_148064	inside	1	42				
+//
+# FIVAEU_170693 Length: 42
+# FIVAEU_170693 Number of predicted TMRs: 0
+FIVAEU_170693	inside	1	42				
+//
+# FIVAEU_163640 Length: 42
+# FIVAEU_163640 Number of predicted TMRs: 0
+FIVAEU_163640	signal	1	41				
+FIVAEU_163640	outside	42	42				
+//
+# FIVAEU_112730 Length: 42
+# FIVAEU_112730 Number of predicted TMRs: 0
+FIVAEU_112730	inside	1	42				
+//
+# FIVAEU_170855 Length: 42
+# FIVAEU_170855 Number of predicted TMRs: 0
+FIVAEU_170855	signal	1	41				
+FIVAEU_170855	outside	42	42				
+//
+# FIVAEU_148573 Length: 42
+# FIVAEU_148573 Number of predicted TMRs: 0
+FIVAEU_148573	signal	1	41				
+FIVAEU_148573	outside	42	42				
+//
+# FIVAEU_170404 Length: 41
+# FIVAEU_170404 Number of predicted TMRs: 0
+FIVAEU_170404	signal	1	37				
+FIVAEU_170404	outside	38	41				
+//
+# FIVAEU_16439 Length: 42
+# FIVAEU_16439 Number of predicted TMRs: 0
+FIVAEU_16439	signal	1	40				
+FIVAEU_16439	outside	41	42				
+//
+# FIVAEU_13138 Length: 42
+# FIVAEU_13138 Number of predicted TMRs: 0
+FIVAEU_13138	signal	1	41				
+FIVAEU_13138	outside	42	42				
+//
+# FIVAEU_137850 Length: 42
+# FIVAEU_137850 Number of predicted TMRs: 0
+FIVAEU_137850	inside	1	42				
+//
+# FIVAEU_170366 Length: 42
+# FIVAEU_170366 Number of predicted TMRs: 0
+FIVAEU_170366	signal	1	41				
+FIVAEU_170366	outside	42	42				
+//
+# FIVAEU_124040 Length: 42
+# FIVAEU_124040 Number of predicted TMRs: 0
+FIVAEU_124040	inside	1	42				
+//
+# FIVAEU_168857 Length: 42
+# FIVAEU_168857 Number of predicted TMRs: 0
+FIVAEU_168857	signal	1	41				
+FIVAEU_168857	outside	42	42				
+//
+# FIVAEU_163662 Length: 42
+# FIVAEU_163662 Number of predicted TMRs: 0
+FIVAEU_163662	inside	1	42				
+//
+# FIVAEU_93017 Length: 42
+# FIVAEU_93017 Number of predicted TMRs: 0
+FIVAEU_93017	inside	1	42				
+//
+# FIVAEU_121784 Length: 42
+# FIVAEU_121784 Number of predicted TMRs: 0
+FIVAEU_121784	signal	1	41				
+FIVAEU_121784	outside	42	42				
+//
+# FIVAEU_92051 Length: 42
+# FIVAEU_92051 Number of predicted TMRs: 0
+FIVAEU_92051	signal	1	41				
+FIVAEU_92051	outside	42	42				
+//
+# FIVAEU_164636 Length: 42
+# FIVAEU_164636 Number of predicted TMRs: 0
+FIVAEU_164636	signal	1	41				
+FIVAEU_164636	outside	42	42				
+//
+# FIVAEU_170299 Length: 42
+# FIVAEU_170299 Number of predicted TMRs: 0
+FIVAEU_170299	signal	1	41				
+FIVAEU_170299	outside	42	42				
+//
+# FIVAEU_90234 Length: 42
+# FIVAEU_90234 Number of predicted TMRs: 0
+FIVAEU_90234	signal	1	41				
+FIVAEU_90234	outside	42	42				
+//
+# FIVAEU_22727 Length: 38
+# FIVAEU_22727 Number of predicted TMRs: 0
+FIVAEU_22727	signal	1	10				
+FIVAEU_22727	outside	11	38				
+//
+# FIVAEU_166113 Length: 35
+# FIVAEU_166113 Number of predicted TMRs: 0
+FIVAEU_166113	signal	1	33				
+FIVAEU_166113	outside	34	35				
+//
+# FIVAEU_41326 Length: 45
+# FIVAEU_41326 Number of predicted TMRs: 0
+FIVAEU_41326	signal	1	29				
+FIVAEU_41326	outside	30	45				
+//
+# FIVAEU_139778 Length: 44
+# FIVAEU_139778 Number of predicted TMRs: 0
+FIVAEU_139778	inside	1	44				
+//
+# FIVAEU_27699 Length: 44
+# FIVAEU_27699 Number of predicted TMRs: 0
+FIVAEU_27699	signal	1	35				
+FIVAEU_27699	outside	36	44				
+//
+# FIVAEU_60974 Length: 48
+# FIVAEU_60974 Number of predicted TMRs: 0
+FIVAEU_60974	signal	1	38				
+FIVAEU_60974	outside	39	48				
+//
+# FIVAEU_127529 Length: 49
+# FIVAEU_127529 Number of predicted TMRs: 0
+FIVAEU_127529	inside	1	49				
+//
+# FIVAEU_2806 Length: 44
+# FIVAEU_2806 Number of predicted TMRs: 0
+FIVAEU_2806	signal	1	31				
+FIVAEU_2806	outside	32	44				
+//
+# FIVAEU_101368 Length: 37
+# FIVAEU_101368 Number of predicted TMRs: 0
+FIVAEU_101368	signal	1	22				
+FIVAEU_101368	outside	23	37				
+//
+# FIVAEU_40455 Length: 47
+# FIVAEU_40455 Number of predicted TMRs: 0
+FIVAEU_40455	inside	1	47				
+//
+# FIVAEU_127006 Length: 50
+# FIVAEU_127006 Number of predicted TMRs: 0
+FIVAEU_127006	inside	1	50				
+//
+# FIVAEU_55359 Length: 44
+# FIVAEU_55359 Number of predicted TMRs: 0
+FIVAEU_55359	signal	1	34				
+FIVAEU_55359	outside	35	44				
+//
+# FIVAEU_2725 Length: 41
+# FIVAEU_2725 Number of predicted TMRs: 0
+FIVAEU_2725	signal	1	40				
+FIVAEU_2725	outside	41	41				
+//
+# FIVAEU_82627 Length: 38
+# FIVAEU_82627 Number of predicted TMRs: 0
+FIVAEU_82627	inside	1	38				
+//
+# FIVAEU_170303 Length: 47
+# FIVAEU_170303 Number of predicted TMRs: 0
+FIVAEU_170303	signal	1	46				
+FIVAEU_170303	outside	47	47				
+//
+# FIVAEU_36920 Length: 46
+# FIVAEU_36920 Number of predicted TMRs: 0
+FIVAEU_36920	signal	1	10				
+FIVAEU_36920	outside	11	46				
+//
+# FIVAEU_126571 Length: 40
+# FIVAEU_126571 Number of predicted TMRs: 0
+FIVAEU_126571	signal	1	21				
+FIVAEU_126571	outside	22	40				
+//
+# FIVAEU_144466 Length: 47
+# FIVAEU_144466 Number of predicted TMRs: 0
+FIVAEU_144466	inside	1	47				
+//
+# FIVAEU_54661 Length: 44
+# FIVAEU_54661 Number of predicted TMRs: 0
+FIVAEU_54661	signal	1	32				
+FIVAEU_54661	outside	33	44				
+//
+# FIVAEU_152293 Length: 50
+# FIVAEU_152293 Number of predicted TMRs: 0
+FIVAEU_152293	signal	1	38				
+FIVAEU_152293	outside	39	50				
+//
+# FIVAEU_96516 Length: 38
+# FIVAEU_96516 Number of predicted TMRs: 0
+FIVAEU_96516	inside	1	38				
+//
+# FIVAEU_132207 Length: 44
+# FIVAEU_132207 Number of predicted TMRs: 0
+FIVAEU_132207	signal	1	10				
+FIVAEU_132207	outside	11	44				
+//
+# FIVAEU_43579 Length: 45
+# FIVAEU_43579 Number of predicted TMRs: 0
+FIVAEU_43579	inside	1	45				
+//
+# FIVAEU_167294 Length: 47
+# FIVAEU_167294 Number of predicted TMRs: 0
+FIVAEU_167294	signal	1	41				
+FIVAEU_167294	outside	42	47				
+//
+# FIVAEU_168983 Length: 49
+# FIVAEU_168983 Number of predicted TMRs: 0
+FIVAEU_168983	inside	1	49				
+//
+# FIVAEU_44248 Length: 48
+# FIVAEU_44248 Number of predicted TMRs: 0
+FIVAEU_44248	inside	1	48				
+//
+# FIVAEU_171738 Length: 41
+# FIVAEU_171738 Number of predicted TMRs: 0
+FIVAEU_171738	signal	1	40				
+FIVAEU_171738	outside	41	41				
+//
+# FIVAEU_171714 Length: 41
+# FIVAEU_171714 Number of predicted TMRs: 0
+FIVAEU_171714	inside	1	41				
+//
+# FIVAEU_163841 Length: 43
+# FIVAEU_163841 Number of predicted TMRs: 0
+FIVAEU_163841	inside	1	43				
+//
+# FIVAEU_9477 Length: 44
+# FIVAEU_9477 Number of predicted TMRs: 0
+FIVAEU_9477	signal	1	42				
+FIVAEU_9477	outside	43	44				
+//
+# FIVAEU_117508 Length: 48
+# FIVAEU_117508 Number of predicted TMRs: 0
+FIVAEU_117508	inside	1	48				
+//
+# FIVAEU_139562 Length: 47
+# FIVAEU_139562 Number of predicted TMRs: 0
+FIVAEU_139562	inside	1	47				
+//
+# FIVAEU_98764 Length: 37
+# FIVAEU_98764 Number of predicted TMRs: 0
+FIVAEU_98764	signal	1	35				
+FIVAEU_98764	outside	36	37				
+//
+# FIVAEU_100650 Length: 50
+# FIVAEU_100650 Number of predicted TMRs: 0
+FIVAEU_100650	signal	1	47				
+FIVAEU_100650	outside	48	50				
+//
+# FIVAEU_47330 Length: 49
+# FIVAEU_47330 Number of predicted TMRs: 0
+FIVAEU_47330	inside	1	49				
+//
+# FIVAEU_94498 Length: 50
+# FIVAEU_94498 Number of predicted TMRs: 0
+FIVAEU_94498	inside	1	50				
+//
+# FIVAEU_17916 Length: 46
+# FIVAEU_17916 Number of predicted TMRs: 0
+FIVAEU_17916	signal	1	26				
+FIVAEU_17916	outside	27	46				
+//
+# FIVAEU_115128 Length: 41
+# FIVAEU_115128 Number of predicted TMRs: 0
+FIVAEU_115128	inside	1	41				
+//
+# FIVAEU_142250 Length: 34
+# FIVAEU_142250 Number of predicted TMRs: 1
+FIVAEU_142250	outside	1	1				
+FIVAEU_142250	TMhelix	2	20				
+FIVAEU_142250	inside	21	34				
+//
+# FIVAEU_68576 Length: 49
+# FIVAEU_68576 Number of predicted TMRs: 0
+FIVAEU_68576	inside	1	49				
+//
+# FIVAEU_66797 Length: 41
+# FIVAEU_66797 Number of predicted TMRs: 0
+FIVAEU_66797	inside	1	41				
+//
+# FIVAEU_146972 Length: 49
+# FIVAEU_146972 Number of predicted TMRs: 0
+FIVAEU_146972	inside	1	49				
+//
+# FIVAEU_168031 Length: 41
+# FIVAEU_168031 Number of predicted TMRs: 0
+FIVAEU_168031	inside	1	41				
+//
+# FIVAEU_96006 Length: 39
+# FIVAEU_96006 Number of predicted TMRs: 0
+FIVAEU_96006	signal	1	10				
+FIVAEU_96006	outside	11	39				
+//
+# FIVAEU_136885 Length: 34
+# FIVAEU_136885 Number of predicted TMRs: 0
+FIVAEU_136885	signal	1	33				
+FIVAEU_136885	outside	34	34				
+//
+# FIVAEU_21015 Length: 47
+# FIVAEU_21015 Number of predicted TMRs: 0
+FIVAEU_21015	signal	1	10				
+FIVAEU_21015	outside	11	47				
+//
+# FIVAEU_118405 Length: 46
+# FIVAEU_118405 Number of predicted TMRs: 0
+FIVAEU_118405	outside	1	46				
+//
+# FIVAEU_72483 Length: 50
+# FIVAEU_72483 Number of predicted TMRs: 0
+FIVAEU_72483	inside	1	50				
+//
+# FIVAEU_162171 Length: 49
+# FIVAEU_162171 Number of predicted TMRs: 0
+FIVAEU_162171	inside	1	49				
+//
+# FIVAEU_40956 Length: 50
+# FIVAEU_40956 Number of predicted TMRs: 0
+FIVAEU_40956	outside	1	50				
+//
+# FIVAEU_120388 Length: 48
+# FIVAEU_120388 Number of predicted TMRs: 0
+FIVAEU_120388	inside	1	48				
+//
+# FIVAEU_2174 Length: 46
+# FIVAEU_2174 Number of predicted TMRs: 0
+FIVAEU_2174	inside	1	46				
+//
+# FIVAEU_113414 Length: 49
+# FIVAEU_113414 Number of predicted TMRs: 0
+FIVAEU_113414	inside	1	49				
+//
+# FIVAEU_167642 Length: 41
+# FIVAEU_167642 Number of predicted TMRs: 0
+FIVAEU_167642	signal	1	32				
+FIVAEU_167642	outside	33	41				
+//
+# FIVAEU_16923 Length: 47
+# FIVAEU_16923 Number of predicted TMRs: 0
+FIVAEU_16923	signal	1	28				
+FIVAEU_16923	outside	29	47				
+//
+# FIVAEU_151951 Length: 42
+# FIVAEU_151951 Number of predicted TMRs: 0
+FIVAEU_151951	signal	1	41				
+FIVAEU_151951	outside	42	42				
+//
+# FIVAEU_48869 Length: 41
+# FIVAEU_48869 Number of predicted TMRs: 0
+FIVAEU_48869	signal	1	36				
+FIVAEU_48869	outside	37	41				
+//
+# FIVAEU_118270 Length: 41
+# FIVAEU_118270 Number of predicted TMRs: 0
+FIVAEU_118270	signal	1	32				
+FIVAEU_118270	outside	33	41				
+//
+# FIVAEU_20800 Length: 48
+# FIVAEU_20800 Number of predicted TMRs: 0
+FIVAEU_20800	inside	1	48				
+//
+# FIVAEU_122021 Length: 41
+# FIVAEU_122021 Number of predicted TMRs: 0
+FIVAEU_122021	outside	1	41				
+//
+# FIVAEU_106180 Length: 40
+# FIVAEU_106180 Number of predicted TMRs: 0
+FIVAEU_106180	signal	1	14				
+FIVAEU_106180	outside	15	40				
+//
+# FIVAEU_53589 Length: 46
+# FIVAEU_53589 Number of predicted TMRs: 0
+FIVAEU_53589	inside	1	46				
+//
+# FIVAEU_54480 Length: 50
+# FIVAEU_54480 Number of predicted TMRs: 0
+FIVAEU_54480	signal	1	43				
+FIVAEU_54480	outside	44	50				
+//
+# FIVAEU_62103 Length: 42
+# FIVAEU_62103 Number of predicted TMRs: 0
+FIVAEU_62103	inside	1	42				
+//
+# FIVAEU_89913 Length: 42
+# FIVAEU_89913 Number of predicted TMRs: 0
+FIVAEU_89913	signal	1	27				
+FIVAEU_89913	outside	28	42				
+//
+# FIVAEU_14524 Length: 47
+# FIVAEU_14524 Number of predicted TMRs: 0
+FIVAEU_14524	inside	1	47				
+//
+# FIVAEU_127198 Length: 45
+# FIVAEU_127198 Number of predicted TMRs: 0
+FIVAEU_127198	inside	1	45				
+//
+# FIVAEU_42024 Length: 50
+# FIVAEU_42024 Number of predicted TMRs: 0
+FIVAEU_42024	inside	1	50				
+//
+# FIVAEU_68943 Length: 49
+# FIVAEU_68943 Number of predicted TMRs: 0
+FIVAEU_68943	signal	1	47				
+FIVAEU_68943	outside	48	49				
+//
+# FIVAEU_64442 Length: 37
+# FIVAEU_64442 Number of predicted TMRs: 0
+FIVAEU_64442	inside	1	37				
+//
+# FIVAEU_275 Length: 41
+# FIVAEU_275 Number of predicted TMRs: 0
+FIVAEU_275	inside	1	41				

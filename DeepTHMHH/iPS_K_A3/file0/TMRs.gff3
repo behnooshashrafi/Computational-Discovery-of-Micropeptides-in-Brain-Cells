@@ -1,0 +1,4361 @@
+##gff-version 3
+# FYQRZY_140377 Length: 50
+# FYQRZY_140377 Number of predicted TMRs: 0
+FYQRZY_140377	inside	1	50				
+//
+# FYQRZY_51944 Length: 44
+# FYQRZY_51944 Number of predicted TMRs: 0
+FYQRZY_51944	inside	1	44				
+//
+# FYQRZY_58394 Length: 46
+# FYQRZY_58394 Number of predicted TMRs: 0
+FYQRZY_58394	inside	1	46				
+//
+# FYQRZY_21100 Length: 30
+# FYQRZY_21100 Number of predicted TMRs: 0
+FYQRZY_21100	signal	1	28				
+FYQRZY_21100	outside	29	30				
+//
+# FYQRZY_37602 Length: 46
+# FYQRZY_37602 Number of predicted TMRs: 0
+FYQRZY_37602	inside	1	46				
+//
+# FYQRZY_34539 Length: 44
+# FYQRZY_34539 Number of predicted TMRs: 0
+FYQRZY_34539	inside	1	44				
+//
+# FYQRZY_70395 Length: 44
+# FYQRZY_70395 Number of predicted TMRs: 0
+FYQRZY_70395	inside	1	44				
+//
+# FYQRZY_14850 Length: 46
+# FYQRZY_14850 Number of predicted TMRs: 0
+FYQRZY_14850	signal	1	19				
+FYQRZY_14850	outside	20	46				
+//
+# FYQRZY_124269 Length: 47
+# FYQRZY_124269 Number of predicted TMRs: 0
+FYQRZY_124269	inside	1	47				
+//
+# FYQRZY_112363 Length: 39
+# FYQRZY_112363 Number of predicted TMRs: 0
+FYQRZY_112363	signal	1	38				
+FYQRZY_112363	outside	39	39				
+//
+# FYQRZY_78153 Length: 47
+# FYQRZY_78153 Number of predicted TMRs: 0
+FYQRZY_78153	inside	1	47				
+//
+# FYQRZY_111713 Length: 43
+# FYQRZY_111713 Number of predicted TMRs: 0
+FYQRZY_111713	signal	1	12				
+FYQRZY_111713	outside	13	43				
+//
+# FYQRZY_19809 Length: 50
+# FYQRZY_19809 Number of predicted TMRs: 0
+FYQRZY_19809	inside	1	50				
+//
+# FYQRZY_106505 Length: 46
+# FYQRZY_106505 Number of predicted TMRs: 0
+FYQRZY_106505	inside	1	46				
+//
+# FYQRZY_54292 Length: 37
+# FYQRZY_54292 Number of predicted TMRs: 0
+FYQRZY_54292	signal	1	24				
+FYQRZY_54292	outside	25	37				
+//
+# FYQRZY_13982 Length: 49
+# FYQRZY_13982 Number of predicted TMRs: 0
+FYQRZY_13982	inside	1	49				
+//
+# FYQRZY_45582 Length: 46
+# FYQRZY_45582 Number of predicted TMRs: 0
+FYQRZY_45582	signal	1	23				
+FYQRZY_45582	outside	24	46				
+//
+# FYQRZY_98960 Length: 45
+# FYQRZY_98960 Number of predicted TMRs: 0
+FYQRZY_98960	signal	1	33				
+FYQRZY_98960	outside	34	45				
+//
+# FYQRZY_127542 Length: 50
+# FYQRZY_127542 Number of predicted TMRs: 0
+FYQRZY_127542	inside	1	50				
+//
+# FYQRZY_125519 Length: 39
+# FYQRZY_125519 Number of predicted TMRs: 0
+FYQRZY_125519	inside	1	39				
+//
+# FYQRZY_60886 Length: 36
+# FYQRZY_60886 Number of predicted TMRs: 0
+FYQRZY_60886	inside	1	36				
+//
+# FYQRZY_43393 Length: 49
+# FYQRZY_43393 Number of predicted TMRs: 0
+FYQRZY_43393	signal	1	12				
+FYQRZY_43393	outside	13	49				
+//
+# FYQRZY_141766 Length: 49
+# FYQRZY_141766 Number of predicted TMRs: 0
+FYQRZY_141766	inside	1	49				
+//
+# FYQRZY_83809 Length: 48
+# FYQRZY_83809 Number of predicted TMRs: 0
+FYQRZY_83809	inside	1	48				
+//
+# FYQRZY_162886 Length: 38
+# FYQRZY_162886 Number of predicted TMRs: 0
+FYQRZY_162886	signal	1	28				
+FYQRZY_162886	outside	29	38				
+//
+# FYQRZY_126479 Length: 45
+# FYQRZY_126479 Number of predicted TMRs: 0
+FYQRZY_126479	inside	1	45				
+//
+# FYQRZY_22992 Length: 49
+# FYQRZY_22992 Number of predicted TMRs: 0
+FYQRZY_22992	inside	1	49				
+//
+# FYQRZY_60747 Length: 39
+# FYQRZY_60747 Number of predicted TMRs: 0
+FYQRZY_60747	inside	1	39				
+//
+# FYQRZY_134998 Length: 40
+# FYQRZY_134998 Number of predicted TMRs: 0
+FYQRZY_134998	inside	1	40				
+//
+# FYQRZY_92311 Length: 48
+# FYQRZY_92311 Number of predicted TMRs: 0
+FYQRZY_92311	inside	1	48				
+//
+# FYQRZY_130095 Length: 40
+# FYQRZY_130095 Number of predicted TMRs: 0
+FYQRZY_130095	inside	1	40				
+//
+# FYQRZY_31319 Length: 39
+# FYQRZY_31319 Number of predicted TMRs: 1
+FYQRZY_31319	signal	1	13				
+FYQRZY_31319	outside	14	14				
+FYQRZY_31319	TMhelix	15	34				
+FYQRZY_31319	inside	35	39				
+//
+# FYQRZY_93367 Length: 43
+# FYQRZY_93367 Number of predicted TMRs: 0
+FYQRZY_93367	signal	1	42				
+FYQRZY_93367	outside	43	43				
+//
+# FYQRZY_52737 Length: 36
+# FYQRZY_52737 Number of predicted TMRs: 0
+FYQRZY_52737	inside	1	36				
+//
+# FYQRZY_27812 Length: 31
+# FYQRZY_27812 Number of predicted TMRs: 0
+FYQRZY_27812	inside	1	31				
+//
+# FYQRZY_66798 Length: 46
+# FYQRZY_66798 Number of predicted TMRs: 0
+FYQRZY_66798	inside	1	46				
+//
+# FYQRZY_47795 Length: 34
+# FYQRZY_47795 Number of predicted TMRs: 0
+FYQRZY_47795	signal	1	30				
+FYQRZY_47795	outside	31	34				
+//
+# FYQRZY_9055 Length: 34
+# FYQRZY_9055 Number of predicted TMRs: 0
+FYQRZY_9055	signal	1	33				
+FYQRZY_9055	outside	34	34				
+//
+# FYQRZY_88237 Length: 48
+# FYQRZY_88237 Number of predicted TMRs: 0
+FYQRZY_88237	inside	1	48				
+//
+# FYQRZY_5251 Length: 45
+# FYQRZY_5251 Number of predicted TMRs: 0
+FYQRZY_5251	signal	1	10				
+FYQRZY_5251	outside	11	45				
+//
+# FYQRZY_163503 Length: 40
+# FYQRZY_163503 Number of predicted TMRs: 0
+FYQRZY_163503	inside	1	40				
+//
+# FYQRZY_97849 Length: 40
+# FYQRZY_97849 Number of predicted TMRs: 0
+FYQRZY_97849	inside	1	40				
+//
+# FYQRZY_97872 Length: 31
+# FYQRZY_97872 Number of predicted TMRs: 0
+FYQRZY_97872	inside	1	31				
+//
+# FYQRZY_113185 Length: 50
+# FYQRZY_113185 Number of predicted TMRs: 0
+FYQRZY_113185	inside	1	50				
+//
+# FYQRZY_114524 Length: 49
+# FYQRZY_114524 Number of predicted TMRs: 0
+FYQRZY_114524	inside	1	49				
+//
+# FYQRZY_89314 Length: 44
+# FYQRZY_89314 Number of predicted TMRs: 0
+FYQRZY_89314	inside	1	44				
+//
+# FYQRZY_72859 Length: 49
+# FYQRZY_72859 Number of predicted TMRs: 0
+FYQRZY_72859	inside	1	49				
+//
+# FYQRZY_8082 Length: 36
+# FYQRZY_8082 Number of predicted TMRs: 0
+FYQRZY_8082	inside	1	36				
+//
+# FYQRZY_80749 Length: 38
+# FYQRZY_80749 Number of predicted TMRs: 0
+FYQRZY_80749	inside	1	38				
+//
+# FYQRZY_28007 Length: 50
+# FYQRZY_28007 Number of predicted TMRs: 0
+FYQRZY_28007	signal	1	49				
+FYQRZY_28007	outside	50	50				
+//
+# FYQRZY_139198 Length: 49
+# FYQRZY_139198 Number of predicted TMRs: 0
+FYQRZY_139198	inside	1	49				
+//
+# FYQRZY_73002 Length: 48
+# FYQRZY_73002 Number of predicted TMRs: 0
+FYQRZY_73002	inside	1	48				
+//
+# FYQRZY_74113 Length: 40
+# FYQRZY_74113 Number of predicted TMRs: 0
+FYQRZY_74113	inside	1	40				
+//
+# FYQRZY_63626 Length: 43
+# FYQRZY_63626 Number of predicted TMRs: 0
+FYQRZY_63626	signal	1	18				
+FYQRZY_63626	outside	19	43				
+//
+# FYQRZY_146609 Length: 47
+# FYQRZY_146609 Number of predicted TMRs: 0
+FYQRZY_146609	inside	1	47				
+//
+# FYQRZY_144226 Length: 44
+# FYQRZY_144226 Number of predicted TMRs: 0
+FYQRZY_144226	inside	1	44				
+//
+# FYQRZY_67690 Length: 28
+# FYQRZY_67690 Number of predicted TMRs: 0
+FYQRZY_67690	signal	1	27				
+FYQRZY_67690	outside	28	28				
+//
+# FYQRZY_7883 Length: 40
+# FYQRZY_7883 Number of predicted TMRs: 0
+FYQRZY_7883	signal	1	14				
+FYQRZY_7883	outside	15	40				
+//
+# FYQRZY_66576 Length: 49
+# FYQRZY_66576 Number of predicted TMRs: 0
+FYQRZY_66576	inside	1	49				
+//
+# FYQRZY_68506 Length: 49
+# FYQRZY_68506 Number of predicted TMRs: 0
+FYQRZY_68506	inside	1	49				
+//
+# FYQRZY_58255 Length: 50
+# FYQRZY_58255 Number of predicted TMRs: 0
+FYQRZY_58255	inside	1	50				
+//
+# FYQRZY_65757 Length: 42
+# FYQRZY_65757 Number of predicted TMRs: 0
+FYQRZY_65757	inside	1	42				
+//
+# FYQRZY_143999 Length: 30
+# FYQRZY_143999 Number of predicted TMRs: 0
+FYQRZY_143999	inside	1	30				
+//
+# FYQRZY_55916 Length: 46
+# FYQRZY_55916 Number of predicted TMRs: 0
+FYQRZY_55916	inside	1	46				
+//
+# FYQRZY_93758 Length: 45
+# FYQRZY_93758 Number of predicted TMRs: 0
+FYQRZY_93758	inside	1	45				
+//
+# FYQRZY_30337 Length: 50
+# FYQRZY_30337 Number of predicted TMRs: 0
+FYQRZY_30337	inside	1	50				
+//
+# FYQRZY_70683 Length: 40
+# FYQRZY_70683 Number of predicted TMRs: 0
+FYQRZY_70683	inside	1	40				
+//
+# FYQRZY_147923 Length: 40
+# FYQRZY_147923 Number of predicted TMRs: 0
+FYQRZY_147923	signal	1	30				
+FYQRZY_147923	outside	31	40				
+//
+# FYQRZY_31130 Length: 48
+# FYQRZY_31130 Number of predicted TMRs: 0
+FYQRZY_31130	inside	1	48				
+//
+# FYQRZY_62129 Length: 42
+# FYQRZY_62129 Number of predicted TMRs: 0
+FYQRZY_62129	inside	1	42				
+//
+# FYQRZY_62121 Length: 42
+# FYQRZY_62121 Number of predicted TMRs: 0
+FYQRZY_62121	inside	1	42				
+//
+# FYQRZY_62100 Length: 42
+# FYQRZY_62100 Number of predicted TMRs: 0
+FYQRZY_62100	inside	1	42				
+//
+# FYQRZY_8794 Length: 50
+# FYQRZY_8794 Number of predicted TMRs: 0
+FYQRZY_8794	inside	1	50				
+//
+# FYQRZY_11489 Length: 45
+# FYQRZY_11489 Number of predicted TMRs: 0
+FYQRZY_11489	inside	1	45				
+//
+# FYQRZY_8385 Length: 33
+# FYQRZY_8385 Number of predicted TMRs: 0
+FYQRZY_8385	inside	1	33				
+//
+# FYQRZY_8381 Length: 39
+# FYQRZY_8381 Number of predicted TMRs: 0
+FYQRZY_8381	signal	1	29				
+FYQRZY_8381	outside	30	39				
+//
+# FYQRZY_8379 Length: 40
+# FYQRZY_8379 Number of predicted TMRs: 0
+FYQRZY_8379	signal	1	29				
+FYQRZY_8379	outside	30	40				
+//
+# FYQRZY_8368 Length: 47
+# FYQRZY_8368 Number of predicted TMRs: 0
+FYQRZY_8368	inside	1	47				
+//
+# FYQRZY_158704 Length: 47
+# FYQRZY_158704 Number of predicted TMRs: 0
+FYQRZY_158704	inside	1	47				
+//
+# FYQRZY_41127 Length: 47
+# FYQRZY_41127 Number of predicted TMRs: 0
+FYQRZY_41127	inside	1	47				
+//
+# FYQRZY_10391 Length: 48
+# FYQRZY_10391 Number of predicted TMRs: 0
+FYQRZY_10391	inside	1	48				
+//
+# FYQRZY_42062 Length: 50
+# FYQRZY_42062 Number of predicted TMRs: 0
+FYQRZY_42062	signal	1	47				
+FYQRZY_42062	outside	48	50				
+//
+# FYQRZY_166394 Length: 45
+# FYQRZY_166394 Number of predicted TMRs: 0
+FYQRZY_166394	inside	1	45				
+//
+# FYQRZY_92432 Length: 49
+# FYQRZY_92432 Number of predicted TMRs: 0
+FYQRZY_92432	inside	1	49				
+//
+# FYQRZY_66352 Length: 46
+# FYQRZY_66352 Number of predicted TMRs: 0
+FYQRZY_66352	inside	1	46				
+//
+# FYQRZY_147552 Length: 29
+# FYQRZY_147552 Number of predicted TMRs: 0
+FYQRZY_147552	inside	1	29				
+//
+# FYQRZY_60860 Length: 44
+# FYQRZY_60860 Number of predicted TMRs: 0
+FYQRZY_60860	inside	1	44				
+//
+# FYQRZY_44256 Length: 42
+# FYQRZY_44256 Number of predicted TMRs: 0
+FYQRZY_44256	inside	1	42				
+//
+# FYQRZY_161643 Length: 49
+# FYQRZY_161643 Number of predicted TMRs: 0
+FYQRZY_161643	inside	1	49				
+//
+# FYQRZY_86217 Length: 47
+# FYQRZY_86217 Number of predicted TMRs: 0
+FYQRZY_86217	inside	1	47				
+//
+# FYQRZY_135145 Length: 42
+# FYQRZY_135145 Number of predicted TMRs: 0
+FYQRZY_135145	inside	1	42				
+//
+# FYQRZY_138436 Length: 42
+# FYQRZY_138436 Number of predicted TMRs: 0
+FYQRZY_138436	inside	1	42				
+//
+# FYQRZY_53749 Length: 48
+# FYQRZY_53749 Number of predicted TMRs: 0
+FYQRZY_53749	signal	1	15				
+FYQRZY_53749	outside	16	48				
+//
+# FYQRZY_123104 Length: 43
+# FYQRZY_123104 Number of predicted TMRs: 0
+FYQRZY_123104	inside	1	43				
+//
+# FYQRZY_42039 Length: 44
+# FYQRZY_42039 Number of predicted TMRs: 0
+FYQRZY_42039	signal	1	43				
+FYQRZY_42039	outside	44	44				
+//
+# FYQRZY_80292 Length: 46
+# FYQRZY_80292 Number of predicted TMRs: 0
+FYQRZY_80292	signal	1	44				
+FYQRZY_80292	outside	45	46				
+//
+# FYQRZY_17604 Length: 50
+# FYQRZY_17604 Number of predicted TMRs: 0
+FYQRZY_17604	inside	1	50				
+//
+# FYQRZY_30876 Length: 45
+# FYQRZY_30876 Number of predicted TMRs: 0
+FYQRZY_30876	inside	1	45				
+//
+# FYQRZY_92853 Length: 46
+# FYQRZY_92853 Number of predicted TMRs: 0
+FYQRZY_92853	inside	1	46				
+//
+# FYQRZY_92846 Length: 47
+# FYQRZY_92846 Number of predicted TMRs: 0
+FYQRZY_92846	inside	1	47				
+//
+# FYQRZY_148858 Length: 49
+# FYQRZY_148858 Number of predicted TMRs: 0
+FYQRZY_148858	inside	1	49				
+//
+# FYQRZY_89874 Length: 45
+# FYQRZY_89874 Number of predicted TMRs: 0
+FYQRZY_89874	inside	1	45				
+//
+# FYQRZY_27364 Length: 39
+# FYQRZY_27364 Number of predicted TMRs: 0
+FYQRZY_27364	signal	1	26				
+FYQRZY_27364	outside	27	39				
+//
+# FYQRZY_127681 Length: 46
+# FYQRZY_127681 Number of predicted TMRs: 0
+FYQRZY_127681	inside	1	46				
+//
+# FYQRZY_22075 Length: 48
+# FYQRZY_22075 Number of predicted TMRs: 0
+FYQRZY_22075	signal	1	43				
+FYQRZY_22075	outside	44	48				
+//
+# FYQRZY_22096 Length: 46
+# FYQRZY_22096 Number of predicted TMRs: 0
+FYQRZY_22096	signal	1	42				
+FYQRZY_22096	outside	43	46				
+//
+# FYQRZY_145355 Length: 49
+# FYQRZY_145355 Number of predicted TMRs: 0
+FYQRZY_145355	signal	1	34				
+FYQRZY_145355	outside	35	49				
+//
+# FYQRZY_27375 Length: 39
+# FYQRZY_27375 Number of predicted TMRs: 0
+FYQRZY_27375	inside	1	39				
+//
+# FYQRZY_82365 Length: 48
+# FYQRZY_82365 Number of predicted TMRs: 0
+FYQRZY_82365	signal	1	32				
+FYQRZY_82365	outside	33	48				
+//
+# FYQRZY_33210 Length: 36
+# FYQRZY_33210 Number of predicted TMRs: 0
+FYQRZY_33210	signal	1	32				
+FYQRZY_33210	outside	33	36				
+//
+# FYQRZY_47265 Length: 44
+# FYQRZY_47265 Number of predicted TMRs: 0
+FYQRZY_47265	inside	1	44				
+//
+# FYQRZY_1207 Length: 48
+# FYQRZY_1207 Number of predicted TMRs: 0
+FYQRZY_1207	signal	1	47				
+FYQRZY_1207	outside	48	48				
+//
+# FYQRZY_6271 Length: 44
+# FYQRZY_6271 Number of predicted TMRs: 0
+FYQRZY_6271	outside	1	44				
+//
+# FYQRZY_80140 Length: 41
+# FYQRZY_80140 Number of predicted TMRs: 0
+FYQRZY_80140	inside	1	41				
+//
+# FYQRZY_11819 Length: 44
+# FYQRZY_11819 Number of predicted TMRs: 0
+FYQRZY_11819	inside	1	44				
+//
+# FYQRZY_158658 Length: 45
+# FYQRZY_158658 Number of predicted TMRs: 0
+FYQRZY_158658	signal	1	42				
+FYQRZY_158658	outside	43	45				
+//
+# FYQRZY_68376 Length: 50
+# FYQRZY_68376 Number of predicted TMRs: 0
+FYQRZY_68376	inside	1	50				
+//
+# FYQRZY_60836 Length: 48
+# FYQRZY_60836 Number of predicted TMRs: 0
+FYQRZY_60836	inside	1	48				
+//
+# FYQRZY_25052 Length: 50
+# FYQRZY_25052 Number of predicted TMRs: 0
+FYQRZY_25052	signal	1	26				
+FYQRZY_25052	outside	27	50				
+//
+# FYQRZY_109972 Length: 48
+# FYQRZY_109972 Number of predicted TMRs: 0
+FYQRZY_109972	inside	1	48				
+//
+# FYQRZY_51371 Length: 41
+# FYQRZY_51371 Number of predicted TMRs: 0
+FYQRZY_51371	inside	1	41				
+//
+# FYQRZY_51382 Length: 46
+# FYQRZY_51382 Number of predicted TMRs: 0
+FYQRZY_51382	inside	1	46				
+//
+# FYQRZY_799 Length: 48
+# FYQRZY_799 Number of predicted TMRs: 0
+FYQRZY_799	signal	1	33				
+FYQRZY_799	outside	34	48				
+//
+# FYQRZY_86387 Length: 48
+# FYQRZY_86387 Number of predicted TMRs: 0
+FYQRZY_86387	outside	1	48				
+//
+# FYQRZY_154919 Length: 47
+# FYQRZY_154919 Number of predicted TMRs: 0
+FYQRZY_154919	inside	1	47				
+//
+# FYQRZY_70715 Length: 46
+# FYQRZY_70715 Number of predicted TMRs: 0
+FYQRZY_70715	inside	1	46				
+//
+# FYQRZY_102379 Length: 48
+# FYQRZY_102379 Number of predicted TMRs: 0
+FYQRZY_102379	outside	1	48				
+//
+# FYQRZY_99366 Length: 49
+# FYQRZY_99366 Number of predicted TMRs: 0
+FYQRZY_99366	signal	1	38				
+FYQRZY_99366	outside	39	49				
+//
+# FYQRZY_19259 Length: 47
+# FYQRZY_19259 Number of predicted TMRs: 0
+FYQRZY_19259	inside	1	47				
+//
+# FYQRZY_164938 Length: 47
+# FYQRZY_164938 Number of predicted TMRs: 0
+FYQRZY_164938	inside	1	47				
+//
+# FYQRZY_76150 Length: 33
+# FYQRZY_76150 Number of predicted TMRs: 0
+FYQRZY_76150	signal	1	32				
+FYQRZY_76150	outside	33	33				
+//
+# FYQRZY_7564 Length: 36
+# FYQRZY_7564 Number of predicted TMRs: 1
+FYQRZY_7564	inside	1	6				
+FYQRZY_7564	TMhelix	7	23				
+FYQRZY_7564	outside	24	36				
+//
+# FYQRZY_146060 Length: 44
+# FYQRZY_146060 Number of predicted TMRs: 0
+FYQRZY_146060	signal	1	43				
+FYQRZY_146060	outside	44	44				
+//
+# FYQRZY_2533 Length: 41
+# FYQRZY_2533 Number of predicted TMRs: 0
+FYQRZY_2533	signal	1	21				
+FYQRZY_2533	outside	22	41				
+//
+# FYQRZY_116118 Length: 46
+# FYQRZY_116118 Number of predicted TMRs: 0
+FYQRZY_116118	inside	1	46				
+//
+# FYQRZY_36408 Length: 50
+# FYQRZY_36408 Number of predicted TMRs: 0
+FYQRZY_36408	inside	1	50				
+//
+# FYQRZY_48200 Length: 41
+# FYQRZY_48200 Number of predicted TMRs: 0
+FYQRZY_48200	signal	1	40				
+FYQRZY_48200	outside	41	41				
+//
+# FYQRZY_15831 Length: 45
+# FYQRZY_15831 Number of predicted TMRs: 0
+FYQRZY_15831	inside	1	45				
+//
+# FYQRZY_25351 Length: 42
+# FYQRZY_25351 Number of predicted TMRs: 0
+FYQRZY_25351	signal	1	39				
+FYQRZY_25351	outside	40	42				
+//
+# FYQRZY_115139 Length: 48
+# FYQRZY_115139 Number of predicted TMRs: 0
+FYQRZY_115139	inside	1	48				
+//
+# FYQRZY_29778 Length: 41
+# FYQRZY_29778 Number of predicted TMRs: 0
+FYQRZY_29778	signal	1	24				
+FYQRZY_29778	outside	25	41				
+//
+# FYQRZY_64947 Length: 48
+# FYQRZY_64947 Number of predicted TMRs: 0
+FYQRZY_64947	inside	1	48				
+//
+# FYQRZY_93896 Length: 50
+# FYQRZY_93896 Number of predicted TMRs: 0
+FYQRZY_93896	inside	1	50				
+//
+# FYQRZY_80372 Length: 48
+# FYQRZY_80372 Number of predicted TMRs: 0
+FYQRZY_80372	inside	1	48				
+//
+# FYQRZY_168141 Length: 50
+# FYQRZY_168141 Number of predicted TMRs: 0
+FYQRZY_168141	inside	1	50				
+//
+# FYQRZY_4844 Length: 35
+# FYQRZY_4844 Number of predicted TMRs: 0
+FYQRZY_4844	inside	1	35				
+//
+# FYQRZY_128549 Length: 49
+# FYQRZY_128549 Number of predicted TMRs: 0
+FYQRZY_128549	inside	1	49				
+//
+# FYQRZY_142417 Length: 50
+# FYQRZY_142417 Number of predicted TMRs: 0
+FYQRZY_142417	inside	1	50				
+//
+# FYQRZY_84566 Length: 49
+# FYQRZY_84566 Number of predicted TMRs: 0
+FYQRZY_84566	inside	1	49				
+//
+# FYQRZY_68115 Length: 43
+# FYQRZY_68115 Number of predicted TMRs: 0
+FYQRZY_68115	signal	1	41				
+FYQRZY_68115	outside	42	43				
+//
+# FYQRZY_169145 Length: 44
+# FYQRZY_169145 Number of predicted TMRs: 0
+FYQRZY_169145	inside	1	44				
+//
+# FYQRZY_44874 Length: 50
+# FYQRZY_44874 Number of predicted TMRs: 0
+FYQRZY_44874	inside	1	50				
+//
+# FYQRZY_69435 Length: 29
+# FYQRZY_69435 Number of predicted TMRs: 0
+FYQRZY_69435	inside	1	29				
+//
+# FYQRZY_128901 Length: 46
+# FYQRZY_128901 Number of predicted TMRs: 0
+FYQRZY_128901	inside	1	46				
+//
+# FYQRZY_51284 Length: 43
+# FYQRZY_51284 Number of predicted TMRs: 0
+FYQRZY_51284	inside	1	43				
+//
+# FYQRZY_47931 Length: 48
+# FYQRZY_47931 Number of predicted TMRs: 0
+FYQRZY_47931	inside	1	48				
+//
+# FYQRZY_146627 Length: 40
+# FYQRZY_146627 Number of predicted TMRs: 0
+FYQRZY_146627	inside	1	40				
+//
+# FYQRZY_75712 Length: 42
+# FYQRZY_75712 Number of predicted TMRs: 0
+FYQRZY_75712	inside	1	42				
+//
+# FYQRZY_146061 Length: 45
+# FYQRZY_146061 Number of predicted TMRs: 0
+FYQRZY_146061	signal	1	39				
+FYQRZY_146061	outside	40	45				
+//
+# FYQRZY_155244 Length: 33
+# FYQRZY_155244 Number of predicted TMRs: 0
+FYQRZY_155244	signal	1	30				
+FYQRZY_155244	outside	31	33				
+//
+# FYQRZY_57636 Length: 39
+# FYQRZY_57636 Number of predicted TMRs: 0
+FYQRZY_57636	inside	1	39				
+//
+# FYQRZY_44178 Length: 40
+# FYQRZY_44178 Number of predicted TMRs: 0
+FYQRZY_44178	signal	1	35				
+FYQRZY_44178	outside	36	40				
+//
+# FYQRZY_117504 Length: 49
+# FYQRZY_117504 Number of predicted TMRs: 0
+FYQRZY_117504	signal	1	26				
+FYQRZY_117504	outside	27	49				
+//
+# FYQRZY_152687 Length: 27
+# FYQRZY_152687 Number of predicted TMRs: 0
+FYQRZY_152687	inside	1	27				
+//
+# FYQRZY_109008 Length: 47
+# FYQRZY_109008 Number of predicted TMRs: 0
+FYQRZY_109008	inside	1	47				
+//
+# FYQRZY_104083 Length: 50
+# FYQRZY_104083 Number of predicted TMRs: 0
+FYQRZY_104083	inside	1	50				
+//
+# FYQRZY_121593 Length: 45
+# FYQRZY_121593 Number of predicted TMRs: 0
+FYQRZY_121593	signal	1	30				
+FYQRZY_121593	outside	31	45				
+//
+# FYQRZY_56576 Length: 45
+# FYQRZY_56576 Number of predicted TMRs: 0
+FYQRZY_56576	inside	1	45				
+//
+# FYQRZY_162784 Length: 47
+# FYQRZY_162784 Number of predicted TMRs: 0
+FYQRZY_162784	signal	1	10				
+FYQRZY_162784	outside	11	47				
+//
+# FYQRZY_81800 Length: 48
+# FYQRZY_81800 Number of predicted TMRs: 0
+FYQRZY_81800	signal	1	38				
+FYQRZY_81800	outside	39	48				
+//
+# FYQRZY_18471 Length: 41
+# FYQRZY_18471 Number of predicted TMRs: 0
+FYQRZY_18471	signal	1	10				
+FYQRZY_18471	outside	11	41				
+//
+# FYQRZY_63397 Length: 33
+# FYQRZY_63397 Number of predicted TMRs: 0
+FYQRZY_63397	signal	1	32				
+FYQRZY_63397	outside	33	33				
+//
+# FYQRZY_133842 Length: 48
+# FYQRZY_133842 Number of predicted TMRs: 0
+FYQRZY_133842	inside	1	48				
+//
+# FYQRZY_109305 Length: 42
+# FYQRZY_109305 Number of predicted TMRs: 0
+FYQRZY_109305	signal	1	31				
+FYQRZY_109305	outside	32	42				
+//
+# FYQRZY_119878 Length: 47
+# FYQRZY_119878 Number of predicted TMRs: 0
+FYQRZY_119878	signal	1	12				
+FYQRZY_119878	outside	13	47				
+//
+# FYQRZY_152685 Length: 48
+# FYQRZY_152685 Number of predicted TMRs: 0
+FYQRZY_152685	inside	1	48				
+//
+# FYQRZY_33879 Length: 45
+# FYQRZY_33879 Number of predicted TMRs: 0
+FYQRZY_33879	signal	1	44				
+FYQRZY_33879	outside	45	45				
+//
+# FYQRZY_147109 Length: 47
+# FYQRZY_147109 Number of predicted TMRs: 0
+FYQRZY_147109	signal	1	29				
+FYQRZY_147109	outside	30	47				
+//
+# FYQRZY_95840 Length: 41
+# FYQRZY_95840 Number of predicted TMRs: 0
+FYQRZY_95840	signal	1	40				
+FYQRZY_95840	outside	41	41				
+//
+# FYQRZY_131038 Length: 35
+# FYQRZY_131038 Number of predicted TMRs: 0
+FYQRZY_131038	signal	1	34				
+FYQRZY_131038	outside	35	35				
+//
+# FYQRZY_28031 Length: 50
+# FYQRZY_28031 Number of predicted TMRs: 0
+FYQRZY_28031	inside	1	50				
+//
+# FYQRZY_50357 Length: 47
+# FYQRZY_50357 Number of predicted TMRs: 0
+FYQRZY_50357	signal	1	45				
+FYQRZY_50357	outside	46	47				
+//
+# FYQRZY_170394 Length: 49
+# FYQRZY_170394 Number of predicted TMRs: 0
+FYQRZY_170394	inside	1	49				
+//
+# FYQRZY_151831 Length: 44
+# FYQRZY_151831 Number of predicted TMRs: 0
+FYQRZY_151831	inside	1	44				
+//
+# FYQRZY_132675 Length: 47
+# FYQRZY_132675 Number of predicted TMRs: 0
+FYQRZY_132675	signal	1	26				
+FYQRZY_132675	outside	27	47				
+//
+# FYQRZY_128776 Length: 47
+# FYQRZY_128776 Number of predicted TMRs: 1
+FYQRZY_128776	signal	1	12				
+FYQRZY_128776	outside	13	20				
+FYQRZY_128776	TMhelix	21	36				
+FYQRZY_128776	inside	37	47				
+//
+# FYQRZY_127796 Length: 46
+# FYQRZY_127796 Number of predicted TMRs: 0
+FYQRZY_127796	inside	1	46				
+//
+# FYQRZY_106513 Length: 47
+# FYQRZY_106513 Number of predicted TMRs: 0
+FYQRZY_106513	inside	1	47				
+//
+# FYQRZY_88202 Length: 48
+# FYQRZY_88202 Number of predicted TMRs: 0
+FYQRZY_88202	signal	1	10				
+FYQRZY_88202	outside	11	48				
+//
+# FYQRZY_58813 Length: 44
+# FYQRZY_58813 Number of predicted TMRs: 0
+FYQRZY_58813	outside	1	44				
+//
+# FYQRZY_97833 Length: 47
+# FYQRZY_97833 Number of predicted TMRs: 0
+FYQRZY_97833	outside	1	47				
+//
+# FYQRZY_142682 Length: 50
+# FYQRZY_142682 Number of predicted TMRs: 0
+FYQRZY_142682	inside	1	50				
+//
+# FYQRZY_162486 Length: 41
+# FYQRZY_162486 Number of predicted TMRs: 0
+FYQRZY_162486	signal	1	18				
+FYQRZY_162486	outside	19	41				
+//
+# FYQRZY_118838 Length: 26
+# FYQRZY_118838 Number of predicted TMRs: 0
+FYQRZY_118838	inside	1	26				
+//
+# FYQRZY_118841 Length: 44
+# FYQRZY_118841 Number of predicted TMRs: 0
+FYQRZY_118841	inside	1	44				
+//
+# FYQRZY_164152 Length: 45
+# FYQRZY_164152 Number of predicted TMRs: 0
+FYQRZY_164152	inside	1	45				
+//
+# FYQRZY_84754 Length: 38
+# FYQRZY_84754 Number of predicted TMRs: 0
+FYQRZY_84754	signal	1	35				
+FYQRZY_84754	outside	36	38				
+//
+# FYQRZY_163387 Length: 45
+# FYQRZY_163387 Number of predicted TMRs: 0
+FYQRZY_163387	inside	1	45				
+//
+# FYQRZY_15063 Length: 33
+# FYQRZY_15063 Number of predicted TMRs: 0
+FYQRZY_15063	inside	1	33				
+//
+# FYQRZY_136642 Length: 46
+# FYQRZY_136642 Number of predicted TMRs: 0
+FYQRZY_136642	signal	1	22				
+FYQRZY_136642	outside	23	46				
+//
+# FYQRZY_73256 Length: 42
+# FYQRZY_73256 Number of predicted TMRs: 0
+FYQRZY_73256	inside	1	42				
+//
+# FYQRZY_111791 Length: 49
+# FYQRZY_111791 Number of predicted TMRs: 0
+FYQRZY_111791	inside	1	49				
+//
+# FYQRZY_62352 Length: 35
+# FYQRZY_62352 Number of predicted TMRs: 0
+FYQRZY_62352	inside	1	35				
+//
+# FYQRZY_67716 Length: 43
+# FYQRZY_67716 Number of predicted TMRs: 0
+FYQRZY_67716	inside	1	43				
+//
+# FYQRZY_120613 Length: 42
+# FYQRZY_120613 Number of predicted TMRs: 0
+FYQRZY_120613	signal	1	11				
+FYQRZY_120613	outside	12	42				
+//
+# FYQRZY_10018 Length: 42
+# FYQRZY_10018 Number of predicted TMRs: 0
+FYQRZY_10018	signal	1	11				
+FYQRZY_10018	outside	12	42				
+//
+# FYQRZY_113173 Length: 32
+# FYQRZY_113173 Number of predicted TMRs: 0
+FYQRZY_113173	inside	1	32				
+//
+# FYQRZY_46780 Length: 43
+# FYQRZY_46780 Number of predicted TMRs: 0
+FYQRZY_46780	inside	1	43				
+//
+# FYQRZY_40607 Length: 34
+# FYQRZY_40607 Number of predicted TMRs: 0
+FYQRZY_40607	signal	1	33				
+FYQRZY_40607	outside	34	34				
+//
+# FYQRZY_169360 Length: 45
+# FYQRZY_169360 Number of predicted TMRs: 0
+FYQRZY_169360	signal	1	23				
+FYQRZY_169360	outside	24	45				
+//
+# FYQRZY_5252 Length: 42
+# FYQRZY_5252 Number of predicted TMRs: 0
+FYQRZY_5252	inside	1	42				
+//
+# FYQRZY_18689 Length: 44
+# FYQRZY_18689 Number of predicted TMRs: 0
+FYQRZY_18689	inside	1	44				
+//
+# FYQRZY_83556 Length: 48
+# FYQRZY_83556 Number of predicted TMRs: 0
+FYQRZY_83556	inside	1	48				
+//
+# FYQRZY_164998 Length: 46
+# FYQRZY_164998 Number of predicted TMRs: 0
+FYQRZY_164998	inside	1	46				
+//
+# FYQRZY_54371 Length: 43
+# FYQRZY_54371 Number of predicted TMRs: 0
+FYQRZY_54371	inside	1	43				
+//
+# FYQRZY_4679 Length: 45
+# FYQRZY_4679 Number of predicted TMRs: 0
+FYQRZY_4679	inside	1	45				
+//
+# FYQRZY_107012 Length: 48
+# FYQRZY_107012 Number of predicted TMRs: 0
+FYQRZY_107012	inside	1	48				
+//
+# FYQRZY_68200 Length: 50
+# FYQRZY_68200 Number of predicted TMRs: 0
+FYQRZY_68200	signal	1	18				
+FYQRZY_68200	outside	19	50				
+//
+# FYQRZY_53740 Length: 50
+# FYQRZY_53740 Number of predicted TMRs: 0
+FYQRZY_53740	inside	1	50				
+//
+# FYQRZY_149124 Length: 41
+# FYQRZY_149124 Number of predicted TMRs: 0
+FYQRZY_149124	inside	1	41				
+//
+# FYQRZY_140654 Length: 40
+# FYQRZY_140654 Number of predicted TMRs: 0
+FYQRZY_140654	signal	1	39				
+FYQRZY_140654	outside	40	40				
+//
+# FYQRZY_24674 Length: 46
+# FYQRZY_24674 Number of predicted TMRs: 0
+FYQRZY_24674	inside	1	46				
+//
+# FYQRZY_41697 Length: 33
+# FYQRZY_41697 Number of predicted TMRs: 0
+FYQRZY_41697	inside	1	33				
+//
+# FYQRZY_171874 Length: 48
+# FYQRZY_171874 Number of predicted TMRs: 0
+FYQRZY_171874	inside	1	48				
+//
+# FYQRZY_3918 Length: 36
+# FYQRZY_3918 Number of predicted TMRs: 0
+FYQRZY_3918	inside	1	36				
+//
+# FYQRZY_17882 Length: 36
+# FYQRZY_17882 Number of predicted TMRs: 0
+FYQRZY_17882	inside	1	36				
+//
+# FYQRZY_14754 Length: 46
+# FYQRZY_14754 Number of predicted TMRs: 0
+FYQRZY_14754	signal	1	42				
+FYQRZY_14754	outside	43	46				
+//
+# FYQRZY_169116 Length: 46
+# FYQRZY_169116 Number of predicted TMRs: 0
+FYQRZY_169116	inside	1	46				
+//
+# FYQRZY_474 Length: 43
+# FYQRZY_474 Number of predicted TMRs: 0
+FYQRZY_474	signal	1	32				
+FYQRZY_474	outside	33	43				
+//
+# FYQRZY_117472 Length: 44
+# FYQRZY_117472 Number of predicted TMRs: 0
+FYQRZY_117472	inside	1	44				
+//
+# FYQRZY_23564 Length: 36
+# FYQRZY_23564 Number of predicted TMRs: 0
+FYQRZY_23564	inside	1	36				
+//
+# FYQRZY_112256 Length: 46
+# FYQRZY_112256 Number of predicted TMRs: 0
+FYQRZY_112256	inside	1	46				
+//
+# FYQRZY_66641 Length: 50
+# FYQRZY_66641 Number of predicted TMRs: 0
+FYQRZY_66641	inside	1	50				
+//
+# FYQRZY_112176 Length: 47
+# FYQRZY_112176 Number of predicted TMRs: 0
+FYQRZY_112176	inside	1	47				
+//
+# FYQRZY_41461 Length: 44
+# FYQRZY_41461 Number of predicted TMRs: 0
+FYQRZY_41461	inside	1	44				
+//
+# FYQRZY_87069 Length: 41
+# FYQRZY_87069 Number of predicted TMRs: 0
+FYQRZY_87069	inside	1	41				
+//
+# FYQRZY_136476 Length: 47
+# FYQRZY_136476 Number of predicted TMRs: 0
+FYQRZY_136476	inside	1	47				
+//
+# FYQRZY_108656 Length: 47
+# FYQRZY_108656 Number of predicted TMRs: 0
+FYQRZY_108656	inside	1	47				
+//
+# FYQRZY_25389 Length: 48
+# FYQRZY_25389 Number of predicted TMRs: 0
+FYQRZY_25389	inside	1	48				
+//
+# FYQRZY_14614 Length: 36
+# FYQRZY_14614 Number of predicted TMRs: 0
+FYQRZY_14614	inside	1	36				
+//
+# FYQRZY_37064 Length: 50
+# FYQRZY_37064 Number of predicted TMRs: 0
+FYQRZY_37064	inside	1	50				
+//
+# FYQRZY_37852 Length: 40
+# FYQRZY_37852 Number of predicted TMRs: 0
+FYQRZY_37852	signal	1	28				
+FYQRZY_37852	outside	29	40				
+//
+# FYQRZY_97088 Length: 46
+# FYQRZY_97088 Number of predicted TMRs: 0
+FYQRZY_97088	inside	1	46				
+//
+# FYQRZY_141332 Length: 38
+# FYQRZY_141332 Number of predicted TMRs: 0
+FYQRZY_141332	signal	1	36				
+FYQRZY_141332	outside	37	38				
+//
+# FYQRZY_128904 Length: 37
+# FYQRZY_128904 Number of predicted TMRs: 0
+FYQRZY_128904	inside	1	37				
+//
+# FYQRZY_97107 Length: 42
+# FYQRZY_97107 Number of predicted TMRs: 0
+FYQRZY_97107	inside	1	42				
+//
+# FYQRZY_3132 Length: 46
+# FYQRZY_3132 Number of predicted TMRs: 0
+FYQRZY_3132	inside	1	46				
+//
+# FYQRZY_146749 Length: 47
+# FYQRZY_146749 Number of predicted TMRs: 0
+FYQRZY_146749	signal	1	30				
+FYQRZY_146749	outside	31	47				
+//
+# FYQRZY_66648 Length: 42
+# FYQRZY_66648 Number of predicted TMRs: 0
+FYQRZY_66648	inside	1	42				
+//
+# FYQRZY_155234 Length: 48
+# FYQRZY_155234 Number of predicted TMRs: 0
+FYQRZY_155234	inside	1	48				
+//
+# FYQRZY_89135 Length: 50
+# FYQRZY_89135 Number of predicted TMRs: 0
+FYQRZY_89135	signal	1	12				
+FYQRZY_89135	outside	13	50				
+//
+# FYQRZY_5147 Length: 48
+# FYQRZY_5147 Number of predicted TMRs: 0
+FYQRZY_5147	signal	1	37				
+FYQRZY_5147	outside	38	48				
+//
+# FYQRZY_115838 Length: 42
+# FYQRZY_115838 Number of predicted TMRs: 0
+FYQRZY_115838	inside	1	42				
+//
+# FYQRZY_128724 Length: 49
+# FYQRZY_128724 Number of predicted TMRs: 0
+FYQRZY_128724	inside	1	49				
+//
+# FYQRZY_42521 Length: 50
+# FYQRZY_42521 Number of predicted TMRs: 0
+FYQRZY_42521	inside	1	50				
+//
+# FYQRZY_90504 Length: 50
+# FYQRZY_90504 Number of predicted TMRs: 0
+FYQRZY_90504	inside	1	50				
+//
+# FYQRZY_106457 Length: 45
+# FYQRZY_106457 Number of predicted TMRs: 0
+FYQRZY_106457	inside	1	45				
+//
+# FYQRZY_106461 Length: 49
+# FYQRZY_106461 Number of predicted TMRs: 0
+FYQRZY_106461	inside	1	49				
+//
+# FYQRZY_29035 Length: 49
+# FYQRZY_29035 Number of predicted TMRs: 0
+FYQRZY_29035	signal	1	45				
+FYQRZY_29035	outside	46	49				
+//
+# FYQRZY_96826 Length: 48
+# FYQRZY_96826 Number of predicted TMRs: 0
+FYQRZY_96826	inside	1	48				
+//
+# FYQRZY_60362 Length: 48
+# FYQRZY_60362 Number of predicted TMRs: 0
+FYQRZY_60362	inside	1	48				
+//
+# FYQRZY_154210 Length: 46
+# FYQRZY_154210 Number of predicted TMRs: 0
+FYQRZY_154210	signal	1	31				
+FYQRZY_154210	outside	32	46				
+//
+# FYQRZY_136715 Length: 50
+# FYQRZY_136715 Number of predicted TMRs: 0
+FYQRZY_136715	signal	1	31				
+FYQRZY_136715	outside	32	50				
+//
+# FYQRZY_149065 Length: 44
+# FYQRZY_149065 Number of predicted TMRs: 0
+FYQRZY_149065	inside	1	44				
+//
+# FYQRZY_27863 Length: 50
+# FYQRZY_27863 Number of predicted TMRs: 0
+FYQRZY_27863	inside	1	50				
+//
+# FYQRZY_144247 Length: 48
+# FYQRZY_144247 Number of predicted TMRs: 0
+FYQRZY_144247	inside	1	48				
+//
+# FYQRZY_24129 Length: 45
+# FYQRZY_24129 Number of predicted TMRs: 0
+FYQRZY_24129	inside	1	45				
+//
+# FYQRZY_125694 Length: 46
+# FYQRZY_125694 Number of predicted TMRs: 0
+FYQRZY_125694	inside	1	46				
+//
+# FYQRZY_58981 Length: 48
+# FYQRZY_58981 Number of predicted TMRs: 0
+FYQRZY_58981	inside	1	48				
+//
+# FYQRZY_143293 Length: 46
+# FYQRZY_143293 Number of predicted TMRs: 0
+FYQRZY_143293	inside	1	46				
+//
+# FYQRZY_129985 Length: 46
+# FYQRZY_129985 Number of predicted TMRs: 0
+FYQRZY_129985	signal	1	44				
+FYQRZY_129985	outside	45	46				
+//
+# FYQRZY_128425 Length: 36
+# FYQRZY_128425 Number of predicted TMRs: 0
+FYQRZY_128425	inside	1	36				
+//
+# FYQRZY_41296 Length: 39
+# FYQRZY_41296 Number of predicted TMRs: 0
+FYQRZY_41296	inside	1	39				
+//
+# FYQRZY_137538 Length: 32
+# FYQRZY_137538 Number of predicted TMRs: 0
+FYQRZY_137538	inside	1	32				
+//
+# FYQRZY_12586 Length: 44
+# FYQRZY_12586 Number of predicted TMRs: 0
+FYQRZY_12586	inside	1	44				
+//
+# FYQRZY_71812 Length: 50
+# FYQRZY_71812 Number of predicted TMRs: 0
+FYQRZY_71812	inside	1	50				
+//
+# FYQRZY_105491 Length: 47
+# FYQRZY_105491 Number of predicted TMRs: 0
+FYQRZY_105491	inside	1	47				
+//
+# FYQRZY_166947 Length: 39
+# FYQRZY_166947 Number of predicted TMRs: 0
+FYQRZY_166947	inside	1	39				
+//
+# FYQRZY_34249 Length: 33
+# FYQRZY_34249 Number of predicted TMRs: 0
+FYQRZY_34249	inside	1	33				
+//
+# FYQRZY_112297 Length: 48
+# FYQRZY_112297 Number of predicted TMRs: 0
+FYQRZY_112297	signal	1	46				
+FYQRZY_112297	outside	47	48				
+//
+# FYQRZY_86920 Length: 42
+# FYQRZY_86920 Number of predicted TMRs: 0
+FYQRZY_86920	signal	1	31				
+FYQRZY_86920	outside	32	42				
+//
+# FYQRZY_132251 Length: 45
+# FYQRZY_132251 Number of predicted TMRs: 0
+FYQRZY_132251	inside	1	45				
+//
+# FYQRZY_49507 Length: 41
+# FYQRZY_49507 Number of predicted TMRs: 0
+FYQRZY_49507	inside	1	41				
+//
+# FYQRZY_151462 Length: 38
+# FYQRZY_151462 Number of predicted TMRs: 0
+FYQRZY_151462	signal	1	18				
+FYQRZY_151462	outside	19	38				
+//
+# FYQRZY_63381 Length: 50
+# FYQRZY_63381 Number of predicted TMRs: 0
+FYQRZY_63381	signal	1	31				
+FYQRZY_63381	outside	32	50				
+//
+# FYQRZY_37199 Length: 48
+# FYQRZY_37199 Number of predicted TMRs: 0
+FYQRZY_37199	signal	1	15				
+FYQRZY_37199	outside	16	48				
+//
+# FYQRZY_137588 Length: 49
+# FYQRZY_137588 Number of predicted TMRs: 0
+FYQRZY_137588	inside	1	49				
+//
+# FYQRZY_124650 Length: 46
+# FYQRZY_124650 Number of predicted TMRs: 0
+FYQRZY_124650	inside	1	46				
+//
+# FYQRZY_96578 Length: 36
+# FYQRZY_96578 Number of predicted TMRs: 0
+FYQRZY_96578	signal	1	35				
+FYQRZY_96578	outside	36	36				
+//
+# FYQRZY_170345 Length: 48
+# FYQRZY_170345 Number of predicted TMRs: 0
+FYQRZY_170345	signal	1	47				
+FYQRZY_170345	outside	48	48				
+//
+# FYQRZY_15291 Length: 48
+# FYQRZY_15291 Number of predicted TMRs: 0
+FYQRZY_15291	inside	1	48				
+//
+# FYQRZY_128019 Length: 38
+# FYQRZY_128019 Number of predicted TMRs: 0
+FYQRZY_128019	inside	1	38				
+//
+# FYQRZY_73968 Length: 40
+# FYQRZY_73968 Number of predicted TMRs: 0
+FYQRZY_73968	inside	1	40				
+//
+# FYQRZY_115569 Length: 43
+# FYQRZY_115569 Number of predicted TMRs: 0
+FYQRZY_115569	signal	1	23				
+FYQRZY_115569	outside	24	43				
+//
+# FYQRZY_74649 Length: 44
+# FYQRZY_74649 Number of predicted TMRs: 0
+FYQRZY_74649	inside	1	44				
+//
+# FYQRZY_6747 Length: 47
+# FYQRZY_6747 Number of predicted TMRs: 0
+FYQRZY_6747	inside	1	47				
+//
+# FYQRZY_51337 Length: 36
+# FYQRZY_51337 Number of predicted TMRs: 0
+FYQRZY_51337	signal	1	35				
+FYQRZY_51337	outside	36	36				
+//
+# FYQRZY_23565 Length: 43
+# FYQRZY_23565 Number of predicted TMRs: 1
+FYQRZY_23565	signal	1	12				
+FYQRZY_23565	outside	13	13				
+FYQRZY_23565	TMhelix	14	23				
+FYQRZY_23565	inside	24	43				
+//
+# FYQRZY_58421 Length: 38
+# FYQRZY_58421 Number of predicted TMRs: 0
+FYQRZY_58421	inside	1	38				
+//
+# FYQRZY_111629 Length: 48
+# FYQRZY_111629 Number of predicted TMRs: 0
+FYQRZY_111629	signal	1	13				
+FYQRZY_111629	outside	14	48				
+//
+# FYQRZY_162090 Length: 46
+# FYQRZY_162090 Number of predicted TMRs: 0
+FYQRZY_162090	signal	1	11				
+FYQRZY_162090	outside	12	46				
+//
+# FYQRZY_98263 Length: 46
+# FYQRZY_98263 Number of predicted TMRs: 0
+FYQRZY_98263	signal	1	21				
+FYQRZY_98263	outside	22	46				
+//
+# FYQRZY_142076 Length: 37
+# FYQRZY_142076 Number of predicted TMRs: 0
+FYQRZY_142076	signal	1	32				
+FYQRZY_142076	outside	33	37				
+//
+# FYQRZY_104346 Length: 50
+# FYQRZY_104346 Number of predicted TMRs: 0
+FYQRZY_104346	inside	1	50				
+//
+# FYQRZY_165171 Length: 44
+# FYQRZY_165171 Number of predicted TMRs: 0
+FYQRZY_165171	inside	1	44				
+//
+# FYQRZY_36801 Length: 47
+# FYQRZY_36801 Number of predicted TMRs: 0
+FYQRZY_36801	inside	1	47				
+//
+# FYQRZY_58117 Length: 47
+# FYQRZY_58117 Number of predicted TMRs: 0
+FYQRZY_58117	signal	1	31				
+FYQRZY_58117	outside	32	47				
+//
+# FYQRZY_24657 Length: 50
+# FYQRZY_24657 Number of predicted TMRs: 0
+FYQRZY_24657	signal	1	15				
+FYQRZY_24657	outside	16	50				
+//
+# FYQRZY_71401 Length: 43
+# FYQRZY_71401 Number of predicted TMRs: 0
+FYQRZY_71401	inside	1	43				
+//
+# FYQRZY_567 Length: 47
+# FYQRZY_567 Number of predicted TMRs: 0
+FYQRZY_567	inside	1	47				
+//
+# FYQRZY_140231 Length: 49
+# FYQRZY_140231 Number of predicted TMRs: 0
+FYQRZY_140231	inside	1	49				
+//
+# FYQRZY_45455 Length: 50
+# FYQRZY_45455 Number of predicted TMRs: 0
+FYQRZY_45455	inside	1	50				
+//
+# FYQRZY_111488 Length: 36
+# FYQRZY_111488 Number of predicted TMRs: 0
+FYQRZY_111488	inside	1	36				
+//
+# FYQRZY_42885 Length: 45
+# FYQRZY_42885 Number of predicted TMRs: 0
+FYQRZY_42885	outside	1	45				
+//
+# FYQRZY_18984 Length: 41
+# FYQRZY_18984 Number of predicted TMRs: 0
+FYQRZY_18984	signal	1	35				
+FYQRZY_18984	outside	36	41				
+//
+# FYQRZY_59239 Length: 48
+# FYQRZY_59239 Number of predicted TMRs: 0
+FYQRZY_59239	signal	1	27				
+FYQRZY_59239	outside	28	48				
+//
+# FYQRZY_131466 Length: 39
+# FYQRZY_131466 Number of predicted TMRs: 0
+FYQRZY_131466	signal	1	26				
+FYQRZY_131466	outside	27	39				
+//
+# FYQRZY_167495 Length: 48
+# FYQRZY_167495 Number of predicted TMRs: 0
+FYQRZY_167495	inside	1	48				
+//
+# FYQRZY_53230 Length: 42
+# FYQRZY_53230 Number of predicted TMRs: 0
+FYQRZY_53230	signal	1	15				
+FYQRZY_53230	outside	16	42				
+//
+# FYQRZY_24656 Length: 46
+# FYQRZY_24656 Number of predicted TMRs: 0
+FYQRZY_24656	inside	1	46				
+//
+# FYQRZY_154324 Length: 45
+# FYQRZY_154324 Number of predicted TMRs: 0
+FYQRZY_154324	inside	1	45				
+//
+# FYQRZY_121002 Length: 33
+# FYQRZY_121002 Number of predicted TMRs: 0
+FYQRZY_121002	inside	1	33				
+//
+# FYQRZY_109225 Length: 47
+# FYQRZY_109225 Number of predicted TMRs: 0
+FYQRZY_109225	outside	1	47				
+//
+# FYQRZY_132810 Length: 44
+# FYQRZY_132810 Number of predicted TMRs: 0
+FYQRZY_132810	inside	1	44				
+//
+# FYQRZY_41057 Length: 46
+# FYQRZY_41057 Number of predicted TMRs: 0
+FYQRZY_41057	inside	1	46				
+//
+# FYQRZY_82820 Length: 48
+# FYQRZY_82820 Number of predicted TMRs: 0
+FYQRZY_82820	signal	1	25				
+FYQRZY_82820	outside	26	48				
+//
+# FYQRZY_115755 Length: 48
+# FYQRZY_115755 Number of predicted TMRs: 0
+FYQRZY_115755	signal	1	20				
+FYQRZY_115755	outside	21	48				
+//
+# FYQRZY_132571 Length: 44
+# FYQRZY_132571 Number of predicted TMRs: 0
+FYQRZY_132571	inside	1	44				
+//
+# FYQRZY_10158 Length: 50
+# FYQRZY_10158 Number of predicted TMRs: 0
+FYQRZY_10158	inside	1	50				
+//
+# FYQRZY_83636 Length: 44
+# FYQRZY_83636 Number of predicted TMRs: 0
+FYQRZY_83636	signal	1	43				
+FYQRZY_83636	outside	44	44				
+//
+# FYQRZY_95845 Length: 45
+# FYQRZY_95845 Number of predicted TMRs: 0
+FYQRZY_95845	signal	1	44				
+FYQRZY_95845	outside	45	45				
+//
+# FYQRZY_111031 Length: 46
+# FYQRZY_111031 Number of predicted TMRs: 0
+FYQRZY_111031	inside	1	46				
+//
+# FYQRZY_91642 Length: 47
+# FYQRZY_91642 Number of predicted TMRs: 0
+FYQRZY_91642	signal	1	30				
+FYQRZY_91642	outside	31	47				
+//
+# FYQRZY_83723 Length: 47
+# FYQRZY_83723 Number of predicted TMRs: 0
+FYQRZY_83723	signal	1	15				
+FYQRZY_83723	outside	16	47				
+//
+# FYQRZY_43842 Length: 44
+# FYQRZY_43842 Number of predicted TMRs: 0
+FYQRZY_43842	signal	1	43				
+FYQRZY_43842	outside	44	44				
+//
+# FYQRZY_167228 Length: 41
+# FYQRZY_167228 Number of predicted TMRs: 0
+FYQRZY_167228	signal	1	28				
+FYQRZY_167228	outside	29	41				
+//
+# FYQRZY_111397 Length: 44
+# FYQRZY_111397 Number of predicted TMRs: 0
+FYQRZY_111397	inside	1	44				
+//
+# FYQRZY_34427 Length: 46
+# FYQRZY_34427 Number of predicted TMRs: 0
+FYQRZY_34427	inside	1	46				
+//
+# FYQRZY_90188 Length: 49
+# FYQRZY_90188 Number of predicted TMRs: 0
+FYQRZY_90188	inside	1	49				
+//
+# FYQRZY_120792 Length: 50
+# FYQRZY_120792 Number of predicted TMRs: 0
+FYQRZY_120792	inside	1	50				
+//
+# FYQRZY_112660 Length: 45
+# FYQRZY_112660 Number of predicted TMRs: 0
+FYQRZY_112660	inside	1	45				
+//
+# FYQRZY_108967 Length: 50
+# FYQRZY_108967 Number of predicted TMRs: 0
+FYQRZY_108967	inside	1	50				
+//
+# FYQRZY_138118 Length: 43
+# FYQRZY_138118 Number of predicted TMRs: 0
+FYQRZY_138118	signal	1	33				
+FYQRZY_138118	outside	34	43				
+//
+# FYQRZY_139865 Length: 38
+# FYQRZY_139865 Number of predicted TMRs: 0
+FYQRZY_139865	signal	1	37				
+FYQRZY_139865	outside	38	38				
+//
+# FYQRZY_128170 Length: 43
+# FYQRZY_128170 Number of predicted TMRs: 0
+FYQRZY_128170	inside	1	43				
+//
+# FYQRZY_108496 Length: 48
+# FYQRZY_108496 Number of predicted TMRs: 0
+FYQRZY_108496	inside	1	48				
+//
+# FYQRZY_139004 Length: 39
+# FYQRZY_139004 Number of predicted TMRs: 0
+FYQRZY_139004	inside	1	39				
+//
+# FYQRZY_41231 Length: 45
+# FYQRZY_41231 Number of predicted TMRs: 0
+FYQRZY_41231	signal	1	12				
+FYQRZY_41231	outside	13	45				
+//
+# FYQRZY_133311 Length: 46
+# FYQRZY_133311 Number of predicted TMRs: 0
+FYQRZY_133311	signal	1	32				
+FYQRZY_133311	outside	33	46				
+//
+# FYQRZY_6305 Length: 43
+# FYQRZY_6305 Number of predicted TMRs: 0
+FYQRZY_6305	inside	1	43				
+//
+# FYQRZY_139078 Length: 50
+# FYQRZY_139078 Number of predicted TMRs: 0
+FYQRZY_139078	inside	1	50				
+//
+# FYQRZY_20740 Length: 45
+# FYQRZY_20740 Number of predicted TMRs: 0
+FYQRZY_20740	inside	1	45				
+//
+# FYQRZY_143657 Length: 47
+# FYQRZY_143657 Number of predicted TMRs: 0
+FYQRZY_143657	inside	1	47				
+//
+# FYQRZY_165724 Length: 50
+# FYQRZY_165724 Number of predicted TMRs: 0
+FYQRZY_165724	inside	1	50				
+//
+# FYQRZY_109010 Length: 46
+# FYQRZY_109010 Number of predicted TMRs: 0
+FYQRZY_109010	signal	1	21				
+FYQRZY_109010	outside	22	46				
+//
+# FYQRZY_87165 Length: 44
+# FYQRZY_87165 Number of predicted TMRs: 0
+FYQRZY_87165	inside	1	44				
+//
+# FYQRZY_1316 Length: 48
+# FYQRZY_1316 Number of predicted TMRs: 0
+FYQRZY_1316	signal	1	44				
+FYQRZY_1316	outside	45	48				
+//
+# FYQRZY_99192 Length: 47
+# FYQRZY_99192 Number of predicted TMRs: 0
+FYQRZY_99192	signal	1	46				
+FYQRZY_99192	outside	47	47				
+//
+# FYQRZY_131656 Length: 40
+# FYQRZY_131656 Number of predicted TMRs: 0
+FYQRZY_131656	signal	1	10				
+FYQRZY_131656	outside	11	40				
+//
+# FYQRZY_59248 Length: 46
+# FYQRZY_59248 Number of predicted TMRs: 0
+FYQRZY_59248	signal	1	43				
+FYQRZY_59248	outside	44	46				
+//
+# FYQRZY_90915 Length: 42
+# FYQRZY_90915 Number of predicted TMRs: 0
+FYQRZY_90915	signal	1	32				
+FYQRZY_90915	outside	33	42				
+//
+# FYQRZY_24640 Length: 50
+# FYQRZY_24640 Number of predicted TMRs: 0
+FYQRZY_24640	inside	1	50				
+//
+# FYQRZY_21782 Length: 47
+# FYQRZY_21782 Number of predicted TMRs: 0
+FYQRZY_21782	signal	1	10				
+FYQRZY_21782	outside	11	47				
+//
+# FYQRZY_163303 Length: 45
+# FYQRZY_163303 Number of predicted TMRs: 0
+FYQRZY_163303	signal	1	20				
+FYQRZY_163303	outside	21	45				
+//
+# FYQRZY_12370 Length: 40
+# FYQRZY_12370 Number of predicted TMRs: 0
+FYQRZY_12370	signal	1	39				
+FYQRZY_12370	outside	40	40				
+//
+# FYQRZY_122067 Length: 48
+# FYQRZY_122067 Number of predicted TMRs: 0
+FYQRZY_122067	inside	1	48				
+//
+# FYQRZY_167174 Length: 40
+# FYQRZY_167174 Number of predicted TMRs: 0
+FYQRZY_167174	outside	1	40				
+//
+# FYQRZY_78199 Length: 39
+# FYQRZY_78199 Number of predicted TMRs: 0
+FYQRZY_78199	inside	1	39				
+//
+# FYQRZY_162485 Length: 37
+# FYQRZY_162485 Number of predicted TMRs: 0
+FYQRZY_162485	inside	1	37				
+//
+# FYQRZY_108572 Length: 39
+# FYQRZY_108572 Number of predicted TMRs: 0
+FYQRZY_108572	inside	1	39				
+//
+# FYQRZY_130983 Length: 37
+# FYQRZY_130983 Number of predicted TMRs: 0
+FYQRZY_130983	signal	1	28				
+FYQRZY_130983	outside	29	37				
+//
+# FYQRZY_24428 Length: 48
+# FYQRZY_24428 Number of predicted TMRs: 0
+FYQRZY_24428	inside	1	48				
+//
+# FYQRZY_109574 Length: 48
+# FYQRZY_109574 Number of predicted TMRs: 0
+FYQRZY_109574	outside	1	48				
+//
+# FYQRZY_80182 Length: 35
+# FYQRZY_80182 Number of predicted TMRs: 0
+FYQRZY_80182	inside	1	35				
+//
+# FYQRZY_59980 Length: 45
+# FYQRZY_59980 Number of predicted TMRs: 0
+FYQRZY_59980	signal	1	18				
+FYQRZY_59980	outside	19	45				
+//
+# FYQRZY_106556 Length: 48
+# FYQRZY_106556 Number of predicted TMRs: 0
+FYQRZY_106556	inside	1	48				
+//
+# FYQRZY_122032 Length: 40
+# FYQRZY_122032 Number of predicted TMRs: 0
+FYQRZY_122032	signal	1	20				
+FYQRZY_122032	outside	21	40				
+//
+# FYQRZY_24245 Length: 50
+# FYQRZY_24245 Number of predicted TMRs: 0
+FYQRZY_24245	inside	1	50				
+//
+# FYQRZY_81892 Length: 48
+# FYQRZY_81892 Number of predicted TMRs: 0
+FYQRZY_81892	inside	1	48				
+//
+# FYQRZY_90797 Length: 43
+# FYQRZY_90797 Number of predicted TMRs: 0
+FYQRZY_90797	signal	1	10				
+FYQRZY_90797	outside	11	43				
+//
+# FYQRZY_16367 Length: 49
+# FYQRZY_16367 Number of predicted TMRs: 0
+FYQRZY_16367	inside	1	49				
+//
+# FYQRZY_127633 Length: 49
+# FYQRZY_127633 Number of predicted TMRs: 0
+FYQRZY_127633	inside	1	49				
+//
+# FYQRZY_20090 Length: 48
+# FYQRZY_20090 Number of predicted TMRs: 0
+FYQRZY_20090	inside	1	48				
+//
+# FYQRZY_74894 Length: 50
+# FYQRZY_74894 Number of predicted TMRs: 0
+FYQRZY_74894	inside	1	50				
+//
+# FYQRZY_62981 Length: 33
+# FYQRZY_62981 Number of predicted TMRs: 0
+FYQRZY_62981	inside	1	33				
+//
+# FYQRZY_88794 Length: 46
+# FYQRZY_88794 Number of predicted TMRs: 0
+FYQRZY_88794	inside	1	46				
+//
+# FYQRZY_151238 Length: 46
+# FYQRZY_151238 Number of predicted TMRs: 0
+FYQRZY_151238	inside	1	46				
+//
+# FYQRZY_12347 Length: 47
+# FYQRZY_12347 Number of predicted TMRs: 0
+FYQRZY_12347	inside	1	47				
+//
+# FYQRZY_164823 Length: 38
+# FYQRZY_164823 Number of predicted TMRs: 0
+FYQRZY_164823	signal	1	28				
+FYQRZY_164823	outside	29	38				
+//
+# FYQRZY_133385 Length: 49
+# FYQRZY_133385 Number of predicted TMRs: 0
+FYQRZY_133385	signal	1	15				
+FYQRZY_133385	outside	16	49				
+//
+# FYQRZY_120610 Length: 49
+# FYQRZY_120610 Number of predicted TMRs: 0
+FYQRZY_120610	inside	1	49				
+//
+# FYQRZY_75834 Length: 40
+# FYQRZY_75834 Number of predicted TMRs: 0
+FYQRZY_75834	inside	1	40				
+//
+# FYQRZY_93784 Length: 38
+# FYQRZY_93784 Number of predicted TMRs: 0
+FYQRZY_93784	signal	1	33				
+FYQRZY_93784	outside	34	38				
+//
+# FYQRZY_97791 Length: 48
+# FYQRZY_97791 Number of predicted TMRs: 0
+FYQRZY_97791	outside	1	48				
+//
+# FYQRZY_162186 Length: 46
+# FYQRZY_162186 Number of predicted TMRs: 0
+FYQRZY_162186	signal	1	15				
+FYQRZY_162186	outside	16	46				
+//
+# FYQRZY_142233 Length: 50
+# FYQRZY_142233 Number of predicted TMRs: 0
+FYQRZY_142233	inside	1	50				
+//
+# FYQRZY_130275 Length: 49
+# FYQRZY_130275 Number of predicted TMRs: 0
+FYQRZY_130275	signal	1	20				
+FYQRZY_130275	outside	21	49				
+//
+# FYQRZY_144477 Length: 42
+# FYQRZY_144477 Number of predicted TMRs: 0
+FYQRZY_144477	inside	1	42				
+//
+# FYQRZY_52432 Length: 41
+# FYQRZY_52432 Number of predicted TMRs: 0
+FYQRZY_52432	signal	1	13				
+FYQRZY_52432	outside	14	41				
+//
+# FYQRZY_25054 Length: 48
+# FYQRZY_25054 Number of predicted TMRs: 0
+FYQRZY_25054	inside	1	48				
+//
+# FYQRZY_98988 Length: 50
+# FYQRZY_98988 Number of predicted TMRs: 0
+FYQRZY_98988	inside	1	50				
+//
+# FYQRZY_48918 Length: 40
+# FYQRZY_48918 Number of predicted TMRs: 0
+FYQRZY_48918	signal	1	12				
+FYQRZY_48918	outside	13	40				
+//
+# FYQRZY_69246 Length: 49
+# FYQRZY_69246 Number of predicted TMRs: 0
+FYQRZY_69246	inside	1	49				
+//
+# FYQRZY_21852 Length: 45
+# FYQRZY_21852 Number of predicted TMRs: 0
+FYQRZY_21852	inside	1	45				
+//
+# FYQRZY_116673 Length: 45
+# FYQRZY_116673 Number of predicted TMRs: 0
+FYQRZY_116673	outside	1	45				
+//
+# FYQRZY_38314 Length: 46
+# FYQRZY_38314 Number of predicted TMRs: 0
+FYQRZY_38314	outside	1	46				
+//
+# FYQRZY_60841 Length: 35
+# FYQRZY_60841 Number of predicted TMRs: 0
+FYQRZY_60841	signal	1	33				
+FYQRZY_60841	outside	34	35				
+//
+# FYQRZY_35648 Length: 42
+# FYQRZY_35648 Number of predicted TMRs: 0
+FYQRZY_35648	inside	1	42				
+//
+# FYQRZY_45824 Length: 46
+# FYQRZY_45824 Number of predicted TMRs: 0
+FYQRZY_45824	signal	1	13				
+FYQRZY_45824	outside	14	46				
+//
+# FYQRZY_116729 Length: 45
+# FYQRZY_116729 Number of predicted TMRs: 0
+FYQRZY_116729	signal	1	33				
+FYQRZY_116729	outside	34	45				
+//
+# FYQRZY_127410 Length: 39
+# FYQRZY_127410 Number of predicted TMRs: 0
+FYQRZY_127410	signal	1	29				
+FYQRZY_127410	outside	30	39				
+//
+# FYQRZY_151751 Length: 35
+# FYQRZY_151751 Number of predicted TMRs: 0
+FYQRZY_151751	inside	1	35				
+//
+# FYQRZY_77585 Length: 50
+# FYQRZY_77585 Number of predicted TMRs: 0
+FYQRZY_77585	inside	1	50				
+//
+# FYQRZY_5970 Length: 37
+# FYQRZY_5970 Number of predicted TMRs: 0
+FYQRZY_5970	inside	1	37				
+//
+# FYQRZY_9347 Length: 47
+# FYQRZY_9347 Number of predicted TMRs: 0
+FYQRZY_9347	inside	1	47				
+//
+# FYQRZY_64256 Length: 47
+# FYQRZY_64256 Number of predicted TMRs: 0
+FYQRZY_64256	inside	1	47				
+//
+# FYQRZY_82567 Length: 44
+# FYQRZY_82567 Number of predicted TMRs: 0
+FYQRZY_82567	inside	1	44				
+//
+# FYQRZY_139013 Length: 49
+# FYQRZY_139013 Number of predicted TMRs: 0
+FYQRZY_139013	signal	1	13				
+FYQRZY_139013	outside	14	49				
+//
+# FYQRZY_59626 Length: 41
+# FYQRZY_59626 Number of predicted TMRs: 0
+FYQRZY_59626	signal	1	40				
+FYQRZY_59626	outside	41	41				
+//
+# FYQRZY_16313 Length: 48
+# FYQRZY_16313 Number of predicted TMRs: 0
+FYQRZY_16313	signal	1	26				
+FYQRZY_16313	outside	27	48				
+//
+# FYQRZY_20734 Length: 46
+# FYQRZY_20734 Number of predicted TMRs: 0
+FYQRZY_20734	inside	1	46				
+//
+# FYQRZY_14000 Length: 49
+# FYQRZY_14000 Number of predicted TMRs: 0
+FYQRZY_14000	inside	1	49				
+//
+# FYQRZY_118221 Length: 50
+# FYQRZY_118221 Number of predicted TMRs: 1
+FYQRZY_118221	inside	1	28				
+FYQRZY_118221	TMhelix	29	49				
+FYQRZY_118221	outside	50	50				
+//
+# FYQRZY_49793 Length: 43
+# FYQRZY_49793 Number of predicted TMRs: 0
+FYQRZY_49793	inside	1	43				
+//
+# FYQRZY_154409 Length: 37
+# FYQRZY_154409 Number of predicted TMRs: 0
+FYQRZY_154409	signal	1	33				
+FYQRZY_154409	outside	34	37				
+//
+# FYQRZY_28767 Length: 34
+# FYQRZY_28767 Number of predicted TMRs: 0
+FYQRZY_28767	signal	1	32				
+FYQRZY_28767	outside	33	34				
+//
+# FYQRZY_140132 Length: 48
+# FYQRZY_140132 Number of predicted TMRs: 0
+FYQRZY_140132	inside	1	48				
+//
+# FYQRZY_81052 Length: 44
+# FYQRZY_81052 Number of predicted TMRs: 0
+FYQRZY_81052	signal	1	32				
+FYQRZY_81052	outside	33	44				
+//
+# FYQRZY_164792 Length: 39
+# FYQRZY_164792 Number of predicted TMRs: 0
+FYQRZY_164792	inside	1	39				
+//
+# FYQRZY_18771 Length: 30
+# FYQRZY_18771 Number of predicted TMRs: 0
+FYQRZY_18771	inside	1	30				
+//
+# FYQRZY_125149 Length: 45
+# FYQRZY_125149 Number of predicted TMRs: 0
+FYQRZY_125149	inside	1	45				
+//
+# FYQRZY_48622 Length: 48
+# FYQRZY_48622 Number of predicted TMRs: 0
+FYQRZY_48622	signal	1	10				
+FYQRZY_48622	outside	11	48				
+//
+# FYQRZY_23488 Length: 30
+# FYQRZY_23488 Number of predicted TMRs: 0
+FYQRZY_23488	inside	1	30				
+//
+# FYQRZY_112940 Length: 47
+# FYQRZY_112940 Number of predicted TMRs: 0
+FYQRZY_112940	signal	1	15				
+FYQRZY_112940	outside	16	47				
+//
+# FYQRZY_6874 Length: 45
+# FYQRZY_6874 Number of predicted TMRs: 0
+FYQRZY_6874	inside	1	45				
+//
+# FYQRZY_149056 Length: 39
+# FYQRZY_149056 Number of predicted TMRs: 0
+FYQRZY_149056	inside	1	39				
+//
+# FYQRZY_93076 Length: 48
+# FYQRZY_93076 Number of predicted TMRs: 0
+FYQRZY_93076	inside	1	48				
+//
+# FYQRZY_155754 Length: 33
+# FYQRZY_155754 Number of predicted TMRs: 0
+FYQRZY_155754	signal	1	22				
+FYQRZY_155754	outside	23	33				
+//
+# FYQRZY_77848 Length: 35
+# FYQRZY_77848 Number of predicted TMRs: 0
+FYQRZY_77848	inside	1	35				
+//
+# FYQRZY_41472 Length: 48
+# FYQRZY_41472 Number of predicted TMRs: 0
+FYQRZY_41472	inside	1	48				
+//
+# FYQRZY_70190 Length: 40
+# FYQRZY_70190 Number of predicted TMRs: 0
+FYQRZY_70190	inside	1	40				
+//
+# FYQRZY_17302 Length: 47
+# FYQRZY_17302 Number of predicted TMRs: 0
+FYQRZY_17302	signal	1	46				
+FYQRZY_17302	outside	47	47				
+//
+# FYQRZY_118519 Length: 50
+# FYQRZY_118519 Number of predicted TMRs: 0
+FYQRZY_118519	inside	1	50				
+//
+# FYQRZY_117457 Length: 49
+# FYQRZY_117457 Number of predicted TMRs: 0
+FYQRZY_117457	inside	1	49				
+//
+# FYQRZY_50584 Length: 50
+# FYQRZY_50584 Number of predicted TMRs: 0
+FYQRZY_50584	inside	1	50				
+//
+# FYQRZY_111358 Length: 50
+# FYQRZY_111358 Number of predicted TMRs: 0
+FYQRZY_111358	signal	1	49				
+FYQRZY_111358	outside	50	50				
+//
+# FYQRZY_93865 Length: 42
+# FYQRZY_93865 Number of predicted TMRs: 0
+FYQRZY_93865	signal	1	41				
+FYQRZY_93865	outside	42	42				
+//
+# FYQRZY_55431 Length: 43
+# FYQRZY_55431 Number of predicted TMRs: 0
+FYQRZY_55431	inside	1	43				
+//
+# FYQRZY_167563 Length: 47
+# FYQRZY_167563 Number of predicted TMRs: 0
+FYQRZY_167563	inside	1	47				
+//
+# FYQRZY_171123 Length: 47
+# FYQRZY_171123 Number of predicted TMRs: 0
+FYQRZY_171123	signal	1	46				
+FYQRZY_171123	outside	47	47				
+//
+# FYQRZY_134915 Length: 44
+# FYQRZY_134915 Number of predicted TMRs: 0
+FYQRZY_134915	inside	1	44				
+//
+# FYQRZY_94903 Length: 45
+# FYQRZY_94903 Number of predicted TMRs: 0
+FYQRZY_94903	signal	1	44				
+FYQRZY_94903	outside	45	45				
+//
+# FYQRZY_132488 Length: 45
+# FYQRZY_132488 Number of predicted TMRs: 0
+FYQRZY_132488	signal	1	41				
+FYQRZY_132488	outside	42	45				
+//
+# FYQRZY_89204 Length: 42
+# FYQRZY_89204 Number of predicted TMRs: 0
+FYQRZY_89204	signal	1	41				
+FYQRZY_89204	outside	42	42				
+//
+# FYQRZY_118173 Length: 48
+# FYQRZY_118173 Number of predicted TMRs: 0
+FYQRZY_118173	signal	1	44				
+FYQRZY_118173	outside	45	48				
+//
+# FYQRZY_25885 Length: 44
+# FYQRZY_25885 Number of predicted TMRs: 0
+FYQRZY_25885	signal	1	29				
+FYQRZY_25885	outside	30	44				
+//
+# FYQRZY_30245 Length: 49
+# FYQRZY_30245 Number of predicted TMRs: 0
+FYQRZY_30245	signal	1	11				
+FYQRZY_30245	outside	12	49				
+//
+# FYQRZY_127132 Length: 45
+# FYQRZY_127132 Number of predicted TMRs: 0
+FYQRZY_127132	inside	1	45				
+//
+# FYQRZY_69524 Length: 49
+# FYQRZY_69524 Number of predicted TMRs: 0
+FYQRZY_69524	inside	1	49				
+//
+# FYQRZY_137148 Length: 47
+# FYQRZY_137148 Number of predicted TMRs: 0
+FYQRZY_137148	signal	1	43				
+FYQRZY_137148	outside	44	47				
+//
+# FYQRZY_137142 Length: 44
+# FYQRZY_137142 Number of predicted TMRs: 0
+FYQRZY_137142	signal	1	42				
+FYQRZY_137142	outside	43	44				
+//
+# FYQRZY_42447 Length: 45
+# FYQRZY_42447 Number of predicted TMRs: 0
+FYQRZY_42447	signal	1	44				
+FYQRZY_42447	outside	45	45				
+//
+# FYQRZY_134065 Length: 30
+# FYQRZY_134065 Number of predicted TMRs: 0
+FYQRZY_134065	inside	1	30				
+//
+# FYQRZY_132877 Length: 27
+# FYQRZY_132877 Number of predicted TMRs: 0
+FYQRZY_132877	inside	1	27				
+//
+# FYQRZY_167364 Length: 45
+# FYQRZY_167364 Number of predicted TMRs: 0
+FYQRZY_167364	signal	1	38				
+FYQRZY_167364	outside	39	45				
+//
+# FYQRZY_19963 Length: 49
+# FYQRZY_19963 Number of predicted TMRs: 0
+FYQRZY_19963	inside	1	49				
+//
+# FYQRZY_134636 Length: 37
+# FYQRZY_134636 Number of predicted TMRs: 0
+FYQRZY_134636	signal	1	27				
+FYQRZY_134636	outside	28	37				
+//
+# FYQRZY_110177 Length: 31
+# FYQRZY_110177 Number of predicted TMRs: 0
+FYQRZY_110177	inside	1	31				
+//
+# FYQRZY_150392 Length: 43
+# FYQRZY_150392 Number of predicted TMRs: 0
+FYQRZY_150392	inside	1	43				
+//
+# FYQRZY_9025 Length: 42
+# FYQRZY_9025 Number of predicted TMRs: 0
+FYQRZY_9025	signal	1	39				
+FYQRZY_9025	outside	40	42				
+//
+# FYQRZY_76511 Length: 50
+# FYQRZY_76511 Number of predicted TMRs: 0
+FYQRZY_76511	inside	1	50				
+//
+# FYQRZY_17305 Length: 36
+# FYQRZY_17305 Number of predicted TMRs: 0
+FYQRZY_17305	inside	1	36				
+//
+# FYQRZY_114629 Length: 40
+# FYQRZY_114629 Number of predicted TMRs: 0
+FYQRZY_114629	outside	1	40				
+//
+# FYQRZY_167899 Length: 33
+# FYQRZY_167899 Number of predicted TMRs: 0
+FYQRZY_167899	inside	1	33				
+//
+# FYQRZY_7965 Length: 47
+# FYQRZY_7965 Number of predicted TMRs: 0
+FYQRZY_7965	inside	1	47				
+//
+# FYQRZY_103625 Length: 37
+# FYQRZY_103625 Number of predicted TMRs: 0
+FYQRZY_103625	inside	1	37				
+//
+# FYQRZY_64893 Length: 44
+# FYQRZY_64893 Number of predicted TMRs: 0
+FYQRZY_64893	inside	1	44				
+//
+# FYQRZY_69741 Length: 42
+# FYQRZY_69741 Number of predicted TMRs: 0
+FYQRZY_69741	inside	1	42				
+//
+# FYQRZY_21997 Length: 29
+# FYQRZY_21997 Number of predicted TMRs: 0
+FYQRZY_21997	signal	1	23				
+FYQRZY_21997	outside	24	29				
+//
+# FYQRZY_74622 Length: 50
+# FYQRZY_74622 Number of predicted TMRs: 0
+FYQRZY_74622	inside	1	50				
+//
+# FYQRZY_121500 Length: 46
+# FYQRZY_121500 Number of predicted TMRs: 0
+FYQRZY_121500	inside	1	46				
+//
+# FYQRZY_153144 Length: 34
+# FYQRZY_153144 Number of predicted TMRs: 0
+FYQRZY_153144	signal	1	33				
+FYQRZY_153144	outside	34	34				
+//
+# FYQRZY_70567 Length: 45
+# FYQRZY_70567 Number of predicted TMRs: 0
+FYQRZY_70567	inside	1	45				
+//
+# FYQRZY_18825 Length: 40
+# FYQRZY_18825 Number of predicted TMRs: 0
+FYQRZY_18825	signal	1	27				
+FYQRZY_18825	outside	28	40				
+//
+# FYQRZY_122856 Length: 27
+# FYQRZY_122856 Number of predicted TMRs: 0
+FYQRZY_122856	signal	1	26				
+FYQRZY_122856	outside	27	27				
+//
+# FYQRZY_44280 Length: 27
+# FYQRZY_44280 Number of predicted TMRs: 0
+FYQRZY_44280	signal	1	26				
+FYQRZY_44280	outside	27	27				
+//
+# FYQRZY_96451 Length: 39
+# FYQRZY_96451 Number of predicted TMRs: 0
+FYQRZY_96451	outside	1	39				
+//
+# FYQRZY_103407 Length: 42
+# FYQRZY_103407 Number of predicted TMRs: 0
+FYQRZY_103407	signal	1	40				
+FYQRZY_103407	outside	41	42				
+//
+# FYQRZY_49113 Length: 49
+# FYQRZY_49113 Number of predicted TMRs: 0
+FYQRZY_49113	signal	1	31				
+FYQRZY_49113	outside	32	49				
+//
+# FYQRZY_129030 Length: 49
+# FYQRZY_129030 Number of predicted TMRs: 0
+FYQRZY_129030	signal	1	34				
+FYQRZY_129030	outside	35	49				
+//
+# FYQRZY_96532 Length: 43
+# FYQRZY_96532 Number of predicted TMRs: 0
+FYQRZY_96532	inside	1	43				
+//
+# FYQRZY_100868 Length: 39
+# FYQRZY_100868 Number of predicted TMRs: 0
+FYQRZY_100868	signal	1	38				
+FYQRZY_100868	outside	39	39				
+//
+# FYQRZY_135557 Length: 44
+# FYQRZY_135557 Number of predicted TMRs: 0
+FYQRZY_135557	inside	1	44				
+//
+# FYQRZY_79619 Length: 50
+# FYQRZY_79619 Number of predicted TMRs: 0
+FYQRZY_79619	inside	1	50				
+//
+# FYQRZY_145252 Length: 44
+# FYQRZY_145252 Number of predicted TMRs: 0
+FYQRZY_145252	inside	1	44				
+//
+# FYQRZY_46698 Length: 49
+# FYQRZY_46698 Number of predicted TMRs: 0
+FYQRZY_46698	inside	1	49				
+//
+# FYQRZY_108645 Length: 44
+# FYQRZY_108645 Number of predicted TMRs: 0
+FYQRZY_108645	signal	1	12				
+FYQRZY_108645	outside	13	44				
+//
+# FYQRZY_130913 Length: 36
+# FYQRZY_130913 Number of predicted TMRs: 0
+FYQRZY_130913	signal	1	20				
+FYQRZY_130913	outside	21	36				
+//
+# FYQRZY_168839 Length: 43
+# FYQRZY_168839 Number of predicted TMRs: 0
+FYQRZY_168839	inside	1	43				
+//
+# FYQRZY_71310 Length: 39
+# FYQRZY_71310 Number of predicted TMRs: 0
+FYQRZY_71310	inside	1	39				
+//
+# FYQRZY_10958 Length: 33
+# FYQRZY_10958 Number of predicted TMRs: 0
+FYQRZY_10958	signal	1	30				
+FYQRZY_10958	outside	31	33				
+//
+# FYQRZY_45115 Length: 50
+# FYQRZY_45115 Number of predicted TMRs: 0
+FYQRZY_45115	inside	1	50				
+//
+# FYQRZY_52649 Length: 48
+# FYQRZY_52649 Number of predicted TMRs: 0
+FYQRZY_52649	inside	1	48				
+//
+# FYQRZY_41746 Length: 41
+# FYQRZY_41746 Number of predicted TMRs: 0
+FYQRZY_41746	signal	1	39				
+FYQRZY_41746	outside	40	41				
+//
+# FYQRZY_28678 Length: 43
+# FYQRZY_28678 Number of predicted TMRs: 0
+FYQRZY_28678	inside	1	43				
+//
+# FYQRZY_153109 Length: 40
+# FYQRZY_153109 Number of predicted TMRs: 0
+FYQRZY_153109	inside	1	40				
+//
+# FYQRZY_59161 Length: 48
+# FYQRZY_59161 Number of predicted TMRs: 0
+FYQRZY_59161	inside	1	48				
+//
+# FYQRZY_100103 Length: 37
+# FYQRZY_100103 Number of predicted TMRs: 0
+FYQRZY_100103	inside	1	37				
+//
+# FYQRZY_152628 Length: 39
+# FYQRZY_152628 Number of predicted TMRs: 0
+FYQRZY_152628	inside	1	39				
+//
+# FYQRZY_156727 Length: 47
+# FYQRZY_156727 Number of predicted TMRs: 0
+FYQRZY_156727	inside	1	47				
+//
+# FYQRZY_171478 Length: 44
+# FYQRZY_171478 Number of predicted TMRs: 0
+FYQRZY_171478	inside	1	44				
+//
+# FYQRZY_51941 Length: 34
+# FYQRZY_51941 Number of predicted TMRs: 0
+FYQRZY_51941	inside	1	34				
+//
+# FYQRZY_78693 Length: 31
+# FYQRZY_78693 Number of predicted TMRs: 0
+FYQRZY_78693	inside	1	31				
+//
+# FYQRZY_143804 Length: 42
+# FYQRZY_143804 Number of predicted TMRs: 0
+FYQRZY_143804	signal	1	37				
+FYQRZY_143804	outside	38	42				
+//
+# FYQRZY_8643 Length: 48
+# FYQRZY_8643 Number of predicted TMRs: 0
+FYQRZY_8643	signal	1	21				
+FYQRZY_8643	outside	22	48				
+//
+# FYQRZY_69422 Length: 39
+# FYQRZY_69422 Number of predicted TMRs: 0
+FYQRZY_69422	outside	1	39				
+//
+# FYQRZY_67081 Length: 41
+# FYQRZY_67081 Number of predicted TMRs: 0
+FYQRZY_67081	inside	1	41				
+//
+# FYQRZY_168865 Length: 46
+# FYQRZY_168865 Number of predicted TMRs: 0
+FYQRZY_168865	signal	1	35				
+FYQRZY_168865	outside	36	46				
+//
+# FYQRZY_103779 Length: 48
+# FYQRZY_103779 Number of predicted TMRs: 0
+FYQRZY_103779	inside	1	48				
+//
+# FYQRZY_148624 Length: 49
+# FYQRZY_148624 Number of predicted TMRs: 0
+FYQRZY_148624	signal	1	47				
+FYQRZY_148624	outside	48	49				
+//
+# FYQRZY_27904 Length: 36
+# FYQRZY_27904 Number of predicted TMRs: 0
+FYQRZY_27904	signal	1	33				
+FYQRZY_27904	outside	34	36				
+//
+# FYQRZY_139045 Length: 44
+# FYQRZY_139045 Number of predicted TMRs: 0
+FYQRZY_139045	inside	1	44				
+//
+# FYQRZY_96409 Length: 37
+# FYQRZY_96409 Number of predicted TMRs: 0
+FYQRZY_96409	signal	1	30				
+FYQRZY_96409	outside	31	37				
+//
+# FYQRZY_120104 Length: 43
+# FYQRZY_120104 Number of predicted TMRs: 0
+FYQRZY_120104	signal	1	41				
+FYQRZY_120104	outside	42	43				
+//
+# FYQRZY_110645 Length: 50
+# FYQRZY_110645 Number of predicted TMRs: 0
+FYQRZY_110645	inside	1	50				
+//
+# FYQRZY_111954 Length: 46
+# FYQRZY_111954 Number of predicted TMRs: 0
+FYQRZY_111954	inside	1	46				
+//
+# FYQRZY_11500 Length: 44
+# FYQRZY_11500 Number of predicted TMRs: 0
+FYQRZY_11500	inside	1	44				
+//
+# FYQRZY_21414 Length: 49
+# FYQRZY_21414 Number of predicted TMRs: 0
+FYQRZY_21414	inside	1	49				
+//
+# FYQRZY_121992 Length: 46
+# FYQRZY_121992 Number of predicted TMRs: 0
+FYQRZY_121992	inside	1	46				
+//
+# FYQRZY_122835 Length: 42
+# FYQRZY_122835 Number of predicted TMRs: 0
+FYQRZY_122835	inside	1	42				
+//
+# FYQRZY_21678 Length: 40
+# FYQRZY_21678 Number of predicted TMRs: 0
+FYQRZY_21678	inside	1	40				
+//
+# FYQRZY_147538 Length: 50
+# FYQRZY_147538 Number of predicted TMRs: 0
+FYQRZY_147538	inside	1	50				
+//
+# FYQRZY_37571 Length: 42
+# FYQRZY_37571 Number of predicted TMRs: 0
+FYQRZY_37571	inside	1	42				
+//
+# FYQRZY_152525 Length: 42
+# FYQRZY_152525 Number of predicted TMRs: 0
+FYQRZY_152525	inside	1	42				
+//
+# FYQRZY_147339 Length: 42
+# FYQRZY_147339 Number of predicted TMRs: 0
+FYQRZY_147339	inside	1	42				
+//
+# FYQRZY_17701 Length: 42
+# FYQRZY_17701 Number of predicted TMRs: 0
+FYQRZY_17701	inside	1	42				
+//
+# FYQRZY_164697 Length: 48
+# FYQRZY_164697 Number of predicted TMRs: 0
+FYQRZY_164697	inside	1	48				
+//
+# FYQRZY_75871 Length: 49
+# FYQRZY_75871 Number of predicted TMRs: 0
+FYQRZY_75871	signal	1	33				
+FYQRZY_75871	outside	34	49				
+//
+# FYQRZY_4530 Length: 41
+# FYQRZY_4530 Number of predicted TMRs: 1
+FYQRZY_4530	inside	1	20				
+FYQRZY_4530	TMhelix	21	38				
+FYQRZY_4530	outside	39	41				
+//
+# FYQRZY_34604 Length: 43
+# FYQRZY_34604 Number of predicted TMRs: 0
+FYQRZY_34604	signal	1	42				
+FYQRZY_34604	outside	43	43				
+//
+# FYQRZY_121229 Length: 46
+# FYQRZY_121229 Number of predicted TMRs: 0
+FYQRZY_121229	inside	1	46				
+//
+# FYQRZY_63173 Length: 42
+# FYQRZY_63173 Number of predicted TMRs: 0
+FYQRZY_63173	signal	1	40				
+FYQRZY_63173	outside	41	42				
+//
+# FYQRZY_1005 Length: 50
+# FYQRZY_1005 Number of predicted TMRs: 0
+FYQRZY_1005	inside	1	50				
+//
+# FYQRZY_14747 Length: 40
+# FYQRZY_14747 Number of predicted TMRs: 0
+FYQRZY_14747	signal	1	39				
+FYQRZY_14747	outside	40	40				
+//
+# FYQRZY_73825 Length: 48
+# FYQRZY_73825 Number of predicted TMRs: 0
+FYQRZY_73825	signal	1	26				
+FYQRZY_73825	outside	27	48				
+//
+# FYQRZY_49933 Length: 39
+# FYQRZY_49933 Number of predicted TMRs: 0
+FYQRZY_49933	signal	1	36				
+FYQRZY_49933	outside	37	39				
+//
+# FYQRZY_71846 Length: 40
+# FYQRZY_71846 Number of predicted TMRs: 0
+FYQRZY_71846	signal	1	39				
+FYQRZY_71846	outside	40	40				
+//
+# FYQRZY_132429 Length: 45
+# FYQRZY_132429 Number of predicted TMRs: 0
+FYQRZY_132429	inside	1	45				
+//
+# FYQRZY_89315 Length: 49
+# FYQRZY_89315 Number of predicted TMRs: 0
+FYQRZY_89315	inside	1	49				
+//
+# FYQRZY_77847 Length: 44
+# FYQRZY_77847 Number of predicted TMRs: 0
+FYQRZY_77847	inside	1	44				
+//
+# FYQRZY_59235 Length: 38
+# FYQRZY_59235 Number of predicted TMRs: 0
+FYQRZY_59235	outside	1	38				
+//
+# FYQRZY_93009 Length: 33
+# FYQRZY_93009 Number of predicted TMRs: 0
+FYQRZY_93009	signal	1	32				
+FYQRZY_93009	outside	33	33				
+//
+# FYQRZY_148259 Length: 45
+# FYQRZY_148259 Number of predicted TMRs: 0
+FYQRZY_148259	inside	1	45				
+//
+# FYQRZY_162152 Length: 50
+# FYQRZY_162152 Number of predicted TMRs: 0
+FYQRZY_162152	inside	1	50				
+//
+# FYQRZY_91707 Length: 48
+# FYQRZY_91707 Number of predicted TMRs: 0
+FYQRZY_91707	inside	1	48				
+//
+# FYQRZY_135008 Length: 46
+# FYQRZY_135008 Number of predicted TMRs: 0
+FYQRZY_135008	signal	1	34				
+FYQRZY_135008	outside	35	46				
+//
+# FYQRZY_96813 Length: 47
+# FYQRZY_96813 Number of predicted TMRs: 0
+FYQRZY_96813	signal	1	34				
+FYQRZY_96813	outside	35	47				
+//
+# FYQRZY_16594 Length: 31
+# FYQRZY_16594 Number of predicted TMRs: 0
+FYQRZY_16594	signal	1	28				
+FYQRZY_16594	outside	29	31				
+//
+# FYQRZY_21086 Length: 46
+# FYQRZY_21086 Number of predicted TMRs: 0
+FYQRZY_21086	inside	1	46				
+//
+# FYQRZY_166056 Length: 46
+# FYQRZY_166056 Number of predicted TMRs: 0
+FYQRZY_166056	inside	1	46				
+//
+# FYQRZY_75326 Length: 45
+# FYQRZY_75326 Number of predicted TMRs: 0
+FYQRZY_75326	inside	1	45				
+//
+# FYQRZY_52485 Length: 41
+# FYQRZY_52485 Number of predicted TMRs: 0
+FYQRZY_52485	signal	1	33				
+FYQRZY_52485	outside	34	41				
+//
+# FYQRZY_6930 Length: 41
+# FYQRZY_6930 Number of predicted TMRs: 0
+FYQRZY_6930	inside	1	41				
+//
+# FYQRZY_104044 Length: 28
+# FYQRZY_104044 Number of predicted TMRs: 0
+FYQRZY_104044	signal	1	27				
+FYQRZY_104044	outside	28	28				
+//
+# FYQRZY_77565 Length: 47
+# FYQRZY_77565 Number of predicted TMRs: 0
+FYQRZY_77565	inside	1	47				
+//
+# FYQRZY_64553 Length: 48
+# FYQRZY_64553 Number of predicted TMRs: 0
+FYQRZY_64553	inside	1	48				
+//
+# FYQRZY_44681 Length: 46
+# FYQRZY_44681 Number of predicted TMRs: 0
+FYQRZY_44681	inside	1	46				
+//
+# FYQRZY_140005 Length: 49
+# FYQRZY_140005 Number of predicted TMRs: 0
+FYQRZY_140005	inside	1	49				
+//
+# FYQRZY_86836 Length: 49
+# FYQRZY_86836 Number of predicted TMRs: 0
+FYQRZY_86836	signal	1	12				
+FYQRZY_86836	outside	13	49				
+//
+# FYQRZY_131996 Length: 44
+# FYQRZY_131996 Number of predicted TMRs: 0
+FYQRZY_131996	inside	1	44				
+//
+# FYQRZY_144015 Length: 36
+# FYQRZY_144015 Number of predicted TMRs: 0
+FYQRZY_144015	inside	1	36				
+//
+# FYQRZY_80042 Length: 46
+# FYQRZY_80042 Number of predicted TMRs: 0
+FYQRZY_80042	inside	1	46				
+//
+# FYQRZY_18167 Length: 48
+# FYQRZY_18167 Number of predicted TMRs: 0
+FYQRZY_18167	inside	1	48				
+//
+# FYQRZY_60203 Length: 47
+# FYQRZY_60203 Number of predicted TMRs: 0
+FYQRZY_60203	signal	1	38				
+FYQRZY_60203	outside	39	47				
+//
+# FYQRZY_31542 Length: 36
+# FYQRZY_31542 Number of predicted TMRs: 0
+FYQRZY_31542	signal	1	35				
+FYQRZY_31542	outside	36	36				
+//
+# FYQRZY_53362 Length: 36
+# FYQRZY_53362 Number of predicted TMRs: 0
+FYQRZY_53362	signal	1	24				
+FYQRZY_53362	outside	25	36				
+//
+# FYQRZY_59 Length: 36
+# FYQRZY_59 Number of predicted TMRs: 0
+FYQRZY_59	signal	1	33				
+FYQRZY_59	outside	34	36				
+//
+# FYQRZY_146107 Length: 36
+# FYQRZY_146107 Number of predicted TMRs: 0
+FYQRZY_146107	signal	1	35				
+FYQRZY_146107	outside	36	36				
+//
+# FYQRZY_161894 Length: 39
+# FYQRZY_161894 Number of predicted TMRs: 0
+FYQRZY_161894	signal	1	38				
+FYQRZY_161894	outside	39	39				
+//
+# FYQRZY_162091 Length: 45
+# FYQRZY_162091 Number of predicted TMRs: 0
+FYQRZY_162091	signal	1	21				
+FYQRZY_162091	outside	22	45				
+//
+# FYQRZY_83541 Length: 39
+# FYQRZY_83541 Number of predicted TMRs: 0
+FYQRZY_83541	signal	1	32				
+FYQRZY_83541	outside	33	39				
+//
+# FYQRZY_80797 Length: 48
+# FYQRZY_80797 Number of predicted TMRs: 0
+FYQRZY_80797	inside	1	48				
+//
+# FYQRZY_21101 Length: 47
+# FYQRZY_21101 Number of predicted TMRs: 0
+FYQRZY_21101	inside	1	47				
+//
+# FYQRZY_14824 Length: 42
+# FYQRZY_14824 Number of predicted TMRs: 0
+FYQRZY_14824	signal	1	41				
+FYQRZY_14824	outside	42	42				
+//
+# FYQRZY_73186 Length: 44
+# FYQRZY_73186 Number of predicted TMRs: 0
+FYQRZY_73186	signal	1	13				
+FYQRZY_73186	outside	14	44				
+//
+# FYQRZY_24487 Length: 46
+# FYQRZY_24487 Number of predicted TMRs: 0
+FYQRZY_24487	inside	1	46				
+//
+# FYQRZY_19678 Length: 47
+# FYQRZY_19678 Number of predicted TMRs: 0
+FYQRZY_19678	inside	1	47				
+//
+# FYQRZY_41655 Length: 41
+# FYQRZY_41655 Number of predicted TMRs: 0
+FYQRZY_41655	inside	1	41				
+//
+# FYQRZY_168660 Length: 46
+# FYQRZY_168660 Number of predicted TMRs: 0
+FYQRZY_168660	inside	1	46				
+//
+# FYQRZY_74414 Length: 29
+# FYQRZY_74414 Number of predicted TMRs: 0
+FYQRZY_74414	signal	1	28				
+FYQRZY_74414	outside	29	29				
+//
+# FYQRZY_15117 Length: 38
+# FYQRZY_15117 Number of predicted TMRs: 0
+FYQRZY_15117	signal	1	34				
+FYQRZY_15117	outside	35	38				
+//
+# FYQRZY_19126 Length: 45
+# FYQRZY_19126 Number of predicted TMRs: 0
+FYQRZY_19126	inside	1	45				
+//
+# FYQRZY_47327 Length: 45
+# FYQRZY_47327 Number of predicted TMRs: 0
+FYQRZY_47327	inside	1	45				
+//
+# FYQRZY_34862 Length: 50
+# FYQRZY_34862 Number of predicted TMRs: 0
+FYQRZY_34862	inside	1	50				
+//
+# FYQRZY_43564 Length: 42
+# FYQRZY_43564 Number of predicted TMRs: 0
+FYQRZY_43564	inside	1	42				
+//
+# FYQRZY_43643 Length: 48
+# FYQRZY_43643 Number of predicted TMRs: 0
+FYQRZY_43643	outside	1	48				
+//
+# FYQRZY_138176 Length: 45
+# FYQRZY_138176 Number of predicted TMRs: 0
+FYQRZY_138176	inside	1	45				
+//
+# FYQRZY_143577 Length: 43
+# FYQRZY_143577 Number of predicted TMRs: 0
+FYQRZY_143577	inside	1	43				
+//
+# FYQRZY_170465 Length: 49
+# FYQRZY_170465 Number of predicted TMRs: 0
+FYQRZY_170465	inside	1	49				
+//
+# FYQRZY_83776 Length: 46
+# FYQRZY_83776 Number of predicted TMRs: 0
+FYQRZY_83776	inside	1	46				
+//
+# FYQRZY_84015 Length: 47
+# FYQRZY_84015 Number of predicted TMRs: 0
+FYQRZY_84015	inside	1	47				
+//
+# FYQRZY_55056 Length: 46
+# FYQRZY_55056 Number of predicted TMRs: 0
+FYQRZY_55056	inside	1	46				
+//
+# FYQRZY_78319 Length: 35
+# FYQRZY_78319 Number of predicted TMRs: 0
+FYQRZY_78319	inside	1	35				
+//
+# FYQRZY_41382 Length: 37
+# FYQRZY_41382 Number of predicted TMRs: 0
+FYQRZY_41382	signal	1	36				
+FYQRZY_41382	outside	37	37				
+//
+# FYQRZY_108581 Length: 49
+# FYQRZY_108581 Number of predicted TMRs: 0
+FYQRZY_108581	inside	1	49				
+//
+# FYQRZY_162748 Length: 50
+# FYQRZY_162748 Number of predicted TMRs: 0
+FYQRZY_162748	inside	1	50				
+//
+# FYQRZY_134668 Length: 49
+# FYQRZY_134668 Number of predicted TMRs: 0
+FYQRZY_134668	inside	1	49				
+//
+# FYQRZY_123811 Length: 37
+# FYQRZY_123811 Number of predicted TMRs: 0
+FYQRZY_123811	inside	1	37				
+//
+# FYQRZY_54861 Length: 43
+# FYQRZY_54861 Number of predicted TMRs: 0
+FYQRZY_54861	inside	1	43				
+//
+# FYQRZY_125569 Length: 44
+# FYQRZY_125569 Number of predicted TMRs: 0
+FYQRZY_125569	inside	1	44				
+//
+# FYQRZY_93153 Length: 45
+# FYQRZY_93153 Number of predicted TMRs: 0
+FYQRZY_93153	inside	1	45				
+//
+# FYQRZY_12351 Length: 40
+# FYQRZY_12351 Number of predicted TMRs: 0
+FYQRZY_12351	inside	1	40				
+//
+# FYQRZY_140519 Length: 46
+# FYQRZY_140519 Number of predicted TMRs: 0
+FYQRZY_140519	inside	1	46				
+//
+# FYQRZY_138520 Length: 46
+# FYQRZY_138520 Number of predicted TMRs: 0
+FYQRZY_138520	inside	1	46				
+//
+# FYQRZY_132355 Length: 48
+# FYQRZY_132355 Number of predicted TMRs: 0
+FYQRZY_132355	inside	1	48				
+//
+# FYQRZY_74308 Length: 45
+# FYQRZY_74308 Number of predicted TMRs: 0
+FYQRZY_74308	signal	1	10				
+FYQRZY_74308	outside	11	45				
+//
+# FYQRZY_130379 Length: 50
+# FYQRZY_130379 Number of predicted TMRs: 0
+FYQRZY_130379	inside	1	50				
+//
+# FYQRZY_132629 Length: 30
+# FYQRZY_132629 Number of predicted TMRs: 0
+FYQRZY_132629	inside	1	30				
+//
+# FYQRZY_17692 Length: 46
+# FYQRZY_17692 Number of predicted TMRs: 0
+FYQRZY_17692	inside	1	46				
+//
+# FYQRZY_36498 Length: 43
+# FYQRZY_36498 Number of predicted TMRs: 0
+FYQRZY_36498	inside	1	43				
+//
+# FYQRZY_112252 Length: 37
+# FYQRZY_112252 Number of predicted TMRs: 0
+FYQRZY_112252	inside	1	37				
+//
+# FYQRZY_3112 Length: 36
+# FYQRZY_3112 Number of predicted TMRs: 0
+FYQRZY_3112	signal	1	10				
+FYQRZY_3112	outside	11	36				
+//
+# FYQRZY_112059 Length: 50
+# FYQRZY_112059 Number of predicted TMRs: 0
+FYQRZY_112059	inside	1	50				
+//
+# FYQRZY_2248 Length: 49
+# FYQRZY_2248 Number of predicted TMRs: 0
+FYQRZY_2248	inside	1	49				
+//
+# FYQRZY_17657 Length: 41
+# FYQRZY_17657 Number of predicted TMRs: 0
+FYQRZY_17657	inside	1	41				
+//
+# FYQRZY_155312 Length: 48
+# FYQRZY_155312 Number of predicted TMRs: 0
+FYQRZY_155312	inside	1	48				
+//
+# FYQRZY_136789 Length: 42
+# FYQRZY_136789 Number of predicted TMRs: 0
+FYQRZY_136789	inside	1	42				
+//
+# FYQRZY_47313 Length: 48
+# FYQRZY_47313 Number of predicted TMRs: 0
+FYQRZY_47313	inside	1	48				
+//
+# FYQRZY_32842 Length: 42
+# FYQRZY_32842 Number of predicted TMRs: 0
+FYQRZY_32842	signal	1	31				
+FYQRZY_32842	outside	32	42				
+//
+# FYQRZY_44976 Length: 42
+# FYQRZY_44976 Number of predicted TMRs: 0
+FYQRZY_44976	signal	1	40				
+FYQRZY_44976	outside	41	42				
+//
+# FYQRZY_86332 Length: 44
+# FYQRZY_86332 Number of predicted TMRs: 0
+FYQRZY_86332	inside	1	44				
+//
+# FYQRZY_82376 Length: 39
+# FYQRZY_82376 Number of predicted TMRs: 0
+FYQRZY_82376	signal	1	38				
+FYQRZY_82376	outside	39	39				
+//
+# FYQRZY_116859 Length: 50
+# FYQRZY_116859 Number of predicted TMRs: 0
+FYQRZY_116859	inside	1	50				
+//
+# FYQRZY_136445 Length: 47
+# FYQRZY_136445 Number of predicted TMRs: 0
+FYQRZY_136445	inside	1	47				
+//
+# FYQRZY_162342 Length: 45
+# FYQRZY_162342 Number of predicted TMRs: 0
+FYQRZY_162342	inside	1	45				
+//
+# FYQRZY_33923 Length: 49
+# FYQRZY_33923 Number of predicted TMRs: 0
+FYQRZY_33923	inside	1	49				
+//
+# FYQRZY_135124 Length: 48
+# FYQRZY_135124 Number of predicted TMRs: 0
+FYQRZY_135124	inside	1	48				
+//
+# FYQRZY_109476 Length: 45
+# FYQRZY_109476 Number of predicted TMRs: 0
+FYQRZY_109476	signal	1	21				
+FYQRZY_109476	outside	22	45				
+//
+# FYQRZY_60971 Length: 44
+# FYQRZY_60971 Number of predicted TMRs: 0
+FYQRZY_60971	inside	1	44				
+//
+# FYQRZY_77333 Length: 50
+# FYQRZY_77333 Number of predicted TMRs: 0
+FYQRZY_77333	inside	1	50				
+//
+# FYQRZY_22911 Length: 38
+# FYQRZY_22911 Number of predicted TMRs: 0
+FYQRZY_22911	inside	1	38				
+//
+# FYQRZY_91000 Length: 46
+# FYQRZY_91000 Number of predicted TMRs: 0
+FYQRZY_91000	signal	1	10				
+FYQRZY_91000	outside	11	46				
+//
+# FYQRZY_143933 Length: 39
+# FYQRZY_143933 Number of predicted TMRs: 0
+FYQRZY_143933	inside	1	39				
+//
+# FYQRZY_129234 Length: 45
+# FYQRZY_129234 Number of predicted TMRs: 0
+FYQRZY_129234	inside	1	45				
+//
+# FYQRZY_5182 Length: 38
+# FYQRZY_5182 Number of predicted TMRs: 0
+FYQRZY_5182	inside	1	38				
+//
+# FYQRZY_49533 Length: 43
+# FYQRZY_49533 Number of predicted TMRs: 0
+FYQRZY_49533	inside	1	43				
+//
+# FYQRZY_153561 Length: 47
+# FYQRZY_153561 Number of predicted TMRs: 0
+FYQRZY_153561	outside	1	47				
+//
+# FYQRZY_78684 Length: 44
+# FYQRZY_78684 Number of predicted TMRs: 0
+FYQRZY_78684	signal	1	43				
+FYQRZY_78684	outside	44	44				
+//
+# FYQRZY_27288 Length: 48
+# FYQRZY_27288 Number of predicted TMRs: 0
+FYQRZY_27288	inside	1	48				
+//
+# FYQRZY_125868 Length: 43
+# FYQRZY_125868 Number of predicted TMRs: 0
+FYQRZY_125868	inside	1	43				
+//
+# FYQRZY_5193 Length: 48
+# FYQRZY_5193 Number of predicted TMRs: 0
+FYQRZY_5193	inside	1	48				
+//
+# FYQRZY_123099 Length: 36
+# FYQRZY_123099 Number of predicted TMRs: 0
+FYQRZY_123099	signal	1	26				
+FYQRZY_123099	outside	27	36				
+//
+# FYQRZY_147119 Length: 50
+# FYQRZY_147119 Number of predicted TMRs: 0
+FYQRZY_147119	inside	1	50				
+//
+# FYQRZY_66465 Length: 42
+# FYQRZY_66465 Number of predicted TMRs: 0
+FYQRZY_66465	signal	1	34				
+FYQRZY_66465	outside	35	42				
+//
+# FYQRZY_126075 Length: 50
+# FYQRZY_126075 Number of predicted TMRs: 0
+FYQRZY_126075	inside	1	50				
+//
+# FYQRZY_132181 Length: 43
+# FYQRZY_132181 Number of predicted TMRs: 0
+FYQRZY_132181	signal	1	10				
+FYQRZY_132181	outside	11	43				
+//
+# FYQRZY_158316 Length: 45
+# FYQRZY_158316 Number of predicted TMRs: 0
+FYQRZY_158316	inside	1	45				
+//
+# FYQRZY_43446 Length: 38
+# FYQRZY_43446 Number of predicted TMRs: 0
+FYQRZY_43446	inside	1	38				
+//
+# FYQRZY_126315 Length: 50
+# FYQRZY_126315 Number of predicted TMRs: 0
+FYQRZY_126315	inside	1	50				
+//
+# FYQRZY_169282 Length: 44
+# FYQRZY_169282 Number of predicted TMRs: 0
+FYQRZY_169282	signal	1	23				
+FYQRZY_169282	outside	24	44				
+//
+# FYQRZY_69718 Length: 38
+# FYQRZY_69718 Number of predicted TMRs: 0
+FYQRZY_69718	outside	1	38				
+//
+# FYQRZY_127326 Length: 44
+# FYQRZY_127326 Number of predicted TMRs: 0
+FYQRZY_127326	signal	1	43				
+FYQRZY_127326	outside	44	44				
+//
+# FYQRZY_134879 Length: 50
+# FYQRZY_134879 Number of predicted TMRs: 0
+FYQRZY_134879	inside	1	50				
+//
+# FYQRZY_144789 Length: 48
+# FYQRZY_144789 Number of predicted TMRs: 0
+FYQRZY_144789	inside	1	48				
+//
+# FYQRZY_97656 Length: 46
+# FYQRZY_97656 Number of predicted TMRs: 1
+FYQRZY_97656	outside	1	9				
+FYQRZY_97656	TMhelix	10	25				
+FYQRZY_97656	inside	26	46				
+//
+# FYQRZY_140559 Length: 49
+# FYQRZY_140559 Number of predicted TMRs: 0
+FYQRZY_140559	inside	1	49				
+//
+# FYQRZY_154117 Length: 45
+# FYQRZY_154117 Number of predicted TMRs: 0
+FYQRZY_154117	signal	1	10				
+FYQRZY_154117	outside	11	45				
+//
+# FYQRZY_15269 Length: 37
+# FYQRZY_15269 Number of predicted TMRs: 0
+FYQRZY_15269	inside	1	37				
+//
+# FYQRZY_34775 Length: 32
+# FYQRZY_34775 Number of predicted TMRs: 0
+FYQRZY_34775	signal	1	30				
+FYQRZY_34775	outside	31	32				
+//
+# FYQRZY_42706 Length: 44
+# FYQRZY_42706 Number of predicted TMRs: 0
+FYQRZY_42706	signal	1	43				
+FYQRZY_42706	outside	44	44				
+//
+# FYQRZY_125500 Length: 50
+# FYQRZY_125500 Number of predicted TMRs: 0
+FYQRZY_125500	inside	1	50				
+//
+# FYQRZY_129802 Length: 31
+# FYQRZY_129802 Number of predicted TMRs: 0
+FYQRZY_129802	signal	1	17				
+FYQRZY_129802	outside	18	31				
+//
+# FYQRZY_8519 Length: 35
+# FYQRZY_8519 Number of predicted TMRs: 0
+FYQRZY_8519	inside	1	35				
+//
+# FYQRZY_133443 Length: 38
+# FYQRZY_133443 Number of predicted TMRs: 0
+FYQRZY_133443	inside	1	38				
+//
+# FYQRZY_54938 Length: 50
+# FYQRZY_54938 Number of predicted TMRs: 0
+FYQRZY_54938	inside	1	50				
+//
+# FYQRZY_106623 Length: 42
+# FYQRZY_106623 Number of predicted TMRs: 0
+FYQRZY_106623	signal	1	41				
+FYQRZY_106623	outside	42	42				
+//
+# FYQRZY_29379 Length: 42
+# FYQRZY_29379 Number of predicted TMRs: 0
+FYQRZY_29379	inside	1	42				
+//
+# FYQRZY_62822 Length: 45
+# FYQRZY_62822 Number of predicted TMRs: 0
+FYQRZY_62822	inside	1	45				
+//
+# FYQRZY_126354 Length: 42
+# FYQRZY_126354 Number of predicted TMRs: 0
+FYQRZY_126354	inside	1	42				
+//
+# FYQRZY_138222 Length: 42
+# FYQRZY_138222 Number of predicted TMRs: 0
+FYQRZY_138222	inside	1	42				
+//
+# FYQRZY_166637 Length: 40
+# FYQRZY_166637 Number of predicted TMRs: 0
+FYQRZY_166637	inside	1	40				
+//
+# FYQRZY_105023 Length: 36
+# FYQRZY_105023 Number of predicted TMRs: 0
+FYQRZY_105023	inside	1	36				
+//
+# FYQRZY_70160 Length: 50
+# FYQRZY_70160 Number of predicted TMRs: 0
+FYQRZY_70160	inside	1	50				
+//
+# FYQRZY_44282 Length: 48
+# FYQRZY_44282 Number of predicted TMRs: 0
+FYQRZY_44282	signal	1	23				
+FYQRZY_44282	outside	24	48				
+//
+# FYQRZY_76043 Length: 45
+# FYQRZY_76043 Number of predicted TMRs: 0
+FYQRZY_76043	signal	1	37				
+FYQRZY_76043	outside	38	45				
+//
+# FYQRZY_81831 Length: 50
+# FYQRZY_81831 Number of predicted TMRs: 0
+FYQRZY_81831	inside	1	50				
+//
+# FYQRZY_89893 Length: 39
+# FYQRZY_89893 Number of predicted TMRs: 0
+FYQRZY_89893	inside	1	39				
+//
+# FYQRZY_171919 Length: 48
+# FYQRZY_171919 Number of predicted TMRs: 0
+FYQRZY_171919	inside	1	48				
+//
+# FYQRZY_60664 Length: 48
+# FYQRZY_60664 Number of predicted TMRs: 0
+FYQRZY_60664	signal	1	11				
+FYQRZY_60664	outside	12	48				
+//
+# FYQRZY_50366 Length: 46
+# FYQRZY_50366 Number of predicted TMRs: 0
+FYQRZY_50366	inside	1	46				
+//
+# FYQRZY_139403 Length: 38
+# FYQRZY_139403 Number of predicted TMRs: 0
+FYQRZY_139403	signal	1	33				
+FYQRZY_139403	outside	34	38				
+//
+# FYQRZY_105106 Length: 42
+# FYQRZY_105106 Number of predicted TMRs: 0
+FYQRZY_105106	signal	1	34				
+FYQRZY_105106	outside	35	42				
+//
+# FYQRZY_165310 Length: 37
+# FYQRZY_165310 Number of predicted TMRs: 0
+FYQRZY_165310	signal	1	36				
+FYQRZY_165310	outside	37	37				
+//
+# FYQRZY_136683 Length: 45
+# FYQRZY_136683 Number of predicted TMRs: 0
+FYQRZY_136683	signal	1	44				
+FYQRZY_136683	outside	45	45				
+//
+# FYQRZY_136335 Length: 46
+# FYQRZY_136335 Number of predicted TMRs: 0
+FYQRZY_136335	inside	1	46				
+//
+# FYQRZY_139136 Length: 37
+# FYQRZY_139136 Number of predicted TMRs: 0
+FYQRZY_139136	signal	1	36				
+FYQRZY_139136	outside	37	37				
+//
+# FYQRZY_15054 Length: 43
+# FYQRZY_15054 Number of predicted TMRs: 0
+FYQRZY_15054	signal	1	35				
+FYQRZY_15054	outside	36	43				
+//
+# FYQRZY_37212 Length: 49
+# FYQRZY_37212 Number of predicted TMRs: 0
+FYQRZY_37212	inside	1	49				
+//
+# FYQRZY_99850 Length: 44
+# FYQRZY_99850 Number of predicted TMRs: 0
+FYQRZY_99850	inside	1	44				
+//
+# FYQRZY_83460 Length: 38
+# FYQRZY_83460 Number of predicted TMRs: 0
+FYQRZY_83460	signal	1	10				
+FYQRZY_83460	outside	11	38				
+//
+# FYQRZY_107239 Length: 42
+# FYQRZY_107239 Number of predicted TMRs: 0
+FYQRZY_107239	inside	1	42				
+//
+# FYQRZY_135207 Length: 44
+# FYQRZY_135207 Number of predicted TMRs: 0
+FYQRZY_135207	inside	1	44				
+//
+# FYQRZY_154410 Length: 42
+# FYQRZY_154410 Number of predicted TMRs: 0
+FYQRZY_154410	inside	1	42				
+//
+# FYQRZY_28180 Length: 40
+# FYQRZY_28180 Number of predicted TMRs: 0
+FYQRZY_28180	signal	1	39				
+FYQRZY_28180	outside	40	40				
+//
+# FYQRZY_170199 Length: 50
+# FYQRZY_170199 Number of predicted TMRs: 0
+FYQRZY_170199	inside	1	50				
+//
+# FYQRZY_134407 Length: 50
+# FYQRZY_134407 Number of predicted TMRs: 0
+FYQRZY_134407	inside	1	50				
+//
+# FYQRZY_4573 Length: 38
+# FYQRZY_4573 Number of predicted TMRs: 0
+FYQRZY_4573	signal	1	37				
+FYQRZY_4573	outside	38	38				
+//
+# FYQRZY_126135 Length: 50
+# FYQRZY_126135 Number of predicted TMRs: 0
+FYQRZY_126135	signal	1	49				
+FYQRZY_126135	outside	50	50				
+//
+# FYQRZY_69519 Length: 45
+# FYQRZY_69519 Number of predicted TMRs: 0
+FYQRZY_69519	outside	1	45				
+//
+# FYQRZY_147386 Length: 41
+# FYQRZY_147386 Number of predicted TMRs: 0
+FYQRZY_147386	inside	1	41				
+//
+# FYQRZY_96256 Length: 40
+# FYQRZY_96256 Number of predicted TMRs: 0
+FYQRZY_96256	inside	1	40				
+//
+# FYQRZY_98225 Length: 32
+# FYQRZY_98225 Number of predicted TMRs: 0
+FYQRZY_98225	signal	1	23				
+FYQRZY_98225	outside	24	32				
+//
+# FYQRZY_138329 Length: 39
+# FYQRZY_138329 Number of predicted TMRs: 0
+FYQRZY_138329	signal	1	38				
+FYQRZY_138329	outside	39	39				
+//
+# FYQRZY_72526 Length: 41
+# FYQRZY_72526 Number of predicted TMRs: 0
+FYQRZY_72526	signal	1	39				
+FYQRZY_72526	outside	40	41				
+//
+# FYQRZY_52731 Length: 49
+# FYQRZY_52731 Number of predicted TMRs: 0
+FYQRZY_52731	signal	1	44				
+FYQRZY_52731	outside	45	49				
+//
+# FYQRZY_66040 Length: 44
+# FYQRZY_66040 Number of predicted TMRs: 0
+FYQRZY_66040	inside	1	44				
+//
+# FYQRZY_49736 Length: 49
+# FYQRZY_49736 Number of predicted TMRs: 0
+FYQRZY_49736	inside	1	49				
+//
+# FYQRZY_88947 Length: 38
+# FYQRZY_88947 Number of predicted TMRs: 0
+FYQRZY_88947	inside	1	38				
+//
+# FYQRZY_68775 Length: 47
+# FYQRZY_68775 Number of predicted TMRs: 0
+FYQRZY_68775	inside	1	47				
+//
+# FYQRZY_122134 Length: 38
+# FYQRZY_122134 Number of predicted TMRs: 0
+FYQRZY_122134	signal	1	31				
+FYQRZY_122134	outside	32	38				
+//
+# FYQRZY_50187 Length: 36
+# FYQRZY_50187 Number of predicted TMRs: 0
+FYQRZY_50187	inside	1	36				
+//
+# FYQRZY_65365 Length: 46
+# FYQRZY_65365 Number of predicted TMRs: 0
+FYQRZY_65365	inside	1	46				
+//
+# FYQRZY_98128 Length: 46
+# FYQRZY_98128 Number of predicted TMRs: 0
+FYQRZY_98128	inside	1	46				
+//
+# FYQRZY_48112 Length: 39
+# FYQRZY_48112 Number of predicted TMRs: 0
+FYQRZY_48112	signal	1	37				
+FYQRZY_48112	outside	38	39				
+//
+# FYQRZY_72654 Length: 48
+# FYQRZY_72654 Number of predicted TMRs: 0
+FYQRZY_72654	outside	1	48				
+//
+# FYQRZY_110040 Length: 50
+# FYQRZY_110040 Number of predicted TMRs: 0
+FYQRZY_110040	signal	1	34				
+FYQRZY_110040	outside	35	50				
+//
+# FYQRZY_164682 Length: 48
+# FYQRZY_164682 Number of predicted TMRs: 0
+FYQRZY_164682	signal	1	36				
+FYQRZY_164682	outside	37	48				
+//
+# FYQRZY_79572 Length: 50
+# FYQRZY_79572 Number of predicted TMRs: 0
+FYQRZY_79572	inside	1	50				
+//
+# FYQRZY_143201 Length: 38
+# FYQRZY_143201 Number of predicted TMRs: 0
+FYQRZY_143201	signal	1	37				
+FYQRZY_143201	outside	38	38				
+//
+# FYQRZY_35633 Length: 39
+# FYQRZY_35633 Number of predicted TMRs: 0
+FYQRZY_35633	inside	1	39				
+//
+# FYQRZY_123190 Length: 40
+# FYQRZY_123190 Number of predicted TMRs: 0
+FYQRZY_123190	inside	1	40				
+//
+# FYQRZY_50610 Length: 42
+# FYQRZY_50610 Number of predicted TMRs: 0
+FYQRZY_50610	signal	1	41				
+FYQRZY_50610	outside	42	42				
+//
+# FYQRZY_96460 Length: 32
+# FYQRZY_96460 Number of predicted TMRs: 0
+FYQRZY_96460	inside	1	32				
+//
+# FYQRZY_129106 Length: 48
+# FYQRZY_129106 Number of predicted TMRs: 0
+FYQRZY_129106	inside	1	48				
+//
+# FYQRZY_74329 Length: 50
+# FYQRZY_74329 Number of predicted TMRs: 0
+FYQRZY_74329	inside	1	50				
+//
+# FYQRZY_30807 Length: 33
+# FYQRZY_30807 Number of predicted TMRs: 0
+FYQRZY_30807	signal	1	17				
+FYQRZY_30807	outside	18	33				
+//
+# FYQRZY_126454 Length: 47
+# FYQRZY_126454 Number of predicted TMRs: 0
+FYQRZY_126454	inside	1	47				
+//
+# FYQRZY_117935 Length: 45
+# FYQRZY_117935 Number of predicted TMRs: 0
+FYQRZY_117935	inside	1	45				
+//
+# FYQRZY_71037 Length: 36
+# FYQRZY_71037 Number of predicted TMRs: 0
+FYQRZY_71037	signal	1	30				
+FYQRZY_71037	outside	31	36				
+//
+# FYQRZY_97467 Length: 42
+# FYQRZY_97467 Number of predicted TMRs: 0
+FYQRZY_97467	inside	1	42				
+//
+# FYQRZY_1008 Length: 45
+# FYQRZY_1008 Number of predicted TMRs: 0
+FYQRZY_1008	inside	1	45				
+//
+# FYQRZY_58333 Length: 44
+# FYQRZY_58333 Number of predicted TMRs: 0
+FYQRZY_58333	signal	1	38				
+FYQRZY_58333	outside	39	44				
+//
+# FYQRZY_163121 Length: 42
+# FYQRZY_163121 Number of predicted TMRs: 0
+FYQRZY_163121	inside	1	42				
+//
+# FYQRZY_106698 Length: 41
+# FYQRZY_106698 Number of predicted TMRs: 0
+FYQRZY_106698	signal	1	39				
+FYQRZY_106698	outside	40	41				
+//
+# FYQRZY_106730 Length: 33
+# FYQRZY_106730 Number of predicted TMRs: 0
+FYQRZY_106730	signal	1	29				
+FYQRZY_106730	outside	30	33				
+//
+# FYQRZY_51544 Length: 46
+# FYQRZY_51544 Number of predicted TMRs: 0
+FYQRZY_51544	inside	1	46				
+//
+# FYQRZY_71227 Length: 42
+# FYQRZY_71227 Number of predicted TMRs: 0
+FYQRZY_71227	inside	1	42				
+//
+# FYQRZY_70249 Length: 49
+# FYQRZY_70249 Number of predicted TMRs: 0
+FYQRZY_70249	inside	1	49				
+//
+# FYQRZY_35406 Length: 45
+# FYQRZY_35406 Number of predicted TMRs: 0
+FYQRZY_35406	signal	1	21				
+FYQRZY_35406	outside	22	45				
+//
+# FYQRZY_92343 Length: 46
+# FYQRZY_92343 Number of predicted TMRs: 0
+FYQRZY_92343	inside	1	46				
+//
+# FYQRZY_162600 Length: 41
+# FYQRZY_162600 Number of predicted TMRs: 0
+FYQRZY_162600	inside	1	41				
+//
+# FYQRZY_14753 Length: 39
+# FYQRZY_14753 Number of predicted TMRs: 0
+FYQRZY_14753	inside	1	39				
+//
+# FYQRZY_170460 Length: 41
+# FYQRZY_170460 Number of predicted TMRs: 0
+FYQRZY_170460	inside	1	41				
+//
+# FYQRZY_69704 Length: 42
+# FYQRZY_69704 Number of predicted TMRs: 0
+FYQRZY_69704	signal	1	34				
+FYQRZY_69704	outside	35	42				
+//
+# FYQRZY_149684 Length: 48
+# FYQRZY_149684 Number of predicted TMRs: 0
+FYQRZY_149684	signal	1	24				
+FYQRZY_149684	outside	25	48				
+//
+# FYQRZY_76066 Length: 37
+# FYQRZY_76066 Number of predicted TMRs: 0
+FYQRZY_76066	inside	1	37				
+//
+# FYQRZY_75343 Length: 41
+# FYQRZY_75343 Number of predicted TMRs: 0
+FYQRZY_75343	inside	1	41				
+//
+# FYQRZY_168919 Length: 36
+# FYQRZY_168919 Number of predicted TMRs: 0
+FYQRZY_168919	inside	1	36				
+//
+# FYQRZY_3692 Length: 43
+# FYQRZY_3692 Number of predicted TMRs: 0
+FYQRZY_3692	inside	1	43				
+//
+# FYQRZY_9108 Length: 46
+# FYQRZY_9108 Number of predicted TMRs: 0
+FYQRZY_9108	inside	1	46				
+//
+# FYQRZY_34908 Length: 48
+# FYQRZY_34908 Number of predicted TMRs: 0
+FYQRZY_34908	inside	1	48				
+//
+# FYQRZY_121467 Length: 34
+# FYQRZY_121467 Number of predicted TMRs: 0
+FYQRZY_121467	inside	1	34				
+//
+# FYQRZY_133343 Length: 46
+# FYQRZY_133343 Number of predicted TMRs: 0
+FYQRZY_133343	inside	1	46				
+//
+# FYQRZY_34745 Length: 49
+# FYQRZY_34745 Number of predicted TMRs: 0
+FYQRZY_34745	inside	1	49				
+//
+# FYQRZY_4678 Length: 32
+# FYQRZY_4678 Number of predicted TMRs: 0
+FYQRZY_4678	inside	1	32				
+//
+# FYQRZY_147043 Length: 43
+# FYQRZY_147043 Number of predicted TMRs: 0
+FYQRZY_147043	outside	1	43				
+//
+# FYQRZY_168626 Length: 50
+# FYQRZY_168626 Number of predicted TMRs: 0
+FYQRZY_168626	inside	1	50				
+//
+# FYQRZY_125388 Length: 34
+# FYQRZY_125388 Number of predicted TMRs: 0
+FYQRZY_125388	inside	1	34				
+//
+# FYQRZY_131564 Length: 42
+# FYQRZY_131564 Number of predicted TMRs: 0
+FYQRZY_131564	signal	1	26				
+FYQRZY_131564	outside	27	42				
+//
+# FYQRZY_165006 Length: 48
+# FYQRZY_165006 Number of predicted TMRs: 0
+FYQRZY_165006	inside	1	48				
+//
+# FYQRZY_148838 Length: 50
+# FYQRZY_148838 Number of predicted TMRs: 0
+FYQRZY_148838	inside	1	50				
+//
+# FYQRZY_163464 Length: 40
+# FYQRZY_163464 Number of predicted TMRs: 0
+FYQRZY_163464	signal	1	31				
+FYQRZY_163464	outside	32	40				
+//
+# FYQRZY_148390 Length: 40
+# FYQRZY_148390 Number of predicted TMRs: 0
+FYQRZY_148390	signal	1	38				
+FYQRZY_148390	outside	39	40				
+//
+# FYQRZY_107314 Length: 39
+# FYQRZY_107314 Number of predicted TMRs: 0
+FYQRZY_107314	signal	1	15				
+FYQRZY_107314	outside	16	39				
+//
+# FYQRZY_148877 Length: 50
+# FYQRZY_148877 Number of predicted TMRs: 0
+FYQRZY_148877	inside	1	50				
+//
+# FYQRZY_106238 Length: 50
+# FYQRZY_106238 Number of predicted TMRs: 0
+FYQRZY_106238	inside	1	50				
+//
+# FYQRZY_167505 Length: 44
+# FYQRZY_167505 Number of predicted TMRs: 0
+FYQRZY_167505	inside	1	44				
+//
+# FYQRZY_65528 Length: 46
+# FYQRZY_65528 Number of predicted TMRs: 0
+FYQRZY_65528	inside	1	46				
+//
+# FYQRZY_137919 Length: 45
+# FYQRZY_137919 Number of predicted TMRs: 0
+FYQRZY_137919	inside	1	45				
+//
+# FYQRZY_64613 Length: 46
+# FYQRZY_64613 Number of predicted TMRs: 0
+FYQRZY_64613	inside	1	46				
+//
+# FYQRZY_171456 Length: 45
+# FYQRZY_171456 Number of predicted TMRs: 0
+FYQRZY_171456	inside	1	45				
+//
+# FYQRZY_111859 Length: 46
+# FYQRZY_111859 Number of predicted TMRs: 0
+FYQRZY_111859	signal	1	17				
+FYQRZY_111859	outside	18	46				
+//
+# FYQRZY_144191 Length: 50
+# FYQRZY_144191 Number of predicted TMRs: 0
+FYQRZY_144191	inside	1	50				
+//
+# FYQRZY_12409 Length: 50
+# FYQRZY_12409 Number of predicted TMRs: 0
+FYQRZY_12409	inside	1	50				
+//
+# FYQRZY_148905 Length: 48
+# FYQRZY_148905 Number of predicted TMRs: 0
+FYQRZY_148905	signal	1	26				
+FYQRZY_148905	outside	27	48				
+//
+# FYQRZY_9268 Length: 45
+# FYQRZY_9268 Number of predicted TMRs: 0
+FYQRZY_9268	signal	1	34				
+FYQRZY_9268	outside	35	45				
+//
+# FYQRZY_14348 Length: 27
+# FYQRZY_14348 Number of predicted TMRs: 0
+FYQRZY_14348	inside	1	27				
+//
+# FYQRZY_132485 Length: 42
+# FYQRZY_132485 Number of predicted TMRs: 0
+FYQRZY_132485	inside	1	42				
+//
+# FYQRZY_19096 Length: 46
+# FYQRZY_19096 Number of predicted TMRs: 0
+FYQRZY_19096	signal	1	35				
+FYQRZY_19096	outside	36	46				
+//
+# FYQRZY_51843 Length: 49
+# FYQRZY_51843 Number of predicted TMRs: 0
+FYQRZY_51843	inside	1	49				
+//
+# FYQRZY_10585 Length: 50
+# FYQRZY_10585 Number of predicted TMRs: 0
+FYQRZY_10585	inside	1	50				
+//
+# FYQRZY_76717 Length: 30
+# FYQRZY_76717 Number of predicted TMRs: 0
+FYQRZY_76717	signal	1	20				
+FYQRZY_76717	outside	21	30				
+//
+# FYQRZY_171222 Length: 49
+# FYQRZY_171222 Number of predicted TMRs: 0
+FYQRZY_171222	inside	1	49				
+//
+# FYQRZY_30112 Length: 47
+# FYQRZY_30112 Number of predicted TMRs: 0
+FYQRZY_30112	inside	1	47				
+//
+# FYQRZY_19289 Length: 38
+# FYQRZY_19289 Number of predicted TMRs: 0
+FYQRZY_19289	signal	1	35				
+FYQRZY_19289	outside	36	38				
+//
+# FYQRZY_46256 Length: 47
+# FYQRZY_46256 Number of predicted TMRs: 0
+FYQRZY_46256	inside	1	47				
+//
+# FYQRZY_125152 Length: 49
+# FYQRZY_125152 Number of predicted TMRs: 0
+FYQRZY_125152	inside	1	49				
+//
+# FYQRZY_32534 Length: 49
+# FYQRZY_32534 Number of predicted TMRs: 0
+FYQRZY_32534	inside	1	49				
+//
+# FYQRZY_136942 Length: 49
+# FYQRZY_136942 Number of predicted TMRs: 0
+FYQRZY_136942	inside	1	49				
+//
+# FYQRZY_83565 Length: 45
+# FYQRZY_83565 Number of predicted TMRs: 0
+FYQRZY_83565	inside	1	45				
+//
+# FYQRZY_139871 Length: 46
+# FYQRZY_139871 Number of predicted TMRs: 0
+FYQRZY_139871	inside	1	46				
+//
+# FYQRZY_135596 Length: 43
+# FYQRZY_135596 Number of predicted TMRs: 0
+FYQRZY_135596	inside	1	43				
+//
+# FYQRZY_2348 Length: 50
+# FYQRZY_2348 Number of predicted TMRs: 0
+FYQRZY_2348	inside	1	50				
+//
+# FYQRZY_67581 Length: 42
+# FYQRZY_67581 Number of predicted TMRs: 0
+FYQRZY_67581	inside	1	42				
+//
+# FYQRZY_9087 Length: 50
+# FYQRZY_9087 Number of predicted TMRs: 0
+FYQRZY_9087	inside	1	50				
+//
+# FYQRZY_4062 Length: 44
+# FYQRZY_4062 Number of predicted TMRs: 0
+FYQRZY_4062	inside	1	44				
+//
+# FYQRZY_9345 Length: 50
+# FYQRZY_9345 Number of predicted TMRs: 0
+FYQRZY_9345	inside	1	50				
+//
+# FYQRZY_49265 Length: 48
+# FYQRZY_49265 Number of predicted TMRs: 0
+FYQRZY_49265	inside	1	48				
+//
+# FYQRZY_53212 Length: 39
+# FYQRZY_53212 Number of predicted TMRs: 0
+FYQRZY_53212	inside	1	39				
+//
+# FYQRZY_43005 Length: 36
+# FYQRZY_43005 Number of predicted TMRs: 0
+FYQRZY_43005	signal	1	33				
+FYQRZY_43005	outside	34	36				
+//
+# FYQRZY_27468 Length: 48
+# FYQRZY_27468 Number of predicted TMRs: 0
+FYQRZY_27468	inside	1	48				
+//
+# FYQRZY_167891 Length: 43
+# FYQRZY_167891 Number of predicted TMRs: 0
+FYQRZY_167891	inside	1	43				
+//
+# FYQRZY_118307 Length: 49
+# FYQRZY_118307 Number of predicted TMRs: 0
+FYQRZY_118307	signal	1	47				
+FYQRZY_118307	outside	48	49				
+//
+# FYQRZY_42494 Length: 42
+# FYQRZY_42494 Number of predicted TMRs: 0
+FYQRZY_42494	signal	1	18				
+FYQRZY_42494	outside	19	42				
+//
+# FYQRZY_71765 Length: 39
+# FYQRZY_71765 Number of predicted TMRs: 0
+FYQRZY_71765	inside	1	39				
+//
+# FYQRZY_143606 Length: 39
+# FYQRZY_143606 Number of predicted TMRs: 0
+FYQRZY_143606	inside	1	39				
+//
+# FYQRZY_79529 Length: 31
+# FYQRZY_79529 Number of predicted TMRs: 0
+FYQRZY_79529	inside	1	31				
+//
+# FYQRZY_20896 Length: 48
+# FYQRZY_20896 Number of predicted TMRs: 0
+FYQRZY_20896	inside	1	48				
+//
+# FYQRZY_33188 Length: 49
+# FYQRZY_33188 Number of predicted TMRs: 0
+FYQRZY_33188	inside	1	49				
+//
+# FYQRZY_166384 Length: 32
+# FYQRZY_166384 Number of predicted TMRs: 0
+FYQRZY_166384	inside	1	32				
+//
+# FYQRZY_144102 Length: 50
+# FYQRZY_144102 Number of predicted TMRs: 0
+FYQRZY_144102	inside	1	50				
+//
+# FYQRZY_113233 Length: 42
+# FYQRZY_113233 Number of predicted TMRs: 0
+FYQRZY_113233	inside	1	42				
+//
+# FYQRZY_91315 Length: 50
+# FYQRZY_91315 Number of predicted TMRs: 0
+FYQRZY_91315	inside	1	50				
+//
+# FYQRZY_87433 Length: 41
+# FYQRZY_87433 Number of predicted TMRs: 0
+FYQRZY_87433	inside	1	41				
+//
+# FYQRZY_115758 Length: 47
+# FYQRZY_115758 Number of predicted TMRs: 0
+FYQRZY_115758	inside	1	47				
+//
+# FYQRZY_143407 Length: 35
+# FYQRZY_143407 Number of predicted TMRs: 0
+FYQRZY_143407	signal	1	31				
+FYQRZY_143407	outside	32	35				
+//
+# FYQRZY_36935 Length: 36
+# FYQRZY_36935 Number of predicted TMRs: 0
+FYQRZY_36935	inside	1	36				
+//
+# FYQRZY_110849 Length: 41
+# FYQRZY_110849 Number of predicted TMRs: 0
+FYQRZY_110849	inside	1	41				
+//
+# FYQRZY_99351 Length: 50
+# FYQRZY_99351 Number of predicted TMRs: 0
+FYQRZY_99351	signal	1	35				
+FYQRZY_99351	outside	36	50				
+//
+# FYQRZY_137477 Length: 45
+# FYQRZY_137477 Number of predicted TMRs: 0
+FYQRZY_137477	signal	1	10				
+FYQRZY_137477	outside	11	45				
+//
+# FYQRZY_147637 Length: 49
+# FYQRZY_147637 Number of predicted TMRs: 0
+FYQRZY_147637	signal	1	22				
+FYQRZY_147637	outside	23	49				
+//
+# FYQRZY_116630 Length: 35
+# FYQRZY_116630 Number of predicted TMRs: 0
+FYQRZY_116630	signal	1	34				
+FYQRZY_116630	outside	35	35				
+//
+# FYQRZY_33008 Length: 49
+# FYQRZY_33008 Number of predicted TMRs: 0
+FYQRZY_33008	inside	1	49				
+//
+# FYQRZY_34355 Length: 35
+# FYQRZY_34355 Number of predicted TMRs: 0
+FYQRZY_34355	inside	1	35				
+//
+# FYQRZY_143090 Length: 49
+# FYQRZY_143090 Number of predicted TMRs: 0
+FYQRZY_143090	inside	1	49				
+//
+# FYQRZY_163059 Length: 44
+# FYQRZY_163059 Number of predicted TMRs: 0
+FYQRZY_163059	inside	1	44				
+//
+# FYQRZY_46046 Length: 42
+# FYQRZY_46046 Number of predicted TMRs: 0
+FYQRZY_46046	signal	1	10				
+FYQRZY_46046	outside	11	42				
+//
+# FYQRZY_80687 Length: 50
+# FYQRZY_80687 Number of predicted TMRs: 0
+FYQRZY_80687	signal	1	49				
+FYQRZY_80687	outside	50	50				
+//
+# FYQRZY_110555 Length: 43
+# FYQRZY_110555 Number of predicted TMRs: 0
+FYQRZY_110555	inside	1	43				
+//
+# FYQRZY_129122 Length: 50
+# FYQRZY_129122 Number of predicted TMRs: 0
+FYQRZY_129122	inside	1	50				
+//
+# FYQRZY_136813 Length: 38
+# FYQRZY_136813 Number of predicted TMRs: 0
+FYQRZY_136813	inside	1	38				
+//
+# FYQRZY_150387 Length: 40
+# FYQRZY_150387 Number of predicted TMRs: 0
+FYQRZY_150387	inside	1	40				
+//
+# FYQRZY_107669 Length: 46
+# FYQRZY_107669 Number of predicted TMRs: 0
+FYQRZY_107669	inside	1	46				
+//
+# FYQRZY_169620 Length: 41
+# FYQRZY_169620 Number of predicted TMRs: 0
+FYQRZY_169620	inside	1	41				
+//
+# FYQRZY_19971 Length: 49
+# FYQRZY_19971 Number of predicted TMRs: 0
+FYQRZY_19971	inside	1	49				
+//
+# FYQRZY_41682 Length: 49
+# FYQRZY_41682 Number of predicted TMRs: 0
+FYQRZY_41682	inside	1	49				
+//
+# FYQRZY_135610 Length: 48
+# FYQRZY_135610 Number of predicted TMRs: 0
+FYQRZY_135610	inside	1	48				
+//
+# FYQRZY_16947 Length: 39
+# FYQRZY_16947 Number of predicted TMRs: 0
+FYQRZY_16947	inside	1	39				
+//
+# FYQRZY_66311 Length: 41
+# FYQRZY_66311 Number of predicted TMRs: 0
+FYQRZY_66311	signal	1	20				
+FYQRZY_66311	outside	21	41				
+//
+# FYQRZY_127212 Length: 41
+# FYQRZY_127212 Number of predicted TMRs: 0
+FYQRZY_127212	signal	1	39				
+FYQRZY_127212	outside	40	41				
+//
+# FYQRZY_120870 Length: 49
+# FYQRZY_120870 Number of predicted TMRs: 1
+FYQRZY_120870	signal	1	11				
+FYQRZY_120870	outside	12	12				
+FYQRZY_120870	TMhelix	13	23				
+FYQRZY_120870	inside	24	49				
+//
+# FYQRZY_171412 Length: 47
+# FYQRZY_171412 Number of predicted TMRs: 0
+FYQRZY_171412	signal	1	46				
+FYQRZY_171412	outside	47	47				
+//
+# FYQRZY_40101 Length: 46
+# FYQRZY_40101 Number of predicted TMRs: 0
+FYQRZY_40101	signal	1	44				
+FYQRZY_40101	outside	45	46				
+//
+# FYQRZY_127720 Length: 39
+# FYQRZY_127720 Number of predicted TMRs: 0
+FYQRZY_127720	inside	1	39				
+//
+# FYQRZY_166878 Length: 47
+# FYQRZY_166878 Number of predicted TMRs: 0
+FYQRZY_166878	inside	1	47				
+//
+# FYQRZY_87614 Length: 47
+# FYQRZY_87614 Number of predicted TMRs: 0
+FYQRZY_87614	inside	1	47				
+//
+# FYQRZY_147438 Length: 47
+# FYQRZY_147438 Number of predicted TMRs: 0
+FYQRZY_147438	signal	1	35				
+FYQRZY_147438	outside	36	47				
+//
+# FYQRZY_82113 Length: 48
+# FYQRZY_82113 Number of predicted TMRs: 0
+FYQRZY_82113	signal	1	43				
+FYQRZY_82113	outside	44	48				
+//
+# FYQRZY_26263 Length: 32
+# FYQRZY_26263 Number of predicted TMRs: 0
+FYQRZY_26263	inside	1	32				
+//
+# FYQRZY_145940 Length: 35
+# FYQRZY_145940 Number of predicted TMRs: 0
+FYQRZY_145940	signal	1	12				
+FYQRZY_145940	outside	13	35				
+//
+# FYQRZY_22816 Length: 48
+# FYQRZY_22816 Number of predicted TMRs: 0
+FYQRZY_22816	signal	1	10				
+FYQRZY_22816	outside	11	48				
+//
+# FYQRZY_50135 Length: 39
+# FYQRZY_50135 Number of predicted TMRs: 0
+FYQRZY_50135	inside	1	39				
+//
+# FYQRZY_119571 Length: 39
+# FYQRZY_119571 Number of predicted TMRs: 0
+FYQRZY_119571	inside	1	39				
+//
+# FYQRZY_115195 Length: 45
+# FYQRZY_115195 Number of predicted TMRs: 0
+FYQRZY_115195	signal	1	40				
+FYQRZY_115195	outside	41	45				
+//
+# FYQRZY_9593 Length: 47
+# FYQRZY_9593 Number of predicted TMRs: 0
+FYQRZY_9593	inside	1	47				
+//
+# FYQRZY_95117 Length: 49
+# FYQRZY_95117 Number of predicted TMRs: 0
+FYQRZY_95117	inside	1	49				
+//
+# FYQRZY_66677 Length: 29
+# FYQRZY_66677 Number of predicted TMRs: 0
+FYQRZY_66677	inside	1	29				
+//
+# FYQRZY_155865 Length: 29
+# FYQRZY_155865 Number of predicted TMRs: 0
+FYQRZY_155865	inside	1	29				
+//
+# FYQRZY_5779 Length: 46
+# FYQRZY_5779 Number of predicted TMRs: 0
+FYQRZY_5779	inside	1	46				
+//
+# FYQRZY_90855 Length: 36
+# FYQRZY_90855 Number of predicted TMRs: 0
+FYQRZY_90855	signal	1	34				
+FYQRZY_90855	outside	35	36				
+//
+# FYQRZY_22686 Length: 38
+# FYQRZY_22686 Number of predicted TMRs: 0
+FYQRZY_22686	signal	1	15				
+FYQRZY_22686	outside	16	38				
+//
+# FYQRZY_151881 Length: 43
+# FYQRZY_151881 Number of predicted TMRs: 0
+FYQRZY_151881	signal	1	42				
+FYQRZY_151881	outside	43	43				
+//
+# FYQRZY_112205 Length: 40
+# FYQRZY_112205 Number of predicted TMRs: 0
+FYQRZY_112205	signal	1	38				
+FYQRZY_112205	outside	39	40				
+//
+# FYQRZY_150111 Length: 50
+# FYQRZY_150111 Number of predicted TMRs: 0
+FYQRZY_150111	inside	1	50				
+//
+# FYQRZY_26767 Length: 49
+# FYQRZY_26767 Number of predicted TMRs: 0
+FYQRZY_26767	signal	1	12				
+FYQRZY_26767	outside	13	49				
+//
+# FYQRZY_9578 Length: 41
+# FYQRZY_9578 Number of predicted TMRs: 0
+FYQRZY_9578	signal	1	40				
+FYQRZY_9578	outside	41	41				
+//
+# FYQRZY_9577 Length: 50
+# FYQRZY_9577 Number of predicted TMRs: 0
+FYQRZY_9577	inside	1	50				
+//
+# FYQRZY_64192 Length: 48
+# FYQRZY_64192 Number of predicted TMRs: 1
+FYQRZY_64192	inside	1	14				
+FYQRZY_64192	TMhelix	15	34				
+FYQRZY_64192	outside	35	48				
+//
+# FYQRZY_22230 Length: 34
+# FYQRZY_22230 Number of predicted TMRs: 0
+FYQRZY_22230	inside	1	34				
+//
+# FYQRZY_116811 Length: 47
+# FYQRZY_116811 Number of predicted TMRs: 0
+FYQRZY_116811	inside	1	47				
+//
+# FYQRZY_18058 Length: 49
+# FYQRZY_18058 Number of predicted TMRs: 0
+FYQRZY_18058	signal	1	23				
+FYQRZY_18058	outside	24	49				
+//
+# FYQRZY_10357 Length: 43
+# FYQRZY_10357 Number of predicted TMRs: 0
+FYQRZY_10357	signal	1	15				
+FYQRZY_10357	outside	16	43				
+//
+# FYQRZY_166390 Length: 50
+# FYQRZY_166390 Number of predicted TMRs: 0
+FYQRZY_166390	signal	1	49				
+FYQRZY_166390	outside	50	50				
+//
+# FYQRZY_126178 Length: 43
+# FYQRZY_126178 Number of predicted TMRs: 0
+FYQRZY_126178	inside	1	43				
+//
+# FYQRZY_36090 Length: 49
+# FYQRZY_36090 Number of predicted TMRs: 0
+FYQRZY_36090	signal	1	20				
+FYQRZY_36090	outside	21	49				
+//
+# FYQRZY_15328 Length: 47
+# FYQRZY_15328 Number of predicted TMRs: 0
+FYQRZY_15328	inside	1	47				
+//
+# FYQRZY_33411 Length: 49
+# FYQRZY_33411 Number of predicted TMRs: 0
+FYQRZY_33411	inside	1	49				
+//
+# FYQRZY_115103 Length: 40
+# FYQRZY_115103 Number of predicted TMRs: 0
+FYQRZY_115103	signal	1	38				
+FYQRZY_115103	outside	39	40				
+//
+# FYQRZY_94126 Length: 46
+# FYQRZY_94126 Number of predicted TMRs: 0
+FYQRZY_94126	signal	1	44				
+FYQRZY_94126	outside	45	46				
+//
+# FYQRZY_18359 Length: 50
+# FYQRZY_18359 Number of predicted TMRs: 0
+FYQRZY_18359	inside	1	50				
+//
+# FYQRZY_165566 Length: 48
+# FYQRZY_165566 Number of predicted TMRs: 0
+FYQRZY_165566	outside	1	48				
+//
+# FYQRZY_168783 Length: 50
+# FYQRZY_168783 Number of predicted TMRs: 0
+FYQRZY_168783	inside	1	50				
+//
+# FYQRZY_164529 Length: 48
+# FYQRZY_164529 Number of predicted TMRs: 0
+FYQRZY_164529	inside	1	48				
+//
+# FYQRZY_25520 Length: 46
+# FYQRZY_25520 Number of predicted TMRs: 0
+FYQRZY_25520	inside	1	46				
+//
+# FYQRZY_15917 Length: 47
+# FYQRZY_15917 Number of predicted TMRs: 0
+FYQRZY_15917	inside	1	47				
+//
+# FYQRZY_155012 Length: 50
+# FYQRZY_155012 Number of predicted TMRs: 0
+FYQRZY_155012	signal	1	42				
+FYQRZY_155012	outside	43	50				
+//
+# FYQRZY_35677 Length: 47
+# FYQRZY_35677 Number of predicted TMRs: 0
+FYQRZY_35677	signal	1	45				
+FYQRZY_35677	outside	46	47				
+//
+# FYQRZY_96602 Length: 50
+# FYQRZY_96602 Number of predicted TMRs: 0
+FYQRZY_96602	signal	1	42				
+FYQRZY_96602	outside	43	50				
+//
+# FYQRZY_149283 Length: 41
+# FYQRZY_149283 Number of predicted TMRs: 0
+FYQRZY_149283	inside	1	41				
+//
+# FYQRZY_5990 Length: 40
+# FYQRZY_5990 Number of predicted TMRs: 0
+FYQRZY_5990	inside	1	40				
+//
+# FYQRZY_148232 Length: 46
+# FYQRZY_148232 Number of predicted TMRs: 0
+FYQRZY_148232	inside	1	46				
+//
+# FYQRZY_109821 Length: 41
+# FYQRZY_109821 Number of predicted TMRs: 0
+FYQRZY_109821	signal	1	37				
+FYQRZY_109821	outside	38	41				
+//
+# FYQRZY_26089 Length: 41
+# FYQRZY_26089 Number of predicted TMRs: 0
+FYQRZY_26089	signal	1	26				
+FYQRZY_26089	outside	27	41				
+//
+# FYQRZY_55433 Length: 43
+# FYQRZY_55433 Number of predicted TMRs: 0
+FYQRZY_55433	signal	1	14				
+FYQRZY_55433	outside	15	43				
+//
+# FYQRZY_106957 Length: 41
+# FYQRZY_106957 Number of predicted TMRs: 0
+FYQRZY_106957	signal	1	25				
+FYQRZY_106957	outside	26	41				
+//
+# FYQRZY_77960 Length: 44
+# FYQRZY_77960 Number of predicted TMRs: 0
+FYQRZY_77960	inside	1	44				
+//
+# FYQRZY_68608 Length: 45
+# FYQRZY_68608 Number of predicted TMRs: 0
+FYQRZY_68608	signal	1	10				
+FYQRZY_68608	outside	11	45				
+//
+# FYQRZY_28488 Length: 49
+# FYQRZY_28488 Number of predicted TMRs: 0
+FYQRZY_28488	inside	1	49				
+//
+# FYQRZY_35654 Length: 47
+# FYQRZY_35654 Number of predicted TMRs: 0
+FYQRZY_35654	signal	1	45				
+FYQRZY_35654	periplasm	46	47				
+//
+# FYQRZY_123903 Length: 49
+# FYQRZY_123903 Number of predicted TMRs: 0
+FYQRZY_123903	inside	1	49				
+//
+# FYQRZY_138533 Length: 40
+# FYQRZY_138533 Number of predicted TMRs: 0
+FYQRZY_138533	signal	1	39				
+FYQRZY_138533	outside	40	40				
+//
+# FYQRZY_30980 Length: 49
+# FYQRZY_30980 Number of predicted TMRs: 0
+FYQRZY_30980	signal	1	18				
+FYQRZY_30980	outside	19	49				
+//
+# FYQRZY_121307 Length: 49
+# FYQRZY_121307 Number of predicted TMRs: 0
+FYQRZY_121307	inside	1	49				
+//
+# FYQRZY_11497 Length: 47
+# FYQRZY_11497 Number of predicted TMRs: 0
+FYQRZY_11497	inside	1	47				
+//
+# FYQRZY_163093 Length: 44
+# FYQRZY_163093 Number of predicted TMRs: 0
+FYQRZY_163093	inside	1	44				
+//
+# FYQRZY_95728 Length: 40
+# FYQRZY_95728 Number of predicted TMRs: 0
+FYQRZY_95728	inside	1	40				
+//
+# FYQRZY_42013 Length: 33
+# FYQRZY_42013 Number of predicted TMRs: 0
+FYQRZY_42013	inside	1	33				
+//
+# FYQRZY_2720 Length: 50
+# FYQRZY_2720 Number of predicted TMRs: 0
+FYQRZY_2720	inside	1	50				
+//
+# FYQRZY_6725 Length: 40
+# FYQRZY_6725 Number of predicted TMRs: 0
+FYQRZY_6725	signal	1	29				
+FYQRZY_6725	outside	30	40				
+//
+# FYQRZY_91269 Length: 48
+# FYQRZY_91269 Number of predicted TMRs: 0
+FYQRZY_91269	inside	1	48				
+//
+# FYQRZY_85065 Length: 40
+# FYQRZY_85065 Number of predicted TMRs: 0
+FYQRZY_85065	signal	1	17				
+FYQRZY_85065	outside	18	40				
+//
+# FYQRZY_94922 Length: 49
+# FYQRZY_94922 Number of predicted TMRs: 0
+FYQRZY_94922	inside	1	49				
+//
+# FYQRZY_117066 Length: 30
+# FYQRZY_117066 Number of predicted TMRs: 0
+FYQRZY_117066	signal	1	22				
+FYQRZY_117066	outside	23	30				
+//
+# FYQRZY_151851 Length: 47
+# FYQRZY_151851 Number of predicted TMRs: 0
+FYQRZY_151851	inside	1	47				
+//
+# FYQRZY_93571 Length: 46
+# FYQRZY_93571 Number of predicted TMRs: 0
+FYQRZY_93571	inside	1	46				
+//
+# FYQRZY_29344 Length: 42
+# FYQRZY_29344 Number of predicted TMRs: 0
+FYQRZY_29344	inside	1	42				
+//
+# FYQRZY_91888 Length: 48
+# FYQRZY_91888 Number of predicted TMRs: 0
+FYQRZY_91888	inside	1	48				
+//
+# FYQRZY_152683 Length: 49
+# FYQRZY_152683 Number of predicted TMRs: 0
+FYQRZY_152683	inside	1	49				
+//
+# FYQRZY_170759 Length: 48
+# FYQRZY_170759 Number of predicted TMRs: 0
+FYQRZY_170759	inside	1	48				
+//
+# FYQRZY_135259 Length: 40
+# FYQRZY_135259 Number of predicted TMRs: 0
+FYQRZY_135259	inside	1	40				
+//
+# FYQRZY_128427 Length: 49
+# FYQRZY_128427 Number of predicted TMRs: 0
+FYQRZY_128427	outside	1	49				
+//
+# FYQRZY_69439 Length: 38
+# FYQRZY_69439 Number of predicted TMRs: 0
+FYQRZY_69439	signal	1	22				
+FYQRZY_69439	outside	23	38				
+//
+# FYQRZY_169256 Length: 45
+# FYQRZY_169256 Number of predicted TMRs: 0
+FYQRZY_169256	signal	1	35				
+FYQRZY_169256	outside	36	45				
+//
+# FYQRZY_49536 Length: 34
+# FYQRZY_49536 Number of predicted TMRs: 0
+FYQRZY_49536	inside	1	34				
+//
+# FYQRZY_82658 Length: 47
+# FYQRZY_82658 Number of predicted TMRs: 0
+FYQRZY_82658	inside	1	47				
+//
+# FYQRZY_48157 Length: 50
+# FYQRZY_48157 Number of predicted TMRs: 0
+FYQRZY_48157	inside	1	50				
+//
+# FYQRZY_73824 Length: 48
+# FYQRZY_73824 Number of predicted TMRs: 0
+FYQRZY_73824	inside	1	48				
+//
+# FYQRZY_161945 Length: 48
+# FYQRZY_161945 Number of predicted TMRs: 0
+FYQRZY_161945	inside	1	48				
+//
+# FYQRZY_170226 Length: 46
+# FYQRZY_170226 Number of predicted TMRs: 0
+FYQRZY_170226	inside	1	46				
+//
+# FYQRZY_140789 Length: 42
+# FYQRZY_140789 Number of predicted TMRs: 0
+FYQRZY_140789	inside	1	42				
+//
+# FYQRZY_69097 Length: 45
+# FYQRZY_69097 Number of predicted TMRs: 0
+FYQRZY_69097	signal	1	22				
+FYQRZY_69097	outside	23	45				
+//
+# FYQRZY_132555 Length: 47
+# FYQRZY_132555 Number of predicted TMRs: 0
+FYQRZY_132555	inside	1	47				
+//
+# FYQRZY_133112 Length: 49
+# FYQRZY_133112 Number of predicted TMRs: 0
+FYQRZY_133112	inside	1	49				
+//
+# FYQRZY_132016 Length: 47
+# FYQRZY_132016 Number of predicted TMRs: 0
+FYQRZY_132016	signal	1	14				
+FYQRZY_132016	outside	15	47				
+//
+# FYQRZY_6877 Length: 49
+# FYQRZY_6877 Number of predicted TMRs: 0
+FYQRZY_6877	inside	1	49				
+//
+# FYQRZY_128362 Length: 37
+# FYQRZY_128362 Number of predicted TMRs: 0
+FYQRZY_128362	signal	1	32				
+FYQRZY_128362	outside	33	37				
+//
+# FYQRZY_138105 Length: 50
+# FYQRZY_138105 Number of predicted TMRs: 0
+FYQRZY_138105	inside	1	50				
+//
+# FYQRZY_139324 Length: 50
+# FYQRZY_139324 Number of predicted TMRs: 0
+FYQRZY_139324	inside	1	50				
+//
+# FYQRZY_86611 Length: 36
+# FYQRZY_86611 Number of predicted TMRs: 0
+FYQRZY_86611	signal	1	14				
+FYQRZY_86611	outside	15	36				
+//
+# FYQRZY_94170 Length: 49
+# FYQRZY_94170 Number of predicted TMRs: 0
+FYQRZY_94170	inside	1	49				
+//
+# FYQRZY_106508 Length: 48
+# FYQRZY_106508 Number of predicted TMRs: 0
+FYQRZY_106508	inside	1	48				
+//
+# FYQRZY_135971 Length: 45
+# FYQRZY_135971 Number of predicted TMRs: 0
+FYQRZY_135971	signal	1	15				
+FYQRZY_135971	outside	16	45				
+//
+# FYQRZY_21199 Length: 46
+# FYQRZY_21199 Number of predicted TMRs: 0
+FYQRZY_21199	inside	1	46				
+//
+# FYQRZY_65563 Length: 44
+# FYQRZY_65563 Number of predicted TMRs: 0
+FYQRZY_65563	signal	1	20				
+FYQRZY_65563	outside	21	44				
+//
+# FYQRZY_60765 Length: 41
+# FYQRZY_60765 Number of predicted TMRs: 0
+FYQRZY_60765	signal	1	39				
+FYQRZY_60765	outside	40	41				
+//
+# FYQRZY_72514 Length: 34
+# FYQRZY_72514 Number of predicted TMRs: 0
+FYQRZY_72514	inside	1	34				
+//
+# FYQRZY_106171 Length: 46
+# FYQRZY_106171 Number of predicted TMRs: 0
+FYQRZY_106171	inside	1	46				
+//
+# FYQRZY_128604 Length: 32
+# FYQRZY_128604 Number of predicted TMRs: 0
+FYQRZY_128604	signal	1	29				
+FYQRZY_128604	outside	30	32				
+//
+# FYQRZY_73632 Length: 47
+# FYQRZY_73632 Number of predicted TMRs: 0
+FYQRZY_73632	signal	1	24				
+FYQRZY_73632	outside	25	47				
+//
+# FYQRZY_167948 Length: 46
+# FYQRZY_167948 Number of predicted TMRs: 0
+FYQRZY_167948	inside	1	46				
+//
+# FYQRZY_132192 Length: 35
+# FYQRZY_132192 Number of predicted TMRs: 0
+FYQRZY_132192	signal	1	32				
+FYQRZY_132192	outside	33	35				
+//
+# FYQRZY_133130 Length: 43
+# FYQRZY_133130 Number of predicted TMRs: 0
+FYQRZY_133130	inside	1	43				
+//
+# FYQRZY_122874 Length: 48
+# FYQRZY_122874 Number of predicted TMRs: 0
+FYQRZY_122874	inside	1	48				
+//
+# FYQRZY_65821 Length: 49
+# FYQRZY_65821 Number of predicted TMRs: 0
+FYQRZY_65821	inside	1	49				
+//
+# FYQRZY_9556 Length: 43
+# FYQRZY_9556 Number of predicted TMRs: 0
+FYQRZY_9556	signal	1	42				
+FYQRZY_9556	outside	43	43				
+//
+# FYQRZY_6287 Length: 40
+# FYQRZY_6287 Number of predicted TMRs: 0
+FYQRZY_6287	inside	1	40				
+//
+# FYQRZY_56855 Length: 45
+# FYQRZY_56855 Number of predicted TMRs: 0
+FYQRZY_56855	signal	1	25				
+FYQRZY_56855	outside	26	45				
+//
+# FYQRZY_30041 Length: 39
+# FYQRZY_30041 Number of predicted TMRs: 0
+FYQRZY_30041	inside	1	39				
+//
+# FYQRZY_4584 Length: 49
+# FYQRZY_4584 Number of predicted TMRs: 0
+FYQRZY_4584	signal	1	33				
+FYQRZY_4584	outside	34	49				
+//
+# FYQRZY_22531 Length: 50
+# FYQRZY_22531 Number of predicted TMRs: 0
+FYQRZY_22531	outside	1	50				
+//
+# FYQRZY_22527 Length: 50
+# FYQRZY_22527 Number of predicted TMRs: 0
+FYQRZY_22527	outside	1	50				
+//
+# FYQRZY_44756 Length: 37
+# FYQRZY_44756 Number of predicted TMRs: 0
+FYQRZY_44756	signal	1	24				
+FYQRZY_44756	outside	25	37				
+//
+# FYQRZY_14350 Length: 49
+# FYQRZY_14350 Number of predicted TMRs: 0
+FYQRZY_14350	signal	1	47				
+FYQRZY_14350	outside	48	49				
+//
+# FYQRZY_96244 Length: 47
+# FYQRZY_96244 Number of predicted TMRs: 0
+FYQRZY_96244	inside	1	47				
+//
+# FYQRZY_33667 Length: 42
+# FYQRZY_33667 Number of predicted TMRs: 0
+FYQRZY_33667	signal	1	41				
+FYQRZY_33667	outside	42	42				
+//
+# FYQRZY_63883 Length: 41
+# FYQRZY_63883 Number of predicted TMRs: 0
+FYQRZY_63883	inside	1	41				
+//
+# FYQRZY_153233 Length: 41
+# FYQRZY_153233 Number of predicted TMRs: 0
+FYQRZY_153233	signal	1	30				
+FYQRZY_153233	outside	31	41				
+//
+# FYQRZY_140238 Length: 42
+# FYQRZY_140238 Number of predicted TMRs: 0
+FYQRZY_140238	signal	1	16				
+FYQRZY_140238	outside	17	42				
+//
+# FYQRZY_105723 Length: 49
+# FYQRZY_105723 Number of predicted TMRs: 0
+FYQRZY_105723	inside	1	49				
+//
+# FYQRZY_77629 Length: 48
+# FYQRZY_77629 Number of predicted TMRs: 0
+FYQRZY_77629	outside	1	48				
+//
+# FYQRZY_55885 Length: 49
+# FYQRZY_55885 Number of predicted TMRs: 0
+FYQRZY_55885	inside	1	49				
+//
+# FYQRZY_145276 Length: 48
+# FYQRZY_145276 Number of predicted TMRs: 0
+FYQRZY_145276	outside	1	48				
+//
+# FYQRZY_82120 Length: 45
+# FYQRZY_82120 Number of predicted TMRs: 0
+FYQRZY_82120	inside	1	45				
+//
+# FYQRZY_99541 Length: 46
+# FYQRZY_99541 Number of predicted TMRs: 0
+FYQRZY_99541	inside	1	46				
+//
+# FYQRZY_12176 Length: 46
+# FYQRZY_12176 Number of predicted TMRs: 0
+FYQRZY_12176	signal	1	41				
+FYQRZY_12176	outside	42	46				
+//
+# FYQRZY_152249 Length: 42
+# FYQRZY_152249 Number of predicted TMRs: 0
+FYQRZY_152249	signal	1	28				
+FYQRZY_152249	outside	29	42				
+//
+# FYQRZY_125731 Length: 47
+# FYQRZY_125731 Number of predicted TMRs: 0
+FYQRZY_125731	inside	1	47				
+//
+# FYQRZY_62063 Length: 48
+# FYQRZY_62063 Number of predicted TMRs: 0
+FYQRZY_62063	outside	1	48				
+//
+# FYQRZY_832 Length: 42
+# FYQRZY_832 Number of predicted TMRs: 0
+FYQRZY_832	inside	1	42				
+//
+# FYQRZY_147453 Length: 47
+# FYQRZY_147453 Number of predicted TMRs: 0
+FYQRZY_147453	signal	1	46				
+FYQRZY_147453	outside	47	47				
+//
+# FYQRZY_97047 Length: 50
+# FYQRZY_97047 Number of predicted TMRs: 0
+FYQRZY_97047	signal	1	31				
+FYQRZY_97047	outside	32	50				
+//
+# FYQRZY_46289 Length: 49
+# FYQRZY_46289 Number of predicted TMRs: 0
+FYQRZY_46289	inside	1	49				
+//
+# FYQRZY_83393 Length: 45
+# FYQRZY_83393 Number of predicted TMRs: 0
+FYQRZY_83393	inside	1	45				
+//
+# FYQRZY_167885 Length: 49
+# FYQRZY_167885 Number of predicted TMRs: 0
+FYQRZY_167885	signal	1	29				
+FYQRZY_167885	outside	30	49				
+//
+# FYQRZY_79011 Length: 50
+# FYQRZY_79011 Number of predicted TMRs: 0
+FYQRZY_79011	signal	1	28				
+FYQRZY_79011	outside	29	50				
+//
+# FYQRZY_13677 Length: 47
+# FYQRZY_13677 Number of predicted TMRs: 0
+FYQRZY_13677	signal	1	13				
+FYQRZY_13677	outside	14	47				
+//
+# FYQRZY_67722 Length: 45
+# FYQRZY_67722 Number of predicted TMRs: 0
+FYQRZY_67722	inside	1	45				
+//
+# FYQRZY_138555 Length: 49
+# FYQRZY_138555 Number of predicted TMRs: 0
+FYQRZY_138555	signal	1	12				
+FYQRZY_138555	outside	13	49				
+//
+# FYQRZY_53753 Length: 45
+# FYQRZY_53753 Number of predicted TMRs: 0
+FYQRZY_53753	inside	1	45				
+//
+# FYQRZY_24876 Length: 45
+# FYQRZY_24876 Number of predicted TMRs: 0
+FYQRZY_24876	inside	1	45				

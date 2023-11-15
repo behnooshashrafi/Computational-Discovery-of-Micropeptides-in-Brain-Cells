@@ -1,0 +1,4362 @@
+##gff-version 3
+# JLIDYX_137161 Length: 50
+# JLIDYX_137161 Number of predicted TMRs: 0
+JLIDYX_137161	inside	1	50				
+//
+# JLIDYX_51220 Length: 44
+# JLIDYX_51220 Number of predicted TMRs: 0
+JLIDYX_51220	inside	1	44				
+//
+# JLIDYX_57464 Length: 46
+# JLIDYX_57464 Number of predicted TMRs: 0
+JLIDYX_57464	inside	1	46				
+//
+# JLIDYX_20845 Length: 30
+# JLIDYX_20845 Number of predicted TMRs: 0
+JLIDYX_20845	signal	1	28				
+JLIDYX_20845	outside	29	30				
+//
+# JLIDYX_37159 Length: 46
+# JLIDYX_37159 Number of predicted TMRs: 0
+JLIDYX_37159	inside	1	46				
+//
+# JLIDYX_43562 Length: 40
+# JLIDYX_43562 Number of predicted TMRs: 0
+JLIDYX_43562	inside	1	40				
+//
+# JLIDYX_34135 Length: 44
+# JLIDYX_34135 Number of predicted TMRs: 0
+JLIDYX_34135	inside	1	44				
+//
+# JLIDYX_69541 Length: 44
+# JLIDYX_69541 Number of predicted TMRs: 0
+JLIDYX_69541	inside	1	44				
+//
+# JLIDYX_14677 Length: 46
+# JLIDYX_14677 Number of predicted TMRs: 0
+JLIDYX_14677	signal	1	19				
+JLIDYX_14677	outside	20	46				
+//
+# JLIDYX_90712 Length: 35
+# JLIDYX_90712 Number of predicted TMRs: 0
+JLIDYX_90712	inside	1	35				
+//
+# JLIDYX_77121 Length: 47
+# JLIDYX_77121 Number of predicted TMRs: 0
+JLIDYX_77121	inside	1	47				
+//
+# JLIDYX_19541 Length: 50
+# JLIDYX_19541 Number of predicted TMRs: 0
+JLIDYX_19541	inside	1	50				
+//
+# JLIDYX_104906 Length: 46
+# JLIDYX_104906 Number of predicted TMRs: 0
+JLIDYX_104906	inside	1	46				
+//
+# JLIDYX_53424 Length: 37
+# JLIDYX_53424 Number of predicted TMRs: 0
+JLIDYX_53424	signal	1	24				
+JLIDYX_53424	outside	25	37				
+//
+# JLIDYX_13823 Length: 49
+# JLIDYX_13823 Number of predicted TMRs: 0
+JLIDYX_13823	inside	1	49				
+//
+# JLIDYX_98402 Length: 29
+# JLIDYX_98402 Number of predicted TMRs: 0
+JLIDYX_98402	inside	1	29				
+//
+# JLIDYX_45063 Length: 46
+# JLIDYX_45063 Number of predicted TMRs: 0
+JLIDYX_45063	signal	1	23				
+JLIDYX_45063	outside	24	46				
+//
+# JLIDYX_97621 Length: 45
+# JLIDYX_97621 Number of predicted TMRs: 0
+JLIDYX_97621	signal	1	33				
+JLIDYX_97621	outside	34	45				
+//
+# JLIDYX_123758 Length: 39
+# JLIDYX_123758 Number of predicted TMRs: 0
+JLIDYX_123758	inside	1	39				
+//
+# JLIDYX_60027 Length: 36
+# JLIDYX_60027 Number of predicted TMRs: 0
+JLIDYX_60027	inside	1	36				
+//
+# JLIDYX_140323 Length: 49
+# JLIDYX_140323 Number of predicted TMRs: 0
+JLIDYX_140323	inside	1	49				
+//
+# JLIDYX_82744 Length: 48
+# JLIDYX_82744 Number of predicted TMRs: 0
+JLIDYX_82744	inside	1	48				
+//
+# JLIDYX_124777 Length: 45
+# JLIDYX_124777 Number of predicted TMRs: 0
+JLIDYX_124777	inside	1	45				
+//
+# JLIDYX_22643 Length: 49
+# JLIDYX_22643 Number of predicted TMRs: 0
+JLIDYX_22643	inside	1	49				
+//
+# JLIDYX_59918 Length: 39
+# JLIDYX_59918 Number of predicted TMRs: 0
+JLIDYX_59918	inside	1	39				
+//
+# JLIDYX_148147 Length: 46
+# JLIDYX_148147 Number of predicted TMRs: 0
+JLIDYX_148147	inside	1	46				
+//
+# JLIDYX_101947 Length: 45
+# JLIDYX_101947 Number of predicted TMRs: 0
+JLIDYX_101947	inside	1	45				
+//
+# JLIDYX_90892 Length: 48
+# JLIDYX_90892 Number of predicted TMRs: 0
+JLIDYX_90892	inside	1	48				
+//
+# JLIDYX_128404 Length: 40
+# JLIDYX_128404 Number of predicted TMRs: 0
+JLIDYX_128404	inside	1	40				
+//
+# JLIDYX_92916 Length: 43
+# JLIDYX_92916 Number of predicted TMRs: 0
+JLIDYX_92916	signal	1	42				
+JLIDYX_92916	outside	43	43				
+//
+# JLIDYX_51978 Length: 36
+# JLIDYX_51978 Number of predicted TMRs: 0
+JLIDYX_51978	inside	1	36				
+//
+# JLIDYX_27453 Length: 31
+# JLIDYX_27453 Number of predicted TMRs: 0
+JLIDYX_27453	inside	1	31				
+//
+# JLIDYX_164793 Length: 32
+# JLIDYX_164793 Number of predicted TMRs: 0
+JLIDYX_164793	inside	1	32				
+//
+# JLIDYX_93244 Length: 50
+# JLIDYX_93244 Number of predicted TMRs: 0
+JLIDYX_93244	inside	1	50				
+//
+# JLIDYX_31227 Length: 48
+# JLIDYX_31227 Number of predicted TMRs: 0
+JLIDYX_31227	inside	1	48				
+//
+# JLIDYX_76914 Length: 48
+# JLIDYX_76914 Number of predicted TMRs: 0
+JLIDYX_76914	inside	1	48				
+//
+# JLIDYX_65834 Length: 46
+# JLIDYX_65834 Number of predicted TMRs: 0
+JLIDYX_65834	inside	1	46				
+//
+# JLIDYX_47108 Length: 34
+# JLIDYX_47108 Number of predicted TMRs: 0
+JLIDYX_47108	signal	1	30				
+JLIDYX_47108	outside	31	34				
+//
+# JLIDYX_8921 Length: 34
+# JLIDYX_8921 Number of predicted TMRs: 0
+JLIDYX_8921	signal	1	33				
+JLIDYX_8921	outside	34	34				
+//
+# JLIDYX_86972 Length: 48
+# JLIDYX_86972 Number of predicted TMRs: 0
+JLIDYX_86972	inside	1	48				
+//
+# JLIDYX_5267 Length: 45
+# JLIDYX_5267 Number of predicted TMRs: 0
+JLIDYX_5267	signal	1	10				
+JLIDYX_5267	outside	11	45				
+//
+# JLIDYX_161958 Length: 40
+# JLIDYX_161958 Number of predicted TMRs: 0
+JLIDYX_161958	inside	1	40				
+//
+# JLIDYX_96490 Length: 40
+# JLIDYX_96490 Number of predicted TMRs: 0
+JLIDYX_96490	inside	1	40				
+//
+# JLIDYX_96541 Length: 31
+# JLIDYX_96541 Number of predicted TMRs: 0
+JLIDYX_96541	inside	1	31				
+//
+# JLIDYX_111510 Length: 50
+# JLIDYX_111510 Number of predicted TMRs: 0
+JLIDYX_111510	inside	1	50				
+//
+# JLIDYX_43503 Length: 50
+# JLIDYX_43503 Number of predicted TMRs: 0
+JLIDYX_43503	inside	1	50				
+//
+# JLIDYX_79771 Length: 40
+# JLIDYX_79771 Number of predicted TMRs: 0
+JLIDYX_79771	inside	1	40				
+//
+# JLIDYX_69691 Length: 42
+# JLIDYX_69691 Number of predicted TMRs: 0
+JLIDYX_69691	inside	1	42				
+//
+# JLIDYX_113197 Length: 45
+# JLIDYX_113197 Number of predicted TMRs: 0
+JLIDYX_113197	inside	1	45				
+//
+# JLIDYX_112824 Length: 49
+# JLIDYX_112824 Number of predicted TMRs: 0
+JLIDYX_112824	inside	1	49				
+//
+# JLIDYX_36262 Length: 41
+# JLIDYX_36262 Number of predicted TMRs: 0
+JLIDYX_36262	inside	1	41				
+//
+# JLIDYX_71921 Length: 49
+# JLIDYX_71921 Number of predicted TMRs: 0
+JLIDYX_71921	inside	1	49				
+//
+# JLIDYX_23629 Length: 47
+# JLIDYX_23629 Number of predicted TMRs: 0
+JLIDYX_23629	inside	1	47				
+//
+# JLIDYX_130540 Length: 50
+# JLIDYX_130540 Number of predicted TMRs: 0
+JLIDYX_130540	inside	1	50				
+//
+# JLIDYX_69383 Length: 38
+# JLIDYX_69383 Number of predicted TMRs: 0
+JLIDYX_69383	outside	1	38				
+//
+# JLIDYX_7962 Length: 36
+# JLIDYX_7962 Number of predicted TMRs: 0
+JLIDYX_7962	inside	1	36				
+//
+# JLIDYX_91016 Length: 44
+# JLIDYX_91016 Number of predicted TMRs: 0
+JLIDYX_91016	signal	1	29				
+JLIDYX_91016	outside	30	44				
+//
+# JLIDYX_167711 Length: 38
+# JLIDYX_167711 Number of predicted TMRs: 0
+JLIDYX_167711	inside	1	38				
+//
+# JLIDYX_27642 Length: 50
+# JLIDYX_27642 Number of predicted TMRs: 0
+JLIDYX_27642	signal	1	49				
+JLIDYX_27642	outside	50	50				
+//
+# JLIDYX_72200 Length: 48
+# JLIDYX_72200 Number of predicted TMRs: 0
+JLIDYX_72200	inside	1	48				
+//
+# JLIDYX_91310 Length: 39
+# JLIDYX_91310 Number of predicted TMRs: 0
+JLIDYX_91310	inside	1	39				
+//
+# JLIDYX_62750 Length: 43
+# JLIDYX_62750 Number of predicted TMRs: 0
+JLIDYX_62750	signal	1	18				
+JLIDYX_62750	outside	19	43				
+//
+# JLIDYX_144986 Length: 47
+# JLIDYX_144986 Number of predicted TMRs: 0
+JLIDYX_144986	inside	1	47				
+//
+# JLIDYX_66781 Length: 28
+# JLIDYX_66781 Number of predicted TMRs: 0
+JLIDYX_66781	signal	1	27				
+JLIDYX_66781	outside	28	28				
+//
+# JLIDYX_7768 Length: 40
+# JLIDYX_7768 Number of predicted TMRs: 0
+JLIDYX_7768	signal	1	14				
+JLIDYX_7768	outside	15	40				
+//
+# JLIDYX_10972 Length: 37
+# JLIDYX_10972 Number of predicted TMRs: 0
+JLIDYX_10972	signal	1	33				
+JLIDYX_10972	outside	34	37				
+//
+# JLIDYX_10969 Length: 23
+# JLIDYX_10969 Number of predicted TMRs: 0
+JLIDYX_10969	inside	1	23				
+//
+# JLIDYX_67597 Length: 49
+# JLIDYX_67597 Number of predicted TMRs: 0
+JLIDYX_67597	inside	1	49				
+//
+# JLIDYX_57459 Length: 33
+# JLIDYX_57459 Number of predicted TMRs: 0
+JLIDYX_57459	inside	1	33				
+//
+# JLIDYX_57456 Length: 50
+# JLIDYX_57456 Number of predicted TMRs: 0
+JLIDYX_57456	inside	1	50				
+//
+# JLIDYX_64864 Length: 42
+# JLIDYX_64864 Number of predicted TMRs: 0
+JLIDYX_64864	inside	1	42				
+//
+# JLIDYX_165418 Length: 43
+# JLIDYX_165418 Number of predicted TMRs: 0
+JLIDYX_165418	inside	1	43				
+//
+# JLIDYX_54063 Length: 46
+# JLIDYX_54063 Number of predicted TMRs: 0
+JLIDYX_54063	inside	1	46				
+//
+# JLIDYX_93283 Length: 45
+# JLIDYX_93283 Number of predicted TMRs: 0
+JLIDYX_93283	inside	1	45				
+//
+# JLIDYX_30040 Length: 50
+# JLIDYX_30040 Number of predicted TMRs: 0
+JLIDYX_30040	inside	1	50				
+//
+# JLIDYX_149610 Length: 28
+# JLIDYX_149610 Number of predicted TMRs: 0
+JLIDYX_149610	signal	1	27				
+JLIDYX_149610	outside	28	28				
+//
+# JLIDYX_69815 Length: 40
+# JLIDYX_69815 Number of predicted TMRs: 0
+JLIDYX_69815	inside	1	40				
+//
+# JLIDYX_146266 Length: 40
+# JLIDYX_146266 Number of predicted TMRs: 0
+JLIDYX_146266	signal	1	30				
+JLIDYX_146266	outside	31	40				
+//
+# JLIDYX_30802 Length: 48
+# JLIDYX_30802 Number of predicted TMRs: 0
+JLIDYX_30802	inside	1	48				
+//
+# JLIDYX_61191 Length: 42
+# JLIDYX_61191 Number of predicted TMRs: 0
+JLIDYX_61191	inside	1	42				
+//
+# JLIDYX_61165 Length: 42
+# JLIDYX_61165 Number of predicted TMRs: 0
+JLIDYX_61165	inside	1	42				
+//
+# JLIDYX_61210 Length: 42
+# JLIDYX_61210 Number of predicted TMRs: 0
+JLIDYX_61210	inside	1	42				
+//
+# JLIDYX_8224 Length: 39
+# JLIDYX_8224 Number of predicted TMRs: 0
+JLIDYX_8224	signal	1	29				
+JLIDYX_8224	outside	30	39				
+//
+# JLIDYX_8228 Length: 40
+# JLIDYX_8228 Number of predicted TMRs: 0
+JLIDYX_8228	signal	1	29				
+JLIDYX_8228	outside	30	40				
+//
+# JLIDYX_157368 Length: 47
+# JLIDYX_157368 Number of predicted TMRs: 0
+JLIDYX_157368	inside	1	47				
+//
+# JLIDYX_5443 Length: 46
+# JLIDYX_5443 Number of predicted TMRs: 0
+JLIDYX_5443	inside	1	46				
+//
+# JLIDYX_40683 Length: 47
+# JLIDYX_40683 Number of predicted TMRs: 0
+JLIDYX_40683	inside	1	47				
+//
+# JLIDYX_7356 Length: 22
+# JLIDYX_7356 Number of predicted TMRs: 0
+JLIDYX_7356	inside	1	22				
+//
+# JLIDYX_10260 Length: 48
+# JLIDYX_10260 Number of predicted TMRs: 0
+JLIDYX_10260	inside	1	48				
+//
+# JLIDYX_41578 Length: 50
+# JLIDYX_41578 Number of predicted TMRs: 0
+JLIDYX_41578	signal	1	47				
+JLIDYX_41578	outside	48	50				
+//
+# JLIDYX_164233 Length: 45
+# JLIDYX_164233 Number of predicted TMRs: 0
+JLIDYX_164233	inside	1	45				
+//
+# JLIDYX_65468 Length: 46
+# JLIDYX_65468 Number of predicted TMRs: 0
+JLIDYX_65468	inside	1	46				
+//
+# JLIDYX_145895 Length: 29
+# JLIDYX_145895 Number of predicted TMRs: 0
+JLIDYX_145895	inside	1	29				
+//
+# JLIDYX_60047 Length: 44
+# JLIDYX_60047 Number of predicted TMRs: 0
+JLIDYX_60047	inside	1	44				
+//
+# JLIDYX_43736 Length: 42
+# JLIDYX_43736 Number of predicted TMRs: 0
+JLIDYX_43736	inside	1	42				
+//
+# JLIDYX_159748 Length: 49
+# JLIDYX_159748 Number of predicted TMRs: 0
+JLIDYX_159748	inside	1	49				
+//
+# JLIDYX_85100 Length: 47
+# JLIDYX_85100 Number of predicted TMRs: 0
+JLIDYX_85100	inside	1	47				
+//
+# JLIDYX_170168 Length: 42
+# JLIDYX_170168 Number of predicted TMRs: 0
+JLIDYX_170168	inside	1	42				
+//
+# JLIDYX_90104 Length: 50
+# JLIDYX_90104 Number of predicted TMRs: 0
+JLIDYX_90104	inside	1	50				
+//
+# JLIDYX_166501 Length: 46
+# JLIDYX_166501 Number of predicted TMRs: 0
+JLIDYX_166501	inside	1	46				
+//
+# JLIDYX_143099 Length: 47
+# JLIDYX_143099 Number of predicted TMRs: 0
+JLIDYX_143099	inside	1	47				
+//
+# JLIDYX_137112 Length: 42
+# JLIDYX_137112 Number of predicted TMRs: 0
+JLIDYX_137112	inside	1	42				
+//
+# JLIDYX_52805 Length: 48
+# JLIDYX_52805 Number of predicted TMRs: 0
+JLIDYX_52805	signal	1	15				
+JLIDYX_52805	outside	16	48				
+//
+# JLIDYX_121302 Length: 43
+# JLIDYX_121302 Number of predicted TMRs: 0
+JLIDYX_121302	inside	1	43				
+//
+# JLIDYX_41574 Length: 44
+# JLIDYX_41574 Number of predicted TMRs: 0
+JLIDYX_41574	signal	1	43				
+JLIDYX_41574	outside	44	44				
+//
+# JLIDYX_2803 Length: 38
+# JLIDYX_2803 Number of predicted TMRs: 0
+JLIDYX_2803	inside	1	38				
+//
+# JLIDYX_17301 Length: 50
+# JLIDYX_17301 Number of predicted TMRs: 0
+JLIDYX_17301	inside	1	50				
+//
+# JLIDYX_30563 Length: 45
+# JLIDYX_30563 Number of predicted TMRs: 0
+JLIDYX_30563	inside	1	45				
+//
+# JLIDYX_91476 Length: 46
+# JLIDYX_91476 Number of predicted TMRs: 0
+JLIDYX_91476	inside	1	46				
+//
+# JLIDYX_88560 Length: 45
+# JLIDYX_88560 Number of predicted TMRs: 0
+JLIDYX_88560	inside	1	45				
+//
+# JLIDYX_27061 Length: 39
+# JLIDYX_27061 Number of predicted TMRs: 0
+JLIDYX_27061	signal	1	26				
+JLIDYX_27061	outside	27	39				
+//
+# JLIDYX_126013 Length: 46
+# JLIDYX_126013 Number of predicted TMRs: 0
+JLIDYX_126013	inside	1	46				
+//
+# JLIDYX_143816 Length: 49
+# JLIDYX_143816 Number of predicted TMRs: 0
+JLIDYX_143816	signal	1	34				
+JLIDYX_143816	outside	35	49				
+//
+# JLIDYX_97885 Length: 45
+# JLIDYX_97885 Number of predicted TMRs: 0
+JLIDYX_97885	signal	1	44				
+JLIDYX_97885	outside	45	45				
+//
+# JLIDYX_27060 Length: 39
+# JLIDYX_27060 Number of predicted TMRs: 0
+JLIDYX_27060	inside	1	39				
+//
+# JLIDYX_76089 Length: 36
+# JLIDYX_76089 Number of predicted TMRs: 0
+JLIDYX_76089	signal	1	32				
+JLIDYX_76089	outside	33	36				
+//
+# JLIDYX_686 Length: 48
+# JLIDYX_686 Number of predicted TMRs: 0
+JLIDYX_686	signal	1	47				
+JLIDYX_686	outside	48	48				
+//
+# JLIDYX_36454 Length: 48
+# JLIDYX_36454 Number of predicted TMRs: 0
+JLIDYX_36454	signal	1	39				
+JLIDYX_36454	outside	40	48				
+//
+# JLIDYX_94552 Length: 46
+# JLIDYX_94552 Number of predicted TMRs: 0
+JLIDYX_94552	inside	1	46				
+//
+# JLIDYX_119486 Length: 45
+# JLIDYX_119486 Number of predicted TMRs: 0
+JLIDYX_119486	signal	1	15				
+JLIDYX_119486	outside	16	45				
+//
+# JLIDYX_11707 Length: 44
+# JLIDYX_11707 Number of predicted TMRs: 0
+JLIDYX_11707	inside	1	44				
+//
+# JLIDYX_59984 Length: 48
+# JLIDYX_59984 Number of predicted TMRs: 0
+JLIDYX_59984	inside	1	48				
+//
+# JLIDYX_24779 Length: 50
+# JLIDYX_24779 Number of predicted TMRs: 0
+JLIDYX_24779	signal	1	26				
+JLIDYX_24779	outside	27	50				
+//
+# JLIDYX_55046 Length: 47
+# JLIDYX_55046 Number of predicted TMRs: 0
+JLIDYX_55046	inside	1	47				
+//
+# JLIDYX_166741 Length: 46
+# JLIDYX_166741 Number of predicted TMRs: 0
+JLIDYX_166741	signal	1	30				
+JLIDYX_166741	outside	31	46				
+//
+# JLIDYX_108325 Length: 48
+# JLIDYX_108325 Number of predicted TMRs: 0
+JLIDYX_108325	inside	1	48				
+//
+# JLIDYX_50628 Length: 41
+# JLIDYX_50628 Number of predicted TMRs: 0
+JLIDYX_50628	inside	1	41				
+//
+# JLIDYX_50658 Length: 46
+# JLIDYX_50658 Number of predicted TMRs: 0
+JLIDYX_50658	inside	1	46				
+//
+# JLIDYX_85236 Length: 48
+# JLIDYX_85236 Number of predicted TMRs: 0
+JLIDYX_85236	outside	1	48				
+//
+# JLIDYX_45911 Length: 50
+# JLIDYX_45911 Number of predicted TMRs: 0
+JLIDYX_45911	signal	1	47				
+JLIDYX_45911	outside	48	50				
+//
+# JLIDYX_69832 Length: 46
+# JLIDYX_69832 Number of predicted TMRs: 0
+JLIDYX_69832	inside	1	46				
+//
+# JLIDYX_98027 Length: 49
+# JLIDYX_98027 Number of predicted TMRs: 0
+JLIDYX_98027	signal	1	38				
+JLIDYX_98027	outside	39	49				
+//
+# JLIDYX_18979 Length: 47
+# JLIDYX_18979 Number of predicted TMRs: 0
+JLIDYX_18979	inside	1	47				
+//
+# JLIDYX_162903 Length: 47
+# JLIDYX_162903 Number of predicted TMRs: 0
+JLIDYX_162903	inside	1	47				
+//
+# JLIDYX_26704 Length: 47
+# JLIDYX_26704 Number of predicted TMRs: 0
+JLIDYX_26704	signal	1	45				
+JLIDYX_26704	outside	46	47				
+//
+# JLIDYX_30052 Length: 42
+# JLIDYX_30052 Number of predicted TMRs: 0
+JLIDYX_30052	signal	1	26				
+JLIDYX_30052	outside	27	42				
+//
+# JLIDYX_7454 Length: 36
+# JLIDYX_7454 Number of predicted TMRs: 1
+JLIDYX_7454	inside	1	6				
+JLIDYX_7454	TMhelix	7	23				
+JLIDYX_7454	outside	24	36				
+//
+# JLIDYX_2537 Length: 41
+# JLIDYX_2537 Number of predicted TMRs: 0
+JLIDYX_2537	signal	1	21				
+JLIDYX_2537	outside	22	41				
+//
+# JLIDYX_114469 Length: 46
+# JLIDYX_114469 Number of predicted TMRs: 0
+JLIDYX_114469	inside	1	46				
+//
+# JLIDYX_35998 Length: 50
+# JLIDYX_35998 Number of predicted TMRs: 0
+JLIDYX_35998	inside	1	50				
+//
+# JLIDYX_25091 Length: 42
+# JLIDYX_25091 Number of predicted TMRs: 0
+JLIDYX_25091	signal	1	39				
+JLIDYX_25091	outside	40	42				
+//
+# JLIDYX_113457 Length: 48
+# JLIDYX_113457 Number of predicted TMRs: 0
+JLIDYX_113457	inside	1	48				
+//
+# JLIDYX_29495 Length: 41
+# JLIDYX_29495 Number of predicted TMRs: 0
+JLIDYX_29495	signal	1	24				
+JLIDYX_29495	outside	25	41				
+//
+# JLIDYX_64058 Length: 48
+# JLIDYX_64058 Number of predicted TMRs: 0
+JLIDYX_64058	inside	1	48				
+//
+# JLIDYX_68562 Length: 37
+# JLIDYX_68562 Number of predicted TMRs: 0
+JLIDYX_68562	signal	1	33				
+JLIDYX_68562	outside	34	37				
+//
+# JLIDYX_126905 Length: 49
+# JLIDYX_126905 Number of predicted TMRs: 0
+JLIDYX_126905	inside	1	49				
+//
+# JLIDYX_70632 Length: 45
+# JLIDYX_70632 Number of predicted TMRs: 0
+JLIDYX_70632	signal	1	27				
+JLIDYX_70632	outside	28	45				
+//
+# JLIDYX_167872 Length: 49
+# JLIDYX_167872 Number of predicted TMRs: 0
+JLIDYX_167872	inside	1	49				
+//
+# JLIDYX_67220 Length: 43
+# JLIDYX_67220 Number of predicted TMRs: 0
+JLIDYX_67220	signal	1	41				
+JLIDYX_67220	outside	42	43				
+//
+# JLIDYX_59040 Length: 44
+# JLIDYX_59040 Number of predicted TMRs: 0
+JLIDYX_59040	inside	1	44				
+//
+# JLIDYX_44381 Length: 50
+# JLIDYX_44381 Number of predicted TMRs: 0
+JLIDYX_44381	inside	1	50				
+//
+# JLIDYX_69316 Length: 29
+# JLIDYX_69316 Number of predicted TMRs: 0
+JLIDYX_69316	inside	1	29				
+//
+# JLIDYX_127812 Length: 46
+# JLIDYX_127812 Number of predicted TMRs: 0
+JLIDYX_127812	inside	1	46				
+//
+# JLIDYX_30373 Length: 33
+# JLIDYX_30373 Number of predicted TMRs: 0
+JLIDYX_30373	signal	1	32				
+JLIDYX_30373	outside	33	33				
+//
+# JLIDYX_50599 Length: 43
+# JLIDYX_50599 Number of predicted TMRs: 0
+JLIDYX_50599	inside	1	43				
+//
+# JLIDYX_47897 Length: 48
+# JLIDYX_47897 Number of predicted TMRs: 0
+JLIDYX_47897	inside	1	48				
+//
+# JLIDYX_74779 Length: 42
+# JLIDYX_74779 Number of predicted TMRs: 0
+JLIDYX_74779	inside	1	42				
+//
+# JLIDYX_144442 Length: 45
+# JLIDYX_144442 Number of predicted TMRs: 0
+JLIDYX_144442	signal	1	39				
+JLIDYX_144442	outside	40	45				
+//
+# JLIDYX_49704 Length: 42
+# JLIDYX_49704 Number of predicted TMRs: 0
+JLIDYX_49704	inside	1	42				
+//
+# JLIDYX_135641 Length: 39
+# JLIDYX_135641 Number of predicted TMRs: 0
+JLIDYX_135641	signal	1	38				
+JLIDYX_135641	outside	39	39				
+//
+# JLIDYX_57594 Length: 41
+# JLIDYX_57594 Number of predicted TMRs: 0
+JLIDYX_57594	signal	1	40				
+JLIDYX_57594	outside	41	41				
+//
+# JLIDYX_56682 Length: 39
+# JLIDYX_56682 Number of predicted TMRs: 0
+JLIDYX_56682	inside	1	39				
+//
+# JLIDYX_115864 Length: 49
+# JLIDYX_115864 Number of predicted TMRs: 0
+JLIDYX_115864	signal	1	26				
+JLIDYX_115864	outside	27	49				
+//
+# JLIDYX_44050 Length: 49
+# JLIDYX_44050 Number of predicted TMRs: 0
+JLIDYX_44050	inside	1	49				
+//
+# JLIDYX_150991 Length: 27
+# JLIDYX_150991 Number of predicted TMRs: 0
+JLIDYX_150991	inside	1	27				
+//
+# JLIDYX_73851 Length: 44
+# JLIDYX_73851 Number of predicted TMRs: 0
+JLIDYX_73851	signal	1	34				
+JLIDYX_73851	outside	35	44				
+//
+# JLIDYX_107511 Length: 47
+# JLIDYX_107511 Number of predicted TMRs: 0
+JLIDYX_107511	inside	1	47				
+//
+# JLIDYX_102595 Length: 50
+# JLIDYX_102595 Number of predicted TMRs: 0
+JLIDYX_102595	inside	1	50				
+//
+# JLIDYX_119822 Length: 45
+# JLIDYX_119822 Number of predicted TMRs: 0
+JLIDYX_119822	signal	1	30				
+JLIDYX_119822	outside	31	45				
+//
+# JLIDYX_121245 Length: 33
+# JLIDYX_121245 Number of predicted TMRs: 0
+JLIDYX_121245	signal	1	12				
+JLIDYX_121245	outside	13	33				
+//
+# JLIDYX_161248 Length: 47
+# JLIDYX_161248 Number of predicted TMRs: 0
+JLIDYX_161248	signal	1	10				
+JLIDYX_161248	outside	11	47				
+//
+# JLIDYX_80691 Length: 48
+# JLIDYX_80691 Number of predicted TMRs: 0
+JLIDYX_80691	signal	1	38				
+JLIDYX_80691	outside	39	48				
+//
+# JLIDYX_134956 Length: 42
+# JLIDYX_134956 Number of predicted TMRs: 0
+JLIDYX_134956	outside	1	42				
+//
+# JLIDYX_18188 Length: 41
+# JLIDYX_18188 Number of predicted TMRs: 0
+JLIDYX_18188	signal	1	10				
+JLIDYX_18188	outside	11	41				
+//
+# JLIDYX_62519 Length: 33
+# JLIDYX_62519 Number of predicted TMRs: 0
+JLIDYX_62519	signal	1	32				
+JLIDYX_62519	outside	33	33				
+//
+# JLIDYX_132172 Length: 48
+# JLIDYX_132172 Number of predicted TMRs: 0
+JLIDYX_132172	inside	1	48				
+//
+# JLIDYX_31518 Length: 43
+# JLIDYX_31518 Number of predicted TMRs: 0
+JLIDYX_31518	signal	1	42				
+JLIDYX_31518	outside	43	43				
+//
+# JLIDYX_171484 Length: 45
+# JLIDYX_171484 Number of predicted TMRs: 0
+JLIDYX_171484	inside	1	45				
+//
+# JLIDYX_107677 Length: 42
+# JLIDYX_107677 Number of predicted TMRs: 0
+JLIDYX_107677	signal	1	31				
+JLIDYX_107677	outside	32	42				
+//
+# JLIDYX_118167 Length: 47
+# JLIDYX_118167 Number of predicted TMRs: 0
+JLIDYX_118167	signal	1	12				
+JLIDYX_118167	outside	13	47				
+//
+# JLIDYX_150989 Length: 48
+# JLIDYX_150989 Number of predicted TMRs: 0
+JLIDYX_150989	inside	1	48				
+//
+# JLIDYX_33529 Length: 45
+# JLIDYX_33529 Number of predicted TMRs: 0
+JLIDYX_33529	signal	1	44				
+JLIDYX_33529	outside	45	45				
+//
+# JLIDYX_145452 Length: 47
+# JLIDYX_145452 Number of predicted TMRs: 0
+JLIDYX_145452	signal	1	29				
+JLIDYX_145452	outside	30	47				
+//
+# JLIDYX_95224 Length: 41
+# JLIDYX_95224 Number of predicted TMRs: 0
+JLIDYX_95224	signal	1	40				
+JLIDYX_95224	outside	41	41				
+//
+# JLIDYX_129381 Length: 35
+# JLIDYX_129381 Number of predicted TMRs: 0
+JLIDYX_129381	signal	1	34				
+JLIDYX_129381	outside	35	35				
+//
+# JLIDYX_27715 Length: 50
+# JLIDYX_27715 Number of predicted TMRs: 0
+JLIDYX_27715	inside	1	50				
+//
+# JLIDYX_49718 Length: 47
+# JLIDYX_49718 Number of predicted TMRs: 0
+JLIDYX_49718	signal	1	45				
+JLIDYX_49718	outside	46	47				
+//
+# JLIDYX_123754 Length: 43
+# JLIDYX_123754 Number of predicted TMRs: 0
+JLIDYX_123754	inside	1	43				
+//
+# JLIDYX_131001 Length: 47
+# JLIDYX_131001 Number of predicted TMRs: 0
+JLIDYX_131001	signal	1	26				
+JLIDYX_131001	outside	27	47				
+//
+# JLIDYX_165208 Length: 48
+# JLIDYX_165208 Number of predicted TMRs: 0
+JLIDYX_165208	inside	1	48				
+//
+# JLIDYX_15991 Length: 40
+# JLIDYX_15991 Number of predicted TMRs: 0
+JLIDYX_15991	inside	1	40				
+//
+# JLIDYX_127000 Length: 47
+# JLIDYX_127000 Number of predicted TMRs: 1
+JLIDYX_127000	signal	1	12				
+JLIDYX_127000	outside	13	20				
+JLIDYX_127000	TMhelix	21	36				
+JLIDYX_127000	inside	37	47				
+//
+# JLIDYX_126617 Length: 46
+# JLIDYX_126617 Number of predicted TMRs: 0
+JLIDYX_126617	inside	1	46				
+//
+# JLIDYX_170939 Length: 49
+# JLIDYX_170939 Number of predicted TMRs: 0
+JLIDYX_170939	signal	1	12				
+JLIDYX_170939	outside	13	49				
+//
+# JLIDYX_104882 Length: 47
+# JLIDYX_104882 Number of predicted TMRs: 0
+JLIDYX_104882	inside	1	47				
+//
+# JLIDYX_86940 Length: 48
+# JLIDYX_86940 Number of predicted TMRs: 0
+JLIDYX_86940	signal	1	10				
+JLIDYX_86940	outside	11	48				
+//
+# JLIDYX_96557 Length: 47
+# JLIDYX_96557 Number of predicted TMRs: 0
+JLIDYX_96557	outside	1	47				
+//
+# JLIDYX_140994 Length: 50
+# JLIDYX_140994 Number of predicted TMRs: 0
+JLIDYX_140994	inside	1	50				
+//
+# JLIDYX_87978 Length: 44
+# JLIDYX_87978 Number of predicted TMRs: 0
+JLIDYX_87978	inside	1	44				
+//
+# JLIDYX_160877 Length: 41
+# JLIDYX_160877 Number of predicted TMRs: 0
+JLIDYX_160877	signal	1	18				
+JLIDYX_160877	outside	19	41				
+//
+# JLIDYX_117131 Length: 26
+# JLIDYX_117131 Number of predicted TMRs: 0
+JLIDYX_117131	inside	1	26				
+//
+# JLIDYX_117138 Length: 44
+# JLIDYX_117138 Number of predicted TMRs: 0
+JLIDYX_117138	inside	1	44				
+//
+# JLIDYX_112394 Length: 45
+# JLIDYX_112394 Number of predicted TMRs: 0
+JLIDYX_112394	inside	1	45				
+//
+# JLIDYX_162178 Length: 45
+# JLIDYX_162178 Number of predicted TMRs: 0
+JLIDYX_162178	inside	1	45				
+//
+# JLIDYX_161791 Length: 45
+# JLIDYX_161791 Number of predicted TMRs: 0
+JLIDYX_161791	inside	1	45				
+//
+# JLIDYX_14847 Length: 33
+# JLIDYX_14847 Number of predicted TMRs: 0
+JLIDYX_14847	inside	1	33				
+//
+# JLIDYX_134965 Length: 46
+# JLIDYX_134965 Number of predicted TMRs: 0
+JLIDYX_134965	signal	1	22				
+JLIDYX_134965	outside	23	46				
+//
+# JLIDYX_72359 Length: 42
+# JLIDYX_72359 Number of predicted TMRs: 0
+JLIDYX_72359	inside	1	42				
+//
+# JLIDYX_169536 Length: 42
+# JLIDYX_169536 Number of predicted TMRs: 0
+JLIDYX_169536	signal	1	41				
+JLIDYX_169536	outside	42	42				
+//
+# JLIDYX_66827 Length: 43
+# JLIDYX_66827 Number of predicted TMRs: 0
+JLIDYX_66827	inside	1	43				
+//
+# JLIDYX_167981 Length: 49
+# JLIDYX_167981 Number of predicted TMRs: 0
+JLIDYX_167981	signal	1	24				
+JLIDYX_167981	outside	25	49				
+//
+# JLIDYX_111471 Length: 32
+# JLIDYX_111471 Number of predicted TMRs: 0
+JLIDYX_111471	inside	1	32				
+//
+# JLIDYX_46297 Length: 43
+# JLIDYX_46297 Number of predicted TMRs: 0
+JLIDYX_46297	inside	1	43				
+//
+# JLIDYX_40152 Length: 34
+# JLIDYX_40152 Number of predicted TMRs: 0
+JLIDYX_40152	signal	1	33				
+JLIDYX_40152	outside	34	34				
+//
+# JLIDYX_167448 Length: 45
+# JLIDYX_167448 Number of predicted TMRs: 0
+JLIDYX_167448	signal	1	23				
+JLIDYX_167448	outside	24	45				
+//
+# JLIDYX_5268 Length: 42
+# JLIDYX_5268 Number of predicted TMRs: 0
+JLIDYX_5268	inside	1	42				
+//
+# JLIDYX_18398 Length: 44
+# JLIDYX_18398 Number of predicted TMRs: 0
+JLIDYX_18398	inside	1	44				
+//
+# JLIDYX_82427 Length: 48
+# JLIDYX_82427 Number of predicted TMRs: 0
+JLIDYX_82427	inside	1	48				
+//
+# JLIDYX_162935 Length: 46
+# JLIDYX_162935 Number of predicted TMRs: 0
+JLIDYX_162935	inside	1	46				
+//
+# JLIDYX_53482 Length: 43
+# JLIDYX_53482 Number of predicted TMRs: 0
+JLIDYX_53482	inside	1	43				
+//
+# JLIDYX_4750 Length: 45
+# JLIDYX_4750 Number of predicted TMRs: 0
+JLIDYX_4750	inside	1	45				
+//
+# JLIDYX_105497 Length: 48
+# JLIDYX_105497 Number of predicted TMRs: 0
+JLIDYX_105497	inside	1	48				
+//
+# JLIDYX_67295 Length: 50
+# JLIDYX_67295 Number of predicted TMRs: 0
+JLIDYX_67295	signal	1	18				
+JLIDYX_67295	outside	19	50				
+//
+# JLIDYX_167351 Length: 50
+# JLIDYX_167351 Number of predicted TMRs: 0
+JLIDYX_167351	inside	1	50				
+//
+# JLIDYX_52813 Length: 50
+# JLIDYX_52813 Number of predicted TMRs: 0
+JLIDYX_52813	inside	1	50				
+//
+# JLIDYX_76496 Length: 46
+# JLIDYX_76496 Number of predicted TMRs: 0
+JLIDYX_76496	inside	1	46				
+//
+# JLIDYX_139242 Length: 40
+# JLIDYX_139242 Number of predicted TMRs: 0
+JLIDYX_139242	signal	1	39				
+JLIDYX_139242	outside	40	40				
+//
+# JLIDYX_24408 Length: 46
+# JLIDYX_24408 Number of predicted TMRs: 0
+JLIDYX_24408	inside	1	46				
+//
+# JLIDYX_41230 Length: 33
+# JLIDYX_41230 Number of predicted TMRs: 0
+JLIDYX_41230	inside	1	33				
+//
+# JLIDYX_41100 Length: 43
+# JLIDYX_41100 Number of predicted TMRs: 0
+JLIDYX_41100	signal	1	21				
+JLIDYX_41100	outside	22	43				
+//
+# JLIDYX_170680 Length: 48
+# JLIDYX_170680 Number of predicted TMRs: 0
+JLIDYX_170680	inside	1	48				
+//
+# JLIDYX_88379 Length: 41
+# JLIDYX_88379 Number of predicted TMRs: 0
+JLIDYX_88379	inside	1	41				
+//
+# JLIDYX_3996 Length: 36
+# JLIDYX_3996 Number of predicted TMRs: 0
+JLIDYX_3996	inside	1	36				
+//
+# JLIDYX_50650 Length: 39
+# JLIDYX_50650 Number of predicted TMRs: 0
+JLIDYX_50650	inside	1	39				
+//
+# JLIDYX_17479 Length: 36
+# JLIDYX_17479 Number of predicted TMRs: 0
+JLIDYX_17479	inside	1	36				
+//
+# JLIDYX_54682 Length: 37
+# JLIDYX_54682 Number of predicted TMRs: 0
+JLIDYX_54682	signal	1	29				
+JLIDYX_54682	outside	30	37				
+//
+# JLIDYX_100813 Length: 41
+# JLIDYX_100813 Number of predicted TMRs: 0
+JLIDYX_100813	inside	1	41				
+//
+# JLIDYX_14626 Length: 46
+# JLIDYX_14626 Number of predicted TMRs: 0
+JLIDYX_14626	signal	1	42				
+JLIDYX_14626	outside	43	46				
+//
+# JLIDYX_136325 Length: 50
+# JLIDYX_136325 Number of predicted TMRs: 0
+JLIDYX_136325	inside	1	50				
+//
+# JLIDYX_167212 Length: 46
+# JLIDYX_167212 Number of predicted TMRs: 0
+JLIDYX_167212	inside	1	46				
+//
+# JLIDYX_13582 Length: 44
+# JLIDYX_13582 Number of predicted TMRs: 0
+JLIDYX_13582	signal	1	10				
+JLIDYX_13582	outside	11	44				
+//
+# JLIDYX_115836 Length: 44
+# JLIDYX_115836 Number of predicted TMRs: 0
+JLIDYX_115836	inside	1	44				
+//
+# JLIDYX_28519 Length: 44
+# JLIDYX_28519 Number of predicted TMRs: 0
+JLIDYX_28519	inside	1	44				
+//
+# JLIDYX_23259 Length: 36
+# JLIDYX_23259 Number of predicted TMRs: 0
+JLIDYX_23259	inside	1	36				
+//
+# JLIDYX_110590 Length: 46
+# JLIDYX_110590 Number of predicted TMRs: 0
+JLIDYX_110590	inside	1	46				
+//
+# JLIDYX_65770 Length: 50
+# JLIDYX_65770 Number of predicted TMRs: 0
+JLIDYX_65770	inside	1	50				
+//
+# JLIDYX_149734 Length: 44
+# JLIDYX_149734 Number of predicted TMRs: 0
+JLIDYX_149734	signal	1	30				
+JLIDYX_149734	outside	31	44				
+//
+# JLIDYX_41006 Length: 44
+# JLIDYX_41006 Number of predicted TMRs: 0
+JLIDYX_41006	inside	1	44				
+//
+# JLIDYX_85841 Length: 41
+# JLIDYX_85841 Number of predicted TMRs: 0
+JLIDYX_85841	inside	1	41				
+//
+# JLIDYX_107100 Length: 47
+# JLIDYX_107100 Number of predicted TMRs: 0
+JLIDYX_107100	inside	1	47				
+//
+# JLIDYX_64038 Length: 31
+# JLIDYX_64038 Number of predicted TMRs: 0
+JLIDYX_64038	signal	1	24				
+JLIDYX_64038	outside	25	31				
+//
+# JLIDYX_14502 Length: 36
+# JLIDYX_14502 Number of predicted TMRs: 0
+JLIDYX_14502	inside	1	36				
+//
+# JLIDYX_36620 Length: 50
+# JLIDYX_36620 Number of predicted TMRs: 0
+JLIDYX_36620	inside	1	50				
+//
+# JLIDYX_37397 Length: 40
+# JLIDYX_37397 Number of predicted TMRs: 0
+JLIDYX_37397	signal	1	28				
+JLIDYX_37397	outside	29	40				
+//
+# JLIDYX_60629 Length: 41
+# JLIDYX_60629 Number of predicted TMRs: 0
+JLIDYX_60629	signal	1	40				
+JLIDYX_60629	outside	41	41				
+//
+# JLIDYX_127049 Length: 37
+# JLIDYX_127049 Number of predicted TMRs: 0
+JLIDYX_127049	inside	1	37				
+//
+# JLIDYX_92105 Length: 42
+# JLIDYX_92105 Number of predicted TMRs: 0
+JLIDYX_92105	inside	1	42				
+//
+# JLIDYX_79952 Length: 44
+# JLIDYX_79952 Number of predicted TMRs: 1
+JLIDYX_79952	outside	1	7				
+JLIDYX_79952	TMhelix	8	26				
+JLIDYX_79952	inside	27	44				
+//
+# JLIDYX_3111 Length: 46
+# JLIDYX_3111 Number of predicted TMRs: 0
+JLIDYX_3111	inside	1	46				
+//
+# JLIDYX_138002 Length: 44
+# JLIDYX_138002 Number of predicted TMRs: 0
+JLIDYX_138002	inside	1	44				
+//
+# JLIDYX_145119 Length: 47
+# JLIDYX_145119 Number of predicted TMRs: 0
+JLIDYX_145119	signal	1	30				
+JLIDYX_145119	outside	31	47				
+//
+# JLIDYX_153985 Length: 42
+# JLIDYX_153985 Number of predicted TMRs: 0
+JLIDYX_153985	inside	1	42				
+//
+# JLIDYX_25864 Length: 30
+# JLIDYX_25864 Number of predicted TMRs: 0
+JLIDYX_25864	signal	1	28				
+JLIDYX_25864	outside	29	30				
+//
+# JLIDYX_153432 Length: 48
+# JLIDYX_153432 Number of predicted TMRs: 0
+JLIDYX_153432	inside	1	48				
+//
+# JLIDYX_87861 Length: 50
+# JLIDYX_87861 Number of predicted TMRs: 0
+JLIDYX_87861	signal	1	12				
+JLIDYX_87861	outside	13	50				
+//
+# JLIDYX_5130 Length: 48
+# JLIDYX_5130 Number of predicted TMRs: 0
+JLIDYX_5130	signal	1	37				
+JLIDYX_5130	outside	38	48				
+//
+# JLIDYX_26398 Length: 50
+# JLIDYX_26398 Number of predicted TMRs: 0
+JLIDYX_26398	signal	1	47				
+JLIDYX_26398	outside	48	50				
+//
+# JLIDYX_114171 Length: 42
+# JLIDYX_114171 Number of predicted TMRs: 0
+JLIDYX_114171	inside	1	42				
+//
+# JLIDYX_107532 Length: 37
+# JLIDYX_107532 Number of predicted TMRs: 0
+JLIDYX_107532	inside	1	37				
+//
+# JLIDYX_41996 Length: 50
+# JLIDYX_41996 Number of predicted TMRs: 0
+JLIDYX_41996	inside	1	50				
+//
+# JLIDYX_166853 Length: 37
+# JLIDYX_166853 Number of predicted TMRs: 0
+JLIDYX_166853	inside	1	37				
+//
+# JLIDYX_102534 Length: 45
+# JLIDYX_102534 Number of predicted TMRs: 0
+JLIDYX_102534	inside	1	45				
+//
+# JLIDYX_28731 Length: 49
+# JLIDYX_28731 Number of predicted TMRs: 0
+JLIDYX_28731	signal	1	45				
+JLIDYX_28731	outside	46	49				
+//
+# JLIDYX_150576 Length: 50
+# JLIDYX_150576 Number of predicted TMRs: 0
+JLIDYX_150576	inside	1	50				
+//
+# JLIDYX_91780 Length: 48
+# JLIDYX_91780 Number of predicted TMRs: 0
+JLIDYX_91780	inside	1	48				
+//
+# JLIDYX_59486 Length: 48
+# JLIDYX_59486 Number of predicted TMRs: 0
+JLIDYX_59486	inside	1	48				
+//
+# JLIDYX_135015 Length: 50
+# JLIDYX_135015 Number of predicted TMRs: 0
+JLIDYX_135015	signal	1	31				
+JLIDYX_135015	outside	32	50				
+//
+# JLIDYX_27579 Length: 50
+# JLIDYX_27579 Number of predicted TMRs: 0
+JLIDYX_27579	inside	1	50				
+//
+# JLIDYX_114775 Length: 39
+# JLIDYX_114775 Number of predicted TMRs: 0
+JLIDYX_114775	signal	1	38				
+JLIDYX_114775	outside	39	39				
+//
+# JLIDYX_77586 Length: 32
+# JLIDYX_77586 Number of predicted TMRs: 0
+JLIDYX_77586	signal	1	30				
+JLIDYX_77586	outside	31	32				
+//
+# JLIDYX_23317 Length: 35
+# JLIDYX_23317 Number of predicted TMRs: 0
+JLIDYX_23317	signal	1	33				
+JLIDYX_23317	outside	34	35				
+//
+# JLIDYX_123968 Length: 46
+# JLIDYX_123968 Number of predicted TMRs: 0
+JLIDYX_123968	inside	1	46				
+//
+# JLIDYX_117624 Length: 48
+# JLIDYX_117624 Number of predicted TMRs: 0
+JLIDYX_117624	inside	1	48				
+//
+# JLIDYX_58059 Length: 48
+# JLIDYX_58059 Number of predicted TMRs: 0
+JLIDYX_58059	inside	1	48				
+//
+# JLIDYX_101397 Length: 44
+# JLIDYX_101397 Number of predicted TMRs: 0
+JLIDYX_101397	inside	1	44				
+//
+# JLIDYX_141645 Length: 46
+# JLIDYX_141645 Number of predicted TMRs: 0
+JLIDYX_141645	inside	1	46				
+//
+# JLIDYX_128234 Length: 46
+# JLIDYX_128234 Number of predicted TMRs: 0
+JLIDYX_128234	signal	1	44				
+JLIDYX_128234	outside	45	46				
+//
+# JLIDYX_40868 Length: 39
+# JLIDYX_40868 Number of predicted TMRs: 0
+JLIDYX_40868	inside	1	39				
+//
+# JLIDYX_135829 Length: 32
+# JLIDYX_135829 Number of predicted TMRs: 0
+JLIDYX_135829	inside	1	32				
+//
+# JLIDYX_12501 Length: 44
+# JLIDYX_12501 Number of predicted TMRs: 0
+JLIDYX_12501	inside	1	44				
+//
+# JLIDYX_164295 Length: 43
+# JLIDYX_164295 Number of predicted TMRs: 0
+JLIDYX_164295	inside	1	43				
+//
+# JLIDYX_164709 Length: 39
+# JLIDYX_164709 Number of predicted TMRs: 0
+JLIDYX_164709	inside	1	39				
+//
+# JLIDYX_164699 Length: 50
+# JLIDYX_164699 Number of predicted TMRs: 0
+JLIDYX_164699	inside	1	50				
+//
+# JLIDYX_94672 Length: 48
+# JLIDYX_94672 Number of predicted TMRs: 0
+JLIDYX_94672	inside	1	48				
+//
+# JLIDYX_43520 Length: 38
+# JLIDYX_43520 Number of predicted TMRs: 0
+JLIDYX_43520	inside	1	38				
+//
+# JLIDYX_110648 Length: 48
+# JLIDYX_110648 Number of predicted TMRs: 0
+JLIDYX_110648	signal	1	46				
+JLIDYX_110648	outside	47	48				
+//
+# JLIDYX_85721 Length: 42
+# JLIDYX_85721 Number of predicted TMRs: 0
+JLIDYX_85721	signal	1	31				
+JLIDYX_85721	outside	32	42				
+//
+# JLIDYX_149735 Length: 38
+# JLIDYX_149735 Number of predicted TMRs: 0
+JLIDYX_149735	signal	1	18				
+JLIDYX_149735	outside	19	38				
+//
+# JLIDYX_36729 Length: 48
+# JLIDYX_36729 Number of predicted TMRs: 0
+JLIDYX_36729	signal	1	15				
+JLIDYX_36729	outside	16	48				
+//
+# JLIDYX_135899 Length: 49
+# JLIDYX_135899 Number of predicted TMRs: 0
+JLIDYX_135899	inside	1	49				
+//
+# JLIDYX_122921 Length: 46
+# JLIDYX_122921 Number of predicted TMRs: 0
+JLIDYX_122921	inside	1	46				
+//
+# JLIDYX_168732 Length: 36
+# JLIDYX_168732 Number of predicted TMRs: 0
+JLIDYX_168732	signal	1	35				
+JLIDYX_168732	outside	36	36				
+//
+# JLIDYX_138944 Length: 50
+# JLIDYX_138944 Number of predicted TMRs: 0
+JLIDYX_138944	inside	1	50				
+//
+# JLIDYX_139665 Length: 50
+# JLIDYX_139665 Number of predicted TMRs: 0
+JLIDYX_139665	inside	1	50				
+//
+# JLIDYX_98189 Length: 48
+# JLIDYX_98189 Number of predicted TMRs: 0
+JLIDYX_98189	signal	1	47				
+JLIDYX_98189	outside	48	48				
+//
+# JLIDYX_73064 Length: 40
+# JLIDYX_73064 Number of predicted TMRs: 0
+JLIDYX_73064	inside	1	40				
+//
+# JLIDYX_113865 Length: 43
+# JLIDYX_113865 Number of predicted TMRs: 0
+JLIDYX_113865	signal	1	23				
+JLIDYX_113865	outside	24	43				
+//
+# JLIDYX_73754 Length: 44
+# JLIDYX_73754 Number of predicted TMRs: 0
+JLIDYX_73754	inside	1	44				
+//
+# JLIDYX_162491 Length: 48
+# JLIDYX_162491 Number of predicted TMRs: 0
+JLIDYX_162491	signal	1	12				
+JLIDYX_162491	outside	13	48				
+//
+# JLIDYX_55904 Length: 38
+# JLIDYX_55904 Number of predicted TMRs: 0
+JLIDYX_55904	inside	1	38				
+//
+# JLIDYX_50621 Length: 36
+# JLIDYX_50621 Number of predicted TMRs: 0
+JLIDYX_50621	signal	1	35				
+JLIDYX_50621	outside	36	36				
+//
+# JLIDYX_23260 Length: 43
+# JLIDYX_23260 Number of predicted TMRs: 1
+JLIDYX_23260	signal	1	12				
+JLIDYX_23260	outside	13	13				
+JLIDYX_23260	TMhelix	14	23				
+JLIDYX_23260	inside	24	43				
+//
+# JLIDYX_57471 Length: 38
+# JLIDYX_57471 Number of predicted TMRs: 0
+JLIDYX_57471	inside	1	38				
+//
+# JLIDYX_21349 Length: 40
+# JLIDYX_21349 Number of predicted TMRs: 0
+JLIDYX_21349	inside	1	40				
+//
+# JLIDYX_109992 Length: 48
+# JLIDYX_109992 Number of predicted TMRs: 0
+JLIDYX_109992	signal	1	13				
+JLIDYX_109992	outside	14	48				
+//
+# JLIDYX_160501 Length: 46
+# JLIDYX_160501 Number of predicted TMRs: 0
+JLIDYX_160501	signal	1	11				
+JLIDYX_160501	outside	12	46				
+//
+# JLIDYX_16096 Length: 50
+# JLIDYX_16096 Number of predicted TMRs: 0
+JLIDYX_16096	inside	1	50				
+//
+# JLIDYX_96938 Length: 46
+# JLIDYX_96938 Number of predicted TMRs: 0
+JLIDYX_96938	signal	1	21				
+JLIDYX_96938	outside	22	46				
+//
+# JLIDYX_136629 Length: 37
+# JLIDYX_136629 Number of predicted TMRs: 0
+JLIDYX_136629	signal	1	32				
+JLIDYX_136629	outside	33	37				
+//
+# JLIDYX_102845 Length: 50
+# JLIDYX_102845 Number of predicted TMRs: 0
+JLIDYX_102845	inside	1	50				
+//
+# JLIDYX_36345 Length: 47
+# JLIDYX_36345 Number of predicted TMRs: 0
+JLIDYX_36345	inside	1	47				
+//
+# JLIDYX_465 Length: 44
+# JLIDYX_465 Number of predicted TMRs: 0
+JLIDYX_465	inside	1	44				
+//
+# JLIDYX_24387 Length: 50
+# JLIDYX_24387 Number of predicted TMRs: 0
+JLIDYX_24387	signal	1	15				
+JLIDYX_24387	outside	16	50				
+//
+# JLIDYX_164658 Length: 48
+# JLIDYX_164658 Number of predicted TMRs: 0
+JLIDYX_164658	inside	1	48				
+//
+# JLIDYX_907 Length: 47
+# JLIDYX_907 Number of predicted TMRs: 0
+JLIDYX_907	inside	1	47				
+//
+# JLIDYX_44913 Length: 50
+# JLIDYX_44913 Number of predicted TMRs: 0
+JLIDYX_44913	inside	1	50				
+//
+# JLIDYX_109862 Length: 36
+# JLIDYX_109862 Number of predicted TMRs: 0
+JLIDYX_109862	inside	1	36				
+//
+# JLIDYX_18697 Length: 41
+# JLIDYX_18697 Number of predicted TMRs: 0
+JLIDYX_18697	signal	1	35				
+JLIDYX_18697	outside	36	41				
+//
+# JLIDYX_58333 Length: 48
+# JLIDYX_58333 Number of predicted TMRs: 0
+JLIDYX_58333	signal	1	27				
+JLIDYX_58333	outside	28	48				
+//
+# JLIDYX_129815 Length: 39
+# JLIDYX_129815 Number of predicted TMRs: 0
+JLIDYX_129815	signal	1	26				
+JLIDYX_129815	outside	27	39				
+//
+# JLIDYX_24386 Length: 46
+# JLIDYX_24386 Number of predicted TMRs: 0
+JLIDYX_24386	inside	1	46				
+//
+# JLIDYX_33244 Length: 48
+# JLIDYX_33244 Number of predicted TMRs: 0
+JLIDYX_33244	signal	1	32				
+JLIDYX_33244	outside	33	48				
+//
+# JLIDYX_171293 Length: 49
+# JLIDYX_171293 Number of predicted TMRs: 0
+JLIDYX_171293	inside	1	49				
+//
+# JLIDYX_152587 Length: 45
+# JLIDYX_152587 Number of predicted TMRs: 0
+JLIDYX_152587	inside	1	45				
+//
+# JLIDYX_119252 Length: 33
+# JLIDYX_119252 Number of predicted TMRs: 0
+JLIDYX_119252	inside	1	33				
+//
+# JLIDYX_102119 Length: 38
+# JLIDYX_102119 Number of predicted TMRs: 0
+JLIDYX_102119	inside	1	38				
+//
+# JLIDYX_107489 Length: 47
+# JLIDYX_107489 Number of predicted TMRs: 0
+JLIDYX_107489	outside	1	47				
+//
+# JLIDYX_85342 Length: 47
+# JLIDYX_85342 Number of predicted TMRs: 0
+JLIDYX_85342	inside	1	47				
+//
+# JLIDYX_81691 Length: 48
+# JLIDYX_81691 Number of predicted TMRs: 0
+JLIDYX_81691	signal	1	25				
+JLIDYX_81691	outside	26	48				
+//
+# JLIDYX_84541 Length: 37
+# JLIDYX_84541 Number of predicted TMRs: 0
+JLIDYX_84541	signal	1	36				
+JLIDYX_84541	outside	37	37				
+//
+# JLIDYX_117970 Length: 45
+# JLIDYX_117970 Number of predicted TMRs: 0
+JLIDYX_117970	inside	1	45				
+//
+# JLIDYX_114061 Length: 48
+# JLIDYX_114061 Number of predicted TMRs: 0
+JLIDYX_114061	signal	1	20				
+JLIDYX_114061	outside	21	48				
+//
+# JLIDYX_10022 Length: 50
+# JLIDYX_10022 Number of predicted TMRs: 0
+JLIDYX_10022	inside	1	50				
+//
+# JLIDYX_109423 Length: 46
+# JLIDYX_109423 Number of predicted TMRs: 0
+JLIDYX_109423	inside	1	46				
+//
+# JLIDYX_90228 Length: 47
+# JLIDYX_90228 Number of predicted TMRs: 0
+JLIDYX_90228	signal	1	30				
+JLIDYX_90228	outside	31	47				
+//
+# JLIDYX_82652 Length: 47
+# JLIDYX_82652 Number of predicted TMRs: 0
+JLIDYX_82652	signal	1	15				
+JLIDYX_82652	outside	16	47				
+//
+# JLIDYX_57387 Length: 44
+# JLIDYX_57387 Number of predicted TMRs: 0
+JLIDYX_57387	signal	1	43				
+JLIDYX_57387	outside	44	44				
+//
+# JLIDYX_165035 Length: 41
+# JLIDYX_165035 Number of predicted TMRs: 0
+JLIDYX_165035	signal	1	28				
+JLIDYX_165035	outside	29	41				
+//
+# JLIDYX_109626 Length: 44
+# JLIDYX_109626 Number of predicted TMRs: 0
+JLIDYX_109626	inside	1	44				
+//
+# JLIDYX_88839 Length: 49
+# JLIDYX_88839 Number of predicted TMRs: 0
+JLIDYX_88839	inside	1	49				
+//
+# JLIDYX_107347 Length: 50
+# JLIDYX_107347 Number of predicted TMRs: 0
+JLIDYX_107347	inside	1	50				
+//
+# JLIDYX_136771 Length: 43
+# JLIDYX_136771 Number of predicted TMRs: 0
+JLIDYX_136771	signal	1	33				
+JLIDYX_136771	outside	34	43				
+//
+# JLIDYX_136926 Length: 38
+# JLIDYX_136926 Number of predicted TMRs: 0
+JLIDYX_136926	signal	1	37				
+JLIDYX_136926	outside	38	38				
+//
+# JLIDYX_127365 Length: 43
+# JLIDYX_127365 Number of predicted TMRs: 0
+JLIDYX_127365	inside	1	43				
+//
+# JLIDYX_106900 Length: 48
+# JLIDYX_106900 Number of predicted TMRs: 0
+JLIDYX_106900	inside	1	48				
+//
+# JLIDYX_137751 Length: 39
+# JLIDYX_137751 Number of predicted TMRs: 0
+JLIDYX_137751	inside	1	39				
+//
+# JLIDYX_40798 Length: 45
+# JLIDYX_40798 Number of predicted TMRs: 0
+JLIDYX_40798	signal	1	12				
+JLIDYX_40798	outside	13	45				
+//
+# JLIDYX_135147 Length: 43
+# JLIDYX_135147 Number of predicted TMRs: 0
+JLIDYX_135147	inside	1	43				
+//
+# JLIDYX_148782 Length: 40
+# JLIDYX_148782 Number of predicted TMRs: 0
+JLIDYX_148782	inside	1	40				
+//
+# JLIDYX_131585 Length: 46
+# JLIDYX_131585 Number of predicted TMRs: 0
+JLIDYX_131585	signal	1	32				
+JLIDYX_131585	outside	33	46				
+//
+# JLIDYX_137826 Length: 50
+# JLIDYX_137826 Number of predicted TMRs: 0
+JLIDYX_137826	inside	1	50				
+//
+# JLIDYX_20568 Length: 45
+# JLIDYX_20568 Number of predicted TMRs: 0
+JLIDYX_20568	inside	1	45				
+//
+# JLIDYX_142028 Length: 47
+# JLIDYX_142028 Number of predicted TMRs: 0
+JLIDYX_142028	inside	1	47				
+//
+# JLIDYX_166824 Length: 48
+# JLIDYX_166824 Number of predicted TMRs: 0
+JLIDYX_166824	inside	1	48				
+//
+# JLIDYX_163579 Length: 50
+# JLIDYX_163579 Number of predicted TMRs: 0
+JLIDYX_163579	inside	1	50				
+//
+# JLIDYX_122094 Length: 36
+# JLIDYX_122094 Number of predicted TMRs: 0
+JLIDYX_122094	inside	1	36				
+//
+# JLIDYX_21937 Length: 38
+# JLIDYX_21937 Number of predicted TMRs: 0
+JLIDYX_21937	inside	1	38				
+//
+# JLIDYX_142640 Length: 39
+# JLIDYX_142640 Number of predicted TMRs: 0
+JLIDYX_142640	inside	1	39				
+//
+# JLIDYX_85987 Length: 44
+# JLIDYX_85987 Number of predicted TMRs: 0
+JLIDYX_85987	inside	1	44				
+//
+# JLIDYX_1423 Length: 48
+# JLIDYX_1423 Number of predicted TMRs: 0
+JLIDYX_1423	signal	1	44				
+JLIDYX_1423	outside	45	48				
+//
+# JLIDYX_58342 Length: 46
+# JLIDYX_58342 Number of predicted TMRs: 0
+JLIDYX_58342	signal	1	43				
+JLIDYX_58342	outside	44	46				
+//
+# JLIDYX_97317 Length: 50
+# JLIDYX_97317 Number of predicted TMRs: 0
+JLIDYX_97317	inside	1	50				
+//
+# JLIDYX_89534 Length: 42
+# JLIDYX_89534 Number of predicted TMRs: 0
+JLIDYX_89534	signal	1	32				
+JLIDYX_89534	outside	33	42				
+//
+# JLIDYX_93508 Length: 32
+# JLIDYX_93508 Number of predicted TMRs: 0
+JLIDYX_93508	signal	1	29				
+JLIDYX_93508	outside	30	32				
+//
+# JLIDYX_161737 Length: 45
+# JLIDYX_161737 Number of predicted TMRs: 0
+JLIDYX_161737	signal	1	20				
+JLIDYX_161737	outside	21	45				
+//
+# JLIDYX_12266 Length: 40
+# JLIDYX_12266 Number of predicted TMRs: 0
+JLIDYX_12266	signal	1	39				
+JLIDYX_12266	outside	40	40				
+//
+# JLIDYX_27308 Length: 50
+# JLIDYX_27308 Number of predicted TMRs: 0
+JLIDYX_27308	signal	1	29				
+JLIDYX_27308	outside	30	50				
+//
+# JLIDYX_164996 Length: 40
+# JLIDYX_164996 Number of predicted TMRs: 0
+JLIDYX_164996	outside	1	40				
+//
+# JLIDYX_77214 Length: 39
+# JLIDYX_77214 Number of predicted TMRs: 0
+JLIDYX_77214	inside	1	39				
+//
+# JLIDYX_160876 Length: 37
+# JLIDYX_160876 Number of predicted TMRs: 0
+JLIDYX_160876	inside	1	37				
+//
+# JLIDYX_58159 Length: 39
+# JLIDYX_58159 Number of predicted TMRs: 0
+JLIDYX_58159	signal	1	21				
+JLIDYX_58159	outside	22	39				
+//
+# JLIDYX_131125 Length: 45
+# JLIDYX_131125 Number of predicted TMRs: 0
+JLIDYX_131125	signal	1	33				
+JLIDYX_131125	outside	34	45				
+//
+# JLIDYX_78349 Length: 36
+# JLIDYX_78349 Number of predicted TMRs: 0
+JLIDYX_78349	inside	1	36				
+//
+# JLIDYX_67800 Length: 39
+# JLIDYX_67800 Number of predicted TMRs: 0
+JLIDYX_67800	inside	1	39				
+//
+# JLIDYX_106965 Length: 39
+# JLIDYX_106965 Number of predicted TMRs: 0
+JLIDYX_106965	inside	1	39				
+//
+# JLIDYX_129035 Length: 37
+# JLIDYX_129035 Number of predicted TMRs: 0
+JLIDYX_129035	signal	1	28				
+JLIDYX_129035	outside	29	37				
+//
+# JLIDYX_107904 Length: 48
+# JLIDYX_107904 Number of predicted TMRs: 0
+JLIDYX_107904	outside	1	48				
+//
+# JLIDYX_79108 Length: 35
+# JLIDYX_79108 Number of predicted TMRs: 0
+JLIDYX_79108	inside	1	35				
+//
+# JLIDYX_59072 Length: 45
+# JLIDYX_59072 Number of predicted TMRs: 0
+JLIDYX_59072	signal	1	18				
+JLIDYX_59072	outside	19	45				
+//
+# JLIDYX_73460 Length: 50
+# JLIDYX_73460 Number of predicted TMRs: 0
+JLIDYX_73460	inside	1	50				
+//
+# JLIDYX_105004 Length: 48
+# JLIDYX_105004 Number of predicted TMRs: 0
+JLIDYX_105004	inside	1	48				
+//
+# JLIDYX_120242 Length: 40
+# JLIDYX_120242 Number of predicted TMRs: 0
+JLIDYX_120242	signal	1	20				
+JLIDYX_120242	outside	21	40				
+//
+# JLIDYX_23920 Length: 50
+# JLIDYX_23920 Number of predicted TMRs: 0
+JLIDYX_23920	inside	1	50				
+//
+# JLIDYX_160295 Length: 48
+# JLIDYX_160295 Number of predicted TMRs: 0
+JLIDYX_160295	inside	1	48				
+//
+# JLIDYX_74002 Length: 42
+# JLIDYX_74002 Number of predicted TMRs: 0
+JLIDYX_74002	inside	1	42				
+//
+# JLIDYX_165735 Length: 48
+# JLIDYX_165735 Number of predicted TMRs: 0
+JLIDYX_165735	inside	1	48				
+//
+# JLIDYX_16117 Length: 49
+# JLIDYX_16117 Number of predicted TMRs: 0
+JLIDYX_16117	inside	1	49				
+//
+# JLIDYX_60425 Length: 50
+# JLIDYX_60425 Number of predicted TMRs: 0
+JLIDYX_60425	inside	1	50				
+//
+# JLIDYX_19813 Length: 48
+# JLIDYX_19813 Number of predicted TMRs: 0
+JLIDYX_19813	inside	1	48				
+//
+# JLIDYX_73994 Length: 50
+# JLIDYX_73994 Number of predicted TMRs: 0
+JLIDYX_73994	inside	1	50				
+//
+# JLIDYX_62095 Length: 33
+# JLIDYX_62095 Number of predicted TMRs: 0
+JLIDYX_62095	inside	1	33				
+//
+# JLIDYX_72827 Length: 48
+# JLIDYX_72827 Number of predicted TMRs: 0
+JLIDYX_72827	signal	1	33				
+JLIDYX_72827	outside	34	48				
+//
+# JLIDYX_87570 Length: 46
+# JLIDYX_87570 Number of predicted TMRs: 0
+JLIDYX_87570	inside	1	46				
+//
+# JLIDYX_149558 Length: 46
+# JLIDYX_149558 Number of predicted TMRs: 0
+JLIDYX_149558	inside	1	46				
+//
+# JLIDYX_162788 Length: 38
+# JLIDYX_162788 Number of predicted TMRs: 0
+JLIDYX_162788	signal	1	28				
+JLIDYX_162788	outside	29	38				
+//
+# JLIDYX_141903 Length: 39
+# JLIDYX_141903 Number of predicted TMRs: 0
+JLIDYX_141903	inside	1	39				
+//
+# JLIDYX_29106 Length: 49
+# JLIDYX_29106 Number of predicted TMRs: 0
+JLIDYX_29106	inside	1	49				
+//
+# JLIDYX_145764 Length: 38
+# JLIDYX_145764 Number of predicted TMRs: 0
+JLIDYX_145764	inside	1	38				
+//
+# JLIDYX_81529 Length: 43
+# JLIDYX_81529 Number of predicted TMRs: 0
+JLIDYX_81529	inside	1	43				
+//
+# JLIDYX_93314 Length: 38
+# JLIDYX_93314 Number of predicted TMRs: 0
+JLIDYX_93314	signal	1	33				
+JLIDYX_93314	outside	34	38				
+//
+# JLIDYX_89593 Length: 48
+# JLIDYX_89593 Number of predicted TMRs: 0
+JLIDYX_89593	inside	1	48				
+//
+# JLIDYX_9588 Length: 45
+# JLIDYX_9588 Number of predicted TMRs: 0
+JLIDYX_9588	inside	1	45				
+//
+# JLIDYX_160578 Length: 46
+# JLIDYX_160578 Number of predicted TMRs: 0
+JLIDYX_160578	signal	1	15				
+JLIDYX_160578	outside	16	46				
+//
+# JLIDYX_92899 Length: 49
+# JLIDYX_92899 Number of predicted TMRs: 0
+JLIDYX_92899	inside	1	49				
+//
+# JLIDYX_140540 Length: 50
+# JLIDYX_140540 Number of predicted TMRs: 0
+JLIDYX_140540	inside	1	50				
+//
+# JLIDYX_128578 Length: 49
+# JLIDYX_128578 Number of predicted TMRs: 0
+JLIDYX_128578	signal	1	20				
+JLIDYX_128578	outside	21	49				
+//
+# JLIDYX_51669 Length: 41
+# JLIDYX_51669 Number of predicted TMRs: 0
+JLIDYX_51669	signal	1	13				
+JLIDYX_51669	outside	14	41				
+//
+# JLIDYX_24781 Length: 48
+# JLIDYX_24781 Number of predicted TMRs: 0
+JLIDYX_24781	inside	1	48				
+//
+# JLIDYX_40654 Length: 49
+# JLIDYX_40654 Number of predicted TMRs: 0
+JLIDYX_40654	inside	1	49				
+//
+# JLIDYX_48340 Length: 40
+# JLIDYX_48340 Number of predicted TMRs: 0
+JLIDYX_48340	signal	1	12				
+JLIDYX_48340	outside	13	40				
+//
+# JLIDYX_68369 Length: 49
+# JLIDYX_68369 Number of predicted TMRs: 0
+JLIDYX_68369	inside	1	49				
+//
+# JLIDYX_59986 Length: 35
+# JLIDYX_59986 Number of predicted TMRs: 0
+JLIDYX_59986	signal	1	33				
+JLIDYX_59986	outside	34	35				
+//
+# JLIDYX_35178 Length: 42
+# JLIDYX_35178 Number of predicted TMRs: 0
+JLIDYX_35178	inside	1	42				
+//
+# JLIDYX_117217 Length: 46
+# JLIDYX_117217 Number of predicted TMRs: 0
+JLIDYX_117217	inside	1	46				
+//
+# JLIDYX_40732 Length: 40
+# JLIDYX_40732 Number of predicted TMRs: 2
+JLIDYX_40732	inside	1	1				
+JLIDYX_40732	TMhelix	2	14				
+JLIDYX_40732	outside	15	28				
+JLIDYX_40732	TMhelix	29	39				
+JLIDYX_40732	inside	40	40				
+//
+# JLIDYX_115003 Length: 45
+# JLIDYX_115003 Number of predicted TMRs: 0
+JLIDYX_115003	signal	1	33				
+JLIDYX_115003	outside	34	45				
+//
+# JLIDYX_125656 Length: 39
+# JLIDYX_125656 Number of predicted TMRs: 0
+JLIDYX_125656	signal	1	29				
+JLIDYX_125656	outside	30	39				
+//
+# JLIDYX_150074 Length: 35
+# JLIDYX_150074 Number of predicted TMRs: 0
+JLIDYX_150074	inside	1	35				
+//
+# JLIDYX_76588 Length: 50
+# JLIDYX_76588 Number of predicted TMRs: 0
+JLIDYX_76588	inside	1	50				
+//
+# JLIDYX_9192 Length: 47
+# JLIDYX_9192 Number of predicted TMRs: 0
+JLIDYX_9192	inside	1	47				
+//
+# JLIDYX_33217 Length: 39
+# JLIDYX_33217 Number of predicted TMRs: 0
+JLIDYX_33217	signal	1	38				
+JLIDYX_33217	outside	39	39				
+//
+# JLIDYX_63473 Length: 47
+# JLIDYX_63473 Number of predicted TMRs: 0
+JLIDYX_63473	inside	1	47				
+//
+# JLIDYX_81484 Length: 44
+# JLIDYX_81484 Number of predicted TMRs: 0
+JLIDYX_81484	inside	1	44				
+//
+# JLIDYX_137767 Length: 49
+# JLIDYX_137767 Number of predicted TMRs: 0
+JLIDYX_137767	signal	1	13				
+JLIDYX_137767	outside	14	49				
+//
+# JLIDYX_58711 Length: 41
+# JLIDYX_58711 Number of predicted TMRs: 0
+JLIDYX_58711	signal	1	40				
+JLIDYX_58711	outside	41	41				
+//
+# JLIDYX_97582 Length: 47
+# JLIDYX_97582 Number of predicted TMRs: 0
+JLIDYX_97582	inside	1	47				
+//
+# JLIDYX_16057 Length: 48
+# JLIDYX_16057 Number of predicted TMRs: 0
+JLIDYX_16057	signal	1	26				
+JLIDYX_16057	outside	27	48				
+//
+# JLIDYX_20516 Length: 46
+# JLIDYX_20516 Number of predicted TMRs: 0
+JLIDYX_20516	inside	1	46				
+//
+# JLIDYX_120887 Length: 41
+# JLIDYX_120887 Number of predicted TMRs: 0
+JLIDYX_120887	inside	1	41				
+//
+# JLIDYX_13927 Length: 49
+# JLIDYX_13927 Number of predicted TMRs: 0
+JLIDYX_13927	inside	1	49				
+//
+# JLIDYX_143773 Length: 37
+# JLIDYX_143773 Number of predicted TMRs: 0
+JLIDYX_143773	signal	1	33				
+JLIDYX_143773	outside	34	37				
+//
+# JLIDYX_28435 Length: 34
+# JLIDYX_28435 Number of predicted TMRs: 0
+JLIDYX_28435	signal	1	32				
+JLIDYX_28435	outside	33	34				
+//
+# JLIDYX_61639 Length: 50
+# JLIDYX_61639 Number of predicted TMRs: 0
+JLIDYX_61639	inside	1	50				
+//
+# JLIDYX_168430 Length: 49
+# JLIDYX_168430 Number of predicted TMRs: 0
+JLIDYX_168430	inside	1	49				
+//
+# JLIDYX_167722 Length: 44
+# JLIDYX_167722 Number of predicted TMRs: 0
+JLIDYX_167722	signal	1	32				
+JLIDYX_167722	outside	33	44				
+//
+# JLIDYX_162752 Length: 39
+# JLIDYX_162752 Number of predicted TMRs: 0
+JLIDYX_162752	inside	1	39				
+//
+# JLIDYX_40662 Length: 39
+# JLIDYX_40662 Number of predicted TMRs: 0
+JLIDYX_40662	inside	1	39				
+//
+# JLIDYX_18484 Length: 30
+# JLIDYX_18484 Number of predicted TMRs: 0
+JLIDYX_18484	inside	1	30				
+//
+# JLIDYX_48070 Length: 48
+# JLIDYX_48070 Number of predicted TMRs: 0
+JLIDYX_48070	signal	1	10				
+JLIDYX_48070	outside	11	48				
+//
+# JLIDYX_111257 Length: 47
+# JLIDYX_111257 Number of predicted TMRs: 0
+JLIDYX_111257	signal	1	15				
+JLIDYX_111257	outside	16	47				
+//
+# JLIDYX_6801 Length: 45
+# JLIDYX_6801 Number of predicted TMRs: 0
+JLIDYX_6801	inside	1	45				
+//
+# JLIDYX_92525 Length: 48
+# JLIDYX_92525 Number of predicted TMRs: 0
+JLIDYX_92525	inside	1	48				
+//
+# JLIDYX_153872 Length: 33
+# JLIDYX_153872 Number of predicted TMRs: 0
+JLIDYX_153872	signal	1	22				
+JLIDYX_153872	outside	23	33				
+//
+# JLIDYX_153867 Length: 25
+# JLIDYX_153867 Number of predicted TMRs: 0
+JLIDYX_153867	inside	1	25				
+//
+# JLIDYX_76814 Length: 35
+# JLIDYX_76814 Number of predicted TMRs: 0
+JLIDYX_76814	inside	1	35				
+//
+# JLIDYX_41019 Length: 48
+# JLIDYX_41019 Number of predicted TMRs: 0
+JLIDYX_41019	inside	1	48				
+//
+# JLIDYX_69279 Length: 40
+# JLIDYX_69279 Number of predicted TMRs: 0
+JLIDYX_69279	inside	1	40				
+//
+# JLIDYX_17053 Length: 38
+# JLIDYX_17053 Number of predicted TMRs: 0
+JLIDYX_17053	signal	1	37				
+JLIDYX_17053	outside	38	38				
+//
+# JLIDYX_17057 Length: 47
+# JLIDYX_17057 Number of predicted TMRs: 0
+JLIDYX_17057	signal	1	46				
+JLIDYX_17057	outside	47	47				
+//
+# JLIDYX_16925 Length: 44
+# JLIDYX_16925 Number of predicted TMRs: 0
+JLIDYX_16925	inside	1	44				
+//
+# JLIDYX_16928 Length: 49
+# JLIDYX_16928 Number of predicted TMRs: 0
+JLIDYX_16928	inside	1	49				
+//
+# JLIDYX_100028 Length: 39
+# JLIDYX_100028 Number of predicted TMRs: 0
+JLIDYX_100028	inside	1	39				
+//
+# JLIDYX_115751 Length: 49
+# JLIDYX_115751 Number of predicted TMRs: 0
+JLIDYX_115751	inside	1	49				
+//
+# JLIDYX_56405 Length: 35
+# JLIDYX_56405 Number of predicted TMRs: 0
+JLIDYX_56405	inside	1	35				
+//
+# JLIDYX_37327 Length: 42
+# JLIDYX_37327 Number of predicted TMRs: 0
+JLIDYX_37327	signal	1	41				
+JLIDYX_37327	outside	42	42				
+//
+# JLIDYX_49848 Length: 50
+# JLIDYX_49848 Number of predicted TMRs: 0
+JLIDYX_49848	inside	1	50				
+//
+# JLIDYX_109643 Length: 50
+# JLIDYX_109643 Number of predicted TMRs: 0
+JLIDYX_109643	signal	1	49				
+JLIDYX_109643	outside	50	50				
+//
+# JLIDYX_132237 Length: 45
+# JLIDYX_132237 Number of predicted TMRs: 0
+JLIDYX_132237	signal	1	12				
+JLIDYX_132237	outside	13	45				
+//
+# JLIDYX_93389 Length: 42
+# JLIDYX_93389 Number of predicted TMRs: 0
+JLIDYX_93389	signal	1	41				
+JLIDYX_93389	outside	42	42				
+//
+# JLIDYX_129565 Length: 37
+# JLIDYX_129565 Number of predicted TMRs: 0
+JLIDYX_129565	signal	1	15				
+JLIDYX_129565	outside	16	37				
+//
+# JLIDYX_55063 Length: 43
+# JLIDYX_55063 Number of predicted TMRs: 0
+JLIDYX_55063	inside	1	43				
+//
+# JLIDYX_169776 Length: 47
+# JLIDYX_169776 Number of predicted TMRs: 0
+JLIDYX_169776	signal	1	46				
+JLIDYX_169776	outside	47	47				
+//
+# JLIDYX_56861 Length: 50
+# JLIDYX_56861 Number of predicted TMRs: 0
+JLIDYX_56861	inside	1	50				
+//
+# JLIDYX_94285 Length: 45
+# JLIDYX_94285 Number of predicted TMRs: 0
+JLIDYX_94285	signal	1	44				
+JLIDYX_94285	outside	45	45				
+//
+# JLIDYX_130818 Length: 45
+# JLIDYX_130818 Number of predicted TMRs: 0
+JLIDYX_130818	signal	1	41				
+JLIDYX_130818	outside	42	45				
+//
+# JLIDYX_50355 Length: 44
+# JLIDYX_50355 Number of predicted TMRs: 0
+JLIDYX_50355	signal	1	32				
+JLIDYX_50355	outside	33	44				
+//
+# JLIDYX_19124 Length: 46
+# JLIDYX_19124 Number of predicted TMRs: 0
+JLIDYX_19124	inside	1	46				
+//
+# JLIDYX_101724 Length: 40
+# JLIDYX_101724 Number of predicted TMRs: 0
+JLIDYX_101724	inside	1	40				
+//
+# JLIDYX_25571 Length: 44
+# JLIDYX_25571 Number of predicted TMRs: 0
+JLIDYX_25571	signal	1	29				
+JLIDYX_25571	outside	30	44				
+//
+# JLIDYX_29922 Length: 49
+# JLIDYX_29922 Number of predicted TMRs: 0
+JLIDYX_29922	signal	1	11				
+JLIDYX_29922	outside	12	49				
+//
+# JLIDYX_165485 Length: 47
+# JLIDYX_165485 Number of predicted TMRs: 0
+JLIDYX_165485	inside	1	47				
+//
+# JLIDYX_125451 Length: 45
+# JLIDYX_125451 Number of predicted TMRs: 0
+JLIDYX_125451	inside	1	45				
+//
+# JLIDYX_68677 Length: 49
+# JLIDYX_68677 Number of predicted TMRs: 0
+JLIDYX_68677	inside	1	49				
+//
+# JLIDYX_150368 Length: 44
+# JLIDYX_150368 Number of predicted TMRs: 0
+JLIDYX_150368	inside	1	44				
+//
+# JLIDYX_132300 Length: 30
+# JLIDYX_132300 Number of predicted TMRs: 0
+JLIDYX_132300	inside	1	30				
+//
+# JLIDYX_19699 Length: 49
+# JLIDYX_19699 Number of predicted TMRs: 0
+JLIDYX_19699	inside	1	49				
+//
+# JLIDYX_132983 Length: 37
+# JLIDYX_132983 Number of predicted TMRs: 0
+JLIDYX_132983	signal	1	27				
+JLIDYX_132983	outside	28	37				
+//
+# JLIDYX_108640 Length: 31
+# JLIDYX_108640 Number of predicted TMRs: 0
+JLIDYX_108640	inside	1	31				
+//
+# JLIDYX_148682 Length: 43
+# JLIDYX_148682 Number of predicted TMRs: 0
+JLIDYX_148682	inside	1	43				
+//
+# JLIDYX_12867 Length: 47
+# JLIDYX_12867 Number of predicted TMRs: 0
+JLIDYX_12867	inside	1	47				
+//
+# JLIDYX_8890 Length: 42
+# JLIDYX_8890 Number of predicted TMRs: 0
+JLIDYX_8890	signal	1	39				
+JLIDYX_8890	outside	40	42				
+//
+# JLIDYX_167069 Length: 42
+# JLIDYX_167069 Number of predicted TMRs: 0
+JLIDYX_167069	signal	1	30				
+JLIDYX_167069	outside	31	42				
+//
+# JLIDYX_75490 Length: 50
+# JLIDYX_75490 Number of predicted TMRs: 0
+JLIDYX_75490	inside	1	50				
+//
+# JLIDYX_17043 Length: 36
+# JLIDYX_17043 Number of predicted TMRs: 0
+JLIDYX_17043	inside	1	36				
+//
+# JLIDYX_169826 Length: 50
+# JLIDYX_169826 Number of predicted TMRs: 0
+JLIDYX_169826	inside	1	50				
+//
+# JLIDYX_112912 Length: 40
+# JLIDYX_112912 Number of predicted TMRs: 0
+JLIDYX_112912	outside	1	40				
+//
+# JLIDYX_165886 Length: 33
+# JLIDYX_165886 Number of predicted TMRs: 0
+JLIDYX_165886	inside	1	33				
+//
+# JLIDYX_102087 Length: 37
+# JLIDYX_102087 Number of predicted TMRs: 0
+JLIDYX_102087	inside	1	37				
+//
+# JLIDYX_63973 Length: 44
+# JLIDYX_63973 Number of predicted TMRs: 0
+JLIDYX_63973	inside	1	44				
+//
+# JLIDYX_74688 Length: 46
+# JLIDYX_74688 Number of predicted TMRs: 0
+JLIDYX_74688	inside	1	46				
+//
+# JLIDYX_140952 Length: 20
+# JLIDYX_140952 Number of predicted TMRs: 0
+JLIDYX_140952	inside	1	20				
+//
+# JLIDYX_68823 Length: 42
+# JLIDYX_68823 Number of predicted TMRs: 0
+JLIDYX_68823	inside	1	42				
+//
+# JLIDYX_21706 Length: 29
+# JLIDYX_21706 Number of predicted TMRs: 0
+JLIDYX_21706	signal	1	23				
+JLIDYX_21706	outside	24	29				
+//
+# JLIDYX_73710 Length: 50
+# JLIDYX_73710 Number of predicted TMRs: 0
+JLIDYX_73710	inside	1	50				
+//
+# JLIDYX_169670 Length: 35
+# JLIDYX_169670 Number of predicted TMRs: 0
+JLIDYX_169670	inside	1	35				
+//
+# JLIDYX_119695 Length: 46
+# JLIDYX_119695 Number of predicted TMRs: 0
+JLIDYX_119695	inside	1	46				
+//
+# JLIDYX_162107 Length: 45
+# JLIDYX_162107 Number of predicted TMRs: 0
+JLIDYX_162107	inside	1	45				
+//
+# JLIDYX_18531 Length: 40
+# JLIDYX_18531 Number of predicted TMRs: 0
+JLIDYX_18531	signal	1	27				
+JLIDYX_18531	outside	28	40				
+//
+# JLIDYX_121034 Length: 27
+# JLIDYX_121034 Number of predicted TMRs: 0
+JLIDYX_121034	signal	1	26				
+JLIDYX_121034	outside	27	27				
+//
+# JLIDYX_43759 Length: 27
+# JLIDYX_43759 Number of predicted TMRs: 0
+JLIDYX_43759	signal	1	26				
+JLIDYX_43759	outside	27	27				
+//
+# JLIDYX_95858 Length: 39
+# JLIDYX_95858 Number of predicted TMRs: 0
+JLIDYX_95858	outside	1	39				
+//
+# JLIDYX_101888 Length: 42
+# JLIDYX_101888 Number of predicted TMRs: 0
+JLIDYX_101888	signal	1	40				
+JLIDYX_101888	outside	41	42				
+//
+# JLIDYX_48506 Length: 49
+# JLIDYX_48506 Number of predicted TMRs: 0
+JLIDYX_48506	signal	1	31				
+JLIDYX_48506	outside	32	49				
+//
+# JLIDYX_126082 Length: 49
+# JLIDYX_126082 Number of predicted TMRs: 0
+JLIDYX_126082	signal	1	34				
+JLIDYX_126082	outside	35	49				
+//
+# JLIDYX_99416 Length: 39
+# JLIDYX_99416 Number of predicted TMRs: 0
+JLIDYX_99416	signal	1	38				
+JLIDYX_99416	outside	39	39				
+//
+# JLIDYX_37514 Length: 36
+# JLIDYX_37514 Number of predicted TMRs: 0
+JLIDYX_37514	inside	1	36				
+//
+# JLIDYX_168613 Length: 26
+# JLIDYX_168613 Number of predicted TMRs: 0
+JLIDYX_168613	inside	1	26				
+//
+# JLIDYX_78564 Length: 50
+# JLIDYX_78564 Number of predicted TMRs: 0
+JLIDYX_78564	inside	1	50				
+//
+# JLIDYX_107053 Length: 44
+# JLIDYX_107053 Number of predicted TMRs: 0
+JLIDYX_107053	signal	1	12				
+JLIDYX_107053	outside	13	44				
+//
+# JLIDYX_129262 Length: 36
+# JLIDYX_129262 Number of predicted TMRs: 0
+JLIDYX_129262	signal	1	20				
+JLIDYX_129262	outside	21	36				
+//
+# JLIDYX_166920 Length: 43
+# JLIDYX_166920 Number of predicted TMRs: 0
+JLIDYX_166920	inside	1	43				
+//
+# JLIDYX_10858 Length: 33
+# JLIDYX_10858 Number of predicted TMRs: 0
+JLIDYX_10858	signal	1	30				
+JLIDYX_10858	outside	31	33				
+//
+# JLIDYX_44588 Length: 50
+# JLIDYX_44588 Number of predicted TMRs: 0
+JLIDYX_44588	inside	1	50				
+//
+# JLIDYX_51927 Length: 48
+# JLIDYX_51927 Number of predicted TMRs: 0
+JLIDYX_51927	inside	1	48				
+//
+# JLIDYX_3527 Length: 43
+# JLIDYX_3527 Number of predicted TMRs: 0
+JLIDYX_3527	inside	1	43				
+//
+# JLIDYX_28377 Length: 43
+# JLIDYX_28377 Number of predicted TMRs: 0
+JLIDYX_28377	inside	1	43				
+//
+# JLIDYX_151459 Length: 40
+# JLIDYX_151459 Number of predicted TMRs: 0
+JLIDYX_151459	inside	1	40				
+//
+# JLIDYX_151475 Length: 48
+# JLIDYX_151475 Number of predicted TMRs: 0
+JLIDYX_151475	inside	1	48				
+//
+# JLIDYX_58264 Length: 48
+# JLIDYX_58264 Number of predicted TMRs: 0
+JLIDYX_58264	inside	1	48				
+//
+# JLIDYX_98702 Length: 37
+# JLIDYX_98702 Number of predicted TMRs: 0
+JLIDYX_98702	inside	1	37				
+//
+# JLIDYX_151142 Length: 39
+# JLIDYX_151142 Number of predicted TMRs: 0
+JLIDYX_151142	inside	1	39				
+//
+# JLIDYX_121526 Length: 47
+# JLIDYX_121526 Number of predicted TMRs: 0
+JLIDYX_121526	inside	1	47				
+//
+# JLIDYX_130399 Length: 40
+# JLIDYX_130399 Number of predicted TMRs: 0
+JLIDYX_130399	outside	1	40				
+//
+# JLIDYX_134638 Length: 44
+# JLIDYX_134638 Number of predicted TMRs: 0
+JLIDYX_134638	inside	1	44				
+//
+# JLIDYX_51224 Length: 34
+# JLIDYX_51224 Number of predicted TMRs: 0
+JLIDYX_51224	inside	1	34				
+//
+# JLIDYX_8520 Length: 48
+# JLIDYX_8520 Number of predicted TMRs: 0
+JLIDYX_8520	signal	1	21				
+JLIDYX_8520	outside	22	48				
+//
+# JLIDYX_135159 Length: 43
+# JLIDYX_135159 Number of predicted TMRs: 0
+JLIDYX_135159	signal	1	26				
+JLIDYX_135159	outside	27	43				
+//
+# JLIDYX_69297 Length: 39
+# JLIDYX_69297 Number of predicted TMRs: 0
+JLIDYX_69297	outside	1	39				
+//
+# JLIDYX_156180 Length: 36
+# JLIDYX_156180 Number of predicted TMRs: 0
+JLIDYX_156180	inside	1	36				
+//
+# JLIDYX_80717 Length: 43
+# JLIDYX_80717 Number of predicted TMRs: 0
+JLIDYX_80717	signal	1	42				
+JLIDYX_80717	outside	43	43				
+//
+# JLIDYX_66111 Length: 41
+# JLIDYX_66111 Number of predicted TMRs: 0
+JLIDYX_66111	inside	1	41				
+//
+# JLIDYX_166949 Length: 46
+# JLIDYX_166949 Number of predicted TMRs: 0
+JLIDYX_166949	signal	1	35				
+JLIDYX_166949	outside	36	46				
+//
+# JLIDYX_146987 Length: 49
+# JLIDYX_146987 Number of predicted TMRs: 0
+JLIDYX_146987	signal	1	47				
+JLIDYX_146987	outside	48	49				
+//
+# JLIDYX_99750 Length: 41
+# JLIDYX_99750 Number of predicted TMRs: 0
+JLIDYX_99750	inside	1	41				
+//
+# JLIDYX_137796 Length: 44
+# JLIDYX_137796 Number of predicted TMRs: 0
+JLIDYX_137796	inside	1	44				
+//
+# JLIDYX_95810 Length: 37
+# JLIDYX_95810 Number of predicted TMRs: 0
+JLIDYX_95810	signal	1	30				
+JLIDYX_95810	outside	31	37				
+//
+# JLIDYX_118958 Length: 23
+# JLIDYX_118958 Number of predicted TMRs: 0
+JLIDYX_118958	inside	1	23				
+//
+# JLIDYX_110359 Length: 46
+# JLIDYX_110359 Number of predicted TMRs: 0
+JLIDYX_110359	inside	1	46				
+//
+# JLIDYX_11331 Length: 44
+# JLIDYX_11331 Number of predicted TMRs: 0
+JLIDYX_11331	inside	1	44				
+//
+# JLIDYX_11719 Length: 39
+# JLIDYX_11719 Number of predicted TMRs: 0
+JLIDYX_11719	inside	1	39				
+//
+# JLIDYX_120182 Length: 46
+# JLIDYX_120182 Number of predicted TMRs: 0
+JLIDYX_120182	inside	1	46				
+//
+# JLIDYX_121013 Length: 42
+# JLIDYX_121013 Number of predicted TMRs: 0
+JLIDYX_121013	inside	1	42				
+//
+# JLIDYX_21437 Length: 40
+# JLIDYX_21437 Number of predicted TMRs: 0
+JLIDYX_21437	inside	1	40				
+//
+# JLIDYX_145885 Length: 50
+# JLIDYX_145885 Number of predicted TMRs: 0
+JLIDYX_145885	inside	1	50				
+//
+# JLIDYX_37132 Length: 42
+# JLIDYX_37132 Number of predicted TMRs: 0
+JLIDYX_37132	inside	1	42				
+//
+# JLIDYX_150797 Length: 42
+# JLIDYX_150797 Number of predicted TMRs: 0
+JLIDYX_150797	inside	1	42				
+//
+# JLIDYX_145673 Length: 42
+# JLIDYX_145673 Number of predicted TMRs: 0
+JLIDYX_145673	inside	1	42				
+//
+# JLIDYX_17416 Length: 42
+# JLIDYX_17416 Number of predicted TMRs: 0
+JLIDYX_17416	inside	1	42				
+//
+# JLIDYX_128564 Length: 49
+# JLIDYX_128564 Number of predicted TMRs: 0
+JLIDYX_128564	signal	1	48				
+JLIDYX_128564	outside	49	49				
+//
+# JLIDYX_74939 Length: 49
+# JLIDYX_74939 Number of predicted TMRs: 0
+JLIDYX_74939	signal	1	33				
+JLIDYX_74939	outside	34	49				
+//
+# JLIDYX_4570 Length: 41
+# JLIDYX_4570 Number of predicted TMRs: 1
+JLIDYX_4570	inside	1	20				
+JLIDYX_4570	TMhelix	21	38				
+JLIDYX_4570	outside	39	41				
+//
+# JLIDYX_34102 Length: 43
+# JLIDYX_34102 Number of predicted TMRs: 0
+JLIDYX_34102	signal	1	42				
+JLIDYX_34102	outside	43	43				
+//
+# JLIDYX_62301 Length: 42
+# JLIDYX_62301 Number of predicted TMRs: 0
+JLIDYX_62301	signal	1	40				
+JLIDYX_62301	outside	41	42				
+//
+# JLIDYX_492 Length: 50
+# JLIDYX_492 Number of predicted TMRs: 0
+JLIDYX_492	inside	1	50				
+//
+# JLIDYX_14619 Length: 40
+# JLIDYX_14619 Number of predicted TMRs: 0
+JLIDYX_14619	signal	1	39				
+JLIDYX_14619	outside	40	40				
+//
+# JLIDYX_33734 Length: 45
+# JLIDYX_33734 Number of predicted TMRs: 0
+JLIDYX_33734	inside	1	45				
+//
+# JLIDYX_167076 Length: 39
+# JLIDYX_167076 Number of predicted TMRs: 0
+JLIDYX_167076	signal	1	36				
+JLIDYX_167076	outside	37	39				
+//
+# JLIDYX_70789 Length: 40
+# JLIDYX_70789 Number of predicted TMRs: 0
+JLIDYX_70789	signal	1	39				
+JLIDYX_70789	outside	40	40				
+//
+# JLIDYX_130726 Length: 45
+# JLIDYX_130726 Number of predicted TMRs: 0
+JLIDYX_130726	inside	1	45				
+//
+# JLIDYX_88022 Length: 49
+# JLIDYX_88022 Number of predicted TMRs: 0
+JLIDYX_88022	inside	1	49				
+//
+# JLIDYX_76813 Length: 44
+# JLIDYX_76813 Number of predicted TMRs: 0
+JLIDYX_76813	inside	1	44				
+//
+# JLIDYX_14237 Length: 47
+# JLIDYX_14237 Number of predicted TMRs: 0
+JLIDYX_14237	outside	1	47				
+//
+# JLIDYX_58329 Length: 38
+# JLIDYX_58329 Number of predicted TMRs: 0
+JLIDYX_58329	outside	1	38				
+//
+# JLIDYX_160552 Length: 50
+# JLIDYX_160552 Number of predicted TMRs: 0
+JLIDYX_160552	inside	1	50				
+//
+# JLIDYX_57668 Length: 46
+# JLIDYX_57668 Number of predicted TMRs: 0
+JLIDYX_57668	signal	1	26				
+JLIDYX_57668	outside	27	46				
+//
+# JLIDYX_90282 Length: 48
+# JLIDYX_90282 Number of predicted TMRs: 0
+JLIDYX_90282	inside	1	48				
+//
+# JLIDYX_114686 Length: 27
+# JLIDYX_114686 Number of predicted TMRs: 0
+JLIDYX_114686	signal	1	21				
+JLIDYX_114686	outside	22	27				
+//
+# JLIDYX_5006 Length: 38
+# JLIDYX_5006 Number of predicted TMRs: 0
+JLIDYX_5006	signal	1	32				
+JLIDYX_5006	outside	33	38				
+//
+# JLIDYX_8368 Length: 44
+# JLIDYX_8368 Number of predicted TMRs: 0
+JLIDYX_8368	inside	1	44				
+//
+# JLIDYX_20835 Length: 46
+# JLIDYX_20835 Number of predicted TMRs: 0
+JLIDYX_20835	inside	1	46				
+//
+# JLIDYX_58167 Length: 49
+# JLIDYX_58167 Number of predicted TMRs: 0
+JLIDYX_58167	signal	1	19				
+JLIDYX_58167	outside	20	49				
+//
+# JLIDYX_74408 Length: 45
+# JLIDYX_74408 Number of predicted TMRs: 0
+JLIDYX_74408	inside	1	45				
+//
+# JLIDYX_51722 Length: 41
+# JLIDYX_51722 Number of predicted TMRs: 0
+JLIDYX_51722	signal	1	33				
+JLIDYX_51722	outside	34	41				
+//
+# JLIDYX_6853 Length: 41
+# JLIDYX_6853 Number of predicted TMRs: 0
+JLIDYX_6853	inside	1	41				
+//
+# JLIDYX_102503 Length: 28
+# JLIDYX_102503 Number of predicted TMRs: 0
+JLIDYX_102503	signal	1	27				
+JLIDYX_102503	outside	28	28				
+//
+# JLIDYX_146842 Length: 45
+# JLIDYX_146842 Number of predicted TMRs: 0
+JLIDYX_146842	signal	1	43				
+JLIDYX_146842	outside	44	45				
+//
+# JLIDYX_76615 Length: 47
+# JLIDYX_76615 Number of predicted TMRs: 0
+JLIDYX_76615	inside	1	47				
+//
+# JLIDYX_63654 Length: 48
+# JLIDYX_63654 Number of predicted TMRs: 0
+JLIDYX_63654	inside	1	48				
+//
+# JLIDYX_136984 Length: 49
+# JLIDYX_136984 Number of predicted TMRs: 0
+JLIDYX_136984	inside	1	49				
+//
+# JLIDYX_85630 Length: 49
+# JLIDYX_85630 Number of predicted TMRs: 0
+JLIDYX_85630	signal	1	12				
+JLIDYX_85630	outside	13	49				
+//
+# JLIDYX_145093 Length: 45
+# JLIDYX_145093 Number of predicted TMRs: 0
+JLIDYX_145093	signal	1	16				
+JLIDYX_145093	outside	17	45				
+//
+# JLIDYX_142399 Length: 36
+# JLIDYX_142399 Number of predicted TMRs: 0
+JLIDYX_142399	inside	1	36				
+//
+# JLIDYX_78993 Length: 46
+# JLIDYX_78993 Number of predicted TMRs: 0
+JLIDYX_78993	inside	1	46				
+//
+# JLIDYX_17800 Length: 48
+# JLIDYX_17800 Number of predicted TMRs: 0
+JLIDYX_17800	inside	1	48				
+//
+# JLIDYX_31245 Length: 36
+# JLIDYX_31245 Number of predicted TMRs: 0
+JLIDYX_31245	signal	1	35				
+JLIDYX_31245	outside	36	36				
+//
+# JLIDYX_52539 Length: 36
+# JLIDYX_52539 Number of predicted TMRs: 0
+JLIDYX_52539	signal	1	24				
+JLIDYX_52539	outside	25	36				
+//
+# JLIDYX_258 Length: 36
+# JLIDYX_258 Number of predicted TMRs: 0
+JLIDYX_258	signal	1	33				
+JLIDYX_258	outside	34	36				
+//
+# JLIDYX_144494 Length: 36
+# JLIDYX_144494 Number of predicted TMRs: 0
+JLIDYX_144494	signal	1	35				
+JLIDYX_144494	outside	36	36				
+//
+# JLIDYX_160393 Length: 39
+# JLIDYX_160393 Number of predicted TMRs: 0
+JLIDYX_160393	signal	1	38				
+JLIDYX_160393	outside	39	39				
+//
+# JLIDYX_154668 Length: 46
+# JLIDYX_154668 Number of predicted TMRs: 0
+JLIDYX_154668	inside	1	46				
+//
+# JLIDYX_167341 Length: 40
+# JLIDYX_167341 Number of predicted TMRs: 0
+JLIDYX_167341	inside	1	40				
+//
+# JLIDYX_82462 Length: 39
+# JLIDYX_82462 Number of predicted TMRs: 0
+JLIDYX_82462	signal	1	32				
+JLIDYX_82462	outside	33	39				
+//
+# JLIDYX_65137 Length: 48
+# JLIDYX_65137 Number of predicted TMRs: 0
+JLIDYX_65137	signal	1	25				
+JLIDYX_65137	outside	26	48				
+//
+# JLIDYX_65128 Length: 47
+# JLIDYX_65128 Number of predicted TMRs: 0
+JLIDYX_65128	signal	1	25				
+JLIDYX_65128	outside	26	47				
+//
+# JLIDYX_79712 Length: 43
+# JLIDYX_79712 Number of predicted TMRs: 0
+JLIDYX_79712	inside	1	43				
+//
+# JLIDYX_79707 Length: 48
+# JLIDYX_79707 Number of predicted TMRs: 0
+JLIDYX_79707	inside	1	48				
+//
+# JLIDYX_20846 Length: 47
+# JLIDYX_20846 Number of predicted TMRs: 0
+JLIDYX_20846	inside	1	47				
+//
+# JLIDYX_14722 Length: 42
+# JLIDYX_14722 Number of predicted TMRs: 0
+JLIDYX_14722	signal	1	41				
+JLIDYX_14722	outside	42	42				
+//
+# JLIDYX_72344 Length: 44
+# JLIDYX_72344 Number of predicted TMRs: 0
+JLIDYX_72344	signal	1	13				
+JLIDYX_72344	outside	14	44				
+//
+# JLIDYX_19412 Length: 47
+# JLIDYX_19412 Number of predicted TMRs: 0
+JLIDYX_19412	inside	1	47				
+//
+# JLIDYX_41183 Length: 41
+# JLIDYX_41183 Number of predicted TMRs: 0
+JLIDYX_41183	inside	1	41				
+//
+# JLIDYX_166704 Length: 46
+# JLIDYX_166704 Number of predicted TMRs: 0
+JLIDYX_166704	inside	1	46				
+//
+# JLIDYX_73462 Length: 29
+# JLIDYX_73462 Number of predicted TMRs: 0
+JLIDYX_73462	signal	1	28				
+JLIDYX_73462	outside	29	29				
+//
+# JLIDYX_14917 Length: 38
+# JLIDYX_14917 Number of predicted TMRs: 0
+JLIDYX_14917	signal	1	34				
+JLIDYX_14917	outside	35	38				
+//
+# JLIDYX_46763 Length: 45
+# JLIDYX_46763 Number of predicted TMRs: 0
+JLIDYX_46763	inside	1	45				
+//
+# JLIDYX_34476 Length: 50
+# JLIDYX_34476 Number of predicted TMRs: 0
+JLIDYX_34476	inside	1	50				
+//
+# JLIDYX_43050 Length: 42
+# JLIDYX_43050 Number of predicted TMRs: 0
+JLIDYX_43050	inside	1	42				
+//
+# JLIDYX_81155 Length: 44
+# JLIDYX_81155 Number of predicted TMRs: 0
+JLIDYX_81155	signal	1	43				
+JLIDYX_81155	outside	44	44				
+//
+# JLIDYX_122741 Length: 47
+# JLIDYX_122741 Number of predicted TMRs: 0
+JLIDYX_122741	inside	1	47				
+//
+# JLIDYX_141936 Length: 43
+# JLIDYX_141936 Number of predicted TMRs: 0
+JLIDYX_141936	inside	1	43				
+//
+# JLIDYX_82722 Length: 46
+# JLIDYX_82722 Number of predicted TMRs: 0
+JLIDYX_82722	inside	1	46				
+//
+# JLIDYX_56050 Length: 46
+# JLIDYX_56050 Number of predicted TMRs: 0
+JLIDYX_56050	inside	1	46				
+//
+# JLIDYX_77271 Length: 35
+# JLIDYX_77271 Number of predicted TMRs: 0
+JLIDYX_77271	inside	1	35				
+//
+# JLIDYX_106976 Length: 49
+# JLIDYX_106976 Number of predicted TMRs: 0
+JLIDYX_106976	inside	1	49				
+//
+# JLIDYX_161226 Length: 50
+# JLIDYX_161226 Number of predicted TMRs: 0
+JLIDYX_161226	inside	1	50				
+//
+# JLIDYX_135874 Length: 46
+# JLIDYX_135874 Number of predicted TMRs: 0
+JLIDYX_135874	signal	1	45				
+JLIDYX_135874	outside	46	46				
+//
+# JLIDYX_133030 Length: 49
+# JLIDYX_133030 Number of predicted TMRs: 0
+JLIDYX_133030	inside	1	49				
+//
+# JLIDYX_28844 Length: 39
+# JLIDYX_28844 Number of predicted TMRs: 0
+JLIDYX_28844	inside	1	39				
+//
+# JLIDYX_20439 Length: 48
+# JLIDYX_20439 Number of predicted TMRs: 0
+JLIDYX_20439	signal	1	47				
+JLIDYX_20439	outside	48	48				
+//
+# JLIDYX_10179 Length: 45
+# JLIDYX_10179 Number of predicted TMRs: 0
+JLIDYX_10179	inside	1	45				
+//
+# JLIDYX_55900 Length: 43
+# JLIDYX_55900 Number of predicted TMRs: 0
+JLIDYX_55900	inside	1	43				
+//
+# JLIDYX_73471 Length: 30
+# JLIDYX_73471 Number of predicted TMRs: 0
+JLIDYX_73471	inside	1	30				
+//
+# JLIDYX_92673 Length: 45
+# JLIDYX_92673 Number of predicted TMRs: 0
+JLIDYX_92673	inside	1	45				
+//
+# JLIDYX_93509 Length: 49
+# JLIDYX_93509 Number of predicted TMRs: 0
+JLIDYX_93509	inside	1	49				
+//
+# JLIDYX_12240 Length: 40
+# JLIDYX_12240 Number of predicted TMRs: 0
+JLIDYX_12240	inside	1	40				
+//
+# JLIDYX_139113 Length: 46
+# JLIDYX_139113 Number of predicted TMRs: 0
+JLIDYX_139113	inside	1	46				
+//
+# JLIDYX_137189 Length: 46
+# JLIDYX_137189 Number of predicted TMRs: 0
+JLIDYX_137189	inside	1	46				
+//
+# JLIDYX_1451 Length: 32
+# JLIDYX_1451 Number of predicted TMRs: 0
+JLIDYX_1451	inside	1	32				
+//
+# JLIDYX_130660 Length: 48
+# JLIDYX_130660 Number of predicted TMRs: 0
+JLIDYX_130660	inside	1	48				
+//
+# JLIDYX_73409 Length: 45
+# JLIDYX_73409 Number of predicted TMRs: 0
+JLIDYX_73409	signal	1	10				
+JLIDYX_73409	outside	11	45				
+//
+# JLIDYX_17407 Length: 46
+# JLIDYX_17407 Number of predicted TMRs: 0
+JLIDYX_17407	inside	1	46				
+//
+# JLIDYX_166557 Length: 43
+# JLIDYX_166557 Number of predicted TMRs: 0
+JLIDYX_166557	inside	1	43				
+//
+# JLIDYX_110587 Length: 37
+# JLIDYX_110587 Number of predicted TMRs: 0
+JLIDYX_110587	inside	1	37				
+//
+# JLIDYX_125352 Length: 49
+# JLIDYX_125352 Number of predicted TMRs: 0
+JLIDYX_125352	inside	1	49				
+//
+# JLIDYX_110350 Length: 50
+# JLIDYX_110350 Number of predicted TMRs: 0
+JLIDYX_110350	inside	1	50				
+//
+# JLIDYX_2250 Length: 49
+# JLIDYX_2250 Number of predicted TMRs: 0
+JLIDYX_2250	inside	1	49				
+//
+# JLIDYX_135061 Length: 42
+# JLIDYX_135061 Number of predicted TMRs: 0
+JLIDYX_135061	inside	1	42				
+//
+# JLIDYX_46749 Length: 48
+# JLIDYX_46749 Number of predicted TMRs: 0
+JLIDYX_46749	inside	1	48				
+//
+# JLIDYX_32602 Length: 42
+# JLIDYX_32602 Number of predicted TMRs: 0
+JLIDYX_32602	signal	1	31				
+JLIDYX_32602	outside	32	42				
+//
+# JLIDYX_44457 Length: 42
+# JLIDYX_44457 Number of predicted TMRs: 0
+JLIDYX_44457	signal	1	40				
+JLIDYX_44457	outside	41	42				
+//
+# JLIDYX_85149 Length: 44
+# JLIDYX_85149 Number of predicted TMRs: 0
+JLIDYX_85149	inside	1	44				
+//
+# JLIDYX_81303 Length: 39
+# JLIDYX_81303 Number of predicted TMRs: 0
+JLIDYX_81303	signal	1	38				
+JLIDYX_81303	outside	39	39				
+//
+# JLIDYX_103993 Length: 41
+# JLIDYX_103993 Number of predicted TMRs: 0
+JLIDYX_103993	inside	1	41				
+//
+# JLIDYX_115107 Length: 50
+# JLIDYX_115107 Number of predicted TMRs: 0
+JLIDYX_115107	inside	1	50				
+//
+# JLIDYX_134737 Length: 47
+# JLIDYX_134737 Number of predicted TMRs: 0
+JLIDYX_134737	inside	1	47				
+//
+# JLIDYX_160746 Length: 45
+# JLIDYX_160746 Number of predicted TMRs: 0
+JLIDYX_160746	inside	1	45				
+//
+# JLIDYX_141314 Length: 50
+# JLIDYX_141314 Number of predicted TMRs: 0
+JLIDYX_141314	signal	1	12				
+JLIDYX_141314	outside	13	50				
+//
+# JLIDYX_33593 Length: 49
+# JLIDYX_33593 Number of predicted TMRs: 0
+JLIDYX_33593	inside	1	49				
+//
+# JLIDYX_133502 Length: 48
+# JLIDYX_133502 Number of predicted TMRs: 0
+JLIDYX_133502	inside	1	48				
+//
+# JLIDYX_118002 Length: 37
+# JLIDYX_118002 Number of predicted TMRs: 0
+JLIDYX_118002	signal	1	36				
+JLIDYX_118002	outside	37	37				
+//
+# JLIDYX_60146 Length: 44
+# JLIDYX_60146 Number of predicted TMRs: 0
+JLIDYX_60146	inside	1	44				
+//
+# JLIDYX_128944 Length: 50
+# JLIDYX_128944 Number of predicted TMRs: 0
+JLIDYX_128944	inside	1	50				
+//
+# JLIDYX_76285 Length: 50
+# JLIDYX_76285 Number of predicted TMRs: 0
+JLIDYX_76285	inside	1	50				
+//
+# JLIDYX_22593 Length: 38
+# JLIDYX_22593 Number of predicted TMRs: 0
+JLIDYX_22593	inside	1	38				
+//
+# JLIDYX_89585 Length: 46
+# JLIDYX_89585 Number of predicted TMRs: 0
+JLIDYX_89585	signal	1	10				
+JLIDYX_89585	outside	11	46				
+//
+# JLIDYX_78862 Length: 50
+# JLIDYX_78862 Number of predicted TMRs: 0
+JLIDYX_78862	inside	1	50				
+//
+# JLIDYX_142322 Length: 39
+# JLIDYX_142322 Number of predicted TMRs: 0
+JLIDYX_142322	inside	1	39				
+//
+# JLIDYX_126327 Length: 45
+# JLIDYX_126327 Number of predicted TMRs: 0
+JLIDYX_126327	inside	1	45				
+//
+# JLIDYX_5206 Length: 38
+# JLIDYX_5206 Number of predicted TMRs: 0
+JLIDYX_5206	inside	1	38				
+//
+# JLIDYX_48888 Length: 43
+# JLIDYX_48888 Number of predicted TMRs: 0
+JLIDYX_48888	inside	1	43				
+//
+# JLIDYX_15772 Length: 47
+# JLIDYX_15772 Number of predicted TMRs: 0
+JLIDYX_15772	outside	1	47				
+//
+# JLIDYX_77654 Length: 44
+# JLIDYX_77654 Number of predicted TMRs: 0
+JLIDYX_77654	signal	1	43				
+JLIDYX_77654	outside	44	44				
+//
+# JLIDYX_159084 Length: 44
+# JLIDYX_159084 Number of predicted TMRs: 0
+JLIDYX_159084	inside	1	44				
+//
+# JLIDYX_105246 Length: 46
+# JLIDYX_105246 Number of predicted TMRs: 0
+JLIDYX_105246	inside	1	46				
+//
+# JLIDYX_124168 Length: 43
+# JLIDYX_124168 Number of predicted TMRs: 0
+JLIDYX_124168	inside	1	43				
+//
+# JLIDYX_5190 Length: 48
+# JLIDYX_5190 Number of predicted TMRs: 0
+JLIDYX_5190	inside	1	48				
+//
+# JLIDYX_121267 Length: 36
+# JLIDYX_121267 Number of predicted TMRs: 0
+JLIDYX_121267	signal	1	26				
+JLIDYX_121267	outside	27	36				
+//
+# JLIDYX_111681 Length: 45
+# JLIDYX_111681 Number of predicted TMRs: 0
+JLIDYX_111681	signal	1	25				
+JLIDYX_111681	outside	26	45				
+//
+# JLIDYX_38881 Length: 42
+# JLIDYX_38881 Number of predicted TMRs: 0
+JLIDYX_38881	inside	1	42				
+//
+# JLIDYX_65578 Length: 42
+# JLIDYX_65578 Number of predicted TMRs: 0
+JLIDYX_65578	signal	1	34				
+JLIDYX_65578	outside	35	42				
+//
+# JLIDYX_124336 Length: 50
+# JLIDYX_124336 Number of predicted TMRs: 0
+JLIDYX_124336	inside	1	50				
+//
+# JLIDYX_130545 Length: 43
+# JLIDYX_130545 Number of predicted TMRs: 0
+JLIDYX_130545	signal	1	10				
+JLIDYX_130545	outside	11	43				
+//
+# JLIDYX_157595 Length: 45
+# JLIDYX_157595 Number of predicted TMRs: 0
+JLIDYX_157595	inside	1	45				
+//
+# JLIDYX_42924 Length: 38
+# JLIDYX_42924 Number of predicted TMRs: 0
+JLIDYX_42924	inside	1	38				
+//
+# JLIDYX_124567 Length: 50
+# JLIDYX_124567 Number of predicted TMRs: 0
+JLIDYX_124567	inside	1	50				
+//
+# JLIDYX_68857 Length: 38
+# JLIDYX_68857 Number of predicted TMRs: 0
+JLIDYX_68857	outside	1	38				
+//
+# JLIDYX_133124 Length: 49
+# JLIDYX_133124 Number of predicted TMRs: 0
+JLIDYX_133124	inside	1	49				
+//
+# JLIDYX_133160 Length: 50
+# JLIDYX_133160 Number of predicted TMRs: 0
+JLIDYX_133160	inside	1	50				
+//
+# JLIDYX_143155 Length: 48
+# JLIDYX_143155 Number of predicted TMRs: 0
+JLIDYX_143155	inside	1	48				
+//
+# JLIDYX_96318 Length: 46
+# JLIDYX_96318 Number of predicted TMRs: 1
+JLIDYX_96318	outside	1	9				
+JLIDYX_96318	TMhelix	10	25				
+JLIDYX_96318	inside	26	46				
+//
+# JLIDYX_152399 Length: 45
+# JLIDYX_152399 Number of predicted TMRs: 0
+JLIDYX_152399	signal	1	10				
+JLIDYX_152399	outside	11	45				
+//
+# JLIDYX_34433 Length: 32
+# JLIDYX_34433 Number of predicted TMRs: 0
+JLIDYX_34433	signal	1	30				
+JLIDYX_34433	outside	31	32				
+//
+# JLIDYX_166357 Length: 46
+# JLIDYX_166357 Number of predicted TMRs: 0
+JLIDYX_166357	inside	1	46				
+//
+# JLIDYX_42236 Length: 44
+# JLIDYX_42236 Number of predicted TMRs: 0
+JLIDYX_42236	signal	1	43				
+JLIDYX_42236	outside	44	44				
+//
+# JLIDYX_123766 Length: 50
+# JLIDYX_123766 Number of predicted TMRs: 0
+JLIDYX_123766	inside	1	50				
+//
+# JLIDYX_8465 Length: 35
+# JLIDYX_8465 Number of predicted TMRs: 0
+JLIDYX_8465	inside	1	35				
+//
+# JLIDYX_131711 Length: 41
+# JLIDYX_131711 Number of predicted TMRs: 0
+JLIDYX_131711	inside	1	41				
+//
+# JLIDYX_131715 Length: 38
+# JLIDYX_131715 Number of predicted TMRs: 0
+JLIDYX_131715	inside	1	38				
+//
+# JLIDYX_61876 Length: 45
+# JLIDYX_61876 Number of predicted TMRs: 0
+JLIDYX_61876	inside	1	45				
+//
+# JLIDYX_124621 Length: 42
+# JLIDYX_124621 Number of predicted TMRs: 0
+JLIDYX_124621	inside	1	42				
+//
+# JLIDYX_136901 Length: 42
+# JLIDYX_136901 Number of predicted TMRs: 0
+JLIDYX_136901	inside	1	42				
+//
+# JLIDYX_164463 Length: 40
+# JLIDYX_164463 Number of predicted TMRs: 0
+JLIDYX_164463	inside	1	40				
+//
+# JLIDYX_103552 Length: 36
+# JLIDYX_103552 Number of predicted TMRs: 0
+JLIDYX_103552	inside	1	36				
+//
+# JLIDYX_69242 Length: 50
+# JLIDYX_69242 Number of predicted TMRs: 0
+JLIDYX_69242	inside	1	50				
+//
+# JLIDYX_75056 Length: 45
+# JLIDYX_75056 Number of predicted TMRs: 0
+JLIDYX_75056	signal	1	37				
+JLIDYX_75056	outside	38	45				
+//
+# JLIDYX_80727 Length: 50
+# JLIDYX_80727 Number of predicted TMRs: 0
+JLIDYX_80727	inside	1	50				
+//
+# JLIDYX_88636 Length: 39
+# JLIDYX_88636 Number of predicted TMRs: 0
+JLIDYX_88636	inside	1	39				
+//
+# JLIDYX_170780 Length: 48
+# JLIDYX_170780 Number of predicted TMRs: 0
+JLIDYX_170780	inside	1	48				
+//
+# JLIDYX_49727 Length: 46
+# JLIDYX_49727 Number of predicted TMRs: 0
+JLIDYX_49727	inside	1	46				
+//
+# JLIDYX_138085 Length: 38
+# JLIDYX_138085 Number of predicted TMRs: 0
+JLIDYX_138085	signal	1	33				
+JLIDYX_138085	outside	34	38				
+//
+# JLIDYX_103619 Length: 42
+# JLIDYX_103619 Number of predicted TMRs: 0
+JLIDYX_103619	signal	1	34				
+JLIDYX_103619	outside	35	42				
+//
+# JLIDYX_134979 Length: 45
+# JLIDYX_134979 Number of predicted TMRs: 0
+JLIDYX_134979	signal	1	44				
+JLIDYX_134979	outside	45	45				
+//
+# JLIDYX_137853 Length: 37
+# JLIDYX_137853 Number of predicted TMRs: 0
+JLIDYX_137853	signal	1	36				
+JLIDYX_137853	outside	37	37				
+//
+# JLIDYX_11778 Length: 43
+# JLIDYX_11778 Number of predicted TMRs: 0
+JLIDYX_11778	inside	1	43				
+//
+# JLIDYX_165784 Length: 43
+# JLIDYX_165784 Number of predicted TMRs: 0
+JLIDYX_165784	signal	1	35				
+JLIDYX_165784	outside	36	43				
+//
+# JLIDYX_72980 Length: 50
+# JLIDYX_72980 Number of predicted TMRs: 0
+JLIDYX_72980	inside	1	50				
+//
+# JLIDYX_98470 Length: 44
+# JLIDYX_98470 Number of predicted TMRs: 0
+JLIDYX_98470	inside	1	44				
+//
+# JLIDYX_82373 Length: 38
+# JLIDYX_82373 Number of predicted TMRs: 0
+JLIDYX_82373	signal	1	10				
+JLIDYX_82373	outside	11	38				
+//
+# JLIDYX_133563 Length: 44
+# JLIDYX_133563 Number of predicted TMRs: 0
+JLIDYX_133563	inside	1	44				
+//
+# JLIDYX_143774 Length: 42
+# JLIDYX_143774 Number of predicted TMRs: 0
+JLIDYX_143774	inside	1	42				
+//
+# JLIDYX_27900 Length: 40
+# JLIDYX_27900 Number of predicted TMRs: 0
+JLIDYX_27900	signal	1	39				
+JLIDYX_27900	outside	40	40				
+//
+# JLIDYX_79096 Length: 48
+# JLIDYX_79096 Number of predicted TMRs: 0
+JLIDYX_79096	signal	1	47				
+JLIDYX_79096	outside	48	48				
+//
+# JLIDYX_102944 Length: 40
+# JLIDYX_102944 Number of predicted TMRs: 0
+JLIDYX_102944	inside	1	40				
+//
+# JLIDYX_132763 Length: 50
+# JLIDYX_132763 Number of predicted TMRs: 0
+JLIDYX_132763	inside	1	50				
+//
+# JLIDYX_4627 Length: 38
+# JLIDYX_4627 Number of predicted TMRs: 0
+JLIDYX_4627	signal	1	37				
+JLIDYX_4627	outside	38	38				
+//
+# JLIDYX_124376 Length: 50
+# JLIDYX_124376 Number of predicted TMRs: 0
+JLIDYX_124376	signal	1	49				
+JLIDYX_124376	outside	50	50				
+//
+# JLIDYX_68671 Length: 45
+# JLIDYX_68671 Number of predicted TMRs: 0
+JLIDYX_68671	outside	1	45				
+//
+# JLIDYX_145701 Length: 41
+# JLIDYX_145701 Number of predicted TMRs: 0
+JLIDYX_145701	inside	1	41				
+//
+# JLIDYX_96898 Length: 32
+# JLIDYX_96898 Number of predicted TMRs: 0
+JLIDYX_96898	signal	1	23				
+JLIDYX_96898	outside	24	32				
+//
+# JLIDYX_71541 Length: 41
+# JLIDYX_71541 Number of predicted TMRs: 0
+JLIDYX_71541	signal	1	39				
+JLIDYX_71541	outside	40	41				
+//
+# JLIDYX_65164 Length: 44
+# JLIDYX_65164 Number of predicted TMRs: 0
+JLIDYX_65164	inside	1	44				
+//
+# JLIDYX_49030 Length: 49
+# JLIDYX_49030 Number of predicted TMRs: 0
+JLIDYX_49030	inside	1	49				
+//
+# JLIDYX_67856 Length: 47
+# JLIDYX_67856 Number of predicted TMRs: 0
+JLIDYX_67856	inside	1	47				
+//
+# JLIDYX_120339 Length: 38
+# JLIDYX_120339 Number of predicted TMRs: 0
+JLIDYX_120339	signal	1	31				
+JLIDYX_120339	outside	32	38				
+//
+# JLIDYX_121735 Length: 48
+# JLIDYX_121735 Number of predicted TMRs: 0
+JLIDYX_121735	signal	1	46				
+JLIDYX_121735	outside	47	48				
+//
+# JLIDYX_96856 Length: 46
+# JLIDYX_96856 Number of predicted TMRs: 0
+JLIDYX_96856	inside	1	46				
+//
+# JLIDYX_47942 Length: 39
+# JLIDYX_47942 Number of predicted TMRs: 0
+JLIDYX_47942	signal	1	37				
+JLIDYX_47942	outside	38	39				
+//
+# JLIDYX_108403 Length: 50
+# JLIDYX_108403 Number of predicted TMRs: 0
+JLIDYX_108403	signal	1	34				
+JLIDYX_108403	outside	35	50				
+//
+# JLIDYX_162650 Length: 48
+# JLIDYX_162650 Number of predicted TMRs: 0
+JLIDYX_162650	signal	1	36				
+JLIDYX_162650	outside	37	48				
+//
+# JLIDYX_141482 Length: 38
+# JLIDYX_141482 Number of predicted TMRs: 0
+JLIDYX_141482	signal	1	37				
+JLIDYX_141482	outside	38	38				
+//
+# JLIDYX_81398 Length: 47
+# JLIDYX_81398 Number of predicted TMRs: 0
+JLIDYX_81398	signal	1	12				
+JLIDYX_81398	outside	13	47				
+//
+# JLIDYX_98333 Length: 46
+# JLIDYX_98333 Number of predicted TMRs: 0
+JLIDYX_98333	inside	1	46				
+//
+# JLIDYX_121401 Length: 40
+# JLIDYX_121401 Number of predicted TMRs: 0
+JLIDYX_121401	inside	1	40				
+//
+# JLIDYX_49935 Length: 42
+# JLIDYX_49935 Number of predicted TMRs: 0
+JLIDYX_49935	signal	1	41				
+JLIDYX_49935	outside	42	42				
+//
+# JLIDYX_95867 Length: 32
+# JLIDYX_95867 Number of predicted TMRs: 0
+JLIDYX_95867	inside	1	32				
+//
+# JLIDYX_94829 Length: 32
+# JLIDYX_94829 Number of predicted TMRs: 0
+JLIDYX_94829	inside	1	32				
+//
+# JLIDYX_126178 Length: 48
+# JLIDYX_126178 Number of predicted TMRs: 0
+JLIDYX_126178	inside	1	48				
+//
+# JLIDYX_30486 Length: 33
+# JLIDYX_30486 Number of predicted TMRs: 0
+JLIDYX_30486	signal	1	17				
+JLIDYX_30486	outside	18	33				
+//
+# JLIDYX_124728 Length: 47
+# JLIDYX_124728 Number of predicted TMRs: 0
+JLIDYX_124728	inside	1	47				
+//
+# JLIDYX_116230 Length: 45
+# JLIDYX_116230 Number of predicted TMRs: 0
+JLIDYX_116230	inside	1	45				
+//
+# JLIDYX_3200 Length: 46
+# JLIDYX_3200 Number of predicted TMRs: 0
+JLIDYX_3200	inside	1	46				
+//
+# JLIDYX_79286 Length: 50
+# JLIDYX_79286 Number of predicted TMRs: 0
+JLIDYX_79286	outside	1	50				
+//
+# JLIDYX_96056 Length: 42
+# JLIDYX_96056 Number of predicted TMRs: 0
+JLIDYX_96056	inside	1	42				
+//
+# JLIDYX_495 Length: 45
+# JLIDYX_495 Number of predicted TMRs: 0
+JLIDYX_495	inside	1	45				
+//
+# JLIDYX_57409 Length: 44
+# JLIDYX_57409 Number of predicted TMRs: 0
+JLIDYX_57409	signal	1	38				
+JLIDYX_57409	outside	39	44				
+//
+# JLIDYX_105166 Length: 41
+# JLIDYX_105166 Number of predicted TMRs: 0
+JLIDYX_105166	signal	1	39				
+JLIDYX_105166	outside	40	41				
+//
+# JLIDYX_105159 Length: 33
+# JLIDYX_105159 Number of predicted TMRs: 0
+JLIDYX_105159	signal	1	29				
+JLIDYX_105159	outside	30	33				
+//
+# JLIDYX_50018 Length: 50
+# JLIDYX_50018 Number of predicted TMRs: 0
+JLIDYX_50018	signal	1	40				
+JLIDYX_50018	outside	41	50				
+//
+# JLIDYX_50755 Length: 46
+# JLIDYX_50755 Number of predicted TMRs: 0
+JLIDYX_50755	inside	1	46				
+//
+# JLIDYX_70328 Length: 42
+# JLIDYX_70328 Number of predicted TMRs: 0
+JLIDYX_70328	inside	1	42				
+//
+# JLIDYX_126551 Length: 41
+# JLIDYX_126551 Number of predicted TMRs: 0
+JLIDYX_126551	signal	1	39				
+JLIDYX_126551	outside	40	41				
+//
+# JLIDYX_69371 Length: 49
+# JLIDYX_69371 Number of predicted TMRs: 0
+JLIDYX_69371	inside	1	49				
+//
+# JLIDYX_147985 Length: 48
+# JLIDYX_147985 Number of predicted TMRs: 0
+JLIDYX_147985	inside	1	48				
+//
+# JLIDYX_35064 Length: 45
+# JLIDYX_35064 Number of predicted TMRs: 0
+JLIDYX_35064	signal	1	21				
+JLIDYX_35064	outside	22	45				
+//
+# JLIDYX_90936 Length: 46
+# JLIDYX_90936 Number of predicted TMRs: 0
+JLIDYX_90936	inside	1	46				
+//
+# JLIDYX_14625 Length: 39
+# JLIDYX_14625 Number of predicted TMRs: 0
+JLIDYX_14625	inside	1	39				
+//
+# JLIDYX_128071 Length: 42
+# JLIDYX_128071 Number of predicted TMRs: 0
+JLIDYX_128071	inside	1	42				
+//
+# JLIDYX_68796 Length: 42
+# JLIDYX_68796 Number of predicted TMRs: 0
+JLIDYX_68796	signal	1	34				
+JLIDYX_68796	outside	35	42				
+//
+# JLIDYX_16137 Length: 47
+# JLIDYX_16137 Number of predicted TMRs: 0
+JLIDYX_16137	signal	1	21				
+JLIDYX_16137	outside	22	47				
+//
+# JLIDYX_66815 Length: 45
+# JLIDYX_66815 Number of predicted TMRs: 0
+JLIDYX_66815	inside	1	45				
+//
+# JLIDYX_75141 Length: 37
+# JLIDYX_75141 Number of predicted TMRs: 0
+JLIDYX_75141	inside	1	37				
+//
+# JLIDYX_74427 Length: 41
+# JLIDYX_74427 Number of predicted TMRs: 0
+JLIDYX_74427	inside	1	41				
+//
+# JLIDYX_167025 Length: 36
+# JLIDYX_167025 Number of predicted TMRs: 0
+JLIDYX_167025	inside	1	36				
+//
+# JLIDYX_3589 Length: 43
+# JLIDYX_3589 Number of predicted TMRs: 0
+JLIDYX_3589	inside	1	43				
+//
+# JLIDYX_30510 Length: 45
+# JLIDYX_30510 Number of predicted TMRs: 0
+JLIDYX_30510	inside	1	45				
+//
+# JLIDYX_8984 Length: 46
+# JLIDYX_8984 Number of predicted TMRs: 0
+JLIDYX_8984	inside	1	46				
+//
+# JLIDYX_24068 Length: 50
+# JLIDYX_24068 Number of predicted TMRs: 0
+JLIDYX_24068	inside	1	50				
+//
+# JLIDYX_34517 Length: 48
+# JLIDYX_34517 Number of predicted TMRs: 0
+JLIDYX_34517	inside	1	48				
+//
+# JLIDYX_60084 Length: 50
+# JLIDYX_60084 Number of predicted TMRs: 0
+JLIDYX_60084	inside	1	50				
+//
+# JLIDYX_119653 Length: 34
+# JLIDYX_119653 Number of predicted TMRs: 0
+JLIDYX_119653	inside	1	34				
+//
+# JLIDYX_131641 Length: 46
+# JLIDYX_131641 Number of predicted TMRs: 0
+JLIDYX_131641	inside	1	46				
+//
+# JLIDYX_34414 Length: 49
+# JLIDYX_34414 Number of predicted TMRs: 0
+JLIDYX_34414	inside	1	49				
+//
+# JLIDYX_4749 Length: 32
+# JLIDYX_4749 Number of predicted TMRs: 0
+JLIDYX_4749	inside	1	32				
+//
+# JLIDYX_145400 Length: 43
+# JLIDYX_145400 Number of predicted TMRs: 0
+JLIDYX_145400	outside	1	43				
+//
+# JLIDYX_123691 Length: 34
+# JLIDYX_123691 Number of predicted TMRs: 0
+JLIDYX_123691	inside	1	34				
+//
+# JLIDYX_31996 Length: 50
+# JLIDYX_31996 Number of predicted TMRs: 0
+JLIDYX_31996	inside	1	50				
+//
+# JLIDYX_99353 Length: 46
+# JLIDYX_99353 Number of predicted TMRs: 0
+JLIDYX_99353	signal	1	34				
+JLIDYX_99353	outside	35	46				
+//
+# JLIDYX_14565 Length: 49
+# JLIDYX_14565 Number of predicted TMRs: 0
+JLIDYX_14565	inside	1	49				
+//
+# JLIDYX_162942 Length: 48
+# JLIDYX_162942 Number of predicted TMRs: 0
+JLIDYX_162942	inside	1	48				
+//
+# JLIDYX_147173 Length: 50
+# JLIDYX_147173 Number of predicted TMRs: 0
+JLIDYX_147173	inside	1	50				
+//
+# JLIDYX_161925 Length: 40
+# JLIDYX_161925 Number of predicted TMRs: 0
+JLIDYX_161925	signal	1	31				
+JLIDYX_161925	outside	32	40				
+//
+# JLIDYX_146768 Length: 40
+# JLIDYX_146768 Number of predicted TMRs: 0
+JLIDYX_146768	signal	1	38				
+JLIDYX_146768	outside	39	40				
+//
+# JLIDYX_147203 Length: 50
+# JLIDYX_147203 Number of predicted TMRs: 0
+JLIDYX_147203	inside	1	50				
+//
+# JLIDYX_104667 Length: 50
+# JLIDYX_104667 Number of predicted TMRs: 0
+JLIDYX_104667	inside	1	50				
+//
+# JLIDYX_165370 Length: 44
+# JLIDYX_165370 Number of predicted TMRs: 0
+JLIDYX_165370	inside	1	44				
+//
+# JLIDYX_64642 Length: 46
+# JLIDYX_64642 Number of predicted TMRs: 0
+JLIDYX_64642	inside	1	46				
+//
+# JLIDYX_136277 Length: 45
+# JLIDYX_136277 Number of predicted TMRs: 0
+JLIDYX_136277	inside	1	45				
+//
+# JLIDYX_134498 Length: 45
+# JLIDYX_134498 Number of predicted TMRs: 0
+JLIDYX_134498	inside	1	45				
+//
+# JLIDYX_169083 Length: 46
+# JLIDYX_169083 Number of predicted TMRs: 0
+JLIDYX_169083	signal	1	17				
+JLIDYX_169083	outside	18	46				
+//
+# JLIDYX_142593 Length: 50
+# JLIDYX_142593 Number of predicted TMRs: 0
+JLIDYX_142593	inside	1	50				
+//
+# JLIDYX_147223 Length: 48
+# JLIDYX_147223 Number of predicted TMRs: 0
+JLIDYX_147223	signal	1	26				
+JLIDYX_147223	outside	27	48				
+//
+# JLIDYX_9111 Length: 45
+# JLIDYX_9111 Number of predicted TMRs: 0
+JLIDYX_9111	signal	1	34				
+JLIDYX_9111	outside	35	45				
+//
+# JLIDYX_14247 Length: 27
+# JLIDYX_14247 Number of predicted TMRs: 0
+JLIDYX_14247	inside	1	27				
+//
+# JLIDYX_18820 Length: 46
+# JLIDYX_18820 Number of predicted TMRs: 0
+JLIDYX_18820	signal	1	35				
+JLIDYX_18820	outside	36	46				
+//
+# JLIDYX_131781 Length: 43
+# JLIDYX_131781 Number of predicted TMRs: 0
+JLIDYX_131781	inside	1	43				
+//
+# JLIDYX_51104 Length: 49
+# JLIDYX_51104 Number of predicted TMRs: 0
+JLIDYX_51104	inside	1	49				
+//
+# JLIDYX_97595 Length: 40
+# JLIDYX_97595 Number of predicted TMRs: 0
+JLIDYX_97595	signal	1	20				
+JLIDYX_97595	outside	21	40				
+//
+# JLIDYX_29817 Length: 47
+# JLIDYX_29817 Number of predicted TMRs: 0
+JLIDYX_29817	inside	1	47				
+//
+# JLIDYX_18998 Length: 38
+# JLIDYX_18998 Number of predicted TMRs: 0
+JLIDYX_18998	signal	1	35				
+JLIDYX_18998	outside	36	38				
+//
+# JLIDYX_45715 Length: 47
+# JLIDYX_45715 Number of predicted TMRs: 0
+JLIDYX_45715	inside	1	47				
+//
+# JLIDYX_123365 Length: 49
+# JLIDYX_123365 Number of predicted TMRs: 0
+JLIDYX_123365	inside	1	49				
+//
+# JLIDYX_82470 Length: 45
+# JLIDYX_82470 Number of predicted TMRs: 0
+JLIDYX_82470	inside	1	45				
+//
+# JLIDYX_138494 Length: 46
+# JLIDYX_138494 Number of predicted TMRs: 0
+JLIDYX_138494	inside	1	46				
+//
+# JLIDYX_133937 Length: 43
+# JLIDYX_133937 Number of predicted TMRs: 0
+JLIDYX_133937	inside	1	43				
+//
+# JLIDYX_2331 Length: 50
+# JLIDYX_2331 Number of predicted TMRs: 0
+JLIDYX_2331	inside	1	50				
+//
+# JLIDYX_44947 Length: 49
+# JLIDYX_44947 Number of predicted TMRs: 0
+JLIDYX_44947	inside	1	49				
+//
+# JLIDYX_9190 Length: 50
+# JLIDYX_9190 Number of predicted TMRs: 0
+JLIDYX_9190	inside	1	50				
+//
+# JLIDYX_15346 Length: 47
+# JLIDYX_15346 Number of predicted TMRs: 0
+JLIDYX_15346	signal	1	12				
+JLIDYX_15346	outside	13	47				
+//
+# JLIDYX_52425 Length: 39
+# JLIDYX_52425 Number of predicted TMRs: 0
+JLIDYX_52425	inside	1	39				
+//
+# JLIDYX_42506 Length: 36
+# JLIDYX_42506 Number of predicted TMRs: 0
+JLIDYX_42506	signal	1	33				
+JLIDYX_42506	outside	34	36				
+//
+# JLIDYX_27126 Length: 48
+# JLIDYX_27126 Number of predicted TMRs: 0
+JLIDYX_27126	inside	1	48				
+//
+# JLIDYX_116585 Length: 49
+# JLIDYX_116585 Number of predicted TMRs: 0
+JLIDYX_116585	signal	1	47				
+JLIDYX_116585	outside	48	49				
+//
+# JLIDYX_42861 Length: 48
+# JLIDYX_42861 Number of predicted TMRs: 0
+JLIDYX_42861	inside	1	48				
+//
+# JLIDYX_41990 Length: 42
+# JLIDYX_41990 Number of predicted TMRs: 0
+JLIDYX_41990	signal	1	18				
+JLIDYX_41990	outside	19	42				
+//
+# JLIDYX_70923 Length: 39
+# JLIDYX_70923 Number of predicted TMRs: 0
+JLIDYX_70923	inside	1	39				
+//
+# JLIDYX_141963 Length: 39
+# JLIDYX_141963 Number of predicted TMRs: 0
+JLIDYX_141963	inside	1	39				
+//
+# JLIDYX_78473 Length: 31
+# JLIDYX_78473 Number of predicted TMRs: 0
+JLIDYX_78473	inside	1	31				
+//
+# JLIDYX_164234 Length: 32
+# JLIDYX_164234 Number of predicted TMRs: 0
+JLIDYX_164234	inside	1	32				
+//
+# JLIDYX_142482 Length: 50
+# JLIDYX_142482 Number of predicted TMRs: 0
+JLIDYX_142482	inside	1	50				
+//
+# JLIDYX_89841 Length: 50
+# JLIDYX_89841 Number of predicted TMRs: 0
+JLIDYX_89841	inside	1	50				
+//
+# JLIDYX_86270 Length: 41
+# JLIDYX_86270 Number of predicted TMRs: 0
+JLIDYX_86270	inside	1	41				
+//
+# JLIDYX_157104 Length: 40
+# JLIDYX_157104 Number of predicted TMRs: 0
+JLIDYX_157104	inside	1	40				
+//
+# JLIDYX_141738 Length: 35
+# JLIDYX_141738 Number of predicted TMRs: 0
+JLIDYX_141738	signal	1	31				
+JLIDYX_141738	outside	32	35				
+//
+# JLIDYX_151006 Length: 44
+# JLIDYX_151006 Number of predicted TMRs: 0
+JLIDYX_151006	inside	1	44				
+//
+# JLIDYX_34012 Length: 35
+# JLIDYX_34012 Number of predicted TMRs: 0
+JLIDYX_34012	inside	1	35				
+//
+# JLIDYX_141542 Length: 49
+# JLIDYX_141542 Number of predicted TMRs: 0
+JLIDYX_141542	inside	1	49				
+//
+# JLIDYX_45505 Length: 42
+# JLIDYX_45505 Number of predicted TMRs: 0
+JLIDYX_45505	signal	1	10				
+JLIDYX_45505	outside	11	42				
+//
+# JLIDYX_79604 Length: 50
+# JLIDYX_79604 Number of predicted TMRs: 0
+JLIDYX_79604	signal	1	49				
+JLIDYX_79604	outside	50	50				
+//
+# JLIDYX_109013 Length: 43
+# JLIDYX_109013 Number of predicted TMRs: 0
+JLIDYX_109013	inside	1	43				
+//
+# JLIDYX_126187 Length: 50
+# JLIDYX_126187 Number of predicted TMRs: 0
+JLIDYX_126187	inside	1	50				
+//
+# JLIDYX_3208 Length: 32
+# JLIDYX_3208 Number of predicted TMRs: 0
+JLIDYX_3208	signal	1	25				
+JLIDYX_3208	outside	26	32				
+//
+# JLIDYX_148677 Length: 40
+# JLIDYX_148677 Number of predicted TMRs: 0
+JLIDYX_148677	inside	1	40				
+//
+# JLIDYX_106055 Length: 46
+# JLIDYX_106055 Number of predicted TMRs: 0
+JLIDYX_106055	inside	1	46				
+//
+# JLIDYX_81472 Length: 40
+# JLIDYX_81472 Number of predicted TMRs: 0
+JLIDYX_81472	outside	1	40				
+//
+# JLIDYX_81238 Length: 41
+# JLIDYX_81238 Number of predicted TMRs: 0
+JLIDYX_81238	inside	1	41				
+//
+# JLIDYX_11095 Length: 43
+# JLIDYX_11095 Number of predicted TMRs: 0
+JLIDYX_11095	inside	1	43				
+//
+# JLIDYX_19702 Length: 49
+# JLIDYX_19702 Number of predicted TMRs: 0
+JLIDYX_19702	inside	1	49				
+//
+# JLIDYX_41217 Length: 49
+# JLIDYX_41217 Number of predicted TMRs: 0
+JLIDYX_41217	inside	1	49				
+//
+# JLIDYX_145830 Length: 35
+# JLIDYX_145830 Number of predicted TMRs: 0
+JLIDYX_145830	inside	1	35				
+//
+# JLIDYX_65431 Length: 41
+# JLIDYX_65431 Number of predicted TMRs: 0
+JLIDYX_65431	signal	1	20				
+JLIDYX_65431	outside	21	41				
+//
+# JLIDYX_6293 Length: 48
+# JLIDYX_6293 Number of predicted TMRs: 0
+JLIDYX_6293	signal	1	19				
+JLIDYX_6293	outside	20	48				
+//
+# JLIDYX_125528 Length: 41
+# JLIDYX_125528 Number of predicted TMRs: 0
+JLIDYX_125528	signal	1	39				
+JLIDYX_125528	outside	40	41				
+//
+# JLIDYX_119139 Length: 49
+# JLIDYX_119139 Number of predicted TMRs: 1
+JLIDYX_119139	signal	1	11				
+JLIDYX_119139	outside	12	12				
+JLIDYX_119139	TMhelix	13	23				
+JLIDYX_119139	inside	24	49				
+//
+# JLIDYX_133102 Length: 47
+# JLIDYX_133102 Number of predicted TMRs: 0
+JLIDYX_133102	signal	1	46				
+JLIDYX_133102	outside	47	47				
+//
+# JLIDYX_126611 Length: 39
+# JLIDYX_126611 Number of predicted TMRs: 0
+JLIDYX_126611	inside	1	39				
+//
+# JLIDYX_164784 Length: 47
+# JLIDYX_164784 Number of predicted TMRs: 0
+JLIDYX_164784	inside	1	47				
+//
+# JLIDYX_86425 Length: 47
+# JLIDYX_86425 Number of predicted TMRs: 0
+JLIDYX_86425	inside	1	47				
+//
+# JLIDYX_25969 Length: 32
+# JLIDYX_25969 Number of predicted TMRs: 0
+JLIDYX_25969	inside	1	32				
+//
+# JLIDYX_170565 Length: 42
+# JLIDYX_170565 Number of predicted TMRs: 0
+JLIDYX_170565	signal	1	41				
+JLIDYX_170565	outside	42	42				
+//
+# JLIDYX_144211 Length: 35
+# JLIDYX_144211 Number of predicted TMRs: 0
+JLIDYX_144211	signal	1	12				
+JLIDYX_144211	outside	13	35				
+//
+# JLIDYX_22497 Length: 48
+# JLIDYX_22497 Number of predicted TMRs: 0
+JLIDYX_22497	signal	1	10				
+JLIDYX_22497	outside	11	48				
+//
+# JLIDYX_31727 Length: 43
+# JLIDYX_31727 Number of predicted TMRs: 0
+JLIDYX_31727	inside	1	43				
+//
+# JLIDYX_49481 Length: 39
+# JLIDYX_49481 Number of predicted TMRs: 0
+JLIDYX_49481	inside	1	39				
+//
+# JLIDYX_169362 Length: 39
+# JLIDYX_169362 Number of predicted TMRs: 0
+JLIDYX_169362	inside	1	39				
+//
+# JLIDYX_113480 Length: 45
+# JLIDYX_113480 Number of predicted TMRs: 0
+JLIDYX_113480	signal	1	40				
+JLIDYX_113480	outside	41	45				
+//
+# JLIDYX_92907 Length: 49
+# JLIDYX_92907 Number of predicted TMRs: 0
+JLIDYX_92907	inside	1	49				
+//
+# JLIDYX_154022 Length: 29
+# JLIDYX_154022 Number of predicted TMRs: 0
+JLIDYX_154022	inside	1	29				
+//
+# JLIDYX_89488 Length: 36
+# JLIDYX_89488 Number of predicted TMRs: 0
+JLIDYX_89488	signal	1	34				
+JLIDYX_89488	outside	35	36				
+//
+# JLIDYX_22441 Length: 38
+# JLIDYX_22441 Number of predicted TMRs: 0
+JLIDYX_22441	signal	1	15				
+JLIDYX_22441	outside	16	38				
+//
+# JLIDYX_56913 Length: 48
+# JLIDYX_56913 Number of predicted TMRs: 0
+JLIDYX_56913	inside	1	48				
+//
+# JLIDYX_110567 Length: 40
+# JLIDYX_110567 Number of predicted TMRs: 0
+JLIDYX_110567	signal	1	38				
+JLIDYX_110567	outside	39	40				
+//
+# JLIDYX_26454 Length: 49
+# JLIDYX_26454 Number of predicted TMRs: 0
+JLIDYX_26454	signal	1	12				
+JLIDYX_26454	outside	13	49				
+//
+# JLIDYX_9421 Length: 41
+# JLIDYX_9421 Number of predicted TMRs: 0
+JLIDYX_9421	signal	1	40				
+JLIDYX_9421	outside	41	41				
+//
+# JLIDYX_9416 Length: 50
+# JLIDYX_9416 Number of predicted TMRs: 0
+JLIDYX_9416	inside	1	50				
+//
+# JLIDYX_152830 Length: 34
+# JLIDYX_152830 Number of predicted TMRs: 0
+JLIDYX_152830	inside	1	34				
+//
+# JLIDYX_166096 Length: 43
+# JLIDYX_166096 Number of predicted TMRs: 0
+JLIDYX_166096	inside	1	43				
+//
+# JLIDYX_165942 Length: 49
+# JLIDYX_165942 Number of predicted TMRs: 0
+JLIDYX_165942	signal	1	23				
+JLIDYX_165942	outside	24	49				
+//
+# JLIDYX_164240 Length: 50
+# JLIDYX_164240 Number of predicted TMRs: 0
+JLIDYX_164240	signal	1	49				
+JLIDYX_164240	outside	50	50				
+//
+# JLIDYX_145118 Length: 49
+# JLIDYX_145118 Number of predicted TMRs: 0
+JLIDYX_145118	signal	1	48				
+JLIDYX_145118	outside	49	49				
+//
+# JLIDYX_124411 Length: 43
+# JLIDYX_124411 Number of predicted TMRs: 0
+JLIDYX_124411	inside	1	43				
+//
+# JLIDYX_15113 Length: 47
+# JLIDYX_15113 Number of predicted TMRs: 0
+JLIDYX_15113	inside	1	47				
+//
+# JLIDYX_169174 Length: 40
+# JLIDYX_169174 Number of predicted TMRs: 0
+JLIDYX_169174	signal	1	38				
+JLIDYX_169174	outside	39	40				
+//
+# JLIDYX_102364 Length: 47
+# JLIDYX_102364 Number of predicted TMRs: 0
+JLIDYX_102364	inside	1	47				
+//
+# JLIDYX_95965 Length: 46
+# JLIDYX_95965 Number of predicted TMRs: 0
+JLIDYX_95965	signal	1	44				
+JLIDYX_95965	outside	45	46				
+//
+# JLIDYX_18073 Length: 50
+# JLIDYX_18073 Number of predicted TMRs: 0
+JLIDYX_18073	inside	1	50				
+//
+# JLIDYX_171231 Length: 48
+# JLIDYX_171231 Number of predicted TMRs: 0
+JLIDYX_171231	outside	1	48				
+//
+# JLIDYX_162560 Length: 48
+# JLIDYX_162560 Number of predicted TMRs: 0
+JLIDYX_162560	inside	1	48				
+//
+# JLIDYX_64654 Length: 50
+# JLIDYX_64654 Number of predicted TMRs: 0
+JLIDYX_64654	inside	1	50				
+//
+# JLIDYX_25383 Length: 46
+# JLIDYX_25383 Number of predicted TMRs: 0
+JLIDYX_25383	inside	1	46				
+//
+# JLIDYX_37348 Length: 47
+# JLIDYX_37348 Number of predicted TMRs: 0
+JLIDYX_37348	inside	1	47				
+//
+# JLIDYX_15640 Length: 47
+# JLIDYX_15640 Number of predicted TMRs: 0
+JLIDYX_15640	inside	1	47				
+//
+# JLIDYX_47722 Length: 50
+# JLIDYX_47722 Number of predicted TMRs: 0
+JLIDYX_47722	signal	1	42				
+JLIDYX_47722	outside	43	50				
+//
+# JLIDYX_91548 Length: 50
+# JLIDYX_91548 Number of predicted TMRs: 0
+JLIDYX_91548	signal	1	42				
+JLIDYX_91548	outside	43	50				
+//
+# JLIDYX_133178 Length: 41
+# JLIDYX_133178 Number of predicted TMRs: 0
+JLIDYX_133178	inside	1	41				
+//
+# JLIDYX_147598 Length: 41
+# JLIDYX_147598 Number of predicted TMRs: 0
+JLIDYX_147598	inside	1	41				
+//
+# JLIDYX_5900 Length: 40
+# JLIDYX_5900 Number of predicted TMRs: 0
+JLIDYX_5900	inside	1	40				
+//
+# JLIDYX_25829 Length: 41
+# JLIDYX_25829 Number of predicted TMRs: 0
+JLIDYX_25829	signal	1	26				
+JLIDYX_25829	outside	27	41				
+//
+# JLIDYX_55078 Length: 43
+# JLIDYX_55078 Number of predicted TMRs: 0
+JLIDYX_55078	signal	1	14				
+JLIDYX_55078	outside	15	43				
+//
+# JLIDYX_104350 Length: 48
+# JLIDYX_104350 Number of predicted TMRs: 0
+JLIDYX_104350	signal	1	35				
+JLIDYX_104350	outside	36	48				
+//
+# JLIDYX_105426 Length: 41
+# JLIDYX_105426 Number of predicted TMRs: 0
+JLIDYX_105426	signal	1	25				
+JLIDYX_105426	outside	26	41				
+//
+# JLIDYX_67666 Length: 45
+# JLIDYX_67666 Number of predicted TMRs: 0
+JLIDYX_67666	signal	1	10				
+JLIDYX_67666	outside	11	45				
+//
+# JLIDYX_28178 Length: 49
+# JLIDYX_28178 Number of predicted TMRs: 0
+JLIDYX_28178	inside	1	49				
+//
+# JLIDYX_121582 Length: 44
+# JLIDYX_121582 Number of predicted TMRs: 0
+JLIDYX_121582	signal	1	40				
+JLIDYX_121582	outside	41	44				
+//
+# JLIDYX_35196 Length: 47
+# JLIDYX_35196 Number of predicted TMRs: 0
+JLIDYX_35196	signal	1	45				
+JLIDYX_35196	periplasm	46	47				
+//
+# JLIDYX_122168 Length: 49
+# JLIDYX_122168 Number of predicted TMRs: 0
+JLIDYX_122168	inside	1	49				
+//
+# JLIDYX_139117 Length: 40
+# JLIDYX_139117 Number of predicted TMRs: 0
+JLIDYX_139117	signal	1	39				
+JLIDYX_139117	outside	40	40				
+//
+# JLIDYX_30679 Length: 49
+# JLIDYX_30679 Number of predicted TMRs: 0
+JLIDYX_30679	signal	1	18				
+JLIDYX_30679	outside	19	49				
+//
+# JLIDYX_30685 Length: 46
+# JLIDYX_30685 Number of predicted TMRs: 0
+JLIDYX_30685	signal	1	45				
+JLIDYX_30685	outside	46	46				
+//
+# JLIDYX_119572 Length: 49
+# JLIDYX_119572 Number of predicted TMRs: 0
+JLIDYX_119572	inside	1	49				
+//
+# JLIDYX_11335 Length: 47
+# JLIDYX_11335 Number of predicted TMRs: 0
+JLIDYX_11335	inside	1	47				
+//
+# JLIDYX_161536 Length: 44
+# JLIDYX_161536 Number of predicted TMRs: 0
+JLIDYX_161536	inside	1	44				
+//
+# JLIDYX_8750 Length: 45
+# JLIDYX_8750 Number of predicted TMRs: 0
+JLIDYX_8750	signal	1	15				
+JLIDYX_8750	outside	16	45				
+//
+# JLIDYX_51562 Length: 47
+# JLIDYX_51562 Number of predicted TMRs: 0
+JLIDYX_51562	inside	1	47				
+//
+# JLIDYX_41546 Length: 33
+# JLIDYX_41546 Number of predicted TMRs: 0
+JLIDYX_41546	inside	1	33				
+//
+# JLIDYX_44093 Length: 46
+# JLIDYX_44093 Number of predicted TMRs: 0
+JLIDYX_44093	inside	1	46				
+//
+# JLIDYX_89951 Length: 48
+# JLIDYX_89951 Number of predicted TMRs: 0
+JLIDYX_89951	inside	1	48				
+//
+# JLIDYX_83919 Length: 40
+# JLIDYX_83919 Number of predicted TMRs: 0
+JLIDYX_83919	signal	1	17				
+JLIDYX_83919	outside	18	40				
+//
+# JLIDYX_34518 Length: 45
+# JLIDYX_34518 Number of predicted TMRs: 0
+JLIDYX_34518	inside	1	45				
+//
+# JLIDYX_116699 Length: 47
+# JLIDYX_116699 Number of predicted TMRs: 0
+JLIDYX_116699	inside	1	47				
+//
+# JLIDYX_115371 Length: 30
+# JLIDYX_115371 Number of predicted TMRs: 0
+JLIDYX_115371	signal	1	22				
+JLIDYX_115371	outside	23	30				
+//
+# JLIDYX_112231 Length: 43
+# JLIDYX_112231 Number of predicted TMRs: 0
+JLIDYX_112231	signal	1	16				
+JLIDYX_112231	outside	17	43				
+//
+# JLIDYX_150440 Length: 47
+# JLIDYX_150440 Number of predicted TMRs: 0
+JLIDYX_150440	inside	1	47				
+//
+# JLIDYX_94775 Length: 46
+# JLIDYX_94775 Number of predicted TMRs: 0
+JLIDYX_94775	inside	1	46				
+//
+# JLIDYX_99662 Length: 48
+# JLIDYX_99662 Number of predicted TMRs: 0
+JLIDYX_99662	inside	1	48				
+//
+# JLIDYX_5670 Length: 44
+# JLIDYX_5670 Number of predicted TMRs: 0
+JLIDYX_5670	inside	1	44				
+//
+# JLIDYX_10048 Length: 43
+# JLIDYX_10048 Number of predicted TMRs: 0
+JLIDYX_10048	inside	1	43				
+//
+# JLIDYX_29023 Length: 42
+# JLIDYX_29023 Number of predicted TMRs: 0
+JLIDYX_29023	inside	1	42				
+//
+# JLIDYX_90442 Length: 48
+# JLIDYX_90442 Number of predicted TMRs: 0
+JLIDYX_90442	inside	1	48				
+//
+# JLIDYX_150986 Length: 49
+# JLIDYX_150986 Number of predicted TMRs: 0
+JLIDYX_150986	inside	1	49				
+//
+# JLIDYX_102735 Length: 41
+# JLIDYX_102735 Number of predicted TMRs: 0
+JLIDYX_102735	outside	1	41				
+//
+# JLIDYX_133631 Length: 40
+# JLIDYX_133631 Number of predicted TMRs: 0
+JLIDYX_133631	inside	1	40				
+//
+# JLIDYX_127506 Length: 49
+# JLIDYX_127506 Number of predicted TMRs: 0
+JLIDYX_127506	outside	1	49				
+//
+# JLIDYX_129468 Length: 49
+# JLIDYX_129468 Number of predicted TMRs: 0
+JLIDYX_129468	outside	1	49				
+//
+# JLIDYX_69320 Length: 38
+# JLIDYX_69320 Number of predicted TMRs: 0
+JLIDYX_69320	signal	1	22				
+JLIDYX_69320	outside	23	38				
+//
+# JLIDYX_2652 Length: 42
+# JLIDYX_2652 Number of predicted TMRs: 0
+JLIDYX_2652	signal	1	22				
+JLIDYX_2652	outside	23	42				
+//
+# JLIDYX_48890 Length: 34
+# JLIDYX_48890 Number of predicted TMRs: 0
+JLIDYX_48890	inside	1	34				
+//
+# JLIDYX_81564 Length: 47
+# JLIDYX_81564 Number of predicted TMRs: 0
+JLIDYX_81564	inside	1	47				
+//
+# JLIDYX_47296 Length: 50
+# JLIDYX_47296 Number of predicted TMRs: 0
+JLIDYX_47296	inside	1	50				
+//
+# JLIDYX_146582 Length: 49
+# JLIDYX_146582 Number of predicted TMRs: 0
+JLIDYX_146582	inside	1	49				
+//
+# JLIDYX_160443 Length: 48
+# JLIDYX_160443 Number of predicted TMRs: 0
+JLIDYX_160443	inside	1	48				
+//
+# JLIDYX_88360 Length: 46
+# JLIDYX_88360 Number of predicted TMRs: 0
+JLIDYX_88360	inside	1	46				
+//
+# JLIDYX_139358 Length: 42
+# JLIDYX_139358 Number of predicted TMRs: 0
+JLIDYX_139358	inside	1	42				
+//
+# JLIDYX_68234 Length: 45
+# JLIDYX_68234 Number of predicted TMRs: 0
+JLIDYX_68234	signal	1	22				
+JLIDYX_68234	outside	23	45				
+//
+# JLIDYX_130884 Length: 47
+# JLIDYX_130884 Number of predicted TMRs: 0
+JLIDYX_130884	inside	1	47				
+//
+# JLIDYX_91530 Length: 42
+# JLIDYX_91530 Number of predicted TMRs: 0
+JLIDYX_91530	inside	1	42				
+//
+# JLIDYX_130353 Length: 47
+# JLIDYX_130353 Number of predicted TMRs: 0
+JLIDYX_130353	signal	1	14				
+JLIDYX_130353	outside	15	47				
+//
+# JLIDYX_2484 Length: 50
+# JLIDYX_2484 Number of predicted TMRs: 0
+JLIDYX_2484	inside	1	50				
+//
+# JLIDYX_126843 Length: 37
+# JLIDYX_126843 Number of predicted TMRs: 0
+JLIDYX_126843	signal	1	32				
+JLIDYX_126843	outside	33	37				
+//
+# JLIDYX_136758 Length: 50
+# JLIDYX_136758 Number of predicted TMRs: 0
+JLIDYX_136758	inside	1	50				
+//
+# JLIDYX_138039 Length: 50
+# JLIDYX_138039 Number of predicted TMRs: 0
+JLIDYX_138039	inside	1	50				
+//
+# JLIDYX_129927 Length: 46
+# JLIDYX_129927 Number of predicted TMRs: 0
+JLIDYX_129927	inside	1	46				
+//
+# JLIDYX_85431 Length: 36
+# JLIDYX_85431 Number of predicted TMRs: 0
+JLIDYX_85431	signal	1	14				
+JLIDYX_85431	outside	15	36				
+//
+# JLIDYX_93667 Length: 49
+# JLIDYX_93667 Number of predicted TMRs: 0
+JLIDYX_93667	inside	1	49				
+//
+# JLIDYX_134505 Length: 45
+# JLIDYX_134505 Number of predicted TMRs: 0
+JLIDYX_134505	signal	1	15				
+JLIDYX_134505	outside	16	45				
+//
+# JLIDYX_20930 Length: 46
+# JLIDYX_20930 Number of predicted TMRs: 0
+JLIDYX_20930	inside	1	46				
+//
+# JLIDYX_23815 Length: 35
+# JLIDYX_23815 Number of predicted TMRs: 0
+JLIDYX_23815	signal	1	10				
+JLIDYX_23815	outside	11	35				
+//
+# JLIDYX_104603 Length: 46
+# JLIDYX_104603 Number of predicted TMRs: 0
+JLIDYX_104603	inside	1	46				
+//
+# JLIDYX_147850 Length: 41
+# JLIDYX_147850 Number of predicted TMRs: 0
+JLIDYX_147850	signal	1	27				
+JLIDYX_147850	outside	28	41				
+//
+# JLIDYX_127624 Length: 32
+# JLIDYX_127624 Number of predicted TMRs: 0
+JLIDYX_127624	signal	1	29				
+JLIDYX_127624	outside	30	32				
+//
+# JLIDYX_165929 Length: 46
+# JLIDYX_165929 Number of predicted TMRs: 0
+JLIDYX_165929	inside	1	46				
+//
+# JLIDYX_130521 Length: 35
+# JLIDYX_130521 Number of predicted TMRs: 0
+JLIDYX_130521	signal	1	32				
+JLIDYX_130521	outside	33	35				
+//
+# JLIDYX_115274 Length: 47
+# JLIDYX_115274 Number of predicted TMRs: 0
+JLIDYX_115274	inside	1	47				
+//
+# JLIDYX_64927 Length: 49
+# JLIDYX_64927 Number of predicted TMRs: 0
+JLIDYX_64927	inside	1	49				
+//
+# JLIDYX_79493 Length: 38
+# JLIDYX_79493 Number of predicted TMRs: 0
+JLIDYX_79493	signal	1	21				
+JLIDYX_79493	outside	22	38				
+//
+# JLIDYX_6192 Length: 40
+# JLIDYX_6192 Number of predicted TMRs: 0
+JLIDYX_6192	inside	1	40				
+//
+# JLIDYX_35108 Length: 44
+# JLIDYX_35108 Number of predicted TMRs: 0
+JLIDYX_35108	signal	1	10				
+JLIDYX_35108	outside	11	44				
+//
+# JLIDYX_29731 Length: 39
+# JLIDYX_29731 Number of predicted TMRs: 0
+JLIDYX_29731	inside	1	39				
+//
+# JLIDYX_4599 Length: 49
+# JLIDYX_4599 Number of predicted TMRs: 0
+JLIDYX_4599	signal	1	33				
+JLIDYX_4599	outside	34	49				
+//
+# JLIDYX_44247 Length: 37
+# JLIDYX_44247 Number of predicted TMRs: 0
+JLIDYX_44247	signal	1	24				
+JLIDYX_44247	outside	25	37				
+//
+# JLIDYX_75604 Length: 46
+# JLIDYX_75604 Number of predicted TMRs: 0
+JLIDYX_75604	outside	1	46				
+//
+# JLIDYX_129386 Length: 50
+# JLIDYX_129386 Number of predicted TMRs: 0
+JLIDYX_129386	signal	1	15				
+JLIDYX_129386	outside	16	50				
+//
+# JLIDYX_14231 Length: 49
+# JLIDYX_14231 Number of predicted TMRs: 0
+JLIDYX_14231	signal	1	47				
+JLIDYX_14231	outside	48	49				
+//
+# JLIDYX_95620 Length: 47
+# JLIDYX_95620 Number of predicted TMRs: 0
+JLIDYX_95620	inside	1	47				
+//
+# JLIDYX_33294 Length: 42
+# JLIDYX_33294 Number of predicted TMRs: 0
+JLIDYX_33294	signal	1	41				
+JLIDYX_33294	outside	42	42				
+//
+# JLIDYX_93348 Length: 42
+# JLIDYX_93348 Number of predicted TMRs: 0
+JLIDYX_93348	signal	1	27				
+JLIDYX_93348	outside	28	42				
+//
+# JLIDYX_138841 Length: 42
+# JLIDYX_138841 Number of predicted TMRs: 0
+JLIDYX_138841	signal	1	16				
+JLIDYX_138841	outside	17	42				
+//
+# JLIDYX_104167 Length: 49
+# JLIDYX_104167 Number of predicted TMRs: 0
+JLIDYX_104167	inside	1	49				
+//
+# JLIDYX_165404 Length: 49
+# JLIDYX_165404 Number of predicted TMRs: 0
+JLIDYX_165404	signal	1	10				
+JLIDYX_165404	outside	11	49				
+//
+# JLIDYX_54075 Length: 49
+# JLIDYX_54075 Number of predicted TMRs: 0
+JLIDYX_54075	inside	1	49				
+//
+# JLIDYX_143700 Length: 48
+# JLIDYX_143700 Number of predicted TMRs: 0
+JLIDYX_143700	outside	1	48				
+//
+# JLIDYX_167769 Length: 45
+# JLIDYX_167769 Number of predicted TMRs: 0
+JLIDYX_167769	inside	1	45				
+//
+# JLIDYX_98164 Length: 46
+# JLIDYX_98164 Number of predicted TMRs: 0
+JLIDYX_98164	inside	1	46				
+//
+# JLIDYX_96232 Length: 37
+# JLIDYX_96232 Number of predicted TMRs: 0
+JLIDYX_96232	signal	1	33				
+JLIDYX_96232	outside	34	37				
+//
+# JLIDYX_87100 Length: 48
+# JLIDYX_87100 Number of predicted TMRs: 0
+JLIDYX_87100	inside	1	48				
+//
+# JLIDYX_12063 Length: 46
+# JLIDYX_12063 Number of predicted TMRs: 0
+JLIDYX_12063	signal	1	41				
+JLIDYX_12063	outside	42	46				
+//
+# JLIDYX_150589 Length: 42
+# JLIDYX_150589 Number of predicted TMRs: 0
+JLIDYX_150589	signal	1	28				
+JLIDYX_150589	outside	29	42				
+//
+# JLIDYX_141338 Length: 46
+# JLIDYX_141338 Number of predicted TMRs: 0
+JLIDYX_141338	inside	1	46				
+//
+# JLIDYX_60992 Length: 48
+# JLIDYX_60992 Number of predicted TMRs: 0
+JLIDYX_60992	outside	1	48				
+//
+# JLIDYX_1052 Length: 42
+# JLIDYX_1052 Number of predicted TMRs: 0
+JLIDYX_1052	inside	1	42				
+//
+# JLIDYX_57460 Length: 41
+# JLIDYX_57460 Number of predicted TMRs: 0
+JLIDYX_57460	inside	1	41				
+//
+# JLIDYX_145732 Length: 47
+# JLIDYX_145732 Number of predicted TMRs: 0
+JLIDYX_145732	signal	1	46				
+JLIDYX_145732	outside	47	47				
+//
+# JLIDYX_92002 Length: 50
+# JLIDYX_92002 Number of predicted TMRs: 0
+JLIDYX_92002	signal	1	31				
+JLIDYX_92002	outside	32	50				
+//
+# JLIDYX_132403 Length: 49
+# JLIDYX_132403 Number of predicted TMRs: 0
+JLIDYX_132403	signal	1	44				
+JLIDYX_132403	outside	45	49				
+//
+# JLIDYX_45757 Length: 49
+# JLIDYX_45757 Number of predicted TMRs: 0
+JLIDYX_45757	inside	1	49				
+//
+# JLIDYX_82316 Length: 45
+# JLIDYX_82316 Number of predicted TMRs: 0
+JLIDYX_82316	inside	1	45				
+//
+# JLIDYX_13591 Length: 47
+# JLIDYX_13591 Number of predicted TMRs: 0
+JLIDYX_13591	signal	1	13				
+JLIDYX_13591	outside	14	47				
+//
+# JLIDYX_66833 Length: 45
+# JLIDYX_66833 Number of predicted TMRs: 0
+JLIDYX_66833	inside	1	45				
+//
+# JLIDYX_4158 Length: 49
+# JLIDYX_4158 Number of predicted TMRs: 0
+JLIDYX_4158	inside	1	49				
+//
+# JLIDYX_139199 Length: 49
+# JLIDYX_139199 Number of predicted TMRs: 0
+JLIDYX_139199	signal	1	12				
+JLIDYX_139199	outside	13	49				
+//
+# JLIDYX_52809 Length: 45
+# JLIDYX_52809 Number of predicted TMRs: 0
+JLIDYX_52809	inside	1	45				

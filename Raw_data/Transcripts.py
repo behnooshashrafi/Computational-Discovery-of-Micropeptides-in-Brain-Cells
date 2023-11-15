@@ -1,7 +1,7 @@
 import fileinput
 import string
 from json.tool import main
-
+# This is the first step after we get our whole data. We need to rewrite the header in a more comprehensive way. we will use the headers from the gtf file to add data to the headers.
 
 def identifier (string):
     p = line[-1].split(";")
@@ -46,25 +46,25 @@ def identifier (string):
         }
     return identifier
 def write_header(dictionary, seq):
-    f = open("modified.fa", "a")
+    f = open("AS_P_E1_header.fa", "a")
     f.write(">")
     for key, value in dictionary.items():
-        f.write(key+": "+value+"; ")
+        f.write(value+";")
     f.write("\n")
     f.write(seq)
     f.write("\n")
     f.close()
 
 
-with open("AC_Ctr1_chr21.gtf", 'r') as f:
+with open("AS_P_E1.gtf", 'r') as f:
     raw_f = f.read()
 header = raw_f.split("\n")
-with open("chr21.fa.out", 'r') as g:
+with open("AS_P_E1.fa.out", 'r') as g:
     raw_g = g.read()
 seq = raw_g.split("\n")
 
 flag = False
-for i in range(len(header)-1):
+for i in range(2, len(header)-1):
     line = header[i].split("\t")
     head = identifier(line)
     if line[2] == "transcript":
@@ -77,8 +77,8 @@ for i in range(len(header)-1):
             temp = ""
             transcript_head = head
     elif line[2] == "exon":
-        write_header(head, seq[(2*i)+1])
+        write_header(head, seq[(2*(i-2))+1])
         if flag == True:
-            temp += seq[(2*i)+1]
+            temp += seq[(2*(i-2))+1]
             if i == (len(header)-2):
                 write_header(transcript_head, temp)

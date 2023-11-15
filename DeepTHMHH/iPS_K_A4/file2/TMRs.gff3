@@ -1,0 +1,4343 @@
+##gff-version 3
+# BEZJNX_30132 Length: 35
+# BEZJNX_30132 Number of predicted TMRs: 0
+BEZJNX_30132	inside	1	35				
+//
+# BEZJNX_97756 Length: 45
+# BEZJNX_97756 Number of predicted TMRs: 0
+BEZJNX_97756	inside	1	45				
+//
+# BEZJNX_45750 Length: 44
+# BEZJNX_45750 Number of predicted TMRs: 0
+BEZJNX_45750	signal	1	43				
+BEZJNX_45750	outside	44	44				
+//
+# BEZJNX_140967 Length: 49
+# BEZJNX_140967 Number of predicted TMRs: 0
+BEZJNX_140967	inside	1	49				
+//
+# BEZJNX_134293 Length: 49
+# BEZJNX_134293 Number of predicted TMRs: 0
+BEZJNX_134293	signal	1	40				
+BEZJNX_134293	outside	41	49				
+//
+# BEZJNX_57397 Length: 46
+# BEZJNX_57397 Number of predicted TMRs: 0
+BEZJNX_57397	inside	1	46				
+//
+# BEZJNX_25223 Length: 49
+# BEZJNX_25223 Number of predicted TMRs: 0
+BEZJNX_25223	inside	1	49				
+//
+# BEZJNX_55079 Length: 49
+# BEZJNX_55079 Number of predicted TMRs: 0
+BEZJNX_55079	signal	1	22				
+BEZJNX_55079	outside	23	49				
+//
+# BEZJNX_26810 Length: 50
+# BEZJNX_26810 Number of predicted TMRs: 0
+BEZJNX_26810	inside	1	50				
+//
+# BEZJNX_57618 Length: 43
+# BEZJNX_57618 Number of predicted TMRs: 0
+BEZJNX_57618	inside	1	43				
+//
+# BEZJNX_14684 Length: 47
+# BEZJNX_14684 Number of predicted TMRs: 0
+BEZJNX_14684	inside	1	47				
+//
+# BEZJNX_132834 Length: 46
+# BEZJNX_132834 Number of predicted TMRs: 0
+BEZJNX_132834	inside	1	46				
+//
+# BEZJNX_130412 Length: 48
+# BEZJNX_130412 Number of predicted TMRs: 0
+BEZJNX_130412	inside	1	48				
+//
+# BEZJNX_155831 Length: 47
+# BEZJNX_155831 Number of predicted TMRs: 0
+BEZJNX_155831	signal	1	41				
+BEZJNX_155831	outside	42	47				
+//
+# BEZJNX_55673 Length: 46
+# BEZJNX_55673 Number of predicted TMRs: 1
+BEZJNX_55673	signal	1	10				
+BEZJNX_55673	outside	11	11				
+BEZJNX_55673	TMhelix	12	32				
+BEZJNX_55673	inside	33	46				
+//
+# BEZJNX_100415 Length: 46
+# BEZJNX_100415 Number of predicted TMRs: 0
+BEZJNX_100415	inside	1	46				
+//
+# BEZJNX_59055 Length: 41
+# BEZJNX_59055 Number of predicted TMRs: 0
+BEZJNX_59055	inside	1	41				
+//
+# BEZJNX_18358 Length: 37
+# BEZJNX_18358 Number of predicted TMRs: 0
+BEZJNX_18358	signal	1	34				
+BEZJNX_18358	outside	35	37				
+//
+# BEZJNX_138346 Length: 39
+# BEZJNX_138346 Number of predicted TMRs: 0
+BEZJNX_138346	signal	1	19				
+BEZJNX_138346	outside	20	39				
+//
+# BEZJNX_29484 Length: 32
+# BEZJNX_29484 Number of predicted TMRs: 0
+BEZJNX_29484	signal	1	11				
+BEZJNX_29484	outside	12	32				
+//
+# BEZJNX_166757 Length: 37
+# BEZJNX_166757 Number of predicted TMRs: 0
+BEZJNX_166757	signal	1	11				
+BEZJNX_166757	outside	12	37				
+//
+# BEZJNX_139174 Length: 50
+# BEZJNX_139174 Number of predicted TMRs: 0
+BEZJNX_139174	outside	1	50				
+//
+# BEZJNX_140698 Length: 39
+# BEZJNX_140698 Number of predicted TMRs: 0
+BEZJNX_140698	signal	1	38				
+BEZJNX_140698	outside	39	39				
+//
+# BEZJNX_89765 Length: 42
+# BEZJNX_89765 Number of predicted TMRs: 0
+BEZJNX_89765	inside	1	42				
+//
+# BEZJNX_115940 Length: 44
+# BEZJNX_115940 Number of predicted TMRs: 0
+BEZJNX_115940	signal	1	43				
+BEZJNX_115940	outside	44	44				
+//
+# BEZJNX_102422 Length: 47
+# BEZJNX_102422 Number of predicted TMRs: 0
+BEZJNX_102422	signal	1	46				
+BEZJNX_102422	outside	47	47				
+//
+# BEZJNX_13016 Length: 49
+# BEZJNX_13016 Number of predicted TMRs: 0
+BEZJNX_13016	inside	1	49				
+//
+# BEZJNX_91660 Length: 47
+# BEZJNX_91660 Number of predicted TMRs: 0
+BEZJNX_91660	inside	1	47				
+//
+# BEZJNX_127148 Length: 45
+# BEZJNX_127148 Number of predicted TMRs: 0
+BEZJNX_127148	signal	1	41				
+BEZJNX_127148	outside	42	45				
+//
+# BEZJNX_53638 Length: 47
+# BEZJNX_53638 Number of predicted TMRs: 0
+BEZJNX_53638	signal	1	18				
+BEZJNX_53638	outside	19	47				
+//
+# BEZJNX_18032 Length: 37
+# BEZJNX_18032 Number of predicted TMRs: 0
+BEZJNX_18032	inside	1	37				
+//
+# BEZJNX_103822 Length: 50
+# BEZJNX_103822 Number of predicted TMRs: 0
+BEZJNX_103822	inside	1	50				
+//
+# BEZJNX_164231 Length: 47
+# BEZJNX_164231 Number of predicted TMRs: 0
+BEZJNX_164231	signal	1	14				
+BEZJNX_164231	outside	15	47				
+//
+# BEZJNX_88679 Length: 45
+# BEZJNX_88679 Number of predicted TMRs: 0
+BEZJNX_88679	inside	1	45				
+//
+# BEZJNX_52056 Length: 50
+# BEZJNX_52056 Number of predicted TMRs: 0
+BEZJNX_52056	inside	1	50				
+//
+# BEZJNX_141720 Length: 41
+# BEZJNX_141720 Number of predicted TMRs: 0
+BEZJNX_141720	inside	1	41				
+//
+# BEZJNX_80959 Length: 42
+# BEZJNX_80959 Number of predicted TMRs: 0
+BEZJNX_80959	signal	1	41				
+BEZJNX_80959	outside	42	42				
+//
+# BEZJNX_172637 Length: 38
+# BEZJNX_172637 Number of predicted TMRs: 0
+BEZJNX_172637	signal	1	22				
+BEZJNX_172637	outside	23	38				
+//
+# BEZJNX_30553 Length: 47
+# BEZJNX_30553 Number of predicted TMRs: 0
+BEZJNX_30553	inside	1	47				
+//
+# BEZJNX_4994 Length: 46
+# BEZJNX_4994 Number of predicted TMRs: 0
+BEZJNX_4994	inside	1	46				
+//
+# BEZJNX_165999 Length: 39
+# BEZJNX_165999 Number of predicted TMRs: 0
+BEZJNX_165999	inside	1	39				
+//
+# BEZJNX_144231 Length: 39
+# BEZJNX_144231 Number of predicted TMRs: 0
+BEZJNX_144231	inside	1	39				
+//
+# BEZJNX_94080 Length: 34
+# BEZJNX_94080 Number of predicted TMRs: 0
+BEZJNX_94080	inside	1	34				
+//
+# BEZJNX_142485 Length: 47
+# BEZJNX_142485 Number of predicted TMRs: 0
+BEZJNX_142485	inside	1	47				
+//
+# BEZJNX_13533 Length: 46
+# BEZJNX_13533 Number of predicted TMRs: 0
+BEZJNX_13533	signal	1	26				
+BEZJNX_13533	outside	27	46				
+//
+# BEZJNX_25572 Length: 47
+# BEZJNX_25572 Number of predicted TMRs: 0
+BEZJNX_25572	inside	1	47				
+//
+# BEZJNX_39107 Length: 46
+# BEZJNX_39107 Number of predicted TMRs: 0
+BEZJNX_39107	signal	1	23				
+BEZJNX_39107	outside	24	46				
+//
+# BEZJNX_35049 Length: 37
+# BEZJNX_35049 Number of predicted TMRs: 0
+BEZJNX_35049	signal	1	13				
+BEZJNX_35049	outside	14	37				
+//
+# BEZJNX_113943 Length: 49
+# BEZJNX_113943 Number of predicted TMRs: 0
+BEZJNX_113943	signal	1	14				
+BEZJNX_113943	outside	15	49				
+//
+# BEZJNX_25417 Length: 37
+# BEZJNX_25417 Number of predicted TMRs: 0
+BEZJNX_25417	signal	1	35				
+BEZJNX_25417	outside	36	37				
+//
+# BEZJNX_170026 Length: 42
+# BEZJNX_170026 Number of predicted TMRs: 0
+BEZJNX_170026	signal	1	22				
+BEZJNX_170026	outside	23	42				
+//
+# BEZJNX_73742 Length: 45
+# BEZJNX_73742 Number of predicted TMRs: 0
+BEZJNX_73742	inside	1	45				
+//
+# BEZJNX_107957 Length: 44
+# BEZJNX_107957 Number of predicted TMRs: 0
+BEZJNX_107957	signal	1	20				
+BEZJNX_107957	outside	21	44				
+//
+# BEZJNX_120923 Length: 34
+# BEZJNX_120923 Number of predicted TMRs: 0
+BEZJNX_120923	signal	1	19				
+BEZJNX_120923	outside	20	34				
+//
+# BEZJNX_93166 Length: 47
+# BEZJNX_93166 Number of predicted TMRs: 0
+BEZJNX_93166	inside	1	47				
+//
+# BEZJNX_144858 Length: 49
+# BEZJNX_144858 Number of predicted TMRs: 0
+BEZJNX_144858	inside	1	49				
+//
+# BEZJNX_19399 Length: 41
+# BEZJNX_19399 Number of predicted TMRs: 0
+BEZJNX_19399	signal	1	30				
+BEZJNX_19399	outside	31	41				
+//
+# BEZJNX_61028 Length: 49
+# BEZJNX_61028 Number of predicted TMRs: 0
+BEZJNX_61028	signal	1	19				
+BEZJNX_61028	outside	20	49				
+//
+# BEZJNX_22101 Length: 49
+# BEZJNX_22101 Number of predicted TMRs: 0
+BEZJNX_22101	signal	1	47				
+BEZJNX_22101	outside	48	49				
+//
+# BEZJNX_8181 Length: 47
+# BEZJNX_8181 Number of predicted TMRs: 0
+BEZJNX_8181	outside	1	47				
+//
+# BEZJNX_128188 Length: 36
+# BEZJNX_128188 Number of predicted TMRs: 0
+BEZJNX_128188	inside	1	36				
+//
+# BEZJNX_143167 Length: 48
+# BEZJNX_143167 Number of predicted TMRs: 0
+BEZJNX_143167	inside	1	48				
+//
+# BEZJNX_157271 Length: 48
+# BEZJNX_157271 Number of predicted TMRs: 0
+BEZJNX_157271	inside	1	48				
+//
+# BEZJNX_110658 Length: 39
+# BEZJNX_110658 Number of predicted TMRs: 0
+BEZJNX_110658	signal	1	11				
+BEZJNX_110658	outside	12	39				
+//
+# BEZJNX_159386 Length: 39
+# BEZJNX_159386 Number of predicted TMRs: 0
+BEZJNX_159386	signal	1	38				
+BEZJNX_159386	outside	39	39				
+//
+# BEZJNX_69165 Length: 44
+# BEZJNX_69165 Number of predicted TMRs: 0
+BEZJNX_69165	inside	1	44				
+//
+# BEZJNX_39701 Length: 38
+# BEZJNX_39701 Number of predicted TMRs: 0
+BEZJNX_39701	signal	1	36				
+BEZJNX_39701	outside	37	38				
+//
+# BEZJNX_20699 Length: 50
+# BEZJNX_20699 Number of predicted TMRs: 0
+BEZJNX_20699	inside	1	50				
+//
+# BEZJNX_86009 Length: 48
+# BEZJNX_86009 Number of predicted TMRs: 0
+BEZJNX_86009	signal	1	47				
+BEZJNX_86009	outside	48	48				
+//
+# BEZJNX_166998 Length: 44
+# BEZJNX_166998 Number of predicted TMRs: 0
+BEZJNX_166998	signal	1	21				
+BEZJNX_166998	outside	22	44				
+//
+# BEZJNX_667 Length: 47
+# BEZJNX_667 Number of predicted TMRs: 0
+BEZJNX_667	inside	1	47				
+//
+# BEZJNX_144864 Length: 49
+# BEZJNX_144864 Number of predicted TMRs: 0
+BEZJNX_144864	inside	1	49				
+//
+# BEZJNX_145219 Length: 45
+# BEZJNX_145219 Number of predicted TMRs: 0
+BEZJNX_145219	signal	1	20				
+BEZJNX_145219	outside	21	45				
+//
+# BEZJNX_65012 Length: 43
+# BEZJNX_65012 Number of predicted TMRs: 0
+BEZJNX_65012	inside	1	43				
+//
+# BEZJNX_17525 Length: 46
+# BEZJNX_17525 Number of predicted TMRs: 0
+BEZJNX_17525	signal	1	45				
+BEZJNX_17525	outside	46	46				
+//
+# BEZJNX_121994 Length: 50
+# BEZJNX_121994 Number of predicted TMRs: 0
+BEZJNX_121994	signal	1	48				
+BEZJNX_121994	outside	49	50				
+//
+# BEZJNX_139190 Length: 47
+# BEZJNX_139190 Number of predicted TMRs: 0
+BEZJNX_139190	signal	1	45				
+BEZJNX_139190	outside	46	47				
+//
+# BEZJNX_163223 Length: 41
+# BEZJNX_163223 Number of predicted TMRs: 0
+BEZJNX_163223	inside	1	41				
+//
+# BEZJNX_100124 Length: 50
+# BEZJNX_100124 Number of predicted TMRs: 0
+BEZJNX_100124	signal	1	17				
+BEZJNX_100124	outside	18	50				
+//
+# BEZJNX_32850 Length: 36
+# BEZJNX_32850 Number of predicted TMRs: 0
+BEZJNX_32850	inside	1	36				
+//
+# BEZJNX_100534 Length: 48
+# BEZJNX_100534 Number of predicted TMRs: 0
+BEZJNX_100534	inside	1	48				
+//
+# BEZJNX_38894 Length: 47
+# BEZJNX_38894 Number of predicted TMRs: 0
+BEZJNX_38894	signal	1	35				
+BEZJNX_38894	outside	36	47				
+//
+# BEZJNX_35199 Length: 35
+# BEZJNX_35199 Number of predicted TMRs: 0
+BEZJNX_35199	signal	1	32				
+BEZJNX_35199	outside	33	35				
+//
+# BEZJNX_13407 Length: 48
+# BEZJNX_13407 Number of predicted TMRs: 0
+BEZJNX_13407	inside	1	48				
+//
+# BEZJNX_19268 Length: 40
+# BEZJNX_19268 Number of predicted TMRs: 0
+BEZJNX_19268	signal	1	39				
+BEZJNX_19268	outside	40	40				
+//
+# BEZJNX_31667 Length: 42
+# BEZJNX_31667 Number of predicted TMRs: 0
+BEZJNX_31667	signal	1	35				
+BEZJNX_31667	outside	36	42				
+//
+# BEZJNX_141666 Length: 50
+# BEZJNX_141666 Number of predicted TMRs: 0
+BEZJNX_141666	inside	1	50				
+//
+# BEZJNX_97207 Length: 46
+# BEZJNX_97207 Number of predicted TMRs: 0
+BEZJNX_97207	inside	1	46				
+//
+# BEZJNX_142973 Length: 46
+# BEZJNX_142973 Number of predicted TMRs: 0
+BEZJNX_142973	inside	1	46				
+//
+# BEZJNX_126987 Length: 46
+# BEZJNX_126987 Number of predicted TMRs: 0
+BEZJNX_126987	inside	1	46				
+//
+# BEZJNX_121805 Length: 39
+# BEZJNX_121805 Number of predicted TMRs: 0
+BEZJNX_121805	inside	1	39				
+//
+# BEZJNX_171940 Length: 44
+# BEZJNX_171940 Number of predicted TMRs: 0
+BEZJNX_171940	signal	1	43				
+BEZJNX_171940	outside	44	44				
+//
+# BEZJNX_124655 Length: 48
+# BEZJNX_124655 Number of predicted TMRs: 0
+BEZJNX_124655	signal	1	46				
+BEZJNX_124655	outside	47	48				
+//
+# BEZJNX_78830 Length: 36
+# BEZJNX_78830 Number of predicted TMRs: 0
+BEZJNX_78830	inside	1	36				
+//
+# BEZJNX_96171 Length: 47
+# BEZJNX_96171 Number of predicted TMRs: 0
+BEZJNX_96171	signal	1	16				
+BEZJNX_96171	outside	17	47				
+//
+# BEZJNX_6498 Length: 48
+# BEZJNX_6498 Number of predicted TMRs: 0
+BEZJNX_6498	inside	1	48				
+//
+# BEZJNX_2915 Length: 36
+# BEZJNX_2915 Number of predicted TMRs: 0
+BEZJNX_2915	signal	1	34				
+BEZJNX_2915	outside	35	36				
+//
+# BEZJNX_112617 Length: 33
+# BEZJNX_112617 Number of predicted TMRs: 0
+BEZJNX_112617	signal	1	32				
+BEZJNX_112617	outside	33	33				
+//
+# BEZJNX_110416 Length: 44
+# BEZJNX_110416 Number of predicted TMRs: 0
+BEZJNX_110416	inside	1	44				
+//
+# BEZJNX_148379 Length: 40
+# BEZJNX_148379 Number of predicted TMRs: 0
+BEZJNX_148379	signal	1	39				
+BEZJNX_148379	outside	40	40				
+//
+# BEZJNX_1291 Length: 35
+# BEZJNX_1291 Number of predicted TMRs: 0
+BEZJNX_1291	signal	1	18				
+BEZJNX_1291	outside	19	35				
+//
+# BEZJNX_29528 Length: 47
+# BEZJNX_29528 Number of predicted TMRs: 0
+BEZJNX_29528	signal	1	10				
+BEZJNX_29528	outside	11	47				
+//
+# BEZJNX_35959 Length: 39
+# BEZJNX_35959 Number of predicted TMRs: 0
+BEZJNX_35959	inside	1	39				
+//
+# BEZJNX_104168 Length: 45
+# BEZJNX_104168 Number of predicted TMRs: 0
+BEZJNX_104168	signal	1	17				
+BEZJNX_104168	outside	18	45				
+//
+# BEZJNX_76913 Length: 41
+# BEZJNX_76913 Number of predicted TMRs: 0
+BEZJNX_76913	signal	1	33				
+BEZJNX_76913	outside	34	41				
+//
+# BEZJNX_38582 Length: 39
+# BEZJNX_38582 Number of predicted TMRs: 0
+BEZJNX_38582	inside	1	39				
+//
+# BEZJNX_41125 Length: 42
+# BEZJNX_41125 Number of predicted TMRs: 0
+BEZJNX_41125	inside	1	42				
+//
+# BEZJNX_42436 Length: 45
+# BEZJNX_42436 Number of predicted TMRs: 0
+BEZJNX_42436	inside	1	45				
+//
+# BEZJNX_115464 Length: 39
+# BEZJNX_115464 Number of predicted TMRs: 0
+BEZJNX_115464	inside	1	39				
+//
+# BEZJNX_37493 Length: 43
+# BEZJNX_37493 Number of predicted TMRs: 0
+BEZJNX_37493	inside	1	43				
+//
+# BEZJNX_123239 Length: 44
+# BEZJNX_123239 Number of predicted TMRs: 0
+BEZJNX_123239	inside	1	44				
+//
+# BEZJNX_149534 Length: 48
+# BEZJNX_149534 Number of predicted TMRs: 0
+BEZJNX_149534	inside	1	48				
+//
+# BEZJNX_75189 Length: 49
+# BEZJNX_75189 Number of predicted TMRs: 0
+BEZJNX_75189	inside	1	49				
+//
+# BEZJNX_35320 Length: 45
+# BEZJNX_35320 Number of predicted TMRs: 0
+BEZJNX_35320	inside	1	45				
+//
+# BEZJNX_95483 Length: 48
+# BEZJNX_95483 Number of predicted TMRs: 0
+BEZJNX_95483	signal	1	12				
+BEZJNX_95483	outside	13	48				
+//
+# BEZJNX_150321 Length: 40
+# BEZJNX_150321 Number of predicted TMRs: 0
+BEZJNX_150321	inside	1	40				
+//
+# BEZJNX_136065 Length: 42
+# BEZJNX_136065 Number of predicted TMRs: 0
+BEZJNX_136065	inside	1	42				
+//
+# BEZJNX_37774 Length: 49
+# BEZJNX_37774 Number of predicted TMRs: 0
+BEZJNX_37774	inside	1	49				
+//
+# BEZJNX_84193 Length: 42
+# BEZJNX_84193 Number of predicted TMRs: 0
+BEZJNX_84193	signal	1	26				
+BEZJNX_84193	outside	27	42				
+//
+# BEZJNX_153775 Length: 45
+# BEZJNX_153775 Number of predicted TMRs: 0
+BEZJNX_153775	signal	1	22				
+BEZJNX_153775	outside	23	45				
+//
+# BEZJNX_16691 Length: 48
+# BEZJNX_16691 Number of predicted TMRs: 0
+BEZJNX_16691	inside	1	48				
+//
+# BEZJNX_163329 Length: 41
+# BEZJNX_163329 Number of predicted TMRs: 0
+BEZJNX_163329	signal	1	37				
+BEZJNX_163329	outside	38	41				
+//
+# BEZJNX_62210 Length: 32
+# BEZJNX_62210 Number of predicted TMRs: 0
+BEZJNX_62210	signal	1	31				
+BEZJNX_62210	outside	32	32				
+//
+# BEZJNX_149844 Length: 46
+# BEZJNX_149844 Number of predicted TMRs: 0
+BEZJNX_149844	inside	1	46				
+//
+# BEZJNX_87464 Length: 50
+# BEZJNX_87464 Number of predicted TMRs: 0
+BEZJNX_87464	signal	1	45				
+BEZJNX_87464	outside	46	50				
+//
+# BEZJNX_110314 Length: 43
+# BEZJNX_110314 Number of predicted TMRs: 0
+BEZJNX_110314	inside	1	43				
+//
+# BEZJNX_104633 Length: 37
+# BEZJNX_104633 Number of predicted TMRs: 0
+BEZJNX_104633	inside	1	37				
+//
+# BEZJNX_33373 Length: 44
+# BEZJNX_33373 Number of predicted TMRs: 0
+BEZJNX_33373	signal	1	37				
+BEZJNX_33373	outside	38	44				
+//
+# BEZJNX_17843 Length: 44
+# BEZJNX_17843 Number of predicted TMRs: 0
+BEZJNX_17843	inside	1	44				
+//
+# BEZJNX_69059 Length: 48
+# BEZJNX_69059 Number of predicted TMRs: 0
+BEZJNX_69059	inside	1	48				
+//
+# BEZJNX_47954 Length: 38
+# BEZJNX_47954 Number of predicted TMRs: 0
+BEZJNX_47954	inside	1	38				
+//
+# BEZJNX_146668 Length: 50
+# BEZJNX_146668 Number of predicted TMRs: 0
+BEZJNX_146668	inside	1	50				
+//
+# BEZJNX_155559 Length: 44
+# BEZJNX_155559 Number of predicted TMRs: 0
+BEZJNX_155559	signal	1	38				
+BEZJNX_155559	outside	39	44				
+//
+# BEZJNX_25397 Length: 41
+# BEZJNX_25397 Number of predicted TMRs: 0
+BEZJNX_25397	inside	1	41				
+//
+# BEZJNX_56399 Length: 45
+# BEZJNX_56399 Number of predicted TMRs: 0
+BEZJNX_56399	inside	1	45				
+//
+# BEZJNX_103141 Length: 47
+# BEZJNX_103141 Number of predicted TMRs: 0
+BEZJNX_103141	inside	1	47				
+//
+# BEZJNX_127773 Length: 48
+# BEZJNX_127773 Number of predicted TMRs: 0
+BEZJNX_127773	signal	1	10				
+BEZJNX_127773	outside	11	48				
+//
+# BEZJNX_54472 Length: 44
+# BEZJNX_54472 Number of predicted TMRs: 0
+BEZJNX_54472	inside	1	44				
+//
+# BEZJNX_142053 Length: 43
+# BEZJNX_142053 Number of predicted TMRs: 0
+BEZJNX_142053	inside	1	43				
+//
+# BEZJNX_163769 Length: 45
+# BEZJNX_163769 Number of predicted TMRs: 0
+BEZJNX_163769	inside	1	45				
+//
+# BEZJNX_172757 Length: 46
+# BEZJNX_172757 Number of predicted TMRs: 0
+BEZJNX_172757	inside	1	46				
+//
+# BEZJNX_142104 Length: 44
+# BEZJNX_142104 Number of predicted TMRs: 0
+BEZJNX_142104	inside	1	44				
+//
+# BEZJNX_92522 Length: 46
+# BEZJNX_92522 Number of predicted TMRs: 0
+BEZJNX_92522	inside	1	46				
+//
+# BEZJNX_82877 Length: 40
+# BEZJNX_82877 Number of predicted TMRs: 0
+BEZJNX_82877	inside	1	40				
+//
+# BEZJNX_130770 Length: 47
+# BEZJNX_130770 Number of predicted TMRs: 0
+BEZJNX_130770	signal	1	46				
+BEZJNX_130770	outside	47	47				
+//
+# BEZJNX_130482 Length: 44
+# BEZJNX_130482 Number of predicted TMRs: 0
+BEZJNX_130482	signal	1	42				
+BEZJNX_130482	outside	43	44				
+//
+# BEZJNX_114960 Length: 28
+# BEZJNX_114960 Number of predicted TMRs: 0
+BEZJNX_114960	inside	1	28				
+//
+# BEZJNX_161889 Length: 37
+# BEZJNX_161889 Number of predicted TMRs: 0
+BEZJNX_161889	inside	1	37				
+//
+# BEZJNX_82085 Length: 44
+# BEZJNX_82085 Number of predicted TMRs: 0
+BEZJNX_82085	inside	1	44				
+//
+# BEZJNX_70825 Length: 38
+# BEZJNX_70825 Number of predicted TMRs: 0
+BEZJNX_70825	outside	1	38				
+//
+# BEZJNX_99308 Length: 45
+# BEZJNX_99308 Number of predicted TMRs: 0
+BEZJNX_99308	inside	1	45				
+//
+# BEZJNX_107595 Length: 35
+# BEZJNX_107595 Number of predicted TMRs: 0
+BEZJNX_107595	outside	1	35				
+//
+# BEZJNX_113165 Length: 46
+# BEZJNX_113165 Number of predicted TMRs: 0
+BEZJNX_113165	inside	1	46				
+//
+# BEZJNX_12169 Length: 35
+# BEZJNX_12169 Number of predicted TMRs: 0
+BEZJNX_12169	inside	1	35				
+//
+# BEZJNX_107958 Length: 50
+# BEZJNX_107958 Number of predicted TMRs: 0
+BEZJNX_107958	inside	1	50				
+//
+# BEZJNX_158906 Length: 48
+# BEZJNX_158906 Number of predicted TMRs: 0
+BEZJNX_158906	inside	1	48				
+//
+# BEZJNX_21862 Length: 46
+# BEZJNX_21862 Number of predicted TMRs: 0
+BEZJNX_21862	inside	1	46				
+//
+# BEZJNX_57390 Length: 41
+# BEZJNX_57390 Number of predicted TMRs: 0
+BEZJNX_57390	signal	1	32				
+BEZJNX_57390	outside	33	41				
+//
+# BEZJNX_111087 Length: 44
+# BEZJNX_111087 Number of predicted TMRs: 0
+BEZJNX_111087	inside	1	44				
+//
+# BEZJNX_124821 Length: 38
+# BEZJNX_124821 Number of predicted TMRs: 0
+BEZJNX_124821	signal	1	32				
+BEZJNX_124821	outside	33	38				
+//
+# BEZJNX_99607 Length: 47
+# BEZJNX_99607 Number of predicted TMRs: 0
+BEZJNX_99607	inside	1	47				
+//
+# BEZJNX_158589 Length: 49
+# BEZJNX_158589 Number of predicted TMRs: 0
+BEZJNX_158589	inside	1	49				
+//
+# BEZJNX_109929 Length: 48
+# BEZJNX_109929 Number of predicted TMRs: 0
+BEZJNX_109929	signal	1	21				
+BEZJNX_109929	outside	22	48				
+//
+# BEZJNX_54791 Length: 47
+# BEZJNX_54791 Number of predicted TMRs: 0
+BEZJNX_54791	inside	1	47				
+//
+# BEZJNX_35791 Length: 31
+# BEZJNX_35791 Number of predicted TMRs: 0
+BEZJNX_35791	signal	1	27				
+BEZJNX_35791	outside	28	31				
+//
+# BEZJNX_49984 Length: 49
+# BEZJNX_49984 Number of predicted TMRs: 0
+BEZJNX_49984	inside	1	49				
+//
+# BEZJNX_143500 Length: 43
+# BEZJNX_143500 Number of predicted TMRs: 0
+BEZJNX_143500	signal	1	11				
+BEZJNX_143500	outside	12	43				
+//
+# BEZJNX_41549 Length: 49
+# BEZJNX_41549 Number of predicted TMRs: 0
+BEZJNX_41549	signal	1	26				
+BEZJNX_41549	outside	27	49				
+//
+# BEZJNX_143148 Length: 49
+# BEZJNX_143148 Number of predicted TMRs: 0
+BEZJNX_143148	signal	1	29				
+BEZJNX_143148	outside	30	49				
+//
+# BEZJNX_104745 Length: 38
+# BEZJNX_104745 Number of predicted TMRs: 0
+BEZJNX_104745	inside	1	38				
+//
+# BEZJNX_15105 Length: 33
+# BEZJNX_15105 Number of predicted TMRs: 0
+BEZJNX_15105	inside	1	33				
+//
+# BEZJNX_93122 Length: 33
+# BEZJNX_93122 Number of predicted TMRs: 0
+BEZJNX_93122	inside	1	33				
+//
+# BEZJNX_8494 Length: 44
+# BEZJNX_8494 Number of predicted TMRs: 0
+BEZJNX_8494	inside	1	44				
+//
+# BEZJNX_12242 Length: 47
+# BEZJNX_12242 Number of predicted TMRs: 0
+BEZJNX_12242	inside	1	47				
+//
+# BEZJNX_107700 Length: 44
+# BEZJNX_107700 Number of predicted TMRs: 0
+BEZJNX_107700	inside	1	44				
+//
+# BEZJNX_74435 Length: 39
+# BEZJNX_74435 Number of predicted TMRs: 0
+BEZJNX_74435	inside	1	39				
+//
+# BEZJNX_123790 Length: 47
+# BEZJNX_123790 Number of predicted TMRs: 0
+BEZJNX_123790	inside	1	47				
+//
+# BEZJNX_17186 Length: 49
+# BEZJNX_17186 Number of predicted TMRs: 0
+BEZJNX_17186	inside	1	49				
+//
+# BEZJNX_73859 Length: 50
+# BEZJNX_73859 Number of predicted TMRs: 0
+BEZJNX_73859	signal	1	41				
+BEZJNX_73859	outside	42	50				
+//
+# BEZJNX_123026 Length: 47
+# BEZJNX_123026 Number of predicted TMRs: 0
+BEZJNX_123026	inside	1	47				
+//
+# BEZJNX_123675 Length: 48
+# BEZJNX_123675 Number of predicted TMRs: 0
+BEZJNX_123675	signal	1	20				
+BEZJNX_123675	outside	21	48				
+//
+# BEZJNX_167889 Length: 50
+# BEZJNX_167889 Number of predicted TMRs: 0
+BEZJNX_167889	inside	1	50				
+//
+# BEZJNX_134697 Length: 36
+# BEZJNX_134697 Number of predicted TMRs: 0
+BEZJNX_134697	inside	1	36				
+//
+# BEZJNX_165579 Length: 50
+# BEZJNX_165579 Number of predicted TMRs: 0
+BEZJNX_165579	signal	1	33				
+BEZJNX_165579	outside	34	50				
+//
+# BEZJNX_163252 Length: 39
+# BEZJNX_163252 Number of predicted TMRs: 0
+BEZJNX_163252	inside	1	39				
+//
+# BEZJNX_72769 Length: 46
+# BEZJNX_72769 Number of predicted TMRs: 0
+BEZJNX_72769	inside	1	46				
+//
+# BEZJNX_141870 Length: 40
+# BEZJNX_141870 Number of predicted TMRs: 0
+BEZJNX_141870	inside	1	40				
+//
+# BEZJNX_110983 Length: 40
+# BEZJNX_110983 Number of predicted TMRs: 0
+BEZJNX_110983	inside	1	40				
+//
+# BEZJNX_29943 Length: 42
+# BEZJNX_29943 Number of predicted TMRs: 0
+BEZJNX_29943	inside	1	42				
+//
+# BEZJNX_26521 Length: 44
+# BEZJNX_26521 Number of predicted TMRs: 0
+BEZJNX_26521	outside	1	44				
+//
+# BEZJNX_142481 Length: 45
+# BEZJNX_142481 Number of predicted TMRs: 0
+BEZJNX_142481	signal	1	43				
+BEZJNX_142481	outside	44	45				
+//
+# BEZJNX_149934 Length: 47
+# BEZJNX_149934 Number of predicted TMRs: 0
+BEZJNX_149934	signal	1	43				
+BEZJNX_149934	outside	44	47				
+//
+# BEZJNX_36939 Length: 33
+# BEZJNX_36939 Number of predicted TMRs: 0
+BEZJNX_36939	signal	1	32				
+BEZJNX_36939	outside	33	33				
+//
+# BEZJNX_123571 Length: 38
+# BEZJNX_123571 Number of predicted TMRs: 0
+BEZJNX_123571	inside	1	38				
+//
+# BEZJNX_132213 Length: 50
+# BEZJNX_132213 Number of predicted TMRs: 0
+BEZJNX_132213	signal	1	49				
+BEZJNX_132213	outside	50	50				
+//
+# BEZJNX_88628 Length: 44
+# BEZJNX_88628 Number of predicted TMRs: 0
+BEZJNX_88628	inside	1	44				
+//
+# BEZJNX_144452 Length: 49
+# BEZJNX_144452 Number of predicted TMRs: 0
+BEZJNX_144452	inside	1	49				
+//
+# BEZJNX_21006 Length: 47
+# BEZJNX_21006 Number of predicted TMRs: 0
+BEZJNX_21006	inside	1	47				
+//
+# BEZJNX_28297 Length: 48
+# BEZJNX_28297 Number of predicted TMRs: 0
+BEZJNX_28297	inside	1	48				
+//
+# BEZJNX_44650 Length: 48
+# BEZJNX_44650 Number of predicted TMRs: 0
+BEZJNX_44650	inside	1	48				
+//
+# BEZJNX_60440 Length: 42
+# BEZJNX_60440 Number of predicted TMRs: 0
+BEZJNX_60440	inside	1	42				
+//
+# BEZJNX_37067 Length: 38
+# BEZJNX_37067 Number of predicted TMRs: 0
+BEZJNX_37067	signal	1	11				
+BEZJNX_37067	outside	12	38				
+//
+# BEZJNX_3247 Length: 38
+# BEZJNX_3247 Number of predicted TMRs: 0
+BEZJNX_3247	inside	1	38				
+//
+# BEZJNX_134289 Length: 50
+# BEZJNX_134289 Number of predicted TMRs: 0
+BEZJNX_134289	signal	1	47				
+BEZJNX_134289	outside	48	50				
+//
+# BEZJNX_10287 Length: 48
+# BEZJNX_10287 Number of predicted TMRs: 0
+BEZJNX_10287	inside	1	48				
+//
+# BEZJNX_145004 Length: 43
+# BEZJNX_145004 Number of predicted TMRs: 0
+BEZJNX_145004	signal	1	15				
+BEZJNX_145004	outside	16	43				
+//
+# BEZJNX_121106 Length: 40
+# BEZJNX_121106 Number of predicted TMRs: 0
+BEZJNX_121106	signal	1	38				
+BEZJNX_121106	outside	39	40				
+//
+# BEZJNX_85329 Length: 37
+# BEZJNX_85329 Number of predicted TMRs: 0
+BEZJNX_85329	signal	1	35				
+BEZJNX_85329	outside	36	37				
+//
+# BEZJNX_8617 Length: 49
+# BEZJNX_8617 Number of predicted TMRs: 0
+BEZJNX_8617	inside	1	49				
+//
+# BEZJNX_91052 Length: 48
+# BEZJNX_91052 Number of predicted TMRs: 0
+BEZJNX_91052	signal	1	11				
+BEZJNX_91052	outside	12	48				
+//
+# BEZJNX_121757 Length: 46
+# BEZJNX_121757 Number of predicted TMRs: 0
+BEZJNX_121757	inside	1	46				
+//
+# BEZJNX_125632 Length: 44
+# BEZJNX_125632 Number of predicted TMRs: 0
+BEZJNX_125632	inside	1	44				
+//
+# BEZJNX_22138 Length: 42
+# BEZJNX_22138 Number of predicted TMRs: 0
+BEZJNX_22138	signal	1	16				
+BEZJNX_22138	outside	17	42				
+//
+# BEZJNX_23584 Length: 45
+# BEZJNX_23584 Number of predicted TMRs: 0
+BEZJNX_23584	inside	1	45				
+//
+# BEZJNX_132639 Length: 39
+# BEZJNX_132639 Number of predicted TMRs: 0
+BEZJNX_132639	inside	1	39				
+//
+# BEZJNX_66993 Length: 41
+# BEZJNX_66993 Number of predicted TMRs: 0
+BEZJNX_66993	inside	1	41				
+//
+# BEZJNX_153529 Length: 50
+# BEZJNX_153529 Number of predicted TMRs: 0
+BEZJNX_153529	inside	1	50				
+//
+# BEZJNX_12362 Length: 43
+# BEZJNX_12362 Number of predicted TMRs: 0
+BEZJNX_12362	signal	1	30				
+BEZJNX_12362	outside	31	43				
+//
+# BEZJNX_97206 Length: 31
+# BEZJNX_97206 Number of predicted TMRs: 0
+BEZJNX_97206	inside	1	31				
+//
+# BEZJNX_136009 Length: 47
+# BEZJNX_136009 Number of predicted TMRs: 0
+BEZJNX_136009	inside	1	47				
+//
+# BEZJNX_31639 Length: 41
+# BEZJNX_31639 Number of predicted TMRs: 0
+BEZJNX_31639	signal	1	10				
+BEZJNX_31639	outside	11	41				
+//
+# BEZJNX_44456 Length: 45
+# BEZJNX_44456 Number of predicted TMRs: 0
+BEZJNX_44456	inside	1	45				
+//
+# BEZJNX_37666 Length: 49
+# BEZJNX_37666 Number of predicted TMRs: 0
+BEZJNX_37666	inside	1	49				
+//
+# BEZJNX_88640 Length: 47
+# BEZJNX_88640 Number of predicted TMRs: 0
+BEZJNX_88640	signal	1	20				
+BEZJNX_88640	outside	21	47				
+//
+# BEZJNX_46158 Length: 45
+# BEZJNX_46158 Number of predicted TMRs: 0
+BEZJNX_46158	inside	1	45				
+//
+# BEZJNX_106103 Length: 48
+# BEZJNX_106103 Number of predicted TMRs: 0
+BEZJNX_106103	inside	1	48				
+//
+# BEZJNX_36609 Length: 45
+# BEZJNX_36609 Number of predicted TMRs: 0
+BEZJNX_36609	inside	1	45				
+//
+# BEZJNX_59197 Length: 42
+# BEZJNX_59197 Number of predicted TMRs: 0
+BEZJNX_59197	outside	1	42				
+//
+# BEZJNX_111259 Length: 49
+# BEZJNX_111259 Number of predicted TMRs: 0
+BEZJNX_111259	inside	1	49				
+//
+# BEZJNX_29621 Length: 45
+# BEZJNX_29621 Number of predicted TMRs: 0
+BEZJNX_29621	inside	1	45				
+//
+# BEZJNX_76334 Length: 42
+# BEZJNX_76334 Number of predicted TMRs: 0
+BEZJNX_76334	inside	1	42				
+//
+# BEZJNX_106354 Length: 50
+# BEZJNX_106354 Number of predicted TMRs: 0
+BEZJNX_106354	inside	1	50				
+//
+# BEZJNX_157661 Length: 48
+# BEZJNX_157661 Number of predicted TMRs: 0
+BEZJNX_157661	inside	1	48				
+//
+# BEZJNX_144343 Length: 42
+# BEZJNX_144343 Number of predicted TMRs: 0
+BEZJNX_144343	inside	1	42				
+//
+# BEZJNX_51813 Length: 44
+# BEZJNX_51813 Number of predicted TMRs: 0
+BEZJNX_51813	inside	1	44				
+//
+# BEZJNX_148077 Length: 45
+# BEZJNX_148077 Number of predicted TMRs: 0
+BEZJNX_148077	inside	1	45				
+//
+# BEZJNX_116185 Length: 45
+# BEZJNX_116185 Number of predicted TMRs: 0
+BEZJNX_116185	inside	1	45				
+//
+# BEZJNX_128991 Length: 43
+# BEZJNX_128991 Number of predicted TMRs: 0
+BEZJNX_128991	signal	1	27				
+BEZJNX_128991	outside	28	43				
+//
+# BEZJNX_46420 Length: 50
+# BEZJNX_46420 Number of predicted TMRs: 0
+BEZJNX_46420	inside	1	50				
+//
+# BEZJNX_119211 Length: 49
+# BEZJNX_119211 Number of predicted TMRs: 0
+BEZJNX_119211	inside	1	49				
+//
+# BEZJNX_24102 Length: 43
+# BEZJNX_24102 Number of predicted TMRs: 0
+BEZJNX_24102	inside	1	43				
+//
+# BEZJNX_95379 Length: 46
+# BEZJNX_95379 Number of predicted TMRs: 0
+BEZJNX_95379	inside	1	46				
+//
+# BEZJNX_72402 Length: 46
+# BEZJNX_72402 Number of predicted TMRs: 0
+BEZJNX_72402	signal	1	37				
+BEZJNX_72402	outside	38	46				
+//
+# BEZJNX_68511 Length: 37
+# BEZJNX_68511 Number of predicted TMRs: 0
+BEZJNX_68511	signal	1	36				
+BEZJNX_68511	outside	37	37				
+//
+# BEZJNX_145383 Length: 49
+# BEZJNX_145383 Number of predicted TMRs: 0
+BEZJNX_145383	inside	1	49				
+//
+# BEZJNX_77814 Length: 45
+# BEZJNX_77814 Number of predicted TMRs: 0
+BEZJNX_77814	inside	1	45				
+//
+# BEZJNX_16657 Length: 41
+# BEZJNX_16657 Number of predicted TMRs: 0
+BEZJNX_16657	inside	1	41				
+//
+# BEZJNX_35915 Length: 40
+# BEZJNX_35915 Number of predicted TMRs: 0
+BEZJNX_35915	signal	1	35				
+BEZJNX_35915	outside	36	40				
+//
+# BEZJNX_94827 Length: 47
+# BEZJNX_94827 Number of predicted TMRs: 0
+BEZJNX_94827	inside	1	47				
+//
+# BEZJNX_122084 Length: 46
+# BEZJNX_122084 Number of predicted TMRs: 0
+BEZJNX_122084	signal	1	45				
+BEZJNX_122084	outside	46	46				
+//
+# BEZJNX_59365 Length: 47
+# BEZJNX_59365 Number of predicted TMRs: 0
+BEZJNX_59365	inside	1	47				
+//
+# BEZJNX_101468 Length: 45
+# BEZJNX_101468 Number of predicted TMRs: 0
+BEZJNX_101468	inside	1	45				
+//
+# BEZJNX_4166 Length: 42
+# BEZJNX_4166 Number of predicted TMRs: 0
+BEZJNX_4166	inside	1	42				
+//
+# BEZJNX_65305 Length: 40
+# BEZJNX_65305 Number of predicted TMRs: 0
+BEZJNX_65305	inside	1	40				
+//
+# BEZJNX_111983 Length: 47
+# BEZJNX_111983 Number of predicted TMRs: 0
+BEZJNX_111983	signal	1	35				
+BEZJNX_111983	outside	36	47				
+//
+# BEZJNX_26040 Length: 38
+# BEZJNX_26040 Number of predicted TMRs: 0
+BEZJNX_26040	signal	1	32				
+BEZJNX_26040	outside	33	38				
+//
+# BEZJNX_83749 Length: 49
+# BEZJNX_83749 Number of predicted TMRs: 0
+BEZJNX_83749	inside	1	49				
+//
+# BEZJNX_36642 Length: 49
+# BEZJNX_36642 Number of predicted TMRs: 0
+BEZJNX_36642	inside	1	49				
+//
+# BEZJNX_36883 Length: 49
+# BEZJNX_36883 Number of predicted TMRs: 0
+BEZJNX_36883	inside	1	49				
+//
+# BEZJNX_82183 Length: 37
+# BEZJNX_82183 Number of predicted TMRs: 0
+BEZJNX_82183	signal	1	19				
+BEZJNX_82183	outside	20	37				
+//
+# BEZJNX_18696 Length: 38
+# BEZJNX_18696 Number of predicted TMRs: 0
+BEZJNX_18696	inside	1	38				
+//
+# BEZJNX_92072 Length: 48
+# BEZJNX_92072 Number of predicted TMRs: 0
+BEZJNX_92072	signal	1	29				
+BEZJNX_92072	outside	30	48				
+//
+# BEZJNX_123550 Length: 50
+# BEZJNX_123550 Number of predicted TMRs: 0
+BEZJNX_123550	inside	1	50				
+//
+# BEZJNX_170454 Length: 47
+# BEZJNX_170454 Number of predicted TMRs: 0
+BEZJNX_170454	inside	1	47				
+//
+# BEZJNX_126041 Length: 50
+# BEZJNX_126041 Number of predicted TMRs: 0
+BEZJNX_126041	signal	1	48				
+BEZJNX_126041	outside	49	50				
+//
+# BEZJNX_102226 Length: 46
+# BEZJNX_102226 Number of predicted TMRs: 0
+BEZJNX_102226	inside	1	46				
+//
+# BEZJNX_87139 Length: 39
+# BEZJNX_87139 Number of predicted TMRs: 0
+BEZJNX_87139	inside	1	39				
+//
+# BEZJNX_95219 Length: 40
+# BEZJNX_95219 Number of predicted TMRs: 0
+BEZJNX_95219	signal	1	32				
+BEZJNX_95219	outside	33	40				
+//
+# BEZJNX_134696 Length: 48
+# BEZJNX_134696 Number of predicted TMRs: 0
+BEZJNX_134696	signal	1	44				
+BEZJNX_134696	outside	45	48				
+//
+# BEZJNX_18767 Length: 43
+# BEZJNX_18767 Number of predicted TMRs: 0
+BEZJNX_18767	outside	1	43				
+//
+# BEZJNX_121463 Length: 39
+# BEZJNX_121463 Number of predicted TMRs: 0
+BEZJNX_121463	signal	1	26				
+BEZJNX_121463	outside	27	39				
+//
+# BEZJNX_8202 Length: 49
+# BEZJNX_8202 Number of predicted TMRs: 0
+BEZJNX_8202	signal	1	44				
+BEZJNX_8202	outside	45	49				
+//
+# BEZJNX_89653 Length: 34
+# BEZJNX_89653 Number of predicted TMRs: 0
+BEZJNX_89653	inside	1	34				
+//
+# BEZJNX_73602 Length: 46
+# BEZJNX_73602 Number of predicted TMRs: 0
+BEZJNX_73602	inside	1	46				
+//
+# BEZJNX_10159 Length: 40
+# BEZJNX_10159 Number of predicted TMRs: 0
+BEZJNX_10159	signal	1	34				
+BEZJNX_10159	outside	35	40				
+//
+# BEZJNX_142424 Length: 39
+# BEZJNX_142424 Number of predicted TMRs: 0
+BEZJNX_142424	inside	1	39				
+//
+# BEZJNX_125097 Length: 42
+# BEZJNX_125097 Number of predicted TMRs: 0
+BEZJNX_125097	inside	1	42				
+//
+# BEZJNX_144851 Length: 34
+# BEZJNX_144851 Number of predicted TMRs: 0
+BEZJNX_144851	signal	1	14				
+BEZJNX_144851	outside	15	34				
+//
+# BEZJNX_143718 Length: 44
+# BEZJNX_143718 Number of predicted TMRs: 0
+BEZJNX_143718	inside	1	44				
+//
+# BEZJNX_54790 Length: 48
+# BEZJNX_54790 Number of predicted TMRs: 0
+BEZJNX_54790	inside	1	48				
+//
+# BEZJNX_35100 Length: 49
+# BEZJNX_35100 Number of predicted TMRs: 0
+BEZJNX_35100	signal	1	28				
+BEZJNX_35100	outside	29	49				
+//
+# BEZJNX_6118 Length: 49
+# BEZJNX_6118 Number of predicted TMRs: 0
+BEZJNX_6118	inside	1	49				
+//
+# BEZJNX_136982 Length: 38
+# BEZJNX_136982 Number of predicted TMRs: 0
+BEZJNX_136982	signal	1	35				
+BEZJNX_136982	outside	36	38				
+//
+# BEZJNX_153972 Length: 43
+# BEZJNX_153972 Number of predicted TMRs: 0
+BEZJNX_153972	inside	1	43				
+//
+# BEZJNX_80998 Length: 45
+# BEZJNX_80998 Number of predicted TMRs: 0
+BEZJNX_80998	inside	1	45				
+//
+# BEZJNX_142500 Length: 49
+# BEZJNX_142500 Number of predicted TMRs: 0
+BEZJNX_142500	inside	1	49				
+//
+# BEZJNX_80316 Length: 42
+# BEZJNX_80316 Number of predicted TMRs: 0
+BEZJNX_80316	signal	1	34				
+BEZJNX_80316	outside	35	42				
+//
+# BEZJNX_156507 Length: 43
+# BEZJNX_156507 Number of predicted TMRs: 0
+BEZJNX_156507	signal	1	35				
+BEZJNX_156507	outside	36	43				
+//
+# BEZJNX_13395 Length: 49
+# BEZJNX_13395 Number of predicted TMRs: 0
+BEZJNX_13395	signal	1	40				
+BEZJNX_13395	outside	41	49				
+//
+# BEZJNX_20708 Length: 48
+# BEZJNX_20708 Number of predicted TMRs: 0
+BEZJNX_20708	inside	1	48				
+//
+# BEZJNX_18730 Length: 41
+# BEZJNX_18730 Number of predicted TMRs: 0
+BEZJNX_18730	inside	1	41				
+//
+# BEZJNX_59083 Length: 49
+# BEZJNX_59083 Number of predicted TMRs: 0
+BEZJNX_59083	inside	1	49				
+//
+# BEZJNX_89567 Length: 48
+# BEZJNX_89567 Number of predicted TMRs: 0
+BEZJNX_89567	signal	1	25				
+BEZJNX_89567	outside	26	48				
+//
+# BEZJNX_97727 Length: 47
+# BEZJNX_97727 Number of predicted TMRs: 0
+BEZJNX_97727	inside	1	47				
+//
+# BEZJNX_110270 Length: 50
+# BEZJNX_110270 Number of predicted TMRs: 0
+BEZJNX_110270	inside	1	50				
+//
+# BEZJNX_7243 Length: 37
+# BEZJNX_7243 Number of predicted TMRs: 0
+BEZJNX_7243	signal	1	35				
+BEZJNX_7243	outside	36	37				
+//
+# BEZJNX_99552 Length: 41
+# BEZJNX_99552 Number of predicted TMRs: 0
+BEZJNX_99552	inside	1	41				
+//
+# BEZJNX_39272 Length: 44
+# BEZJNX_39272 Number of predicted TMRs: 1
+BEZJNX_39272	inside	1	15				
+BEZJNX_39272	TMhelix	16	36				
+BEZJNX_39272	outside	37	44				
+//
+# BEZJNX_707 Length: 45
+# BEZJNX_707 Number of predicted TMRs: 0
+BEZJNX_707	inside	1	45				
+//
+# BEZJNX_15971 Length: 31
+# BEZJNX_15971 Number of predicted TMRs: 0
+BEZJNX_15971	signal	1	19				
+BEZJNX_15971	outside	20	31				
+//
+# BEZJNX_99839 Length: 48
+# BEZJNX_99839 Number of predicted TMRs: 0
+BEZJNX_99839	inside	1	48				
+//
+# BEZJNX_131310 Length: 45
+# BEZJNX_131310 Number of predicted TMRs: 0
+BEZJNX_131310	signal	1	10				
+BEZJNX_131310	outside	11	45				
+//
+# BEZJNX_49358 Length: 47
+# BEZJNX_49358 Number of predicted TMRs: 0
+BEZJNX_49358	inside	1	47				
+//
+# BEZJNX_108368 Length: 46
+# BEZJNX_108368 Number of predicted TMRs: 0
+BEZJNX_108368	inside	1	46				
+//
+# BEZJNX_6015 Length: 50
+# BEZJNX_6015 Number of predicted TMRs: 0
+BEZJNX_6015	inside	1	50				
+//
+# BEZJNX_24550 Length: 37
+# BEZJNX_24550 Number of predicted TMRs: 0
+BEZJNX_24550	inside	1	37				
+//
+# BEZJNX_103676 Length: 47
+# BEZJNX_103676 Number of predicted TMRs: 0
+BEZJNX_103676	signal	1	45				
+BEZJNX_103676	outside	46	47				
+//
+# BEZJNX_145752 Length: 50
+# BEZJNX_145752 Number of predicted TMRs: 0
+BEZJNX_145752	inside	1	50				
+//
+# BEZJNX_9621 Length: 42
+# BEZJNX_9621 Number of predicted TMRs: 0
+BEZJNX_9621	inside	1	42				
+//
+# BEZJNX_61281 Length: 50
+# BEZJNX_61281 Number of predicted TMRs: 0
+BEZJNX_61281	inside	1	50				
+//
+# BEZJNX_36943 Length: 39
+# BEZJNX_36943 Number of predicted TMRs: 0
+BEZJNX_36943	inside	1	39				
+//
+# BEZJNX_159243 Length: 37
+# BEZJNX_159243 Number of predicted TMRs: 0
+BEZJNX_159243	inside	1	37				
+//
+# BEZJNX_94063 Length: 43
+# BEZJNX_94063 Number of predicted TMRs: 0
+BEZJNX_94063	signal	1	41				
+BEZJNX_94063	outside	42	43				
+//
+# BEZJNX_78555 Length: 33
+# BEZJNX_78555 Number of predicted TMRs: 0
+BEZJNX_78555	inside	1	33				
+//
+# BEZJNX_19107 Length: 42
+# BEZJNX_19107 Number of predicted TMRs: 0
+BEZJNX_19107	inside	1	42				
+//
+# BEZJNX_97256 Length: 47
+# BEZJNX_97256 Number of predicted TMRs: 0
+BEZJNX_97256	signal	1	46				
+BEZJNX_97256	outside	47	47				
+//
+# BEZJNX_69005 Length: 50
+# BEZJNX_69005 Number of predicted TMRs: 0
+BEZJNX_69005	inside	1	50				
+//
+# BEZJNX_61779 Length: 50
+# BEZJNX_61779 Number of predicted TMRs: 0
+BEZJNX_61779	inside	1	50				
+//
+# BEZJNX_30595 Length: 47
+# BEZJNX_30595 Number of predicted TMRs: 0
+BEZJNX_30595	signal	1	10				
+BEZJNX_30595	outside	11	47				
+//
+# BEZJNX_12684 Length: 40
+# BEZJNX_12684 Number of predicted TMRs: 0
+BEZJNX_12684	inside	1	40				
+//
+# BEZJNX_17666 Length: 48
+# BEZJNX_17666 Number of predicted TMRs: 0
+BEZJNX_17666	signal	1	45				
+BEZJNX_17666	outside	46	48				
+//
+# BEZJNX_88515 Length: 47
+# BEZJNX_88515 Number of predicted TMRs: 0
+BEZJNX_88515	inside	1	47				
+//
+# BEZJNX_172216 Length: 48
+# BEZJNX_172216 Number of predicted TMRs: 0
+BEZJNX_172216	inside	1	48				
+//
+# BEZJNX_120473 Length: 37
+# BEZJNX_120473 Number of predicted TMRs: 0
+BEZJNX_120473	signal	1	25				
+BEZJNX_120473	outside	26	37				
+//
+# BEZJNX_69686 Length: 39
+# BEZJNX_69686 Number of predicted TMRs: 0
+BEZJNX_69686	signal	1	33				
+BEZJNX_69686	outside	34	39				
+//
+# BEZJNX_131483 Length: 44
+# BEZJNX_131483 Number of predicted TMRs: 0
+BEZJNX_131483	signal	1	10				
+BEZJNX_131483	outside	11	44				
+//
+# BEZJNX_37608 Length: 50
+# BEZJNX_37608 Number of predicted TMRs: 0
+BEZJNX_37608	inside	1	50				
+//
+# BEZJNX_66777 Length: 50
+# BEZJNX_66777 Number of predicted TMRs: 0
+BEZJNX_66777	inside	1	50				
+//
+# BEZJNX_41865 Length: 50
+# BEZJNX_41865 Number of predicted TMRs: 0
+BEZJNX_41865	inside	1	50				
+//
+# BEZJNX_149474 Length: 50
+# BEZJNX_149474 Number of predicted TMRs: 0
+BEZJNX_149474	inside	1	50				
+//
+# BEZJNX_141195 Length: 50
+# BEZJNX_141195 Number of predicted TMRs: 0
+BEZJNX_141195	inside	1	50				
+//
+# BEZJNX_39105 Length: 32
+# BEZJNX_39105 Number of predicted TMRs: 0
+BEZJNX_39105	signal	1	31				
+BEZJNX_39105	outside	32	32				
+//
+# BEZJNX_134312 Length: 48
+# BEZJNX_134312 Number of predicted TMRs: 0
+BEZJNX_134312	inside	1	48				
+//
+# BEZJNX_120377 Length: 50
+# BEZJNX_120377 Number of predicted TMRs: 0
+BEZJNX_120377	inside	1	50				
+//
+# BEZJNX_59967 Length: 50
+# BEZJNX_59967 Number of predicted TMRs: 0
+BEZJNX_59967	inside	1	50				
+//
+# BEZJNX_165608 Length: 49
+# BEZJNX_165608 Number of predicted TMRs: 0
+BEZJNX_165608	inside	1	49				
+//
+# BEZJNX_168244 Length: 50
+# BEZJNX_168244 Number of predicted TMRs: 0
+BEZJNX_168244	inside	1	50				
+//
+# BEZJNX_37111 Length: 50
+# BEZJNX_37111 Number of predicted TMRs: 0
+BEZJNX_37111	inside	1	50				
+//
+# BEZJNX_144451 Length: 48
+# BEZJNX_144451 Number of predicted TMRs: 0
+BEZJNX_144451	inside	1	48				
+//
+# BEZJNX_95629 Length: 36
+# BEZJNX_95629 Number of predicted TMRs: 0
+BEZJNX_95629	signal	1	35				
+BEZJNX_95629	outside	36	36				
+//
+# BEZJNX_44434 Length: 43
+# BEZJNX_44434 Number of predicted TMRs: 0
+BEZJNX_44434	signal	1	12				
+BEZJNX_44434	outside	13	43				
+//
+# BEZJNX_145775 Length: 47
+# BEZJNX_145775 Number of predicted TMRs: 0
+BEZJNX_145775	signal	1	10				
+BEZJNX_145775	outside	11	47				
+//
+# BEZJNX_163352 Length: 50
+# BEZJNX_163352 Number of predicted TMRs: 0
+BEZJNX_163352	signal	1	19				
+BEZJNX_163352	outside	20	50				
+//
+# BEZJNX_60227 Length: 47
+# BEZJNX_60227 Number of predicted TMRs: 0
+BEZJNX_60227	inside	1	47				
+//
+# BEZJNX_143579 Length: 48
+# BEZJNX_143579 Number of predicted TMRs: 0
+BEZJNX_143579	signal	1	46				
+BEZJNX_143579	outside	47	48				
+//
+# BEZJNX_123854 Length: 49
+# BEZJNX_123854 Number of predicted TMRs: 0
+BEZJNX_123854	inside	1	49				
+//
+# BEZJNX_62414 Length: 48
+# BEZJNX_62414 Number of predicted TMRs: 0
+BEZJNX_62414	signal	1	38				
+BEZJNX_62414	outside	39	48				
+//
+# BEZJNX_8942 Length: 48
+# BEZJNX_8942 Number of predicted TMRs: 0
+BEZJNX_8942	inside	1	48				
+//
+# BEZJNX_138402 Length: 36
+# BEZJNX_138402 Number of predicted TMRs: 0
+BEZJNX_138402	inside	1	36				
+//
+# BEZJNX_94998 Length: 46
+# BEZJNX_94998 Number of predicted TMRs: 0
+BEZJNX_94998	inside	1	46				
+//
+# BEZJNX_76630 Length: 47
+# BEZJNX_76630 Number of predicted TMRs: 0
+BEZJNX_76630	signal	1	46				
+BEZJNX_76630	outside	47	47				
+//
+# BEZJNX_10221 Length: 47
+# BEZJNX_10221 Number of predicted TMRs: 0
+BEZJNX_10221	signal	1	46				
+BEZJNX_10221	outside	47	47				
+//
+# BEZJNX_41247 Length: 47
+# BEZJNX_41247 Number of predicted TMRs: 0
+BEZJNX_41247	signal	1	13				
+BEZJNX_41247	outside	14	47				
+//
+# BEZJNX_169715 Length: 41
+# BEZJNX_169715 Number of predicted TMRs: 0
+BEZJNX_169715	signal	1	21				
+BEZJNX_169715	outside	22	41				
+//
+# BEZJNX_132989 Length: 50
+# BEZJNX_132989 Number of predicted TMRs: 0
+BEZJNX_132989	inside	1	50				
+//
+# BEZJNX_133066 Length: 50
+# BEZJNX_133066 Number of predicted TMRs: 0
+BEZJNX_133066	inside	1	50				
+//
+# BEZJNX_86818 Length: 50
+# BEZJNX_86818 Number of predicted TMRs: 0
+BEZJNX_86818	inside	1	50				
+//
+# BEZJNX_1952 Length: 45
+# BEZJNX_1952 Number of predicted TMRs: 0
+BEZJNX_1952	signal	1	39				
+BEZJNX_1952	outside	40	45				
+//
+# BEZJNX_166366 Length: 50
+# BEZJNX_166366 Number of predicted TMRs: 0
+BEZJNX_166366	inside	1	50				
+//
+# BEZJNX_124352 Length: 48
+# BEZJNX_124352 Number of predicted TMRs: 0
+BEZJNX_124352	inside	1	48				
+//
+# BEZJNX_82854 Length: 50
+# BEZJNX_82854 Number of predicted TMRs: 0
+BEZJNX_82854	inside	1	50				
+//
+# BEZJNX_9946 Length: 42
+# BEZJNX_9946 Number of predicted TMRs: 0
+BEZJNX_9946	inside	1	42				
+//
+# BEZJNX_11730 Length: 39
+# BEZJNX_11730 Number of predicted TMRs: 0
+BEZJNX_11730	signal	1	38				
+BEZJNX_11730	outside	39	39				
+//
+# BEZJNX_115000 Length: 44
+# BEZJNX_115000 Number of predicted TMRs: 0
+BEZJNX_115000	inside	1	44				
+//
+# BEZJNX_5015 Length: 47
+# BEZJNX_5015 Number of predicted TMRs: 0
+BEZJNX_5015	inside	1	47				
+//
+# BEZJNX_6786 Length: 48
+# BEZJNX_6786 Number of predicted TMRs: 0
+BEZJNX_6786	inside	1	48				
+//
+# BEZJNX_168918 Length: 41
+# BEZJNX_168918 Number of predicted TMRs: 0
+BEZJNX_168918	inside	1	41				
+//
+# BEZJNX_4613 Length: 41
+# BEZJNX_4613 Number of predicted TMRs: 0
+BEZJNX_4613	inside	1	41				
+//
+# BEZJNX_23281 Length: 46
+# BEZJNX_23281 Number of predicted TMRs: 0
+BEZJNX_23281	inside	1	46				
+//
+# BEZJNX_73805 Length: 45
+# BEZJNX_73805 Number of predicted TMRs: 0
+BEZJNX_73805	signal	1	28				
+BEZJNX_73805	outside	29	45				
+//
+# BEZJNX_40397 Length: 48
+# BEZJNX_40397 Number of predicted TMRs: 0
+BEZJNX_40397	inside	1	48				
+//
+# BEZJNX_50585 Length: 41
+# BEZJNX_50585 Number of predicted TMRs: 0
+BEZJNX_50585	inside	1	41				
+//
+# BEZJNX_139483 Length: 43
+# BEZJNX_139483 Number of predicted TMRs: 0
+BEZJNX_139483	signal	1	22				
+BEZJNX_139483	outside	23	43				
+//
+# BEZJNX_125704 Length: 47
+# BEZJNX_125704 Number of predicted TMRs: 0
+BEZJNX_125704	signal	1	41				
+BEZJNX_125704	outside	42	47				
+//
+# BEZJNX_147231 Length: 45
+# BEZJNX_147231 Number of predicted TMRs: 0
+BEZJNX_147231	inside	1	45				
+//
+# BEZJNX_127254 Length: 35
+# BEZJNX_127254 Number of predicted TMRs: 0
+BEZJNX_127254	signal	1	32				
+BEZJNX_127254	outside	33	35				
+//
+# BEZJNX_80029 Length: 47
+# BEZJNX_80029 Number of predicted TMRs: 0
+BEZJNX_80029	inside	1	47				
+//
+# BEZJNX_31477 Length: 43
+# BEZJNX_31477 Number of predicted TMRs: 0
+BEZJNX_31477	outside	1	43				
+//
+# BEZJNX_98551 Length: 49
+# BEZJNX_98551 Number of predicted TMRs: 0
+BEZJNX_98551	signal	1	10				
+BEZJNX_98551	outside	11	49				
+//
+# BEZJNX_7343 Length: 42
+# BEZJNX_7343 Number of predicted TMRs: 0
+BEZJNX_7343	inside	1	42				
+//
+# BEZJNX_166359 Length: 47
+# BEZJNX_166359 Number of predicted TMRs: 0
+BEZJNX_166359	signal	1	45				
+BEZJNX_166359	outside	46	47				
+//
+# BEZJNX_8916 Length: 44
+# BEZJNX_8916 Number of predicted TMRs: 0
+BEZJNX_8916	inside	1	44				
+//
+# BEZJNX_132232 Length: 50
+# BEZJNX_132232 Number of predicted TMRs: 0
+BEZJNX_132232	inside	1	50				
+//
+# BEZJNX_100146 Length: 46
+# BEZJNX_100146 Number of predicted TMRs: 0
+BEZJNX_100146	inside	1	46				
+//
+# BEZJNX_17428 Length: 48
+# BEZJNX_17428 Number of predicted TMRs: 0
+BEZJNX_17428	inside	1	48				
+//
+# BEZJNX_95927 Length: 50
+# BEZJNX_95927 Number of predicted TMRs: 0
+BEZJNX_95927	inside	1	50				
+//
+# BEZJNX_113799 Length: 36
+# BEZJNX_113799 Number of predicted TMRs: 0
+BEZJNX_113799	signal	1	28				
+BEZJNX_113799	outside	29	36				
+//
+# BEZJNX_58468 Length: 43
+# BEZJNX_58468 Number of predicted TMRs: 0
+BEZJNX_58468	inside	1	43				
+//
+# BEZJNX_127282 Length: 35
+# BEZJNX_127282 Number of predicted TMRs: 0
+BEZJNX_127282	signal	1	34				
+BEZJNX_127282	outside	35	35				
+//
+# BEZJNX_125352 Length: 41
+# BEZJNX_125352 Number of predicted TMRs: 0
+BEZJNX_125352	inside	1	41				
+//
+# BEZJNX_55645 Length: 45
+# BEZJNX_55645 Number of predicted TMRs: 0
+BEZJNX_55645	signal	1	44				
+BEZJNX_55645	outside	45	45				
+//
+# BEZJNX_38423 Length: 33
+# BEZJNX_38423 Number of predicted TMRs: 0
+BEZJNX_38423	inside	1	33				
+//
+# BEZJNX_132674 Length: 46
+# BEZJNX_132674 Number of predicted TMRs: 0
+BEZJNX_132674	signal	1	44				
+BEZJNX_132674	outside	45	46				
+//
+# BEZJNX_126289 Length: 48
+# BEZJNX_126289 Number of predicted TMRs: 0
+BEZJNX_126289	inside	1	48				
+//
+# BEZJNX_152734 Length: 42
+# BEZJNX_152734 Number of predicted TMRs: 0
+BEZJNX_152734	inside	1	42				
+//
+# BEZJNX_149336 Length: 47
+# BEZJNX_149336 Number of predicted TMRs: 0
+BEZJNX_149336	inside	1	47				
+//
+# BEZJNX_65429 Length: 48
+# BEZJNX_65429 Number of predicted TMRs: 0
+BEZJNX_65429	inside	1	48				
+//
+# BEZJNX_26811 Length: 40
+# BEZJNX_26811 Number of predicted TMRs: 0
+BEZJNX_26811	inside	1	40				
+//
+# BEZJNX_18387 Length: 37
+# BEZJNX_18387 Number of predicted TMRs: 0
+BEZJNX_18387	signal	1	24				
+BEZJNX_18387	outside	25	37				
+//
+# BEZJNX_51602 Length: 30
+# BEZJNX_51602 Number of predicted TMRs: 0
+BEZJNX_51602	signal	1	29				
+BEZJNX_51602	outside	30	30				
+//
+# BEZJNX_27183 Length: 42
+# BEZJNX_27183 Number of predicted TMRs: 0
+BEZJNX_27183	signal	1	10				
+BEZJNX_27183	outside	11	42				
+//
+# BEZJNX_11653 Length: 40
+# BEZJNX_11653 Number of predicted TMRs: 0
+BEZJNX_11653	signal	1	30				
+BEZJNX_11653	outside	31	40				
+//
+# BEZJNX_123238 Length: 43
+# BEZJNX_123238 Number of predicted TMRs: 0
+BEZJNX_123238	inside	1	43				
+//
+# BEZJNX_142516 Length: 48
+# BEZJNX_142516 Number of predicted TMRs: 0
+BEZJNX_142516	inside	1	48				
+//
+# BEZJNX_95451 Length: 46
+# BEZJNX_95451 Number of predicted TMRs: 0
+BEZJNX_95451	signal	1	45				
+BEZJNX_95451	outside	46	46				
+//
+# BEZJNX_137171 Length: 41
+# BEZJNX_137171 Number of predicted TMRs: 0
+BEZJNX_137171	signal	1	10				
+BEZJNX_137171	outside	11	41				
+//
+# BEZJNX_166047 Length: 40
+# BEZJNX_166047 Number of predicted TMRs: 0
+BEZJNX_166047	inside	1	40				
+//
+# BEZJNX_52555 Length: 43
+# BEZJNX_52555 Number of predicted TMRs: 0
+BEZJNX_52555	inside	1	43				
+//
+# BEZJNX_75175 Length: 38
+# BEZJNX_75175 Number of predicted TMRs: 0
+BEZJNX_75175	inside	1	38				
+//
+# BEZJNX_93902 Length: 50
+# BEZJNX_93902 Number of predicted TMRs: 0
+BEZJNX_93902	inside	1	50				
+//
+# BEZJNX_86109 Length: 47
+# BEZJNX_86109 Number of predicted TMRs: 0
+BEZJNX_86109	signal	1	40				
+BEZJNX_86109	outside	41	47				
+//
+# BEZJNX_102449 Length: 50
+# BEZJNX_102449 Number of predicted TMRs: 0
+BEZJNX_102449	signal	1	21				
+BEZJNX_102449	outside	22	50				
+//
+# BEZJNX_78604 Length: 45
+# BEZJNX_78604 Number of predicted TMRs: 0
+BEZJNX_78604	inside	1	45				
+//
+# BEZJNX_83586 Length: 42
+# BEZJNX_83586 Number of predicted TMRs: 0
+BEZJNX_83586	inside	1	42				
+//
+# BEZJNX_150019 Length: 45
+# BEZJNX_150019 Number of predicted TMRs: 0
+BEZJNX_150019	outside	1	45				
+//
+# BEZJNX_11087 Length: 43
+# BEZJNX_11087 Number of predicted TMRs: 0
+BEZJNX_11087	signal	1	19				
+BEZJNX_11087	outside	20	43				
+//
+# BEZJNX_75966 Length: 50
+# BEZJNX_75966 Number of predicted TMRs: 0
+BEZJNX_75966	inside	1	50				
+//
+# BEZJNX_67357 Length: 48
+# BEZJNX_67357 Number of predicted TMRs: 0
+BEZJNX_67357	inside	1	48				
+//
+# BEZJNX_169834 Length: 46
+# BEZJNX_169834 Number of predicted TMRs: 0
+BEZJNX_169834	inside	1	46				
+//
+# BEZJNX_163295 Length: 50
+# BEZJNX_163295 Number of predicted TMRs: 0
+BEZJNX_163295	inside	1	50				
+//
+# BEZJNX_165086 Length: 40
+# BEZJNX_165086 Number of predicted TMRs: 0
+BEZJNX_165086	inside	1	40				
+//
+# BEZJNX_166393 Length: 37
+# BEZJNX_166393 Number of predicted TMRs: 0
+BEZJNX_166393	signal	1	35				
+BEZJNX_166393	outside	36	37				
+//
+# BEZJNX_16350 Length: 50
+# BEZJNX_16350 Number of predicted TMRs: 0
+BEZJNX_16350	inside	1	50				
+//
+# BEZJNX_90374 Length: 40
+# BEZJNX_90374 Number of predicted TMRs: 0
+BEZJNX_90374	inside	1	40				
+//
+# BEZJNX_79998 Length: 47
+# BEZJNX_79998 Number of predicted TMRs: 0
+BEZJNX_79998	inside	1	47				
+//
+# BEZJNX_72761 Length: 46
+# BEZJNX_72761 Number of predicted TMRs: 0
+BEZJNX_72761	signal	1	28				
+BEZJNX_72761	outside	29	46				
+//
+# BEZJNX_128815 Length: 46
+# BEZJNX_128815 Number of predicted TMRs: 0
+BEZJNX_128815	inside	1	46				
+//
+# BEZJNX_125486 Length: 49
+# BEZJNX_125486 Number of predicted TMRs: 0
+BEZJNX_125486	inside	1	49				
+//
+# BEZJNX_118836 Length: 50
+# BEZJNX_118836 Number of predicted TMRs: 0
+BEZJNX_118836	inside	1	50				
+//
+# BEZJNX_73595 Length: 38
+# BEZJNX_73595 Number of predicted TMRs: 0
+BEZJNX_73595	signal	1	37				
+BEZJNX_73595	outside	38	38				
+//
+# BEZJNX_44346 Length: 44
+# BEZJNX_44346 Number of predicted TMRs: 0
+BEZJNX_44346	inside	1	44				
+//
+# BEZJNX_45148 Length: 45
+# BEZJNX_45148 Number of predicted TMRs: 0
+BEZJNX_45148	inside	1	45				
+//
+# BEZJNX_54960 Length: 46
+# BEZJNX_54960 Number of predicted TMRs: 0
+BEZJNX_54960	inside	1	46				
+//
+# BEZJNX_18907 Length: 45
+# BEZJNX_18907 Number of predicted TMRs: 0
+BEZJNX_18907	signal	1	24				
+BEZJNX_18907	outside	25	45				
+//
+# BEZJNX_116124 Length: 44
+# BEZJNX_116124 Number of predicted TMRs: 0
+BEZJNX_116124	inside	1	44				
+//
+# BEZJNX_29834 Length: 42
+# BEZJNX_29834 Number of predicted TMRs: 0
+BEZJNX_29834	inside	1	42				
+//
+# BEZJNX_39022 Length: 49
+# BEZJNX_39022 Number of predicted TMRs: 0
+BEZJNX_39022	inside	1	49				
+//
+# BEZJNX_118076 Length: 44
+# BEZJNX_118076 Number of predicted TMRs: 0
+BEZJNX_118076	inside	1	44				
+//
+# BEZJNX_41305 Length: 49
+# BEZJNX_41305 Number of predicted TMRs: 0
+BEZJNX_41305	inside	1	49				
+//
+# BEZJNX_98791 Length: 36
+# BEZJNX_98791 Number of predicted TMRs: 0
+BEZJNX_98791	inside	1	36				
+//
+# BEZJNX_97610 Length: 37
+# BEZJNX_97610 Number of predicted TMRs: 0
+BEZJNX_97610	inside	1	37				
+//
+# BEZJNX_129596 Length: 48
+# BEZJNX_129596 Number of predicted TMRs: 0
+BEZJNX_129596	inside	1	48				
+//
+# BEZJNX_90090 Length: 35
+# BEZJNX_90090 Number of predicted TMRs: 0
+BEZJNX_90090	inside	1	35				
+//
+# BEZJNX_54823 Length: 43
+# BEZJNX_54823 Number of predicted TMRs: 0
+BEZJNX_54823	inside	1	43				
+//
+# BEZJNX_97247 Length: 50
+# BEZJNX_97247 Number of predicted TMRs: 0
+BEZJNX_97247	inside	1	50				
+//
+# BEZJNX_101517 Length: 48
+# BEZJNX_101517 Number of predicted TMRs: 0
+BEZJNX_101517	inside	1	48				
+//
+# BEZJNX_115136 Length: 50
+# BEZJNX_115136 Number of predicted TMRs: 0
+BEZJNX_115136	inside	1	50				
+//
+# BEZJNX_79772 Length: 48
+# BEZJNX_79772 Number of predicted TMRs: 0
+BEZJNX_79772	inside	1	48				
+//
+# BEZJNX_150118 Length: 47
+# BEZJNX_150118 Number of predicted TMRs: 0
+BEZJNX_150118	inside	1	47				
+//
+# BEZJNX_152958 Length: 46
+# BEZJNX_152958 Number of predicted TMRs: 0
+BEZJNX_152958	inside	1	46				
+//
+# BEZJNX_48763 Length: 48
+# BEZJNX_48763 Number of predicted TMRs: 0
+BEZJNX_48763	inside	1	48				
+//
+# BEZJNX_7009 Length: 47
+# BEZJNX_7009 Number of predicted TMRs: 0
+BEZJNX_7009	inside	1	47				
+//
+# BEZJNX_158194 Length: 50
+# BEZJNX_158194 Number of predicted TMRs: 0
+BEZJNX_158194	inside	1	50				
+//
+# BEZJNX_84892 Length: 37
+# BEZJNX_84892 Number of predicted TMRs: 0
+BEZJNX_84892	signal	1	34				
+BEZJNX_84892	outside	35	37				
+//
+# BEZJNX_86954 Length: 42
+# BEZJNX_86954 Number of predicted TMRs: 0
+BEZJNX_86954	inside	1	42				
+//
+# BEZJNX_10293 Length: 39
+# BEZJNX_10293 Number of predicted TMRs: 0
+BEZJNX_10293	signal	1	38				
+BEZJNX_10293	outside	39	39				
+//
+# BEZJNX_17048 Length: 50
+# BEZJNX_17048 Number of predicted TMRs: 0
+BEZJNX_17048	inside	1	50				
+//
+# BEZJNX_54750 Length: 46
+# BEZJNX_54750 Number of predicted TMRs: 0
+BEZJNX_54750	signal	1	38				
+BEZJNX_54750	outside	39	46				
+//
+# BEZJNX_36885 Length: 42
+# BEZJNX_36885 Number of predicted TMRs: 0
+BEZJNX_36885	signal	1	35				
+BEZJNX_36885	outside	36	42				
+//
+# BEZJNX_153978 Length: 49
+# BEZJNX_153978 Number of predicted TMRs: 0
+BEZJNX_153978	inside	1	49				
+//
+# BEZJNX_43329 Length: 39
+# BEZJNX_43329 Number of predicted TMRs: 0
+BEZJNX_43329	inside	1	39				
+//
+# BEZJNX_121830 Length: 44
+# BEZJNX_121830 Number of predicted TMRs: 0
+BEZJNX_121830	inside	1	44				
+//
+# BEZJNX_62471 Length: 50
+# BEZJNX_62471 Number of predicted TMRs: 0
+BEZJNX_62471	inside	1	50				
+//
+# BEZJNX_112548 Length: 50
+# BEZJNX_112548 Number of predicted TMRs: 0
+BEZJNX_112548	inside	1	50				
+//
+# BEZJNX_133995 Length: 49
+# BEZJNX_133995 Number of predicted TMRs: 0
+BEZJNX_133995	signal	1	48				
+BEZJNX_133995	outside	49	49				
+//
+# BEZJNX_101827 Length: 48
+# BEZJNX_101827 Number of predicted TMRs: 0
+BEZJNX_101827	signal	1	44				
+BEZJNX_101827	outside	45	48				
+//
+# BEZJNX_63690 Length: 41
+# BEZJNX_63690 Number of predicted TMRs: 0
+BEZJNX_63690	signal	1	40				
+BEZJNX_63690	outside	41	41				
+//
+# BEZJNX_61066 Length: 49
+# BEZJNX_61066 Number of predicted TMRs: 0
+BEZJNX_61066	inside	1	49				
+//
+# BEZJNX_104523 Length: 50
+# BEZJNX_104523 Number of predicted TMRs: 0
+BEZJNX_104523	signal	1	38				
+BEZJNX_104523	outside	39	50				
+//
+# BEZJNX_131306 Length: 31
+# BEZJNX_131306 Number of predicted TMRs: 0
+BEZJNX_131306	inside	1	31				
+//
+# BEZJNX_133207 Length: 49
+# BEZJNX_133207 Number of predicted TMRs: 0
+BEZJNX_133207	inside	1	49				
+//
+# BEZJNX_156278 Length: 45
+# BEZJNX_156278 Number of predicted TMRs: 0
+BEZJNX_156278	signal	1	44				
+BEZJNX_156278	outside	45	45				
+//
+# BEZJNX_84864 Length: 50
+# BEZJNX_84864 Number of predicted TMRs: 0
+BEZJNX_84864	signal	1	12				
+BEZJNX_84864	outside	13	50				
+//
+# BEZJNX_84400 Length: 43
+# BEZJNX_84400 Number of predicted TMRs: 0
+BEZJNX_84400	inside	1	43				
+//
+# BEZJNX_47450 Length: 48
+# BEZJNX_47450 Number of predicted TMRs: 0
+BEZJNX_47450	inside	1	48				
+//
+# BEZJNX_27298 Length: 47
+# BEZJNX_27298 Number of predicted TMRs: 0
+BEZJNX_27298	signal	1	41				
+BEZJNX_27298	outside	42	47				
+//
+# BEZJNX_106976 Length: 48
+# BEZJNX_106976 Number of predicted TMRs: 0
+BEZJNX_106976	inside	1	48				
+//
+# BEZJNX_32366 Length: 46
+# BEZJNX_32366 Number of predicted TMRs: 0
+BEZJNX_32366	inside	1	46				
+//
+# BEZJNX_69464 Length: 48
+# BEZJNX_69464 Number of predicted TMRs: 0
+BEZJNX_69464	inside	1	48				
+//
+# BEZJNX_124764 Length: 50
+# BEZJNX_124764 Number of predicted TMRs: 0
+BEZJNX_124764	inside	1	50				
+//
+# BEZJNX_87484 Length: 40
+# BEZJNX_87484 Number of predicted TMRs: 0
+BEZJNX_87484	signal	1	38				
+BEZJNX_87484	outside	39	40				
+//
+# BEZJNX_34750 Length: 45
+# BEZJNX_34750 Number of predicted TMRs: 0
+BEZJNX_34750	inside	1	45				
+//
+# BEZJNX_66111 Length: 33
+# BEZJNX_66111 Number of predicted TMRs: 0
+BEZJNX_66111	signal	1	14				
+BEZJNX_66111	outside	15	33				
+//
+# BEZJNX_133116 Length: 39
+# BEZJNX_133116 Number of predicted TMRs: 0
+BEZJNX_133116	signal	1	38				
+BEZJNX_133116	outside	39	39				
+//
+# BEZJNX_38618 Length: 48
+# BEZJNX_38618 Number of predicted TMRs: 0
+BEZJNX_38618	signal	1	40				
+BEZJNX_38618	outside	41	48				
+//
+# BEZJNX_159473 Length: 30
+# BEZJNX_159473 Number of predicted TMRs: 1
+BEZJNX_159473	outside	1	10				
+BEZJNX_159473	TMhelix	11	26				
+BEZJNX_159473	inside	27	30				
+//
+# BEZJNX_171992 Length: 50
+# BEZJNX_171992 Number of predicted TMRs: 0
+BEZJNX_171992	inside	1	50				
+//
+# BEZJNX_10724 Length: 48
+# BEZJNX_10724 Number of predicted TMRs: 0
+BEZJNX_10724	signal	1	46				
+BEZJNX_10724	outside	47	48				
+//
+# BEZJNX_29998 Length: 36
+# BEZJNX_29998 Number of predicted TMRs: 0
+BEZJNX_29998	inside	1	36				
+//
+# BEZJNX_141393 Length: 48
+# BEZJNX_141393 Number of predicted TMRs: 0
+BEZJNX_141393	inside	1	48				
+//
+# BEZJNX_141389 Length: 48
+# BEZJNX_141389 Number of predicted TMRs: 0
+BEZJNX_141389	inside	1	48				
+//
+# BEZJNX_102565 Length: 49
+# BEZJNX_102565 Number of predicted TMRs: 0
+BEZJNX_102565	inside	1	49				
+//
+# BEZJNX_27182 Length: 48
+# BEZJNX_27182 Number of predicted TMRs: 0
+BEZJNX_27182	inside	1	48				
+//
+# BEZJNX_126687 Length: 49
+# BEZJNX_126687 Number of predicted TMRs: 0
+BEZJNX_126687	inside	1	49				
+//
+# BEZJNX_28550 Length: 50
+# BEZJNX_28550 Number of predicted TMRs: 0
+BEZJNX_28550	inside	1	50				
+//
+# BEZJNX_97014 Length: 48
+# BEZJNX_97014 Number of predicted TMRs: 0
+BEZJNX_97014	inside	1	48				
+//
+# BEZJNX_133268 Length: 45
+# BEZJNX_133268 Number of predicted TMRs: 0
+BEZJNX_133268	signal	1	16				
+BEZJNX_133268	outside	17	45				
+//
+# BEZJNX_102676 Length: 48
+# BEZJNX_102676 Number of predicted TMRs: 0
+BEZJNX_102676	inside	1	48				
+//
+# BEZJNX_149856 Length: 47
+# BEZJNX_149856 Number of predicted TMRs: 0
+BEZJNX_149856	inside	1	47				
+//
+# BEZJNX_9176 Length: 46
+# BEZJNX_9176 Number of predicted TMRs: 0
+BEZJNX_9176	inside	1	46				
+//
+# BEZJNX_19417 Length: 46
+# BEZJNX_19417 Number of predicted TMRs: 0
+BEZJNX_19417	inside	1	46				
+//
+# BEZJNX_73958 Length: 41
+# BEZJNX_73958 Number of predicted TMRs: 0
+BEZJNX_73958	inside	1	41				
+//
+# BEZJNX_6434 Length: 49
+# BEZJNX_6434 Number of predicted TMRs: 0
+BEZJNX_6434	inside	1	49				
+//
+# BEZJNX_67858 Length: 42
+# BEZJNX_67858 Number of predicted TMRs: 0
+BEZJNX_67858	signal	1	10				
+BEZJNX_67858	outside	11	42				
+//
+# BEZJNX_2582 Length: 47
+# BEZJNX_2582 Number of predicted TMRs: 0
+BEZJNX_2582	inside	1	47				
+//
+# BEZJNX_94464 Length: 43
+# BEZJNX_94464 Number of predicted TMRs: 0
+BEZJNX_94464	signal	1	19				
+BEZJNX_94464	outside	20	43				
+//
+# BEZJNX_161170 Length: 50
+# BEZJNX_161170 Number of predicted TMRs: 0
+BEZJNX_161170	signal	1	49				
+BEZJNX_161170	outside	50	50				
+//
+# BEZJNX_130633 Length: 50
+# BEZJNX_130633 Number of predicted TMRs: 0
+BEZJNX_130633	inside	1	50				
+//
+# BEZJNX_13332 Length: 46
+# BEZJNX_13332 Number of predicted TMRs: 0
+BEZJNX_13332	inside	1	46				
+//
+# BEZJNX_114545 Length: 43
+# BEZJNX_114545 Number of predicted TMRs: 0
+BEZJNX_114545	signal	1	42				
+BEZJNX_114545	outside	43	43				
+//
+# BEZJNX_124991 Length: 50
+# BEZJNX_124991 Number of predicted TMRs: 0
+BEZJNX_124991	inside	1	50				
+//
+# BEZJNX_9815 Length: 45
+# BEZJNX_9815 Number of predicted TMRs: 0
+BEZJNX_9815	inside	1	45				
+//
+# BEZJNX_141434 Length: 48
+# BEZJNX_141434 Number of predicted TMRs: 0
+BEZJNX_141434	inside	1	48				
+//
+# BEZJNX_50723 Length: 50
+# BEZJNX_50723 Number of predicted TMRs: 0
+BEZJNX_50723	inside	1	50				
+//
+# BEZJNX_115145 Length: 48
+# BEZJNX_115145 Number of predicted TMRs: 0
+BEZJNX_115145	inside	1	48				
+//
+# BEZJNX_170015 Length: 50
+# BEZJNX_170015 Number of predicted TMRs: 0
+BEZJNX_170015	inside	1	50				
+//
+# BEZJNX_127112 Length: 47
+# BEZJNX_127112 Number of predicted TMRs: 0
+BEZJNX_127112	inside	1	47				
+//
+# BEZJNX_7058 Length: 49
+# BEZJNX_7058 Number of predicted TMRs: 0
+BEZJNX_7058	signal	1	32				
+BEZJNX_7058	outside	33	49				
+//
+# BEZJNX_169557 Length: 49
+# BEZJNX_169557 Number of predicted TMRs: 0
+BEZJNX_169557	signal	1	47				
+BEZJNX_169557	outside	48	49				
+//
+# BEZJNX_8517 Length: 48
+# BEZJNX_8517 Number of predicted TMRs: 0
+BEZJNX_8517	inside	1	48				
+//
+# BEZJNX_91053 Length: 45
+# BEZJNX_91053 Number of predicted TMRs: 0
+BEZJNX_91053	signal	1	40				
+BEZJNX_91053	outside	41	45				
+//
+# BEZJNX_65298 Length: 26
+# BEZJNX_65298 Number of predicted TMRs: 0
+BEZJNX_65298	inside	1	26				
+//
+# BEZJNX_96671 Length: 27
+# BEZJNX_96671 Number of predicted TMRs: 0
+BEZJNX_96671	inside	1	27				
+//
+# BEZJNX_150115 Length: 47
+# BEZJNX_150115 Number of predicted TMRs: 0
+BEZJNX_150115	inside	1	47				
+//
+# BEZJNX_136365 Length: 49
+# BEZJNX_136365 Number of predicted TMRs: 0
+BEZJNX_136365	inside	1	49				
+//
+# BEZJNX_131874 Length: 40
+# BEZJNX_131874 Number of predicted TMRs: 0
+BEZJNX_131874	signal	1	39				
+BEZJNX_131874	outside	40	40				
+//
+# BEZJNX_60666 Length: 46
+# BEZJNX_60666 Number of predicted TMRs: 0
+BEZJNX_60666	inside	1	46				
+//
+# BEZJNX_36795 Length: 47
+# BEZJNX_36795 Number of predicted TMRs: 0
+BEZJNX_36795	inside	1	47				
+//
+# BEZJNX_127811 Length: 41
+# BEZJNX_127811 Number of predicted TMRs: 0
+BEZJNX_127811	signal	1	15				
+BEZJNX_127811	outside	16	41				
+//
+# BEZJNX_80230 Length: 50
+# BEZJNX_80230 Number of predicted TMRs: 0
+BEZJNX_80230	inside	1	50				
+//
+# BEZJNX_134096 Length: 39
+# BEZJNX_134096 Number of predicted TMRs: 0
+BEZJNX_134096	inside	1	39				
+//
+# BEZJNX_120064 Length: 43
+# BEZJNX_120064 Number of predicted TMRs: 0
+BEZJNX_120064	signal	1	18				
+BEZJNX_120064	outside	19	43				
+//
+# BEZJNX_172380 Length: 38
+# BEZJNX_172380 Number of predicted TMRs: 0
+BEZJNX_172380	inside	1	38				
+//
+# BEZJNX_11011 Length: 50
+# BEZJNX_11011 Number of predicted TMRs: 0
+BEZJNX_11011	inside	1	50				
+//
+# BEZJNX_20554 Length: 49
+# BEZJNX_20554 Number of predicted TMRs: 0
+BEZJNX_20554	inside	1	49				
+//
+# BEZJNX_92889 Length: 39
+# BEZJNX_92889 Number of predicted TMRs: 0
+BEZJNX_92889	outside	1	39				
+//
+# BEZJNX_120433 Length: 50
+# BEZJNX_120433 Number of predicted TMRs: 0
+BEZJNX_120433	inside	1	50				
+//
+# BEZJNX_128741 Length: 50
+# BEZJNX_128741 Number of predicted TMRs: 0
+BEZJNX_128741	inside	1	50				
+//
+# BEZJNX_10875 Length: 47
+# BEZJNX_10875 Number of predicted TMRs: 0
+BEZJNX_10875	inside	1	47				
+//
+# BEZJNX_32384 Length: 45
+# BEZJNX_32384 Number of predicted TMRs: 0
+BEZJNX_32384	signal	1	25				
+BEZJNX_32384	outside	26	45				
+//
+# BEZJNX_52387 Length: 50
+# BEZJNX_52387 Number of predicted TMRs: 0
+BEZJNX_52387	inside	1	50				
+//
+# BEZJNX_89872 Length: 48
+# BEZJNX_89872 Number of predicted TMRs: 0
+BEZJNX_89872	signal	1	24				
+BEZJNX_89872	outside	25	48				
+//
+# BEZJNX_116429 Length: 48
+# BEZJNX_116429 Number of predicted TMRs: 0
+BEZJNX_116429	inside	1	48				
+//
+# BEZJNX_115207 Length: 45
+# BEZJNX_115207 Number of predicted TMRs: 0
+BEZJNX_115207	inside	1	45				
+//
+# BEZJNX_43960 Length: 44
+# BEZJNX_43960 Number of predicted TMRs: 0
+BEZJNX_43960	inside	1	44				
+//
+# BEZJNX_172824 Length: 49
+# BEZJNX_172824 Number of predicted TMRs: 0
+BEZJNX_172824	outside	1	49				
+//
+# BEZJNX_143486 Length: 44
+# BEZJNX_143486 Number of predicted TMRs: 0
+BEZJNX_143486	inside	1	44				
+//
+# BEZJNX_3594 Length: 46
+# BEZJNX_3594 Number of predicted TMRs: 0
+BEZJNX_3594	inside	1	46				
+//
+# BEZJNX_167194 Length: 43
+# BEZJNX_167194 Number of predicted TMRs: 0
+BEZJNX_167194	signal	1	14				
+BEZJNX_167194	outside	15	43				
+//
+# BEZJNX_172751 Length: 50
+# BEZJNX_172751 Number of predicted TMRs: 0
+BEZJNX_172751	inside	1	50				
+//
+# BEZJNX_87544 Length: 37
+# BEZJNX_87544 Number of predicted TMRs: 0
+BEZJNX_87544	signal	1	32				
+BEZJNX_87544	outside	33	37				
+//
+# BEZJNX_43577 Length: 44
+# BEZJNX_43577 Number of predicted TMRs: 0
+BEZJNX_43577	inside	1	44				
+//
+# BEZJNX_170408 Length: 49
+# BEZJNX_170408 Number of predicted TMRs: 0
+BEZJNX_170408	inside	1	49				
+//
+# BEZJNX_118460 Length: 45
+# BEZJNX_118460 Number of predicted TMRs: 0
+BEZJNX_118460	inside	1	45				
+//
+# BEZJNX_171075 Length: 39
+# BEZJNX_171075 Number of predicted TMRs: 0
+BEZJNX_171075	signal	1	37				
+BEZJNX_171075	outside	38	39				
+//
+# BEZJNX_121647 Length: 49
+# BEZJNX_121647 Number of predicted TMRs: 0
+BEZJNX_121647	signal	1	47				
+BEZJNX_121647	outside	48	49				
+//
+# BEZJNX_21224 Length: 46
+# BEZJNX_21224 Number of predicted TMRs: 0
+BEZJNX_21224	inside	1	46				
+//
+# BEZJNX_123328 Length: 50
+# BEZJNX_123328 Number of predicted TMRs: 0
+BEZJNX_123328	inside	1	50				
+//
+# BEZJNX_148021 Length: 40
+# BEZJNX_148021 Number of predicted TMRs: 0
+BEZJNX_148021	inside	1	40				
+//
+# BEZJNX_12433 Length: 49
+# BEZJNX_12433 Number of predicted TMRs: 0
+BEZJNX_12433	inside	1	49				
+//
+# BEZJNX_90867 Length: 44
+# BEZJNX_90867 Number of predicted TMRs: 0
+BEZJNX_90867	signal	1	10				
+BEZJNX_90867	outside	11	44				
+//
+# BEZJNX_90531 Length: 42
+# BEZJNX_90531 Number of predicted TMRs: 0
+BEZJNX_90531	inside	1	42				
+//
+# BEZJNX_124767 Length: 45
+# BEZJNX_124767 Number of predicted TMRs: 0
+BEZJNX_124767	inside	1	45				
+//
+# BEZJNX_86598 Length: 50
+# BEZJNX_86598 Number of predicted TMRs: 0
+BEZJNX_86598	inside	1	50				
+//
+# BEZJNX_114838 Length: 46
+# BEZJNX_114838 Number of predicted TMRs: 0
+BEZJNX_114838	inside	1	46				
+//
+# BEZJNX_2001 Length: 33
+# BEZJNX_2001 Number of predicted TMRs: 0
+BEZJNX_2001	signal	1	26				
+BEZJNX_2001	outside	27	33				
+//
+# BEZJNX_172486 Length: 43
+# BEZJNX_172486 Number of predicted TMRs: 0
+BEZJNX_172486	signal	1	15				
+BEZJNX_172486	outside	16	43				
+//
+# BEZJNX_140930 Length: 29
+# BEZJNX_140930 Number of predicted TMRs: 0
+BEZJNX_140930	signal	1	26				
+BEZJNX_140930	outside	27	29				
+//
+# BEZJNX_6490 Length: 42
+# BEZJNX_6490 Number of predicted TMRs: 0
+BEZJNX_6490	inside	1	42				
+//
+# BEZJNX_169192 Length: 38
+# BEZJNX_169192 Number of predicted TMRs: 0
+BEZJNX_169192	inside	1	38				
+//
+# BEZJNX_36375 Length: 47
+# BEZJNX_36375 Number of predicted TMRs: 0
+BEZJNX_36375	inside	1	47				
+//
+# BEZJNX_60667 Length: 50
+# BEZJNX_60667 Number of predicted TMRs: 0
+BEZJNX_60667	inside	1	50				
+//
+# BEZJNX_127726 Length: 39
+# BEZJNX_127726 Number of predicted TMRs: 0
+BEZJNX_127726	outside	1	39				
+//
+# BEZJNX_54273 Length: 46
+# BEZJNX_54273 Number of predicted TMRs: 0
+BEZJNX_54273	inside	1	46				
+//
+# BEZJNX_138684 Length: 42
+# BEZJNX_138684 Number of predicted TMRs: 0
+BEZJNX_138684	inside	1	42				
+//
+# BEZJNX_73748 Length: 49
+# BEZJNX_73748 Number of predicted TMRs: 0
+BEZJNX_73748	signal	1	13				
+BEZJNX_73748	outside	14	49				
+//
+# BEZJNX_162839 Length: 42
+# BEZJNX_162839 Number of predicted TMRs: 1
+BEZJNX_162839	outside	1	11				
+BEZJNX_162839	TMhelix	12	28				
+BEZJNX_162839	inside	29	42				
+//
+# BEZJNX_3842 Length: 46
+# BEZJNX_3842 Number of predicted TMRs: 0
+BEZJNX_3842	signal	1	45				
+BEZJNX_3842	outside	46	46				
+//
+# BEZJNX_17119 Length: 45
+# BEZJNX_17119 Number of predicted TMRs: 0
+BEZJNX_17119	signal	1	40				
+BEZJNX_17119	outside	41	45				
+//
+# BEZJNX_171250 Length: 41
+# BEZJNX_171250 Number of predicted TMRs: 0
+BEZJNX_171250	inside	1	41				
+//
+# BEZJNX_7133 Length: 49
+# BEZJNX_7133 Number of predicted TMRs: 0
+BEZJNX_7133	signal	1	44				
+BEZJNX_7133	outside	45	49				
+//
+# BEZJNX_42136 Length: 50
+# BEZJNX_42136 Number of predicted TMRs: 0
+BEZJNX_42136	inside	1	50				
+//
+# BEZJNX_131180 Length: 47
+# BEZJNX_131180 Number of predicted TMRs: 0
+BEZJNX_131180	inside	1	47				
+//
+# BEZJNX_69138 Length: 49
+# BEZJNX_69138 Number of predicted TMRs: 0
+BEZJNX_69138	inside	1	49				
+//
+# BEZJNX_143984 Length: 38
+# BEZJNX_143984 Number of predicted TMRs: 0
+BEZJNX_143984	signal	1	37				
+BEZJNX_143984	outside	38	38				
+//
+# BEZJNX_161221 Length: 43
+# BEZJNX_161221 Number of predicted TMRs: 0
+BEZJNX_161221	outside	1	43				
+//
+# BEZJNX_80038 Length: 46
+# BEZJNX_80038 Number of predicted TMRs: 0
+BEZJNX_80038	inside	1	46				
+//
+# BEZJNX_46800 Length: 40
+# BEZJNX_46800 Number of predicted TMRs: 0
+BEZJNX_46800	inside	1	40				
+//
+# BEZJNX_36959 Length: 50
+# BEZJNX_36959 Number of predicted TMRs: 0
+BEZJNX_36959	inside	1	50				
+//
+# BEZJNX_22996 Length: 43
+# BEZJNX_22996 Number of predicted TMRs: 0
+BEZJNX_22996	signal	1	41				
+BEZJNX_22996	outside	42	43				
+//
+# BEZJNX_151256 Length: 41
+# BEZJNX_151256 Number of predicted TMRs: 0
+BEZJNX_151256	signal	1	40				
+BEZJNX_151256	outside	41	41				
+//
+# BEZJNX_108429 Length: 45
+# BEZJNX_108429 Number of predicted TMRs: 0
+BEZJNX_108429	signal	1	12				
+BEZJNX_108429	outside	13	45				
+//
+# BEZJNX_118585 Length: 46
+# BEZJNX_118585 Number of predicted TMRs: 0
+BEZJNX_118585	inside	1	46				
+//
+# BEZJNX_139378 Length: 46
+# BEZJNX_139378 Number of predicted TMRs: 0
+BEZJNX_139378	signal	1	42				
+BEZJNX_139378	outside	43	46				
+//
+# BEZJNX_170411 Length: 49
+# BEZJNX_170411 Number of predicted TMRs: 0
+BEZJNX_170411	inside	1	49				
+//
+# BEZJNX_136793 Length: 47
+# BEZJNX_136793 Number of predicted TMRs: 0
+BEZJNX_136793	signal	1	21				
+BEZJNX_136793	outside	22	47				
+//
+# BEZJNX_16504 Length: 48
+# BEZJNX_16504 Number of predicted TMRs: 0
+BEZJNX_16504	inside	1	48				
+//
+# BEZJNX_47955 Length: 49
+# BEZJNX_47955 Number of predicted TMRs: 0
+BEZJNX_47955	inside	1	49				
+//
+# BEZJNX_112957 Length: 48
+# BEZJNX_112957 Number of predicted TMRs: 0
+BEZJNX_112957	signal	1	10				
+BEZJNX_112957	outside	11	48				
+//
+# BEZJNX_49881 Length: 46
+# BEZJNX_49881 Number of predicted TMRs: 0
+BEZJNX_49881	signal	1	28				
+BEZJNX_49881	outside	29	46				
+//
+# BEZJNX_99222 Length: 46
+# BEZJNX_99222 Number of predicted TMRs: 0
+BEZJNX_99222	inside	1	46				
+//
+# BEZJNX_168581 Length: 50
+# BEZJNX_168581 Number of predicted TMRs: 0
+BEZJNX_168581	inside	1	50				
+//
+# BEZJNX_165348 Length: 50
+# BEZJNX_165348 Number of predicted TMRs: 0
+BEZJNX_165348	inside	1	50				
+//
+# BEZJNX_69044 Length: 45
+# BEZJNX_69044 Number of predicted TMRs: 0
+BEZJNX_69044	signal	1	44				
+BEZJNX_69044	outside	45	45				
+//
+# BEZJNX_97659 Length: 45
+# BEZJNX_97659 Number of predicted TMRs: 0
+BEZJNX_97659	inside	1	45				
+//
+# BEZJNX_29201 Length: 47
+# BEZJNX_29201 Number of predicted TMRs: 0
+BEZJNX_29201	signal	1	12				
+BEZJNX_29201	outside	13	47				
+//
+# BEZJNX_50963 Length: 37
+# BEZJNX_50963 Number of predicted TMRs: 0
+BEZJNX_50963	signal	1	24				
+BEZJNX_50963	outside	25	37				
+//
+# BEZJNX_143047 Length: 33
+# BEZJNX_143047 Number of predicted TMRs: 0
+BEZJNX_143047	outside	1	33				
+//
+# BEZJNX_22784 Length: 45
+# BEZJNX_22784 Number of predicted TMRs: 0
+BEZJNX_22784	signal	1	42				
+BEZJNX_22784	outside	43	45				
+//
+# BEZJNX_128152 Length: 49
+# BEZJNX_128152 Number of predicted TMRs: 0
+BEZJNX_128152	signal	1	11				
+BEZJNX_128152	outside	12	49				
+//
+# BEZJNX_146060 Length: 45
+# BEZJNX_146060 Number of predicted TMRs: 0
+BEZJNX_146060	signal	1	44				
+BEZJNX_146060	outside	45	45				
+//
+# BEZJNX_8564 Length: 47
+# BEZJNX_8564 Number of predicted TMRs: 0
+BEZJNX_8564	signal	1	41				
+BEZJNX_8564	outside	42	47				
+//
+# BEZJNX_135231 Length: 43
+# BEZJNX_135231 Number of predicted TMRs: 0
+BEZJNX_135231	inside	1	43				
+//
+# BEZJNX_88685 Length: 45
+# BEZJNX_88685 Number of predicted TMRs: 0
+BEZJNX_88685	inside	1	45				
+//
+# BEZJNX_15832 Length: 47
+# BEZJNX_15832 Number of predicted TMRs: 0
+BEZJNX_15832	inside	1	47				
+//
+# BEZJNX_165609 Length: 50
+# BEZJNX_165609 Number of predicted TMRs: 0
+BEZJNX_165609	outside	1	50				
+//
+# BEZJNX_93270 Length: 36
+# BEZJNX_93270 Number of predicted TMRs: 0
+BEZJNX_93270	signal	1	31				
+BEZJNX_93270	outside	32	36				
+//
+# BEZJNX_136395 Length: 38
+# BEZJNX_136395 Number of predicted TMRs: 0
+BEZJNX_136395	signal	1	37				
+BEZJNX_136395	outside	38	38				
+//
+# BEZJNX_122660 Length: 50
+# BEZJNX_122660 Number of predicted TMRs: 0
+BEZJNX_122660	inside	1	50				
+//
+# BEZJNX_46032 Length: 43
+# BEZJNX_46032 Number of predicted TMRs: 0
+BEZJNX_46032	inside	1	43				
+//
+# BEZJNX_169823 Length: 41
+# BEZJNX_169823 Number of predicted TMRs: 0
+BEZJNX_169823	signal	1	40				
+BEZJNX_169823	outside	41	41				
+//
+# BEZJNX_122614 Length: 43
+# BEZJNX_122614 Number of predicted TMRs: 0
+BEZJNX_122614	inside	1	43				
+//
+# BEZJNX_38000 Length: 49
+# BEZJNX_38000 Number of predicted TMRs: 0
+BEZJNX_38000	inside	1	49				
+//
+# BEZJNX_170426 Length: 47
+# BEZJNX_170426 Number of predicted TMRs: 0
+BEZJNX_170426	inside	1	47				
+//
+# BEZJNX_107433 Length: 45
+# BEZJNX_107433 Number of predicted TMRs: 0
+BEZJNX_107433	signal	1	20				
+BEZJNX_107433	outside	21	45				
+//
+# BEZJNX_158543 Length: 49
+# BEZJNX_158543 Number of predicted TMRs: 1
+BEZJNX_158543	inside	1	21				
+BEZJNX_158543	TMhelix	22	42				
+BEZJNX_158543	outside	43	49				
+//
+# BEZJNX_44530 Length: 47
+# BEZJNX_44530 Number of predicted TMRs: 0
+BEZJNX_44530	signal	1	10				
+BEZJNX_44530	outside	11	47				
+//
+# BEZJNX_45082 Length: 45
+# BEZJNX_45082 Number of predicted TMRs: 0
+BEZJNX_45082	inside	1	45				
+//
+# BEZJNX_85002 Length: 46
+# BEZJNX_85002 Number of predicted TMRs: 0
+BEZJNX_85002	outside	1	46				
+//
+# BEZJNX_122383 Length: 47
+# BEZJNX_122383 Number of predicted TMRs: 0
+BEZJNX_122383	inside	1	47				
+//
+# BEZJNX_169532 Length: 49
+# BEZJNX_169532 Number of predicted TMRs: 0
+BEZJNX_169532	inside	1	49				
+//
+# BEZJNX_64272 Length: 44
+# BEZJNX_64272 Number of predicted TMRs: 0
+BEZJNX_64272	inside	1	44				
+//
+# BEZJNX_125948 Length: 48
+# BEZJNX_125948 Number of predicted TMRs: 0
+BEZJNX_125948	signal	1	47				
+BEZJNX_125948	outside	48	48				
+//
+# BEZJNX_45628 Length: 39
+# BEZJNX_45628 Number of predicted TMRs: 0
+BEZJNX_45628	signal	1	30				
+BEZJNX_45628	outside	31	39				
+//
+# BEZJNX_48961 Length: 37
+# BEZJNX_48961 Number of predicted TMRs: 0
+BEZJNX_48961	inside	1	37				
+//
+# BEZJNX_102114 Length: 46
+# BEZJNX_102114 Number of predicted TMRs: 0
+BEZJNX_102114	inside	1	46				
+//
+# BEZJNX_127001 Length: 35
+# BEZJNX_127001 Number of predicted TMRs: 0
+BEZJNX_127001	inside	1	35				
+//
+# BEZJNX_95178 Length: 44
+# BEZJNX_95178 Number of predicted TMRs: 0
+BEZJNX_95178	signal	1	43				
+BEZJNX_95178	outside	44	44				
+//
+# BEZJNX_64628 Length: 45
+# BEZJNX_64628 Number of predicted TMRs: 0
+BEZJNX_64628	inside	1	45				
+//
+# BEZJNX_55755 Length: 46
+# BEZJNX_55755 Number of predicted TMRs: 0
+BEZJNX_55755	signal	1	13				
+BEZJNX_55755	outside	14	46				
+//
+# BEZJNX_29290 Length: 43
+# BEZJNX_29290 Number of predicted TMRs: 0
+BEZJNX_29290	inside	1	43				
+//
+# BEZJNX_25255 Length: 44
+# BEZJNX_25255 Number of predicted TMRs: 0
+BEZJNX_25255	inside	1	44				
+//
+# BEZJNX_15051 Length: 50
+# BEZJNX_15051 Number of predicted TMRs: 0
+BEZJNX_15051	inside	1	50				
+//
+# BEZJNX_62566 Length: 35
+# BEZJNX_62566 Number of predicted TMRs: 0
+BEZJNX_62566	inside	1	35				
+//
+# BEZJNX_92064 Length: 50
+# BEZJNX_92064 Number of predicted TMRs: 0
+BEZJNX_92064	signal	1	18				
+BEZJNX_92064	outside	19	50				
+//
+# BEZJNX_7639 Length: 48
+# BEZJNX_7639 Number of predicted TMRs: 0
+BEZJNX_7639	inside	1	48				
+//
+# BEZJNX_23070 Length: 44
+# BEZJNX_23070 Number of predicted TMRs: 0
+BEZJNX_23070	inside	1	44				
+//
+# BEZJNX_91753 Length: 42
+# BEZJNX_91753 Number of predicted TMRs: 0
+BEZJNX_91753	inside	1	42				
+//
+# BEZJNX_136487 Length: 46
+# BEZJNX_136487 Number of predicted TMRs: 0
+BEZJNX_136487	inside	1	46				
+//
+# BEZJNX_142987 Length: 47
+# BEZJNX_142987 Number of predicted TMRs: 0
+BEZJNX_142987	inside	1	47				
+//
+# BEZJNX_94116 Length: 48
+# BEZJNX_94116 Number of predicted TMRs: 0
+BEZJNX_94116	outside	1	48				
+//
+# BEZJNX_89738 Length: 50
+# BEZJNX_89738 Number of predicted TMRs: 0
+BEZJNX_89738	inside	1	50				
+//
+# BEZJNX_166961 Length: 48
+# BEZJNX_166961 Number of predicted TMRs: 0
+BEZJNX_166961	inside	1	48				
+//
+# BEZJNX_39474 Length: 48
+# BEZJNX_39474 Number of predicted TMRs: 0
+BEZJNX_39474	inside	1	48				
+//
+# BEZJNX_99840 Length: 44
+# BEZJNX_99840 Number of predicted TMRs: 0
+BEZJNX_99840	inside	1	44				
+//
+# BEZJNX_123205 Length: 45
+# BEZJNX_123205 Number of predicted TMRs: 0
+BEZJNX_123205	signal	1	44				
+BEZJNX_123205	outside	45	45				
+//
+# BEZJNX_39194 Length: 50
+# BEZJNX_39194 Number of predicted TMRs: 0
+BEZJNX_39194	inside	1	50				
+//
+# BEZJNX_30362 Length: 50
+# BEZJNX_30362 Number of predicted TMRs: 0
+BEZJNX_30362	inside	1	50				
+//
+# BEZJNX_134834 Length: 41
+# BEZJNX_134834 Number of predicted TMRs: 0
+BEZJNX_134834	signal	1	32				
+BEZJNX_134834	outside	33	41				
+//
+# BEZJNX_131560 Length: 50
+# BEZJNX_131560 Number of predicted TMRs: 0
+BEZJNX_131560	signal	1	39				
+BEZJNX_131560	outside	40	50				
+//
+# BEZJNX_14856 Length: 48
+# BEZJNX_14856 Number of predicted TMRs: 0
+BEZJNX_14856	inside	1	48				
+//
+# BEZJNX_65671 Length: 50
+# BEZJNX_65671 Number of predicted TMRs: 0
+BEZJNX_65671	inside	1	50				
+//
+# BEZJNX_10976 Length: 41
+# BEZJNX_10976 Number of predicted TMRs: 0
+BEZJNX_10976	inside	1	41				
+//
+# BEZJNX_26037 Length: 46
+# BEZJNX_26037 Number of predicted TMRs: 0
+BEZJNX_26037	signal	1	32				
+BEZJNX_26037	outside	33	46				
+//
+# BEZJNX_111218 Length: 45
+# BEZJNX_111218 Number of predicted TMRs: 0
+BEZJNX_111218	signal	1	43				
+BEZJNX_111218	outside	44	45				
+//
+# BEZJNX_80964 Length: 44
+# BEZJNX_80964 Number of predicted TMRs: 0
+BEZJNX_80964	inside	1	44				
+//
+# BEZJNX_121380 Length: 50
+# BEZJNX_121380 Number of predicted TMRs: 0
+BEZJNX_121380	inside	1	50				
+//
+# BEZJNX_103168 Length: 44
+# BEZJNX_103168 Number of predicted TMRs: 0
+BEZJNX_103168	inside	1	44				
+//
+# BEZJNX_11149 Length: 48
+# BEZJNX_11149 Number of predicted TMRs: 0
+BEZJNX_11149	inside	1	48				
+//
+# BEZJNX_61507 Length: 47
+# BEZJNX_61507 Number of predicted TMRs: 0
+BEZJNX_61507	inside	1	47				
+//
+# BEZJNX_13504 Length: 49
+# BEZJNX_13504 Number of predicted TMRs: 0
+BEZJNX_13504	inside	1	49				
+//
+# BEZJNX_57720 Length: 48
+# BEZJNX_57720 Number of predicted TMRs: 0
+BEZJNX_57720	inside	1	48				
+//
+# BEZJNX_99166 Length: 49
+# BEZJNX_99166 Number of predicted TMRs: 0
+BEZJNX_99166	outside	1	49				
+//
+# BEZJNX_81725 Length: 47
+# BEZJNX_81725 Number of predicted TMRs: 0
+BEZJNX_81725	inside	1	47				
+//
+# BEZJNX_114572 Length: 40
+# BEZJNX_114572 Number of predicted TMRs: 0
+BEZJNX_114572	inside	1	40				
+//
+# BEZJNX_127276 Length: 49
+# BEZJNX_127276 Number of predicted TMRs: 0
+BEZJNX_127276	outside	1	49				
+//
+# BEZJNX_58227 Length: 50
+# BEZJNX_58227 Number of predicted TMRs: 0
+BEZJNX_58227	signal	1	29				
+BEZJNX_58227	outside	30	50				
+//
+# BEZJNX_47716 Length: 45
+# BEZJNX_47716 Number of predicted TMRs: 0
+BEZJNX_47716	signal	1	44				
+BEZJNX_47716	outside	45	45				
+//
+# BEZJNX_76189 Length: 40
+# BEZJNX_76189 Number of predicted TMRs: 0
+BEZJNX_76189	signal	1	26				
+BEZJNX_76189	outside	27	40				
+//
+# BEZJNX_97134 Length: 41
+# BEZJNX_97134 Number of predicted TMRs: 0
+BEZJNX_97134	signal	1	28				
+BEZJNX_97134	outside	29	41				
+//
+# BEZJNX_150037 Length: 47
+# BEZJNX_150037 Number of predicted TMRs: 0
+BEZJNX_150037	signal	1	27				
+BEZJNX_150037	outside	28	47				
+//
+# BEZJNX_156920 Length: 47
+# BEZJNX_156920 Number of predicted TMRs: 0
+BEZJNX_156920	signal	1	38				
+BEZJNX_156920	outside	39	47				
+//
+# BEZJNX_67027 Length: 47
+# BEZJNX_67027 Number of predicted TMRs: 0
+BEZJNX_67027	signal	1	38				
+BEZJNX_67027	outside	39	47				
+//
+# BEZJNX_19935 Length: 43
+# BEZJNX_19935 Number of predicted TMRs: 0
+BEZJNX_19935	signal	1	12				
+BEZJNX_19935	outside	13	43				
+//
+# BEZJNX_144242 Length: 46
+# BEZJNX_144242 Number of predicted TMRs: 0
+BEZJNX_144242	signal	1	45				
+BEZJNX_144242	outside	46	46				
+//
+# BEZJNX_150136 Length: 46
+# BEZJNX_150136 Number of predicted TMRs: 0
+BEZJNX_150136	inside	1	46				
+//
+# BEZJNX_17009 Length: 37
+# BEZJNX_17009 Number of predicted TMRs: 0
+BEZJNX_17009	signal	1	12				
+BEZJNX_17009	outside	13	37				
+//
+# BEZJNX_122687 Length: 49
+# BEZJNX_122687 Number of predicted TMRs: 0
+BEZJNX_122687	inside	1	49				
+//
+# BEZJNX_88333 Length: 49
+# BEZJNX_88333 Number of predicted TMRs: 0
+BEZJNX_88333	inside	1	49				
+//
+# BEZJNX_66790 Length: 47
+# BEZJNX_66790 Number of predicted TMRs: 0
+BEZJNX_66790	inside	1	47				
+//
+# BEZJNX_1907 Length: 25
+# BEZJNX_1907 Number of predicted TMRs: 0
+BEZJNX_1907	inside	1	25				
+//
+# BEZJNX_37891 Length: 44
+# BEZJNX_37891 Number of predicted TMRs: 0
+BEZJNX_37891	inside	1	44				
+//
+# BEZJNX_55652 Length: 50
+# BEZJNX_55652 Number of predicted TMRs: 0
+BEZJNX_55652	signal	1	10				
+BEZJNX_55652	outside	11	50				
+//
+# BEZJNX_137223 Length: 34
+# BEZJNX_137223 Number of predicted TMRs: 0
+BEZJNX_137223	inside	1	34				
+//
+# BEZJNX_99627 Length: 31
+# BEZJNX_99627 Number of predicted TMRs: 0
+BEZJNX_99627	signal	1	21				
+BEZJNX_99627	outside	22	31				
+//
+# BEZJNX_110530 Length: 49
+# BEZJNX_110530 Number of predicted TMRs: 0
+BEZJNX_110530	inside	1	49				
+//
+# BEZJNX_172372 Length: 48
+# BEZJNX_172372 Number of predicted TMRs: 0
+BEZJNX_172372	signal	1	47				
+BEZJNX_172372	outside	48	48				
+//
+# BEZJNX_6347 Length: 43
+# BEZJNX_6347 Number of predicted TMRs: 0
+BEZJNX_6347	inside	1	43				
+//
+# BEZJNX_168549 Length: 50
+# BEZJNX_168549 Number of predicted TMRs: 0
+BEZJNX_168549	inside	1	50				
+//
+# BEZJNX_111516 Length: 45
+# BEZJNX_111516 Number of predicted TMRs: 0
+BEZJNX_111516	outside	1	45				
+//
+# BEZJNX_95458 Length: 36
+# BEZJNX_95458 Number of predicted TMRs: 0
+BEZJNX_95458	inside	1	36				
+//
+# BEZJNX_30231 Length: 47
+# BEZJNX_30231 Number of predicted TMRs: 0
+BEZJNX_30231	inside	1	47				
+//
+# BEZJNX_139377 Length: 40
+# BEZJNX_139377 Number of predicted TMRs: 0
+BEZJNX_139377	inside	1	40				
+//
+# BEZJNX_29924 Length: 47
+# BEZJNX_29924 Number of predicted TMRs: 0
+BEZJNX_29924	inside	1	47				
+//
+# BEZJNX_42281 Length: 44
+# BEZJNX_42281 Number of predicted TMRs: 0
+BEZJNX_42281	inside	1	44				
+//
+# BEZJNX_112292 Length: 39
+# BEZJNX_112292 Number of predicted TMRs: 0
+BEZJNX_112292	signal	1	38				
+BEZJNX_112292	outside	39	39				
+//
+# BEZJNX_28839 Length: 30
+# BEZJNX_28839 Number of predicted TMRs: 0
+BEZJNX_28839	signal	1	29				
+BEZJNX_28839	outside	30	30				
+//
+# BEZJNX_107453 Length: 42
+# BEZJNX_107453 Number of predicted TMRs: 0
+BEZJNX_107453	inside	1	42				
+//
+# BEZJNX_35492 Length: 40
+# BEZJNX_35492 Number of predicted TMRs: 0
+BEZJNX_35492	inside	1	40				
+//
+# BEZJNX_118973 Length: 49
+# BEZJNX_118973 Number of predicted TMRs: 0
+BEZJNX_118973	inside	1	49				
+//
+# BEZJNX_130375 Length: 48
+# BEZJNX_130375 Number of predicted TMRs: 0
+BEZJNX_130375	inside	1	48				
+//
+# BEZJNX_142659 Length: 47
+# BEZJNX_142659 Number of predicted TMRs: 0
+BEZJNX_142659	signal	1	10				
+BEZJNX_142659	outside	11	47				
+//
+# BEZJNX_120643 Length: 47
+# BEZJNX_120643 Number of predicted TMRs: 0
+BEZJNX_120643	inside	1	47				
+//
+# BEZJNX_99249 Length: 46
+# BEZJNX_99249 Number of predicted TMRs: 0
+BEZJNX_99249	inside	1	46				
+//
+# BEZJNX_39403 Length: 50
+# BEZJNX_39403 Number of predicted TMRs: 0
+BEZJNX_39403	inside	1	50				
+//
+# BEZJNX_52508 Length: 49
+# BEZJNX_52508 Number of predicted TMRs: 0
+BEZJNX_52508	inside	1	49				
+//
+# BEZJNX_140782 Length: 47
+# BEZJNX_140782 Number of predicted TMRs: 0
+BEZJNX_140782	signal	1	39				
+BEZJNX_140782	outside	40	47				
+//
+# BEZJNX_172558 Length: 49
+# BEZJNX_172558 Number of predicted TMRs: 0
+BEZJNX_172558	inside	1	49				
+//
+# BEZJNX_117099 Length: 49
+# BEZJNX_117099 Number of predicted TMRs: 0
+BEZJNX_117099	inside	1	49				
+//
+# BEZJNX_83162 Length: 46
+# BEZJNX_83162 Number of predicted TMRs: 0
+BEZJNX_83162	inside	1	46				
+//
+# BEZJNX_16202 Length: 38
+# BEZJNX_16202 Number of predicted TMRs: 0
+BEZJNX_16202	inside	1	38				
+//
+# BEZJNX_49615 Length: 49
+# BEZJNX_49615 Number of predicted TMRs: 0
+BEZJNX_49615	inside	1	49				
+//
+# BEZJNX_38004 Length: 47
+# BEZJNX_38004 Number of predicted TMRs: 0
+BEZJNX_38004	signal	1	34				
+BEZJNX_38004	outside	35	47				
+//
+# BEZJNX_46199 Length: 43
+# BEZJNX_46199 Number of predicted TMRs: 0
+BEZJNX_46199	signal	1	26				
+BEZJNX_46199	outside	27	43				
+//
+# BEZJNX_55634 Length: 31
+# BEZJNX_55634 Number of predicted TMRs: 0
+BEZJNX_55634	signal	1	30				
+BEZJNX_55634	outside	31	31				
+//
+# BEZJNX_121676 Length: 45
+# BEZJNX_121676 Number of predicted TMRs: 0
+BEZJNX_121676	signal	1	25				
+BEZJNX_121676	outside	26	45				
+//
+# BEZJNX_19330 Length: 28
+# BEZJNX_19330 Number of predicted TMRs: 0
+BEZJNX_19330	signal	1	25				
+BEZJNX_19330	outside	26	28				
+//
+# BEZJNX_77337 Length: 42
+# BEZJNX_77337 Number of predicted TMRs: 0
+BEZJNX_77337	inside	1	42				
+//
+# BEZJNX_146192 Length: 40
+# BEZJNX_146192 Number of predicted TMRs: 0
+BEZJNX_146192	signal	1	10				
+BEZJNX_146192	outside	11	40				
+//
+# BEZJNX_47616 Length: 42
+# BEZJNX_47616 Number of predicted TMRs: 0
+BEZJNX_47616	signal	1	13				
+BEZJNX_47616	outside	14	42				
+//
+# BEZJNX_71204 Length: 38
+# BEZJNX_71204 Number of predicted TMRs: 0
+BEZJNX_71204	inside	1	38				
+//
+# BEZJNX_165111 Length: 36
+# BEZJNX_165111 Number of predicted TMRs: 0
+BEZJNX_165111	inside	1	36				
+//
+# BEZJNX_73626 Length: 33
+# BEZJNX_73626 Number of predicted TMRs: 0
+BEZJNX_73626	signal	1	21				
+BEZJNX_73626	outside	22	33				
+//
+# BEZJNX_105799 Length: 49
+# BEZJNX_105799 Number of predicted TMRs: 0
+BEZJNX_105799	inside	1	49				
+//
+# BEZJNX_171837 Length: 48
+# BEZJNX_171837 Number of predicted TMRs: 0
+BEZJNX_171837	inside	1	48				
+//
+# BEZJNX_40996 Length: 46
+# BEZJNX_40996 Number of predicted TMRs: 0
+BEZJNX_40996	inside	1	46				
+//
+# BEZJNX_60302 Length: 50
+# BEZJNX_60302 Number of predicted TMRs: 0
+BEZJNX_60302	inside	1	50				
+//
+# BEZJNX_106645 Length: 37
+# BEZJNX_106645 Number of predicted TMRs: 0
+BEZJNX_106645	signal	1	22				
+BEZJNX_106645	outside	23	37				
+//
+# BEZJNX_53036 Length: 39
+# BEZJNX_53036 Number of predicted TMRs: 0
+BEZJNX_53036	outside	1	39				
+//
+# BEZJNX_18215 Length: 44
+# BEZJNX_18215 Number of predicted TMRs: 0
+BEZJNX_18215	inside	1	44				
+//
+# BEZJNX_44750 Length: 45
+# BEZJNX_44750 Number of predicted TMRs: 0
+BEZJNX_44750	inside	1	45				
+//
+# BEZJNX_2569 Length: 49
+# BEZJNX_2569 Number of predicted TMRs: 0
+BEZJNX_2569	inside	1	49				
+//
+# BEZJNX_165420 Length: 43
+# BEZJNX_165420 Number of predicted TMRs: 0
+BEZJNX_165420	signal	1	10				
+BEZJNX_165420	outside	11	43				
+//
+# BEZJNX_81165 Length: 32
+# BEZJNX_81165 Number of predicted TMRs: 0
+BEZJNX_81165	inside	1	32				
+//
+# BEZJNX_43002 Length: 41
+# BEZJNX_43002 Number of predicted TMRs: 0
+BEZJNX_43002	signal	1	35				
+BEZJNX_43002	outside	36	41				
+//
+# BEZJNX_103421 Length: 48
+# BEZJNX_103421 Number of predicted TMRs: 0
+BEZJNX_103421	signal	1	27				
+BEZJNX_103421	outside	28	48				
+//
+# BEZJNX_168892 Length: 47
+# BEZJNX_168892 Number of predicted TMRs: 0
+BEZJNX_168892	inside	1	47				
+//
+# BEZJNX_1729 Length: 48
+# BEZJNX_1729 Number of predicted TMRs: 0
+BEZJNX_1729	signal	1	39				
+BEZJNX_1729	outside	40	48				
+//
+# BEZJNX_7042 Length: 36
+# BEZJNX_7042 Number of predicted TMRs: 0
+BEZJNX_7042	signal	1	35				
+BEZJNX_7042	outside	36	36				
+//
+# BEZJNX_131036 Length: 38
+# BEZJNX_131036 Number of predicted TMRs: 0
+BEZJNX_131036	inside	1	38				
+//
+# BEZJNX_41970 Length: 43
+# BEZJNX_41970 Number of predicted TMRs: 0
+BEZJNX_41970	inside	1	43				
+//
+# BEZJNX_125384 Length: 48
+# BEZJNX_125384 Number of predicted TMRs: 0
+BEZJNX_125384	inside	1	48				
+//
+# BEZJNX_16034 Length: 45
+# BEZJNX_16034 Number of predicted TMRs: 0
+BEZJNX_16034	inside	1	45				
+//
+# BEZJNX_148270 Length: 46
+# BEZJNX_148270 Number of predicted TMRs: 0
+BEZJNX_148270	signal	1	44				
+BEZJNX_148270	outside	45	46				
+//
+# BEZJNX_65568 Length: 46
+# BEZJNX_65568 Number of predicted TMRs: 0
+BEZJNX_65568	inside	1	46				
+//
+# BEZJNX_19953 Length: 47
+# BEZJNX_19953 Number of predicted TMRs: 0
+BEZJNX_19953	inside	1	47				
+//
+# BEZJNX_54461 Length: 42
+# BEZJNX_54461 Number of predicted TMRs: 0
+BEZJNX_54461	signal	1	40				
+BEZJNX_54461	outside	41	42				
+//
+# BEZJNX_101012 Length: 49
+# BEZJNX_101012 Number of predicted TMRs: 0
+BEZJNX_101012	inside	1	49				
+//
+# BEZJNX_66712 Length: 49
+# BEZJNX_66712 Number of predicted TMRs: 0
+BEZJNX_66712	inside	1	49				
+//
+# BEZJNX_85956 Length: 49
+# BEZJNX_85956 Number of predicted TMRs: 0
+BEZJNX_85956	inside	1	49				
+//
+# BEZJNX_78730 Length: 49
+# BEZJNX_78730 Number of predicted TMRs: 0
+BEZJNX_78730	inside	1	49				
+//
+# BEZJNX_11681 Length: 40
+# BEZJNX_11681 Number of predicted TMRs: 0
+BEZJNX_11681	signal	1	39				
+BEZJNX_11681	outside	40	40				
+//
+# BEZJNX_104462 Length: 40
+# BEZJNX_104462 Number of predicted TMRs: 0
+BEZJNX_104462	inside	1	40				
+//
+# BEZJNX_34896 Length: 50
+# BEZJNX_34896 Number of predicted TMRs: 0
+BEZJNX_34896	inside	1	50				
+//
+# BEZJNX_23748 Length: 49
+# BEZJNX_23748 Number of predicted TMRs: 0
+BEZJNX_23748	signal	1	22				
+BEZJNX_23748	outside	23	49				
+//
+# BEZJNX_11202 Length: 39
+# BEZJNX_11202 Number of predicted TMRs: 0
+BEZJNX_11202	signal	1	38				
+BEZJNX_11202	outside	39	39				
+//
+# BEZJNX_123789 Length: 43
+# BEZJNX_123789 Number of predicted TMRs: 0
+BEZJNX_123789	inside	1	43				
+//
+# BEZJNX_48207 Length: 48
+# BEZJNX_48207 Number of predicted TMRs: 0
+BEZJNX_48207	inside	1	48				
+//
+# BEZJNX_71464 Length: 41
+# BEZJNX_71464 Number of predicted TMRs: 0
+BEZJNX_71464	inside	1	41				
+//
+# BEZJNX_75674 Length: 42
+# BEZJNX_75674 Number of predicted TMRs: 0
+BEZJNX_75674	inside	1	42				
+//
+# BEZJNX_19679 Length: 46
+# BEZJNX_19679 Number of predicted TMRs: 0
+BEZJNX_19679	inside	1	46				
+//
+# BEZJNX_140779 Length: 48
+# BEZJNX_140779 Number of predicted TMRs: 0
+BEZJNX_140779	outside	1	48				
+//
+# BEZJNX_140282 Length: 47
+# BEZJNX_140282 Number of predicted TMRs: 0
+BEZJNX_140282	inside	1	47				
+//
+# BEZJNX_119852 Length: 41
+# BEZJNX_119852 Number of predicted TMRs: 0
+BEZJNX_119852	signal	1	40				
+BEZJNX_119852	outside	41	41				
+//
+# BEZJNX_40366 Length: 46
+# BEZJNX_40366 Number of predicted TMRs: 0
+BEZJNX_40366	signal	1	27				
+BEZJNX_40366	outside	28	46				
+//
+# BEZJNX_116891 Length: 40
+# BEZJNX_116891 Number of predicted TMRs: 0
+BEZJNX_116891	signal	1	15				
+BEZJNX_116891	outside	16	40				
+//
+# BEZJNX_30302 Length: 50
+# BEZJNX_30302 Number of predicted TMRs: 0
+BEZJNX_30302	inside	1	50				
+//
+# BEZJNX_81923 Length: 49
+# BEZJNX_81923 Number of predicted TMRs: 0
+BEZJNX_81923	inside	1	49				
+//
+# BEZJNX_27393 Length: 43
+# BEZJNX_27393 Number of predicted TMRs: 0
+BEZJNX_27393	inside	1	43				
+//
+# BEZJNX_15891 Length: 47
+# BEZJNX_15891 Number of predicted TMRs: 0
+BEZJNX_15891	outside	1	47				
+//
+# BEZJNX_71900 Length: 45
+# BEZJNX_71900 Number of predicted TMRs: 0
+BEZJNX_71900	signal	1	43				
+BEZJNX_71900	outside	44	45				
+//
+# BEZJNX_44262 Length: 40
+# BEZJNX_44262 Number of predicted TMRs: 0
+BEZJNX_44262	inside	1	40				
+//
+# BEZJNX_48032 Length: 47
+# BEZJNX_48032 Number of predicted TMRs: 0
+BEZJNX_48032	inside	1	47				
+//
+# BEZJNX_150148 Length: 46
+# BEZJNX_150148 Number of predicted TMRs: 0
+BEZJNX_150148	inside	1	46				
+//
+# BEZJNX_76310 Length: 49
+# BEZJNX_76310 Number of predicted TMRs: 0
+BEZJNX_76310	inside	1	49				
+//
+# BEZJNX_168143 Length: 44
+# BEZJNX_168143 Number of predicted TMRs: 0
+BEZJNX_168143	signal	1	39				
+BEZJNX_168143	outside	40	44				
+//
+# BEZJNX_137510 Length: 44
+# BEZJNX_137510 Number of predicted TMRs: 0
+BEZJNX_137510	signal	1	43				
+BEZJNX_137510	outside	44	44				
+//
+# BEZJNX_26257 Length: 34
+# BEZJNX_26257 Number of predicted TMRs: 0
+BEZJNX_26257	inside	1	34				
+//
+# BEZJNX_164578 Length: 49
+# BEZJNX_164578 Number of predicted TMRs: 0
+BEZJNX_164578	signal	1	44				
+BEZJNX_164578	outside	45	49				
+//
+# BEZJNX_26694 Length: 41
+# BEZJNX_26694 Number of predicted TMRs: 0
+BEZJNX_26694	inside	1	41				
+//
+# BEZJNX_55020 Length: 45
+# BEZJNX_55020 Number of predicted TMRs: 0
+BEZJNX_55020	inside	1	45				
+//
+# BEZJNX_21544 Length: 48
+# BEZJNX_21544 Number of predicted TMRs: 0
+BEZJNX_21544	signal	1	45				
+BEZJNX_21544	outside	46	48				
+//
+# BEZJNX_20905 Length: 38
+# BEZJNX_20905 Number of predicted TMRs: 0
+BEZJNX_20905	signal	1	37				
+BEZJNX_20905	outside	38	38				
+//
+# BEZJNX_38299 Length: 40
+# BEZJNX_38299 Number of predicted TMRs: 0
+BEZJNX_38299	signal	1	35				
+BEZJNX_38299	outside	36	40				
+//
+# BEZJNX_80641 Length: 48
+# BEZJNX_80641 Number of predicted TMRs: 0
+BEZJNX_80641	inside	1	48				
+//
+# BEZJNX_86673 Length: 47
+# BEZJNX_86673 Number of predicted TMRs: 0
+BEZJNX_86673	outside	1	47				
+//
+# BEZJNX_9490 Length: 39
+# BEZJNX_9490 Number of predicted TMRs: 0
+BEZJNX_9490	signal	1	38				
+BEZJNX_9490	outside	39	39				
+//
+# BEZJNX_123132 Length: 42
+# BEZJNX_123132 Number of predicted TMRs: 0
+BEZJNX_123132	inside	1	42				
+//
+# BEZJNX_23818 Length: 41
+# BEZJNX_23818 Number of predicted TMRs: 0
+BEZJNX_23818	signal	1	15				
+BEZJNX_23818	outside	16	41				
+//
+# BEZJNX_36502 Length: 42
+# BEZJNX_36502 Number of predicted TMRs: 0
+BEZJNX_36502	inside	1	42				
+//
+# BEZJNX_163978 Length: 49
+# BEZJNX_163978 Number of predicted TMRs: 0
+BEZJNX_163978	inside	1	49				
+//
+# BEZJNX_166972 Length: 49
+# BEZJNX_166972 Number of predicted TMRs: 0
+BEZJNX_166972	inside	1	49				
+//
+# BEZJNX_49039 Length: 50
+# BEZJNX_49039 Number of predicted TMRs: 0
+BEZJNX_49039	signal	1	23				
+BEZJNX_49039	outside	24	50				
+//
+# BEZJNX_25112 Length: 41
+# BEZJNX_25112 Number of predicted TMRs: 0
+BEZJNX_25112	inside	1	41				
+//
+# BEZJNX_145542 Length: 49
+# BEZJNX_145542 Number of predicted TMRs: 0
+BEZJNX_145542	inside	1	49				
+//
+# BEZJNX_73893 Length: 49
+# BEZJNX_73893 Number of predicted TMRs: 0
+BEZJNX_73893	inside	1	49				
+//
+# BEZJNX_58989 Length: 41
+# BEZJNX_58989 Number of predicted TMRs: 0
+BEZJNX_58989	inside	1	41				
+//
+# BEZJNX_171186 Length: 47
+# BEZJNX_171186 Number of predicted TMRs: 0
+BEZJNX_171186	signal	1	46				
+BEZJNX_171186	periplasm	47	47				
+//
+# BEZJNX_26326 Length: 46
+# BEZJNX_26326 Number of predicted TMRs: 0
+BEZJNX_26326	inside	1	46				
+//
+# BEZJNX_152200 Length: 47
+# BEZJNX_152200 Number of predicted TMRs: 0
+BEZJNX_152200	signal	1	22				
+BEZJNX_152200	outside	23	47				
+//
+# BEZJNX_96303 Length: 45
+# BEZJNX_96303 Number of predicted TMRs: 0
+BEZJNX_96303	inside	1	45				
+//
+# BEZJNX_4805 Length: 47
+# BEZJNX_4805 Number of predicted TMRs: 0
+BEZJNX_4805	inside	1	47				
+//
+# BEZJNX_46675 Length: 48
+# BEZJNX_46675 Number of predicted TMRs: 0
+BEZJNX_46675	inside	1	48				
+//
+# BEZJNX_140013 Length: 40
+# BEZJNX_140013 Number of predicted TMRs: 0
+BEZJNX_140013	signal	1	26				
+BEZJNX_140013	outside	27	40				
+//
+# BEZJNX_3107 Length: 42
+# BEZJNX_3107 Number of predicted TMRs: 0
+BEZJNX_3107	signal	1	25				
+BEZJNX_3107	outside	26	42				
+//
+# BEZJNX_49640 Length: 43
+# BEZJNX_49640 Number of predicted TMRs: 0
+BEZJNX_49640	inside	1	43				
+//
+# BEZJNX_167373 Length: 39
+# BEZJNX_167373 Number of predicted TMRs: 0
+BEZJNX_167373	outside	1	39				
+//
+# BEZJNX_145446 Length: 49
+# BEZJNX_145446 Number of predicted TMRs: 0
+BEZJNX_145446	inside	1	49				
+//
+# BEZJNX_105404 Length: 46
+# BEZJNX_105404 Number of predicted TMRs: 0
+BEZJNX_105404	inside	1	46				
+//
+# BEZJNX_75556 Length: 36
+# BEZJNX_75556 Number of predicted TMRs: 0
+BEZJNX_75556	inside	1	36				
+//
+# BEZJNX_46090 Length: 50
+# BEZJNX_46090 Number of predicted TMRs: 0
+BEZJNX_46090	signal	1	48				
+BEZJNX_46090	outside	49	50				
+//
+# BEZJNX_138400 Length: 48
+# BEZJNX_138400 Number of predicted TMRs: 0
+BEZJNX_138400	outside	1	48				
+//
+# BEZJNX_120649 Length: 50
+# BEZJNX_120649 Number of predicted TMRs: 0
+BEZJNX_120649	inside	1	50				
+//
+# BEZJNX_120458 Length: 48
+# BEZJNX_120458 Number of predicted TMRs: 0
+BEZJNX_120458	inside	1	48				
+//
+# BEZJNX_103257 Length: 46
+# BEZJNX_103257 Number of predicted TMRs: 0
+BEZJNX_103257	inside	1	46				
+//
+# BEZJNX_72091 Length: 37
+# BEZJNX_72091 Number of predicted TMRs: 0
+BEZJNX_72091	signal	1	15				
+BEZJNX_72091	outside	16	37				
+//
+# BEZJNX_121848 Length: 43
+# BEZJNX_121848 Number of predicted TMRs: 0
+BEZJNX_121848	signal	1	42				
+BEZJNX_121848	outside	43	43				
+//
+# BEZJNX_1424 Length: 49
+# BEZJNX_1424 Number of predicted TMRs: 0
+BEZJNX_1424	signal	1	13				
+BEZJNX_1424	outside	14	49				
+//
+# BEZJNX_40020 Length: 49
+# BEZJNX_40020 Number of predicted TMRs: 0
+BEZJNX_40020	inside	1	49				
+//
+# BEZJNX_88127 Length: 46
+# BEZJNX_88127 Number of predicted TMRs: 0
+BEZJNX_88127	inside	1	46				
+//
+# BEZJNX_61936 Length: 44
+# BEZJNX_61936 Number of predicted TMRs: 0
+BEZJNX_61936	signal	1	43				
+BEZJNX_61936	outside	44	44				
+//
+# BEZJNX_116865 Length: 48
+# BEZJNX_116865 Number of predicted TMRs: 0
+BEZJNX_116865	inside	1	48				
+//
+# BEZJNX_107065 Length: 43
+# BEZJNX_107065 Number of predicted TMRs: 0
+BEZJNX_107065	inside	1	43				
+//
+# BEZJNX_143328 Length: 36
+# BEZJNX_143328 Number of predicted TMRs: 0
+BEZJNX_143328	inside	1	36				
+//
+# BEZJNX_12415 Length: 48
+# BEZJNX_12415 Number of predicted TMRs: 0
+BEZJNX_12415	outside	1	48				
+//
+# BEZJNX_113913 Length: 47
+# BEZJNX_113913 Number of predicted TMRs: 0
+BEZJNX_113913	inside	1	47				
+//
+# BEZJNX_104438 Length: 45
+# BEZJNX_104438 Number of predicted TMRs: 0
+BEZJNX_104438	inside	1	45				
+//
+# BEZJNX_90775 Length: 45
+# BEZJNX_90775 Number of predicted TMRs: 0
+BEZJNX_90775	inside	1	45				
+//
+# BEZJNX_100202 Length: 43
+# BEZJNX_100202 Number of predicted TMRs: 0
+BEZJNX_100202	inside	1	43				
+//
+# BEZJNX_60000 Length: 45
+# BEZJNX_60000 Number of predicted TMRs: 0
+BEZJNX_60000	inside	1	45				
+//
+# BEZJNX_50436 Length: 46
+# BEZJNX_50436 Number of predicted TMRs: 0
+BEZJNX_50436	inside	1	46				
+//
+# BEZJNX_64957 Length: 46
+# BEZJNX_64957 Number of predicted TMRs: 0
+BEZJNX_64957	signal	1	25				
+BEZJNX_64957	outside	26	46				
+//
+# BEZJNX_61021 Length: 48
+# BEZJNX_61021 Number of predicted TMRs: 0
+BEZJNX_61021	inside	1	48				
+//
+# BEZJNX_26079 Length: 35
+# BEZJNX_26079 Number of predicted TMRs: 0
+BEZJNX_26079	inside	1	35				
+//
+# BEZJNX_111395 Length: 49
+# BEZJNX_111395 Number of predicted TMRs: 0
+BEZJNX_111395	inside	1	49				
+//
+# BEZJNX_165510 Length: 38
+# BEZJNX_165510 Number of predicted TMRs: 0
+BEZJNX_165510	inside	1	38				
+//
+# BEZJNX_118519 Length: 45
+# BEZJNX_118519 Number of predicted TMRs: 0
+BEZJNX_118519	inside	1	45				
+//
+# BEZJNX_21237 Length: 46
+# BEZJNX_21237 Number of predicted TMRs: 0
+BEZJNX_21237	signal	1	11				
+BEZJNX_21237	outside	12	46				
+//
+# BEZJNX_90767 Length: 49
+# BEZJNX_90767 Number of predicted TMRs: 0
+BEZJNX_90767	inside	1	49				
+//
+# BEZJNX_57635 Length: 46
+# BEZJNX_57635 Number of predicted TMRs: 0
+BEZJNX_57635	inside	1	46				
+//
+# BEZJNX_53797 Length: 42
+# BEZJNX_53797 Number of predicted TMRs: 0
+BEZJNX_53797	inside	1	42				
+//
+# BEZJNX_53801 Length: 44
+# BEZJNX_53801 Number of predicted TMRs: 0
+BEZJNX_53801	inside	1	44				
+//
+# BEZJNX_70026 Length: 39
+# BEZJNX_70026 Number of predicted TMRs: 0
+BEZJNX_70026	inside	1	39				
+//
+# BEZJNX_90441 Length: 39
+# BEZJNX_90441 Number of predicted TMRs: 0
+BEZJNX_90441	signal	1	26				
+BEZJNX_90441	outside	27	39				
+//
+# BEZJNX_71585 Length: 47
+# BEZJNX_71585 Number of predicted TMRs: 0
+BEZJNX_71585	signal	1	19				
+BEZJNX_71585	outside	20	47				
+//
+# BEZJNX_145087 Length: 45
+# BEZJNX_145087 Number of predicted TMRs: 0
+BEZJNX_145087	outside	1	45				
+//
+# BEZJNX_106490 Length: 37
+# BEZJNX_106490 Number of predicted TMRs: 0
+BEZJNX_106490	outside	1	37				
+//
+# BEZJNX_42287 Length: 43
+# BEZJNX_42287 Number of predicted TMRs: 0
+BEZJNX_42287	inside	1	43				
+//
+# BEZJNX_23117 Length: 50
+# BEZJNX_23117 Number of predicted TMRs: 0
+BEZJNX_23117	inside	1	50				
+//
+# BEZJNX_57375 Length: 50
+# BEZJNX_57375 Number of predicted TMRs: 0
+BEZJNX_57375	inside	1	50				
+//
+# BEZJNX_110310 Length: 48
+# BEZJNX_110310 Number of predicted TMRs: 0
+BEZJNX_110310	inside	1	48				
+//
+# BEZJNX_122029 Length: 37
+# BEZJNX_122029 Number of predicted TMRs: 0
+BEZJNX_122029	signal	1	35				
+BEZJNX_122029	outside	36	37				
+//
+# BEZJNX_88876 Length: 47
+# BEZJNX_88876 Number of predicted TMRs: 0
+BEZJNX_88876	signal	1	46				
+BEZJNX_88876	outside	47	47				
+//
+# BEZJNX_162858 Length: 40
+# BEZJNX_162858 Number of predicted TMRs: 0
+BEZJNX_162858	signal	1	31				
+BEZJNX_162858	outside	32	40				
+//
+# BEZJNX_132862 Length: 40
+# BEZJNX_132862 Number of predicted TMRs: 0
+BEZJNX_132862	inside	1	40				
+//
+# BEZJNX_54426 Length: 46
+# BEZJNX_54426 Number of predicted TMRs: 0
+BEZJNX_54426	inside	1	46				
+//
+# BEZJNX_127911 Length: 38
+# BEZJNX_127911 Number of predicted TMRs: 0
+BEZJNX_127911	inside	1	38				
+//
+# BEZJNX_90996 Length: 50
+# BEZJNX_90996 Number of predicted TMRs: 0
+BEZJNX_90996	inside	1	50				
+//
+# BEZJNX_61647 Length: 41
+# BEZJNX_61647 Number of predicted TMRs: 0
+BEZJNX_61647	inside	1	41				
+//
+# BEZJNX_165930 Length: 45
+# BEZJNX_165930 Number of predicted TMRs: 0
+BEZJNX_165930	inside	1	45				
+//
+# BEZJNX_120381 Length: 44
+# BEZJNX_120381 Number of predicted TMRs: 0
+BEZJNX_120381	inside	1	44				
+//
+# BEZJNX_163249 Length: 37
+# BEZJNX_163249 Number of predicted TMRs: 0
+BEZJNX_163249	inside	1	37				
+//
+# BEZJNX_86778 Length: 44
+# BEZJNX_86778 Number of predicted TMRs: 0
+BEZJNX_86778	inside	1	44				
+//
+# BEZJNX_6402 Length: 44
+# BEZJNX_6402 Number of predicted TMRs: 0
+BEZJNX_6402	inside	1	44				
+//
+# BEZJNX_168280 Length: 44
+# BEZJNX_168280 Number of predicted TMRs: 0
+BEZJNX_168280	inside	1	44				
+//
+# BEZJNX_99589 Length: 44
+# BEZJNX_99589 Number of predicted TMRs: 0
+BEZJNX_99589	inside	1	44				
+//
+# BEZJNX_29991 Length: 47
+# BEZJNX_29991 Number of predicted TMRs: 0
+BEZJNX_29991	inside	1	47				
+//
+# BEZJNX_106366 Length: 31
+# BEZJNX_106366 Number of predicted TMRs: 0
+BEZJNX_106366	inside	1	31				
+//
+# BEZJNX_121444 Length: 37
+# BEZJNX_121444 Number of predicted TMRs: 0
+BEZJNX_121444	inside	1	37				
+//
+# BEZJNX_123022 Length: 49
+# BEZJNX_123022 Number of predicted TMRs: 0
+BEZJNX_123022	inside	1	49				
+//
+# BEZJNX_61645 Length: 36
+# BEZJNX_61645 Number of predicted TMRs: 0
+BEZJNX_61645	outside	1	36				
+//
+# BEZJNX_29717 Length: 47
+# BEZJNX_29717 Number of predicted TMRs: 0
+BEZJNX_29717	inside	1	47				
+//
+# BEZJNX_104020 Length: 44
+# BEZJNX_104020 Number of predicted TMRs: 0
+BEZJNX_104020	inside	1	44				
+//
+# BEZJNX_119619 Length: 40
+# BEZJNX_119619 Number of predicted TMRs: 0
+BEZJNX_119619	signal	1	24				
+BEZJNX_119619	outside	25	40				
+//
+# BEZJNX_57547 Length: 43
+# BEZJNX_57547 Number of predicted TMRs: 0
+BEZJNX_57547	inside	1	43				
+//
+# BEZJNX_91665 Length: 40
+# BEZJNX_91665 Number of predicted TMRs: 0
+BEZJNX_91665	inside	1	40				
+//
+# BEZJNX_127645 Length: 48
+# BEZJNX_127645 Number of predicted TMRs: 0
+BEZJNX_127645	inside	1	48				
+//
+# BEZJNX_7266 Length: 49
+# BEZJNX_7266 Number of predicted TMRs: 0
+BEZJNX_7266	inside	1	49				
+//
+# BEZJNX_12087 Length: 44
+# BEZJNX_12087 Number of predicted TMRs: 0
+BEZJNX_12087	signal	1	26				
+BEZJNX_12087	outside	27	44				
+//
+# BEZJNX_109636 Length: 48
+# BEZJNX_109636 Number of predicted TMRs: 0
+BEZJNX_109636	inside	1	48				
+//
+# BEZJNX_8792 Length: 46
+# BEZJNX_8792 Number of predicted TMRs: 0
+BEZJNX_8792	inside	1	46				
+//
+# BEZJNX_127141 Length: 47
+# BEZJNX_127141 Number of predicted TMRs: 0
+BEZJNX_127141	inside	1	47				
+//
+# BEZJNX_172239 Length: 44
+# BEZJNX_172239 Number of predicted TMRs: 1
+BEZJNX_172239	outside	1	18				
+BEZJNX_172239	TMhelix	19	29				
+BEZJNX_172239	inside	30	44				
+//
+# BEZJNX_93753 Length: 44
+# BEZJNX_93753 Number of predicted TMRs: 0
+BEZJNX_93753	signal	1	37				
+BEZJNX_93753	outside	38	44				
+//
+# BEZJNX_138415 Length: 47
+# BEZJNX_138415 Number of predicted TMRs: 0
+BEZJNX_138415	inside	1	47				
+//
+# BEZJNX_173121 Length: 42
+# BEZJNX_173121 Number of predicted TMRs: 0
+BEZJNX_173121	outside	1	42				
+//
+# BEZJNX_152312 Length: 44
+# BEZJNX_152312 Number of predicted TMRs: 0
+BEZJNX_152312	inside	1	44				
+//
+# BEZJNX_80268 Length: 34
+# BEZJNX_80268 Number of predicted TMRs: 0
+BEZJNX_80268	inside	1	34				
+//
+# BEZJNX_86566 Length: 47
+# BEZJNX_86566 Number of predicted TMRs: 0
+BEZJNX_86566	inside	1	47				
+//
+# BEZJNX_77089 Length: 45
+# BEZJNX_77089 Number of predicted TMRs: 0
+BEZJNX_77089	inside	1	45				
+//
+# BEZJNX_77166 Length: 45
+# BEZJNX_77166 Number of predicted TMRs: 0
+BEZJNX_77166	inside	1	45				
+//
+# BEZJNX_62288 Length: 48
+# BEZJNX_62288 Number of predicted TMRs: 0
+BEZJNX_62288	inside	1	48				
+//
+# BEZJNX_44503 Length: 38
+# BEZJNX_44503 Number of predicted TMRs: 0
+BEZJNX_44503	inside	1	38				
+//
+# BEZJNX_116670 Length: 42
+# BEZJNX_116670 Number of predicted TMRs: 0
+BEZJNX_116670	signal	1	23				
+BEZJNX_116670	outside	24	42				
+//
+# BEZJNX_133049 Length: 48
+# BEZJNX_133049 Number of predicted TMRs: 0
+BEZJNX_133049	signal	1	40				
+BEZJNX_133049	outside	41	48				
+//
+# BEZJNX_137754 Length: 48
+# BEZJNX_137754 Number of predicted TMRs: 0
+BEZJNX_137754	signal	1	35				
+BEZJNX_137754	outside	36	48				
+//
+# BEZJNX_11327 Length: 45
+# BEZJNX_11327 Number of predicted TMRs: 0
+BEZJNX_11327	signal	1	44				
+BEZJNX_11327	outside	45	45				
+//
+# BEZJNX_12795 Length: 38
+# BEZJNX_12795 Number of predicted TMRs: 0
+BEZJNX_12795	inside	1	38				
+//
+# BEZJNX_120045 Length: 49
+# BEZJNX_120045 Number of predicted TMRs: 0
+BEZJNX_120045	inside	1	49				
+//
+# BEZJNX_71036 Length: 49
+# BEZJNX_71036 Number of predicted TMRs: 0
+BEZJNX_71036	inside	1	49				
+//
+# BEZJNX_94708 Length: 48
+# BEZJNX_94708 Number of predicted TMRs: 0
+BEZJNX_94708	inside	1	48				
+//
+# BEZJNX_88832 Length: 46
+# BEZJNX_88832 Number of predicted TMRs: 0
+BEZJNX_88832	inside	1	46				
+//
+# BEZJNX_37649 Length: 50
+# BEZJNX_37649 Number of predicted TMRs: 0
+BEZJNX_37649	inside	1	50				
+//
+# BEZJNX_42276 Length: 46
+# BEZJNX_42276 Number of predicted TMRs: 0
+BEZJNX_42276	signal	1	15				
+BEZJNX_42276	outside	16	46				
+//
+# BEZJNX_8768 Length: 46
+# BEZJNX_8768 Number of predicted TMRs: 0
+BEZJNX_8768	signal	1	37				
+BEZJNX_8768	outside	38	46				
+//
+# BEZJNX_68371 Length: 43
+# BEZJNX_68371 Number of predicted TMRs: 0
+BEZJNX_68371	inside	1	43				
+//
+# BEZJNX_44340 Length: 46
+# BEZJNX_44340 Number of predicted TMRs: 0
+BEZJNX_44340	signal	1	17				
+BEZJNX_44340	outside	18	46				
+//
+# BEZJNX_29855 Length: 45
+# BEZJNX_29855 Number of predicted TMRs: 0
+BEZJNX_29855	inside	1	45				
+//
+# BEZJNX_21940 Length: 43
+# BEZJNX_21940 Number of predicted TMRs: 0
+BEZJNX_21940	inside	1	43				
+//
+# BEZJNX_21953 Length: 47
+# BEZJNX_21953 Number of predicted TMRs: 0
+BEZJNX_21953	inside	1	47				
+//
+# BEZJNX_102108 Length: 49
+# BEZJNX_102108 Number of predicted TMRs: 0
+BEZJNX_102108	signal	1	43				
+BEZJNX_102108	outside	44	49				
+//
+# BEZJNX_86456 Length: 50
+# BEZJNX_86456 Number of predicted TMRs: 0
+BEZJNX_86456	inside	1	50				
+//
+# BEZJNX_90754 Length: 30
+# BEZJNX_90754 Number of predicted TMRs: 0
+BEZJNX_90754	signal	1	18				
+BEZJNX_90754	outside	19	30				
+//
+# BEZJNX_38294 Length: 44
+# BEZJNX_38294 Number of predicted TMRs: 0
+BEZJNX_38294	inside	1	44				
+//
+# BEZJNX_60960 Length: 44
+# BEZJNX_60960 Number of predicted TMRs: 0
+BEZJNX_60960	inside	1	44				
+//
+# BEZJNX_120765 Length: 48
+# BEZJNX_120765 Number of predicted TMRs: 0
+BEZJNX_120765	inside	1	48				
+//
+# BEZJNX_24659 Length: 44
+# BEZJNX_24659 Number of predicted TMRs: 0
+BEZJNX_24659	inside	1	44				
+//
+# BEZJNX_32372 Length: 48
+# BEZJNX_32372 Number of predicted TMRs: 0
+BEZJNX_32372	signal	1	47				
+BEZJNX_32372	outside	48	48				
+//
+# BEZJNX_143634 Length: 50
+# BEZJNX_143634 Number of predicted TMRs: 0
+BEZJNX_143634	inside	1	50				
+//
+# BEZJNX_124345 Length: 45
+# BEZJNX_124345 Number of predicted TMRs: 0
+BEZJNX_124345	inside	1	45				
+//
+# BEZJNX_96664 Length: 47
+# BEZJNX_96664 Number of predicted TMRs: 0
+BEZJNX_96664	inside	1	47				
+//
+# BEZJNX_88623 Length: 50
+# BEZJNX_88623 Number of predicted TMRs: 0
+BEZJNX_88623	inside	1	50				
+//
+# BEZJNX_102767 Length: 46
+# BEZJNX_102767 Number of predicted TMRs: 0
+BEZJNX_102767	inside	1	46				
+//
+# BEZJNX_118942 Length: 36
+# BEZJNX_118942 Number of predicted TMRs: 0
+BEZJNX_118942	signal	1	33				
+BEZJNX_118942	outside	34	36				
+//
+# BEZJNX_168841 Length: 50
+# BEZJNX_168841 Number of predicted TMRs: 0
+BEZJNX_168841	inside	1	50				
+//
+# BEZJNX_116254 Length: 48
+# BEZJNX_116254 Number of predicted TMRs: 0
+BEZJNX_116254	signal	1	13				
+BEZJNX_116254	outside	14	48				
+//
+# BEZJNX_15950 Length: 36
+# BEZJNX_15950 Number of predicted TMRs: 0
+BEZJNX_15950	signal	1	10				
+BEZJNX_15950	outside	11	36				
+//
+# BEZJNX_132158 Length: 49
+# BEZJNX_132158 Number of predicted TMRs: 0
+BEZJNX_132158	inside	1	49				
+//
+# BEZJNX_29129 Length: 50
+# BEZJNX_29129 Number of predicted TMRs: 0
+BEZJNX_29129	inside	1	50				
+//
+# BEZJNX_28404 Length: 50
+# BEZJNX_28404 Number of predicted TMRs: 0
+BEZJNX_28404	signal	1	49				
+BEZJNX_28404	outside	50	50				
+//
+# BEZJNX_138752 Length: 44
+# BEZJNX_138752 Number of predicted TMRs: 0
+BEZJNX_138752	inside	1	44				
+//
+# BEZJNX_114271 Length: 47
+# BEZJNX_114271 Number of predicted TMRs: 0
+BEZJNX_114271	inside	1	47				
+//
+# BEZJNX_85179 Length: 44
+# BEZJNX_85179 Number of predicted TMRs: 0
+BEZJNX_85179	inside	1	44				
+//
+# BEZJNX_127733 Length: 40
+# BEZJNX_127733 Number of predicted TMRs: 0
+BEZJNX_127733	signal	1	25				
+BEZJNX_127733	outside	26	40				
+//
+# BEZJNX_31048 Length: 48
+# BEZJNX_31048 Number of predicted TMRs: 0
+BEZJNX_31048	inside	1	48				
+//
+# BEZJNX_133524 Length: 41
+# BEZJNX_133524 Number of predicted TMRs: 0
+BEZJNX_133524	inside	1	41				
+//
+# BEZJNX_139597 Length: 49
+# BEZJNX_139597 Number of predicted TMRs: 0
+BEZJNX_139597	signal	1	44				
+BEZJNX_139597	outside	45	49				
+//
+# BEZJNX_157592 Length: 45
+# BEZJNX_157592 Number of predicted TMRs: 0
+BEZJNX_157592	inside	1	45				
+//
+# BEZJNX_80828 Length: 41
+# BEZJNX_80828 Number of predicted TMRs: 0
+BEZJNX_80828	signal	1	39				
+BEZJNX_80828	outside	40	41				
+//
+# BEZJNX_169450 Length: 48
+# BEZJNX_169450 Number of predicted TMRs: 0
+BEZJNX_169450	signal	1	21				
+BEZJNX_169450	outside	22	48				
+//
+# BEZJNX_62832 Length: 47
+# BEZJNX_62832 Number of predicted TMRs: 0
+BEZJNX_62832	inside	1	47				
+//
+# BEZJNX_5345 Length: 48
+# BEZJNX_5345 Number of predicted TMRs: 0
+BEZJNX_5345	signal	1	47				
+BEZJNX_5345	outside	48	48				
+//
+# BEZJNX_34189 Length: 44
+# BEZJNX_34189 Number of predicted TMRs: 0
+BEZJNX_34189	signal	1	43				
+BEZJNX_34189	outside	44	44				
+//
+# BEZJNX_152655 Length: 47
+# BEZJNX_152655 Number of predicted TMRs: 0
+BEZJNX_152655	inside	1	47				
+//
+# BEZJNX_32744 Length: 42
+# BEZJNX_32744 Number of predicted TMRs: 0
+BEZJNX_32744	inside	1	42				
+//
+# BEZJNX_37309 Length: 33
+# BEZJNX_37309 Number of predicted TMRs: 0
+BEZJNX_37309	signal	1	24				
+BEZJNX_37309	outside	25	33				
+//
+# BEZJNX_27117 Length: 38
+# BEZJNX_27117 Number of predicted TMRs: 0
+BEZJNX_27117	signal	1	23				
+BEZJNX_27117	outside	24	38				
+//
+# BEZJNX_145261 Length: 49
+# BEZJNX_145261 Number of predicted TMRs: 0
+BEZJNX_145261	inside	1	49				
+//
+# BEZJNX_37601 Length: 46
+# BEZJNX_37601 Number of predicted TMRs: 0
+BEZJNX_37601	inside	1	46				
+//
+# BEZJNX_99584 Length: 44
+# BEZJNX_99584 Number of predicted TMRs: 0
+BEZJNX_99584	signal	1	43				
+BEZJNX_99584	outside	44	44				
+//
+# BEZJNX_133664 Length: 48
+# BEZJNX_133664 Number of predicted TMRs: 0
+BEZJNX_133664	inside	1	48				
+//
+# BEZJNX_170328 Length: 43
+# BEZJNX_170328 Number of predicted TMRs: 0
+BEZJNX_170328	signal	1	27				
+BEZJNX_170328	outside	28	43				
+//
+# BEZJNX_54502 Length: 36
+# BEZJNX_54502 Number of predicted TMRs: 0
+BEZJNX_54502	signal	1	34				
+BEZJNX_54502	outside	35	36				
+//
+# BEZJNX_66613 Length: 41
+# BEZJNX_66613 Number of predicted TMRs: 0
+BEZJNX_66613	signal	1	38				
+BEZJNX_66613	outside	39	41				
+//
+# BEZJNX_128342 Length: 46
+# BEZJNX_128342 Number of predicted TMRs: 0
+BEZJNX_128342	inside	1	46				
+//
+# BEZJNX_2099 Length: 44
+# BEZJNX_2099 Number of predicted TMRs: 0
+BEZJNX_2099	signal	1	43				
+BEZJNX_2099	outside	44	44				
+//
+# BEZJNX_68540 Length: 43
+# BEZJNX_68540 Number of predicted TMRs: 0
+BEZJNX_68540	signal	1	42				
+BEZJNX_68540	outside	43	43				
+//
+# BEZJNX_83966 Length: 41
+# BEZJNX_83966 Number of predicted TMRs: 0
+BEZJNX_83966	signal	1	24				
+BEZJNX_83966	outside	25	41				
+//
+# BEZJNX_94766 Length: 49
+# BEZJNX_94766 Number of predicted TMRs: 0
+BEZJNX_94766	inside	1	49				
+//
+# BEZJNX_18711 Length: 40
+# BEZJNX_18711 Number of predicted TMRs: 0
+BEZJNX_18711	inside	1	40				
+//
+# BEZJNX_130898 Length: 46
+# BEZJNX_130898 Number of predicted TMRs: 0
+BEZJNX_130898	inside	1	46				
+//
+# BEZJNX_10620 Length: 46
+# BEZJNX_10620 Number of predicted TMRs: 0
+BEZJNX_10620	inside	1	46				
+//
+# BEZJNX_78324 Length: 48
+# BEZJNX_78324 Number of predicted TMRs: 0
+BEZJNX_78324	signal	1	23				
+BEZJNX_78324	outside	24	48				
+//
+# BEZJNX_31232 Length: 49
+# BEZJNX_31232 Number of predicted TMRs: 0
+BEZJNX_31232	inside	1	49				
+//
+# BEZJNX_103591 Length: 47
+# BEZJNX_103591 Number of predicted TMRs: 0
+BEZJNX_103591	inside	1	47				
+//
+# BEZJNX_87008 Length: 47
+# BEZJNX_87008 Number of predicted TMRs: 0
+BEZJNX_87008	inside	1	47				
+//
+# BEZJNX_139709 Length: 43
+# BEZJNX_139709 Number of predicted TMRs: 0
+BEZJNX_139709	inside	1	43				
+//
+# BEZJNX_139760 Length: 43
+# BEZJNX_139760 Number of predicted TMRs: 0
+BEZJNX_139760	inside	1	43				
+//
+# BEZJNX_139765 Length: 44
+# BEZJNX_139765 Number of predicted TMRs: 0
+BEZJNX_139765	inside	1	44				
+//
+# BEZJNX_84528 Length: 45
+# BEZJNX_84528 Number of predicted TMRs: 0
+BEZJNX_84528	signal	1	20				
+BEZJNX_84528	outside	21	45				
+//
+# BEZJNX_5242 Length: 46
+# BEZJNX_5242 Number of predicted TMRs: 0
+BEZJNX_5242	inside	1	46				
+//
+# BEZJNX_80341 Length: 48
+# BEZJNX_80341 Number of predicted TMRs: 0
+BEZJNX_80341	inside	1	48				
+//
+# BEZJNX_154163 Length: 47
+# BEZJNX_154163 Number of predicted TMRs: 0
+BEZJNX_154163	inside	1	47				
+//
+# BEZJNX_144732 Length: 46
+# BEZJNX_144732 Number of predicted TMRs: 0
+BEZJNX_144732	signal	1	45				
+BEZJNX_144732	outside	46	46				
+//
+# BEZJNX_117203 Length: 41
+# BEZJNX_117203 Number of predicted TMRs: 0
+BEZJNX_117203	inside	1	41				
+//
+# BEZJNX_157969 Length: 49
+# BEZJNX_157969 Number of predicted TMRs: 0
+BEZJNX_157969	inside	1	49				
+//
+# BEZJNX_15927 Length: 46
+# BEZJNX_15927 Number of predicted TMRs: 0
+BEZJNX_15927	inside	1	46				
+//
+# BEZJNX_164965 Length: 50
+# BEZJNX_164965 Number of predicted TMRs: 0
+BEZJNX_164965	inside	1	50				
+//
+# BEZJNX_23015 Length: 47
+# BEZJNX_23015 Number of predicted TMRs: 0
+BEZJNX_23015	inside	1	47				
+//
+# BEZJNX_94412 Length: 42
+# BEZJNX_94412 Number of predicted TMRs: 0
+BEZJNX_94412	inside	1	42				
+//
+# BEZJNX_55189 Length: 50
+# BEZJNX_55189 Number of predicted TMRs: 0
+BEZJNX_55189	inside	1	50				
+//
+# BEZJNX_171861 Length: 45
+# BEZJNX_171861 Number of predicted TMRs: 0
+BEZJNX_171861	inside	1	45				
+//
+# BEZJNX_75361 Length: 48
+# BEZJNX_75361 Number of predicted TMRs: 0
+BEZJNX_75361	signal	1	47				
+BEZJNX_75361	outside	48	48				
+//
+# BEZJNX_130164 Length: 39
+# BEZJNX_130164 Number of predicted TMRs: 0
+BEZJNX_130164	signal	1	37				
+BEZJNX_130164	outside	38	39				
+//
+# BEZJNX_165777 Length: 42
+# BEZJNX_165777 Number of predicted TMRs: 0
+BEZJNX_165777	inside	1	42				
+//
+# BEZJNX_144850 Length: 37
+# BEZJNX_144850 Number of predicted TMRs: 0
+BEZJNX_144850	inside	1	37				
+//
+# BEZJNX_95095 Length: 39
+# BEZJNX_95095 Number of predicted TMRs: 0
+BEZJNX_95095	inside	1	39				
+//
+# BEZJNX_4131 Length: 40
+# BEZJNX_4131 Number of predicted TMRs: 0
+BEZJNX_4131	signal	1	39				
+BEZJNX_4131	outside	40	40				
+//
+# BEZJNX_19043 Length: 49
+# BEZJNX_19043 Number of predicted TMRs: 0
+BEZJNX_19043	inside	1	49				
+//
+# BEZJNX_136839 Length: 43
+# BEZJNX_136839 Number of predicted TMRs: 0
+BEZJNX_136839	signal	1	24				
+BEZJNX_136839	outside	25	43				

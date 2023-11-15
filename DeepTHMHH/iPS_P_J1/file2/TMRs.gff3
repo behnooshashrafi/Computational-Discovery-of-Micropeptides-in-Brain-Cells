@@ -1,0 +1,4348 @@
+##gff-version 3
+# ZZRBFB_25138 Length: 49
+# ZZRBFB_25138 Number of predicted TMRs: 0
+ZZRBFB_25138	inside	1	49				
+//
+# ZZRBFB_53535 Length: 49
+# ZZRBFB_53535 Number of predicted TMRs: 0
+ZZRBFB_53535	signal	1	22				
+ZZRBFB_53535	outside	23	49				
+//
+# ZZRBFB_26496 Length: 50
+# ZZRBFB_26496 Number of predicted TMRs: 0
+ZZRBFB_26496	inside	1	50				
+//
+# ZZRBFB_14737 Length: 47
+# ZZRBFB_14737 Number of predicted TMRs: 0
+ZZRBFB_14737	inside	1	47				
+//
+# ZZRBFB_131676 Length: 46
+# ZZRBFB_131676 Number of predicted TMRs: 0
+ZZRBFB_131676	inside	1	46				
+//
+# ZZRBFB_129272 Length: 48
+# ZZRBFB_129272 Number of predicted TMRs: 0
+ZZRBFB_129272	inside	1	48				
+//
+# ZZRBFB_31433 Length: 50
+# ZZRBFB_31433 Number of predicted TMRs: 0
+ZZRBFB_31433	inside	1	50				
+//
+# ZZRBFB_45949 Length: 47
+# ZZRBFB_45949 Number of predicted TMRs: 0
+ZZRBFB_45949	signal	1	41				
+ZZRBFB_45949	outside	42	47				
+//
+# ZZRBFB_55245 Length: 46
+# ZZRBFB_55245 Number of predicted TMRs: 1
+ZZRBFB_55245	signal	1	10				
+ZZRBFB_55245	outside	11	11				
+ZZRBFB_55245	TMhelix	12	32				
+ZZRBFB_55245	inside	33	46				
+//
+# ZZRBFB_93784 Length: 41
+# ZZRBFB_93784 Number of predicted TMRs: 0
+ZZRBFB_93784	inside	1	41				
+//
+# ZZRBFB_99714 Length: 46
+# ZZRBFB_99714 Number of predicted TMRs: 0
+ZZRBFB_99714	inside	1	46				
+//
+# ZZRBFB_18272 Length: 37
+# ZZRBFB_18272 Number of predicted TMRs: 0
+ZZRBFB_18272	signal	1	34				
+ZZRBFB_18272	outside	35	37				
+//
+# ZZRBFB_86503 Length: 48
+# ZZRBFB_86503 Number of predicted TMRs: 0
+ZZRBFB_86503	inside	1	48				
+//
+# ZZRBFB_124980 Length: 47
+# ZZRBFB_124980 Number of predicted TMRs: 0
+ZZRBFB_124980	signal	1	41				
+ZZRBFB_124980	outside	42	47				
+//
+# ZZRBFB_165040 Length: 37
+# ZZRBFB_165040 Number of predicted TMRs: 0
+ZZRBFB_165040	signal	1	11				
+ZZRBFB_165040	outside	12	37				
+//
+# ZZRBFB_140679 Length: 50
+# ZZRBFB_140679 Number of predicted TMRs: 0
+ZZRBFB_140679	outside	1	50				
+//
+# ZZRBFB_139703 Length: 39
+# ZZRBFB_139703 Number of predicted TMRs: 0
+ZZRBFB_139703	signal	1	38				
+ZZRBFB_139703	outside	39	39				
+//
+# ZZRBFB_89003 Length: 42
+# ZZRBFB_89003 Number of predicted TMRs: 0
+ZZRBFB_89003	inside	1	42				
+//
+# ZZRBFB_96147 Length: 47
+# ZZRBFB_96147 Number of predicted TMRs: 0
+ZZRBFB_96147	signal	1	44				
+ZZRBFB_96147	outside	45	47				
+//
+# ZZRBFB_13080 Length: 49
+# ZZRBFB_13080 Number of predicted TMRs: 0
+ZZRBFB_13080	inside	1	49				
+//
+# ZZRBFB_90862 Length: 47
+# ZZRBFB_90862 Number of predicted TMRs: 0
+ZZRBFB_90862	inside	1	47				
+//
+# ZZRBFB_80370 Length: 43
+# ZZRBFB_80370 Number of predicted TMRs: 0
+ZZRBFB_80370	inside	1	43				
+//
+# ZZRBFB_126030 Length: 45
+# ZZRBFB_126030 Number of predicted TMRs: 0
+ZZRBFB_126030	signal	1	41				
+ZZRBFB_126030	outside	42	45				
+//
+# ZZRBFB_53030 Length: 47
+# ZZRBFB_53030 Number of predicted TMRs: 0
+ZZRBFB_53030	signal	1	18				
+ZZRBFB_53030	outside	19	47				
+//
+# ZZRBFB_60944 Length: 44
+# ZZRBFB_60944 Number of predicted TMRs: 0
+ZZRBFB_60944	inside	1	44				
+//
+# ZZRBFB_87426 Length: 45
+# ZZRBFB_87426 Number of predicted TMRs: 0
+ZZRBFB_87426	inside	1	45				
+//
+# ZZRBFB_140172 Length: 44
+# ZZRBFB_140172 Number of predicted TMRs: 0
+ZZRBFB_140172	signal	1	43				
+ZZRBFB_140172	outside	44	44				
+//
+# ZZRBFB_87933 Length: 45
+# ZZRBFB_87933 Number of predicted TMRs: 0
+ZZRBFB_87933	inside	1	45				
+//
+# ZZRBFB_51235 Length: 50
+# ZZRBFB_51235 Number of predicted TMRs: 0
+ZZRBFB_51235	inside	1	50				
+//
+# ZZRBFB_123439 Length: 40
+# ZZRBFB_123439 Number of predicted TMRs: 0
+ZZRBFB_123439	signal	1	35				
+ZZRBFB_123439	outside	36	40				
+//
+# ZZRBFB_140672 Length: 41
+# ZZRBFB_140672 Number of predicted TMRs: 0
+ZZRBFB_140672	inside	1	41				
+//
+# ZZRBFB_80367 Length: 42
+# ZZRBFB_80367 Number of predicted TMRs: 0
+ZZRBFB_80367	signal	1	41				
+ZZRBFB_80367	outside	42	42				
+//
+# ZZRBFB_151889 Length: 37
+# ZZRBFB_151889 Number of predicted TMRs: 0
+ZZRBFB_151889	inside	1	37				
+//
+# ZZRBFB_4984 Length: 46
+# ZZRBFB_4984 Number of predicted TMRs: 0
+ZZRBFB_4984	inside	1	46				
+//
+# ZZRBFB_93223 Length: 34
+# ZZRBFB_93223 Number of predicted TMRs: 0
+ZZRBFB_93223	inside	1	34				
+//
+# ZZRBFB_137486 Length: 47
+# ZZRBFB_137486 Number of predicted TMRs: 0
+ZZRBFB_137486	inside	1	47				
+//
+# ZZRBFB_13587 Length: 46
+# ZZRBFB_13587 Number of predicted TMRs: 0
+ZZRBFB_13587	signal	1	26				
+ZZRBFB_13587	outside	27	46				
+//
+# ZZRBFB_24948 Length: 47
+# ZZRBFB_24948 Number of predicted TMRs: 0
+ZZRBFB_24948	inside	1	47				
+//
+# ZZRBFB_38566 Length: 46
+# ZZRBFB_38566 Number of predicted TMRs: 0
+ZZRBFB_38566	signal	1	23				
+ZZRBFB_38566	outside	24	46				
+//
+# ZZRBFB_34574 Length: 37
+# ZZRBFB_34574 Number of predicted TMRs: 0
+ZZRBFB_34574	signal	1	13				
+ZZRBFB_34574	outside	14	37				
+//
+# ZZRBFB_112984 Length: 49
+# ZZRBFB_112984 Number of predicted TMRs: 0
+ZZRBFB_112984	signal	1	14				
+ZZRBFB_112984	outside	15	49				
+//
+# ZZRBFB_136070 Length: 47
+# ZZRBFB_136070 Number of predicted TMRs: 0
+ZZRBFB_136070	inside	1	47				
+//
+# ZZRBFB_80464 Length: 18
+# ZZRBFB_80464 Number of predicted TMRs: 0
+ZZRBFB_80464	signal	1	12				
+ZZRBFB_80464	outside	13	18				
+//
+# ZZRBFB_25077 Length: 37
+# ZZRBFB_25077 Number of predicted TMRs: 0
+ZZRBFB_25077	signal	1	35				
+ZZRBFB_25077	outside	36	37				
+//
+# ZZRBFB_168349 Length: 42
+# ZZRBFB_168349 Number of predicted TMRs: 0
+ZZRBFB_168349	signal	1	22				
+ZZRBFB_168349	outside	23	42				
+//
+# ZZRBFB_73169 Length: 45
+# ZZRBFB_73169 Number of predicted TMRs: 0
+ZZRBFB_73169	inside	1	45				
+//
+# ZZRBFB_119950 Length: 34
+# ZZRBFB_119950 Number of predicted TMRs: 0
+ZZRBFB_119950	signal	1	19				
+ZZRBFB_119950	outside	20	34				
+//
+# ZZRBFB_92373 Length: 47
+# ZZRBFB_92373 Number of predicted TMRs: 0
+ZZRBFB_92373	inside	1	47				
+//
+# ZZRBFB_143592 Length: 49
+# ZZRBFB_143592 Number of predicted TMRs: 0
+ZZRBFB_143592	inside	1	49				
+//
+# ZZRBFB_112858 Length: 48
+# ZZRBFB_112858 Number of predicted TMRs: 1
+ZZRBFB_112858	outside	1	14				
+ZZRBFB_112858	TMhelix	15	35				
+ZZRBFB_112858	inside	36	48				
+//
+# ZZRBFB_19283 Length: 41
+# ZZRBFB_19283 Number of predicted TMRs: 0
+ZZRBFB_19283	signal	1	30				
+ZZRBFB_19283	outside	31	41				
+//
+# ZZRBFB_60358 Length: 49
+# ZZRBFB_60358 Number of predicted TMRs: 0
+ZZRBFB_60358	signal	1	19				
+ZZRBFB_60358	outside	20	49				
+//
+# ZZRBFB_141946 Length: 48
+# ZZRBFB_141946 Number of predicted TMRs: 0
+ZZRBFB_141946	inside	1	48				
+//
+# ZZRBFB_157796 Length: 39
+# ZZRBFB_157796 Number of predicted TMRs: 0
+ZZRBFB_157796	signal	1	38				
+ZZRBFB_157796	outside	39	39				
+//
+# ZZRBFB_20574 Length: 50
+# ZZRBFB_20574 Number of predicted TMRs: 0
+ZZRBFB_20574	inside	1	50				
+//
+# ZZRBFB_85360 Length: 48
+# ZZRBFB_85360 Number of predicted TMRs: 0
+ZZRBFB_85360	signal	1	47				
+ZZRBFB_85360	outside	48	48				
+//
+# ZZRBFB_18989 Length: 45
+# ZZRBFB_18989 Number of predicted TMRs: 0
+ZZRBFB_18989	inside	1	45				
+//
+# ZZRBFB_613 Length: 45
+# ZZRBFB_613 Number of predicted TMRs: 0
+ZZRBFB_613	inside	1	45				
+//
+# ZZRBFB_143598 Length: 49
+# ZZRBFB_143598 Number of predicted TMRs: 0
+ZZRBFB_143598	inside	1	49				
+//
+# ZZRBFB_24009 Length: 50
+# ZZRBFB_24009 Number of predicted TMRs: 0
+ZZRBFB_24009	inside	1	50				
+//
+# ZZRBFB_143862 Length: 45
+# ZZRBFB_143862 Number of predicted TMRs: 0
+ZZRBFB_143862	signal	1	20				
+ZZRBFB_143862	outside	21	45				
+//
+# ZZRBFB_64381 Length: 43
+# ZZRBFB_64381 Number of predicted TMRs: 0
+ZZRBFB_64381	inside	1	43				
+//
+# ZZRBFB_82639 Length: 46
+# ZZRBFB_82639 Number of predicted TMRs: 0
+ZZRBFB_82639	signal	1	45				
+ZZRBFB_82639	outside	46	46				
+//
+# ZZRBFB_17519 Length: 46
+# ZZRBFB_17519 Number of predicted TMRs: 0
+ZZRBFB_17519	signal	1	45				
+ZZRBFB_17519	outside	46	46				
+//
+# ZZRBFB_120958 Length: 50
+# ZZRBFB_120958 Number of predicted TMRs: 0
+ZZRBFB_120958	signal	1	48				
+ZZRBFB_120958	outside	49	50				
+//
+# ZZRBFB_109116 Length: 35
+# ZZRBFB_109116 Number of predicted TMRs: 0
+ZZRBFB_109116	signal	1	33				
+ZZRBFB_109116	outside	34	35				
+//
+# ZZRBFB_138258 Length: 47
+# ZZRBFB_138258 Number of predicted TMRs: 0
+ZZRBFB_138258	signal	1	45				
+ZZRBFB_138258	outside	46	47				
+//
+# ZZRBFB_139400 Length: 42
+# ZZRBFB_139400 Number of predicted TMRs: 0
+ZZRBFB_139400	inside	1	42				
+//
+# ZZRBFB_99395 Length: 50
+# ZZRBFB_99395 Number of predicted TMRs: 0
+ZZRBFB_99395	signal	1	17				
+ZZRBFB_99395	outside	18	50				
+//
+# ZZRBFB_32441 Length: 36
+# ZZRBFB_32441 Number of predicted TMRs: 0
+ZZRBFB_32441	inside	1	36				
+//
+# ZZRBFB_99865 Length: 48
+# ZZRBFB_99865 Number of predicted TMRs: 0
+ZZRBFB_99865	inside	1	48				
+//
+# ZZRBFB_38434 Length: 47
+# ZZRBFB_38434 Number of predicted TMRs: 0
+ZZRBFB_38434	signal	1	35				
+ZZRBFB_38434	outside	36	47				
+//
+# ZZRBFB_124893 Length: 48
+# ZZRBFB_124893 Number of predicted TMRs: 0
+ZZRBFB_124893	inside	1	48				
+//
+# ZZRBFB_13481 Length: 48
+# ZZRBFB_13481 Number of predicted TMRs: 0
+ZZRBFB_13481	inside	1	48				
+//
+# ZZRBFB_19175 Length: 40
+# ZZRBFB_19175 Number of predicted TMRs: 0
+ZZRBFB_19175	signal	1	39				
+ZZRBFB_19175	outside	40	40				
+//
+# ZZRBFB_31269 Length: 42
+# ZZRBFB_31269 Number of predicted TMRs: 0
+ZZRBFB_31269	signal	1	35				
+ZZRBFB_31269	outside	36	42				
+//
+# ZZRBFB_3060 Length: 50
+# ZZRBFB_3060 Number of predicted TMRs: 0
+ZZRBFB_3060	inside	1	50				
+//
+# ZZRBFB_153670 Length: 50
+# ZZRBFB_153670 Number of predicted TMRs: 0
+ZZRBFB_153670	inside	1	50				
+//
+# ZZRBFB_96454 Length: 46
+# ZZRBFB_96454 Number of predicted TMRs: 0
+ZZRBFB_96454	inside	1	46				
+//
+# ZZRBFB_141779 Length: 46
+# ZZRBFB_141779 Number of predicted TMRs: 0
+ZZRBFB_141779	inside	1	46				
+//
+# ZZRBFB_125877 Length: 46
+# ZZRBFB_125877 Number of predicted TMRs: 0
+ZZRBFB_125877	inside	1	46				
+//
+# ZZRBFB_120765 Length: 39
+# ZZRBFB_120765 Number of predicted TMRs: 0
+ZZRBFB_120765	inside	1	39				
+//
+# ZZRBFB_170416 Length: 44
+# ZZRBFB_170416 Number of predicted TMRs: 0
+ZZRBFB_170416	signal	1	43				
+ZZRBFB_170416	outside	44	44				
+//
+# ZZRBFB_123666 Length: 48
+# ZZRBFB_123666 Number of predicted TMRs: 0
+ZZRBFB_123666	signal	1	46				
+ZZRBFB_123666	outside	47	48				
+//
+# ZZRBFB_95334 Length: 47
+# ZZRBFB_95334 Number of predicted TMRs: 0
+ZZRBFB_95334	signal	1	16				
+ZZRBFB_95334	outside	17	47				
+//
+# ZZRBFB_7196 Length: 48
+# ZZRBFB_7196 Number of predicted TMRs: 0
+ZZRBFB_7196	inside	1	48				
+//
+# ZZRBFB_2872 Length: 36
+# ZZRBFB_2872 Number of predicted TMRs: 0
+ZZRBFB_2872	signal	1	34				
+ZZRBFB_2872	outside	35	36				
+//
+# ZZRBFB_100409 Length: 24
+# ZZRBFB_100409 Number of predicted TMRs: 0
+ZZRBFB_100409	inside	1	24				
+//
+# ZZRBFB_111697 Length: 33
+# ZZRBFB_111697 Number of predicted TMRs: 0
+ZZRBFB_111697	signal	1	32				
+ZZRBFB_111697	outside	33	33				
+//
+# ZZRBFB_109499 Length: 44
+# ZZRBFB_109499 Number of predicted TMRs: 0
+ZZRBFB_109499	inside	1	44				
+//
+# ZZRBFB_29146 Length: 47
+# ZZRBFB_29146 Number of predicted TMRs: 0
+ZZRBFB_29146	signal	1	10				
+ZZRBFB_29146	outside	11	47				
+//
+# ZZRBFB_103463 Length: 45
+# ZZRBFB_103463 Number of predicted TMRs: 0
+ZZRBFB_103463	signal	1	17				
+ZZRBFB_103463	outside	18	45				
+//
+# ZZRBFB_81422 Length: 44
+# ZZRBFB_81422 Number of predicted TMRs: 0
+ZZRBFB_81422	signal	1	10				
+ZZRBFB_81422	outside	11	44				
+//
+# ZZRBFB_40678 Length: 42
+# ZZRBFB_40678 Number of predicted TMRs: 0
+ZZRBFB_40678	inside	1	42				
+//
+# ZZRBFB_42094 Length: 45
+# ZZRBFB_42094 Number of predicted TMRs: 0
+ZZRBFB_42094	inside	1	45				
+//
+# ZZRBFB_114498 Length: 39
+# ZZRBFB_114498 Number of predicted TMRs: 0
+ZZRBFB_114498	inside	1	39				
+//
+# ZZRBFB_122241 Length: 44
+# ZZRBFB_122241 Number of predicted TMRs: 0
+ZZRBFB_122241	inside	1	44				
+//
+# ZZRBFB_74617 Length: 49
+# ZZRBFB_74617 Number of predicted TMRs: 0
+ZZRBFB_74617	inside	1	49				
+//
+# ZZRBFB_139749 Length: 48
+# ZZRBFB_139749 Number of predicted TMRs: 0
+ZZRBFB_139749	signal	1	47				
+ZZRBFB_139749	outside	48	48				
+//
+# ZZRBFB_99541 Length: 27
+# ZZRBFB_99541 Number of predicted TMRs: 0
+ZZRBFB_99541	inside	1	27				
+//
+# ZZRBFB_34994 Length: 45
+# ZZRBFB_34994 Number of predicted TMRs: 0
+ZZRBFB_34994	inside	1	45				
+//
+# ZZRBFB_94597 Length: 48
+# ZZRBFB_94597 Number of predicted TMRs: 0
+ZZRBFB_94597	signal	1	12				
+ZZRBFB_94597	outside	13	48				
+//
+# ZZRBFB_37343 Length: 49
+# ZZRBFB_37343 Number of predicted TMRs: 0
+ZZRBFB_37343	inside	1	49				
+//
+# ZZRBFB_152243 Length: 45
+# ZZRBFB_152243 Number of predicted TMRs: 0
+ZZRBFB_152243	signal	1	22				
+ZZRBFB_152243	outside	23	45				
+//
+# ZZRBFB_118425 Length: 50
+# ZZRBFB_118425 Number of predicted TMRs: 0
+ZZRBFB_118425	inside	1	50				
+//
+# ZZRBFB_16724 Length: 48
+# ZZRBFB_16724 Number of predicted TMRs: 0
+ZZRBFB_16724	inside	1	48				
+//
+# ZZRBFB_75223 Length: 37
+# ZZRBFB_75223 Number of predicted TMRs: 0
+ZZRBFB_75223	inside	1	37				
+//
+# ZZRBFB_61998 Length: 32
+# ZZRBFB_61998 Number of predicted TMRs: 0
+ZZRBFB_61998	signal	1	31				
+ZZRBFB_61998	outside	32	32				
+//
+# ZZRBFB_148441 Length: 46
+# ZZRBFB_148441 Number of predicted TMRs: 0
+ZZRBFB_148441	inside	1	46				
+//
+# ZZRBFB_86787 Length: 50
+# ZZRBFB_86787 Number of predicted TMRs: 0
+ZZRBFB_86787	signal	1	45				
+ZZRBFB_86787	outside	46	50				
+//
+# ZZRBFB_109390 Length: 43
+# ZZRBFB_109390 Number of predicted TMRs: 0
+ZZRBFB_109390	inside	1	43				
+//
+# ZZRBFB_103902 Length: 37
+# ZZRBFB_103902 Number of predicted TMRs: 0
+ZZRBFB_103902	inside	1	37				
+//
+# ZZRBFB_85045 Length: 28
+# ZZRBFB_85045 Number of predicted TMRs: 0
+ZZRBFB_85045	outside	1	28				
+//
+# ZZRBFB_68380 Length: 48
+# ZZRBFB_68380 Number of predicted TMRs: 0
+ZZRBFB_68380	inside	1	48				
+//
+# ZZRBFB_146344 Length: 37
+# ZZRBFB_146344 Number of predicted TMRs: 0
+ZZRBFB_146344	signal	1	36				
+ZZRBFB_146344	outside	37	37				
+//
+# ZZRBFB_145448 Length: 50
+# ZZRBFB_145448 Number of predicted TMRs: 0
+ZZRBFB_145448	inside	1	50				
+//
+# ZZRBFB_154039 Length: 44
+# ZZRBFB_154039 Number of predicted TMRs: 0
+ZZRBFB_154039	signal	1	38				
+ZZRBFB_154039	outside	39	44				
+//
+# ZZRBFB_25253 Length: 41
+# ZZRBFB_25253 Number of predicted TMRs: 0
+ZZRBFB_25253	inside	1	41				
+//
+# ZZRBFB_54207 Length: 45
+# ZZRBFB_54207 Number of predicted TMRs: 0
+ZZRBFB_54207	inside	1	45				
+//
+# ZZRBFB_102395 Length: 47
+# ZZRBFB_102395 Number of predicted TMRs: 0
+ZZRBFB_102395	inside	1	47				
+//
+# ZZRBFB_6073 Length: 34
+# ZZRBFB_6073 Number of predicted TMRs: 0
+ZZRBFB_6073	signal	1	15				
+ZZRBFB_6073	outside	16	34				
+//
+# ZZRBFB_94216 Length: 41
+# ZZRBFB_94216 Number of predicted TMRs: 0
+ZZRBFB_94216	inside	1	41				
+//
+# ZZRBFB_126676 Length: 48
+# ZZRBFB_126676 Number of predicted TMRs: 0
+ZZRBFB_126676	signal	1	10				
+ZZRBFB_126676	outside	11	48				
+//
+# ZZRBFB_58128 Length: 44
+# ZZRBFB_58128 Number of predicted TMRs: 0
+ZZRBFB_58128	inside	1	44				
+//
+# ZZRBFB_96017 Length: 43
+# ZZRBFB_96017 Number of predicted TMRs: 0
+ZZRBFB_96017	inside	1	43				
+//
+# ZZRBFB_140973 Length: 43
+# ZZRBFB_140973 Number of predicted TMRs: 0
+ZZRBFB_140973	inside	1	43				
+//
+# ZZRBFB_161948 Length: 45
+# ZZRBFB_161948 Number of predicted TMRs: 0
+ZZRBFB_161948	inside	1	45				
+//
+# ZZRBFB_76135 Length: 43
+# ZZRBFB_76135 Number of predicted TMRs: 0
+ZZRBFB_76135	signal	1	19				
+ZZRBFB_76135	outside	20	43				
+//
+# ZZRBFB_171284 Length: 46
+# ZZRBFB_171284 Number of predicted TMRs: 0
+ZZRBFB_171284	inside	1	46				
+//
+# ZZRBFB_141046 Length: 44
+# ZZRBFB_141046 Number of predicted TMRs: 0
+ZZRBFB_141046	inside	1	44				
+//
+# ZZRBFB_33112 Length: 28
+# ZZRBFB_33112 Number of predicted TMRs: 0
+ZZRBFB_33112	signal	1	27				
+ZZRBFB_33112	outside	28	28				
+//
+# ZZRBFB_82239 Length: 40
+# ZZRBFB_82239 Number of predicted TMRs: 0
+ZZRBFB_82239	inside	1	40				
+//
+# ZZRBFB_129603 Length: 47
+# ZZRBFB_129603 Number of predicted TMRs: 0
+ZZRBFB_129603	signal	1	46				
+ZZRBFB_129603	outside	47	47				
+//
+# ZZRBFB_47101 Length: 49
+# ZZRBFB_47101 Number of predicted TMRs: 0
+ZZRBFB_47101	signal	1	23				
+ZZRBFB_47101	outside	24	49				
+//
+# ZZRBFB_129313 Length: 44
+# ZZRBFB_129313 Number of predicted TMRs: 0
+ZZRBFB_129313	signal	1	42				
+ZZRBFB_129313	outside	43	44				
+//
+# ZZRBFB_114003 Length: 28
+# ZZRBFB_114003 Number of predicted TMRs: 0
+ZZRBFB_114003	inside	1	28				
+//
+# ZZRBFB_164586 Length: 46
+# ZZRBFB_164586 Number of predicted TMRs: 0
+ZZRBFB_164586	outside	1	46				
+//
+# ZZRBFB_136027 Length: 42
+# ZZRBFB_136027 Number of predicted TMRs: 0
+ZZRBFB_136027	inside	1	42				
+//
+# ZZRBFB_81489 Length: 44
+# ZZRBFB_81489 Number of predicted TMRs: 0
+ZZRBFB_81489	inside	1	44				
+//
+# ZZRBFB_70208 Length: 38
+# ZZRBFB_70208 Number of predicted TMRs: 0
+ZZRBFB_70208	outside	1	38				
+//
+# ZZRBFB_98611 Length: 45
+# ZZRBFB_98611 Number of predicted TMRs: 0
+ZZRBFB_98611	inside	1	45				
+//
+# ZZRBFB_85047 Length: 35
+# ZZRBFB_85047 Number of predicted TMRs: 0
+ZZRBFB_85047	outside	1	35				
+//
+# ZZRBFB_85048 Length: 48
+# ZZRBFB_85048 Number of predicted TMRs: 0
+ZZRBFB_85048	inside	1	48				
+//
+# ZZRBFB_112239 Length: 46
+# ZZRBFB_112239 Number of predicted TMRs: 0
+ZZRBFB_112239	inside	1	46				
+//
+# ZZRBFB_12214 Length: 35
+# ZZRBFB_12214 Number of predicted TMRs: 0
+ZZRBFB_12214	inside	1	35				
+//
+# ZZRBFB_9906 Length: 42
+# ZZRBFB_9906 Number of predicted TMRs: 0
+ZZRBFB_9906	outside	1	42				
+//
+# ZZRBFB_157294 Length: 48
+# ZZRBFB_157294 Number of predicted TMRs: 0
+ZZRBFB_157294	inside	1	48				
+//
+# ZZRBFB_21668 Length: 46
+# ZZRBFB_21668 Number of predicted TMRs: 0
+ZZRBFB_21668	inside	1	46				
+//
+# ZZRBFB_123846 Length: 38
+# ZZRBFB_123846 Number of predicted TMRs: 0
+ZZRBFB_123846	signal	1	32				
+ZZRBFB_123846	outside	33	38				
+//
+# ZZRBFB_98918 Length: 47
+# ZZRBFB_98918 Number of predicted TMRs: 0
+ZZRBFB_98918	inside	1	47				
+//
+# ZZRBFB_15266 Length: 37
+# ZZRBFB_15266 Number of predicted TMRs: 0
+ZZRBFB_15266	inside	1	37				
+//
+# ZZRBFB_157004 Length: 49
+# ZZRBFB_157004 Number of predicted TMRs: 0
+ZZRBFB_157004	inside	1	49				
+//
+# ZZRBFB_99472 Length: 34
+# ZZRBFB_99472 Number of predicted TMRs: 0
+ZZRBFB_99472	outside	1	34				
+//
+# ZZRBFB_109019 Length: 48
+# ZZRBFB_109019 Number of predicted TMRs: 0
+ZZRBFB_109019	signal	1	21				
+ZZRBFB_109019	outside	22	48				
+//
+# ZZRBFB_57089 Length: 47
+# ZZRBFB_57089 Number of predicted TMRs: 0
+ZZRBFB_57089	inside	1	47				
+//
+# ZZRBFB_141502 Length: 49
+# ZZRBFB_141502 Number of predicted TMRs: 0
+ZZRBFB_141502	inside	1	49				
+//
+# ZZRBFB_49407 Length: 49
+# ZZRBFB_49407 Number of predicted TMRs: 0
+ZZRBFB_49407	inside	1	49				
+//
+# ZZRBFB_21053 Length: 44
+# ZZRBFB_21053 Number of predicted TMRs: 0
+ZZRBFB_21053	inside	1	44				
+//
+# ZZRBFB_142280 Length: 43
+# ZZRBFB_142280 Number of predicted TMRs: 0
+ZZRBFB_142280	signal	1	11				
+ZZRBFB_142280	outside	12	43				
+//
+# ZZRBFB_97873 Length: 46
+# ZZRBFB_97873 Number of predicted TMRs: 0
+ZZRBFB_97873	inside	1	46				
+//
+# ZZRBFB_41118 Length: 49
+# ZZRBFB_41118 Number of predicted TMRs: 0
+ZZRBFB_41118	signal	1	26				
+ZZRBFB_41118	outside	27	49				
+//
+# ZZRBFB_141932 Length: 49
+# ZZRBFB_141932 Number of predicted TMRs: 0
+ZZRBFB_141932	signal	1	29				
+ZZRBFB_141932	outside	30	49				
+//
+# ZZRBFB_15140 Length: 33
+# ZZRBFB_15140 Number of predicted TMRs: 0
+ZZRBFB_15140	inside	1	33				
+//
+# ZZRBFB_170296 Length: 32
+# ZZRBFB_170296 Number of predicted TMRs: 0
+ZZRBFB_170296	inside	1	32				
+//
+# ZZRBFB_6439 Length: 44
+# ZZRBFB_6439 Number of predicted TMRs: 0
+ZZRBFB_6439	inside	1	44				
+//
+# ZZRBFB_40910 Length: 44
+# ZZRBFB_40910 Number of predicted TMRs: 0
+ZZRBFB_40910	inside	1	44				
+//
+# ZZRBFB_12336 Length: 47
+# ZZRBFB_12336 Number of predicted TMRs: 0
+ZZRBFB_12336	inside	1	47				
+//
+# ZZRBFB_108647 Length: 43
+# ZZRBFB_108647 Number of predicted TMRs: 0
+ZZRBFB_108647	inside	1	43				
+//
+# ZZRBFB_13289 Length: 48
+# ZZRBFB_13289 Number of predicted TMRs: 1
+ZZRBFB_13289	outside	1	12				
+ZZRBFB_13289	TMhelix	13	33				
+ZZRBFB_13289	inside	34	48				
+//
+# ZZRBFB_122811 Length: 47
+# ZZRBFB_122811 Number of predicted TMRs: 0
+ZZRBFB_122811	inside	1	47				
+//
+# ZZRBFB_17183 Length: 49
+# ZZRBFB_17183 Number of predicted TMRs: 0
+ZZRBFB_17183	inside	1	49				
+//
+# ZZRBFB_122027 Length: 47
+# ZZRBFB_122027 Number of predicted TMRs: 0
+ZZRBFB_122027	inside	1	47				
+//
+# ZZRBFB_150241 Length: 39
+# ZZRBFB_150241 Number of predicted TMRs: 0
+ZZRBFB_150241	signal	1	32				
+ZZRBFB_150241	outside	33	39				
+//
+# ZZRBFB_9757 Length: 40
+# ZZRBFB_9757 Number of predicted TMRs: 0
+ZZRBFB_9757	signal	1	22				
+ZZRBFB_9757	outside	23	40				
+//
+# ZZRBFB_9443 Length: 40
+# ZZRBFB_9443 Number of predicted TMRs: 0
+ZZRBFB_9443	inside	1	40				
+//
+# ZZRBFB_166196 Length: 50
+# ZZRBFB_166196 Number of predicted TMRs: 0
+ZZRBFB_166196	inside	1	50				
+//
+# ZZRBFB_133446 Length: 36
+# ZZRBFB_133446 Number of predicted TMRs: 0
+ZZRBFB_133446	inside	1	36				
+//
+# ZZRBFB_163859 Length: 50
+# ZZRBFB_163859 Number of predicted TMRs: 0
+ZZRBFB_163859	signal	1	33				
+ZZRBFB_163859	outside	34	50				
+//
+# ZZRBFB_161511 Length: 39
+# ZZRBFB_161511 Number of predicted TMRs: 0
+ZZRBFB_161511	inside	1	39				
+//
+# ZZRBFB_72173 Length: 46
+# ZZRBFB_72173 Number of predicted TMRs: 0
+ZZRBFB_72173	inside	1	46				
+//
+# ZZRBFB_101138 Length: 36
+# ZZRBFB_101138 Number of predicted TMRs: 0
+ZZRBFB_101138	signal	1	35				
+ZZRBFB_101138	outside	36	36				
+//
+# ZZRBFB_110092 Length: 40
+# ZZRBFB_110092 Number of predicted TMRs: 0
+ZZRBFB_110092	inside	1	40				
+//
+# ZZRBFB_29565 Length: 42
+# ZZRBFB_29565 Number of predicted TMRs: 0
+ZZRBFB_29565	inside	1	42				
+//
+# ZZRBFB_137482 Length: 45
+# ZZRBFB_137482 Number of predicted TMRs: 0
+ZZRBFB_137482	signal	1	43				
+ZZRBFB_137482	outside	44	45				
+//
+# ZZRBFB_117108 Length: 50
+# ZZRBFB_117108 Number of predicted TMRs: 0
+ZZRBFB_117108	signal	1	46				
+ZZRBFB_117108	outside	47	50				
+//
+# ZZRBFB_148531 Length: 47
+# ZZRBFB_148531 Number of predicted TMRs: 0
+ZZRBFB_148531	signal	1	43				
+ZZRBFB_148531	outside	44	47				
+//
+# ZZRBFB_36496 Length: 33
+# ZZRBFB_36496 Number of predicted TMRs: 0
+ZZRBFB_36496	signal	1	32				
+ZZRBFB_36496	outside	33	33				
+//
+# ZZRBFB_131065 Length: 50
+# ZZRBFB_131065 Number of predicted TMRs: 0
+ZZRBFB_131065	signal	1	49				
+ZZRBFB_131065	outside	50	50				
+//
+# ZZRBFB_143175 Length: 49
+# ZZRBFB_143175 Number of predicted TMRs: 0
+ZZRBFB_143175	inside	1	49				
+//
+# ZZRBFB_110108 Length: 30
+# ZZRBFB_110108 Number of predicted TMRs: 0
+ZZRBFB_110108	inside	1	30				
+//
+# ZZRBFB_20876 Length: 47
+# ZZRBFB_20876 Number of predicted TMRs: 0
+ZZRBFB_20876	inside	1	47				
+//
+# ZZRBFB_76949 Length: 50
+# ZZRBFB_76949 Number of predicted TMRs: 0
+ZZRBFB_76949	inside	1	50				
+//
+# ZZRBFB_27869 Length: 48
+# ZZRBFB_27869 Number of predicted TMRs: 0
+ZZRBFB_27869	inside	1	48				
+//
+# ZZRBFB_44282 Length: 48
+# ZZRBFB_44282 Number of predicted TMRs: 0
+ZZRBFB_44282	inside	1	48				
+//
+# ZZRBFB_59770 Length: 42
+# ZZRBFB_59770 Number of predicted TMRs: 0
+ZZRBFB_59770	inside	1	42				
+//
+# ZZRBFB_36623 Length: 38
+# ZZRBFB_36623 Number of predicted TMRs: 0
+ZZRBFB_36623	signal	1	11				
+ZZRBFB_36623	outside	12	38				
+//
+# ZZRBFB_99960 Length: 38
+# ZZRBFB_99960 Number of predicted TMRs: 0
+ZZRBFB_99960	inside	1	38				
+//
+# ZZRBFB_3247 Length: 38
+# ZZRBFB_3247 Number of predicted TMRs: 0
+ZZRBFB_3247	inside	1	38				
+//
+# ZZRBFB_125450 Length: 41
+# ZZRBFB_125450 Number of predicted TMRs: 0
+ZZRBFB_125450	inside	1	41				
+//
+# ZZRBFB_133158 Length: 50
+# ZZRBFB_133158 Number of predicted TMRs: 0
+ZZRBFB_133158	signal	1	47				
+ZZRBFB_133158	outside	48	50				
+//
+# ZZRBFB_36413 Length: 35
+# ZZRBFB_36413 Number of predicted TMRs: 0
+ZZRBFB_36413	inside	1	35				
+//
+# ZZRBFB_10401 Length: 48
+# ZZRBFB_10401 Number of predicted TMRs: 0
+ZZRBFB_10401	inside	1	48				
+//
+# ZZRBFB_69399 Length: 33
+# ZZRBFB_69399 Number of predicted TMRs: 0
+ZZRBFB_69399	signal	1	17				
+ZZRBFB_69399	outside	18	33				
+//
+# ZZRBFB_134030 Length: 47
+# ZZRBFB_134030 Number of predicted TMRs: 0
+ZZRBFB_134030	inside	1	47				
+//
+# ZZRBFB_120112 Length: 40
+# ZZRBFB_120112 Number of predicted TMRs: 0
+ZZRBFB_120112	signal	1	38				
+ZZRBFB_120112	outside	39	40				
+//
+# ZZRBFB_6546 Length: 49
+# ZZRBFB_6546 Number of predicted TMRs: 0
+ZZRBFB_6546	inside	1	49				
+//
+# ZZRBFB_90212 Length: 48
+# ZZRBFB_90212 Number of predicted TMRs: 0
+ZZRBFB_90212	signal	1	11				
+ZZRBFB_90212	outside	12	48				
+//
+# ZZRBFB_168737 Length: 42
+# ZZRBFB_168737 Number of predicted TMRs: 0
+ZZRBFB_168737	signal	1	23				
+ZZRBFB_168737	outside	24	42				
+//
+# ZZRBFB_120721 Length: 46
+# ZZRBFB_120721 Number of predicted TMRs: 0
+ZZRBFB_120721	inside	1	46				
+//
+# ZZRBFB_124608 Length: 44
+# ZZRBFB_124608 Number of predicted TMRs: 0
+ZZRBFB_124608	inside	1	44				
+//
+# ZZRBFB_23327 Length: 45
+# ZZRBFB_23327 Number of predicted TMRs: 0
+ZZRBFB_23327	inside	1	45				
+//
+# ZZRBFB_131460 Length: 39
+# ZZRBFB_131460 Number of predicted TMRs: 0
+ZZRBFB_131460	inside	1	39				
+//
+# ZZRBFB_16538 Length: 43
+# ZZRBFB_16538 Number of predicted TMRs: 0
+ZZRBFB_16538	inside	1	43				
+//
+# ZZRBFB_152031 Length: 50
+# ZZRBFB_152031 Number of predicted TMRs: 0
+ZZRBFB_152031	inside	1	50				
+//
+# ZZRBFB_12448 Length: 43
+# ZZRBFB_12448 Number of predicted TMRs: 0
+ZZRBFB_12448	signal	1	30				
+ZZRBFB_12448	outside	31	43				
+//
+# ZZRBFB_96453 Length: 31
+# ZZRBFB_96453 Number of predicted TMRs: 0
+ZZRBFB_96453	inside	1	31				
+//
+# ZZRBFB_134845 Length: 47
+# ZZRBFB_134845 Number of predicted TMRs: 0
+ZZRBFB_134845	inside	1	47				
+//
+# ZZRBFB_31245 Length: 41
+# ZZRBFB_31245 Number of predicted TMRs: 0
+ZZRBFB_31245	signal	1	10				
+ZZRBFB_31245	outside	11	41				
+//
+# ZZRBFB_44085 Length: 45
+# ZZRBFB_44085 Number of predicted TMRs: 0
+ZZRBFB_44085	inside	1	45				
+//
+# ZZRBFB_37218 Length: 49
+# ZZRBFB_37218 Number of predicted TMRs: 0
+ZZRBFB_37218	inside	1	49				
+//
+# ZZRBFB_52160 Length: 46
+# ZZRBFB_52160 Number of predicted TMRs: 0
+ZZRBFB_52160	inside	1	46				
+//
+# ZZRBFB_87906 Length: 47
+# ZZRBFB_87906 Number of predicted TMRs: 0
+ZZRBFB_87906	signal	1	20				
+ZZRBFB_87906	outside	21	47				
+//
+# ZZRBFB_45768 Length: 45
+# ZZRBFB_45768 Number of predicted TMRs: 0
+ZZRBFB_45768	inside	1	45				
+//
+# ZZRBFB_105314 Length: 48
+# ZZRBFB_105314 Number of predicted TMRs: 0
+ZZRBFB_105314	inside	1	48				
+//
+# ZZRBFB_36167 Length: 45
+# ZZRBFB_36167 Number of predicted TMRs: 0
+ZZRBFB_36167	inside	1	45				
+//
+# ZZRBFB_110317 Length: 49
+# ZZRBFB_110317 Number of predicted TMRs: 0
+ZZRBFB_110317	inside	1	49				
+//
+# ZZRBFB_143339 Length: 48
+# ZZRBFB_143339 Number of predicted TMRs: 0
+ZZRBFB_143339	signal	1	46				
+ZZRBFB_143339	outside	47	48				
+//
+# ZZRBFB_75503 Length: 42
+# ZZRBFB_75503 Number of predicted TMRs: 0
+ZZRBFB_75503	inside	1	42				
+//
+# ZZRBFB_105570 Length: 50
+# ZZRBFB_105570 Number of predicted TMRs: 0
+ZZRBFB_105570	inside	1	50				
+//
+# ZZRBFB_51214 Length: 44
+# ZZRBFB_51214 Number of predicted TMRs: 0
+ZZRBFB_51214	inside	1	44				
+//
+# ZZRBFB_146542 Length: 45
+# ZZRBFB_146542 Number of predicted TMRs: 0
+ZZRBFB_146542	inside	1	45				
+//
+# ZZRBFB_170527 Length: 43
+# ZZRBFB_170527 Number of predicted TMRs: 0
+ZZRBFB_170527	signal	1	27				
+ZZRBFB_170527	outside	28	43				
+//
+# ZZRBFB_109161 Length: 46
+# ZZRBFB_109161 Number of predicted TMRs: 0
+ZZRBFB_109161	signal	1	15				
+ZZRBFB_109161	outside	16	46				
+//
+# ZZRBFB_46035 Length: 50
+# ZZRBFB_46035 Number of predicted TMRs: 0
+ZZRBFB_46035	inside	1	50				
+//
+# ZZRBFB_118304 Length: 49
+# ZZRBFB_118304 Number of predicted TMRs: 0
+ZZRBFB_118304	inside	1	49				
+//
+# ZZRBFB_167536 Length: 43
+# ZZRBFB_167536 Number of predicted TMRs: 0
+ZZRBFB_167536	inside	1	43				
+//
+# ZZRBFB_94495 Length: 46
+# ZZRBFB_94495 Number of predicted TMRs: 0
+ZZRBFB_94495	inside	1	46				
+//
+# ZZRBFB_13086 Length: 28
+# ZZRBFB_13086 Number of predicted TMRs: 0
+ZZRBFB_13086	outside	1	28				
+//
+# ZZRBFB_71774 Length: 46
+# ZZRBFB_71774 Number of predicted TMRs: 0
+ZZRBFB_71774	signal	1	37				
+ZZRBFB_71774	outside	38	46				
+//
+# ZZRBFB_67871 Length: 37
+# ZZRBFB_67871 Number of predicted TMRs: 0
+ZZRBFB_67871	signal	1	36				
+ZZRBFB_67871	outside	37	37				
+//
+# ZZRBFB_144092 Length: 49
+# ZZRBFB_144092 Number of predicted TMRs: 0
+ZZRBFB_144092	inside	1	49				
+//
+# ZZRBFB_130457 Length: 44
+# ZZRBFB_130457 Number of predicted TMRs: 0
+ZZRBFB_130457	inside	1	44				
+//
+# ZZRBFB_16676 Length: 41
+# ZZRBFB_16676 Number of predicted TMRs: 0
+ZZRBFB_16676	inside	1	41				
+//
+# ZZRBFB_35510 Length: 40
+# ZZRBFB_35510 Number of predicted TMRs: 0
+ZZRBFB_35510	signal	1	35				
+ZZRBFB_35510	outside	36	40				
+//
+# ZZRBFB_93975 Length: 47
+# ZZRBFB_93975 Number of predicted TMRs: 0
+ZZRBFB_93975	inside	1	47				
+//
+# ZZRBFB_4124 Length: 42
+# ZZRBFB_4124 Number of predicted TMRs: 0
+ZZRBFB_4124	inside	1	42				
+//
+# ZZRBFB_64650 Length: 40
+# ZZRBFB_64650 Number of predicted TMRs: 0
+ZZRBFB_64650	inside	1	40				
+//
+# ZZRBFB_68188 Length: 42
+# ZZRBFB_68188 Number of predicted TMRs: 0
+ZZRBFB_68188	inside	1	42				
+//
+# ZZRBFB_25737 Length: 38
+# ZZRBFB_25737 Number of predicted TMRs: 0
+ZZRBFB_25737	signal	1	32				
+ZZRBFB_25737	outside	33	38				
+//
+# ZZRBFB_83039 Length: 49
+# ZZRBFB_83039 Number of predicted TMRs: 0
+ZZRBFB_83039	inside	1	49				
+//
+# ZZRBFB_36207 Length: 49
+# ZZRBFB_36207 Number of predicted TMRs: 0
+ZZRBFB_36207	inside	1	49				
+//
+# ZZRBFB_81584 Length: 37
+# ZZRBFB_81584 Number of predicted TMRs: 0
+ZZRBFB_81584	signal	1	19				
+ZZRBFB_81584	outside	20	37				
+//
+# ZZRBFB_18626 Length: 38
+# ZZRBFB_18626 Number of predicted TMRs: 0
+ZZRBFB_18626	inside	1	38				
+//
+# ZZRBFB_91317 Length: 48
+# ZZRBFB_91317 Number of predicted TMRs: 0
+ZZRBFB_91317	signal	1	29				
+ZZRBFB_91317	outside	30	48				
+//
+# ZZRBFB_68307 Length: 45
+# ZZRBFB_68307 Number of predicted TMRs: 0
+ZZRBFB_68307	inside	1	45				
+//
+# ZZRBFB_125006 Length: 50
+# ZZRBFB_125006 Number of predicted TMRs: 0
+ZZRBFB_125006	signal	1	48				
+ZZRBFB_125006	outside	49	50				
+//
+# ZZRBFB_101519 Length: 46
+# ZZRBFB_101519 Number of predicted TMRs: 0
+ZZRBFB_101519	inside	1	46				
+//
+# ZZRBFB_133462 Length: 48
+# ZZRBFB_133462 Number of predicted TMRs: 0
+ZZRBFB_133462	signal	1	44				
+ZZRBFB_133462	outside	45	48				
+//
+# ZZRBFB_18793 Length: 43
+# ZZRBFB_18793 Number of predicted TMRs: 0
+ZZRBFB_18793	outside	1	43				
+//
+# ZZRBFB_120427 Length: 39
+# ZZRBFB_120427 Number of predicted TMRs: 0
+ZZRBFB_120427	signal	1	26				
+ZZRBFB_120427	outside	27	39				
+//
+# ZZRBFB_6134 Length: 49
+# ZZRBFB_6134 Number of predicted TMRs: 0
+ZZRBFB_6134	signal	1	44				
+ZZRBFB_6134	outside	45	49				
+//
+# ZZRBFB_88899 Length: 34
+# ZZRBFB_88899 Number of predicted TMRs: 0
+ZZRBFB_88899	inside	1	34				
+//
+# ZZRBFB_73044 Length: 46
+# ZZRBFB_73044 Number of predicted TMRs: 0
+ZZRBFB_73044	inside	1	46				
+//
+# ZZRBFB_137433 Length: 39
+# ZZRBFB_137433 Number of predicted TMRs: 0
+ZZRBFB_137433	inside	1	39				
+//
+# ZZRBFB_98837 Length: 48
+# ZZRBFB_98837 Number of predicted TMRs: 0
+ZZRBFB_98837	inside	1	48				
+//
+# ZZRBFB_124074 Length: 42
+# ZZRBFB_124074 Number of predicted TMRs: 0
+ZZRBFB_124074	inside	1	42				
+//
+# ZZRBFB_42676 Length: 39
+# ZZRBFB_42676 Number of predicted TMRs: 0
+ZZRBFB_42676	inside	1	39				
+//
+# ZZRBFB_101641 Length: 42
+# ZZRBFB_101641 Number of predicted TMRs: 0
+ZZRBFB_101641	signal	1	20				
+ZZRBFB_101641	outside	21	42				
+//
+# ZZRBFB_143581 Length: 34
+# ZZRBFB_143581 Number of predicted TMRs: 0
+ZZRBFB_143581	signal	1	14				
+ZZRBFB_143581	outside	15	34				
+//
+# ZZRBFB_62405 Length: 39
+# ZZRBFB_62405 Number of predicted TMRs: 0
+ZZRBFB_62405	inside	1	39				
+//
+# ZZRBFB_57088 Length: 48
+# ZZRBFB_57088 Number of predicted TMRs: 0
+ZZRBFB_57088	inside	1	48				
+//
+# ZZRBFB_7796 Length: 49
+# ZZRBFB_7796 Number of predicted TMRs: 0
+ZZRBFB_7796	inside	1	49				
+//
+# ZZRBFB_100342 Length: 46
+# ZZRBFB_100342 Number of predicted TMRs: 0
+ZZRBFB_100342	signal	1	43				
+ZZRBFB_100342	outside	44	46				
+//
+# ZZRBFB_120847 Length: 36
+# ZZRBFB_120847 Number of predicted TMRs: 0
+ZZRBFB_120847	signal	1	25				
+ZZRBFB_120847	outside	26	36				
+//
+# ZZRBFB_141298 Length: 49
+# ZZRBFB_141298 Number of predicted TMRs: 0
+ZZRBFB_141298	inside	1	49				
+//
+# ZZRBFB_167991 Length: 47
+# ZZRBFB_167991 Number of predicted TMRs: 0
+ZZRBFB_167991	signal	1	45				
+ZZRBFB_167991	outside	46	47				
+//
+# ZZRBFB_154936 Length: 43
+# ZZRBFB_154936 Number of predicted TMRs: 0
+ZZRBFB_154936	signal	1	35				
+ZZRBFB_154936	outside	36	43				
+//
+# ZZRBFB_13469 Length: 49
+# ZZRBFB_13469 Number of predicted TMRs: 0
+ZZRBFB_13469	signal	1	40				
+ZZRBFB_13469	outside	41	49				
+//
+# ZZRBFB_58454 Length: 49
+# ZZRBFB_58454 Number of predicted TMRs: 0
+ZZRBFB_58454	inside	1	49				
+//
+# ZZRBFB_94376 Length: 46
+# ZZRBFB_94376 Number of predicted TMRs: 0
+ZZRBFB_94376	inside	1	46				
+//
+# ZZRBFB_88800 Length: 48
+# ZZRBFB_88800 Number of predicted TMRs: 0
+ZZRBFB_88800	signal	1	25				
+ZZRBFB_88800	outside	26	48				
+//
+# ZZRBFB_109341 Length: 50
+# ZZRBFB_109341 Number of predicted TMRs: 0
+ZZRBFB_109341	inside	1	50				
+//
+# ZZRBFB_134005 Length: 46
+# ZZRBFB_134005 Number of predicted TMRs: 0
+ZZRBFB_134005	inside	1	46				
+//
+# ZZRBFB_98881 Length: 41
+# ZZRBFB_98881 Number of predicted TMRs: 0
+ZZRBFB_98881	inside	1	41				
+//
+# ZZRBFB_38865 Length: 44
+# ZZRBFB_38865 Number of predicted TMRs: 1
+ZZRBFB_38865	inside	1	15				
+ZZRBFB_38865	TMhelix	16	36				
+ZZRBFB_38865	outside	37	44				
+//
+# ZZRBFB_168912 Length: 45
+# ZZRBFB_168912 Number of predicted TMRs: 0
+ZZRBFB_168912	inside	1	45				
+//
+# ZZRBFB_143238 Length: 46
+# ZZRBFB_143238 Number of predicted TMRs: 0
+ZZRBFB_143238	inside	1	46				
+//
+# ZZRBFB_152975 Length: 31
+# ZZRBFB_152975 Number of predicted TMRs: 0
+ZZRBFB_152975	signal	1	19				
+ZZRBFB_152975	outside	20	31				
+//
+# ZZRBFB_99151 Length: 48
+# ZZRBFB_99151 Number of predicted TMRs: 0
+ZZRBFB_99151	inside	1	48				
+//
+# ZZRBFB_107440 Length: 46
+# ZZRBFB_107440 Number of predicted TMRs: 0
+ZZRBFB_107440	inside	1	46				
+//
+# ZZRBFB_7053 Length: 50
+# ZZRBFB_7053 Number of predicted TMRs: 0
+ZZRBFB_7053	inside	1	50				
+//
+# ZZRBFB_102937 Length: 47
+# ZZRBFB_102937 Number of predicted TMRs: 0
+ZZRBFB_102937	signal	1	45				
+ZZRBFB_102937	outside	46	47				
+//
+# ZZRBFB_144500 Length: 50
+# ZZRBFB_144500 Number of predicted TMRs: 0
+ZZRBFB_144500	inside	1	50				
+//
+# ZZRBFB_9713 Length: 42
+# ZZRBFB_9713 Number of predicted TMRs: 0
+ZZRBFB_9713	inside	1	42				
+//
+# ZZRBFB_121365 Length: 42
+# ZZRBFB_121365 Number of predicted TMRs: 0
+ZZRBFB_121365	signal	1	24				
+ZZRBFB_121365	outside	25	42				
+//
+# ZZRBFB_71751 Length: 40
+# ZZRBFB_71751 Number of predicted TMRs: 0
+ZZRBFB_71751	inside	1	40				
+//
+# ZZRBFB_60627 Length: 50
+# ZZRBFB_60627 Number of predicted TMRs: 0
+ZZRBFB_60627	inside	1	50				
+//
+# ZZRBFB_167897 Length: 39
+# ZZRBFB_167897 Number of predicted TMRs: 0
+ZZRBFB_167897	inside	1	39				
+//
+# ZZRBFB_134902 Length: 47
+# ZZRBFB_134902 Number of predicted TMRs: 0
+ZZRBFB_134902	outside	1	47				
+//
+# ZZRBFB_158784 Length: 37
+# ZZRBFB_158784 Number of predicted TMRs: 0
+ZZRBFB_158784	inside	1	37				
+//
+# ZZRBFB_93195 Length: 43
+# ZZRBFB_93195 Number of predicted TMRs: 0
+ZZRBFB_93195	signal	1	41				
+ZZRBFB_93195	outside	42	43				
+//
+# ZZRBFB_96511 Length: 47
+# ZZRBFB_96511 Number of predicted TMRs: 0
+ZZRBFB_96511	signal	1	46				
+ZZRBFB_96511	outside	47	47				
+//
+# ZZRBFB_68297 Length: 50
+# ZZRBFB_68297 Number of predicted TMRs: 0
+ZZRBFB_68297	inside	1	50				
+//
+# ZZRBFB_30229 Length: 47
+# ZZRBFB_30229 Number of predicted TMRs: 0
+ZZRBFB_30229	signal	1	10				
+ZZRBFB_30229	outside	11	47				
+//
+# ZZRBFB_116369 Length: 46
+# ZZRBFB_116369 Number of predicted TMRs: 0
+ZZRBFB_116369	signal	1	28				
+ZZRBFB_116369	outside	29	46				
+//
+# ZZRBFB_123519 Length: 47
+# ZZRBFB_123519 Number of predicted TMRs: 0
+ZZRBFB_123519	inside	1	47				
+//
+# ZZRBFB_61196 Length: 49
+# ZZRBFB_61196 Number of predicted TMRs: 0
+ZZRBFB_61196	signal	1	45				
+ZZRBFB_61196	outside	46	49				
+//
+# ZZRBFB_167120 Length: 40
+# ZZRBFB_167120 Number of predicted TMRs: 0
+ZZRBFB_167120	inside	1	40				
+//
+# ZZRBFB_17671 Length: 48
+# ZZRBFB_17671 Number of predicted TMRs: 0
+ZZRBFB_17671	signal	1	45				
+ZZRBFB_17671	outside	46	48				
+//
+# ZZRBFB_87801 Length: 47
+# ZZRBFB_87801 Number of predicted TMRs: 0
+ZZRBFB_87801	inside	1	47				
+//
+# ZZRBFB_161275 Length: 42
+# ZZRBFB_161275 Number of predicted TMRs: 0
+ZZRBFB_161275	inside	1	42				
+//
+# ZZRBFB_170807 Length: 48
+# ZZRBFB_170807 Number of predicted TMRs: 0
+ZZRBFB_170807	inside	1	48				
+//
+# ZZRBFB_119508 Length: 37
+# ZZRBFB_119508 Number of predicted TMRs: 0
+ZZRBFB_119508	signal	1	25				
+ZZRBFB_119508	outside	26	37				
+//
+# ZZRBFB_68967 Length: 39
+# ZZRBFB_68967 Number of predicted TMRs: 0
+ZZRBFB_68967	signal	1	33				
+ZZRBFB_68967	outside	34	39				
+//
+# ZZRBFB_130268 Length: 44
+# ZZRBFB_130268 Number of predicted TMRs: 0
+ZZRBFB_130268	signal	1	10				
+ZZRBFB_130268	outside	11	44				
+//
+# ZZRBFB_95786 Length: 36
+# ZZRBFB_95786 Number of predicted TMRs: 0
+ZZRBFB_95786	signal	1	11				
+ZZRBFB_95786	outside	12	36				
+//
+# ZZRBFB_37163 Length: 50
+# ZZRBFB_37163 Number of predicted TMRs: 0
+ZZRBFB_37163	inside	1	50				
+//
+# ZZRBFB_41461 Length: 50
+# ZZRBFB_41461 Number of predicted TMRs: 0
+ZZRBFB_41461	inside	1	50				
+//
+# ZZRBFB_148070 Length: 50
+# ZZRBFB_148070 Number of predicted TMRs: 0
+ZZRBFB_148070	inside	1	50				
+//
+# ZZRBFB_140181 Length: 50
+# ZZRBFB_140181 Number of predicted TMRs: 0
+ZZRBFB_140181	inside	1	50				
+//
+# ZZRBFB_38579 Length: 32
+# ZZRBFB_38579 Number of predicted TMRs: 0
+ZZRBFB_38579	signal	1	31				
+ZZRBFB_38579	outside	32	32				
+//
+# ZZRBFB_133186 Length: 48
+# ZZRBFB_133186 Number of predicted TMRs: 0
+ZZRBFB_133186	inside	1	48				
+//
+# ZZRBFB_119426 Length: 50
+# ZZRBFB_119426 Number of predicted TMRs: 0
+ZZRBFB_119426	inside	1	50				
+//
+# ZZRBFB_59340 Length: 50
+# ZZRBFB_59340 Number of predicted TMRs: 0
+ZZRBFB_59340	inside	1	50				
+//
+# ZZRBFB_36673 Length: 50
+# ZZRBFB_36673 Number of predicted TMRs: 0
+ZZRBFB_36673	inside	1	50				
+//
+# ZZRBFB_143174 Length: 48
+# ZZRBFB_143174 Number of predicted TMRs: 0
+ZZRBFB_143174	inside	1	48				
+//
+# ZZRBFB_35111 Length: 47
+# ZZRBFB_35111 Number of predicted TMRs: 0
+ZZRBFB_35111	inside	1	47				
+//
+# ZZRBFB_113775 Length: 43
+# ZZRBFB_113775 Number of predicted TMRs: 0
+ZZRBFB_113775	signal	1	28				
+ZZRBFB_113775	outside	29	43				
+//
+# ZZRBFB_59588 Length: 47
+# ZZRBFB_59588 Number of predicted TMRs: 0
+ZZRBFB_59588	inside	1	47				
+//
+# ZZRBFB_170959 Length: 46
+# ZZRBFB_170959 Number of predicted TMRs: 0
+ZZRBFB_170959	inside	1	46				
+//
+# ZZRBFB_6878 Length: 48
+# ZZRBFB_6878 Number of predicted TMRs: 0
+ZZRBFB_6878	inside	1	48				
+//
+# ZZRBFB_137306 Length: 36
+# ZZRBFB_137306 Number of predicted TMRs: 0
+ZZRBFB_137306	inside	1	36				
+//
+# ZZRBFB_133580 Length: 48
+# ZZRBFB_133580 Number of predicted TMRs: 0
+ZZRBFB_133580	inside	1	48				
+//
+# ZZRBFB_10331 Length: 47
+# ZZRBFB_10331 Number of predicted TMRs: 0
+ZZRBFB_10331	signal	1	46				
+ZZRBFB_10331	outside	47	47				
+//
+# ZZRBFB_40803 Length: 47
+# ZZRBFB_40803 Number of predicted TMRs: 0
+ZZRBFB_40803	signal	1	13				
+ZZRBFB_40803	outside	14	47				
+//
+# ZZRBFB_131812 Length: 50
+# ZZRBFB_131812 Number of predicted TMRs: 0
+ZZRBFB_131812	inside	1	50				
+//
+# ZZRBFB_131897 Length: 50
+# ZZRBFB_131897 Number of predicted TMRs: 0
+ZZRBFB_131897	inside	1	50				
+//
+# ZZRBFB_164647 Length: 50
+# ZZRBFB_164647 Number of predicted TMRs: 0
+ZZRBFB_164647	inside	1	50				
+//
+# ZZRBFB_112479 Length: 50
+# ZZRBFB_112479 Number of predicted TMRs: 0
+ZZRBFB_112479	inside	1	50				
+//
+# ZZRBFB_152802 Length: 31
+# ZZRBFB_152802 Number of predicted TMRs: 0
+ZZRBFB_152802	signal	1	25				
+ZZRBFB_152802	outside	26	31				
+//
+# ZZRBFB_87481 Length: 49
+# ZZRBFB_87481 Number of predicted TMRs: 0
+ZZRBFB_87481	signal	1	12				
+ZZRBFB_87481	outside	13	49				
+//
+# ZZRBFB_82266 Length: 50
+# ZZRBFB_82266 Number of predicted TMRs: 0
+ZZRBFB_82266	inside	1	50				
+//
+# ZZRBFB_10074 Length: 42
+# ZZRBFB_10074 Number of predicted TMRs: 0
+ZZRBFB_10074	inside	1	42				
+//
+# ZZRBFB_11826 Length: 39
+# ZZRBFB_11826 Number of predicted TMRs: 0
+ZZRBFB_11826	signal	1	38				
+ZZRBFB_11826	outside	39	39				
+//
+# ZZRBFB_41263 Length: 43
+# ZZRBFB_41263 Number of predicted TMRs: 0
+ZZRBFB_41263	inside	1	43				
+//
+# ZZRBFB_114038 Length: 44
+# ZZRBFB_114038 Number of predicted TMRs: 0
+ZZRBFB_114038	inside	1	44				
+//
+# ZZRBFB_5019 Length: 47
+# ZZRBFB_5019 Number of predicted TMRs: 0
+ZZRBFB_5019	inside	1	47				
+//
+# ZZRBFB_47288 Length: 50
+# ZZRBFB_47288 Number of predicted TMRs: 0
+ZZRBFB_47288	inside	1	50				
+//
+# ZZRBFB_170812 Length: 37
+# ZZRBFB_170812 Number of predicted TMRs: 0
+ZZRBFB_170812	signal	1	35				
+ZZRBFB_170812	outside	36	37				
+//
+# ZZRBFB_137630 Length: 43
+# ZZRBFB_137630 Number of predicted TMRs: 0
+ZZRBFB_137630	outside	1	43				
+//
+# ZZRBFB_34853 Length: 50
+# ZZRBFB_34853 Number of predicted TMRs: 0
+ZZRBFB_34853	inside	1	50				
+//
+# ZZRBFB_94164 Length: 41
+# ZZRBFB_94164 Number of predicted TMRs: 0
+ZZRBFB_94164	signal	1	40				
+ZZRBFB_94164	outside	41	41				
+//
+# ZZRBFB_95327 Length: 41
+# ZZRBFB_95327 Number of predicted TMRs: 0
+ZZRBFB_95327	inside	1	41				
+//
+# ZZRBFB_166736 Length: 46
+# ZZRBFB_166736 Number of predicted TMRs: 0
+ZZRBFB_166736	signal	1	35				
+ZZRBFB_166736	outside	36	46				
+//
+# ZZRBFB_33346 Length: 49
+# ZZRBFB_33346 Number of predicted TMRs: 0
+ZZRBFB_33346	signal	1	46				
+ZZRBFB_33346	outside	47	49				
+//
+# ZZRBFB_167166 Length: 41
+# ZZRBFB_167166 Number of predicted TMRs: 0
+ZZRBFB_167166	inside	1	41				
+//
+# ZZRBFB_34095 Length: 42
+# ZZRBFB_34095 Number of predicted TMRs: 0
+ZZRBFB_34095	inside	1	42				
+//
+# ZZRBFB_23070 Length: 46
+# ZZRBFB_23070 Number of predicted TMRs: 0
+ZZRBFB_23070	inside	1	46				
+//
+# ZZRBFB_132748 Length: 48
+# ZZRBFB_132748 Number of predicted TMRs: 0
+ZZRBFB_132748	inside	1	48				
+//
+# ZZRBFB_40097 Length: 48
+# ZZRBFB_40097 Number of predicted TMRs: 0
+ZZRBFB_40097	inside	1	48				
+//
+# ZZRBFB_50057 Length: 41
+# ZZRBFB_50057 Number of predicted TMRs: 0
+ZZRBFB_50057	inside	1	41				
+//
+# ZZRBFB_138557 Length: 43
+# ZZRBFB_138557 Number of predicted TMRs: 0
+ZZRBFB_138557	signal	1	22				
+ZZRBFB_138557	outside	23	43				
+//
+# ZZRBFB_16983 Length: 50
+# ZZRBFB_16983 Number of predicted TMRs: 0
+ZZRBFB_16983	inside	1	50				
+//
+# ZZRBFB_145847 Length: 45
+# ZZRBFB_145847 Number of predicted TMRs: 0
+ZZRBFB_145847	inside	1	45				
+//
+# ZZRBFB_111448 Length: 50
+# ZZRBFB_111448 Number of predicted TMRs: 0
+ZZRBFB_111448	inside	1	50				
+//
+# ZZRBFB_126141 Length: 35
+# ZZRBFB_126141 Number of predicted TMRs: 0
+ZZRBFB_126141	signal	1	32				
+ZZRBFB_126141	outside	33	35				
+//
+# ZZRBFB_79418 Length: 47
+# ZZRBFB_79418 Number of predicted TMRs: 0
+ZZRBFB_79418	inside	1	47				
+//
+# ZZRBFB_167759 Length: 43
+# ZZRBFB_167759 Number of predicted TMRs: 0
+ZZRBFB_167759	outside	1	43				
+//
+# ZZRBFB_97841 Length: 49
+# ZZRBFB_97841 Number of predicted TMRs: 0
+ZZRBFB_97841	signal	1	10				
+ZZRBFB_97841	outside	11	49				
+//
+# ZZRBFB_164631 Length: 47
+# ZZRBFB_164631 Number of predicted TMRs: 0
+ZZRBFB_164631	signal	1	45				
+ZZRBFB_164631	outside	46	47				
+//
+# ZZRBFB_6861 Length: 44
+# ZZRBFB_6861 Number of predicted TMRs: 0
+ZZRBFB_6861	inside	1	44				
+//
+# ZZRBFB_99526 Length: 46
+# ZZRBFB_99526 Number of predicted TMRs: 0
+ZZRBFB_99526	inside	1	46				
+//
+# ZZRBFB_93155 Length: 50
+# ZZRBFB_93155 Number of predicted TMRs: 0
+ZZRBFB_93155	inside	1	50				
+//
+# ZZRBFB_74043 Length: 47
+# ZZRBFB_74043 Number of predicted TMRs: 0
+ZZRBFB_74043	inside	1	47				
+//
+# ZZRBFB_82516 Length: 50
+# ZZRBFB_82516 Number of predicted TMRs: 0
+ZZRBFB_82516	inside	1	50				
+//
+# ZZRBFB_126319 Length: 35
+# ZZRBFB_126319 Number of predicted TMRs: 0
+ZZRBFB_126319	signal	1	34				
+ZZRBFB_126319	outside	35	35				
+//
+# ZZRBFB_37905 Length: 33
+# ZZRBFB_37905 Number of predicted TMRs: 0
+ZZRBFB_37905	inside	1	33				
+//
+# ZZRBFB_94178 Length: 50
+# ZZRBFB_94178 Number of predicted TMRs: 0
+ZZRBFB_94178	inside	1	50				
+//
+# ZZRBFB_146064 Length: 47
+# ZZRBFB_146064 Number of predicted TMRs: 0
+ZZRBFB_146064	signal	1	10				
+ZZRBFB_146064	outside	11	47				
+//
+# ZZRBFB_131502 Length: 46
+# ZZRBFB_131502 Number of predicted TMRs: 0
+ZZRBFB_131502	signal	1	44				
+ZZRBFB_131502	outside	45	46				
+//
+# ZZRBFB_125206 Length: 48
+# ZZRBFB_125206 Number of predicted TMRs: 0
+ZZRBFB_125206	inside	1	48				
+//
+# ZZRBFB_151265 Length: 42
+# ZZRBFB_151265 Number of predicted TMRs: 0
+ZZRBFB_151265	inside	1	42				
+//
+# ZZRBFB_147929 Length: 47
+# ZZRBFB_147929 Number of predicted TMRs: 0
+ZZRBFB_147929	inside	1	47				
+//
+# ZZRBFB_26498 Length: 40
+# ZZRBFB_26498 Number of predicted TMRs: 0
+ZZRBFB_26498	inside	1	40				
+//
+# ZZRBFB_18314 Length: 37
+# ZZRBFB_18314 Number of predicted TMRs: 0
+ZZRBFB_18314	signal	1	24				
+ZZRBFB_18314	outside	25	37				
+//
+# ZZRBFB_26828 Length: 42
+# ZZRBFB_26828 Number of predicted TMRs: 0
+ZZRBFB_26828	signal	1	10				
+ZZRBFB_26828	outside	11	42				
+//
+# ZZRBFB_150004 Length: 48
+# ZZRBFB_150004 Number of predicted TMRs: 0
+ZZRBFB_150004	inside	1	48				
+//
+# ZZRBFB_94479 Length: 50
+# ZZRBFB_94479 Number of predicted TMRs: 0
+ZZRBFB_94479	inside	1	50				
+//
+# ZZRBFB_48901 Length: 40
+# ZZRBFB_48901 Number of predicted TMRs: 0
+ZZRBFB_48901	signal	1	18				
+ZZRBFB_48901	outside	19	40				
+//
+# ZZRBFB_11747 Length: 40
+# ZZRBFB_11747 Number of predicted TMRs: 0
+ZZRBFB_11747	signal	1	30				
+ZZRBFB_11747	outside	31	40				
+//
+# ZZRBFB_21804 Length: 35
+# ZZRBFB_21804 Number of predicted TMRs: 0
+ZZRBFB_21804	inside	1	35				
+//
+# ZZRBFB_122240 Length: 43
+# ZZRBFB_122240 Number of predicted TMRs: 0
+ZZRBFB_122240	inside	1	43				
+//
+# ZZRBFB_141318 Length: 48
+# ZZRBFB_141318 Number of predicted TMRs: 0
+ZZRBFB_141318	inside	1	48				
+//
+# ZZRBFB_92915 Length: 46
+# ZZRBFB_92915 Number of predicted TMRs: 0
+ZZRBFB_92915	signal	1	45				
+ZZRBFB_92915	outside	46	46				
+//
+# ZZRBFB_135992 Length: 41
+# ZZRBFB_135992 Number of predicted TMRs: 0
+ZZRBFB_135992	signal	1	10				
+ZZRBFB_135992	outside	11	41				
+//
+# ZZRBFB_52007 Length: 43
+# ZZRBFB_52007 Number of predicted TMRs: 0
+ZZRBFB_52007	inside	1	43				
+//
+# ZZRBFB_74603 Length: 38
+# ZZRBFB_74603 Number of predicted TMRs: 0
+ZZRBFB_74603	inside	1	38				
+//
+# ZZRBFB_86750 Length: 42
+# ZZRBFB_86750 Number of predicted TMRs: 0
+ZZRBFB_86750	signal	1	12				
+ZZRBFB_86750	outside	13	42				
+//
+# ZZRBFB_93031 Length: 50
+# ZZRBFB_93031 Number of predicted TMRs: 0
+ZZRBFB_93031	inside	1	50				
+//
+# ZZRBFB_101768 Length: 50
+# ZZRBFB_101768 Number of predicted TMRs: 0
+ZZRBFB_101768	signal	1	21				
+ZZRBFB_101768	outside	22	50				
+//
+# ZZRBFB_77963 Length: 45
+# ZZRBFB_77963 Number of predicted TMRs: 0
+ZZRBFB_77963	inside	1	45				
+//
+# ZZRBFB_12078 Length: 49
+# ZZRBFB_12078 Number of predicted TMRs: 0
+ZZRBFB_12078	outside	1	49				
+//
+# ZZRBFB_82963 Length: 42
+# ZZRBFB_82963 Number of predicted TMRs: 0
+ZZRBFB_82963	inside	1	42				
+//
+# ZZRBFB_148606 Length: 45
+# ZZRBFB_148606 Number of predicted TMRs: 0
+ZZRBFB_148606	outside	1	45				
+//
+# ZZRBFB_117865 Length: 47
+# ZZRBFB_117865 Number of predicted TMRs: 0
+ZZRBFB_117865	signal	1	18				
+ZZRBFB_117865	outside	19	47				
+//
+# ZZRBFB_11209 Length: 43
+# ZZRBFB_11209 Number of predicted TMRs: 0
+ZZRBFB_11209	signal	1	19				
+ZZRBFB_11209	outside	20	43				
+//
+# ZZRBFB_75355 Length: 50
+# ZZRBFB_75355 Number of predicted TMRs: 0
+ZZRBFB_75355	inside	1	50				
+//
+# ZZRBFB_39532 Length: 39
+# ZZRBFB_39532 Number of predicted TMRs: 0
+ZZRBFB_39532	signal	1	38				
+ZZRBFB_39532	outside	39	39				
+//
+# ZZRBFB_66736 Length: 48
+# ZZRBFB_66736 Number of predicted TMRs: 0
+ZZRBFB_66736	inside	1	48				
+//
+# ZZRBFB_168139 Length: 46
+# ZZRBFB_168139 Number of predicted TMRs: 0
+ZZRBFB_168139	inside	1	46				
+//
+# ZZRBFB_161549 Length: 50
+# ZZRBFB_161549 Number of predicted TMRs: 0
+ZZRBFB_161549	inside	1	50				
+//
+# ZZRBFB_3317 Length: 47
+# ZZRBFB_3317 Number of predicted TMRs: 0
+ZZRBFB_3317	inside	1	47				
+//
+# ZZRBFB_163421 Length: 40
+# ZZRBFB_163421 Number of predicted TMRs: 0
+ZZRBFB_163421	inside	1	40				
+//
+# ZZRBFB_87088 Length: 43
+# ZZRBFB_87088 Number of predicted TMRs: 0
+ZZRBFB_87088	inside	1	43				
+//
+# ZZRBFB_164670 Length: 37
+# ZZRBFB_164670 Number of predicted TMRs: 0
+ZZRBFB_164670	signal	1	35				
+ZZRBFB_164670	outside	36	37				
+//
+# ZZRBFB_16379 Length: 50
+# ZZRBFB_16379 Number of predicted TMRs: 0
+ZZRBFB_16379	inside	1	50				
+//
+# ZZRBFB_89606 Length: 40
+# ZZRBFB_89606 Number of predicted TMRs: 0
+ZZRBFB_89606	inside	1	40				
+//
+# ZZRBFB_79382 Length: 49
+# ZZRBFB_79382 Number of predicted TMRs: 0
+ZZRBFB_79382	signal	1	47				
+ZZRBFB_79382	outside	48	49				
+//
+# ZZRBFB_72162 Length: 46
+# ZZRBFB_72162 Number of predicted TMRs: 0
+ZZRBFB_72162	signal	1	28				
+ZZRBFB_72162	outside	29	46				
+//
+# ZZRBFB_128000 Length: 46
+# ZZRBFB_128000 Number of predicted TMRs: 0
+ZZRBFB_128000	inside	1	46				
+//
+# ZZRBFB_124486 Length: 49
+# ZZRBFB_124486 Number of predicted TMRs: 0
+ZZRBFB_124486	inside	1	49				
+//
+# ZZRBFB_117922 Length: 50
+# ZZRBFB_117922 Number of predicted TMRs: 0
+ZZRBFB_117922	inside	1	50				
+//
+# ZZRBFB_73037 Length: 38
+# ZZRBFB_73037 Number of predicted TMRs: 0
+ZZRBFB_73037	signal	1	37				
+ZZRBFB_73037	outside	38	38				
+//
+# ZZRBFB_44782 Length: 45
+# ZZRBFB_44782 Number of predicted TMRs: 0
+ZZRBFB_44782	inside	1	45				
+//
+# ZZRBFB_57287 Length: 46
+# ZZRBFB_57287 Number of predicted TMRs: 0
+ZZRBFB_57287	inside	1	46				
+//
+# ZZRBFB_14153 Length: 46
+# ZZRBFB_14153 Number of predicted TMRs: 0
+ZZRBFB_14153	inside	1	46				
+//
+# ZZRBFB_29455 Length: 42
+# ZZRBFB_29455 Number of predicted TMRs: 0
+ZZRBFB_29455	inside	1	42				
+//
+# ZZRBFB_38620 Length: 49
+# ZZRBFB_38620 Number of predicted TMRs: 0
+ZZRBFB_38620	inside	1	49				
+//
+# ZZRBFB_117114 Length: 44
+# ZZRBFB_117114 Number of predicted TMRs: 0
+ZZRBFB_117114	inside	1	44				
+//
+# ZZRBFB_146099 Length: 48
+# ZZRBFB_146099 Number of predicted TMRs: 0
+ZZRBFB_146099	outside	1	48				
+//
+# ZZRBFB_40875 Length: 49
+# ZZRBFB_40875 Number of predicted TMRs: 0
+ZZRBFB_40875	inside	1	49				
+//
+# ZZRBFB_98060 Length: 36
+# ZZRBFB_98060 Number of predicted TMRs: 0
+ZZRBFB_98060	inside	1	36				
+//
+# ZZRBFB_96895 Length: 37
+# ZZRBFB_96895 Number of predicted TMRs: 0
+ZZRBFB_96895	inside	1	37				
+//
+# ZZRBFB_113820 Length: 40
+# ZZRBFB_113820 Number of predicted TMRs: 0
+ZZRBFB_113820	signal	1	39				
+ZZRBFB_113820	outside	40	40				
+//
+# ZZRBFB_169581 Length: 35
+# ZZRBFB_169581 Number of predicted TMRs: 0
+ZZRBFB_169581	inside	1	35				
+//
+# ZZRBFB_57138 Length: 43
+# ZZRBFB_57138 Number of predicted TMRs: 0
+ZZRBFB_57138	inside	1	43				
+//
+# ZZRBFB_100827 Length: 48
+# ZZRBFB_100827 Number of predicted TMRs: 0
+ZZRBFB_100827	inside	1	48				
+//
+# ZZRBFB_79160 Length: 48
+# ZZRBFB_79160 Number of predicted TMRs: 0
+ZZRBFB_79160	inside	1	48				
+//
+# ZZRBFB_148703 Length: 47
+# ZZRBFB_148703 Number of predicted TMRs: 0
+ZZRBFB_148703	inside	1	47				
+//
+# ZZRBFB_151472 Length: 46
+# ZZRBFB_151472 Number of predicted TMRs: 0
+ZZRBFB_151472	inside	1	46				
+//
+# ZZRBFB_35080 Length: 45
+# ZZRBFB_35080 Number of predicted TMRs: 0
+ZZRBFB_35080	inside	1	45				
+//
+# ZZRBFB_48301 Length: 48
+# ZZRBFB_48301 Number of predicted TMRs: 0
+ZZRBFB_48301	inside	1	48				
+//
+# ZZRBFB_7322 Length: 47
+# ZZRBFB_7322 Number of predicted TMRs: 0
+ZZRBFB_7322	inside	1	47				
+//
+# ZZRBFB_156580 Length: 50
+# ZZRBFB_156580 Number of predicted TMRs: 0
+ZZRBFB_156580	inside	1	50				
+//
+# ZZRBFB_84226 Length: 37
+# ZZRBFB_84226 Number of predicted TMRs: 0
+ZZRBFB_84226	signal	1	34				
+ZZRBFB_84226	outside	35	37				
+//
+# ZZRBFB_86266 Length: 42
+# ZZRBFB_86266 Number of predicted TMRs: 0
+ZZRBFB_86266	inside	1	42				
+//
+# ZZRBFB_50292 Length: 35
+# ZZRBFB_50292 Number of predicted TMRs: 0
+ZZRBFB_50292	signal	1	17				
+ZZRBFB_50292	outside	18	35				
+//
+# ZZRBFB_89234 Length: 33
+# ZZRBFB_89234 Number of predicted TMRs: 0
+ZZRBFB_89234	inside	1	33				
+//
+# ZZRBFB_17064 Length: 50
+# ZZRBFB_17064 Number of predicted TMRs: 0
+ZZRBFB_17064	inside	1	50				
+//
+# ZZRBFB_152460 Length: 49
+# ZZRBFB_152460 Number of predicted TMRs: 0
+ZZRBFB_152460	inside	1	49				
+//
+# ZZRBFB_42935 Length: 39
+# ZZRBFB_42935 Number of predicted TMRs: 0
+ZZRBFB_42935	inside	1	39				
+//
+# ZZRBFB_26946 Length: 48
+# ZZRBFB_26946 Number of predicted TMRs: 0
+ZZRBFB_26946	inside	1	48				
+//
+# ZZRBFB_120786 Length: 44
+# ZZRBFB_120786 Number of predicted TMRs: 0
+ZZRBFB_120786	inside	1	44				
+//
+# ZZRBFB_62243 Length: 50
+# ZZRBFB_62243 Number of predicted TMRs: 0
+ZZRBFB_62243	inside	1	50				
+//
+# ZZRBFB_111627 Length: 50
+# ZZRBFB_111627 Number of predicted TMRs: 0
+ZZRBFB_111627	inside	1	50				
+//
+# ZZRBFB_3451 Length: 45
+# ZZRBFB_3451 Number of predicted TMRs: 0
+ZZRBFB_3451	inside	1	45				
+//
+# ZZRBFB_143094 Length: 46
+# ZZRBFB_143094 Number of predicted TMRs: 0
+ZZRBFB_143094	inside	1	46				
+//
+# ZZRBFB_60400 Length: 49
+# ZZRBFB_60400 Number of predicted TMRs: 0
+ZZRBFB_60400	inside	1	49				
+//
+# ZZRBFB_103773 Length: 50
+# ZZRBFB_103773 Number of predicted TMRs: 0
+ZZRBFB_103773	signal	1	38				
+ZZRBFB_103773	outside	39	50				
+//
+# ZZRBFB_8280 Length: 48
+# ZZRBFB_8280 Number of predicted TMRs: 0
+ZZRBFB_8280	signal	1	46				
+ZZRBFB_8280	outside	47	48				
+//
+# ZZRBFB_132042 Length: 49
+# ZZRBFB_132042 Number of predicted TMRs: 0
+ZZRBFB_132042	inside	1	49				
+//
+# ZZRBFB_84196 Length: 50
+# ZZRBFB_84196 Number of predicted TMRs: 0
+ZZRBFB_84196	signal	1	12				
+ZZRBFB_84196	outside	13	50				
+//
+# ZZRBFB_131162 Length: 49
+# ZZRBFB_131162 Number of predicted TMRs: 0
+ZZRBFB_131162	inside	1	49				
+//
+# ZZRBFB_93512 Length: 43
+# ZZRBFB_93512 Number of predicted TMRs: 0
+ZZRBFB_93512	inside	1	43				
+//
+# ZZRBFB_83791 Length: 43
+# ZZRBFB_83791 Number of predicted TMRs: 0
+ZZRBFB_83791	inside	1	43				
+//
+# ZZRBFB_90743 Length: 28
+# ZZRBFB_90743 Number of predicted TMRs: 0
+ZZRBFB_90743	inside	1	28				
+//
+# ZZRBFB_26971 Length: 47
+# ZZRBFB_26971 Number of predicted TMRs: 0
+ZZRBFB_26971	signal	1	41				
+ZZRBFB_26971	outside	42	47				
+//
+# ZZRBFB_106153 Length: 48
+# ZZRBFB_106153 Number of predicted TMRs: 0
+ZZRBFB_106153	inside	1	48				
+//
+# ZZRBFB_123783 Length: 50
+# ZZRBFB_123783 Number of predicted TMRs: 0
+ZZRBFB_123783	inside	1	50				
+//
+# ZZRBFB_132317 Length: 33
+# ZZRBFB_132317 Number of predicted TMRs: 0
+ZZRBFB_132317	signal	1	30				
+ZZRBFB_132317	outside	31	33				
+//
+# ZZRBFB_59939 Length: 33
+# ZZRBFB_59939 Number of predicted TMRs: 0
+ZZRBFB_59939	signal	1	25				
+ZZRBFB_59939	outside	26	33				
+//
+# ZZRBFB_33666 Length: 33
+# ZZRBFB_33666 Number of predicted TMRs: 0
+ZZRBFB_33666	signal	1	32				
+ZZRBFB_33666	outside	33	33				
+//
+# ZZRBFB_95255 Length: 34
+# ZZRBFB_95255 Number of predicted TMRs: 0
+ZZRBFB_95255	signal	1	30				
+ZZRBFB_95255	outside	31	34				
+//
+# ZZRBFB_34315 Length: 45
+# ZZRBFB_34315 Number of predicted TMRs: 0
+ZZRBFB_34315	inside	1	45				
+//
+# ZZRBFB_65641 Length: 33
+# ZZRBFB_65641 Number of predicted TMRs: 0
+ZZRBFB_65641	signal	1	14				
+ZZRBFB_65641	outside	15	33				
+//
+# ZZRBFB_131926 Length: 39
+# ZZRBFB_131926 Number of predicted TMRs: 0
+ZZRBFB_131926	signal	1	38				
+ZZRBFB_131926	outside	39	39				
+//
+# ZZRBFB_38206 Length: 48
+# ZZRBFB_38206 Number of predicted TMRs: 0
+ZZRBFB_38206	signal	1	40				
+ZZRBFB_38206	outside	41	48				
+//
+# ZZRBFB_170535 Length: 50
+# ZZRBFB_170535 Number of predicted TMRs: 0
+ZZRBFB_170535	inside	1	50				
+//
+# ZZRBFB_10880 Length: 48
+# ZZRBFB_10880 Number of predicted TMRs: 0
+ZZRBFB_10880	signal	1	46				
+ZZRBFB_10880	outside	47	48				
+//
+# ZZRBFB_19077 Length: 45
+# ZZRBFB_19077 Number of predicted TMRs: 0
+ZZRBFB_19077	signal	1	44				
+ZZRBFB_19077	outside	45	45				
+//
+# ZZRBFB_127451 Length: 45
+# ZZRBFB_127451 Number of predicted TMRs: 0
+ZZRBFB_127451	inside	1	45				
+//
+# ZZRBFB_101928 Length: 49
+# ZZRBFB_101928 Number of predicted TMRs: 0
+ZZRBFB_101928	inside	1	49				
+//
+# ZZRBFB_26827 Length: 48
+# ZZRBFB_26827 Number of predicted TMRs: 0
+ZZRBFB_26827	inside	1	48				
+//
+# ZZRBFB_125594 Length: 49
+# ZZRBFB_125594 Number of predicted TMRs: 0
+ZZRBFB_125594	inside	1	49				
+//
+# ZZRBFB_28167 Length: 50
+# ZZRBFB_28167 Number of predicted TMRs: 0
+ZZRBFB_28167	inside	1	50				
+//
+# ZZRBFB_96237 Length: 48
+# ZZRBFB_96237 Number of predicted TMRs: 0
+ZZRBFB_96237	inside	1	48				
+//
+# ZZRBFB_84044 Length: 41
+# ZZRBFB_84044 Number of predicted TMRs: 0
+ZZRBFB_84044	inside	1	41				
+//
+# ZZRBFB_132107 Length: 45
+# ZZRBFB_132107 Number of predicted TMRs: 0
+ZZRBFB_132107	signal	1	16				
+ZZRBFB_132107	outside	17	45				
+//
+# ZZRBFB_148451 Length: 47
+# ZZRBFB_148451 Number of predicted TMRs: 0
+ZZRBFB_148451	inside	1	47				
+//
+# ZZRBFB_9296 Length: 46
+# ZZRBFB_9296 Number of predicted TMRs: 0
+ZZRBFB_9296	inside	1	46				
+//
+# ZZRBFB_19295 Length: 46
+# ZZRBFB_19295 Number of predicted TMRs: 0
+ZZRBFB_19295	inside	1	46				
+//
+# ZZRBFB_3615 Length: 42
+# ZZRBFB_3615 Number of predicted TMRs: 0
+ZZRBFB_3615	signal	1	41				
+ZZRBFB_3615	outside	42	42				
+//
+# ZZRBFB_73386 Length: 41
+# ZZRBFB_73386 Number of predicted TMRs: 0
+ZZRBFB_73386	inside	1	41				
+//
+# ZZRBFB_8034 Length: 49
+# ZZRBFB_8034 Number of predicted TMRs: 0
+ZZRBFB_8034	inside	1	49				
+//
+# ZZRBFB_116985 Length: 42
+# ZZRBFB_116985 Number of predicted TMRs: 0
+ZZRBFB_116985	inside	1	42				
+//
+# ZZRBFB_67242 Length: 42
+# ZZRBFB_67242 Number of predicted TMRs: 0
+ZZRBFB_67242	signal	1	10				
+ZZRBFB_67242	outside	11	42				
+//
+# ZZRBFB_2571 Length: 49
+# ZZRBFB_2571 Number of predicted TMRs: 0
+ZZRBFB_2571	inside	1	49				
+//
+# ZZRBFB_2566 Length: 47
+# ZZRBFB_2566 Number of predicted TMRs: 0
+ZZRBFB_2566	inside	1	47				
+//
+# ZZRBFB_79658 Length: 39
+# ZZRBFB_79658 Number of predicted TMRs: 0
+ZZRBFB_79658	inside	1	39				
+//
+# ZZRBFB_96105 Length: 43
+# ZZRBFB_96105 Number of predicted TMRs: 0
+ZZRBFB_96105	signal	1	19				
+ZZRBFB_96105	outside	20	43				
+//
+# ZZRBFB_159534 Length: 50
+# ZZRBFB_159534 Number of predicted TMRs: 0
+ZZRBFB_159534	signal	1	49				
+ZZRBFB_159534	outside	50	50				
+//
+# ZZRBFB_149856 Length: 48
+# ZZRBFB_149856 Number of predicted TMRs: 0
+ZZRBFB_149856	inside	1	48				
+//
+# ZZRBFB_129457 Length: 50
+# ZZRBFB_129457 Number of predicted TMRs: 0
+ZZRBFB_129457	inside	1	50				
+//
+# ZZRBFB_13397 Length: 46
+# ZZRBFB_13397 Number of predicted TMRs: 0
+ZZRBFB_13397	inside	1	46				
+//
+# ZZRBFB_113583 Length: 43
+# ZZRBFB_113583 Number of predicted TMRs: 0
+ZZRBFB_113583	signal	1	42				
+ZZRBFB_113583	outside	43	43				
+//
+# ZZRBFB_34 Length: 44
+# ZZRBFB_34 Number of predicted TMRs: 0
+ZZRBFB_34	outside	1	44				
+//
+# ZZRBFB_89681 Length: 50
+# ZZRBFB_89681 Number of predicted TMRs: 0
+ZZRBFB_89681	signal	1	38				
+ZZRBFB_89681	outside	39	50				
+//
+# ZZRBFB_9914 Length: 45
+# ZZRBFB_9914 Number of predicted TMRs: 0
+ZZRBFB_9914	inside	1	45				
+//
+# ZZRBFB_163894 Length: 44
+# ZZRBFB_163894 Number of predicted TMRs: 0
+ZZRBFB_163894	inside	1	44				
+//
+# ZZRBFB_140406 Length: 48
+# ZZRBFB_140406 Number of predicted TMRs: 0
+ZZRBFB_140406	inside	1	48				
+//
+# ZZRBFB_19081 Length: 45
+# ZZRBFB_19081 Number of predicted TMRs: 0
+ZZRBFB_19081	inside	1	45				
+//
+# ZZRBFB_52257 Length: 50
+# ZZRBFB_52257 Number of predicted TMRs: 0
+ZZRBFB_52257	inside	1	50				
+//
+# ZZRBFB_7330 Length: 49
+# ZZRBFB_7330 Number of predicted TMRs: 0
+ZZRBFB_7330	signal	1	32				
+ZZRBFB_7330	outside	33	49				
+//
+# ZZRBFB_34949 Length: 49
+# ZZRBFB_34949 Number of predicted TMRs: 0
+ZZRBFB_34949	signal	1	47				
+ZZRBFB_34949	outside	48	49				
+//
+# ZZRBFB_6465 Length: 48
+# ZZRBFB_6465 Number of predicted TMRs: 0
+ZZRBFB_6465	inside	1	48				
+//
+# ZZRBFB_90213 Length: 45
+# ZZRBFB_90213 Number of predicted TMRs: 0
+ZZRBFB_90213	signal	1	40				
+ZZRBFB_90213	outside	41	45				
+//
+# ZZRBFB_64644 Length: 26
+# ZZRBFB_64644 Number of predicted TMRs: 0
+ZZRBFB_64644	inside	1	26				
+//
+# ZZRBFB_95859 Length: 27
+# ZZRBFB_95859 Number of predicted TMRs: 0
+ZZRBFB_95859	inside	1	27				
+//
+# ZZRBFB_89210 Length: 48
+# ZZRBFB_89210 Number of predicted TMRs: 0
+ZZRBFB_89210	inside	1	48				
+//
+# ZZRBFB_148699 Length: 47
+# ZZRBFB_148699 Number of predicted TMRs: 0
+ZZRBFB_148699	inside	1	47				
+//
+# ZZRBFB_135155 Length: 49
+# ZZRBFB_135155 Number of predicted TMRs: 0
+ZZRBFB_135155	inside	1	49				
+//
+# ZZRBFB_130672 Length: 40
+# ZZRBFB_130672 Number of predicted TMRs: 0
+ZZRBFB_130672	signal	1	39				
+ZZRBFB_130672	outside	40	40				
+//
+# ZZRBFB_60037 Length: 46
+# ZZRBFB_60037 Number of predicted TMRs: 0
+ZZRBFB_60037	inside	1	46				
+//
+# ZZRBFB_36366 Length: 47
+# ZZRBFB_36366 Number of predicted TMRs: 0
+ZZRBFB_36366	inside	1	47				
+//
+# ZZRBFB_132991 Length: 39
+# ZZRBFB_132991 Number of predicted TMRs: 0
+ZZRBFB_132991	inside	1	39				
+//
+# ZZRBFB_119104 Length: 43
+# ZZRBFB_119104 Number of predicted TMRs: 0
+ZZRBFB_119104	signal	1	18				
+ZZRBFB_119104	outside	19	43				
+//
+# ZZRBFB_170910 Length: 38
+# ZZRBFB_170910 Number of predicted TMRs: 0
+ZZRBFB_170910	inside	1	38				
+//
+# ZZRBFB_11079 Length: 50
+# ZZRBFB_11079 Number of predicted TMRs: 0
+ZZRBFB_11079	inside	1	50				
+//
+# ZZRBFB_119480 Length: 50
+# ZZRBFB_119480 Number of predicted TMRs: 0
+ZZRBFB_119480	inside	1	50				
+//
+# ZZRBFB_127763 Length: 50
+# ZZRBFB_127763 Number of predicted TMRs: 0
+ZZRBFB_127763	inside	1	50				
+//
+# ZZRBFB_10949 Length: 47
+# ZZRBFB_10949 Number of predicted TMRs: 0
+ZZRBFB_10949	inside	1	47				
+//
+# ZZRBFB_89091 Length: 48
+# ZZRBFB_89091 Number of predicted TMRs: 0
+ZZRBFB_89091	signal	1	24				
+ZZRBFB_89091	outside	25	48				
+//
+# ZZRBFB_115449 Length: 48
+# ZZRBFB_115449 Number of predicted TMRs: 0
+ZZRBFB_115449	inside	1	48				
+//
+# ZZRBFB_114255 Length: 45
+# ZZRBFB_114255 Number of predicted TMRs: 0
+ZZRBFB_114255	inside	1	45				
+//
+# ZZRBFB_106352 Length: 46
+# ZZRBFB_106352 Number of predicted TMRs: 0
+ZZRBFB_106352	inside	1	46				
+//
+# ZZRBFB_152082 Length: 49
+# ZZRBFB_152082 Number of predicted TMRs: 0
+ZZRBFB_152082	outside	1	49				
+//
+# ZZRBFB_142289 Length: 44
+# ZZRBFB_142289 Number of predicted TMRs: 0
+ZZRBFB_142289	inside	1	44				
+//
+# ZZRBFB_3568 Length: 46
+# ZZRBFB_3568 Number of predicted TMRs: 0
+ZZRBFB_3568	inside	1	46				
+//
+# ZZRBFB_165478 Length: 43
+# ZZRBFB_165478 Number of predicted TMRs: 0
+ZZRBFB_165478	signal	1	14				
+ZZRBFB_165478	outside	15	43				
+//
+# ZZRBFB_43208 Length: 44
+# ZZRBFB_43208 Number of predicted TMRs: 0
+ZZRBFB_43208	inside	1	44				
+//
+# ZZRBFB_168793 Length: 49
+# ZZRBFB_168793 Number of predicted TMRs: 0
+ZZRBFB_168793	inside	1	49				
+//
+# ZZRBFB_117527 Length: 45
+# ZZRBFB_117527 Number of predicted TMRs: 0
+ZZRBFB_117527	inside	1	45				
+//
+# ZZRBFB_120623 Length: 49
+# ZZRBFB_120623 Number of predicted TMRs: 0
+ZZRBFB_120623	signal	1	47				
+ZZRBFB_120623	outside	48	49				
+//
+# ZZRBFB_21094 Length: 46
+# ZZRBFB_21094 Number of predicted TMRs: 0
+ZZRBFB_21094	inside	1	46				
+//
+# ZZRBFB_146490 Length: 40
+# ZZRBFB_146490 Number of predicted TMRs: 0
+ZZRBFB_146490	inside	1	40				
+//
+# ZZRBFB_167512 Length: 50
+# ZZRBFB_167512 Number of predicted TMRs: 0
+ZZRBFB_167512	signal	1	17				
+ZZRBFB_167512	outside	18	50				
+//
+# ZZRBFB_12521 Length: 49
+# ZZRBFB_12521 Number of predicted TMRs: 0
+ZZRBFB_12521	inside	1	49				
+//
+# ZZRBFB_90062 Length: 44
+# ZZRBFB_90062 Number of predicted TMRs: 0
+ZZRBFB_90062	signal	1	10				
+ZZRBFB_90062	outside	11	44				
+//
+# ZZRBFB_89736 Length: 42
+# ZZRBFB_89736 Number of predicted TMRs: 0
+ZZRBFB_89736	inside	1	42				
+//
+# ZZRBFB_123786 Length: 45
+# ZZRBFB_123786 Number of predicted TMRs: 0
+ZZRBFB_123786	inside	1	45				
+//
+# ZZRBFB_85900 Length: 50
+# ZZRBFB_85900 Number of predicted TMRs: 0
+ZZRBFB_85900	inside	1	50				
+//
+# ZZRBFB_113907 Length: 46
+# ZZRBFB_113907 Number of predicted TMRs: 0
+ZZRBFB_113907	inside	1	46				
+//
+# ZZRBFB_99846 Length: 47
+# ZZRBFB_99846 Number of predicted TMRs: 0
+ZZRBFB_99846	inside	1	47				
+//
+# ZZRBFB_1983 Length: 33
+# ZZRBFB_1983 Number of predicted TMRs: 0
+ZZRBFB_1983	signal	1	26				
+ZZRBFB_1983	outside	27	33				
+//
+# ZZRBFB_34951 Length: 49
+# ZZRBFB_34951 Number of predicted TMRs: 0
+ZZRBFB_34951	inside	1	49				
+//
+# ZZRBFB_139916 Length: 29
+# ZZRBFB_139916 Number of predicted TMRs: 0
+ZZRBFB_139916	signal	1	26				
+ZZRBFB_139916	outside	27	29				
+//
+# ZZRBFB_36733 Length: 35
+# ZZRBFB_36733 Number of predicted TMRs: 0
+ZZRBFB_36733	inside	1	35				
+//
+# ZZRBFB_8088 Length: 42
+# ZZRBFB_8088 Number of predicted TMRs: 0
+ZZRBFB_8088	inside	1	42				
+//
+# ZZRBFB_111920 Length: 39
+# ZZRBFB_111920 Number of predicted TMRs: 0
+ZZRBFB_111920	signal	1	29				
+ZZRBFB_111920	outside	30	39				
+//
+# ZZRBFB_65874 Length: 50
+# ZZRBFB_65874 Number of predicted TMRs: 0
+ZZRBFB_65874	inside	1	50				
+//
+# ZZRBFB_60038 Length: 50
+# ZZRBFB_60038 Number of predicted TMRs: 0
+ZZRBFB_60038	inside	1	50				
+//
+# ZZRBFB_145907 Length: 50
+# ZZRBFB_145907 Number of predicted TMRs: 0
+ZZRBFB_145907	inside	1	50				
+//
+# ZZRBFB_126483 Length: 39
+# ZZRBFB_126483 Number of predicted TMRs: 0
+ZZRBFB_126483	outside	1	39				
+//
+# ZZRBFB_3813 Length: 46
+# ZZRBFB_3813 Number of predicted TMRs: 0
+ZZRBFB_3813	signal	1	45				
+ZZRBFB_3813	outside	46	46				
+//
+# ZZRBFB_17117 Length: 45
+# ZZRBFB_17117 Number of predicted TMRs: 0
+ZZRBFB_17117	signal	1	40				
+ZZRBFB_17117	outside	41	45				
+//
+# ZZRBFB_7354 Length: 49
+# ZZRBFB_7354 Number of predicted TMRs: 0
+ZZRBFB_7354	signal	1	44				
+ZZRBFB_7354	outside	45	49				
+//
+# ZZRBFB_41738 Length: 50
+# ZZRBFB_41738 Number of predicted TMRs: 0
+ZZRBFB_41738	inside	1	50				
+//
+# ZZRBFB_130024 Length: 47
+# ZZRBFB_130024 Number of predicted TMRs: 0
+ZZRBFB_130024	inside	1	47				
+//
+# ZZRBFB_142810 Length: 38
+# ZZRBFB_142810 Number of predicted TMRs: 0
+ZZRBFB_142810	signal	1	37				
+ZZRBFB_142810	outside	38	38				
+//
+# ZZRBFB_128359 Length: 43
+# ZZRBFB_128359 Number of predicted TMRs: 0
+ZZRBFB_128359	outside	1	43				
+//
+# ZZRBFB_79427 Length: 46
+# ZZRBFB_79427 Number of predicted TMRs: 0
+ZZRBFB_79427	inside	1	46				
+//
+# ZZRBFB_58378 Length: 48
+# ZZRBFB_58378 Number of predicted TMRs: 0
+ZZRBFB_58378	signal	1	11				
+ZZRBFB_58378	outside	12	48				
+//
+# ZZRBFB_46208 Length: 40
+# ZZRBFB_46208 Number of predicted TMRs: 0
+ZZRBFB_46208	inside	1	40				
+//
+# ZZRBFB_36520 Length: 50
+# ZZRBFB_36520 Number of predicted TMRs: 0
+ZZRBFB_36520	inside	1	50				
+//
+# ZZRBFB_149820 Length: 41
+# ZZRBFB_149820 Number of predicted TMRs: 0
+ZZRBFB_149820	signal	1	40				
+ZZRBFB_149820	outside	41	41				
+//
+# ZZRBFB_117637 Length: 46
+# ZZRBFB_117637 Number of predicted TMRs: 0
+ZZRBFB_117637	inside	1	46				
+//
+# ZZRBFB_168796 Length: 49
+# ZZRBFB_168796 Number of predicted TMRs: 0
+ZZRBFB_168796	inside	1	49				
+//
+# ZZRBFB_81524 Length: 48
+# ZZRBFB_81524 Number of predicted TMRs: 0
+ZZRBFB_81524	signal	1	20				
+ZZRBFB_81524	outside	21	48				
+//
+# ZZRBFB_37285 Length: 50
+# ZZRBFB_37285 Number of predicted TMRs: 0
+ZZRBFB_37285	inside	1	50				
+//
+# ZZRBFB_16525 Length: 48
+# ZZRBFB_16525 Number of predicted TMRs: 0
+ZZRBFB_16525	inside	1	48				
+//
+# ZZRBFB_60612 Length: 46
+# ZZRBFB_60612 Number of predicted TMRs: 0
+ZZRBFB_60612	signal	1	38				
+ZZRBFB_60612	outside	39	46				
+//
+# ZZRBFB_111541 Length: 50
+# ZZRBFB_111541 Number of predicted TMRs: 0
+ZZRBFB_111541	inside	1	50				
+//
+# ZZRBFB_112015 Length: 48
+# ZZRBFB_112015 Number of predicted TMRs: 0
+ZZRBFB_112015	signal	1	10				
+ZZRBFB_112015	outside	11	48				
+//
+# ZZRBFB_49435 Length: 46
+# ZZRBFB_49435 Number of predicted TMRs: 0
+ZZRBFB_49435	signal	1	28				
+ZZRBFB_49435	outside	29	46				
+//
+# ZZRBFB_98531 Length: 46
+# ZZRBFB_98531 Number of predicted TMRs: 0
+ZZRBFB_98531	inside	1	46				
+//
+# ZZRBFB_62395 Length: 41
+# ZZRBFB_62395 Number of predicted TMRs: 0
+ZZRBFB_62395	inside	1	41				
+//
+# ZZRBFB_21779 Length: 36
+# ZZRBFB_21779 Number of predicted TMRs: 0
+ZZRBFB_21779	signal	1	35				
+ZZRBFB_21779	outside	36	36				
+//
+# ZZRBFB_7475 Length: 50
+# ZZRBFB_7475 Number of predicted TMRs: 0
+ZZRBFB_7475	inside	1	50				
+//
+# ZZRBFB_163674 Length: 50
+# ZZRBFB_163674 Number of predicted TMRs: 0
+ZZRBFB_163674	inside	1	50				
+//
+# ZZRBFB_68375 Length: 45
+# ZZRBFB_68375 Number of predicted TMRs: 0
+ZZRBFB_68375	signal	1	44				
+ZZRBFB_68375	outside	45	45				
+//
+# ZZRBFB_96931 Length: 45
+# ZZRBFB_96931 Number of predicted TMRs: 0
+ZZRBFB_96931	inside	1	45				
+//
+# ZZRBFB_28772 Length: 47
+# ZZRBFB_28772 Number of predicted TMRs: 0
+ZZRBFB_28772	signal	1	12				
+ZZRBFB_28772	outside	13	47				
+//
+# ZZRBFB_141846 Length: 33
+# ZZRBFB_141846 Number of predicted TMRs: 0
+ZZRBFB_141846	outside	1	33				
+//
+# ZZRBFB_87354 Length: 45
+# ZZRBFB_87354 Number of predicted TMRs: 0
+ZZRBFB_87354	inside	1	45				
+//
+# ZZRBFB_22582 Length: 45
+# ZZRBFB_22582 Number of predicted TMRs: 0
+ZZRBFB_22582	signal	1	42				
+ZZRBFB_22582	outside	43	45				
+//
+# ZZRBFB_127046 Length: 49
+# ZZRBFB_127046 Number of predicted TMRs: 0
+ZZRBFB_127046	signal	1	11				
+ZZRBFB_127046	outside	12	49				
+//
+# ZZRBFB_6505 Length: 47
+# ZZRBFB_6505 Number of predicted TMRs: 0
+ZZRBFB_6505	signal	1	41				
+ZZRBFB_6505	outside	42	47				
+//
+# ZZRBFB_15861 Length: 47
+# ZZRBFB_15861 Number of predicted TMRs: 0
+ZZRBFB_15861	inside	1	47				
+//
+# ZZRBFB_92439 Length: 36
+# ZZRBFB_92439 Number of predicted TMRs: 0
+ZZRBFB_92439	signal	1	31				
+ZZRBFB_92439	outside	32	36				
+//
+# ZZRBFB_45630 Length: 43
+# ZZRBFB_45630 Number of predicted TMRs: 0
+ZZRBFB_45630	inside	1	43				
+//
+# ZZRBFB_168125 Length: 41
+# ZZRBFB_168125 Number of predicted TMRs: 0
+ZZRBFB_168125	signal	1	40				
+ZZRBFB_168125	outside	41	41				
+//
+# ZZRBFB_170330 Length: 44
+# ZZRBFB_170330 Number of predicted TMRs: 0
+ZZRBFB_170330	inside	1	44				
+//
+# ZZRBFB_121590 Length: 43
+# ZZRBFB_121590 Number of predicted TMRs: 0
+ZZRBFB_121590	inside	1	43				
+//
+# ZZRBFB_37565 Length: 49
+# ZZRBFB_37565 Number of predicted TMRs: 0
+ZZRBFB_37565	inside	1	49				
+//
+# ZZRBFB_53013 Length: 48
+# ZZRBFB_53013 Number of predicted TMRs: 0
+ZZRBFB_53013	inside	1	48				
+//
+# ZZRBFB_53010 Length: 48
+# ZZRBFB_53010 Number of predicted TMRs: 0
+ZZRBFB_53010	outside	1	48				
+//
+# ZZRBFB_106650 Length: 45
+# ZZRBFB_106650 Number of predicted TMRs: 0
+ZZRBFB_106650	signal	1	20				
+ZZRBFB_106650	outside	21	45				
+//
+# ZZRBFB_156843 Length: 49
+# ZZRBFB_156843 Number of predicted TMRs: 1
+ZZRBFB_156843	inside	1	21				
+ZZRBFB_156843	TMhelix	22	42				
+ZZRBFB_156843	outside	43	49				
+//
+# ZZRBFB_44146 Length: 47
+# ZZRBFB_44146 Number of predicted TMRs: 0
+ZZRBFB_44146	signal	1	10				
+ZZRBFB_44146	outside	11	47				
+//
+# ZZRBFB_44721 Length: 45
+# ZZRBFB_44721 Number of predicted TMRs: 0
+ZZRBFB_44721	inside	1	45				
+//
+# ZZRBFB_84406 Length: 46
+# ZZRBFB_84406 Number of predicted TMRs: 0
+ZZRBFB_84406	outside	1	46				
+//
+# ZZRBFB_121358 Length: 47
+# ZZRBFB_121358 Number of predicted TMRs: 0
+ZZRBFB_121358	inside	1	47				
+//
+# ZZRBFB_63680 Length: 44
+# ZZRBFB_63680 Number of predicted TMRs: 0
+ZZRBFB_63680	inside	1	44				
+//
+# ZZRBFB_45246 Length: 39
+# ZZRBFB_45246 Number of predicted TMRs: 0
+ZZRBFB_45246	signal	1	30				
+ZZRBFB_45246	outside	31	39				
+//
+# ZZRBFB_48492 Length: 37
+# ZZRBFB_48492 Number of predicted TMRs: 0
+ZZRBFB_48492	inside	1	37				
+//
+# ZZRBFB_101397 Length: 46
+# ZZRBFB_101397 Number of predicted TMRs: 0
+ZZRBFB_101397	inside	1	46				
+//
+# ZZRBFB_125888 Length: 35
+# ZZRBFB_125888 Number of predicted TMRs: 0
+ZZRBFB_125888	inside	1	35				
+//
+# ZZRBFB_168849 Length: 49
+# ZZRBFB_168849 Number of predicted TMRs: 0
+ZZRBFB_168849	inside	1	49				
+//
+# ZZRBFB_94300 Length: 44
+# ZZRBFB_94300 Number of predicted TMRs: 0
+ZZRBFB_94300	signal	1	43				
+ZZRBFB_94300	outside	44	44				
+//
+# ZZRBFB_28883 Length: 43
+# ZZRBFB_28883 Number of predicted TMRs: 0
+ZZRBFB_28883	inside	1	43				
+//
+# ZZRBFB_15094 Length: 50
+# ZZRBFB_15094 Number of predicted TMRs: 0
+ZZRBFB_15094	inside	1	50				
+//
+# ZZRBFB_61617 Length: 35
+# ZZRBFB_61617 Number of predicted TMRs: 0
+ZZRBFB_61617	inside	1	35				
+//
+# ZZRBFB_91268 Length: 50
+# ZZRBFB_91268 Number of predicted TMRs: 0
+ZZRBFB_91268	signal	1	18				
+ZZRBFB_91268	outside	19	50				
+//
+# ZZRBFB_80868 Length: 39
+# ZZRBFB_80868 Number of predicted TMRs: 0
+ZZRBFB_80868	inside	1	39				
+//
+# ZZRBFB_22823 Length: 44
+# ZZRBFB_22823 Number of predicted TMRs: 0
+ZZRBFB_22823	inside	1	44				
+//
+# ZZRBFB_135357 Length: 46
+# ZZRBFB_135357 Number of predicted TMRs: 0
+ZZRBFB_135357	inside	1	46				
+//
+# ZZRBFB_141719 Length: 47
+# ZZRBFB_141719 Number of predicted TMRs: 0
+ZZRBFB_141719	inside	1	47				
+//
+# ZZRBFB_93246 Length: 48
+# ZZRBFB_93246 Number of predicted TMRs: 0
+ZZRBFB_93246	outside	1	48				
+//
+# ZZRBFB_91665 Length: 43
+# ZZRBFB_91665 Number of predicted TMRs: 0
+ZZRBFB_91665	inside	1	43				
+//
+# ZZRBFB_144052 Length: 48
+# ZZRBFB_144052 Number of predicted TMRs: 0
+ZZRBFB_144052	signal	1	17				
+ZZRBFB_144052	outside	18	48				
+//
+# ZZRBFB_56161 Length: 48
+# ZZRBFB_56161 Number of predicted TMRs: 0
+ZZRBFB_56161	signal	1	40				
+ZZRBFB_56161	outside	41	48				
+//
+# ZZRBFB_88969 Length: 50
+# ZZRBFB_88969 Number of predicted TMRs: 0
+ZZRBFB_88969	inside	1	50				
+//
+# ZZRBFB_146061 Length: 47
+# ZZRBFB_146061 Number of predicted TMRs: 0
+ZZRBFB_146061	inside	1	47				
+//
+# ZZRBFB_46817 Length: 47
+# ZZRBFB_46817 Number of predicted TMRs: 0
+ZZRBFB_46817	signal	1	10				
+ZZRBFB_46817	outside	11	47				
+//
+# ZZRBFB_99152 Length: 44
+# ZZRBFB_99152 Number of predicted TMRs: 0
+ZZRBFB_99152	inside	1	44				
+//
+# ZZRBFB_38401 Length: 50
+# ZZRBFB_38401 Number of predicted TMRs: 0
+ZZRBFB_38401	inside	1	50				
+//
+# ZZRBFB_38748 Length: 50
+# ZZRBFB_38748 Number of predicted TMRs: 0
+ZZRBFB_38748	inside	1	50				
+//
+# ZZRBFB_30086 Length: 50
+# ZZRBFB_30086 Number of predicted TMRs: 0
+ZZRBFB_30086	inside	1	50				
+//
+# ZZRBFB_133651 Length: 41
+# ZZRBFB_133651 Number of predicted TMRs: 0
+ZZRBFB_133651	signal	1	32				
+ZZRBFB_133651	outside	33	41				
+//
+# ZZRBFB_79404 Length: 42
+# ZZRBFB_79404 Number of predicted TMRs: 0
+ZZRBFB_79404	inside	1	42				
+//
+# ZZRBFB_106835 Length: 48
+# ZZRBFB_106835 Number of predicted TMRs: 0
+ZZRBFB_106835	signal	1	44				
+ZZRBFB_106835	outside	45	48				
+//
+# ZZRBFB_65021 Length: 50
+# ZZRBFB_65021 Number of predicted TMRs: 0
+ZZRBFB_65021	inside	1	50				
+//
+# ZZRBFB_110280 Length: 45
+# ZZRBFB_110280 Number of predicted TMRs: 0
+ZZRBFB_110280	signal	1	43				
+ZZRBFB_110280	outside	44	45				
+//
+# ZZRBFB_133769 Length: 44
+# ZZRBFB_133769 Number of predicted TMRs: 0
+ZZRBFB_133769	signal	1	28				
+ZZRBFB_133769	outside	29	44				
+//
+# ZZRBFB_146877 Length: 50
+# ZZRBFB_146877 Number of predicted TMRs: 0
+ZZRBFB_146877	inside	1	50				
+//
+# ZZRBFB_80373 Length: 44
+# ZZRBFB_80373 Number of predicted TMRs: 0
+ZZRBFB_80373	inside	1	44				
+//
+# ZZRBFB_120334 Length: 50
+# ZZRBFB_120334 Number of predicted TMRs: 0
+ZZRBFB_120334	inside	1	50				
+//
+# ZZRBFB_102433 Length: 44
+# ZZRBFB_102433 Number of predicted TMRs: 0
+ZZRBFB_102433	inside	1	44				
+//
+# ZZRBFB_13164 Length: 48
+# ZZRBFB_13164 Number of predicted TMRs: 0
+ZZRBFB_13164	inside	1	48				
+//
+# ZZRBFB_60870 Length: 47
+# ZZRBFB_60870 Number of predicted TMRs: 0
+ZZRBFB_60870	inside	1	47				
+//
+# ZZRBFB_13555 Length: 49
+# ZZRBFB_13555 Number of predicted TMRs: 0
+ZZRBFB_13555	inside	1	49				
+//
+# ZZRBFB_83619 Length: 42
+# ZZRBFB_83619 Number of predicted TMRs: 0
+ZZRBFB_83619	signal	1	18				
+ZZRBFB_83619	outside	19	42				
+//
+# ZZRBFB_154956 Length: 48
+# ZZRBFB_154956 Number of predicted TMRs: 0
+ZZRBFB_154956	inside	1	48				
+//
+# ZZRBFB_98482 Length: 49
+# ZZRBFB_98482 Number of predicted TMRs: 0
+ZZRBFB_98482	outside	1	49				
+//
+# ZZRBFB_81178 Length: 47
+# ZZRBFB_81178 Number of predicted TMRs: 0
+ZZRBFB_81178	inside	1	47				
+//
+# ZZRBFB_113609 Length: 40
+# ZZRBFB_113609 Number of predicted TMRs: 0
+ZZRBFB_113609	inside	1	40				
+//
+# ZZRBFB_57627 Length: 50
+# ZZRBFB_57627 Number of predicted TMRs: 0
+ZZRBFB_57627	signal	1	29				
+ZZRBFB_57627	outside	30	50				
+//
+# ZZRBFB_75584 Length: 40
+# ZZRBFB_75584 Number of predicted TMRs: 0
+ZZRBFB_75584	signal	1	26				
+ZZRBFB_75584	outside	27	40				
+//
+# ZZRBFB_96457 Length: 41
+# ZZRBFB_96457 Number of predicted TMRs: 0
+ZZRBFB_96457	signal	1	28				
+ZZRBFB_96457	outside	29	41				
+//
+# ZZRBFB_148622 Length: 47
+# ZZRBFB_148622 Number of predicted TMRs: 0
+ZZRBFB_148622	signal	1	27				
+ZZRBFB_148622	outside	28	47				
+//
+# ZZRBFB_155350 Length: 47
+# ZZRBFB_155350 Number of predicted TMRs: 0
+ZZRBFB_155350	signal	1	38				
+ZZRBFB_155350	outside	39	47				
+//
+# ZZRBFB_66355 Length: 47
+# ZZRBFB_66355 Number of predicted TMRs: 0
+ZZRBFB_66355	signal	1	38				
+ZZRBFB_66355	outside	39	47				
+//
+# ZZRBFB_19778 Length: 43
+# ZZRBFB_19778 Number of predicted TMRs: 0
+ZZRBFB_19778	signal	1	12				
+ZZRBFB_19778	outside	13	43				
+//
+# ZZRBFB_164945 Length: 46
+# ZZRBFB_164945 Number of predicted TMRs: 0
+ZZRBFB_164945	inside	1	46				
+//
+# ZZRBFB_27123 Length: 48
+# ZZRBFB_27123 Number of predicted TMRs: 0
+ZZRBFB_27123	signal	1	46				
+ZZRBFB_27123	outside	47	48				
+//
+# ZZRBFB_143008 Length: 46
+# ZZRBFB_143008 Number of predicted TMRs: 0
+ZZRBFB_143008	signal	1	45				
+ZZRBFB_143008	outside	46	46				
+//
+# ZZRBFB_148782 Length: 46
+# ZZRBFB_148782 Number of predicted TMRs: 0
+ZZRBFB_148782	inside	1	46				
+//
+# ZZRBFB_5087 Length: 50
+# ZZRBFB_5087 Number of predicted TMRs: 0
+ZZRBFB_5087	inside	1	50				
+//
+# ZZRBFB_20530 Length: 48
+# ZZRBFB_20530 Number of predicted TMRs: 0
+ZZRBFB_20530	inside	1	48				
+//
+# ZZRBFB_121647 Length: 49
+# ZZRBFB_121647 Number of predicted TMRs: 0
+ZZRBFB_121647	inside	1	49				
+//
+# ZZRBFB_87617 Length: 49
+# ZZRBFB_87617 Number of predicted TMRs: 0
+ZZRBFB_87617	inside	1	49				
+//
+# ZZRBFB_120812 Length: 50
+# ZZRBFB_120812 Number of predicted TMRs: 0
+ZZRBFB_120812	signal	1	26				
+ZZRBFB_120812	outside	27	50				
+//
+# ZZRBFB_55230 Length: 50
+# ZZRBFB_55230 Number of predicted TMRs: 0
+ZZRBFB_55230	signal	1	10				
+ZZRBFB_55230	outside	11	50				
+//
+# ZZRBFB_147345 Length: 45
+# ZZRBFB_147345 Number of predicted TMRs: 0
+ZZRBFB_147345	inside	1	45				
+//
+# ZZRBFB_136044 Length: 34
+# ZZRBFB_136044 Number of predicted TMRs: 0
+ZZRBFB_136044	inside	1	34				
+//
+# ZZRBFB_98943 Length: 31
+# ZZRBFB_98943 Number of predicted TMRs: 0
+ZZRBFB_98943	signal	1	21				
+ZZRBFB_98943	outside	22	31				
+//
+# ZZRBFB_109620 Length: 49
+# ZZRBFB_109620 Number of predicted TMRs: 0
+ZZRBFB_109620	inside	1	49				
+//
+# ZZRBFB_170902 Length: 48
+# ZZRBFB_170902 Number of predicted TMRs: 0
+ZZRBFB_170902	signal	1	47				
+ZZRBFB_170902	outside	48	48				
+//
+# ZZRBFB_7142 Length: 43
+# ZZRBFB_7142 Number of predicted TMRs: 0
+ZZRBFB_7142	inside	1	43				
+//
+# ZZRBFB_3837 Length: 50
+# ZZRBFB_3837 Number of predicted TMRs: 0
+ZZRBFB_3837	inside	1	50				
+//
+# ZZRBFB_110572 Length: 45
+# ZZRBFB_110572 Number of predicted TMRs: 0
+ZZRBFB_110572	outside	1	45				
+//
+# ZZRBFB_94571 Length: 36
+# ZZRBFB_94571 Number of predicted TMRs: 0
+ZZRBFB_94571	inside	1	36				
+//
+# ZZRBFB_29850 Length: 47
+# ZZRBFB_29850 Number of predicted TMRs: 0
+ZZRBFB_29850	inside	1	47				
+//
+# ZZRBFB_29551 Length: 47
+# ZZRBFB_29551 Number of predicted TMRs: 0
+ZZRBFB_29551	inside	1	47				
+//
+# ZZRBFB_41904 Length: 44
+# ZZRBFB_41904 Number of predicted TMRs: 0
+ZZRBFB_41904	inside	1	44				
+//
+# ZZRBFB_111351 Length: 39
+# ZZRBFB_111351 Number of predicted TMRs: 0
+ZZRBFB_111351	signal	1	38				
+ZZRBFB_111351	outside	39	39				
+//
+# ZZRBFB_28381 Length: 30
+# ZZRBFB_28381 Number of predicted TMRs: 0
+ZZRBFB_28381	signal	1	29				
+ZZRBFB_28381	outside	30	30				
+//
+# ZZRBFB_49863 Length: 42
+# ZZRBFB_49863 Number of predicted TMRs: 0
+ZZRBFB_49863	inside	1	42				
+//
+# ZZRBFB_106671 Length: 42
+# ZZRBFB_106671 Number of predicted TMRs: 0
+ZZRBFB_106671	inside	1	42				
+//
+# ZZRBFB_35069 Length: 40
+# ZZRBFB_35069 Number of predicted TMRs: 0
+ZZRBFB_35069	inside	1	40				
+//
+# ZZRBFB_170107 Length: 49
+# ZZRBFB_170107 Number of predicted TMRs: 0
+ZZRBFB_170107	inside	1	49				
+//
+# ZZRBFB_141462 Length: 47
+# ZZRBFB_141462 Number of predicted TMRs: 0
+ZZRBFB_141462	signal	1	10				
+ZZRBFB_141462	outside	11	47				
+//
+# ZZRBFB_95206 Length: 48
+# ZZRBFB_95206 Number of predicted TMRs: 0
+ZZRBFB_95206	signal	1	17				
+ZZRBFB_95206	outside	18	48				
+//
+# ZZRBFB_98514 Length: 46
+# ZZRBFB_98514 Number of predicted TMRs: 0
+ZZRBFB_98514	inside	1	46				
+//
+# ZZRBFB_38916 Length: 50
+# ZZRBFB_38916 Number of predicted TMRs: 0
+ZZRBFB_38916	inside	1	50				
+//
+# ZZRBFB_51861 Length: 49
+# ZZRBFB_51861 Number of predicted TMRs: 0
+ZZRBFB_51861	inside	1	49				
+//
+# ZZRBFB_171064 Length: 49
+# ZZRBFB_171064 Number of predicted TMRs: 0
+ZZRBFB_171064	inside	1	49				
+//
+# ZZRBFB_116108 Length: 49
+# ZZRBFB_116108 Number of predicted TMRs: 0
+ZZRBFB_116108	inside	1	49				
+//
+# ZZRBFB_82414 Length: 46
+# ZZRBFB_82414 Number of predicted TMRs: 0
+ZZRBFB_82414	inside	1	46				
+//
+# ZZRBFB_16202 Length: 38
+# ZZRBFB_16202 Number of predicted TMRs: 0
+ZZRBFB_16202	inside	1	38				
+//
+# ZZRBFB_49143 Length: 49
+# ZZRBFB_49143 Number of predicted TMRs: 0
+ZZRBFB_49143	inside	1	49				
+//
+# ZZRBFB_37561 Length: 47
+# ZZRBFB_37561 Number of predicted TMRs: 0
+ZZRBFB_37561	signal	1	34				
+ZZRBFB_37561	outside	35	47				
+//
+# ZZRBFB_45819 Length: 43
+# ZZRBFB_45819 Number of predicted TMRs: 0
+ZZRBFB_45819	signal	1	26				
+ZZRBFB_45819	outside	27	43				
+//
+# ZZRBFB_136139 Length: 33
+# ZZRBFB_136139 Number of predicted TMRs: 0
+ZZRBFB_136139	inside	1	33				
+//
+# ZZRBFB_55207 Length: 31
+# ZZRBFB_55207 Number of predicted TMRs: 0
+ZZRBFB_55207	signal	1	30				
+ZZRBFB_55207	outside	31	31				
+//
+# ZZRBFB_120631 Length: 45
+# ZZRBFB_120631 Number of predicted TMRs: 0
+ZZRBFB_120631	signal	1	25				
+ZZRBFB_120631	outside	26	45				
+//
+# ZZRBFB_19213 Length: 28
+# ZZRBFB_19213 Number of predicted TMRs: 0
+ZZRBFB_19213	signal	1	25				
+ZZRBFB_19213	outside	26	28				
+//
+# ZZRBFB_108114 Length: 42
+# ZZRBFB_108114 Number of predicted TMRs: 0
+ZZRBFB_108114	signal	1	37				
+ZZRBFB_108114	outside	38	42				
+//
+# ZZRBFB_76688 Length: 42
+# ZZRBFB_76688 Number of predicted TMRs: 0
+ZZRBFB_76688	inside	1	42				
+//
+# ZZRBFB_47186 Length: 42
+# ZZRBFB_47186 Number of predicted TMRs: 0
+ZZRBFB_47186	signal	1	13				
+ZZRBFB_47186	outside	14	42				
+//
+# ZZRBFB_121976 Length: 49
+# ZZRBFB_121976 Number of predicted TMRs: 0
+ZZRBFB_121976	inside	1	49				
+//
+# ZZRBFB_70585 Length: 38
+# ZZRBFB_70585 Number of predicted TMRs: 0
+ZZRBFB_70585	inside	1	38				
+//
+# ZZRBFB_163445 Length: 36
+# ZZRBFB_163445 Number of predicted TMRs: 0
+ZZRBFB_163445	inside	1	36				
+//
+# ZZRBFB_131186 Length: 50
+# ZZRBFB_131186 Number of predicted TMRs: 0
+ZZRBFB_131186	inside	1	50				
+//
+# ZZRBFB_113505 Length: 41
+# ZZRBFB_113505 Number of predicted TMRs: 0
+ZZRBFB_113505	signal	1	20				
+ZZRBFB_113505	outside	21	41				
+//
+# ZZRBFB_105048 Length: 49
+# ZZRBFB_105048 Number of predicted TMRs: 0
+ZZRBFB_105048	inside	1	49				
+//
+# ZZRBFB_27054 Length: 32
+# ZZRBFB_27054 Number of predicted TMRs: 0
+ZZRBFB_27054	signal	1	26				
+ZZRBFB_27054	outside	27	32				
+//
+# ZZRBFB_170307 Length: 48
+# ZZRBFB_170307 Number of predicted TMRs: 0
+ZZRBFB_170307	inside	1	48				
+//
+# ZZRBFB_52367 Length: 39
+# ZZRBFB_52367 Number of predicted TMRs: 0
+ZZRBFB_52367	outside	1	39				
+//
+# ZZRBFB_18161 Length: 44
+# ZZRBFB_18161 Number of predicted TMRs: 0
+ZZRBFB_18161	inside	1	44				
+//
+# ZZRBFB_44407 Length: 45
+# ZZRBFB_44407 Number of predicted TMRs: 0
+ZZRBFB_44407	inside	1	45				
+//
+# ZZRBFB_163711 Length: 43
+# ZZRBFB_163711 Number of predicted TMRs: 0
+ZZRBFB_163711	signal	1	10				
+ZZRBFB_163711	outside	11	43				
+//
+# ZZRBFB_42584 Length: 41
+# ZZRBFB_42584 Number of predicted TMRs: 0
+ZZRBFB_42584	signal	1	35				
+ZZRBFB_42584	outside	36	41				
+//
+# ZZRBFB_102706 Length: 48
+# ZZRBFB_102706 Number of predicted TMRs: 0
+ZZRBFB_102706	signal	1	27				
+ZZRBFB_102706	outside	28	48				
+//
+# ZZRBFB_1588 Length: 48
+# ZZRBFB_1588 Number of predicted TMRs: 0
+ZZRBFB_1588	signal	1	39				
+ZZRBFB_1588	outside	40	48				
+//
+# ZZRBFB_7325 Length: 36
+# ZZRBFB_7325 Number of predicted TMRs: 0
+ZZRBFB_7325	signal	1	35				
+ZZRBFB_7325	outside	36	36				
+//
+# ZZRBFB_129966 Length: 38
+# ZZRBFB_129966 Number of predicted TMRs: 0
+ZZRBFB_129966	inside	1	38				
+//
+# ZZRBFB_10315 Length: 44
+# ZZRBFB_10315 Number of predicted TMRs: 0
+ZZRBFB_10315	signal	1	37				
+ZZRBFB_10315	outside	38	44				
+//
+# ZZRBFB_124384 Length: 48
+# ZZRBFB_124384 Number of predicted TMRs: 0
+ZZRBFB_124384	inside	1	48				
+//
+# ZZRBFB_16039 Length: 45
+# ZZRBFB_16039 Number of predicted TMRs: 0
+ZZRBFB_16039	inside	1	45				
+//
+# ZZRBFB_146849 Length: 46
+# ZZRBFB_146849 Number of predicted TMRs: 0
+ZZRBFB_146849	signal	1	44				
+ZZRBFB_146849	outside	45	46				
+//
+# ZZRBFB_71193 Length: 48
+# ZZRBFB_71193 Number of predicted TMRs: 0
+ZZRBFB_71193	inside	1	48				
+//
+# ZZRBFB_64907 Length: 46
+# ZZRBFB_64907 Number of predicted TMRs: 0
+ZZRBFB_64907	inside	1	46				
+//
+# ZZRBFB_19790 Length: 47
+# ZZRBFB_19790 Number of predicted TMRs: 0
+ZZRBFB_19790	inside	1	47				
+//
+# ZZRBFB_53014 Length: 48
+# ZZRBFB_53014 Number of predicted TMRs: 0
+ZZRBFB_53014	inside	1	48				
+//
+# ZZRBFB_53020 Length: 48
+# ZZRBFB_53020 Number of predicted TMRs: 0
+ZZRBFB_53020	inside	1	48				
+//
+# ZZRBFB_44056 Length: 50
+# ZZRBFB_44056 Number of predicted TMRs: 1
+ZZRBFB_44056	inside	1	18				
+ZZRBFB_44056	TMhelix	19	39				
+ZZRBFB_44056	outside	40	50				
+//
+# ZZRBFB_100274 Length: 49
+# ZZRBFB_100274 Number of predicted TMRs: 0
+ZZRBFB_100274	inside	1	49				
+//
+# ZZRBFB_85271 Length: 49
+# ZZRBFB_85271 Number of predicted TMRs: 0
+ZZRBFB_85271	inside	1	49				
+//
+# ZZRBFB_78048 Length: 49
+# ZZRBFB_78048 Number of predicted TMRs: 0
+ZZRBFB_78048	inside	1	49				
+//
+# ZZRBFB_132970 Length: 34
+# ZZRBFB_132970 Number of predicted TMRs: 0
+ZZRBFB_132970	signal	1	24				
+ZZRBFB_132970	outside	25	34				
+//
+# ZZRBFB_103731 Length: 40
+# ZZRBFB_103731 Number of predicted TMRs: 0
+ZZRBFB_103731	inside	1	40				
+//
+# ZZRBFB_34356 Length: 50
+# ZZRBFB_34356 Number of predicted TMRs: 0
+ZZRBFB_34356	inside	1	50				
+//
+# ZZRBFB_11301 Length: 39
+# ZZRBFB_11301 Number of predicted TMRs: 0
+ZZRBFB_11301	signal	1	38				
+ZZRBFB_11301	outside	39	39				
+//
+# ZZRBFB_122810 Length: 43
+# ZZRBFB_122810 Number of predicted TMRs: 0
+ZZRBFB_122810	inside	1	43				
+//
+# ZZRBFB_47844 Length: 48
+# ZZRBFB_47844 Number of predicted TMRs: 0
+ZZRBFB_47844	inside	1	48				
+//
+# ZZRBFB_70873 Length: 41
+# ZZRBFB_70873 Number of predicted TMRs: 0
+ZZRBFB_70873	inside	1	41				
+//
+# ZZRBFB_75059 Length: 42
+# ZZRBFB_75059 Number of predicted TMRs: 0
+ZZRBFB_75059	inside	1	42				
+//
+# ZZRBFB_19540 Length: 46
+# ZZRBFB_19540 Number of predicted TMRs: 0
+ZZRBFB_19540	inside	1	46				
+//
+# ZZRBFB_76602 Length: 43
+# ZZRBFB_76602 Number of predicted TMRs: 0
+ZZRBFB_76602	inside	1	43				
+//
+# ZZRBFB_74587 Length: 39
+# ZZRBFB_74587 Number of predicted TMRs: 0
+ZZRBFB_74587	inside	1	39				
+//
+# ZZRBFB_118903 Length: 41
+# ZZRBFB_118903 Number of predicted TMRs: 0
+ZZRBFB_118903	signal	1	40				
+ZZRBFB_118903	outside	41	41				
+//
+# ZZRBFB_40083 Length: 46
+# ZZRBFB_40083 Number of predicted TMRs: 0
+ZZRBFB_40083	signal	1	27				
+ZZRBFB_40083	outside	28	46				
+//
+# ZZRBFB_115909 Length: 40
+# ZZRBFB_115909 Number of predicted TMRs: 0
+ZZRBFB_115909	signal	1	15				
+ZZRBFB_115909	outside	16	40				
+//
+# ZZRBFB_29943 Length: 50
+# ZZRBFB_29943 Number of predicted TMRs: 0
+ZZRBFB_29943	inside	1	50				
+//
+# ZZRBFB_27062 Length: 43
+# ZZRBFB_27062 Number of predicted TMRs: 0
+ZZRBFB_27062	inside	1	43				
+//
+# ZZRBFB_15891 Length: 47
+# ZZRBFB_15891 Number of predicted TMRs: 0
+ZZRBFB_15891	outside	1	47				
+//
+# ZZRBFB_142189 Length: 45
+# ZZRBFB_142189 Number of predicted TMRs: 0
+ZZRBFB_142189	inside	1	45				
+//
+# ZZRBFB_71287 Length: 45
+# ZZRBFB_71287 Number of predicted TMRs: 0
+ZZRBFB_71287	signal	1	43				
+ZZRBFB_71287	outside	44	45				
+//
+# ZZRBFB_6070 Length: 38
+# ZZRBFB_6070 Number of predicted TMRs: 0
+ZZRBFB_6070	inside	1	38				
+//
+# ZZRBFB_43922 Length: 40
+# ZZRBFB_43922 Number of predicted TMRs: 0
+ZZRBFB_43922	inside	1	40				
+//
+# ZZRBFB_33053 Length: 46
+# ZZRBFB_33053 Number of predicted TMRs: 0
+ZZRBFB_33053	signal	1	37				
+ZZRBFB_33053	outside	38	46				
+//
+# ZZRBFB_47566 Length: 47
+# ZZRBFB_47566 Number of predicted TMRs: 0
+ZZRBFB_47566	inside	1	47				
+//
+# ZZRBFB_53507 Length: 50
+# ZZRBFB_53507 Number of predicted TMRs: 0
+ZZRBFB_53507	inside	1	50				
+//
+# ZZRBFB_156141 Length: 44
+# ZZRBFB_156141 Number of predicted TMRs: 0
+ZZRBFB_156141	signal	1	39				
+ZZRBFB_156141	outside	40	44				
+//
+# ZZRBFB_136345 Length: 44
+# ZZRBFB_136345 Number of predicted TMRs: 0
+ZZRBFB_136345	signal	1	43				
+ZZRBFB_136345	outside	44	44				
+//
+# ZZRBFB_89744 Length: 48
+# ZZRBFB_89744 Number of predicted TMRs: 0
+ZZRBFB_89744	inside	1	48				
+//
+# ZZRBFB_147565 Length: 47
+# ZZRBFB_147565 Number of predicted TMRs: 0
+ZZRBFB_147565	signal	1	41				
+ZZRBFB_147565	outside	42	47				
+//
+# ZZRBFB_162909 Length: 49
+# ZZRBFB_162909 Number of predicted TMRs: 0
+ZZRBFB_162909	signal	1	44				
+ZZRBFB_162909	outside	45	49				
+//
+# ZZRBFB_87143 Length: 44
+# ZZRBFB_87143 Number of predicted TMRs: 1
+ZZRBFB_87143	inside	1	7				
+ZZRBFB_87143	TMhelix	8	25				
+ZZRBFB_87143	outside	26	44				
+//
+# ZZRBFB_26347 Length: 41
+# ZZRBFB_26347 Number of predicted TMRs: 0
+ZZRBFB_26347	inside	1	41				
+//
+# ZZRBFB_57340 Length: 45
+# ZZRBFB_57340 Number of predicted TMRs: 0
+ZZRBFB_57340	inside	1	45				
+//
+# ZZRBFB_12370 Length: 43
+# ZZRBFB_12370 Number of predicted TMRs: 0
+ZZRBFB_12370	inside	1	43				
+//
+# ZZRBFB_21392 Length: 48
+# ZZRBFB_21392 Number of predicted TMRs: 0
+ZZRBFB_21392	signal	1	45				
+ZZRBFB_21392	outside	46	48				
+//
+# ZZRBFB_73412 Length: 45
+# ZZRBFB_73412 Number of predicted TMRs: 0
+ZZRBFB_73412	inside	1	45				
+//
+# ZZRBFB_20813 Length: 38
+# ZZRBFB_20813 Number of predicted TMRs: 0
+ZZRBFB_20813	signal	1	37				
+ZZRBFB_20813	outside	38	38				
+//
+# ZZRBFB_28308 Length: 35
+# ZZRBFB_28308 Number of predicted TMRs: 0
+ZZRBFB_28308	inside	1	35				
+//
+# ZZRBFB_37999 Length: 40
+# ZZRBFB_37999 Number of predicted TMRs: 0
+ZZRBFB_37999	signal	1	35				
+ZZRBFB_37999	outside	36	40				
+//
+# ZZRBFB_56822 Length: 49
+# ZZRBFB_56822 Number of predicted TMRs: 0
+ZZRBFB_56822	inside	1	49				
+//
+# ZZRBFB_80024 Length: 48
+# ZZRBFB_80024 Number of predicted TMRs: 0
+ZZRBFB_80024	inside	1	48				
+//
+# ZZRBFB_85957 Length: 47
+# ZZRBFB_85957 Number of predicted TMRs: 0
+ZZRBFB_85957	outside	1	47				
+//
+# ZZRBFB_9656 Length: 39
+# ZZRBFB_9656 Number of predicted TMRs: 0
+ZZRBFB_9656	signal	1	38				
+ZZRBFB_9656	outside	39	39				
+//
+# ZZRBFB_122123 Length: 42
+# ZZRBFB_122123 Number of predicted TMRs: 0
+ZZRBFB_122123	inside	1	42				
+//
+# ZZRBFB_142108 Length: 37
+# ZZRBFB_142108 Number of predicted TMRs: 0
+ZZRBFB_142108	signal	1	21				
+ZZRBFB_142108	outside	22	37				
+//
+# ZZRBFB_36034 Length: 42
+# ZZRBFB_36034 Number of predicted TMRs: 0
+ZZRBFB_36034	inside	1	42				
+//
+# ZZRBFB_162245 Length: 49
+# ZZRBFB_162245 Number of predicted TMRs: 0
+ZZRBFB_162245	inside	1	49				
+//
+# ZZRBFB_68946 Length: 49
+# ZZRBFB_68946 Number of predicted TMRs: 0
+ZZRBFB_68946	signal	1	26				
+ZZRBFB_68946	outside	27	49				
+//
+# ZZRBFB_165242 Length: 49
+# ZZRBFB_165242 Number of predicted TMRs: 0
+ZZRBFB_165242	inside	1	49				
+//
+# ZZRBFB_48509 Length: 50
+# ZZRBFB_48509 Number of predicted TMRs: 0
+ZZRBFB_48509	signal	1	23				
+ZZRBFB_48509	outside	24	50				
+//
+# ZZRBFB_100637 Length: 44
+# ZZRBFB_100637 Number of predicted TMRs: 0
+ZZRBFB_100637	signal	1	33				
+ZZRBFB_100637	outside	34	44				
+//
+# ZZRBFB_24825 Length: 41
+# ZZRBFB_24825 Number of predicted TMRs: 0
+ZZRBFB_24825	inside	1	41				
+//
+# ZZRBFB_144268 Length: 49
+# ZZRBFB_144268 Number of predicted TMRs: 0
+ZZRBFB_144268	inside	1	49				
+//
+# ZZRBFB_73339 Length: 49
+# ZZRBFB_73339 Number of predicted TMRs: 0
+ZZRBFB_73339	inside	1	49				
+//
+# ZZRBFB_84247 Length: 45
+# ZZRBFB_84247 Number of predicted TMRs: 0
+ZZRBFB_84247	inside	1	45				
+//
+# ZZRBFB_58421 Length: 41
+# ZZRBFB_58421 Number of predicted TMRs: 0
+ZZRBFB_58421	inside	1	41				
+//
+# ZZRBFB_91629 Length: 47
+# ZZRBFB_91629 Number of predicted TMRs: 0
+ZZRBFB_91629	signal	1	46				
+ZZRBFB_91629	periplasm	47	47				
+//
+# ZZRBFB_150745 Length: 47
+# ZZRBFB_150745 Number of predicted TMRs: 0
+ZZRBFB_150745	signal	1	22				
+ZZRBFB_150745	outside	23	47				
+//
+# ZZRBFB_147534 Length: 38
+# ZZRBFB_147534 Number of predicted TMRs: 0
+ZZRBFB_147534	inside	1	38				
+//
+# ZZRBFB_138000 Length: 44
+# ZZRBFB_138000 Number of predicted TMRs: 0
+ZZRBFB_138000	signal	1	37				
+ZZRBFB_138000	outside	38	44				
+//
+# ZZRBFB_4785 Length: 47
+# ZZRBFB_4785 Number of predicted TMRs: 0
+ZZRBFB_4785	inside	1	47				
+//
+# ZZRBFB_46265 Length: 48
+# ZZRBFB_46265 Number of predicted TMRs: 0
+ZZRBFB_46265	inside	1	48				
+//
+# ZZRBFB_127708 Length: 46
+# ZZRBFB_127708 Number of predicted TMRs: 0
+ZZRBFB_127708	signal	1	45				
+ZZRBFB_127708	outside	46	46				
+//
+# ZZRBFB_3102 Length: 42
+# ZZRBFB_3102 Number of predicted TMRs: 0
+ZZRBFB_3102	signal	1	25				
+ZZRBFB_3102	outside	26	42				
+//
+# ZZRBFB_165650 Length: 39
+# ZZRBFB_165650 Number of predicted TMRs: 0
+ZZRBFB_165650	outside	1	39				
+//
+# ZZRBFB_144167 Length: 49
+# ZZRBFB_144167 Number of predicted TMRs: 0
+ZZRBFB_144167	inside	1	49				
+//
+# ZZRBFB_104653 Length: 46
+# ZZRBFB_104653 Number of predicted TMRs: 0
+ZZRBFB_104653	inside	1	46				
+//
+# ZZRBFB_74951 Length: 36
+# ZZRBFB_74951 Number of predicted TMRs: 0
+ZZRBFB_74951	inside	1	36				
+//
+# ZZRBFB_45708 Length: 50
+# ZZRBFB_45708 Number of predicted TMRs: 0
+ZZRBFB_45708	signal	1	48				
+ZZRBFB_45708	outside	49	50				
+//
+# ZZRBFB_137304 Length: 48
+# ZZRBFB_137304 Number of predicted TMRs: 0
+ZZRBFB_137304	outside	1	48				
+//
+# ZZRBFB_119671 Length: 50
+# ZZRBFB_119671 Number of predicted TMRs: 0
+ZZRBFB_119671	inside	1	50				
+//
+# ZZRBFB_119486 Length: 48
+# ZZRBFB_119486 Number of predicted TMRs: 0
+ZZRBFB_119486	inside	1	48				
+//
+# ZZRBFB_92159 Length: 48
+# ZZRBFB_92159 Number of predicted TMRs: 0
+ZZRBFB_92159	inside	1	48				
+//
+# ZZRBFB_98476 Length: 50
+# ZZRBFB_98476 Number of predicted TMRs: 0
+ZZRBFB_98476	signal	1	35				
+ZZRBFB_98476	outside	36	50				
+//
+# ZZRBFB_61276 Length: 44
+# ZZRBFB_61276 Number of predicted TMRs: 0
+ZZRBFB_61276	signal	1	43				
+ZZRBFB_61276	outside	44	44				
+//
+# ZZRBFB_115876 Length: 48
+# ZZRBFB_115876 Number of predicted TMRs: 0
+ZZRBFB_115876	inside	1	48				
+//
+# ZZRBFB_106287 Length: 43
+# ZZRBFB_106287 Number of predicted TMRs: 0
+ZZRBFB_106287	inside	1	43				
+//
+# ZZRBFB_141166 Length: 33
+# ZZRBFB_141166 Number of predicted TMRs: 0
+ZZRBFB_141166	signal	1	21				
+ZZRBFB_141166	outside	22	33				
+//
+# ZZRBFB_142104 Length: 36
+# ZZRBFB_142104 Number of predicted TMRs: 0
+ZZRBFB_142104	inside	1	36				
+//
+# ZZRBFB_12504 Length: 48
+# ZZRBFB_12504 Number of predicted TMRs: 0
+ZZRBFB_12504	outside	1	48				
+//
+# ZZRBFB_112945 Length: 47
+# ZZRBFB_112945 Number of predicted TMRs: 0
+ZZRBFB_112945	inside	1	47				
+//
+# ZZRBFB_89441 Length: 50
+# ZZRBFB_89441 Number of predicted TMRs: 0
+ZZRBFB_89441	inside	1	50				
+//
+# ZZRBFB_90049 Length: 45
+# ZZRBFB_90049 Number of predicted TMRs: 0
+ZZRBFB_90049	inside	1	45				
+//
+# ZZRBFB_99512 Length: 43
+# ZZRBFB_99512 Number of predicted TMRs: 0
+ZZRBFB_99512	inside	1	43				
+//
+# ZZRBFB_2250 Length: 47
+# ZZRBFB_2250 Number of predicted TMRs: 0
+ZZRBFB_2250	signal	1	41				
+ZZRBFB_2250	outside	42	47				
+//
+# ZZRBFB_49917 Length: 46
+# ZZRBFB_49917 Number of predicted TMRs: 0
+ZZRBFB_49917	inside	1	46				
+//
+# ZZRBFB_64358 Length: 46
+# ZZRBFB_64358 Number of predicted TMRs: 0
+ZZRBFB_64358	signal	1	25				
+ZZRBFB_64358	outside	26	46				
+//
+# ZZRBFB_60414 Length: 48
+# ZZRBFB_60414 Number of predicted TMRs: 0
+ZZRBFB_60414	inside	1	48				
+//
+# ZZRBFB_25771 Length: 35
+# ZZRBFB_25771 Number of predicted TMRs: 0
+ZZRBFB_25771	inside	1	35				
+//
+# ZZRBFB_163792 Length: 38
+# ZZRBFB_163792 Number of predicted TMRs: 0
+ZZRBFB_163792	inside	1	38				
+//
+# ZZRBFB_117579 Length: 45
+# ZZRBFB_117579 Number of predicted TMRs: 0
+ZZRBFB_117579	inside	1	45				
+//
+# ZZRBFB_90024 Length: 49
+# ZZRBFB_90024 Number of predicted TMRs: 0
+ZZRBFB_90024	inside	1	49				
+//
+# ZZRBFB_53252 Length: 42
+# ZZRBFB_53252 Number of predicted TMRs: 0
+ZZRBFB_53252	inside	1	42				
+//
+# ZZRBFB_53256 Length: 44
+# ZZRBFB_53256 Number of predicted TMRs: 0
+ZZRBFB_53256	inside	1	44				
+//
+# ZZRBFB_135966 Length: 48
+# ZZRBFB_135966 Number of predicted TMRs: 0
+ZZRBFB_135966	inside	1	48				
+//
+# ZZRBFB_69396 Length: 39
+# ZZRBFB_69396 Number of predicted TMRs: 0
+ZZRBFB_69396	inside	1	39				
+//
+# ZZRBFB_89653 Length: 39
+# ZZRBFB_89653 Number of predicted TMRs: 0
+ZZRBFB_89653	signal	1	26				
+ZZRBFB_89653	outside	27	39				
+//
+# ZZRBFB_71030 Length: 47
+# ZZRBFB_71030 Number of predicted TMRs: 0
+ZZRBFB_71030	signal	1	19				
+ZZRBFB_71030	outside	20	47				
+//
+# ZZRBFB_64457 Length: 45
+# ZZRBFB_64457 Number of predicted TMRs: 0
+ZZRBFB_64457	inside	1	45				
+//
+# ZZRBFB_143822 Length: 45
+# ZZRBFB_143822 Number of predicted TMRs: 0
+ZZRBFB_143822	outside	1	45				
+//
+# ZZRBFB_102578 Length: 43
+# ZZRBFB_102578 Number of predicted TMRs: 0
+ZZRBFB_102578	inside	1	43				
+//
+# ZZRBFB_105697 Length: 37
+# ZZRBFB_105697 Number of predicted TMRs: 0
+ZZRBFB_105697	outside	1	37				
+//
+# ZZRBFB_22850 Length: 50
+# ZZRBFB_22850 Number of predicted TMRs: 0
+ZZRBFB_22850	inside	1	50				
+//
+# ZZRBFB_55103 Length: 50
+# ZZRBFB_55103 Number of predicted TMRs: 0
+ZZRBFB_55103	inside	1	50				
+//
+# ZZRBFB_19078 Length: 45
+# ZZRBFB_19078 Number of predicted TMRs: 0
+ZZRBFB_19078	inside	1	45				
+//
+# ZZRBFB_109373 Length: 48
+# ZZRBFB_109373 Number of predicted TMRs: 0
+ZZRBFB_109373	inside	1	48				
+//
+# ZZRBFB_120987 Length: 37
+# ZZRBFB_120987 Number of predicted TMRs: 0
+ZZRBFB_120987	signal	1	35				
+ZZRBFB_120987	outside	36	37				
+//
+# ZZRBFB_88107 Length: 47
+# ZZRBFB_88107 Number of predicted TMRs: 0
+ZZRBFB_88107	signal	1	46				
+ZZRBFB_88107	outside	47	47				
+//
+# ZZRBFB_161130 Length: 40
+# ZZRBFB_161130 Number of predicted TMRs: 0
+ZZRBFB_161130	signal	1	31				
+ZZRBFB_161130	outside	32	40				
+//
+# ZZRBFB_131694 Length: 40
+# ZZRBFB_131694 Number of predicted TMRs: 0
+ZZRBFB_131694	inside	1	40				
+//
+# ZZRBFB_54650 Length: 46
+# ZZRBFB_54650 Number of predicted TMRs: 0
+ZZRBFB_54650	inside	1	46				
+//
+# ZZRBFB_126791 Length: 38
+# ZZRBFB_126791 Number of predicted TMRs: 0
+ZZRBFB_126791	inside	1	38				
+//
+# ZZRBFB_19810 Length: 40
+# ZZRBFB_19810 Number of predicted TMRs: 0
+ZZRBFB_19810	signal	1	32				
+ZZRBFB_19810	outside	33	40				
+//
+# ZZRBFB_169609 Length: 50
+# ZZRBFB_169609 Number of predicted TMRs: 0
+ZZRBFB_169609	inside	1	50				
+//
+# ZZRBFB_124373 Length: 40
+# ZZRBFB_124373 Number of predicted TMRs: 0
+ZZRBFB_124373	inside	1	40				
+//
+# ZZRBFB_164231 Length: 45
+# ZZRBFB_164231 Number of predicted TMRs: 0
+ZZRBFB_164231	inside	1	45				
+//
+# ZZRBFB_161502 Length: 37
+# ZZRBFB_161502 Number of predicted TMRs: 0
+ZZRBFB_161502	inside	1	37				
+//
+# ZZRBFB_161500 Length: 44
+# ZZRBFB_161500 Number of predicted TMRs: 0
+ZZRBFB_161500	inside	1	44				
+//
+# ZZRBFB_8023 Length: 44
+# ZZRBFB_8023 Number of predicted TMRs: 0
+ZZRBFB_8023	inside	1	44				
+//
+# ZZRBFB_166697 Length: 48
+# ZZRBFB_166697 Number of predicted TMRs: 0
+ZZRBFB_166697	inside	1	48				
+//
+# ZZRBFB_98902 Length: 44
+# ZZRBFB_98902 Number of predicted TMRs: 0
+ZZRBFB_98902	inside	1	44				
+//
+# ZZRBFB_29614 Length: 47
+# ZZRBFB_29614 Number of predicted TMRs: 0
+ZZRBFB_29614	inside	1	47				
+//
+# ZZRBFB_14559 Length: 50
+# ZZRBFB_14559 Number of predicted TMRs: 0
+ZZRBFB_14559	inside	1	50				
+//
+# ZZRBFB_170275 Length: 37
+# ZZRBFB_170275 Number of predicted TMRs: 0
+ZZRBFB_170275	inside	1	37				
+//
+# ZZRBFB_77332 Length: 41
+# ZZRBFB_77332 Number of predicted TMRs: 0
+ZZRBFB_77332	inside	1	41				
+//
+# ZZRBFB_29338 Length: 47
+# ZZRBFB_29338 Number of predicted TMRs: 0
+ZZRBFB_29338	inside	1	47				
+//
+# ZZRBFB_118701 Length: 40
+# ZZRBFB_118701 Number of predicted TMRs: 0
+ZZRBFB_118701	signal	1	24				
+ZZRBFB_118701	outside	25	40				
+//
+# ZZRBFB_56405 Length: 43
+# ZZRBFB_56405 Number of predicted TMRs: 0
+ZZRBFB_56405	inside	1	43				
+//
+# ZZRBFB_126524 Length: 48
+# ZZRBFB_126524 Number of predicted TMRs: 0
+ZZRBFB_126524	inside	1	48				
+//
+# ZZRBFB_7396 Length: 49
+# ZZRBFB_7396 Number of predicted TMRs: 0
+ZZRBFB_7396	inside	1	49				
+//
+# ZZRBFB_12177 Length: 44
+# ZZRBFB_12177 Number of predicted TMRs: 0
+ZZRBFB_12177	signal	1	26				
+ZZRBFB_12177	outside	27	44				
+//
+# ZZRBFB_108751 Length: 48
+# ZZRBFB_108751 Number of predicted TMRs: 0
+ZZRBFB_108751	inside	1	48				
+//
+# ZZRBFB_6733 Length: 46
+# ZZRBFB_6733 Number of predicted TMRs: 0
+ZZRBFB_6733	inside	1	46				
+//
+# ZZRBFB_126023 Length: 47
+# ZZRBFB_126023 Number of predicted TMRs: 0
+ZZRBFB_126023	inside	1	47				
+//
+# ZZRBFB_170769 Length: 44
+# ZZRBFB_170769 Number of predicted TMRs: 1
+ZZRBFB_170769	outside	1	18				
+ZZRBFB_170769	TMhelix	19	29				
+ZZRBFB_170769	inside	30	44				
+//
+# ZZRBFB_92902 Length: 44
+# ZZRBFB_92902 Number of predicted TMRs: 0
+ZZRBFB_92902	signal	1	37				
+ZZRBFB_92902	outside	38	44				
+//
+# ZZRBFB_153698 Length: 48
+# ZZRBFB_153698 Number of predicted TMRs: 0
+ZZRBFB_153698	inside	1	48				
+//
+# ZZRBFB_150863 Length: 44
+# ZZRBFB_150863 Number of predicted TMRs: 0
+ZZRBFB_150863	inside	1	44				
+//
+# ZZRBFB_79667 Length: 34
+# ZZRBFB_79667 Number of predicted TMRs: 0
+ZZRBFB_79667	inside	1	34				
+//
+# ZZRBFB_76554 Length: 45
+# ZZRBFB_76554 Number of predicted TMRs: 0
+ZZRBFB_76554	inside	1	45				
+//
+# ZZRBFB_62039 Length: 48
+# ZZRBFB_62039 Number of predicted TMRs: 0
+ZZRBFB_62039	inside	1	48				
+//
+# ZZRBFB_42806 Length: 32
+# ZZRBFB_42806 Number of predicted TMRs: 0
+ZZRBFB_42806	inside	1	32				
+//
+# ZZRBFB_115701 Length: 42
+# ZZRBFB_115701 Number of predicted TMRs: 0
+ZZRBFB_115701	signal	1	23				
+ZZRBFB_115701	outside	24	42				
+//
+# ZZRBFB_131875 Length: 48
+# ZZRBFB_131875 Number of predicted TMRs: 0
+ZZRBFB_131875	signal	1	40				
+ZZRBFB_131875	outside	41	48				
+//
+# ZZRBFB_136588 Length: 48
+# ZZRBFB_136588 Number of predicted TMRs: 0
+ZZRBFB_136588	signal	1	35				
+ZZRBFB_136588	outside	36	48				
+//
+# ZZRBFB_11427 Length: 45
+# ZZRBFB_11427 Number of predicted TMRs: 0
+ZZRBFB_11427	signal	1	44				
+ZZRBFB_11427	outside	45	45				
+//
+# ZZRBFB_119078 Length: 49
+# ZZRBFB_119078 Number of predicted TMRs: 0
+ZZRBFB_119078	inside	1	49				
+//
+# ZZRBFB_93833 Length: 48
+# ZZRBFB_93833 Number of predicted TMRs: 0
+ZZRBFB_93833	inside	1	48				
+//
+# ZZRBFB_88074 Length: 46
+# ZZRBFB_88074 Number of predicted TMRs: 0
+ZZRBFB_88074	inside	1	46				
+//
+# ZZRBFB_37208 Length: 50
+# ZZRBFB_37208 Number of predicted TMRs: 0
+ZZRBFB_37208	inside	1	50				
+//
+# ZZRBFB_41891 Length: 46
+# ZZRBFB_41891 Number of predicted TMRs: 0
+ZZRBFB_41891	signal	1	15				
+ZZRBFB_41891	outside	16	46				
+//
+# ZZRBFB_128294 Length: 46
+# ZZRBFB_128294 Number of predicted TMRs: 0
+ZZRBFB_128294	inside	1	46				
+//
+# ZZRBFB_6710 Length: 46
+# ZZRBFB_6710 Number of predicted TMRs: 0
+ZZRBFB_6710	signal	1	37				
+ZZRBFB_6710	outside	38	46				
+//
+# ZZRBFB_67679 Length: 43
+# ZZRBFB_67679 Number of predicted TMRs: 0
+ZZRBFB_67679	inside	1	43				
+//
+# ZZRBFB_125962 Length: 44
+# ZZRBFB_125962 Number of predicted TMRs: 0
+ZZRBFB_125962	signal	1	41				
+ZZRBFB_125962	outside	42	44				
+//
+# ZZRBFB_36710 Length: 39
+# ZZRBFB_36710 Number of predicted TMRs: 0
+ZZRBFB_36710	signal	1	37				
+ZZRBFB_36710	outside	38	39				
+//
+# ZZRBFB_29466 Length: 45
+# ZZRBFB_29466 Number of predicted TMRs: 0
+ZZRBFB_29466	inside	1	45				
+//
+# ZZRBFB_21737 Length: 43
+# ZZRBFB_21737 Number of predicted TMRs: 0
+ZZRBFB_21737	inside	1	43				
+//
+# ZZRBFB_21756 Length: 47
+# ZZRBFB_21756 Number of predicted TMRs: 0
+ZZRBFB_21756	inside	1	47				
+//
+# ZZRBFB_52648 Length: 49
+# ZZRBFB_52648 Number of predicted TMRs: 0
+ZZRBFB_52648	inside	1	49				
+//
+# ZZRBFB_109514 Length: 38
+# ZZRBFB_109514 Number of predicted TMRs: 0
+ZZRBFB_109514	inside	1	38				
+//
+# ZZRBFB_85814 Length: 50
+# ZZRBFB_85814 Number of predicted TMRs: 0
+ZZRBFB_85814	inside	1	50				
+//
+# ZZRBFB_90022 Length: 30
+# ZZRBFB_90022 Number of predicted TMRs: 0
+ZZRBFB_90022	signal	1	18				
+ZZRBFB_90022	outside	19	30				
+//
+# ZZRBFB_60288 Length: 44
+# ZZRBFB_60288 Number of predicted TMRs: 0
+ZZRBFB_60288	inside	1	44				
+//
+# ZZRBFB_41818 Length: 45
+# ZZRBFB_41818 Number of predicted TMRs: 0
+ZZRBFB_41818	outside	1	45				
+//
+# ZZRBFB_119802 Length: 48
+# ZZRBFB_119802 Number of predicted TMRs: 0
+ZZRBFB_119802	inside	1	48				
+//
+# ZZRBFB_24354 Length: 44
+# ZZRBFB_24354 Number of predicted TMRs: 0
+ZZRBFB_24354	inside	1	44				
+//
+# ZZRBFB_116322 Length: 50
+# ZZRBFB_116322 Number of predicted TMRs: 0
+ZZRBFB_116322	inside	1	50				
+//
+# ZZRBFB_123346 Length: 45
+# ZZRBFB_123346 Number of predicted TMRs: 0
+ZZRBFB_123346	inside	1	45				
+//
+# ZZRBFB_95850 Length: 47
+# ZZRBFB_95850 Number of predicted TMRs: 0
+ZZRBFB_95850	inside	1	47				
+//
+# ZZRBFB_102071 Length: 46
+# ZZRBFB_102071 Number of predicted TMRs: 0
+ZZRBFB_102071	inside	1	46				
+//
+# ZZRBFB_118023 Length: 36
+# ZZRBFB_118023 Number of predicted TMRs: 0
+ZZRBFB_118023	signal	1	33				
+ZZRBFB_118023	outside	34	36				
+//
+# ZZRBFB_167345 Length: 31
+# ZZRBFB_167345 Number of predicted TMRs: 0
+ZZRBFB_167345	signal	1	30				
+ZZRBFB_167345	outside	31	31				
+//
+# ZZRBFB_167053 Length: 50
+# ZZRBFB_167053 Number of predicted TMRs: 0
+ZZRBFB_167053	inside	1	50				
+//
+# ZZRBFB_70667 Length: 49
+# ZZRBFB_70667 Number of predicted TMRs: 0
+ZZRBFB_70667	signal	1	48				
+ZZRBFB_70667	outside	49	49				
+//
+# ZZRBFB_75181 Length: 46
+# ZZRBFB_75181 Number of predicted TMRs: 0
+ZZRBFB_75181	signal	1	39				
+ZZRBFB_75181	outside	40	46				
+//
+# ZZRBFB_115279 Length: 48
+# ZZRBFB_115279 Number of predicted TMRs: 0
+ZZRBFB_115279	signal	1	13				
+ZZRBFB_115279	outside	14	48				
+//
+# ZZRBFB_15961 Length: 36
+# ZZRBFB_15961 Number of predicted TMRs: 0
+ZZRBFB_15961	signal	1	10				
+ZZRBFB_15961	outside	11	36				
+//
+# ZZRBFB_130983 Length: 49
+# ZZRBFB_130983 Number of predicted TMRs: 0
+ZZRBFB_130983	inside	1	49				
+//
+# ZZRBFB_36329 Length: 43
+# ZZRBFB_36329 Number of predicted TMRs: 0
+ZZRBFB_36329	inside	1	43				
+//
+# ZZRBFB_27960 Length: 50
+# ZZRBFB_27960 Number of predicted TMRs: 0
+ZZRBFB_27960	signal	1	49				
+ZZRBFB_27960	outside	50	50				
+//
+# ZZRBFB_113331 Length: 47
+# ZZRBFB_113331 Number of predicted TMRs: 0
+ZZRBFB_113331	inside	1	47				
+//
+# ZZRBFB_84504 Length: 44
+# ZZRBFB_84504 Number of predicted TMRs: 0
+ZZRBFB_84504	inside	1	44				
+//
+# ZZRBFB_126490 Length: 40
+# ZZRBFB_126490 Number of predicted TMRs: 0
+ZZRBFB_126490	signal	1	25				
+ZZRBFB_126490	outside	26	40				
+//
+# ZZRBFB_81590 Length: 39
+# ZZRBFB_81590 Number of predicted TMRs: 0
+ZZRBFB_81590	inside	1	39				
+//
+# ZZRBFB_38677 Length: 49
+# ZZRBFB_38677 Number of predicted TMRs: 0
+ZZRBFB_38677	inside	1	49				
+//
+# ZZRBFB_132406 Length: 41
+# ZZRBFB_132406 Number of predicted TMRs: 0
+ZZRBFB_132406	inside	1	41				
+//
+# ZZRBFB_133918 Length: 48
+# ZZRBFB_133918 Number of predicted TMRs: 0
+ZZRBFB_133918	inside	1	48				
+//
+# ZZRBFB_138654 Length: 49
+# ZZRBFB_138654 Number of predicted TMRs: 0
+ZZRBFB_138654	signal	1	44				
+ZZRBFB_138654	outside	45	49				
+//
+# ZZRBFB_116271 Length: 40
+# ZZRBFB_116271 Number of predicted TMRs: 0
+ZZRBFB_116271	signal	1	17				
+ZZRBFB_116271	outside	18	40				
+//
+# ZZRBFB_44189 Length: 41
+# ZZRBFB_44189 Number of predicted TMRs: 0
+ZZRBFB_44189	inside	1	41				
+//
+# ZZRBFB_167793 Length: 48
+# ZZRBFB_167793 Number of predicted TMRs: 0
+ZZRBFB_167793	signal	1	21				
+ZZRBFB_167793	outside	22	48				
+//
+# ZZRBFB_54156 Length: 48
+# ZZRBFB_54156 Number of predicted TMRs: 0
+ZZRBFB_54156	inside	1	48				
+//
+# ZZRBFB_61842 Length: 47
+# ZZRBFB_61842 Number of predicted TMRs: 0
+ZZRBFB_61842	inside	1	47				
+//
+# ZZRBFB_29479 Length: 49
+# ZZRBFB_29479 Number of predicted TMRs: 0
+ZZRBFB_29479	inside	1	49				
+//
+# ZZRBFB_5332 Length: 48
+# ZZRBFB_5332 Number of predicted TMRs: 0
+ZZRBFB_5332	signal	1	47				
+ZZRBFB_5332	outside	48	48				
+//
+# ZZRBFB_33749 Length: 44
+# ZZRBFB_33749 Number of predicted TMRs: 0
+ZZRBFB_33749	signal	1	43				
+ZZRBFB_33749	outside	44	44				
+//
+# ZZRBFB_36877 Length: 33
+# ZZRBFB_36877 Number of predicted TMRs: 0
+ZZRBFB_36877	signal	1	24				
+ZZRBFB_36877	outside	25	33				
+//
+# ZZRBFB_26806 Length: 38
+# ZZRBFB_26806 Number of predicted TMRs: 0
+ZZRBFB_26806	signal	1	23				
+ZZRBFB_26806	outside	24	38				
+//
+# ZZRBFB_96108 Length: 41
+# ZZRBFB_96108 Number of predicted TMRs: 0
+ZZRBFB_96108	signal	1	40				
+ZZRBFB_96108	outside	41	41				
+//
+# ZZRBFB_143973 Length: 49
+# ZZRBFB_143973 Number of predicted TMRs: 0
+ZZRBFB_143973	inside	1	49				
+//
+# ZZRBFB_37154 Length: 46
+# ZZRBFB_37154 Number of predicted TMRs: 0
+ZZRBFB_37154	inside	1	46				
+//
+# ZZRBFB_168717 Length: 43
+# ZZRBFB_168717 Number of predicted TMRs: 0
+ZZRBFB_168717	signal	1	27				
+ZZRBFB_168717	outside	28	43				
+//
+# ZZRBFB_54783 Length: 36
+# ZZRBFB_54783 Number of predicted TMRs: 0
+ZZRBFB_54783	signal	1	34				
+ZZRBFB_54783	outside	35	36				
+//
+# ZZRBFB_65946 Length: 41
+# ZZRBFB_65946 Number of predicted TMRs: 0
+ZZRBFB_65946	signal	1	38				
+ZZRBFB_65946	outside	39	41				
+//
+# ZZRBFB_132875 Length: 39
+# ZZRBFB_132875 Number of predicted TMRs: 0
+ZZRBFB_132875	inside	1	39				
+//
+# ZZRBFB_128796 Length: 46
+# ZZRBFB_128796 Number of predicted TMRs: 0
+ZZRBFB_128796	inside	1	46				
+//
+# ZZRBFB_2038 Length: 44
+# ZZRBFB_2038 Number of predicted TMRs: 0
+ZZRBFB_2038	signal	1	43				
+ZZRBFB_2038	outside	44	44				
+//
+# ZZRBFB_67891 Length: 43
+# ZZRBFB_67891 Number of predicted TMRs: 0
+ZZRBFB_67891	signal	1	42				
+ZZRBFB_67891	outside	43	43				
+//
+# ZZRBFB_83300 Length: 41
+# ZZRBFB_83300 Number of predicted TMRs: 0
+ZZRBFB_83300	signal	1	24				
+ZZRBFB_83300	outside	25	41				
+//
+# ZZRBFB_93904 Length: 49
+# ZZRBFB_93904 Number of predicted TMRs: 0
+ZZRBFB_93904	inside	1	49				
+//
+# ZZRBFB_80242 Length: 43
+# ZZRBFB_80242 Number of predicted TMRs: 0
+ZZRBFB_80242	inside	1	43				
+//
+# ZZRBFB_18642 Length: 40
+# ZZRBFB_18642 Number of predicted TMRs: 0
+ZZRBFB_18642	inside	1	40				
+//
+# ZZRBFB_130005 Length: 50
+# ZZRBFB_130005 Number of predicted TMRs: 0
+ZZRBFB_130005	signal	1	49				
+ZZRBFB_130005	outside	50	50				
+//
+# ZZRBFB_129783 Length: 46
+# ZZRBFB_129783 Number of predicted TMRs: 0
+ZZRBFB_129783	inside	1	46				
+//
+# ZZRBFB_10788 Length: 46
+# ZZRBFB_10788 Number of predicted TMRs: 0
+ZZRBFB_10788	inside	1	46				
+//
+# ZZRBFB_116015 Length: 46
+# ZZRBFB_116015 Number of predicted TMRs: 0
+ZZRBFB_116015	inside	1	46				
+//
+# ZZRBFB_102932 Length: 47
+# ZZRBFB_102932 Number of predicted TMRs: 0
+ZZRBFB_102932	inside	1	47				
+//
+# ZZRBFB_86319 Length: 47
+# ZZRBFB_86319 Number of predicted TMRs: 0
+ZZRBFB_86319	inside	1	47				
+//
+# ZZRBFB_138821 Length: 44
+# ZZRBFB_138821 Number of predicted TMRs: 0
+ZZRBFB_138821	inside	1	44				
+//
+# ZZRBFB_83870 Length: 45
+# ZZRBFB_83870 Number of predicted TMRs: 0
+ZZRBFB_83870	signal	1	20				
+ZZRBFB_83870	outside	21	45				
+//
+# ZZRBFB_5210 Length: 46
+# ZZRBFB_5210 Number of predicted TMRs: 0
+ZZRBFB_5210	inside	1	46				
+//
+# ZZRBFB_79802 Length: 48
+# ZZRBFB_79802 Number of predicted TMRs: 0
+ZZRBFB_79802	inside	1	48				
+//
+# ZZRBFB_67658 Length: 47
+# ZZRBFB_67658 Number of predicted TMRs: 0
+ZZRBFB_67658	inside	1	47				
+//
+# ZZRBFB_130289 Length: 38
+# ZZRBFB_130289 Number of predicted TMRs: 0
+ZZRBFB_130289	inside	1	38				
+//
+# ZZRBFB_152633 Length: 47
+# ZZRBFB_152633 Number of predicted TMRs: 0
+ZZRBFB_152633	inside	1	47				
+//
+# ZZRBFB_143455 Length: 46
+# ZZRBFB_143455 Number of predicted TMRs: 0
+ZZRBFB_143455	signal	1	45				
+ZZRBFB_143455	outside	46	46				
+//
+# ZZRBFB_116143 Length: 41
+# ZZRBFB_116143 Number of predicted TMRs: 0
+ZZRBFB_116143	inside	1	41				
+//
+# ZZRBFB_15939 Length: 46
+# ZZRBFB_15939 Number of predicted TMRs: 0
+ZZRBFB_15939	inside	1	46				
+//
+# ZZRBFB_163300 Length: 50
+# ZZRBFB_163300 Number of predicted TMRs: 0
+ZZRBFB_163300	inside	1	50				
+//
+# ZZRBFB_161714 Length: 39
+# ZZRBFB_161714 Number of predicted TMRs: 0
+ZZRBFB_161714	inside	1	39				
+//
+# ZZRBFB_96029 Length: 42
+# ZZRBFB_96029 Number of predicted TMRs: 0
+ZZRBFB_96029	inside	1	42				
+//
+# ZZRBFB_54186 Length: 50
+# ZZRBFB_54186 Number of predicted TMRs: 0
+ZZRBFB_54186	inside	1	50				
+//
+# ZZRBFB_170340 Length: 45
+# ZZRBFB_170340 Number of predicted TMRs: 0
+ZZRBFB_170340	inside	1	45				
+//
+# ZZRBFB_16975 Length: 43
+# ZZRBFB_16975 Number of predicted TMRs: 0
+ZZRBFB_16975	inside	1	43				
+//
+# ZZRBFB_168668 Length: 49
+# ZZRBFB_168668 Number of predicted TMRs: 0
+ZZRBFB_168668	inside	1	49				
+//
+# ZZRBFB_136943 Length: 33
+# ZZRBFB_136943 Number of predicted TMRs: 0
+ZZRBFB_136943	inside	1	33				
+//
+# ZZRBFB_74779 Length: 48
+# ZZRBFB_74779 Number of predicted TMRs: 0
+ZZRBFB_74779	signal	1	47				
+ZZRBFB_74779	outside	48	48				
+//
+# ZZRBFB_171090 Length: 47
+# ZZRBFB_171090 Number of predicted TMRs: 0
+ZZRBFB_171090	signal	1	46				
+ZZRBFB_171090	outside	47	47				
+//
+# ZZRBFB_115002 Length: 38
+# ZZRBFB_115002 Number of predicted TMRs: 0
+ZZRBFB_115002	inside	1	38				
+//
+# ZZRBFB_129007 Length: 39
+# ZZRBFB_129007 Number of predicted TMRs: 0
+ZZRBFB_129007	signal	1	37				
+ZZRBFB_129007	outside	38	39				
+//
+# ZZRBFB_130810 Length: 45
+# ZZRBFB_130810 Number of predicted TMRs: 0
+ZZRBFB_130810	signal	1	44				
+ZZRBFB_130810	outside	45	45				
+//
+# ZZRBFB_145417 Length: 50
+# ZZRBFB_145417 Number of predicted TMRs: 0
+ZZRBFB_145417	inside	1	50				
+//
+# ZZRBFB_120423 Length: 50
+# ZZRBFB_120423 Number of predicted TMRs: 0
+ZZRBFB_120423	signal	1	14				
+ZZRBFB_120423	outside	15	50				
+//
+# ZZRBFB_25036 Length: 46
+# ZZRBFB_25036 Number of predicted TMRs: 0
+ZZRBFB_25036	signal	1	15				
+ZZRBFB_25036	outside	16	46				
+//
+# ZZRBFB_4027 Length: 40
+# ZZRBFB_4027 Number of predicted TMRs: 0
+ZZRBFB_4027	signal	1	39				
+ZZRBFB_4027	outside	40	40				
+//
+# ZZRBFB_18924 Length: 49
+# ZZRBFB_18924 Number of predicted TMRs: 0
+ZZRBFB_18924	inside	1	49				
+//
+# ZZRBFB_135687 Length: 43
+# ZZRBFB_135687 Number of predicted TMRs: 0
+ZZRBFB_135687	signal	1	24				
+ZZRBFB_135687	outside	25	43				
+//
+# ZZRBFB_74978 Length: 48
+# ZZRBFB_74978 Number of predicted TMRs: 0
+ZZRBFB_74978	inside	1	48				
+//
+# ZZRBFB_86558 Length: 42
+# ZZRBFB_86558 Number of predicted TMRs: 0
+ZZRBFB_86558	inside	1	42				
+//
+# ZZRBFB_149744 Length: 50
+# ZZRBFB_149744 Number of predicted TMRs: 0
+ZZRBFB_149744	inside	1	50				
+//
+# ZZRBFB_113091 Length: 40
+# ZZRBFB_113091 Number of predicted TMRs: 0
+ZZRBFB_113091	signal	1	20				
+ZZRBFB_113091	outside	21	40				
+//
+# ZZRBFB_44724 Length: 42
+# ZZRBFB_44724 Number of predicted TMRs: 0
+ZZRBFB_44724	signal	1	10				
+ZZRBFB_44724	outside	11	42				
+//
+# ZZRBFB_22833 Length: 43
+# ZZRBFB_22833 Number of predicted TMRs: 0
+ZZRBFB_22833	inside	1	43				
+//
+# ZZRBFB_60666 Length: 44
+# ZZRBFB_60666 Number of predicted TMRs: 0
+ZZRBFB_60666	inside	1	44				
+//
+# ZZRBFB_11061 Length: 49
+# ZZRBFB_11061 Number of predicted TMRs: 0
+ZZRBFB_11061	inside	1	49				
+//
+# ZZRBFB_73695 Length: 42
+# ZZRBFB_73695 Number of predicted TMRs: 0
+ZZRBFB_73695	inside	1	42				
+//
+# ZZRBFB_7780 Length: 43
+# ZZRBFB_7780 Number of predicted TMRs: 0
+ZZRBFB_7780	inside	1	43				
+//
+# ZZRBFB_6947 Length: 49
+# ZZRBFB_6947 Number of predicted TMRs: 0
+ZZRBFB_6947	inside	1	49				
+//
+# ZZRBFB_142435 Length: 48
+# ZZRBFB_142435 Number of predicted TMRs: 0
+ZZRBFB_142435	signal	1	38				
+ZZRBFB_142435	outside	39	48				
+//
+# ZZRBFB_44057 Length: 45
+# ZZRBFB_44057 Number of predicted TMRs: 0
+ZZRBFB_44057	signal	1	18				
+ZZRBFB_44057	outside	19	45				

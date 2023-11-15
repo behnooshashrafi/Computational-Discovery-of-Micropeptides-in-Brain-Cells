@@ -1,0 +1,4437 @@
+##gff-version 3
+# KRQAYN_126780 Length: 50
+# KRQAYN_126780 Number of predicted TMRs: 0
+KRQAYN_126780	signal	1	18				
+KRQAYN_126780	outside	19	50				
+//
+# KRQAYN_162437 Length: 49
+# KRQAYN_162437 Number of predicted TMRs: 0
+KRQAYN_162437	signal	1	48				
+KRQAYN_162437	outside	49	49				
+//
+# KRQAYN_4467 Length: 35
+# KRQAYN_4467 Number of predicted TMRs: 0
+KRQAYN_4467	inside	1	35				
+//
+# KRQAYN_53399 Length: 29
+# KRQAYN_53399 Number of predicted TMRs: 0
+KRQAYN_53399	inside	1	29				
+//
+# KRQAYN_86871 Length: 50
+# KRQAYN_86871 Number of predicted TMRs: 0
+KRQAYN_86871	inside	1	50				
+//
+# KRQAYN_83928 Length: 44
+# KRQAYN_83928 Number of predicted TMRs: 0
+KRQAYN_83928	inside	1	44				
+//
+# KRQAYN_51692 Length: 47
+# KRQAYN_51692 Number of predicted TMRs: 0
+KRQAYN_51692	inside	1	47				
+//
+# KRQAYN_58628 Length: 50
+# KRQAYN_58628 Number of predicted TMRs: 0
+KRQAYN_58628	inside	1	50				
+//
+# KRQAYN_41251 Length: 44
+# KRQAYN_41251 Number of predicted TMRs: 0
+KRQAYN_41251	inside	1	44				
+//
+# KRQAYN_131747 Length: 44
+# KRQAYN_131747 Number of predicted TMRs: 0
+KRQAYN_131747	signal	1	30				
+KRQAYN_131747	outside	31	44				
+//
+# KRQAYN_146424 Length: 49
+# KRQAYN_146424 Number of predicted TMRs: 0
+KRQAYN_146424	inside	1	49				
+//
+# KRQAYN_174159 Length: 47
+# KRQAYN_174159 Number of predicted TMRs: 0
+KRQAYN_174159	inside	1	47				
+//
+# KRQAYN_126704 Length: 40
+# KRQAYN_126704 Number of predicted TMRs: 0
+KRQAYN_126704	inside	1	40				
+//
+# KRQAYN_150227 Length: 50
+# KRQAYN_150227 Number of predicted TMRs: 0
+KRQAYN_150227	signal	1	12				
+KRQAYN_150227	outside	13	50				
+//
+# KRQAYN_70947 Length: 50
+# KRQAYN_70947 Number of predicted TMRs: 0
+KRQAYN_70947	inside	1	50				
+//
+# KRQAYN_70087 Length: 48
+# KRQAYN_70087 Number of predicted TMRs: 0
+KRQAYN_70087	signal	1	35				
+KRQAYN_70087	outside	36	48				
+//
+# KRQAYN_124957 Length: 48
+# KRQAYN_124957 Number of predicted TMRs: 0
+KRQAYN_124957	outside	1	48				
+//
+# KRQAYN_20121 Length: 44
+# KRQAYN_20121 Number of predicted TMRs: 0
+KRQAYN_20121	signal	1	15				
+KRQAYN_20121	outside	16	44				
+//
+# KRQAYN_24755 Length: 49
+# KRQAYN_24755 Number of predicted TMRs: 0
+KRQAYN_24755	inside	1	49				
+//
+# KRQAYN_169976 Length: 46
+# KRQAYN_169976 Number of predicted TMRs: 0
+KRQAYN_169976	inside	1	46				
+//
+# KRQAYN_90178 Length: 43
+# KRQAYN_90178 Number of predicted TMRs: 0
+KRQAYN_90178	inside	1	43				
+//
+# KRQAYN_135227 Length: 41
+# KRQAYN_135227 Number of predicted TMRs: 0
+KRQAYN_135227	signal	1	34				
+KRQAYN_135227	outside	35	41				
+//
+# KRQAYN_33098 Length: 39
+# KRQAYN_33098 Number of predicted TMRs: 0
+KRQAYN_33098	signal	1	38				
+KRQAYN_33098	outside	39	39				
+//
+# KRQAYN_174718 Length: 46
+# KRQAYN_174718 Number of predicted TMRs: 0
+KRQAYN_174718	signal	1	34				
+KRQAYN_174718	outside	35	46				
+//
+# KRQAYN_8148 Length: 43
+# KRQAYN_8148 Number of predicted TMRs: 0
+KRQAYN_8148	signal	1	10				
+KRQAYN_8148	outside	11	43				
+//
+# KRQAYN_17338 Length: 32
+# KRQAYN_17338 Number of predicted TMRs: 0
+KRQAYN_17338	inside	1	32				
+//
+# KRQAYN_91402 Length: 49
+# KRQAYN_91402 Number of predicted TMRs: 0
+KRQAYN_91402	signal	1	45				
+KRQAYN_91402	outside	46	49				
+//
+# KRQAYN_123200 Length: 44
+# KRQAYN_123200 Number of predicted TMRs: 0
+KRQAYN_123200	inside	1	44				
+//
+# KRQAYN_159924 Length: 47
+# KRQAYN_159924 Number of predicted TMRs: 0
+KRQAYN_159924	inside	1	47				
+//
+# KRQAYN_96944 Length: 44
+# KRQAYN_96944 Number of predicted TMRs: 0
+KRQAYN_96944	signal	1	43				
+KRQAYN_96944	outside	44	44				
+//
+# KRQAYN_81045 Length: 44
+# KRQAYN_81045 Number of predicted TMRs: 0
+KRQAYN_81045	inside	1	44				
+//
+# KRQAYN_125171 Length: 46
+# KRQAYN_125171 Number of predicted TMRs: 0
+KRQAYN_125171	inside	1	46				
+//
+# KRQAYN_148384 Length: 41
+# KRQAYN_148384 Number of predicted TMRs: 0
+KRQAYN_148384	outside	1	41				
+//
+# KRQAYN_171016 Length: 38
+# KRQAYN_171016 Number of predicted TMRs: 0
+KRQAYN_171016	inside	1	38				
+//
+# KRQAYN_102496 Length: 46
+# KRQAYN_102496 Number of predicted TMRs: 0
+KRQAYN_102496	inside	1	46				
+//
+# KRQAYN_143639 Length: 45
+# KRQAYN_143639 Number of predicted TMRs: 0
+KRQAYN_143639	signal	1	39				
+KRQAYN_143639	outside	40	45				
+//
+# KRQAYN_16950 Length: 49
+# KRQAYN_16950 Number of predicted TMRs: 0
+KRQAYN_16950	signal	1	45				
+KRQAYN_16950	outside	46	49				
+//
+# KRQAYN_157642 Length: 50
+# KRQAYN_157642 Number of predicted TMRs: 0
+KRQAYN_157642	signal	1	44				
+KRQAYN_157642	outside	45	50				
+//
+# KRQAYN_130873 Length: 42
+# KRQAYN_130873 Number of predicted TMRs: 0
+KRQAYN_130873	inside	1	42				
+//
+# KRQAYN_140576 Length: 42
+# KRQAYN_140576 Number of predicted TMRs: 0
+KRQAYN_140576	signal	1	32				
+KRQAYN_140576	outside	33	42				
+//
+# KRQAYN_103747 Length: 49
+# KRQAYN_103747 Number of predicted TMRs: 0
+KRQAYN_103747	signal	1	20				
+KRQAYN_103747	outside	21	49				
+//
+# KRQAYN_104926 Length: 42
+# KRQAYN_104926 Number of predicted TMRs: 0
+KRQAYN_104926	signal	1	12				
+KRQAYN_104926	outside	13	42				
+//
+# KRQAYN_93061 Length: 45
+# KRQAYN_93061 Number of predicted TMRs: 0
+KRQAYN_93061	signal	1	10				
+KRQAYN_93061	outside	11	45				
+//
+# KRQAYN_105342 Length: 43
+# KRQAYN_105342 Number of predicted TMRs: 0
+KRQAYN_105342	inside	1	43				
+//
+# KRQAYN_158019 Length: 45
+# KRQAYN_158019 Number of predicted TMRs: 0
+KRQAYN_158019	inside	1	45				
+//
+# KRQAYN_141535 Length: 42
+# KRQAYN_141535 Number of predicted TMRs: 0
+KRQAYN_141535	inside	1	42				
+//
+# KRQAYN_20404 Length: 47
+# KRQAYN_20404 Number of predicted TMRs: 0
+KRQAYN_20404	signal	1	22				
+KRQAYN_20404	outside	23	47				
+//
+# KRQAYN_127299 Length: 38
+# KRQAYN_127299 Number of predicted TMRs: 0
+KRQAYN_127299	inside	1	38				
+//
+# KRQAYN_118973 Length: 47
+# KRQAYN_118973 Number of predicted TMRs: 0
+KRQAYN_118973	outside	1	47				
+//
+# KRQAYN_66454 Length: 45
+# KRQAYN_66454 Number of predicted TMRs: 0
+KRQAYN_66454	inside	1	45				
+//
+# KRQAYN_28142 Length: 38
+# KRQAYN_28142 Number of predicted TMRs: 0
+KRQAYN_28142	outside	1	38				
+//
+# KRQAYN_63343 Length: 49
+# KRQAYN_63343 Number of predicted TMRs: 0
+KRQAYN_63343	signal	1	19				
+KRQAYN_63343	outside	20	49				
+//
+# KRQAYN_56830 Length: 42
+# KRQAYN_56830 Number of predicted TMRs: 0
+KRQAYN_56830	signal	1	41				
+KRQAYN_56830	outside	42	42				
+//
+# KRQAYN_131058 Length: 38
+# KRQAYN_131058 Number of predicted TMRs: 0
+KRQAYN_131058	signal	1	37				
+KRQAYN_131058	outside	38	38				
+//
+# KRQAYN_43564 Length: 47
+# KRQAYN_43564 Number of predicted TMRs: 0
+KRQAYN_43564	inside	1	47				
+//
+# KRQAYN_45219 Length: 44
+# KRQAYN_45219 Number of predicted TMRs: 0
+KRQAYN_45219	signal	1	40				
+KRQAYN_45219	outside	41	44				
+//
+# KRQAYN_44216 Length: 43
+# KRQAYN_44216 Number of predicted TMRs: 0
+KRQAYN_44216	inside	1	43				
+//
+# KRQAYN_109223 Length: 38
+# KRQAYN_109223 Number of predicted TMRs: 0
+KRQAYN_109223	signal	1	35				
+KRQAYN_109223	outside	36	38				
+//
+# KRQAYN_174232 Length: 35
+# KRQAYN_174232 Number of predicted TMRs: 0
+KRQAYN_174232	signal	1	10				
+KRQAYN_174232	outside	11	35				
+//
+# KRQAYN_90644 Length: 50
+# KRQAYN_90644 Number of predicted TMRs: 0
+KRQAYN_90644	inside	1	50				
+//
+# KRQAYN_155179 Length: 41
+# KRQAYN_155179 Number of predicted TMRs: 0
+KRQAYN_155179	signal	1	12				
+KRQAYN_155179	outside	13	41				
+//
+# KRQAYN_170001 Length: 44
+# KRQAYN_170001 Number of predicted TMRs: 0
+KRQAYN_170001	signal	1	40				
+KRQAYN_170001	outside	41	44				
+//
+# KRQAYN_140806 Length: 35
+# KRQAYN_140806 Number of predicted TMRs: 0
+KRQAYN_140806	inside	1	35				
+//
+# KRQAYN_111051 Length: 42
+# KRQAYN_111051 Number of predicted TMRs: 0
+KRQAYN_111051	inside	1	42				
+//
+# KRQAYN_32671 Length: 44
+# KRQAYN_32671 Number of predicted TMRs: 0
+KRQAYN_32671	signal	1	40				
+KRQAYN_32671	outside	41	44				
+//
+# KRQAYN_88638 Length: 44
+# KRQAYN_88638 Number of predicted TMRs: 0
+KRQAYN_88638	signal	1	43				
+KRQAYN_88638	outside	44	44				
+//
+# KRQAYN_30559 Length: 40
+# KRQAYN_30559 Number of predicted TMRs: 0
+KRQAYN_30559	inside	1	40				
+//
+# KRQAYN_9126 Length: 47
+# KRQAYN_9126 Number of predicted TMRs: 0
+KRQAYN_9126	inside	1	47				
+//
+# KRQAYN_66502 Length: 35
+# KRQAYN_66502 Number of predicted TMRs: 0
+KRQAYN_66502	signal	1	16				
+KRQAYN_66502	outside	17	35				
+//
+# KRQAYN_43636 Length: 49
+# KRQAYN_43636 Number of predicted TMRs: 0
+KRQAYN_43636	inside	1	49				
+//
+# KRQAYN_170394 Length: 43
+# KRQAYN_170394 Number of predicted TMRs: 0
+KRQAYN_170394	inside	1	43				
+//
+# KRQAYN_150957 Length: 43
+# KRQAYN_150957 Number of predicted TMRs: 0
+KRQAYN_150957	inside	1	43				
+//
+# KRQAYN_54458 Length: 48
+# KRQAYN_54458 Number of predicted TMRs: 0
+KRQAYN_54458	signal	1	45				
+KRQAYN_54458	outside	46	48				
+//
+# KRQAYN_152906 Length: 49
+# KRQAYN_152906 Number of predicted TMRs: 0
+KRQAYN_152906	outside	1	49				
+//
+# KRQAYN_127065 Length: 44
+# KRQAYN_127065 Number of predicted TMRs: 0
+KRQAYN_127065	inside	1	44				
+//
+# KRQAYN_116709 Length: 48
+# KRQAYN_116709 Number of predicted TMRs: 0
+KRQAYN_116709	signal	1	47				
+KRQAYN_116709	outside	48	48				
+//
+# KRQAYN_139970 Length: 32
+# KRQAYN_139970 Number of predicted TMRs: 0
+KRQAYN_139970	signal	1	12				
+KRQAYN_139970	outside	13	32				
+//
+# KRQAYN_141317 Length: 33
+# KRQAYN_141317 Number of predicted TMRs: 0
+KRQAYN_141317	signal	1	12				
+KRQAYN_141317	outside	13	33				
+//
+# KRQAYN_141612 Length: 43
+# KRQAYN_141612 Number of predicted TMRs: 0
+KRQAYN_141612	signal	1	12				
+KRQAYN_141612	outside	13	43				
+//
+# KRQAYN_141309 Length: 43
+# KRQAYN_141309 Number of predicted TMRs: 0
+KRQAYN_141309	signal	1	12				
+KRQAYN_141309	outside	13	43				
+//
+# KRQAYN_171835 Length: 43
+# KRQAYN_171835 Number of predicted TMRs: 0
+KRQAYN_171835	inside	1	43				
+//
+# KRQAYN_84430 Length: 45
+# KRQAYN_84430 Number of predicted TMRs: 0
+KRQAYN_84430	inside	1	45				
+//
+# KRQAYN_43944 Length: 38
+# KRQAYN_43944 Number of predicted TMRs: 0
+KRQAYN_43944	signal	1	14				
+KRQAYN_43944	outside	15	38				
+//
+# KRQAYN_55454 Length: 47
+# KRQAYN_55454 Number of predicted TMRs: 0
+KRQAYN_55454	inside	1	47				
+//
+# KRQAYN_85369 Length: 49
+# KRQAYN_85369 Number of predicted TMRs: 0
+KRQAYN_85369	inside	1	49				
+//
+# KRQAYN_115805 Length: 50
+# KRQAYN_115805 Number of predicted TMRs: 0
+KRQAYN_115805	signal	1	11				
+KRQAYN_115805	outside	12	50				
+//
+# KRQAYN_14712 Length: 46
+# KRQAYN_14712 Number of predicted TMRs: 0
+KRQAYN_14712	inside	1	46				
+//
+# KRQAYN_145629 Length: 42
+# KRQAYN_145629 Number of predicted TMRs: 0
+KRQAYN_145629	inside	1	42				
+//
+# KRQAYN_123896 Length: 47
+# KRQAYN_123896 Number of predicted TMRs: 0
+KRQAYN_123896	signal	1	10				
+KRQAYN_123896	outside	11	47				
+//
+# KRQAYN_86580 Length: 47
+# KRQAYN_86580 Number of predicted TMRs: 0
+KRQAYN_86580	inside	1	47				
+//
+# KRQAYN_132731 Length: 47
+# KRQAYN_132731 Number of predicted TMRs: 0
+KRQAYN_132731	inside	1	47				
+//
+# KRQAYN_2076 Length: 48
+# KRQAYN_2076 Number of predicted TMRs: 0
+KRQAYN_2076	inside	1	48				
+//
+# KRQAYN_79422 Length: 34
+# KRQAYN_79422 Number of predicted TMRs: 0
+KRQAYN_79422	signal	1	33				
+KRQAYN_79422	outside	34	34				
+//
+# KRQAYN_97212 Length: 42
+# KRQAYN_97212 Number of predicted TMRs: 0
+KRQAYN_97212	inside	1	42				
+//
+# KRQAYN_18601 Length: 38
+# KRQAYN_18601 Number of predicted TMRs: 0
+KRQAYN_18601	inside	1	38				
+//
+# KRQAYN_13171 Length: 41
+# KRQAYN_13171 Number of predicted TMRs: 0
+KRQAYN_13171	signal	1	10				
+KRQAYN_13171	outside	11	41				
+//
+# KRQAYN_70085 Length: 45
+# KRQAYN_70085 Number of predicted TMRs: 0
+KRQAYN_70085	inside	1	45				
+//
+# KRQAYN_36613 Length: 47
+# KRQAYN_36613 Number of predicted TMRs: 0
+KRQAYN_36613	outside	1	47				
+//
+# KRQAYN_76013 Length: 42
+# KRQAYN_76013 Number of predicted TMRs: 0
+KRQAYN_76013	inside	1	42				
+//
+# KRQAYN_86195 Length: 37
+# KRQAYN_86195 Number of predicted TMRs: 0
+KRQAYN_86195	signal	1	28				
+KRQAYN_86195	outside	29	37				
+//
+# KRQAYN_86201 Length: 46
+# KRQAYN_86201 Number of predicted TMRs: 0
+KRQAYN_86201	signal	1	29				
+KRQAYN_86201	outside	30	46				
+//
+# KRQAYN_75052 Length: 47
+# KRQAYN_75052 Number of predicted TMRs: 0
+KRQAYN_75052	inside	1	47				
+//
+# KRQAYN_157048 Length: 47
+# KRQAYN_157048 Number of predicted TMRs: 0
+KRQAYN_157048	outside	1	47				
+//
+# KRQAYN_157769 Length: 44
+# KRQAYN_157769 Number of predicted TMRs: 0
+KRQAYN_157769	inside	1	44				
+//
+# KRQAYN_117157 Length: 42
+# KRQAYN_117157 Number of predicted TMRs: 0
+KRQAYN_117157	signal	1	23				
+KRQAYN_117157	outside	24	42				
+//
+# KRQAYN_10925 Length: 45
+# KRQAYN_10925 Number of predicted TMRs: 0
+KRQAYN_10925	signal	1	21				
+KRQAYN_10925	outside	22	45				
+//
+# KRQAYN_59896 Length: 48
+# KRQAYN_59896 Number of predicted TMRs: 0
+KRQAYN_59896	inside	1	48				
+//
+# KRQAYN_137840 Length: 37
+# KRQAYN_137840 Number of predicted TMRs: 0
+KRQAYN_137840	inside	1	37				
+//
+# KRQAYN_142864 Length: 45
+# KRQAYN_142864 Number of predicted TMRs: 0
+KRQAYN_142864	signal	1	12				
+KRQAYN_142864	outside	13	45				
+//
+# KRQAYN_98525 Length: 44
+# KRQAYN_98525 Number of predicted TMRs: 0
+KRQAYN_98525	signal	1	41				
+KRQAYN_98525	outside	42	44				
+//
+# KRQAYN_103381 Length: 33
+# KRQAYN_103381 Number of predicted TMRs: 0
+KRQAYN_103381	signal	1	30				
+KRQAYN_103381	outside	31	33				
+//
+# KRQAYN_165771 Length: 46
+# KRQAYN_165771 Number of predicted TMRs: 0
+KRQAYN_165771	signal	1	37				
+KRQAYN_165771	outside	38	46				
+//
+# KRQAYN_102374 Length: 36
+# KRQAYN_102374 Number of predicted TMRs: 0
+KRQAYN_102374	signal	1	34				
+KRQAYN_102374	outside	35	36				
+//
+# KRQAYN_2739 Length: 49
+# KRQAYN_2739 Number of predicted TMRs: 0
+KRQAYN_2739	signal	1	48				
+KRQAYN_2739	outside	49	49				
+//
+# KRQAYN_71576 Length: 49
+# KRQAYN_71576 Number of predicted TMRs: 0
+KRQAYN_71576	inside	1	49				
+//
+# KRQAYN_87328 Length: 49
+# KRQAYN_87328 Number of predicted TMRs: 0
+KRQAYN_87328	inside	1	49				
+//
+# KRQAYN_9272 Length: 47
+# KRQAYN_9272 Number of predicted TMRs: 0
+KRQAYN_9272	signal	1	21				
+KRQAYN_9272	outside	22	47				
+//
+# KRQAYN_7617 Length: 50
+# KRQAYN_7617 Number of predicted TMRs: 0
+KRQAYN_7617	inside	1	50				
+//
+# KRQAYN_143747 Length: 48
+# KRQAYN_143747 Number of predicted TMRs: 0
+KRQAYN_143747	inside	1	48				
+//
+# KRQAYN_149638 Length: 49
+# KRQAYN_149638 Number of predicted TMRs: 0
+KRQAYN_149638	inside	1	49				
+//
+# KRQAYN_76389 Length: 40
+# KRQAYN_76389 Number of predicted TMRs: 0
+KRQAYN_76389	signal	1	32				
+KRQAYN_76389	outside	33	40				
+//
+# KRQAYN_117342 Length: 50
+# KRQAYN_117342 Number of predicted TMRs: 0
+KRQAYN_117342	outside	1	50				
+//
+# KRQAYN_9379 Length: 42
+# KRQAYN_9379 Number of predicted TMRs: 0
+KRQAYN_9379	inside	1	42				
+//
+# KRQAYN_28564 Length: 39
+# KRQAYN_28564 Number of predicted TMRs: 0
+KRQAYN_28564	signal	1	38				
+KRQAYN_28564	outside	39	39				
+//
+# KRQAYN_170831 Length: 50
+# KRQAYN_170831 Number of predicted TMRs: 0
+KRQAYN_170831	inside	1	50				
+//
+# KRQAYN_66467 Length: 39
+# KRQAYN_66467 Number of predicted TMRs: 0
+KRQAYN_66467	inside	1	39				
+//
+# KRQAYN_121853 Length: 48
+# KRQAYN_121853 Number of predicted TMRs: 0
+KRQAYN_121853	inside	1	48				
+//
+# KRQAYN_135684 Length: 50
+# KRQAYN_135684 Number of predicted TMRs: 0
+KRQAYN_135684	inside	1	50				
+//
+# KRQAYN_163703 Length: 42
+# KRQAYN_163703 Number of predicted TMRs: 0
+KRQAYN_163703	inside	1	42				
+//
+# KRQAYN_98546 Length: 50
+# KRQAYN_98546 Number of predicted TMRs: 0
+KRQAYN_98546	inside	1	50				
+//
+# KRQAYN_92467 Length: 33
+# KRQAYN_92467 Number of predicted TMRs: 0
+KRQAYN_92467	signal	1	25				
+KRQAYN_92467	outside	26	33				
+//
+# KRQAYN_44035 Length: 47
+# KRQAYN_44035 Number of predicted TMRs: 0
+KRQAYN_44035	signal	1	32				
+KRQAYN_44035	outside	33	47				
+//
+# KRQAYN_77875 Length: 45
+# KRQAYN_77875 Number of predicted TMRs: 0
+KRQAYN_77875	signal	1	17				
+KRQAYN_77875	outside	18	45				
+//
+# KRQAYN_19681 Length: 46
+# KRQAYN_19681 Number of predicted TMRs: 0
+KRQAYN_19681	signal	1	26				
+KRQAYN_19681	outside	27	46				
+//
+# KRQAYN_145308 Length: 40
+# KRQAYN_145308 Number of predicted TMRs: 0
+KRQAYN_145308	inside	1	40				
+//
+# KRQAYN_99680 Length: 39
+# KRQAYN_99680 Number of predicted TMRs: 0
+KRQAYN_99680	signal	1	35				
+KRQAYN_99680	outside	36	39				
+//
+# KRQAYN_19441 Length: 44
+# KRQAYN_19441 Number of predicted TMRs: 0
+KRQAYN_19441	inside	1	44				
+//
+# KRQAYN_82463 Length: 48
+# KRQAYN_82463 Number of predicted TMRs: 0
+KRQAYN_82463	inside	1	48				
+//
+# KRQAYN_134371 Length: 39
+# KRQAYN_134371 Number of predicted TMRs: 0
+KRQAYN_134371	inside	1	39				
+//
+# KRQAYN_76179 Length: 37
+# KRQAYN_76179 Number of predicted TMRs: 0
+KRQAYN_76179	signal	1	34				
+KRQAYN_76179	outside	35	37				
+//
+# KRQAYN_77185 Length: 46
+# KRQAYN_77185 Number of predicted TMRs: 0
+KRQAYN_77185	signal	1	42				
+KRQAYN_77185	outside	43	46				
+//
+# KRQAYN_30999 Length: 45
+# KRQAYN_30999 Number of predicted TMRs: 0
+KRQAYN_30999	signal	1	44				
+KRQAYN_30999	outside	45	45				
+//
+# KRQAYN_30847 Length: 46
+# KRQAYN_30847 Number of predicted TMRs: 0
+KRQAYN_30847	signal	1	45				
+KRQAYN_30847	outside	46	46				
+//
+# KRQAYN_16237 Length: 46
+# KRQAYN_16237 Number of predicted TMRs: 0
+KRQAYN_16237	signal	1	39				
+KRQAYN_16237	outside	40	46				
+//
+# KRQAYN_79063 Length: 49
+# KRQAYN_79063 Number of predicted TMRs: 0
+KRQAYN_79063	outside	1	49				
+//
+# KRQAYN_114433 Length: 48
+# KRQAYN_114433 Number of predicted TMRs: 0
+KRQAYN_114433	inside	1	48				
+//
+# KRQAYN_32750 Length: 46
+# KRQAYN_32750 Number of predicted TMRs: 0
+KRQAYN_32750	inside	1	46				
+//
+# KRQAYN_165441 Length: 48
+# KRQAYN_165441 Number of predicted TMRs: 0
+KRQAYN_165441	signal	1	44				
+KRQAYN_165441	outside	45	48				
+//
+# KRQAYN_66483 Length: 40
+# KRQAYN_66483 Number of predicted TMRs: 0
+KRQAYN_66483	signal	1	20				
+KRQAYN_66483	outside	21	40				
+//
+# KRQAYN_63470 Length: 29
+# KRQAYN_63470 Number of predicted TMRs: 0
+KRQAYN_63470	inside	1	29				
+//
+# KRQAYN_104385 Length: 31
+# KRQAYN_104385 Number of predicted TMRs: 0
+KRQAYN_104385	inside	1	31				
+//
+# KRQAYN_170217 Length: 50
+# KRQAYN_170217 Number of predicted TMRs: 0
+KRQAYN_170217	inside	1	50				
+//
+# KRQAYN_174711 Length: 40
+# KRQAYN_174711 Number of predicted TMRs: 0
+KRQAYN_174711	inside	1	40				
+//
+# KRQAYN_169081 Length: 40
+# KRQAYN_169081 Number of predicted TMRs: 0
+KRQAYN_169081	signal	1	21				
+KRQAYN_169081	outside	22	40				
+//
+# KRQAYN_47429 Length: 47
+# KRQAYN_47429 Number of predicted TMRs: 0
+KRQAYN_47429	inside	1	47				
+//
+# KRQAYN_65437 Length: 50
+# KRQAYN_65437 Number of predicted TMRs: 0
+KRQAYN_65437	signal	1	33				
+KRQAYN_65437	outside	34	50				
+//
+# KRQAYN_111922 Length: 35
+# KRQAYN_111922 Number of predicted TMRs: 0
+KRQAYN_111922	signal	1	11				
+KRQAYN_111922	outside	12	35				
+//
+# KRQAYN_152910 Length: 50
+# KRQAYN_152910 Number of predicted TMRs: 0
+KRQAYN_152910	inside	1	50				
+//
+# KRQAYN_78587 Length: 43
+# KRQAYN_78587 Number of predicted TMRs: 0
+KRQAYN_78587	inside	1	43				
+//
+# KRQAYN_27052 Length: 48
+# KRQAYN_27052 Number of predicted TMRs: 0
+KRQAYN_27052	inside	1	48				
+//
+# KRQAYN_101505 Length: 50
+# KRQAYN_101505 Number of predicted TMRs: 0
+KRQAYN_101505	inside	1	50				
+//
+# KRQAYN_106967 Length: 50
+# KRQAYN_106967 Number of predicted TMRs: 0
+KRQAYN_106967	outside	1	50				
+//
+# KRQAYN_68763 Length: 50
+# KRQAYN_68763 Number of predicted TMRs: 0
+KRQAYN_68763	inside	1	50				
+//
+# KRQAYN_146069 Length: 49
+# KRQAYN_146069 Number of predicted TMRs: 0
+KRQAYN_146069	inside	1	49				
+//
+# KRQAYN_73108 Length: 46
+# KRQAYN_73108 Number of predicted TMRs: 0
+KRQAYN_73108	inside	1	46				
+//
+# KRQAYN_127045 Length: 38
+# KRQAYN_127045 Number of predicted TMRs: 0
+KRQAYN_127045	signal	1	11				
+KRQAYN_127045	outside	12	38				
+//
+# KRQAYN_102023 Length: 37
+# KRQAYN_102023 Number of predicted TMRs: 0
+KRQAYN_102023	signal	1	26				
+KRQAYN_102023	outside	27	37				
+//
+# KRQAYN_72956 Length: 36
+# KRQAYN_72956 Number of predicted TMRs: 0
+KRQAYN_72956	inside	1	36				
+//
+# KRQAYN_107275 Length: 48
+# KRQAYN_107275 Number of predicted TMRs: 0
+KRQAYN_107275	inside	1	48				
+//
+# KRQAYN_48241 Length: 47
+# KRQAYN_48241 Number of predicted TMRs: 0
+KRQAYN_48241	inside	1	47				
+//
+# KRQAYN_27461 Length: 49
+# KRQAYN_27461 Number of predicted TMRs: 0
+KRQAYN_27461	signal	1	44				
+KRQAYN_27461	outside	45	49				
+//
+# KRQAYN_75217 Length: 48
+# KRQAYN_75217 Number of predicted TMRs: 0
+KRQAYN_75217	inside	1	48				
+//
+# KRQAYN_105963 Length: 47
+# KRQAYN_105963 Number of predicted TMRs: 0
+KRQAYN_105963	signal	1	44				
+KRQAYN_105963	outside	45	47				
+//
+# KRQAYN_13433 Length: 50
+# KRQAYN_13433 Number of predicted TMRs: 0
+KRQAYN_13433	inside	1	50				
+//
+# KRQAYN_124626 Length: 43
+# KRQAYN_124626 Number of predicted TMRs: 0
+KRQAYN_124626	signal	1	10				
+KRQAYN_124626	outside	11	43				
+//
+# KRQAYN_90355 Length: 50
+# KRQAYN_90355 Number of predicted TMRs: 0
+KRQAYN_90355	inside	1	50				
+//
+# KRQAYN_35777 Length: 50
+# KRQAYN_35777 Number of predicted TMRs: 0
+KRQAYN_35777	inside	1	50				
+//
+# KRQAYN_31395 Length: 44
+# KRQAYN_31395 Number of predicted TMRs: 0
+KRQAYN_31395	signal	1	32				
+KRQAYN_31395	outside	33	44				
+//
+# KRQAYN_171332 Length: 45
+# KRQAYN_171332 Number of predicted TMRs: 0
+KRQAYN_171332	inside	1	45				
+//
+# KRQAYN_112816 Length: 49
+# KRQAYN_112816 Number of predicted TMRs: 0
+KRQAYN_112816	inside	1	49				
+//
+# KRQAYN_67688 Length: 42
+# KRQAYN_67688 Number of predicted TMRs: 0
+KRQAYN_67688	signal	1	28				
+KRQAYN_67688	outside	29	42				
+//
+# KRQAYN_85739 Length: 38
+# KRQAYN_85739 Number of predicted TMRs: 0
+KRQAYN_85739	signal	1	22				
+KRQAYN_85739	outside	23	38				
+//
+# KRQAYN_143191 Length: 43
+# KRQAYN_143191 Number of predicted TMRs: 0
+KRQAYN_143191	signal	1	32				
+KRQAYN_143191	outside	33	43				
+//
+# KRQAYN_98287 Length: 49
+# KRQAYN_98287 Number of predicted TMRs: 0
+KRQAYN_98287	inside	1	49				
+//
+# KRQAYN_6851 Length: 47
+# KRQAYN_6851 Number of predicted TMRs: 0
+KRQAYN_6851	signal	1	10				
+KRQAYN_6851	outside	11	47				
+//
+# KRQAYN_20183 Length: 49
+# KRQAYN_20183 Number of predicted TMRs: 0
+KRQAYN_20183	signal	1	20				
+KRQAYN_20183	outside	21	49				
+//
+# KRQAYN_3751 Length: 48
+# KRQAYN_3751 Number of predicted TMRs: 0
+KRQAYN_3751	inside	1	48				
+//
+# KRQAYN_90367 Length: 45
+# KRQAYN_90367 Number of predicted TMRs: 0
+KRQAYN_90367	signal	1	14				
+KRQAYN_90367	outside	15	45				
+//
+# KRQAYN_156307 Length: 50
+# KRQAYN_156307 Number of predicted TMRs: 0
+KRQAYN_156307	inside	1	50				
+//
+# KRQAYN_154971 Length: 49
+# KRQAYN_154971 Number of predicted TMRs: 0
+KRQAYN_154971	inside	1	49				
+//
+# KRQAYN_67196 Length: 49
+# KRQAYN_67196 Number of predicted TMRs: 0
+KRQAYN_67196	inside	1	49				
+//
+# KRQAYN_90389 Length: 49
+# KRQAYN_90389 Number of predicted TMRs: 0
+KRQAYN_90389	signal	1	35				
+KRQAYN_90389	outside	36	49				
+//
+# KRQAYN_106872 Length: 46
+# KRQAYN_106872 Number of predicted TMRs: 0
+KRQAYN_106872	outside	1	46				
+//
+# KRQAYN_117338 Length: 41
+# KRQAYN_117338 Number of predicted TMRs: 0
+KRQAYN_117338	inside	1	41				
+//
+# KRQAYN_135335 Length: 42
+# KRQAYN_135335 Number of predicted TMRs: 0
+KRQAYN_135335	signal	1	35				
+KRQAYN_135335	outside	36	42				
+//
+# KRQAYN_63350 Length: 43
+# KRQAYN_63350 Number of predicted TMRs: 0
+KRQAYN_63350	inside	1	43				
+//
+# KRQAYN_112288 Length: 49
+# KRQAYN_112288 Number of predicted TMRs: 0
+KRQAYN_112288	inside	1	49				
+//
+# KRQAYN_86825 Length: 49
+# KRQAYN_86825 Number of predicted TMRs: 0
+KRQAYN_86825	inside	1	49				
+//
+# KRQAYN_73507 Length: 50
+# KRQAYN_73507 Number of predicted TMRs: 0
+KRQAYN_73507	inside	1	50				
+//
+# KRQAYN_63799 Length: 42
+# KRQAYN_63799 Number of predicted TMRs: 0
+KRQAYN_63799	inside	1	42				
+//
+# KRQAYN_59660 Length: 44
+# KRQAYN_59660 Number of predicted TMRs: 0
+KRQAYN_59660	inside	1	44				
+//
+# KRQAYN_19244 Length: 47
+# KRQAYN_19244 Number of predicted TMRs: 0
+KRQAYN_19244	inside	1	47				
+//
+# KRQAYN_128407 Length: 48
+# KRQAYN_128407 Number of predicted TMRs: 0
+KRQAYN_128407	signal	1	10				
+KRQAYN_128407	outside	11	48				
+//
+# KRQAYN_72257 Length: 42
+# KRQAYN_72257 Number of predicted TMRs: 0
+KRQAYN_72257	signal	1	10				
+KRQAYN_72257	outside	11	42				
+//
+# KRQAYN_127517 Length: 47
+# KRQAYN_127517 Number of predicted TMRs: 0
+KRQAYN_127517	signal	1	46				
+KRQAYN_127517	outside	47	47				
+//
+# KRQAYN_14629 Length: 46
+# KRQAYN_14629 Number of predicted TMRs: 0
+KRQAYN_14629	inside	1	46				
+//
+# KRQAYN_103654 Length: 46
+# KRQAYN_103654 Number of predicted TMRs: 0
+KRQAYN_103654	signal	1	10				
+KRQAYN_103654	outside	11	46				
+//
+# KRQAYN_105943 Length: 41
+# KRQAYN_105943 Number of predicted TMRs: 0
+KRQAYN_105943	inside	1	41				
+//
+# KRQAYN_47428 Length: 48
+# KRQAYN_47428 Number of predicted TMRs: 0
+KRQAYN_47428	signal	1	20				
+KRQAYN_47428	outside	21	48				
+//
+# KRQAYN_52189 Length: 45
+# KRQAYN_52189 Number of predicted TMRs: 0
+KRQAYN_52189	inside	1	45				
+//
+# KRQAYN_85926 Length: 43
+# KRQAYN_85926 Number of predicted TMRs: 0
+KRQAYN_85926	inside	1	43				
+//
+# KRQAYN_144959 Length: 50
+# KRQAYN_144959 Number of predicted TMRs: 0
+KRQAYN_144959	signal	1	34				
+KRQAYN_144959	outside	35	50				
+//
+# KRQAYN_110911 Length: 45
+# KRQAYN_110911 Number of predicted TMRs: 0
+KRQAYN_110911	inside	1	45				
+//
+# KRQAYN_165816 Length: 46
+# KRQAYN_165816 Number of predicted TMRs: 0
+KRQAYN_165816	signal	1	44				
+KRQAYN_165816	outside	45	46				
+//
+# KRQAYN_122713 Length: 49
+# KRQAYN_122713 Number of predicted TMRs: 0
+KRQAYN_122713	inside	1	49				
+//
+# KRQAYN_33850 Length: 38
+# KRQAYN_33850 Number of predicted TMRs: 0
+KRQAYN_33850	signal	1	35				
+KRQAYN_33850	outside	36	38				
+//
+# KRQAYN_107214 Length: 50
+# KRQAYN_107214 Number of predicted TMRs: 0
+KRQAYN_107214	inside	1	50				
+//
+# KRQAYN_71173 Length: 43
+# KRQAYN_71173 Number of predicted TMRs: 0
+KRQAYN_71173	inside	1	43				
+//
+# KRQAYN_49974 Length: 44
+# KRQAYN_49974 Number of predicted TMRs: 0
+KRQAYN_49974	inside	1	44				
+//
+# KRQAYN_166728 Length: 50
+# KRQAYN_166728 Number of predicted TMRs: 0
+KRQAYN_166728	inside	1	50				
+//
+# KRQAYN_168096 Length: 39
+# KRQAYN_168096 Number of predicted TMRs: 0
+KRQAYN_168096	inside	1	39				
+//
+# KRQAYN_22181 Length: 38
+# KRQAYN_22181 Number of predicted TMRs: 0
+KRQAYN_22181	signal	1	36				
+KRQAYN_22181	outside	37	38				
+//
+# KRQAYN_43329 Length: 50
+# KRQAYN_43329 Number of predicted TMRs: 0
+KRQAYN_43329	inside	1	50				
+//
+# KRQAYN_6005 Length: 42
+# KRQAYN_6005 Number of predicted TMRs: 0
+KRQAYN_6005	inside	1	42				
+//
+# KRQAYN_120187 Length: 48
+# KRQAYN_120187 Number of predicted TMRs: 0
+KRQAYN_120187	inside	1	48				
+//
+# KRQAYN_61112 Length: 48
+# KRQAYN_61112 Number of predicted TMRs: 0
+KRQAYN_61112	inside	1	48				
+//
+# KRQAYN_12209 Length: 48
+# KRQAYN_12209 Number of predicted TMRs: 0
+KRQAYN_12209	signal	1	17				
+KRQAYN_12209	outside	18	48				
+//
+# KRQAYN_143271 Length: 40
+# KRQAYN_143271 Number of predicted TMRs: 0
+KRQAYN_143271	inside	1	40				
+//
+# KRQAYN_108048 Length: 50
+# KRQAYN_108048 Number of predicted TMRs: 0
+KRQAYN_108048	signal	1	10				
+KRQAYN_108048	outside	11	50				
+//
+# KRQAYN_41590 Length: 49
+# KRQAYN_41590 Number of predicted TMRs: 0
+KRQAYN_41590	inside	1	49				
+//
+# KRQAYN_110714 Length: 46
+# KRQAYN_110714 Number of predicted TMRs: 0
+KRQAYN_110714	inside	1	46				
+//
+# KRQAYN_138379 Length: 49
+# KRQAYN_138379 Number of predicted TMRs: 0
+KRQAYN_138379	inside	1	49				
+//
+# KRQAYN_82784 Length: 37
+# KRQAYN_82784 Number of predicted TMRs: 0
+KRQAYN_82784	inside	1	37				
+//
+# KRQAYN_22736 Length: 37
+# KRQAYN_22736 Number of predicted TMRs: 0
+KRQAYN_22736	signal	1	29				
+KRQAYN_22736	outside	30	37				
+//
+# KRQAYN_80647 Length: 50
+# KRQAYN_80647 Number of predicted TMRs: 0
+KRQAYN_80647	signal	1	41				
+KRQAYN_80647	outside	42	50				
+//
+# KRQAYN_14998 Length: 42
+# KRQAYN_14998 Number of predicted TMRs: 0
+KRQAYN_14998	inside	1	42				
+//
+# KRQAYN_39731 Length: 45
+# KRQAYN_39731 Number of predicted TMRs: 0
+KRQAYN_39731	inside	1	45				
+//
+# KRQAYN_133013 Length: 45
+# KRQAYN_133013 Number of predicted TMRs: 0
+KRQAYN_133013	signal	1	15				
+KRQAYN_133013	outside	16	45				
+//
+# KRQAYN_80893 Length: 46
+# KRQAYN_80893 Number of predicted TMRs: 0
+KRQAYN_80893	signal	1	45				
+KRQAYN_80893	outside	46	46				
+//
+# KRQAYN_83646 Length: 41
+# KRQAYN_83646 Number of predicted TMRs: 0
+KRQAYN_83646	signal	1	40				
+KRQAYN_83646	outside	41	41				
+//
+# KRQAYN_164046 Length: 46
+# KRQAYN_164046 Number of predicted TMRs: 0
+KRQAYN_164046	signal	1	45				
+KRQAYN_164046	outside	46	46				
+//
+# KRQAYN_83862 Length: 47
+# KRQAYN_83862 Number of predicted TMRs: 0
+KRQAYN_83862	signal	1	46				
+KRQAYN_83862	outside	47	47				
+//
+# KRQAYN_123214 Length: 48
+# KRQAYN_123214 Number of predicted TMRs: 0
+KRQAYN_123214	inside	1	48				
+//
+# KRQAYN_171755 Length: 49
+# KRQAYN_171755 Number of predicted TMRs: 0
+KRQAYN_171755	inside	1	49				
+//
+# KRQAYN_29013 Length: 49
+# KRQAYN_29013 Number of predicted TMRs: 0
+KRQAYN_29013	inside	1	49				
+//
+# KRQAYN_44009 Length: 42
+# KRQAYN_44009 Number of predicted TMRs: 0
+KRQAYN_44009	inside	1	42				
+//
+# KRQAYN_17939 Length: 44
+# KRQAYN_17939 Number of predicted TMRs: 0
+KRQAYN_17939	inside	1	44				
+//
+# KRQAYN_136135 Length: 37
+# KRQAYN_136135 Number of predicted TMRs: 0
+KRQAYN_136135	inside	1	37				
+//
+# KRQAYN_66946 Length: 42
+# KRQAYN_66946 Number of predicted TMRs: 0
+KRQAYN_66946	signal	1	30				
+KRQAYN_66946	outside	31	42				
+//
+# KRQAYN_169975 Length: 47
+# KRQAYN_169975 Number of predicted TMRs: 0
+KRQAYN_169975	inside	1	47				
+//
+# KRQAYN_23827 Length: 48
+# KRQAYN_23827 Number of predicted TMRs: 0
+KRQAYN_23827	inside	1	48				
+//
+# KRQAYN_93439 Length: 33
+# KRQAYN_93439 Number of predicted TMRs: 0
+KRQAYN_93439	signal	1	26				
+KRQAYN_93439	outside	27	33				
+//
+# KRQAYN_173271 Length: 41
+# KRQAYN_173271 Number of predicted TMRs: 0
+KRQAYN_173271	signal	1	28				
+KRQAYN_173271	outside	29	41				
+//
+# KRQAYN_108174 Length: 38
+# KRQAYN_108174 Number of predicted TMRs: 0
+KRQAYN_108174	signal	1	37				
+KRQAYN_108174	outside	38	38				
+//
+# KRQAYN_43335 Length: 40
+# KRQAYN_43335 Number of predicted TMRs: 0
+KRQAYN_43335	inside	1	40				
+//
+# KRQAYN_86352 Length: 40
+# KRQAYN_86352 Number of predicted TMRs: 0
+KRQAYN_86352	signal	1	18				
+KRQAYN_86352	outside	19	40				
+//
+# KRQAYN_62677 Length: 38
+# KRQAYN_62677 Number of predicted TMRs: 0
+KRQAYN_62677	signal	1	18				
+KRQAYN_62677	outside	19	38				
+//
+# KRQAYN_46426 Length: 50
+# KRQAYN_46426 Number of predicted TMRs: 0
+KRQAYN_46426	inside	1	50				
+//
+# KRQAYN_45456 Length: 49
+# KRQAYN_45456 Number of predicted TMRs: 0
+KRQAYN_45456	signal	1	47				
+KRQAYN_45456	outside	48	49				
+//
+# KRQAYN_132830 Length: 46
+# KRQAYN_132830 Number of predicted TMRs: 0
+KRQAYN_132830	inside	1	46				
+//
+# KRQAYN_63204 Length: 50
+# KRQAYN_63204 Number of predicted TMRs: 0
+KRQAYN_63204	inside	1	50				
+//
+# KRQAYN_43610 Length: 47
+# KRQAYN_43610 Number of predicted TMRs: 0
+KRQAYN_43610	signal	1	45				
+KRQAYN_43610	outside	46	47				
+//
+# KRQAYN_75040 Length: 32
+# KRQAYN_75040 Number of predicted TMRs: 0
+KRQAYN_75040	inside	1	32				
+//
+# KRQAYN_3777 Length: 48
+# KRQAYN_3777 Number of predicted TMRs: 0
+KRQAYN_3777	inside	1	48				
+//
+# KRQAYN_132462 Length: 47
+# KRQAYN_132462 Number of predicted TMRs: 0
+KRQAYN_132462	inside	1	47				
+//
+# KRQAYN_67956 Length: 46
+# KRQAYN_67956 Number of predicted TMRs: 0
+KRQAYN_67956	signal	1	45				
+KRQAYN_67956	outside	46	46				
+//
+# KRQAYN_164491 Length: 42
+# KRQAYN_164491 Number of predicted TMRs: 0
+KRQAYN_164491	signal	1	40				
+KRQAYN_164491	outside	41	42				
+//
+# KRQAYN_22839 Length: 49
+# KRQAYN_22839 Number of predicted TMRs: 0
+KRQAYN_22839	inside	1	49				
+//
+# KRQAYN_137668 Length: 43
+# KRQAYN_137668 Number of predicted TMRs: 1
+KRQAYN_137668	inside	1	21				
+KRQAYN_137668	TMhelix	22	35				
+KRQAYN_137668	outside	36	43				
+//
+# KRQAYN_51536 Length: 41
+# KRQAYN_51536 Number of predicted TMRs: 0
+KRQAYN_51536	inside	1	41				
+//
+# KRQAYN_55299 Length: 45
+# KRQAYN_55299 Number of predicted TMRs: 0
+KRQAYN_55299	inside	1	45				
+//
+# KRQAYN_136918 Length: 50
+# KRQAYN_136918 Number of predicted TMRs: 0
+KRQAYN_136918	inside	1	50				
+//
+# KRQAYN_173814 Length: 50
+# KRQAYN_173814 Number of predicted TMRs: 0
+KRQAYN_173814	inside	1	50				
+//
+# KRQAYN_85959 Length: 44
+# KRQAYN_85959 Number of predicted TMRs: 0
+KRQAYN_85959	signal	1	29				
+KRQAYN_85959	outside	30	44				
+//
+# KRQAYN_20549 Length: 50
+# KRQAYN_20549 Number of predicted TMRs: 0
+KRQAYN_20549	inside	1	50				
+//
+# KRQAYN_87395 Length: 45
+# KRQAYN_87395 Number of predicted TMRs: 0
+KRQAYN_87395	inside	1	45				
+//
+# KRQAYN_55300 Length: 42
+# KRQAYN_55300 Number of predicted TMRs: 0
+KRQAYN_55300	signal	1	41				
+KRQAYN_55300	outside	42	42				
+//
+# KRQAYN_43614 Length: 50
+# KRQAYN_43614 Number of predicted TMRs: 0
+KRQAYN_43614	inside	1	50				
+//
+# KRQAYN_157655 Length: 48
+# KRQAYN_157655 Number of predicted TMRs: 0
+KRQAYN_157655	inside	1	48				
+//
+# KRQAYN_75565 Length: 47
+# KRQAYN_75565 Number of predicted TMRs: 0
+KRQAYN_75565	outside	1	47				
+//
+# KRQAYN_4146 Length: 44
+# KRQAYN_4146 Number of predicted TMRs: 0
+KRQAYN_4146	inside	1	44				
+//
+# KRQAYN_25232 Length: 38
+# KRQAYN_25232 Number of predicted TMRs: 0
+KRQAYN_25232	signal	1	27				
+KRQAYN_25232	outside	28	38				
+//
+# KRQAYN_84746 Length: 44
+# KRQAYN_84746 Number of predicted TMRs: 0
+KRQAYN_84746	inside	1	44				
+//
+# KRQAYN_101816 Length: 43
+# KRQAYN_101816 Number of predicted TMRs: 0
+KRQAYN_101816	inside	1	43				
+//
+# KRQAYN_65534 Length: 44
+# KRQAYN_65534 Number of predicted TMRs: 0
+KRQAYN_65534	signal	1	37				
+KRQAYN_65534	outside	38	44				
+//
+# KRQAYN_26428 Length: 47
+# KRQAYN_26428 Number of predicted TMRs: 0
+KRQAYN_26428	signal	1	15				
+KRQAYN_26428	outside	16	47				
+//
+# KRQAYN_143872 Length: 38
+# KRQAYN_143872 Number of predicted TMRs: 0
+KRQAYN_143872	signal	1	37				
+KRQAYN_143872	outside	38	38				
+//
+# KRQAYN_173488 Length: 48
+# KRQAYN_173488 Number of predicted TMRs: 0
+KRQAYN_173488	signal	1	39				
+KRQAYN_173488	outside	40	48				
+//
+# KRQAYN_146318 Length: 41
+# KRQAYN_146318 Number of predicted TMRs: 0
+KRQAYN_146318	signal	1	39				
+KRQAYN_146318	outside	40	41				
+//
+# KRQAYN_125513 Length: 42
+# KRQAYN_125513 Number of predicted TMRs: 0
+KRQAYN_125513	inside	1	42				
+//
+# KRQAYN_29629 Length: 49
+# KRQAYN_29629 Number of predicted TMRs: 0
+KRQAYN_29629	inside	1	49				
+//
+# KRQAYN_156743 Length: 46
+# KRQAYN_156743 Number of predicted TMRs: 0
+KRQAYN_156743	signal	1	45				
+KRQAYN_156743	outside	46	46				
+//
+# KRQAYN_101993 Length: 44
+# KRQAYN_101993 Number of predicted TMRs: 0
+KRQAYN_101993	inside	1	44				
+//
+# KRQAYN_81500 Length: 45
+# KRQAYN_81500 Number of predicted TMRs: 0
+KRQAYN_81500	inside	1	45				
+//
+# KRQAYN_43917 Length: 50
+# KRQAYN_43917 Number of predicted TMRs: 0
+KRQAYN_43917	inside	1	50				
+//
+# KRQAYN_90089 Length: 49
+# KRQAYN_90089 Number of predicted TMRs: 0
+KRQAYN_90089	inside	1	49				
+//
+# KRQAYN_26662 Length: 44
+# KRQAYN_26662 Number of predicted TMRs: 0
+KRQAYN_26662	signal	1	43				
+KRQAYN_26662	outside	44	44				
+//
+# KRQAYN_60255 Length: 38
+# KRQAYN_60255 Number of predicted TMRs: 0
+KRQAYN_60255	signal	1	10				
+KRQAYN_60255	outside	11	38				
+//
+# KRQAYN_22196 Length: 37
+# KRQAYN_22196 Number of predicted TMRs: 0
+KRQAYN_22196	signal	1	18				
+KRQAYN_22196	outside	19	37				
+//
+# KRQAYN_120189 Length: 34
+# KRQAYN_120189 Number of predicted TMRs: 0
+KRQAYN_120189	inside	1	34				
+//
+# KRQAYN_136376 Length: 49
+# KRQAYN_136376 Number of predicted TMRs: 0
+KRQAYN_136376	inside	1	49				
+//
+# KRQAYN_3633 Length: 46
+# KRQAYN_3633 Number of predicted TMRs: 0
+KRQAYN_3633	inside	1	46				
+//
+# KRQAYN_13170 Length: 38
+# KRQAYN_13170 Number of predicted TMRs: 0
+KRQAYN_13170	signal	1	26				
+KRQAYN_13170	outside	27	38				
+//
+# KRQAYN_139646 Length: 49
+# KRQAYN_139646 Number of predicted TMRs: 0
+KRQAYN_139646	inside	1	49				
+//
+# KRQAYN_53584 Length: 35
+# KRQAYN_53584 Number of predicted TMRs: 0
+KRQAYN_53584	signal	1	34				
+KRQAYN_53584	outside	35	35				
+//
+# KRQAYN_21902 Length: 47
+# KRQAYN_21902 Number of predicted TMRs: 0
+KRQAYN_21902	signal	1	44				
+KRQAYN_21902	outside	45	47				
+//
+# KRQAYN_143676 Length: 46
+# KRQAYN_143676 Number of predicted TMRs: 0
+KRQAYN_143676	signal	1	12				
+KRQAYN_143676	outside	13	46				
+//
+# KRQAYN_169228 Length: 43
+# KRQAYN_169228 Number of predicted TMRs: 0
+KRQAYN_169228	signal	1	42				
+KRQAYN_169228	outside	43	43				
+//
+# KRQAYN_124007 Length: 43
+# KRQAYN_124007 Number of predicted TMRs: 0
+KRQAYN_124007	signal	1	36				
+KRQAYN_124007	outside	37	43				
+//
+# KRQAYN_31872 Length: 48
+# KRQAYN_31872 Number of predicted TMRs: 0
+KRQAYN_31872	signal	1	47				
+KRQAYN_31872	outside	48	48				
+//
+# KRQAYN_128309 Length: 40
+# KRQAYN_128309 Number of predicted TMRs: 0
+KRQAYN_128309	inside	1	40				
+//
+# KRQAYN_4157 Length: 39
+# KRQAYN_4157 Number of predicted TMRs: 0
+KRQAYN_4157	signal	1	37				
+KRQAYN_4157	outside	38	39				
+//
+# KRQAYN_46143 Length: 45
+# KRQAYN_46143 Number of predicted TMRs: 0
+KRQAYN_46143	signal	1	17				
+KRQAYN_46143	outside	18	45				
+//
+# KRQAYN_100879 Length: 37
+# KRQAYN_100879 Number of predicted TMRs: 0
+KRQAYN_100879	signal	1	25				
+KRQAYN_100879	outside	26	37				
+//
+# KRQAYN_80535 Length: 49
+# KRQAYN_80535 Number of predicted TMRs: 0
+KRQAYN_80535	signal	1	48				
+KRQAYN_80535	outside	49	49				
+//
+# KRQAYN_127248 Length: 42
+# KRQAYN_127248 Number of predicted TMRs: 0
+KRQAYN_127248	inside	1	42				
+//
+# KRQAYN_83518 Length: 48
+# KRQAYN_83518 Number of predicted TMRs: 0
+KRQAYN_83518	signal	1	32				
+KRQAYN_83518	outside	33	48				
+//
+# KRQAYN_152492 Length: 43
+# KRQAYN_152492 Number of predicted TMRs: 0
+KRQAYN_152492	signal	1	10				
+KRQAYN_152492	outside	11	43				
+//
+# KRQAYN_133326 Length: 45
+# KRQAYN_133326 Number of predicted TMRs: 0
+KRQAYN_133326	inside	1	45				
+//
+# KRQAYN_45442 Length: 33
+# KRQAYN_45442 Number of predicted TMRs: 0
+KRQAYN_45442	signal	1	25				
+KRQAYN_45442	outside	26	33				
+//
+# KRQAYN_31780 Length: 48
+# KRQAYN_31780 Number of predicted TMRs: 0
+KRQAYN_31780	signal	1	21				
+KRQAYN_31780	outside	22	48				
+//
+# KRQAYN_50150 Length: 48
+# KRQAYN_50150 Number of predicted TMRs: 0
+KRQAYN_50150	inside	1	48				
+//
+# KRQAYN_21704 Length: 42
+# KRQAYN_21704 Number of predicted TMRs: 0
+KRQAYN_21704	inside	1	42				
+//
+# KRQAYN_80374 Length: 44
+# KRQAYN_80374 Number of predicted TMRs: 0
+KRQAYN_80374	signal	1	32				
+KRQAYN_80374	outside	33	44				
+//
+# KRQAYN_80384 Length: 49
+# KRQAYN_80384 Number of predicted TMRs: 1
+KRQAYN_80384	outside	1	4				
+KRQAYN_80384	TMhelix	5	19				
+KRQAYN_80384	inside	20	49				
+//
+# KRQAYN_88073 Length: 39
+# KRQAYN_88073 Number of predicted TMRs: 0
+KRQAYN_88073	inside	1	39				
+//
+# KRQAYN_139226 Length: 39
+# KRQAYN_139226 Number of predicted TMRs: 0
+KRQAYN_139226	signal	1	20				
+KRQAYN_139226	outside	21	39				
+//
+# KRQAYN_120550 Length: 50
+# KRQAYN_120550 Number of predicted TMRs: 0
+KRQAYN_120550	inside	1	50				
+//
+# KRQAYN_78949 Length: 49
+# KRQAYN_78949 Number of predicted TMRs: 0
+KRQAYN_78949	signal	1	47				
+KRQAYN_78949	outside	48	49				
+//
+# KRQAYN_71831 Length: 46
+# KRQAYN_71831 Number of predicted TMRs: 0
+KRQAYN_71831	inside	1	46				
+//
+# KRQAYN_139078 Length: 46
+# KRQAYN_139078 Number of predicted TMRs: 0
+KRQAYN_139078	inside	1	46				
+//
+# KRQAYN_74936 Length: 42
+# KRQAYN_74936 Number of predicted TMRs: 0
+KRQAYN_74936	signal	1	38				
+KRQAYN_74936	outside	39	42				
+//
+# KRQAYN_99933 Length: 40
+# KRQAYN_99933 Number of predicted TMRs: 0
+KRQAYN_99933	signal	1	39				
+KRQAYN_99933	outside	40	40				
+//
+# KRQAYN_59760 Length: 44
+# KRQAYN_59760 Number of predicted TMRs: 0
+KRQAYN_59760	inside	1	44				
+//
+# KRQAYN_31886 Length: 40
+# KRQAYN_31886 Number of predicted TMRs: 0
+KRQAYN_31886	signal	1	28				
+KRQAYN_31886	outside	29	40				
+//
+# KRQAYN_88787 Length: 40
+# KRQAYN_88787 Number of predicted TMRs: 0
+KRQAYN_88787	signal	1	38				
+KRQAYN_88787	outside	39	40				
+//
+# KRQAYN_136053 Length: 49
+# KRQAYN_136053 Number of predicted TMRs: 0
+KRQAYN_136053	inside	1	49				
+//
+# KRQAYN_147928 Length: 45
+# KRQAYN_147928 Number of predicted TMRs: 0
+KRQAYN_147928	inside	1	45				
+//
+# KRQAYN_164397 Length: 50
+# KRQAYN_164397 Number of predicted TMRs: 0
+KRQAYN_164397	signal	1	30				
+KRQAYN_164397	outside	31	50				
+//
+# KRQAYN_92147 Length: 45
+# KRQAYN_92147 Number of predicted TMRs: 0
+KRQAYN_92147	signal	1	26				
+KRQAYN_92147	outside	27	45				
+//
+# KRQAYN_119693 Length: 44
+# KRQAYN_119693 Number of predicted TMRs: 0
+KRQAYN_119693	inside	1	44				
+//
+# KRQAYN_22939 Length: 39
+# KRQAYN_22939 Number of predicted TMRs: 0
+KRQAYN_22939	inside	1	39				
+//
+# KRQAYN_127391 Length: 42
+# KRQAYN_127391 Number of predicted TMRs: 0
+KRQAYN_127391	signal	1	39				
+KRQAYN_127391	outside	40	42				
+//
+# KRQAYN_57930 Length: 50
+# KRQAYN_57930 Number of predicted TMRs: 0
+KRQAYN_57930	inside	1	50				
+//
+# KRQAYN_15706 Length: 48
+# KRQAYN_15706 Number of predicted TMRs: 0
+KRQAYN_15706	inside	1	48				
+//
+# KRQAYN_82424 Length: 45
+# KRQAYN_82424 Number of predicted TMRs: 0
+KRQAYN_82424	inside	1	45				
+//
+# KRQAYN_171029 Length: 48
+# KRQAYN_171029 Number of predicted TMRs: 0
+KRQAYN_171029	inside	1	48				
+//
+# KRQAYN_140963 Length: 46
+# KRQAYN_140963 Number of predicted TMRs: 0
+KRQAYN_140963	inside	1	46				
+//
+# KRQAYN_46067 Length: 45
+# KRQAYN_46067 Number of predicted TMRs: 0
+KRQAYN_46067	inside	1	45				
+//
+# KRQAYN_94259 Length: 46
+# KRQAYN_94259 Number of predicted TMRs: 0
+KRQAYN_94259	signal	1	39				
+KRQAYN_94259	outside	40	46				
+//
+# KRQAYN_20028 Length: 48
+# KRQAYN_20028 Number of predicted TMRs: 0
+KRQAYN_20028	signal	1	28				
+KRQAYN_20028	outside	29	48				
+//
+# KRQAYN_90241 Length: 44
+# KRQAYN_90241 Number of predicted TMRs: 0
+KRQAYN_90241	signal	1	19				
+KRQAYN_90241	outside	20	44				
+//
+# KRQAYN_112283 Length: 46
+# KRQAYN_112283 Number of predicted TMRs: 0
+KRQAYN_112283	inside	1	46				
+//
+# KRQAYN_35752 Length: 45
+# KRQAYN_35752 Number of predicted TMRs: 0
+KRQAYN_35752	inside	1	45				
+//
+# KRQAYN_15345 Length: 48
+# KRQAYN_15345 Number of predicted TMRs: 0
+KRQAYN_15345	inside	1	48				
+//
+# KRQAYN_65916 Length: 48
+# KRQAYN_65916 Number of predicted TMRs: 0
+KRQAYN_65916	inside	1	48				
+//
+# KRQAYN_69572 Length: 45
+# KRQAYN_69572 Number of predicted TMRs: 0
+KRQAYN_69572	inside	1	45				
+//
+# KRQAYN_69569 Length: 47
+# KRQAYN_69569 Number of predicted TMRs: 0
+KRQAYN_69569	signal	1	39				
+KRQAYN_69569	outside	40	47				
+//
+# KRQAYN_19546 Length: 40
+# KRQAYN_19546 Number of predicted TMRs: 0
+KRQAYN_19546	signal	1	34				
+KRQAYN_19546	outside	35	40				
+//
+# KRQAYN_143883 Length: 41
+# KRQAYN_143883 Number of predicted TMRs: 0
+KRQAYN_143883	signal	1	38				
+KRQAYN_143883	outside	39	41				
+//
+# KRQAYN_23993 Length: 50
+# KRQAYN_23993 Number of predicted TMRs: 0
+KRQAYN_23993	inside	1	50				
+//
+# KRQAYN_48439 Length: 50
+# KRQAYN_48439 Number of predicted TMRs: 0
+KRQAYN_48439	inside	1	50				
+//
+# KRQAYN_122262 Length: 48
+# KRQAYN_122262 Number of predicted TMRs: 0
+KRQAYN_122262	inside	1	48				
+//
+# KRQAYN_145416 Length: 38
+# KRQAYN_145416 Number of predicted TMRs: 0
+KRQAYN_145416	signal	1	33				
+KRQAYN_145416	outside	34	38				
+//
+# KRQAYN_130673 Length: 36
+# KRQAYN_130673 Number of predicted TMRs: 0
+KRQAYN_130673	signal	1	18				
+KRQAYN_130673	outside	19	36				
+//
+# KRQAYN_105627 Length: 36
+# KRQAYN_105627 Number of predicted TMRs: 0
+KRQAYN_105627	inside	1	36				
+//
+# KRQAYN_33735 Length: 50
+# KRQAYN_33735 Number of predicted TMRs: 0
+KRQAYN_33735	inside	1	50				
+//
+# KRQAYN_169905 Length: 37
+# KRQAYN_169905 Number of predicted TMRs: 0
+KRQAYN_169905	signal	1	22				
+KRQAYN_169905	outside	23	37				
+//
+# KRQAYN_1098 Length: 43
+# KRQAYN_1098 Number of predicted TMRs: 0
+KRQAYN_1098	inside	1	43				
+//
+# KRQAYN_87770 Length: 43
+# KRQAYN_87770 Number of predicted TMRs: 0
+KRQAYN_87770	inside	1	43				
+//
+# KRQAYN_118305 Length: 48
+# KRQAYN_118305 Number of predicted TMRs: 0
+KRQAYN_118305	inside	1	48				
+//
+# KRQAYN_81583 Length: 49
+# KRQAYN_81583 Number of predicted TMRs: 0
+KRQAYN_81583	signal	1	32				
+KRQAYN_81583	outside	33	49				
+//
+# KRQAYN_111682 Length: 47
+# KRQAYN_111682 Number of predicted TMRs: 0
+KRQAYN_111682	inside	1	47				
+//
+# KRQAYN_61332 Length: 46
+# KRQAYN_61332 Number of predicted TMRs: 0
+KRQAYN_61332	signal	1	34				
+KRQAYN_61332	outside	35	46				
+//
+# KRQAYN_115903 Length: 46
+# KRQAYN_115903 Number of predicted TMRs: 0
+KRQAYN_115903	inside	1	46				
+//
+# KRQAYN_148669 Length: 49
+# KRQAYN_148669 Number of predicted TMRs: 1
+KRQAYN_148669	inside	1	26				
+KRQAYN_148669	TMhelix	27	46				
+KRQAYN_148669	outside	47	49				
+//
+# KRQAYN_21779 Length: 49
+# KRQAYN_21779 Number of predicted TMRs: 0
+KRQAYN_21779	signal	1	47				
+KRQAYN_21779	outside	48	49				
+//
+# KRQAYN_174575 Length: 46
+# KRQAYN_174575 Number of predicted TMRs: 0
+KRQAYN_174575	inside	1	46				
+//
+# KRQAYN_172847 Length: 37
+# KRQAYN_172847 Number of predicted TMRs: 0
+KRQAYN_172847	inside	1	37				
+//
+# KRQAYN_166274 Length: 47
+# KRQAYN_166274 Number of predicted TMRs: 0
+KRQAYN_166274	inside	1	47				
+//
+# KRQAYN_110570 Length: 49
+# KRQAYN_110570 Number of predicted TMRs: 0
+KRQAYN_110570	signal	1	47				
+KRQAYN_110570	outside	48	49				
+//
+# KRQAYN_129484 Length: 42
+# KRQAYN_129484 Number of predicted TMRs: 0
+KRQAYN_129484	inside	1	42				
+//
+# KRQAYN_6895 Length: 39
+# KRQAYN_6895 Number of predicted TMRs: 0
+KRQAYN_6895	inside	1	39				
+//
+# KRQAYN_170923 Length: 40
+# KRQAYN_170923 Number of predicted TMRs: 0
+KRQAYN_170923	signal	1	24				
+KRQAYN_170923	outside	25	40				
+//
+# KRQAYN_93160 Length: 30
+# KRQAYN_93160 Number of predicted TMRs: 0
+KRQAYN_93160	signal	1	24				
+KRQAYN_93160	outside	25	30				
+//
+# KRQAYN_144077 Length: 42
+# KRQAYN_144077 Number of predicted TMRs: 0
+KRQAYN_144077	inside	1	42				
+//
+# KRQAYN_16382 Length: 49
+# KRQAYN_16382 Number of predicted TMRs: 0
+KRQAYN_16382	inside	1	49				
+//
+# KRQAYN_149998 Length: 43
+# KRQAYN_149998 Number of predicted TMRs: 0
+KRQAYN_149998	inside	1	43				
+//
+# KRQAYN_31719 Length: 40
+# KRQAYN_31719 Number of predicted TMRs: 0
+KRQAYN_31719	signal	1	39				
+KRQAYN_31719	outside	40	40				
+//
+# KRQAYN_122315 Length: 33
+# KRQAYN_122315 Number of predicted TMRs: 0
+KRQAYN_122315	signal	1	30				
+KRQAYN_122315	outside	31	33				
+//
+# KRQAYN_120057 Length: 45
+# KRQAYN_120057 Number of predicted TMRs: 0
+KRQAYN_120057	inside	1	45				
+//
+# KRQAYN_102011 Length: 43
+# KRQAYN_102011 Number of predicted TMRs: 0
+KRQAYN_102011	inside	1	43				
+//
+# KRQAYN_82135 Length: 42
+# KRQAYN_82135 Number of predicted TMRs: 0
+KRQAYN_82135	signal	1	28				
+KRQAYN_82135	outside	29	42				
+//
+# KRQAYN_170078 Length: 45
+# KRQAYN_170078 Number of predicted TMRs: 0
+KRQAYN_170078	inside	1	45				
+//
+# KRQAYN_43179 Length: 46
+# KRQAYN_43179 Number of predicted TMRs: 1
+KRQAYN_43179	signal	1	10				
+KRQAYN_43179	outside	11	11				
+KRQAYN_43179	TMhelix	12	25				
+KRQAYN_43179	inside	26	46				
+//
+# KRQAYN_142142 Length: 46
+# KRQAYN_142142 Number of predicted TMRs: 0
+KRQAYN_142142	inside	1	46				
+//
+# KRQAYN_2069 Length: 50
+# KRQAYN_2069 Number of predicted TMRs: 0
+KRQAYN_2069	inside	1	50				
+//
+# KRQAYN_71408 Length: 37
+# KRQAYN_71408 Number of predicted TMRs: 0
+KRQAYN_71408	signal	1	16				
+KRQAYN_71408	outside	17	37				
+//
+# KRQAYN_140675 Length: 50
+# KRQAYN_140675 Number of predicted TMRs: 0
+KRQAYN_140675	outside	1	50				
+//
+# KRQAYN_32373 Length: 44
+# KRQAYN_32373 Number of predicted TMRs: 0
+KRQAYN_32373	inside	1	44				
+//
+# KRQAYN_110968 Length: 43
+# KRQAYN_110968 Number of predicted TMRs: 0
+KRQAYN_110968	signal	1	32				
+KRQAYN_110968	outside	33	43				
+//
+# KRQAYN_165332 Length: 45
+# KRQAYN_165332 Number of predicted TMRs: 0
+KRQAYN_165332	outside	1	45				
+//
+# KRQAYN_142010 Length: 48
+# KRQAYN_142010 Number of predicted TMRs: 0
+KRQAYN_142010	inside	1	48				
+//
+# KRQAYN_2043 Length: 50
+# KRQAYN_2043 Number of predicted TMRs: 0
+KRQAYN_2043	inside	1	50				
+//
+# KRQAYN_165440 Length: 42
+# KRQAYN_165440 Number of predicted TMRs: 0
+KRQAYN_165440	inside	1	42				
+//
+# KRQAYN_170043 Length: 46
+# KRQAYN_170043 Number of predicted TMRs: 0
+KRQAYN_170043	inside	1	46				
+//
+# KRQAYN_77467 Length: 37
+# KRQAYN_77467 Number of predicted TMRs: 0
+KRQAYN_77467	inside	1	37				
+//
+# KRQAYN_86282 Length: 42
+# KRQAYN_86282 Number of predicted TMRs: 0
+KRQAYN_86282	inside	1	42				
+//
+# KRQAYN_163385 Length: 39
+# KRQAYN_163385 Number of predicted TMRs: 0
+KRQAYN_163385	signal	1	17				
+KRQAYN_163385	outside	18	39				
+//
+# KRQAYN_84724 Length: 48
+# KRQAYN_84724 Number of predicted TMRs: 0
+KRQAYN_84724	signal	1	17				
+KRQAYN_84724	outside	18	48				
+//
+# KRQAYN_131571 Length: 46
+# KRQAYN_131571 Number of predicted TMRs: 0
+KRQAYN_131571	signal	1	31				
+KRQAYN_131571	outside	32	46				
+//
+# KRQAYN_132244 Length: 44
+# KRQAYN_132244 Number of predicted TMRs: 0
+KRQAYN_132244	inside	1	44				
+//
+# KRQAYN_92732 Length: 49
+# KRQAYN_92732 Number of predicted TMRs: 0
+KRQAYN_92732	signal	1	33				
+KRQAYN_92732	outside	34	49				
+//
+# KRQAYN_59962 Length: 41
+# KRQAYN_59962 Number of predicted TMRs: 0
+KRQAYN_59962	signal	1	13				
+KRQAYN_59962	outside	14	41				
+//
+# KRQAYN_43454 Length: 40
+# KRQAYN_43454 Number of predicted TMRs: 0
+KRQAYN_43454	inside	1	40				
+//
+# KRQAYN_151238 Length: 49
+# KRQAYN_151238 Number of predicted TMRs: 0
+KRQAYN_151238	signal	1	18				
+KRQAYN_151238	outside	19	49				
+//
+# KRQAYN_111542 Length: 48
+# KRQAYN_111542 Number of predicted TMRs: 0
+KRQAYN_111542	signal	1	18				
+KRQAYN_111542	outside	19	48				
+//
+# KRQAYN_118551 Length: 47
+# KRQAYN_118551 Number of predicted TMRs: 0
+KRQAYN_118551	inside	1	47				
+//
+# KRQAYN_117057 Length: 50
+# KRQAYN_117057 Number of predicted TMRs: 0
+KRQAYN_117057	inside	1	50				
+//
+# KRQAYN_171773 Length: 40
+# KRQAYN_171773 Number of predicted TMRs: 0
+KRQAYN_171773	signal	1	28				
+KRQAYN_171773	outside	29	40				
+//
+# KRQAYN_121624 Length: 43
+# KRQAYN_121624 Number of predicted TMRs: 0
+KRQAYN_121624	signal	1	23				
+KRQAYN_121624	outside	24	43				
+//
+# KRQAYN_41907 Length: 49
+# KRQAYN_41907 Number of predicted TMRs: 0
+KRQAYN_41907	inside	1	49				
+//
+# KRQAYN_33796 Length: 43
+# KRQAYN_33796 Number of predicted TMRs: 1
+KRQAYN_33796	outside	1	9				
+KRQAYN_33796	TMhelix	10	30				
+KRQAYN_33796	inside	31	43				
+//
+# KRQAYN_132584 Length: 41
+# KRQAYN_132584 Number of predicted TMRs: 0
+KRQAYN_132584	signal	1	13				
+KRQAYN_132584	outside	14	41				
+//
+# KRQAYN_148689 Length: 46
+# KRQAYN_148689 Number of predicted TMRs: 0
+KRQAYN_148689	inside	1	46				
+//
+# KRQAYN_170435 Length: 39
+# KRQAYN_170435 Number of predicted TMRs: 0
+KRQAYN_170435	inside	1	39				
+//
+# KRQAYN_129854 Length: 49
+# KRQAYN_129854 Number of predicted TMRs: 0
+KRQAYN_129854	inside	1	49				
+//
+# KRQAYN_161802 Length: 44
+# KRQAYN_161802 Number of predicted TMRs: 0
+KRQAYN_161802	inside	1	44				
+//
+# KRQAYN_32708 Length: 45
+# KRQAYN_32708 Number of predicted TMRs: 0
+KRQAYN_32708	signal	1	41				
+KRQAYN_32708	outside	42	45				
+//
+# KRQAYN_66185 Length: 45
+# KRQAYN_66185 Number of predicted TMRs: 0
+KRQAYN_66185	inside	1	45				
+//
+# KRQAYN_31589 Length: 43
+# KRQAYN_31589 Number of predicted TMRs: 0
+KRQAYN_31589	signal	1	20				
+KRQAYN_31589	outside	21	43				
+//
+# KRQAYN_88093 Length: 37
+# KRQAYN_88093 Number of predicted TMRs: 1
+KRQAYN_88093	outside	1	6				
+KRQAYN_88093	TMhelix	7	25				
+KRQAYN_88093	inside	26	37				
+//
+# KRQAYN_33913 Length: 50
+# KRQAYN_33913 Number of predicted TMRs: 0
+KRQAYN_33913	inside	1	50				
+//
+# KRQAYN_69937 Length: 48
+# KRQAYN_69937 Number of predicted TMRs: 0
+KRQAYN_69937	outside	1	48				
+//
+# KRQAYN_122505 Length: 39
+# KRQAYN_122505 Number of predicted TMRs: 0
+KRQAYN_122505	inside	1	39				
+//
+# KRQAYN_105148 Length: 47
+# KRQAYN_105148 Number of predicted TMRs: 0
+KRQAYN_105148	signal	1	21				
+KRQAYN_105148	outside	22	47				
+//
+# KRQAYN_172709 Length: 46
+# KRQAYN_172709 Number of predicted TMRs: 0
+KRQAYN_172709	inside	1	46				
+//
+# KRQAYN_95402 Length: 48
+# KRQAYN_95402 Number of predicted TMRs: 0
+KRQAYN_95402	inside	1	48				
+//
+# KRQAYN_62638 Length: 45
+# KRQAYN_62638 Number of predicted TMRs: 0
+KRQAYN_62638	inside	1	45				
+//
+# KRQAYN_24658 Length: 44
+# KRQAYN_24658 Number of predicted TMRs: 0
+KRQAYN_24658	inside	1	44				
+//
+# KRQAYN_134038 Length: 46
+# KRQAYN_134038 Number of predicted TMRs: 0
+KRQAYN_134038	inside	1	46				
+//
+# KRQAYN_112912 Length: 50
+# KRQAYN_112912 Number of predicted TMRs: 0
+KRQAYN_112912	signal	1	49				
+KRQAYN_112912	outside	50	50				
+//
+# KRQAYN_21086 Length: 49
+# KRQAYN_21086 Number of predicted TMRs: 0
+KRQAYN_21086	inside	1	49				
+//
+# KRQAYN_130095 Length: 38
+# KRQAYN_130095 Number of predicted TMRs: 0
+KRQAYN_130095	signal	1	37				
+KRQAYN_130095	outside	38	38				
+//
+# KRQAYN_124558 Length: 50
+# KRQAYN_124558 Number of predicted TMRs: 0
+KRQAYN_124558	inside	1	50				
+//
+# KRQAYN_48729 Length: 49
+# KRQAYN_48729 Number of predicted TMRs: 0
+KRQAYN_48729	inside	1	49				
+//
+# KRQAYN_31721 Length: 49
+# KRQAYN_31721 Number of predicted TMRs: 0
+KRQAYN_31721	signal	1	26				
+KRQAYN_31721	outside	27	49				
+//
+# KRQAYN_42906 Length: 49
+# KRQAYN_42906 Number of predicted TMRs: 0
+KRQAYN_42906	inside	1	49				
+//
+# KRQAYN_110624 Length: 49
+# KRQAYN_110624 Number of predicted TMRs: 0
+KRQAYN_110624	inside	1	49				
+//
+# KRQAYN_23075 Length: 41
+# KRQAYN_23075 Number of predicted TMRs: 0
+KRQAYN_23075	inside	1	41				
+//
+# KRQAYN_117641 Length: 40
+# KRQAYN_117641 Number of predicted TMRs: 0
+KRQAYN_117641	signal	1	37				
+KRQAYN_117641	outside	38	40				
+//
+# KRQAYN_157576 Length: 42
+# KRQAYN_157576 Number of predicted TMRs: 0
+KRQAYN_157576	signal	1	41				
+KRQAYN_157576	periplasm	42	42				
+//
+# KRQAYN_142698 Length: 44
+# KRQAYN_142698 Number of predicted TMRs: 0
+KRQAYN_142698	inside	1	44				
+//
+# KRQAYN_116767 Length: 49
+# KRQAYN_116767 Number of predicted TMRs: 0
+KRQAYN_116767	signal	1	12				
+KRQAYN_116767	outside	13	49				
+//
+# KRQAYN_29123 Length: 44
+# KRQAYN_29123 Number of predicted TMRs: 0
+KRQAYN_29123	signal	1	24				
+KRQAYN_29123	outside	25	44				
+//
+# KRQAYN_94729 Length: 43
+# KRQAYN_94729 Number of predicted TMRs: 0
+KRQAYN_94729	inside	1	43				
+//
+# KRQAYN_82134 Length: 47
+# KRQAYN_82134 Number of predicted TMRs: 0
+KRQAYN_82134	signal	1	40				
+KRQAYN_82134	outside	41	47				
+//
+# KRQAYN_88590 Length: 45
+# KRQAYN_88590 Number of predicted TMRs: 0
+KRQAYN_88590	signal	1	29				
+KRQAYN_88590	outside	30	45				
+//
+# KRQAYN_19634 Length: 38
+# KRQAYN_19634 Number of predicted TMRs: 0
+KRQAYN_19634	inside	1	38				
+//
+# KRQAYN_157677 Length: 50
+# KRQAYN_157677 Number of predicted TMRs: 0
+KRQAYN_157677	inside	1	50				
+//
+# KRQAYN_147991 Length: 41
+# KRQAYN_147991 Number of predicted TMRs: 0
+KRQAYN_147991	signal	1	38				
+KRQAYN_147991	outside	39	41				
+//
+# KRQAYN_24155 Length: 40
+# KRQAYN_24155 Number of predicted TMRs: 0
+KRQAYN_24155	signal	1	38				
+KRQAYN_24155	outside	39	40				
+//
+# KRQAYN_67572 Length: 45
+# KRQAYN_67572 Number of predicted TMRs: 0
+KRQAYN_67572	inside	1	45				
+//
+# KRQAYN_110288 Length: 43
+# KRQAYN_110288 Number of predicted TMRs: 0
+KRQAYN_110288	inside	1	43				
+//
+# KRQAYN_172428 Length: 42
+# KRQAYN_172428 Number of predicted TMRs: 0
+KRQAYN_172428	inside	1	42				
+//
+# KRQAYN_145449 Length: 44
+# KRQAYN_145449 Number of predicted TMRs: 0
+KRQAYN_145449	signal	1	33				
+KRQAYN_145449	outside	34	44				
+//
+# KRQAYN_120112 Length: 43
+# KRQAYN_120112 Number of predicted TMRs: 0
+KRQAYN_120112	signal	1	37				
+KRQAYN_120112	outside	38	43				
+//
+# KRQAYN_172937 Length: 48
+# KRQAYN_172937 Number of predicted TMRs: 0
+KRQAYN_172937	inside	1	48				
+//
+# KRQAYN_114872 Length: 38
+# KRQAYN_114872 Number of predicted TMRs: 0
+KRQAYN_114872	signal	1	20				
+KRQAYN_114872	outside	21	38				
+//
+# KRQAYN_66195 Length: 48
+# KRQAYN_66195 Number of predicted TMRs: 0
+KRQAYN_66195	inside	1	48				
+//
+# KRQAYN_105585 Length: 43
+# KRQAYN_105585 Number of predicted TMRs: 0
+KRQAYN_105585	outside	1	43				
+//
+# KRQAYN_24722 Length: 49
+# KRQAYN_24722 Number of predicted TMRs: 0
+KRQAYN_24722	inside	1	49				
+//
+# KRQAYN_14702 Length: 47
+# KRQAYN_14702 Number of predicted TMRs: 0
+KRQAYN_14702	signal	1	19				
+KRQAYN_14702	outside	20	47				
+//
+# KRQAYN_111075 Length: 41
+# KRQAYN_111075 Number of predicted TMRs: 0
+KRQAYN_111075	signal	1	29				
+KRQAYN_111075	outside	30	41				
+//
+# KRQAYN_127133 Length: 41
+# KRQAYN_127133 Number of predicted TMRs: 0
+KRQAYN_127133	inside	1	41				
+//
+# KRQAYN_20236 Length: 45
+# KRQAYN_20236 Number of predicted TMRs: 0
+KRQAYN_20236	inside	1	45				
+//
+# KRQAYN_61922 Length: 46
+# KRQAYN_61922 Number of predicted TMRs: 0
+KRQAYN_61922	inside	1	46				
+//
+# KRQAYN_136809 Length: 41
+# KRQAYN_136809 Number of predicted TMRs: 0
+KRQAYN_136809	inside	1	41				
+//
+# KRQAYN_118345 Length: 49
+# KRQAYN_118345 Number of predicted TMRs: 0
+KRQAYN_118345	inside	1	49				
+//
+# KRQAYN_79826 Length: 49
+# KRQAYN_79826 Number of predicted TMRs: 0
+KRQAYN_79826	inside	1	49				
+//
+# KRQAYN_79809 Length: 48
+# KRQAYN_79809 Number of predicted TMRs: 0
+KRQAYN_79809	inside	1	48				
+//
+# KRQAYN_79827 Length: 45
+# KRQAYN_79827 Number of predicted TMRs: 0
+KRQAYN_79827	inside	1	45				
+//
+# KRQAYN_123869 Length: 39
+# KRQAYN_123869 Number of predicted TMRs: 0
+KRQAYN_123869	inside	1	39				
+//
+# KRQAYN_125755 Length: 39
+# KRQAYN_125755 Number of predicted TMRs: 0
+KRQAYN_125755	outside	1	39				
+//
+# KRQAYN_39254 Length: 48
+# KRQAYN_39254 Number of predicted TMRs: 0
+KRQAYN_39254	inside	1	48				
+//
+# KRQAYN_58125 Length: 39
+# KRQAYN_58125 Number of predicted TMRs: 0
+KRQAYN_58125	inside	1	39				
+//
+# KRQAYN_140481 Length: 47
+# KRQAYN_140481 Number of predicted TMRs: 0
+KRQAYN_140481	inside	1	47				
+//
+# KRQAYN_93864 Length: 44
+# KRQAYN_93864 Number of predicted TMRs: 0
+KRQAYN_93864	outside	1	44				
+//
+# KRQAYN_41480 Length: 28
+# KRQAYN_41480 Number of predicted TMRs: 0
+KRQAYN_41480	inside	1	28				
+//
+# KRQAYN_15842 Length: 48
+# KRQAYN_15842 Number of predicted TMRs: 0
+KRQAYN_15842	signal	1	10				
+KRQAYN_15842	outside	11	48				
+//
+# KRQAYN_147989 Length: 35
+# KRQAYN_147989 Number of predicted TMRs: 0
+KRQAYN_147989	inside	1	35				
+//
+# KRQAYN_45095 Length: 49
+# KRQAYN_45095 Number of predicted TMRs: 0
+KRQAYN_45095	inside	1	49				
+//
+# KRQAYN_100545 Length: 37
+# KRQAYN_100545 Number of predicted TMRs: 0
+KRQAYN_100545	inside	1	37				
+//
+# KRQAYN_6022 Length: 48
+# KRQAYN_6022 Number of predicted TMRs: 0
+KRQAYN_6022	inside	1	48				
+//
+# KRQAYN_15700 Length: 47
+# KRQAYN_15700 Number of predicted TMRs: 0
+KRQAYN_15700	inside	1	47				
+//
+# KRQAYN_14143 Length: 43
+# KRQAYN_14143 Number of predicted TMRs: 0
+KRQAYN_14143	inside	1	43				
+//
+# KRQAYN_132258 Length: 43
+# KRQAYN_132258 Number of predicted TMRs: 0
+KRQAYN_132258	inside	1	43				
+//
+# KRQAYN_15113 Length: 43
+# KRQAYN_15113 Number of predicted TMRs: 0
+KRQAYN_15113	inside	1	43				
+//
+# KRQAYN_50706 Length: 49
+# KRQAYN_50706 Number of predicted TMRs: 0
+KRQAYN_50706	signal	1	47				
+KRQAYN_50706	outside	48	49				
+//
+# KRQAYN_41429 Length: 47
+# KRQAYN_41429 Number of predicted TMRs: 0
+KRQAYN_41429	inside	1	47				
+//
+# KRQAYN_37362 Length: 45
+# KRQAYN_37362 Number of predicted TMRs: 0
+KRQAYN_37362	signal	1	23				
+KRQAYN_37362	outside	24	45				
+//
+# KRQAYN_15409 Length: 49
+# KRQAYN_15409 Number of predicted TMRs: 0
+KRQAYN_15409	inside	1	49				
+//
+# KRQAYN_122309 Length: 37
+# KRQAYN_122309 Number of predicted TMRs: 0
+KRQAYN_122309	signal	1	25				
+KRQAYN_122309	outside	26	37				
+//
+# KRQAYN_137332 Length: 39
+# KRQAYN_137332 Number of predicted TMRs: 0
+KRQAYN_137332	signal	1	10				
+KRQAYN_137332	outside	11	39				
+//
+# KRQAYN_37355 Length: 39
+# KRQAYN_37355 Number of predicted TMRs: 0
+KRQAYN_37355	signal	1	35				
+KRQAYN_37355	outside	36	39				
+//
+# KRQAYN_83387 Length: 49
+# KRQAYN_83387 Number of predicted TMRs: 0
+KRQAYN_83387	inside	1	49				
+//
+# KRQAYN_171180 Length: 46
+# KRQAYN_171180 Number of predicted TMRs: 0
+KRQAYN_171180	inside	1	46				
+//
+# KRQAYN_20127 Length: 42
+# KRQAYN_20127 Number of predicted TMRs: 0
+KRQAYN_20127	signal	1	29				
+KRQAYN_20127	outside	30	42				
+//
+# KRQAYN_93766 Length: 43
+# KRQAYN_93766 Number of predicted TMRs: 0
+KRQAYN_93766	signal	1	37				
+KRQAYN_93766	outside	38	43				
+//
+# KRQAYN_164912 Length: 46
+# KRQAYN_164912 Number of predicted TMRs: 0
+KRQAYN_164912	inside	1	46				
+//
+# KRQAYN_76314 Length: 50
+# KRQAYN_76314 Number of predicted TMRs: 0
+KRQAYN_76314	signal	1	43				
+KRQAYN_76314	outside	44	50				
+//
+# KRQAYN_130374 Length: 49
+# KRQAYN_130374 Number of predicted TMRs: 0
+KRQAYN_130374	inside	1	49				
+//
+# KRQAYN_114727 Length: 48
+# KRQAYN_114727 Number of predicted TMRs: 0
+KRQAYN_114727	inside	1	48				
+//
+# KRQAYN_12194 Length: 48
+# KRQAYN_12194 Number of predicted TMRs: 0
+KRQAYN_12194	inside	1	48				
+//
+# KRQAYN_31612 Length: 30
+# KRQAYN_31612 Number of predicted TMRs: 0
+KRQAYN_31612	signal	1	29				
+KRQAYN_31612	outside	30	30				
+//
+# KRQAYN_167061 Length: 36
+# KRQAYN_167061 Number of predicted TMRs: 0
+KRQAYN_167061	inside	1	36				
+//
+# KRQAYN_3803 Length: 47
+# KRQAYN_3803 Number of predicted TMRs: 0
+KRQAYN_3803	inside	1	47				
+//
+# KRQAYN_23262 Length: 50
+# KRQAYN_23262 Number of predicted TMRs: 0
+KRQAYN_23262	inside	1	50				
+//
+# KRQAYN_119953 Length: 36
+# KRQAYN_119953 Number of predicted TMRs: 0
+KRQAYN_119953	inside	1	36				
+//
+# KRQAYN_88238 Length: 41
+# KRQAYN_88238 Number of predicted TMRs: 0
+KRQAYN_88238	inside	1	41				
+//
+# KRQAYN_43625 Length: 37
+# KRQAYN_43625 Number of predicted TMRs: 0
+KRQAYN_43625	inside	1	37				
+//
+# KRQAYN_150729 Length: 49
+# KRQAYN_150729 Number of predicted TMRs: 0
+KRQAYN_150729	inside	1	49				
+//
+# KRQAYN_21650 Length: 48
+# KRQAYN_21650 Number of predicted TMRs: 0
+KRQAYN_21650	signal	1	24				
+KRQAYN_21650	outside	25	48				
+//
+# KRQAYN_23887 Length: 47
+# KRQAYN_23887 Number of predicted TMRs: 0
+KRQAYN_23887	inside	1	47				
+//
+# KRQAYN_115255 Length: 50
+# KRQAYN_115255 Number of predicted TMRs: 0
+KRQAYN_115255	signal	1	40				
+KRQAYN_115255	outside	41	50				
+//
+# KRQAYN_11287 Length: 47
+# KRQAYN_11287 Number of predicted TMRs: 0
+KRQAYN_11287	inside	1	47				
+//
+# KRQAYN_105593 Length: 32
+# KRQAYN_105593 Number of predicted TMRs: 0
+KRQAYN_105593	inside	1	32				
+//
+# KRQAYN_65118 Length: 48
+# KRQAYN_65118 Number of predicted TMRs: 0
+KRQAYN_65118	inside	1	48				
+//
+# KRQAYN_16847 Length: 40
+# KRQAYN_16847 Number of predicted TMRs: 0
+KRQAYN_16847	inside	1	40				
+//
+# KRQAYN_95354 Length: 48
+# KRQAYN_95354 Number of predicted TMRs: 0
+KRQAYN_95354	inside	1	48				
+//
+# KRQAYN_122277 Length: 48
+# KRQAYN_122277 Number of predicted TMRs: 0
+KRQAYN_122277	inside	1	48				
+//
+# KRQAYN_49120 Length: 45
+# KRQAYN_49120 Number of predicted TMRs: 0
+KRQAYN_49120	inside	1	45				
+//
+# KRQAYN_90299 Length: 44
+# KRQAYN_90299 Number of predicted TMRs: 0
+KRQAYN_90299	inside	1	44				
+//
+# KRQAYN_124336 Length: 41
+# KRQAYN_124336 Number of predicted TMRs: 0
+KRQAYN_124336	inside	1	41				
+//
+# KRQAYN_156469 Length: 44
+# KRQAYN_156469 Number of predicted TMRs: 0
+KRQAYN_156469	inside	1	44				
+//
+# KRQAYN_93866 Length: 50
+# KRQAYN_93866 Number of predicted TMRs: 0
+KRQAYN_93866	inside	1	50				
+//
+# KRQAYN_145325 Length: 38
+# KRQAYN_145325 Number of predicted TMRs: 0
+KRQAYN_145325	signal	1	37				
+KRQAYN_145325	outside	38	38				
+//
+# KRQAYN_10935 Length: 50
+# KRQAYN_10935 Number of predicted TMRs: 0
+KRQAYN_10935	inside	1	50				
+//
+# KRQAYN_24815 Length: 44
+# KRQAYN_24815 Number of predicted TMRs: 0
+KRQAYN_24815	inside	1	44				
+//
+# KRQAYN_87028 Length: 43
+# KRQAYN_87028 Number of predicted TMRs: 0
+KRQAYN_87028	signal	1	42				
+KRQAYN_87028	outside	43	43				
+//
+# KRQAYN_46818 Length: 50
+# KRQAYN_46818 Number of predicted TMRs: 0
+KRQAYN_46818	inside	1	50				
+//
+# KRQAYN_149029 Length: 46
+# KRQAYN_149029 Number of predicted TMRs: 0
+KRQAYN_149029	signal	1	29				
+KRQAYN_149029	outside	30	46				
+//
+# KRQAYN_145062 Length: 43
+# KRQAYN_145062 Number of predicted TMRs: 0
+KRQAYN_145062	inside	1	43				
+//
+# KRQAYN_56664 Length: 47
+# KRQAYN_56664 Number of predicted TMRs: 0
+KRQAYN_56664	inside	1	47				
+//
+# KRQAYN_45075 Length: 42
+# KRQAYN_45075 Number of predicted TMRs: 0
+KRQAYN_45075	signal	1	32				
+KRQAYN_45075	outside	33	42				
+//
+# KRQAYN_58084 Length: 28
+# KRQAYN_58084 Number of predicted TMRs: 0
+KRQAYN_58084	inside	1	28				
+//
+# KRQAYN_173006 Length: 35
+# KRQAYN_173006 Number of predicted TMRs: 0
+KRQAYN_173006	inside	1	35				
+//
+# KRQAYN_9655 Length: 34
+# KRQAYN_9655 Number of predicted TMRs: 0
+KRQAYN_9655	signal	1	32				
+KRQAYN_9655	outside	33	34				
+//
+# KRQAYN_30781 Length: 36
+# KRQAYN_30781 Number of predicted TMRs: 0
+KRQAYN_30781	inside	1	36				
+//
+# KRQAYN_157270 Length: 48
+# KRQAYN_157270 Number of predicted TMRs: 0
+KRQAYN_157270	signal	1	23				
+KRQAYN_157270	outside	24	48				
+//
+# KRQAYN_22319 Length: 40
+# KRQAYN_22319 Number of predicted TMRs: 0
+KRQAYN_22319	inside	1	40				
+//
+# KRQAYN_91363 Length: 47
+# KRQAYN_91363 Number of predicted TMRs: 0
+KRQAYN_91363	inside	1	47				
+//
+# KRQAYN_141934 Length: 50
+# KRQAYN_141934 Number of predicted TMRs: 0
+KRQAYN_141934	inside	1	50				
+//
+# KRQAYN_34906 Length: 43
+# KRQAYN_34906 Number of predicted TMRs: 0
+KRQAYN_34906	inside	1	43				
+//
+# KRQAYN_93505 Length: 50
+# KRQAYN_93505 Number of predicted TMRs: 0
+KRQAYN_93505	inside	1	50				
+//
+# KRQAYN_100644 Length: 43
+# KRQAYN_100644 Number of predicted TMRs: 0
+KRQAYN_100644	inside	1	43				
+//
+# KRQAYN_16593 Length: 37
+# KRQAYN_16593 Number of predicted TMRs: 0
+KRQAYN_16593	signal	1	32				
+KRQAYN_16593	outside	33	37				
+//
+# KRQAYN_26718 Length: 38
+# KRQAYN_26718 Number of predicted TMRs: 0
+KRQAYN_26718	signal	1	30				
+KRQAYN_26718	outside	31	38				
+//
+# KRQAYN_172898 Length: 49
+# KRQAYN_172898 Number of predicted TMRs: 0
+KRQAYN_172898	inside	1	49				
+//
+# KRQAYN_17216 Length: 44
+# KRQAYN_17216 Number of predicted TMRs: 0
+KRQAYN_17216	signal	1	35				
+KRQAYN_17216	outside	36	44				
+//
+# KRQAYN_164257 Length: 46
+# KRQAYN_164257 Number of predicted TMRs: 0
+KRQAYN_164257	signal	1	11				
+KRQAYN_164257	outside	12	46				
+//
+# KRQAYN_96160 Length: 50
+# KRQAYN_96160 Number of predicted TMRs: 0
+KRQAYN_96160	inside	1	50				
+//
+# KRQAYN_74662 Length: 50
+# KRQAYN_74662 Number of predicted TMRs: 0
+KRQAYN_74662	inside	1	50				
+//
+# KRQAYN_135356 Length: 48
+# KRQAYN_135356 Number of predicted TMRs: 0
+KRQAYN_135356	signal	1	47				
+KRQAYN_135356	outside	48	48				
+//
+# KRQAYN_33142 Length: 44
+# KRQAYN_33142 Number of predicted TMRs: 0
+KRQAYN_33142	signal	1	15				
+KRQAYN_33142	outside	16	44				
+//
+# KRQAYN_6578 Length: 45
+# KRQAYN_6578 Number of predicted TMRs: 0
+KRQAYN_6578	signal	1	25				
+KRQAYN_6578	outside	26	45				
+//
+# KRQAYN_9459 Length: 44
+# KRQAYN_9459 Number of predicted TMRs: 0
+KRQAYN_9459	signal	1	43				
+KRQAYN_9459	outside	44	44				
+//
+# KRQAYN_109951 Length: 49
+# KRQAYN_109951 Number of predicted TMRs: 0
+KRQAYN_109951	inside	1	49				
+//
+# KRQAYN_103274 Length: 39
+# KRQAYN_103274 Number of predicted TMRs: 0
+KRQAYN_103274	signal	1	37				
+KRQAYN_103274	outside	38	39				
+//
+# KRQAYN_45 Length: 43
+# KRQAYN_45 Number of predicted TMRs: 0
+KRQAYN_45	inside	1	43				
+//
+# KRQAYN_142694 Length: 50
+# KRQAYN_142694 Number of predicted TMRs: 0
+KRQAYN_142694	inside	1	50				
+//
+# KRQAYN_78137 Length: 47
+# KRQAYN_78137 Number of predicted TMRs: 0
+KRQAYN_78137	signal	1	44				
+KRQAYN_78137	outside	45	47				
+//
+# KRQAYN_19199 Length: 47
+# KRQAYN_19199 Number of predicted TMRs: 0
+KRQAYN_19199	inside	1	47				
+//
+# KRQAYN_49200 Length: 42
+# KRQAYN_49200 Number of predicted TMRs: 0
+KRQAYN_49200	inside	1	42				
+//
+# KRQAYN_143241 Length: 32
+# KRQAYN_143241 Number of predicted TMRs: 0
+KRQAYN_143241	outside	1	32				
+//
+# KRQAYN_129566 Length: 43
+# KRQAYN_129566 Number of predicted TMRs: 0
+KRQAYN_129566	signal	1	42				
+KRQAYN_129566	outside	43	43				
+//
+# KRQAYN_117439 Length: 35
+# KRQAYN_117439 Number of predicted TMRs: 0
+KRQAYN_117439	inside	1	35				
+//
+# KRQAYN_165661 Length: 38
+# KRQAYN_165661 Number of predicted TMRs: 0
+KRQAYN_165661	signal	1	28				
+KRQAYN_165661	outside	29	38				
+//
+# KRQAYN_158651 Length: 50
+# KRQAYN_158651 Number of predicted TMRs: 0
+KRQAYN_158651	inside	1	50				
+//
+# KRQAYN_84574 Length: 44
+# KRQAYN_84574 Number of predicted TMRs: 0
+KRQAYN_84574	signal	1	42				
+KRQAYN_84574	outside	43	44				
+//
+# KRQAYN_118584 Length: 50
+# KRQAYN_118584 Number of predicted TMRs: 0
+KRQAYN_118584	signal	1	22				
+KRQAYN_118584	outside	23	50				
+//
+# KRQAYN_5440 Length: 45
+# KRQAYN_5440 Number of predicted TMRs: 0
+KRQAYN_5440	inside	1	45				
+//
+# KRQAYN_136249 Length: 45
+# KRQAYN_136249 Number of predicted TMRs: 0
+KRQAYN_136249	inside	1	45				
+//
+# KRQAYN_33845 Length: 43
+# KRQAYN_33845 Number of predicted TMRs: 0
+KRQAYN_33845	inside	1	43				
+//
+# KRQAYN_116370 Length: 45
+# KRQAYN_116370 Number of predicted TMRs: 0
+KRQAYN_116370	inside	1	45				
+//
+# KRQAYN_155569 Length: 44
+# KRQAYN_155569 Number of predicted TMRs: 0
+KRQAYN_155569	inside	1	44				
+//
+# KRQAYN_38929 Length: 45
+# KRQAYN_38929 Number of predicted TMRs: 0
+KRQAYN_38929	signal	1	44				
+KRQAYN_38929	outside	45	45				
+//
+# KRQAYN_121750 Length: 49
+# KRQAYN_121750 Number of predicted TMRs: 0
+KRQAYN_121750	inside	1	49				
+//
+# KRQAYN_90910 Length: 38
+# KRQAYN_90910 Number of predicted TMRs: 0
+KRQAYN_90910	inside	1	38				
+//
+# KRQAYN_139490 Length: 37
+# KRQAYN_139490 Number of predicted TMRs: 0
+KRQAYN_139490	inside	1	37				
+//
+# KRQAYN_111804 Length: 49
+# KRQAYN_111804 Number of predicted TMRs: 0
+KRQAYN_111804	signal	1	15				
+KRQAYN_111804	outside	16	49				
+//
+# KRQAYN_165861 Length: 44
+# KRQAYN_165861 Number of predicted TMRs: 0
+KRQAYN_165861	signal	1	42				
+KRQAYN_165861	outside	43	44				
+//
+# KRQAYN_93973 Length: 50
+# KRQAYN_93973 Number of predicted TMRs: 0
+KRQAYN_93973	inside	1	50				
+//
+# KRQAYN_86608 Length: 42
+# KRQAYN_86608 Number of predicted TMRs: 0
+KRQAYN_86608	signal	1	35				
+KRQAYN_86608	outside	36	42				
+//
+# KRQAYN_28355 Length: 42
+# KRQAYN_28355 Number of predicted TMRs: 0
+KRQAYN_28355	signal	1	16				
+KRQAYN_28355	outside	17	42				
+//
+# KRQAYN_52529 Length: 46
+# KRQAYN_52529 Number of predicted TMRs: 0
+KRQAYN_52529	inside	1	46				
+//
+# KRQAYN_159339 Length: 46
+# KRQAYN_159339 Number of predicted TMRs: 0
+KRQAYN_159339	inside	1	46				
+//
+# KRQAYN_111467 Length: 40
+# KRQAYN_111467 Number of predicted TMRs: 0
+KRQAYN_111467	inside	1	40				
+//
+# KRQAYN_143244 Length: 50
+# KRQAYN_143244 Number of predicted TMRs: 0
+KRQAYN_143244	inside	1	50				
+//
+# KRQAYN_141539 Length: 46
+# KRQAYN_141539 Number of predicted TMRs: 0
+KRQAYN_141539	inside	1	46				
+//
+# KRQAYN_139676 Length: 42
+# KRQAYN_139676 Number of predicted TMRs: 0
+KRQAYN_139676	signal	1	41				
+KRQAYN_139676	outside	42	42				
+//
+# KRQAYN_39002 Length: 49
+# KRQAYN_39002 Number of predicted TMRs: 0
+KRQAYN_39002	signal	1	47				
+KRQAYN_39002	outside	48	49				
+//
+# KRQAYN_50110 Length: 50
+# KRQAYN_50110 Number of predicted TMRs: 0
+KRQAYN_50110	inside	1	50				
+//
+# KRQAYN_9707 Length: 48
+# KRQAYN_9707 Number of predicted TMRs: 0
+KRQAYN_9707	inside	1	48				
+//
+# KRQAYN_90202 Length: 33
+# KRQAYN_90202 Number of predicted TMRs: 0
+KRQAYN_90202	signal	1	21				
+KRQAYN_90202	outside	22	33				
+//
+# KRQAYN_113347 Length: 43
+# KRQAYN_113347 Number of predicted TMRs: 0
+KRQAYN_113347	inside	1	43				
+//
+# KRQAYN_15734 Length: 44
+# KRQAYN_15734 Number of predicted TMRs: 0
+KRQAYN_15734	inside	1	44				
+//
+# KRQAYN_59214 Length: 38
+# KRQAYN_59214 Number of predicted TMRs: 0
+KRQAYN_59214	outside	1	38				
+//
+# KRQAYN_61794 Length: 44
+# KRQAYN_61794 Number of predicted TMRs: 0
+KRQAYN_61794	inside	1	44				
+//
+# KRQAYN_145258 Length: 30
+# KRQAYN_145258 Number of predicted TMRs: 0
+KRQAYN_145258	inside	1	30				
+//
+# KRQAYN_83645 Length: 50
+# KRQAYN_83645 Number of predicted TMRs: 0
+KRQAYN_83645	inside	1	50				
+//
+# KRQAYN_20375 Length: 50
+# KRQAYN_20375 Number of predicted TMRs: 0
+KRQAYN_20375	inside	1	50				
+//
+# KRQAYN_148256 Length: 49
+# KRQAYN_148256 Number of predicted TMRs: 0
+KRQAYN_148256	inside	1	49				
+//
+# KRQAYN_14846 Length: 48
+# KRQAYN_14846 Number of predicted TMRs: 0
+KRQAYN_14846	signal	1	46				
+KRQAYN_14846	outside	47	48				
+//
+# KRQAYN_74681 Length: 47
+# KRQAYN_74681 Number of predicted TMRs: 0
+KRQAYN_74681	signal	1	46				
+KRQAYN_74681	outside	47	47				
+//
+# KRQAYN_130839 Length: 44
+# KRQAYN_130839 Number of predicted TMRs: 0
+KRQAYN_130839	signal	1	43				
+KRQAYN_130839	outside	44	44				
+//
+# KRQAYN_57367 Length: 45
+# KRQAYN_57367 Number of predicted TMRs: 0
+KRQAYN_57367	inside	1	45				
+//
+# KRQAYN_58693 Length: 47
+# KRQAYN_58693 Number of predicted TMRs: 0
+KRQAYN_58693	inside	1	47				
+//
+# KRQAYN_134417 Length: 50
+# KRQAYN_134417 Number of predicted TMRs: 0
+KRQAYN_134417	inside	1	50				
+//
+# KRQAYN_124332 Length: 35
+# KRQAYN_124332 Number of predicted TMRs: 0
+KRQAYN_124332	signal	1	32				
+KRQAYN_124332	outside	33	35				
+//
+# KRQAYN_13286 Length: 42
+# KRQAYN_13286 Number of predicted TMRs: 0
+KRQAYN_13286	inside	1	42				
+//
+# KRQAYN_57651 Length: 49
+# KRQAYN_57651 Number of predicted TMRs: 0
+KRQAYN_57651	inside	1	49				
+//
+# KRQAYN_16199 Length: 45
+# KRQAYN_16199 Number of predicted TMRs: 0
+KRQAYN_16199	signal	1	44				
+KRQAYN_16199	outside	45	45				
+//
+# KRQAYN_50179 Length: 50
+# KRQAYN_50179 Number of predicted TMRs: 0
+KRQAYN_50179	inside	1	50				
+//
+# KRQAYN_10163 Length: 42
+# KRQAYN_10163 Number of predicted TMRs: 0
+KRQAYN_10163	inside	1	42				
+//
+# KRQAYN_133689 Length: 39
+# KRQAYN_133689 Number of predicted TMRs: 0
+KRQAYN_133689	inside	1	39				
+//
+# KRQAYN_65745 Length: 40
+# KRQAYN_65745 Number of predicted TMRs: 0
+KRQAYN_65745	signal	1	20				
+KRQAYN_65745	outside	21	40				
+//
+# KRQAYN_55632 Length: 46
+# KRQAYN_55632 Number of predicted TMRs: 0
+KRQAYN_55632	inside	1	46				
+//
+# KRQAYN_54382 Length: 39
+# KRQAYN_54382 Number of predicted TMRs: 1
+KRQAYN_54382	inside	1	14				
+KRQAYN_54382	TMhelix	15	35				
+KRQAYN_54382	outside	36	39				
+//
+# KRQAYN_156833 Length: 42
+# KRQAYN_156833 Number of predicted TMRs: 0
+KRQAYN_156833	inside	1	42				
+//
+# KRQAYN_54370 Length: 46
+# KRQAYN_54370 Number of predicted TMRs: 0
+KRQAYN_54370	inside	1	46				
+//
+# KRQAYN_21332 Length: 42
+# KRQAYN_21332 Number of predicted TMRs: 0
+KRQAYN_21332	inside	1	42				
+//
+# KRQAYN_137525 Length: 42
+# KRQAYN_137525 Number of predicted TMRs: 0
+KRQAYN_137525	inside	1	42				
+//
+# KRQAYN_121998 Length: 46
+# KRQAYN_121998 Number of predicted TMRs: 0
+KRQAYN_121998	inside	1	46				
+//
+# KRQAYN_106910 Length: 36
+# KRQAYN_106910 Number of predicted TMRs: 0
+KRQAYN_106910	inside	1	36				
+//
+# KRQAYN_88324 Length: 43
+# KRQAYN_88324 Number of predicted TMRs: 0
+KRQAYN_88324	inside	1	43				
+//
+# KRQAYN_32628 Length: 50
+# KRQAYN_32628 Number of predicted TMRs: 0
+KRQAYN_32628	inside	1	50				
+//
+# KRQAYN_131017 Length: 49
+# KRQAYN_131017 Number of predicted TMRs: 0
+KRQAYN_131017	inside	1	49				
+//
+# KRQAYN_92479 Length: 50
+# KRQAYN_92479 Number of predicted TMRs: 0
+KRQAYN_92479	inside	1	50				
+//
+# KRQAYN_89563 Length: 46
+# KRQAYN_89563 Number of predicted TMRs: 0
+KRQAYN_89563	inside	1	46				
+//
+# KRQAYN_147768 Length: 34
+# KRQAYN_147768 Number of predicted TMRs: 0
+KRQAYN_147768	inside	1	34				
+//
+# KRQAYN_78251 Length: 45
+# KRQAYN_78251 Number of predicted TMRs: 0
+KRQAYN_78251	signal	1	21				
+KRQAYN_78251	outside	22	45				
+//
+# KRQAYN_99955 Length: 39
+# KRQAYN_99955 Number of predicted TMRs: 0
+KRQAYN_99955	inside	1	39				
+//
+# KRQAYN_33536 Length: 48
+# KRQAYN_33536 Number of predicted TMRs: 0
+KRQAYN_33536	inside	1	48				
+//
+# KRQAYN_123592 Length: 45
+# KRQAYN_123592 Number of predicted TMRs: 0
+KRQAYN_123592	inside	1	45				
+//
+# KRQAYN_37430 Length: 49
+# KRQAYN_37430 Number of predicted TMRs: 0
+KRQAYN_37430	signal	1	46				
+KRQAYN_37430	outside	47	49				
+//
+# KRQAYN_9362 Length: 47
+# KRQAYN_9362 Number of predicted TMRs: 0
+KRQAYN_9362	inside	1	47				
+//
+# KRQAYN_133205 Length: 39
+# KRQAYN_133205 Number of predicted TMRs: 0
+KRQAYN_133205	signal	1	37				
+KRQAYN_133205	outside	38	39				
+//
+# KRQAYN_71354 Length: 50
+# KRQAYN_71354 Number of predicted TMRs: 0
+KRQAYN_71354	signal	1	15				
+KRQAYN_71354	outside	16	50				
+//
+# KRQAYN_29245 Length: 49
+# KRQAYN_29245 Number of predicted TMRs: 0
+KRQAYN_29245	inside	1	49				
+//
+# KRQAYN_59800 Length: 49
+# KRQAYN_59800 Number of predicted TMRs: 0
+KRQAYN_59800	signal	1	42				
+KRQAYN_59800	outside	43	49				
+//
+# KRQAYN_172239 Length: 48
+# KRQAYN_172239 Number of predicted TMRs: 0
+KRQAYN_172239	inside	1	48				
+//
+# KRQAYN_62201 Length: 40
+# KRQAYN_62201 Number of predicted TMRs: 0
+KRQAYN_62201	inside	1	40				
+//
+# KRQAYN_30054 Length: 34
+# KRQAYN_30054 Number of predicted TMRs: 0
+KRQAYN_30054	inside	1	34				
+//
+# KRQAYN_89017 Length: 34
+# KRQAYN_89017 Number of predicted TMRs: 0
+KRQAYN_89017	signal	1	33				
+KRQAYN_89017	outside	34	34				
+//
+# KRQAYN_144957 Length: 50
+# KRQAYN_144957 Number of predicted TMRs: 0
+KRQAYN_144957	inside	1	50				
+//
+# KRQAYN_10697 Length: 47
+# KRQAYN_10697 Number of predicted TMRs: 0
+KRQAYN_10697	signal	1	30				
+KRQAYN_10697	outside	31	47				
+//
+# KRQAYN_139325 Length: 40
+# KRQAYN_139325 Number of predicted TMRs: 0
+KRQAYN_139325	inside	1	40				
+//
+# KRQAYN_9894 Length: 47
+# KRQAYN_9894 Number of predicted TMRs: 0
+KRQAYN_9894	inside	1	47				
+//
+# KRQAYN_91804 Length: 39
+# KRQAYN_91804 Number of predicted TMRs: 0
+KRQAYN_91804	signal	1	28				
+KRQAYN_91804	outside	29	39				
+//
+# KRQAYN_22071 Length: 44
+# KRQAYN_22071 Number of predicted TMRs: 0
+KRQAYN_22071	signal	1	15				
+KRQAYN_22071	outside	16	44				
+//
+# KRQAYN_67661 Length: 46
+# KRQAYN_67661 Number of predicted TMRs: 0
+KRQAYN_67661	inside	1	46				
+//
+# KRQAYN_133269 Length: 42
+# KRQAYN_133269 Number of predicted TMRs: 0
+KRQAYN_133269	inside	1	42				
+//
+# KRQAYN_46682 Length: 39
+# KRQAYN_46682 Number of predicted TMRs: 0
+KRQAYN_46682	inside	1	39				
+//
+# KRQAYN_148918 Length: 46
+# KRQAYN_148918 Number of predicted TMRs: 0
+KRQAYN_148918	signal	1	37				
+KRQAYN_148918	outside	38	46				
+//
+# KRQAYN_173975 Length: 50
+# KRQAYN_173975 Number of predicted TMRs: 0
+KRQAYN_173975	signal	1	26				
+KRQAYN_173975	outside	27	50				
+//
+# KRQAYN_21335 Length: 38
+# KRQAYN_21335 Number of predicted TMRs: 0
+KRQAYN_21335	signal	1	32				
+KRQAYN_21335	outside	33	38				
+//
+# KRQAYN_83358 Length: 42
+# KRQAYN_83358 Number of predicted TMRs: 0
+KRQAYN_83358	inside	1	42				
+//
+# KRQAYN_145082 Length: 45
+# KRQAYN_145082 Number of predicted TMRs: 0
+KRQAYN_145082	inside	1	45				
+//
+# KRQAYN_93670 Length: 43
+# KRQAYN_93670 Number of predicted TMRs: 0
+KRQAYN_93670	inside	1	43				
+//
+# KRQAYN_41841 Length: 41
+# KRQAYN_41841 Number of predicted TMRs: 0
+KRQAYN_41841	signal	1	36				
+KRQAYN_41841	outside	37	41				
+//
+# KRQAYN_125443 Length: 42
+# KRQAYN_125443 Number of predicted TMRs: 0
+KRQAYN_125443	signal	1	40				
+KRQAYN_125443	outside	41	42				
+//
+# KRQAYN_154277 Length: 50
+# KRQAYN_154277 Number of predicted TMRs: 0
+KRQAYN_154277	inside	1	50				
+//
+# KRQAYN_74651 Length: 49
+# KRQAYN_74651 Number of predicted TMRs: 0
+KRQAYN_74651	inside	1	49				
+//
+# KRQAYN_145043 Length: 50
+# KRQAYN_145043 Number of predicted TMRs: 0
+KRQAYN_145043	inside	1	50				
+//
+# KRQAYN_166476 Length: 36
+# KRQAYN_166476 Number of predicted TMRs: 0
+KRQAYN_166476	outside	1	36				
+//
+# KRQAYN_87090 Length: 40
+# KRQAYN_87090 Number of predicted TMRs: 0
+KRQAYN_87090	signal	1	10				
+KRQAYN_87090	outside	11	40				
+//
+# KRQAYN_4116 Length: 46
+# KRQAYN_4116 Number of predicted TMRs: 0
+KRQAYN_4116	inside	1	46				
+//
+# KRQAYN_89777 Length: 49
+# KRQAYN_89777 Number of predicted TMRs: 0
+KRQAYN_89777	inside	1	49				
+//
+# KRQAYN_120181 Length: 49
+# KRQAYN_120181 Number of predicted TMRs: 0
+KRQAYN_120181	inside	1	49				
+//
+# KRQAYN_94118 Length: 49
+# KRQAYN_94118 Number of predicted TMRs: 0
+KRQAYN_94118	inside	1	49				
+//
+# KRQAYN_138109 Length: 42
+# KRQAYN_138109 Number of predicted TMRs: 0
+KRQAYN_138109	signal	1	41				
+KRQAYN_138109	outside	42	42				
+//
+# KRQAYN_23067 Length: 46
+# KRQAYN_23067 Number of predicted TMRs: 0
+KRQAYN_23067	signal	1	13				
+KRQAYN_23067	outside	14	46				
+//
+# KRQAYN_71668 Length: 46
+# KRQAYN_71668 Number of predicted TMRs: 0
+KRQAYN_71668	signal	1	11				
+KRQAYN_71668	outside	12	46				
+//
+# KRQAYN_57840 Length: 46
+# KRQAYN_57840 Number of predicted TMRs: 0
+KRQAYN_57840	inside	1	46				
+//
+# KRQAYN_11864 Length: 48
+# KRQAYN_11864 Number of predicted TMRs: 0
+KRQAYN_11864	signal	1	10				
+KRQAYN_11864	outside	11	48				
+//
+# KRQAYN_104513 Length: 48
+# KRQAYN_104513 Number of predicted TMRs: 0
+KRQAYN_104513	signal	1	37				
+KRQAYN_104513	outside	38	48				
+//
+# KRQAYN_153450 Length: 45
+# KRQAYN_153450 Number of predicted TMRs: 0
+KRQAYN_153450	inside	1	45				
+//
+# KRQAYN_59708 Length: 47
+# KRQAYN_59708 Number of predicted TMRs: 0
+KRQAYN_59708	signal	1	14				
+KRQAYN_59708	outside	15	47				
+//
+# KRQAYN_84722 Length: 43
+# KRQAYN_84722 Number of predicted TMRs: 0
+KRQAYN_84722	inside	1	43				
+//
+# KRQAYN_17721 Length: 37
+# KRQAYN_17721 Number of predicted TMRs: 0
+KRQAYN_17721	signal	1	35				
+KRQAYN_17721	outside	36	37				
+//
+# KRQAYN_9327 Length: 45
+# KRQAYN_9327 Number of predicted TMRs: 0
+KRQAYN_9327	inside	1	45				
+//
+# KRQAYN_80728 Length: 40
+# KRQAYN_80728 Number of predicted TMRs: 0
+KRQAYN_80728	signal	1	39				
+KRQAYN_80728	outside	40	40				
+//
+# KRQAYN_103918 Length: 49
+# KRQAYN_103918 Number of predicted TMRs: 0
+KRQAYN_103918	signal	1	24				
+KRQAYN_103918	outside	25	49				
+//
+# KRQAYN_60270 Length: 48
+# KRQAYN_60270 Number of predicted TMRs: 0
+KRQAYN_60270	signal	1	10				
+KRQAYN_60270	outside	11	48				
+//
+# KRQAYN_97345 Length: 49
+# KRQAYN_97345 Number of predicted TMRs: 0
+KRQAYN_97345	inside	1	49				
+//
+# KRQAYN_43160 Length: 40
+# KRQAYN_43160 Number of predicted TMRs: 0
+KRQAYN_43160	inside	1	40				
+//
+# KRQAYN_115850 Length: 48
+# KRQAYN_115850 Number of predicted TMRs: 0
+KRQAYN_115850	signal	1	23				
+KRQAYN_115850	outside	24	48				
+//
+# KRQAYN_40792 Length: 49
+# KRQAYN_40792 Number of predicted TMRs: 0
+KRQAYN_40792	inside	1	49				
+//
+# KRQAYN_134578 Length: 45
+# KRQAYN_134578 Number of predicted TMRs: 0
+KRQAYN_134578	signal	1	35				
+KRQAYN_134578	outside	36	45				
+//
+# KRQAYN_144000 Length: 50
+# KRQAYN_144000 Number of predicted TMRs: 0
+KRQAYN_144000	inside	1	50				
+//
+# KRQAYN_67045 Length: 49
+# KRQAYN_67045 Number of predicted TMRs: 0
+KRQAYN_67045	inside	1	49				
+//
+# KRQAYN_125460 Length: 49
+# KRQAYN_125460 Number of predicted TMRs: 0
+KRQAYN_125460	inside	1	49				
+//
+# KRQAYN_45845 Length: 48
+# KRQAYN_45845 Number of predicted TMRs: 0
+KRQAYN_45845	signal	1	13				
+KRQAYN_45845	outside	14	48				
+//
+# KRQAYN_75222 Length: 47
+# KRQAYN_75222 Number of predicted TMRs: 0
+KRQAYN_75222	inside	1	47				
+//
+# KRQAYN_118772 Length: 46
+# KRQAYN_118772 Number of predicted TMRs: 0
+KRQAYN_118772	inside	1	46				
+//
+# KRQAYN_12447 Length: 41
+# KRQAYN_12447 Number of predicted TMRs: 0
+KRQAYN_12447	inside	1	41				
+//
+# KRQAYN_61700 Length: 49
+# KRQAYN_61700 Number of predicted TMRs: 0
+KRQAYN_61700	inside	1	49				
+//
+# KRQAYN_43152 Length: 43
+# KRQAYN_43152 Number of predicted TMRs: 0
+KRQAYN_43152	signal	1	26				
+KRQAYN_43152	outside	27	43				
+//
+# KRQAYN_114994 Length: 45
+# KRQAYN_114994 Number of predicted TMRs: 0
+KRQAYN_114994	inside	1	45				
+//
+# KRQAYN_170671 Length: 48
+# KRQAYN_170671 Number of predicted TMRs: 0
+KRQAYN_170671	signal	1	26				
+KRQAYN_170671	outside	27	48				
+//
+# KRQAYN_10666 Length: 40
+# KRQAYN_10666 Number of predicted TMRs: 0
+KRQAYN_10666	inside	1	40				
+//
+# KRQAYN_83868 Length: 47
+# KRQAYN_83868 Number of predicted TMRs: 0
+KRQAYN_83868	inside	1	47				
+//
+# KRQAYN_150996 Length: 41
+# KRQAYN_150996 Number of predicted TMRs: 0
+KRQAYN_150996	signal	1	24				
+KRQAYN_150996	outside	25	41				
+//
+# KRQAYN_136345 Length: 46
+# KRQAYN_136345 Number of predicted TMRs: 0
+KRQAYN_136345	inside	1	46				
+//
+# KRQAYN_38089 Length: 46
+# KRQAYN_38089 Number of predicted TMRs: 0
+KRQAYN_38089	inside	1	46				
+//
+# KRQAYN_88425 Length: 30
+# KRQAYN_88425 Number of predicted TMRs: 0
+KRQAYN_88425	inside	1	30				
+//
+# KRQAYN_149097 Length: 43
+# KRQAYN_149097 Number of predicted TMRs: 0
+KRQAYN_149097	inside	1	43				
+//
+# KRQAYN_23930 Length: 46
+# KRQAYN_23930 Number of predicted TMRs: 0
+KRQAYN_23930	inside	1	46				
+//
+# KRQAYN_35494 Length: 37
+# KRQAYN_35494 Number of predicted TMRs: 0
+KRQAYN_35494	inside	1	37				
+//
+# KRQAYN_154969 Length: 39
+# KRQAYN_154969 Number of predicted TMRs: 0
+KRQAYN_154969	inside	1	39				
+//
+# KRQAYN_139578 Length: 48
+# KRQAYN_139578 Number of predicted TMRs: 0
+KRQAYN_139578	inside	1	48				
+//
+# KRQAYN_171952 Length: 49
+# KRQAYN_171952 Number of predicted TMRs: 0
+KRQAYN_171952	inside	1	49				
+//
+# KRQAYN_174678 Length: 37
+# KRQAYN_174678 Number of predicted TMRs: 0
+KRQAYN_174678	inside	1	37				
+//
+# KRQAYN_34878 Length: 37
+# KRQAYN_34878 Number of predicted TMRs: 0
+KRQAYN_34878	signal	1	32				
+KRQAYN_34878	outside	33	37				
+//
+# KRQAYN_138885 Length: 46
+# KRQAYN_138885 Number of predicted TMRs: 0
+KRQAYN_138885	signal	1	10				
+KRQAYN_138885	outside	11	46				
+//
+# KRQAYN_136191 Length: 46
+# KRQAYN_136191 Number of predicted TMRs: 0
+KRQAYN_136191	inside	1	46				
+//
+# KRQAYN_69513 Length: 43
+# KRQAYN_69513 Number of predicted TMRs: 0
+KRQAYN_69513	inside	1	43				
+//
+# KRQAYN_75188 Length: 35
+# KRQAYN_75188 Number of predicted TMRs: 0
+KRQAYN_75188	inside	1	35				
+//
+# KRQAYN_112171 Length: 38
+# KRQAYN_112171 Number of predicted TMRs: 0
+KRQAYN_112171	signal	1	36				
+KRQAYN_112171	outside	37	38				
+//
+# KRQAYN_138425 Length: 39
+# KRQAYN_138425 Number of predicted TMRs: 0
+KRQAYN_138425	inside	1	39				
+//
+# KRQAYN_21706 Length: 43
+# KRQAYN_21706 Number of predicted TMRs: 0
+KRQAYN_21706	inside	1	43				
+//
+# KRQAYN_130152 Length: 46
+# KRQAYN_130152 Number of predicted TMRs: 0
+KRQAYN_130152	inside	1	46				
+//
+# KRQAYN_16910 Length: 40
+# KRQAYN_16910 Number of predicted TMRs: 0
+KRQAYN_16910	signal	1	27				
+KRQAYN_16910	outside	28	40				
+//
+# KRQAYN_154994 Length: 41
+# KRQAYN_154994 Number of predicted TMRs: 0
+KRQAYN_154994	inside	1	41				
+//
+# KRQAYN_144116 Length: 48
+# KRQAYN_144116 Number of predicted TMRs: 0
+KRQAYN_144116	signal	1	47				
+KRQAYN_144116	outside	48	48				
+//
+# KRQAYN_52793 Length: 45
+# KRQAYN_52793 Number of predicted TMRs: 0
+KRQAYN_52793	inside	1	45				
+//
+# KRQAYN_113928 Length: 48
+# KRQAYN_113928 Number of predicted TMRs: 0
+KRQAYN_113928	inside	1	48				
+//
+# KRQAYN_71541 Length: 46
+# KRQAYN_71541 Number of predicted TMRs: 0
+KRQAYN_71541	inside	1	46				
+//
+# KRQAYN_73348 Length: 50
+# KRQAYN_73348 Number of predicted TMRs: 0
+KRQAYN_73348	inside	1	50				
+//
+# KRQAYN_51239 Length: 49
+# KRQAYN_51239 Number of predicted TMRs: 0
+KRQAYN_51239	signal	1	30				
+KRQAYN_51239	outside	31	49				
+//
+# KRQAYN_149260 Length: 47
+# KRQAYN_149260 Number of predicted TMRs: 0
+KRQAYN_149260	signal	1	14				
+KRQAYN_149260	outside	15	47				
+//
+# KRQAYN_110472 Length: 36
+# KRQAYN_110472 Number of predicted TMRs: 0
+KRQAYN_110472	signal	1	12				
+KRQAYN_110472	outside	13	36				
+//
+# KRQAYN_171135 Length: 49
+# KRQAYN_171135 Number of predicted TMRs: 0
+KRQAYN_171135	inside	1	49				
+//
+# KRQAYN_145319 Length: 42
+# KRQAYN_145319 Number of predicted TMRs: 0
+KRQAYN_145319	signal	1	32				
+KRQAYN_145319	outside	33	42				
+//
+# KRQAYN_39475 Length: 38
+# KRQAYN_39475 Number of predicted TMRs: 0
+KRQAYN_39475	signal	1	30				
+KRQAYN_39475	outside	31	38				
+//
+# KRQAYN_65423 Length: 41
+# KRQAYN_65423 Number of predicted TMRs: 0
+KRQAYN_65423	inside	1	41				
+//
+# KRQAYN_45214 Length: 49
+# KRQAYN_45214 Number of predicted TMRs: 0
+KRQAYN_45214	signal	1	12				
+KRQAYN_45214	outside	13	49				
+//
+# KRQAYN_55428 Length: 43
+# KRQAYN_55428 Number of predicted TMRs: 0
+KRQAYN_55428	inside	1	43				
+//
+# KRQAYN_22229 Length: 34
+# KRQAYN_22229 Number of predicted TMRs: 0
+KRQAYN_22229	inside	1	34				
+//
+# KRQAYN_99164 Length: 46
+# KRQAYN_99164 Number of predicted TMRs: 0
+KRQAYN_99164	signal	1	12				
+KRQAYN_99164	outside	13	46				
+//
+# KRQAYN_115612 Length: 48
+# KRQAYN_115612 Number of predicted TMRs: 0
+KRQAYN_115612	signal	1	47				
+KRQAYN_115612	outside	48	48				
+//
+# KRQAYN_68844 Length: 47
+# KRQAYN_68844 Number of predicted TMRs: 0
+KRQAYN_68844	inside	1	47				
+//
+# KRQAYN_150089 Length: 47
+# KRQAYN_150089 Number of predicted TMRs: 0
+KRQAYN_150089	signal	1	14				
+KRQAYN_150089	outside	15	47				
+//
+# KRQAYN_125930 Length: 46
+# KRQAYN_125930 Number of predicted TMRs: 0
+KRQAYN_125930	signal	1	43				
+KRQAYN_125930	outside	44	46				
+//
+# KRQAYN_113249 Length: 46
+# KRQAYN_113249 Number of predicted TMRs: 0
+KRQAYN_113249	signal	1	43				
+KRQAYN_113249	outside	44	46				
+//
+# KRQAYN_38909 Length: 47
+# KRQAYN_38909 Number of predicted TMRs: 0
+KRQAYN_38909	inside	1	47				
+//
+# KRQAYN_78434 Length: 50
+# KRQAYN_78434 Number of predicted TMRs: 0
+KRQAYN_78434	signal	1	49				
+KRQAYN_78434	outside	50	50				
+//
+# KRQAYN_50004 Length: 46
+# KRQAYN_50004 Number of predicted TMRs: 0
+KRQAYN_50004	signal	1	30				
+KRQAYN_50004	outside	31	46				
+//
+# KRQAYN_57326 Length: 47
+# KRQAYN_57326 Number of predicted TMRs: 0
+KRQAYN_57326	inside	1	47				
+//
+# KRQAYN_91685 Length: 48
+# KRQAYN_91685 Number of predicted TMRs: 0
+KRQAYN_91685	signal	1	44				
+KRQAYN_91685	outside	45	48				
+//
+# KRQAYN_70638 Length: 42
+# KRQAYN_70638 Number of predicted TMRs: 0
+KRQAYN_70638	signal	1	32				
+KRQAYN_70638	outside	33	42				
+//
+# KRQAYN_73429 Length: 43
+# KRQAYN_73429 Number of predicted TMRs: 0
+KRQAYN_73429	signal	1	42				
+KRQAYN_73429	outside	43	43				
+//
+# KRQAYN_126149 Length: 43
+# KRQAYN_126149 Number of predicted TMRs: 0
+KRQAYN_126149	inside	1	43				
+//
+# KRQAYN_144115 Length: 36
+# KRQAYN_144115 Number of predicted TMRs: 1
+KRQAYN_144115	inside	1	11				
+KRQAYN_144115	TMhelix	12	28				
+KRQAYN_144115	outside	29	36				
+//
+# KRQAYN_93540 Length: 43
+# KRQAYN_93540 Number of predicted TMRs: 0
+KRQAYN_93540	signal	1	32				
+KRQAYN_93540	outside	33	43				
+//
+# KRQAYN_123856 Length: 45
+# KRQAYN_123856 Number of predicted TMRs: 0
+KRQAYN_123856	inside	1	45				
+//
+# KRQAYN_23861 Length: 44
+# KRQAYN_23861 Number of predicted TMRs: 0
+KRQAYN_23861	signal	1	28				
+KRQAYN_23861	outside	29	44				
+//
+# KRQAYN_41421 Length: 48
+# KRQAYN_41421 Number of predicted TMRs: 0
+KRQAYN_41421	inside	1	48				
+//
+# KRQAYN_118909 Length: 47
+# KRQAYN_118909 Number of predicted TMRs: 0
+KRQAYN_118909	inside	1	47				
+//
+# KRQAYN_100382 Length: 45
+# KRQAYN_100382 Number of predicted TMRs: 0
+KRQAYN_100382	signal	1	26				
+KRQAYN_100382	outside	27	45				
+//
+# KRQAYN_51752 Length: 45
+# KRQAYN_51752 Number of predicted TMRs: 0
+KRQAYN_51752	inside	1	45				
+//
+# KRQAYN_16295 Length: 50
+# KRQAYN_16295 Number of predicted TMRs: 0
+KRQAYN_16295	inside	1	50				
+//
+# KRQAYN_41891 Length: 47
+# KRQAYN_41891 Number of predicted TMRs: 0
+KRQAYN_41891	signal	1	23				
+KRQAYN_41891	outside	24	47				
+//
+# KRQAYN_38208 Length: 36
+# KRQAYN_38208 Number of predicted TMRs: 0
+KRQAYN_38208	inside	1	36				
+//
+# KRQAYN_69912 Length: 34
+# KRQAYN_69912 Number of predicted TMRs: 0
+KRQAYN_69912	signal	1	23				
+KRQAYN_69912	outside	24	34				
+//
+# KRQAYN_164418 Length: 41
+# KRQAYN_164418 Number of predicted TMRs: 0
+KRQAYN_164418	signal	1	33				
+KRQAYN_164418	outside	34	41				
+//
+# KRQAYN_41782 Length: 37
+# KRQAYN_41782 Number of predicted TMRs: 0
+KRQAYN_41782	signal	1	32				
+KRQAYN_41782	outside	33	37				
+//
+# KRQAYN_151008 Length: 49
+# KRQAYN_151008 Number of predicted TMRs: 0
+KRQAYN_151008	inside	1	49				
+//
+# KRQAYN_170279 Length: 38
+# KRQAYN_170279 Number of predicted TMRs: 0
+KRQAYN_170279	signal	1	18				
+KRQAYN_170279	outside	19	38				
+//
+# KRQAYN_19222 Length: 49
+# KRQAYN_19222 Number of predicted TMRs: 0
+KRQAYN_19222	signal	1	12				
+KRQAYN_19222	outside	13	49				
+//
+# KRQAYN_171764 Length: 39
+# KRQAYN_171764 Number of predicted TMRs: 1
+KRQAYN_171764	outside	1	6				
+KRQAYN_171764	TMhelix	7	27				
+KRQAYN_171764	inside	28	39				
+//
+# KRQAYN_67014 Length: 47
+# KRQAYN_67014 Number of predicted TMRs: 1
+KRQAYN_67014	inside	1	27				
+KRQAYN_67014	TMhelix	28	41				
+KRQAYN_67014	outside	42	47				
+//
+# KRQAYN_105957 Length: 49
+# KRQAYN_105957 Number of predicted TMRs: 0
+KRQAYN_105957	inside	1	49				
+//
+# KRQAYN_104157 Length: 40
+# KRQAYN_104157 Number of predicted TMRs: 0
+KRQAYN_104157	signal	1	28				
+KRQAYN_104157	outside	29	40				
+//
+# KRQAYN_145717 Length: 45
+# KRQAYN_145717 Number of predicted TMRs: 0
+KRQAYN_145717	signal	1	43				
+KRQAYN_145717	outside	44	45				
+//
+# KRQAYN_108925 Length: 36
+# KRQAYN_108925 Number of predicted TMRs: 0
+KRQAYN_108925	inside	1	36				
+//
+# KRQAYN_12760 Length: 49
+# KRQAYN_12760 Number of predicted TMRs: 0
+KRQAYN_12760	signal	1	38				
+KRQAYN_12760	outside	39	49				
+//
+# KRQAYN_98659 Length: 49
+# KRQAYN_98659 Number of predicted TMRs: 0
+KRQAYN_98659	signal	1	10				
+KRQAYN_98659	outside	11	49				
+//
+# KRQAYN_65263 Length: 33
+# KRQAYN_65263 Number of predicted TMRs: 0
+KRQAYN_65263	signal	1	29				
+KRQAYN_65263	outside	30	33				
+//
+# KRQAYN_28323 Length: 28
+# KRQAYN_28323 Number of predicted TMRs: 0
+KRQAYN_28323	signal	1	25				
+KRQAYN_28323	outside	26	28				
+//
+# KRQAYN_145981 Length: 47
+# KRQAYN_145981 Number of predicted TMRs: 0
+KRQAYN_145981	inside	1	47				
+//
+# KRQAYN_35835 Length: 48
+# KRQAYN_35835 Number of predicted TMRs: 0
+KRQAYN_35835	inside	1	48				
+//
+# KRQAYN_23865 Length: 48
+# KRQAYN_23865 Number of predicted TMRs: 0
+KRQAYN_23865	inside	1	48				
+//
+# KRQAYN_174313 Length: 44
+# KRQAYN_174313 Number of predicted TMRs: 0
+KRQAYN_174313	inside	1	44				
+//
+# KRQAYN_69666 Length: 46
+# KRQAYN_69666 Number of predicted TMRs: 0
+KRQAYN_69666	signal	1	45				
+KRQAYN_69666	outside	46	46				
+//
+# KRQAYN_15066 Length: 47
+# KRQAYN_15066 Number of predicted TMRs: 0
+KRQAYN_15066	signal	1	46				
+KRQAYN_15066	outside	47	47				
+//
+# KRQAYN_136173 Length: 45
+# KRQAYN_136173 Number of predicted TMRs: 0
+KRQAYN_136173	signal	1	34				
+KRQAYN_136173	outside	35	45				
+//
+# KRQAYN_140246 Length: 47
+# KRQAYN_140246 Number of predicted TMRs: 0
+KRQAYN_140246	signal	1	34				
+KRQAYN_140246	outside	35	47				
+//
+# KRQAYN_114364 Length: 47
+# KRQAYN_114364 Number of predicted TMRs: 0
+KRQAYN_114364	signal	1	14				
+KRQAYN_114364	outside	15	47				
+//
+# KRQAYN_24865 Length: 48
+# KRQAYN_24865 Number of predicted TMRs: 0
+KRQAYN_24865	signal	1	10				
+KRQAYN_24865	outside	11	48				
+//
+# KRQAYN_60028 Length: 45
+# KRQAYN_60028 Number of predicted TMRs: 0
+KRQAYN_60028	inside	1	45				
+//
+# KRQAYN_169508 Length: 47
+# KRQAYN_169508 Number of predicted TMRs: 0
+KRQAYN_169508	inside	1	47				
+//
+# KRQAYN_30308 Length: 49
+# KRQAYN_30308 Number of predicted TMRs: 0
+KRQAYN_30308	inside	1	49				
+//
+# KRQAYN_43403 Length: 44
+# KRQAYN_43403 Number of predicted TMRs: 0
+KRQAYN_43403	inside	1	44				
+//
+# KRQAYN_30503 Length: 42
+# KRQAYN_30503 Number of predicted TMRs: 0
+KRQAYN_30503	signal	1	39				
+KRQAYN_30503	outside	40	42				
+//
+# KRQAYN_89233 Length: 45
+# KRQAYN_89233 Number of predicted TMRs: 0
+KRQAYN_89233	signal	1	21				
+KRQAYN_89233	outside	22	45				
+//
+# KRQAYN_78070 Length: 50
+# KRQAYN_78070 Number of predicted TMRs: 0
+KRQAYN_78070	inside	1	50				
+//
+# KRQAYN_139705 Length: 49
+# KRQAYN_139705 Number of predicted TMRs: 0
+KRQAYN_139705	inside	1	49				
+//
+# KRQAYN_166244 Length: 49
+# KRQAYN_166244 Number of predicted TMRs: 0
+KRQAYN_166244	inside	1	49				
+//
+# KRQAYN_48874 Length: 48
+# KRQAYN_48874 Number of predicted TMRs: 0
+KRQAYN_48874	inside	1	48				
+//
+# KRQAYN_24117 Length: 48
+# KRQAYN_24117 Number of predicted TMRs: 0
+KRQAYN_24117	inside	1	48				
+//
+# KRQAYN_169822 Length: 50
+# KRQAYN_169822 Number of predicted TMRs: 0
+KRQAYN_169822	inside	1	50				
+//
+# KRQAYN_78836 Length: 40
+# KRQAYN_78836 Number of predicted TMRs: 0
+KRQAYN_78836	signal	1	20				
+KRQAYN_78836	outside	21	40				
+//
+# KRQAYN_78816 Length: 41
+# KRQAYN_78816 Number of predicted TMRs: 0
+KRQAYN_78816	signal	1	21				
+KRQAYN_78816	outside	22	41				
+//
+# KRQAYN_151860 Length: 48
+# KRQAYN_151860 Number of predicted TMRs: 0
+KRQAYN_151860	outside	1	48				
+//
+# KRQAYN_97253 Length: 49
+# KRQAYN_97253 Number of predicted TMRs: 0
+KRQAYN_97253	inside	1	49				
+//
+# KRQAYN_88927 Length: 45
+# KRQAYN_88927 Number of predicted TMRs: 0
+KRQAYN_88927	inside	1	45				
+//
+# KRQAYN_108294 Length: 48
+# KRQAYN_108294 Number of predicted TMRs: 0
+KRQAYN_108294	signal	1	29				
+KRQAYN_108294	outside	30	48				
+//
+# KRQAYN_74329 Length: 46
+# KRQAYN_74329 Number of predicted TMRs: 0
+KRQAYN_74329	inside	1	46				
+//
+# KRQAYN_76057 Length: 44
+# KRQAYN_76057 Number of predicted TMRs: 0
+KRQAYN_76057	inside	1	44				
+//
+# KRQAYN_74177 Length: 49
+# KRQAYN_74177 Number of predicted TMRs: 0
+KRQAYN_74177	inside	1	49				
+//
+# KRQAYN_47922 Length: 50
+# KRQAYN_47922 Number of predicted TMRs: 0
+KRQAYN_47922	inside	1	50				
+//
+# KRQAYN_144875 Length: 43
+# KRQAYN_144875 Number of predicted TMRs: 0
+KRQAYN_144875	inside	1	43				
+//
+# KRQAYN_2422 Length: 43
+# KRQAYN_2422 Number of predicted TMRs: 0
+KRQAYN_2422	signal	1	42				
+KRQAYN_2422	outside	43	43				
+//
+# KRQAYN_142022 Length: 44
+# KRQAYN_142022 Number of predicted TMRs: 0
+KRQAYN_142022	inside	1	44				
+//
+# KRQAYN_153722 Length: 47
+# KRQAYN_153722 Number of predicted TMRs: 0
+KRQAYN_153722	inside	1	47				
+//
+# KRQAYN_141698 Length: 42
+# KRQAYN_141698 Number of predicted TMRs: 0
+KRQAYN_141698	inside	1	42				
+//
+# KRQAYN_127242 Length: 42
+# KRQAYN_127242 Number of predicted TMRs: 0
+KRQAYN_127242	signal	1	27				
+KRQAYN_127242	outside	28	42				
+//
+# KRQAYN_18679 Length: 47
+# KRQAYN_18679 Number of predicted TMRs: 0
+KRQAYN_18679	inside	1	47				
+//
+# KRQAYN_159077 Length: 50
+# KRQAYN_159077 Number of predicted TMRs: 0
+KRQAYN_159077	inside	1	50				
+//
+# KRQAYN_147854 Length: 44
+# KRQAYN_147854 Number of predicted TMRs: 0
+KRQAYN_147854	signal	1	40				
+KRQAYN_147854	outside	41	44				
+//
+# KRQAYN_165366 Length: 44
+# KRQAYN_165366 Number of predicted TMRs: 0
+KRQAYN_165366	inside	1	44				
+//
+# KRQAYN_147543 Length: 44
+# KRQAYN_147543 Number of predicted TMRs: 0
+KRQAYN_147543	signal	1	10				
+KRQAYN_147543	outside	11	44				
+//
+# KRQAYN_2620 Length: 46
+# KRQAYN_2620 Number of predicted TMRs: 0
+KRQAYN_2620	signal	1	12				
+KRQAYN_2620	outside	13	46				
+//
+# KRQAYN_118092 Length: 32
+# KRQAYN_118092 Number of predicted TMRs: 0
+KRQAYN_118092	signal	1	31				
+KRQAYN_118092	outside	32	32				
+//
+# KRQAYN_136703 Length: 38
+# KRQAYN_136703 Number of predicted TMRs: 0
+KRQAYN_136703	inside	1	38				
+//
+# KRQAYN_140805 Length: 46
+# KRQAYN_140805 Number of predicted TMRs: 0
+KRQAYN_140805	signal	1	45				
+KRQAYN_140805	outside	46	46				
+//
+# KRQAYN_88462 Length: 46
+# KRQAYN_88462 Number of predicted TMRs: 0
+KRQAYN_88462	signal	1	32				
+KRQAYN_88462	outside	33	46				
+//
+# KRQAYN_52994 Length: 39
+# KRQAYN_52994 Number of predicted TMRs: 0
+KRQAYN_52994	signal	1	35				
+KRQAYN_52994	outside	36	39				
+//
+# KRQAYN_28369 Length: 49
+# KRQAYN_28369 Number of predicted TMRs: 0
+KRQAYN_28369	signal	1	14				
+KRQAYN_28369	outside	15	49				
+//
+# KRQAYN_74537 Length: 44
+# KRQAYN_74537 Number of predicted TMRs: 0
+KRQAYN_74537	signal	1	11				
+KRQAYN_74537	outside	12	44				
+//
+# KRQAYN_134527 Length: 43
+# KRQAYN_134527 Number of predicted TMRs: 0
+KRQAYN_134527	inside	1	43				
+//
+# KRQAYN_149913 Length: 46
+# KRQAYN_149913 Number of predicted TMRs: 0
+KRQAYN_149913	signal	1	40				
+KRQAYN_149913	outside	41	46				
+//
+# KRQAYN_33788 Length: 40
+# KRQAYN_33788 Number of predicted TMRs: 0
+KRQAYN_33788	signal	1	39				
+KRQAYN_33788	outside	40	40				
+//
+# KRQAYN_80348 Length: 39
+# KRQAYN_80348 Number of predicted TMRs: 0
+KRQAYN_80348	signal	1	38				
+KRQAYN_80348	outside	39	39				
+//
+# KRQAYN_49265 Length: 46
+# KRQAYN_49265 Number of predicted TMRs: 0
+KRQAYN_49265	signal	1	10				
+KRQAYN_49265	outside	11	46				
+//
+# KRQAYN_115674 Length: 49
+# KRQAYN_115674 Number of predicted TMRs: 0
+KRQAYN_115674	signal	1	47				
+KRQAYN_115674	outside	48	49				
+//
+# KRQAYN_10657 Length: 46
+# KRQAYN_10657 Number of predicted TMRs: 0
+KRQAYN_10657	inside	1	46				
+//
+# KRQAYN_84068 Length: 33
+# KRQAYN_84068 Number of predicted TMRs: 0
+KRQAYN_84068	outside	1	33				
+//
+# KRQAYN_70602 Length: 50
+# KRQAYN_70602 Number of predicted TMRs: 0
+KRQAYN_70602	outside	1	50				
+//
+# KRQAYN_59307 Length: 39
+# KRQAYN_59307 Number of predicted TMRs: 0
+KRQAYN_59307	signal	1	17				
+KRQAYN_59307	outside	18	39				
+//
+# KRQAYN_42099 Length: 50
+# KRQAYN_42099 Number of predicted TMRs: 0
+KRQAYN_42099	signal	1	44				
+KRQAYN_42099	outside	45	50				
+//
+# KRQAYN_102275 Length: 49
+# KRQAYN_102275 Number of predicted TMRs: 0
+KRQAYN_102275	signal	1	46				
+KRQAYN_102275	outside	47	49				
+//
+# KRQAYN_37600 Length: 46
+# KRQAYN_37600 Number of predicted TMRs: 0
+KRQAYN_37600	signal	1	11				
+KRQAYN_37600	outside	12	46				
+//
+# KRQAYN_124866 Length: 46
+# KRQAYN_124866 Number of predicted TMRs: 0
+KRQAYN_124866	signal	1	23				
+KRQAYN_124866	outside	24	46				
+//
+# KRQAYN_87230 Length: 45
+# KRQAYN_87230 Number of predicted TMRs: 0
+KRQAYN_87230	inside	1	45				
+//
+# KRQAYN_89339 Length: 49
+# KRQAYN_89339 Number of predicted TMRs: 0
+KRQAYN_89339	signal	1	37				
+KRQAYN_89339	outside	38	49				
+//
+# KRQAYN_59870 Length: 35
+# KRQAYN_59870 Number of predicted TMRs: 0
+KRQAYN_59870	signal	1	30				
+KRQAYN_59870	outside	31	35				
+//
+# KRQAYN_90845 Length: 49
+# KRQAYN_90845 Number of predicted TMRs: 0
+KRQAYN_90845	inside	1	49				
+//
+# KRQAYN_156301 Length: 44
+# KRQAYN_156301 Number of predicted TMRs: 0
+KRQAYN_156301	inside	1	44				
+//
+# KRQAYN_96670 Length: 50
+# KRQAYN_96670 Number of predicted TMRs: 0
+KRQAYN_96670	signal	1	44				
+KRQAYN_96670	outside	45	50				
+//
+# KRQAYN_59007 Length: 35
+# KRQAYN_59007 Number of predicted TMRs: 0
+KRQAYN_59007	signal	1	12				
+KRQAYN_59007	outside	13	35				
+//
+# KRQAYN_157687 Length: 43
+# KRQAYN_157687 Number of predicted TMRs: 0
+KRQAYN_157687	signal	1	35				
+KRQAYN_157687	outside	36	43				
+//
+# KRQAYN_169502 Length: 48
+# KRQAYN_169502 Number of predicted TMRs: 0
+KRQAYN_169502	inside	1	48				
+//
+# KRQAYN_57116 Length: 37
+# KRQAYN_57116 Number of predicted TMRs: 0
+KRQAYN_57116	signal	1	29				
+KRQAYN_57116	outside	30	37				
+//
+# KRQAYN_172921 Length: 40
+# KRQAYN_172921 Number of predicted TMRs: 0
+KRQAYN_172921	signal	1	27				
+KRQAYN_172921	outside	28	40				
+//
+# KRQAYN_89691 Length: 50
+# KRQAYN_89691 Number of predicted TMRs: 0
+KRQAYN_89691	signal	1	43				
+KRQAYN_89691	outside	44	50				
+//
+# KRQAYN_153218 Length: 48
+# KRQAYN_153218 Number of predicted TMRs: 0
+KRQAYN_153218	inside	1	48				
+//
+# KRQAYN_123291 Length: 50
+# KRQAYN_123291 Number of predicted TMRs: 0
+KRQAYN_123291	inside	1	50				
+//
+# KRQAYN_23308 Length: 46
+# KRQAYN_23308 Number of predicted TMRs: 0
+KRQAYN_23308	signal	1	18				
+KRQAYN_23308	outside	19	46				
+//
+# KRQAYN_15186 Length: 42
+# KRQAYN_15186 Number of predicted TMRs: 0
+KRQAYN_15186	signal	1	41				
+KRQAYN_15186	outside	42	42				
+//
+# KRQAYN_133155 Length: 42
+# KRQAYN_133155 Number of predicted TMRs: 0
+KRQAYN_133155	inside	1	42				
+//
+# KRQAYN_170972 Length: 42
+# KRQAYN_170972 Number of predicted TMRs: 0
+KRQAYN_170972	inside	1	42				
+//
+# KRQAYN_125764 Length: 42
+# KRQAYN_125764 Number of predicted TMRs: 0
+KRQAYN_125764	inside	1	42				
+//
+# KRQAYN_145150 Length: 42
+# KRQAYN_145150 Number of predicted TMRs: 0
+KRQAYN_145150	signal	1	40				
+KRQAYN_145150	outside	41	42				
+//
+# KRQAYN_173201 Length: 42
+# KRQAYN_173201 Number of predicted TMRs: 0
+KRQAYN_173201	signal	1	41				
+KRQAYN_173201	outside	42	42				
+//
+# KRQAYN_172777 Length: 42
+# KRQAYN_172777 Number of predicted TMRs: 0
+KRQAYN_172777	inside	1	42				
+//
+# KRQAYN_174078 Length: 42
+# KRQAYN_174078 Number of predicted TMRs: 0
+KRQAYN_174078	inside	1	42				
+//
+# KRQAYN_129605 Length: 42
+# KRQAYN_129605 Number of predicted TMRs: 0
+KRQAYN_129605	inside	1	42				
+//
+# KRQAYN_174335 Length: 42
+# KRQAYN_174335 Number of predicted TMRs: 0
+KRQAYN_174335	signal	1	41				
+KRQAYN_174335	outside	42	42				
+//
+# KRQAYN_174128 Length: 42
+# KRQAYN_174128 Number of predicted TMRs: 0
+KRQAYN_174128	inside	1	42				
+//
+# KRQAYN_114428 Length: 42
+# KRQAYN_114428 Number of predicted TMRs: 0
+KRQAYN_114428	inside	1	42				
+//
+# KRQAYN_150273 Length: 42
+# KRQAYN_150273 Number of predicted TMRs: 0
+KRQAYN_150273	signal	1	41				
+KRQAYN_150273	outside	42	42				
+//
+# KRQAYN_172679 Length: 41
+# KRQAYN_172679 Number of predicted TMRs: 0
+KRQAYN_172679	signal	1	37				
+KRQAYN_172679	outside	38	41				
+//
+# KRQAYN_16766 Length: 42
+# KRQAYN_16766 Number of predicted TMRs: 0
+KRQAYN_16766	signal	1	40				
+KRQAYN_16766	outside	41	42				
+//
+# KRQAYN_120535 Length: 42
+# KRQAYN_120535 Number of predicted TMRs: 0
+KRQAYN_120535	signal	1	41				
+KRQAYN_120535	outside	42	42				
+//
+# KRQAYN_140083 Length: 42
+# KRQAYN_140083 Number of predicted TMRs: 0
+KRQAYN_140083	inside	1	42				
+//
+# KRQAYN_44646 Length: 42
+# KRQAYN_44646 Number of predicted TMRs: 0
+KRQAYN_44646	inside	1	42				
+//
+# KRQAYN_7193 Length: 42
+# KRQAYN_7193 Number of predicted TMRs: 0
+KRQAYN_7193	signal	1	41				
+KRQAYN_7193	outside	42	42				
+//
+# KRQAYN_119530 Length: 42
+# KRQAYN_119530 Number of predicted TMRs: 0
+KRQAYN_119530	signal	1	41				
+KRQAYN_119530	outside	42	42				
+//
+# KRQAYN_125774 Length: 42
+# KRQAYN_125774 Number of predicted TMRs: 0
+KRQAYN_125774	inside	1	42				
+//
+# KRQAYN_170987 Length: 42
+# KRQAYN_170987 Number of predicted TMRs: 0
+KRQAYN_170987	signal	1	41				
+KRQAYN_170987	outside	42	42				
+//
+# KRQAYN_165883 Length: 42
+# KRQAYN_165883 Number of predicted TMRs: 0
+KRQAYN_165883	inside	1	42				
+//
+# KRQAYN_94412 Length: 42
+# KRQAYN_94412 Number of predicted TMRs: 0
+KRQAYN_94412	inside	1	42				
+//
+# KRQAYN_174183 Length: 42
+# KRQAYN_174183 Number of predicted TMRs: 0
+KRQAYN_174183	inside	1	42				
+//
+# KRQAYN_44758 Length: 42
+# KRQAYN_44758 Number of predicted TMRs: 0
+KRQAYN_44758	signal	1	41				
+KRQAYN_44758	outside	42	42				
+//
+# KRQAYN_172893 Length: 42
+# KRQAYN_172893 Number of predicted TMRs: 0
+KRQAYN_172893	signal	1	41				
+KRQAYN_172893	outside	42	42				
+//
+# KRQAYN_172043 Length: 42
+# KRQAYN_172043 Number of predicted TMRs: 0
+KRQAYN_172043	signal	1	41				
+KRQAYN_172043	outside	42	42				
+//
+# KRQAYN_174493 Length: 42
+# KRQAYN_174493 Number of predicted TMRs: 0
+KRQAYN_174493	signal	1	41				
+KRQAYN_174493	outside	42	42				
+//
+# KRQAYN_15777 Length: 42
+# KRQAYN_15777 Number of predicted TMRs: 0
+KRQAYN_15777	inside	1	42				
+//
+# KRQAYN_145413 Length: 42
+# KRQAYN_145413 Number of predicted TMRs: 0
+KRQAYN_145413	inside	1	42				
+//
+# KRQAYN_166545 Length: 42
+# KRQAYN_166545 Number of predicted TMRs: 0
+KRQAYN_166545	signal	1	41				
+KRQAYN_166545	outside	42	42				
+//
+# KRQAYN_169429 Length: 42
+# KRQAYN_169429 Number of predicted TMRs: 0
+KRQAYN_169429	signal	1	41				
+KRQAYN_169429	outside	42	42				
+//
+# KRQAYN_91731 Length: 42
+# KRQAYN_91731 Number of predicted TMRs: 0
+KRQAYN_91731	signal	1	41				
+KRQAYN_91731	outside	42	42				
+//
+# KRQAYN_23260 Length: 38
+# KRQAYN_23260 Number of predicted TMRs: 0
+KRQAYN_23260	signal	1	10				
+KRQAYN_23260	outside	11	38				
+//
+# KRQAYN_168244 Length: 35
+# KRQAYN_168244 Number of predicted TMRs: 0
+KRQAYN_168244	signal	1	33				
+KRQAYN_168244	outside	34	35				
+//
+# KRQAYN_78405 Length: 41
+# KRQAYN_78405 Number of predicted TMRs: 0
+KRQAYN_78405	signal	1	21				
+KRQAYN_78405	outside	22	41				
+//
+# KRQAYN_170302 Length: 45
+# KRQAYN_170302 Number of predicted TMRs: 0
+KRQAYN_170302	signal	1	29				
+KRQAYN_170302	outside	30	45				
+//
+# KRQAYN_142091 Length: 44
+# KRQAYN_142091 Number of predicted TMRs: 0
+KRQAYN_142091	inside	1	44				
+//
+# KRQAYN_28521 Length: 44
+# KRQAYN_28521 Number of predicted TMRs: 0
+KRQAYN_28521	signal	1	35				
+KRQAYN_28521	outside	36	44				
+//
+# KRQAYN_61942 Length: 48
+# KRQAYN_61942 Number of predicted TMRs: 0
+KRQAYN_61942	signal	1	38				
+KRQAYN_61942	outside	39	48				
+//
+# KRQAYN_130251 Length: 49
+# KRQAYN_130251 Number of predicted TMRs: 0
+KRQAYN_130251	inside	1	49				
+//
+# KRQAYN_2856 Length: 44
+# KRQAYN_2856 Number of predicted TMRs: 0
+KRQAYN_2856	signal	1	31				
+KRQAYN_2856	outside	32	44				
+//
+# KRQAYN_129461 Length: 50
+# KRQAYN_129461 Number of predicted TMRs: 0
+KRQAYN_129461	inside	1	50				
+//
+# KRQAYN_136270 Length: 42
+# KRQAYN_136270 Number of predicted TMRs: 0
+KRQAYN_136270	signal	1	40				
+KRQAYN_136270	outside	41	42				
+//
+# KRQAYN_56387 Length: 44
+# KRQAYN_56387 Number of predicted TMRs: 0
+KRQAYN_56387	signal	1	34				
+KRQAYN_56387	outside	35	44				
+//
+# KRQAYN_37850 Length: 46
+# KRQAYN_37850 Number of predicted TMRs: 0
+KRQAYN_37850	signal	1	10				
+KRQAYN_37850	outside	11	46				
+//
+# KRQAYN_146257 Length: 47
+# KRQAYN_146257 Number of predicted TMRs: 0
+KRQAYN_146257	inside	1	47				
+//
+# KRQAYN_134261 Length: 47
+# KRQAYN_134261 Number of predicted TMRs: 0
+KRQAYN_134261	inside	1	47				
+//
+# KRQAYN_67539 Length: 35
+# KRQAYN_67539 Number of predicted TMRs: 0
+KRQAYN_67539	signal	1	20				
+KRQAYN_67539	outside	21	35				
+//
+# KRQAYN_55522 Length: 44
+# KRQAYN_55522 Number of predicted TMRs: 0
+KRQAYN_55522	signal	1	32				
+KRQAYN_55522	outside	33	44				
+//
+# KRQAYN_153982 Length: 50
+# KRQAYN_153982 Number of predicted TMRs: 0
+KRQAYN_153982	signal	1	38				
+KRQAYN_153982	outside	39	50				
+//
+# KRQAYN_98242 Length: 38
+# KRQAYN_98242 Number of predicted TMRs: 0
+KRQAYN_98242	inside	1	38				
+//
+# KRQAYN_133872 Length: 44
+# KRQAYN_133872 Number of predicted TMRs: 0
+KRQAYN_133872	signal	1	10				
+KRQAYN_133872	outside	11	44				
+//
+# KRQAYN_92092 Length: 38
+# KRQAYN_92092 Number of predicted TMRs: 0
+KRQAYN_92092	outside	1	38				
+//
+# KRQAYN_44477 Length: 45
+# KRQAYN_44477 Number of predicted TMRs: 0
+KRQAYN_44477	inside	1	45				
+//
+# KRQAYN_14967 Length: 47
+# KRQAYN_14967 Number of predicted TMRs: 0
+KRQAYN_14967	signal	1	41				
+KRQAYN_14967	outside	42	47				
+//
+# KRQAYN_80300 Length: 49
+# KRQAYN_80300 Number of predicted TMRs: 0
+KRQAYN_80300	inside	1	49				
+//
+# KRQAYN_93260 Length: 45
+# KRQAYN_93260 Number of predicted TMRs: 0
+KRQAYN_93260	inside	1	45				
+//
+# KRQAYN_174243 Length: 41
+# KRQAYN_174243 Number of predicted TMRs: 0
+KRQAYN_174243	inside	1	41				
+//
+# KRQAYN_166033 Length: 43
+# KRQAYN_166033 Number of predicted TMRs: 0
+KRQAYN_166033	inside	1	43				
+//
+# KRQAYN_9608 Length: 44
+# KRQAYN_9608 Number of predicted TMRs: 0
+KRQAYN_9608	signal	1	42				
+KRQAYN_9608	outside	43	44				
+//
+# KRQAYN_136038 Length: 50
+# KRQAYN_136038 Number of predicted TMRs: 0
+KRQAYN_136038	inside	1	50				
+//
+# KRQAYN_119197 Length: 48
+# KRQAYN_119197 Number of predicted TMRs: 0
+KRQAYN_119197	inside	1	48				
+//
+# KRQAYN_141819 Length: 47
+# KRQAYN_141819 Number of predicted TMRs: 0
+KRQAYN_141819	inside	1	47				
+//
+# KRQAYN_100318 Length: 37
+# KRQAYN_100318 Number of predicted TMRs: 0
+KRQAYN_100318	signal	1	35				
+KRQAYN_100318	outside	36	37				
+//
+# KRQAYN_75186 Length: 43
+# KRQAYN_75186 Number of predicted TMRs: 0
+KRQAYN_75186	signal	1	15				
+KRQAYN_75186	outside	16	43				
+//
+# KRQAYN_48331 Length: 49
+# KRQAYN_48331 Number of predicted TMRs: 0
+KRQAYN_48331	inside	1	49				
+//
+# KRQAYN_93608 Length: 50
+# KRQAYN_93608 Number of predicted TMRs: 0
+KRQAYN_93608	inside	1	50				
+//
+# KRQAYN_18291 Length: 46
+# KRQAYN_18291 Number of predicted TMRs: 0
+KRQAYN_18291	signal	1	26				
+KRQAYN_18291	outside	27	46				
+//
+# KRQAYN_116861 Length: 41
+# KRQAYN_116861 Number of predicted TMRs: 0
+KRQAYN_116861	inside	1	41				
+//
+# KRQAYN_69812 Length: 49
+# KRQAYN_69812 Number of predicted TMRs: 0
+KRQAYN_69812	inside	1	49				
+//
+# KRQAYN_6374 Length: 45
+# KRQAYN_6374 Number of predicted TMRs: 0
+KRQAYN_6374	signal	1	44				
+KRQAYN_6374	outside	45	45				
+//
+# KRQAYN_67814 Length: 41
+# KRQAYN_67814 Number of predicted TMRs: 0
+KRQAYN_67814	inside	1	41				
+//
+# KRQAYN_170138 Length: 41
+# KRQAYN_170138 Number of predicted TMRs: 0
+KRQAYN_170138	inside	1	41				
+//
+# KRQAYN_148627 Length: 44
+# KRQAYN_148627 Number of predicted TMRs: 0
+KRQAYN_148627	signal	1	42				
+KRQAYN_148627	outside	43	44				
+//
+# KRQAYN_138518 Length: 34
+# KRQAYN_138518 Number of predicted TMRs: 0
+KRQAYN_138518	signal	1	33				
+KRQAYN_138518	outside	34	34				
+//
+# KRQAYN_21391 Length: 47
+# KRQAYN_21391 Number of predicted TMRs: 0
+KRQAYN_21391	signal	1	10				
+KRQAYN_21391	outside	11	47				
+//
+# KRQAYN_166503 Length: 42
+# KRQAYN_166503 Number of predicted TMRs: 0
+KRQAYN_166503	signal	1	15				
+KRQAYN_166503	outside	16	42				
+//
+# KRQAYN_73557 Length: 50
+# KRQAYN_73557 Number of predicted TMRs: 0
+KRQAYN_73557	inside	1	50				
+//
+# KRQAYN_41829 Length: 50
+# KRQAYN_41829 Number of predicted TMRs: 0
+KRQAYN_41829	outside	1	50				
+//
+# KRQAYN_2091 Length: 46
+# KRQAYN_2091 Number of predicted TMRs: 0
+KRQAYN_2091	inside	1	46				
+//
+# KRQAYN_169705 Length: 41
+# KRQAYN_169705 Number of predicted TMRs: 0
+KRQAYN_169705	signal	1	32				
+KRQAYN_169705	outside	33	41				
+//
+# KRQAYN_17308 Length: 47
+# KRQAYN_17308 Number of predicted TMRs: 0
+KRQAYN_17308	signal	1	28				
+KRQAYN_17308	outside	29	47				
+//
+# KRQAYN_118321 Length: 46
+# KRQAYN_118321 Number of predicted TMRs: 0
+KRQAYN_118321	signal	1	15				
+KRQAYN_118321	outside	16	46				
+//
+# KRQAYN_49868 Length: 41
+# KRQAYN_49868 Number of predicted TMRs: 0
+KRQAYN_49868	signal	1	36				
+KRQAYN_49868	outside	37	41				
+//
+# KRQAYN_119921 Length: 41
+# KRQAYN_119921 Number of predicted TMRs: 0
+KRQAYN_119921	signal	1	32				
+KRQAYN_119921	outside	33	41				
+//
+# KRQAYN_21188 Length: 48
+# KRQAYN_21188 Number of predicted TMRs: 0
+KRQAYN_21188	inside	1	48				
+//
+# KRQAYN_123717 Length: 41
+# KRQAYN_123717 Number of predicted TMRs: 0
+KRQAYN_123717	outside	1	41				
+//
+# KRQAYN_107724 Length: 40
+# KRQAYN_107724 Number of predicted TMRs: 0
+KRQAYN_107724	signal	1	14				
+KRQAYN_107724	outside	15	40				
+//
+# KRQAYN_55863 Length: 46
+# KRQAYN_55863 Number of predicted TMRs: 0
+KRQAYN_55863	inside	1	46				
+//
+# KRQAYN_18079 Length: 49
+# KRQAYN_18079 Number of predicted TMRs: 0
+KRQAYN_18079	signal	1	24				
+KRQAYN_18079	outside	25	49				
+//
+# KRQAYN_55323 Length: 50
+# KRQAYN_55323 Number of predicted TMRs: 0
+KRQAYN_55323	signal	1	43				
+KRQAYN_55323	outside	44	50				
+//
+# KRQAYN_110878 Length: 48
+# KRQAYN_110878 Number of predicted TMRs: 0
+KRQAYN_110878	inside	1	48				
+//
+# KRQAYN_91445 Length: 42
+# KRQAYN_91445 Number of predicted TMRs: 0
+KRQAYN_91445	signal	1	27				
+KRQAYN_91445	outside	28	42				
+//
+# KRQAYN_14776 Length: 47
+# KRQAYN_14776 Number of predicted TMRs: 0
+KRQAYN_14776	inside	1	47				
+//
+# KRQAYN_84403 Length: 42
+# KRQAYN_84403 Number of predicted TMRs: 0
+KRQAYN_84403	signal	1	18				
+KRQAYN_84403	outside	19	42				
+//
+# KRQAYN_129507 Length: 45
+# KRQAYN_129507 Number of predicted TMRs: 0
+KRQAYN_129507	inside	1	45				
+//
+# KRQAYN_42819 Length: 50
+# KRQAYN_42819 Number of predicted TMRs: 0
+KRQAYN_42819	inside	1	50				
+//
+# KRQAYN_70053 Length: 49
+# KRQAYN_70053 Number of predicted TMRs: 0
+KRQAYN_70053	signal	1	47				
+KRQAYN_70053	outside	48	49				
+//
+# KRQAYN_65475 Length: 37
+# KRQAYN_65475 Number of predicted TMRs: 0
+KRQAYN_65475	inside	1	37				
+//
+# KRQAYN_415 Length: 41
+# KRQAYN_415 Number of predicted TMRs: 0
+KRQAYN_415	inside	1	41				
+//
+# KRQAYN_170634 Length: 44
+# KRQAYN_170634 Number of predicted TMRs: 0
+KRQAYN_170634	inside	1	44				
+//
+# KRQAYN_82267 Length: 48
+# KRQAYN_82267 Number of predicted TMRs: 0
+KRQAYN_82267	inside	1	48				
+//
+# KRQAYN_43236 Length: 50
+# KRQAYN_43236 Number of predicted TMRs: 0
+KRQAYN_43236	signal	1	12				
+KRQAYN_43236	outside	13	50				
+//
+# KRQAYN_16309 Length: 39
+# KRQAYN_16309 Number of predicted TMRs: 0
+KRQAYN_16309	inside	1	39				
+//
+# KRQAYN_22387 Length: 50
+# KRQAYN_22387 Number of predicted TMRs: 0
+KRQAYN_22387	outside	1	50				
+//
+# KRQAYN_56 Length: 41
+# KRQAYN_56 Number of predicted TMRs: 0
+KRQAYN_56	signal	1	13				
+KRQAYN_56	outside	14	41				
+//
+# KRQAYN_51552 Length: 40
+# KRQAYN_51552 Number of predicted TMRs: 0
+KRQAYN_51552	inside	1	40				
+//
+# KRQAYN_26337 Length: 42
+# KRQAYN_26337 Number of predicted TMRs: 0
+KRQAYN_26337	outside	1	42				
+//
+# KRQAYN_106301 Length: 41
+# KRQAYN_106301 Number of predicted TMRs: 0
+KRQAYN_106301	signal	1	40				
+KRQAYN_106301	outside	41	41				
+//
+# KRQAYN_145783 Length: 37
+# KRQAYN_145783 Number of predicted TMRs: 0
+KRQAYN_145783	signal	1	30				
+KRQAYN_145783	outside	31	37				
+//
+# KRQAYN_99801 Length: 50
+# KRQAYN_99801 Number of predicted TMRs: 0
+KRQAYN_99801	inside	1	50				
+//
+# KRQAYN_143502 Length: 49
+# KRQAYN_143502 Number of predicted TMRs: 0
+KRQAYN_143502	outside	1	49				
+//
+# KRQAYN_113330 Length: 41
+# KRQAYN_113330 Number of predicted TMRs: 0
+KRQAYN_113330	signal	1	29				
+KRQAYN_113330	outside	30	41				
+//
+# KRQAYN_96062 Length: 42
+# KRQAYN_96062 Number of predicted TMRs: 0
+KRQAYN_96062	signal	1	16				
+KRQAYN_96062	outside	17	42				
+//
+# KRQAYN_38479 Length: 49
+# KRQAYN_38479 Number of predicted TMRs: 0
+KRQAYN_38479	signal	1	23				
+KRQAYN_38479	outside	24	49				
+//
+# KRQAYN_104456 Length: 44
+# KRQAYN_104456 Number of predicted TMRs: 0
+KRQAYN_104456	inside	1	44				
+//
+# KRQAYN_32935 Length: 44
+# KRQAYN_32935 Number of predicted TMRs: 0
+KRQAYN_32935	inside	1	44				
+//
+# KRQAYN_18405 Length: 46
+# KRQAYN_18405 Number of predicted TMRs: 0
+KRQAYN_18405	inside	1	46				
+//
+# KRQAYN_41215 Length: 44
+# KRQAYN_41215 Number of predicted TMRs: 0
+KRQAYN_41215	inside	1	44				
+//
+# KRQAYN_11174 Length: 38
+# KRQAYN_11174 Number of predicted TMRs: 0
+KRQAYN_11174	inside	1	38				
+//
+# KRQAYN_7927 Length: 42
+# KRQAYN_7927 Number of predicted TMRs: 0
+KRQAYN_7927	signal	1	32				
+KRQAYN_7927	outside	33	42				
+//
+# KRQAYN_74027 Length: 45
+# KRQAYN_74027 Number of predicted TMRs: 0
+KRQAYN_74027	inside	1	45				
+//
+# KRQAYN_68241 Length: 50
+# KRQAYN_68241 Number of predicted TMRs: 0
+KRQAYN_68241	signal	1	11				
+KRQAYN_68241	outside	12	50				
+//
+# KRQAYN_17809 Length: 49
+# KRQAYN_17809 Number of predicted TMRs: 0
+KRQAYN_17809	inside	1	49				
+//
+# KRQAYN_5969 Length: 48
+# KRQAYN_5969 Number of predicted TMRs: 0
+KRQAYN_5969	inside	1	48				
+//
+# KRQAYN_123841 Length: 40
+# KRQAYN_123841 Number of predicted TMRs: 0
+KRQAYN_123841	signal	1	39				
+KRQAYN_123841	outside	40	40				
+//
+# KRQAYN_44779 Length: 50
+# KRQAYN_44779 Number of predicted TMRs: 0
+KRQAYN_44779	signal	1	47				
+KRQAYN_44779	outside	48	50				

@@ -1,0 +1,4366 @@
+##gff-version 3
+# NDBKHW_139094 Length: 50
+# NDBKHW_139094 Number of predicted TMRs: 0
+NDBKHW_139094	inside	1	50				
+//
+# NDBKHW_61327 Length: 46
+# NDBKHW_61327 Number of predicted TMRs: 0
+NDBKHW_61327	signal	1	20				
+NDBKHW_61327	outside	21	46				
+//
+# NDBKHW_57620 Length: 46
+# NDBKHW_57620 Number of predicted TMRs: 0
+NDBKHW_57620	inside	1	46				
+//
+# NDBKHW_20827 Length: 30
+# NDBKHW_20827 Number of predicted TMRs: 0
+NDBKHW_20827	signal	1	28				
+NDBKHW_20827	outside	29	30				
+//
+# NDBKHW_37053 Length: 46
+# NDBKHW_37053 Number of predicted TMRs: 0
+NDBKHW_37053	inside	1	46				
+//
+# NDBKHW_33987 Length: 44
+# NDBKHW_33987 Number of predicted TMRs: 0
+NDBKHW_33987	inside	1	44				
+//
+# NDBKHW_69593 Length: 44
+# NDBKHW_69593 Number of predicted TMRs: 0
+NDBKHW_69593	inside	1	44				
+//
+# NDBKHW_14685 Length: 46
+# NDBKHW_14685 Number of predicted TMRs: 0
+NDBKHW_14685	signal	1	19				
+NDBKHW_14685	outside	20	46				
+//
+# NDBKHW_122666 Length: 47
+# NDBKHW_122666 Number of predicted TMRs: 0
+NDBKHW_122666	inside	1	47				
+//
+# NDBKHW_110942 Length: 39
+# NDBKHW_110942 Number of predicted TMRs: 0
+NDBKHW_110942	signal	1	38				
+NDBKHW_110942	outside	39	39				
+//
+# NDBKHW_110332 Length: 43
+# NDBKHW_110332 Number of predicted TMRs: 0
+NDBKHW_110332	signal	1	12				
+NDBKHW_110332	outside	13	43				
+//
+# NDBKHW_105152 Length: 46
+# NDBKHW_105152 Number of predicted TMRs: 0
+NDBKHW_105152	inside	1	46				
+//
+# NDBKHW_13900 Length: 49
+# NDBKHW_13900 Number of predicted TMRs: 0
+NDBKHW_13900	inside	1	49				
+//
+# NDBKHW_98485 Length: 29
+# NDBKHW_98485 Number of predicted TMRs: 0
+NDBKHW_98485	inside	1	29				
+//
+# NDBKHW_97699 Length: 45
+# NDBKHW_97699 Number of predicted TMRs: 0
+NDBKHW_97699	signal	1	33				
+NDBKHW_97699	outside	34	45				
+//
+# NDBKHW_131070 Length: 43
+# NDBKHW_131070 Number of predicted TMRs: 0
+NDBKHW_131070	inside	1	43				
+//
+# NDBKHW_123918 Length: 39
+# NDBKHW_123918 Number of predicted TMRs: 0
+NDBKHW_123918	inside	1	39				
+//
+# NDBKHW_60161 Length: 36
+# NDBKHW_60161 Number of predicted TMRs: 0
+NDBKHW_60161	inside	1	36				
+//
+# NDBKHW_42778 Length: 49
+# NDBKHW_42778 Number of predicted TMRs: 0
+NDBKHW_42778	signal	1	12				
+NDBKHW_42778	outside	13	49				
+//
+# NDBKHW_137900 Length: 49
+# NDBKHW_137900 Number of predicted TMRs: 0
+NDBKHW_137900	inside	1	49				
+//
+# NDBKHW_82937 Length: 48
+# NDBKHW_82937 Number of predicted TMRs: 0
+NDBKHW_82937	inside	1	48				
+//
+# NDBKHW_124894 Length: 45
+# NDBKHW_124894 Number of predicted TMRs: 0
+NDBKHW_124894	inside	1	45				
+//
+# NDBKHW_22640 Length: 49
+# NDBKHW_22640 Number of predicted TMRs: 0
+NDBKHW_22640	inside	1	49				
+//
+# NDBKHW_59933 Length: 39
+# NDBKHW_59933 Number of predicted TMRs: 0
+NDBKHW_59933	inside	1	39				
+//
+# NDBKHW_148230 Length: 46
+# NDBKHW_148230 Number of predicted TMRs: 0
+NDBKHW_148230	inside	1	46				
+//
+# NDBKHW_133330 Length: 40
+# NDBKHW_133330 Number of predicted TMRs: 0
+NDBKHW_133330	inside	1	40				
+//
+# NDBKHW_128487 Length: 40
+# NDBKHW_128487 Number of predicted TMRs: 0
+NDBKHW_128487	inside	1	40				
+//
+# NDBKHW_30896 Length: 39
+# NDBKHW_30896 Number of predicted TMRs: 1
+NDBKHW_30896	signal	1	13				
+NDBKHW_30896	outside	14	14				
+NDBKHW_30896	TMhelix	15	34				
+NDBKHW_30896	inside	35	39				
+//
+# NDBKHW_92489 Length: 43
+# NDBKHW_92489 Number of predicted TMRs: 0
+NDBKHW_92489	signal	1	42				
+NDBKHW_92489	outside	43	43				
+//
+# NDBKHW_101069 Length: 42
+# NDBKHW_101069 Number of predicted TMRs: 0
+NDBKHW_101069	signal	1	29				
+NDBKHW_101069	outside	30	42				
+//
+# NDBKHW_52017 Length: 36
+# NDBKHW_52017 Number of predicted TMRs: 0
+NDBKHW_52017	inside	1	36				
+//
+# NDBKHW_27420 Length: 31
+# NDBKHW_27420 Number of predicted TMRs: 0
+NDBKHW_27420	inside	1	31				
+//
+# NDBKHW_91772 Length: 50
+# NDBKHW_91772 Number of predicted TMRs: 0
+NDBKHW_91772	inside	1	50				
+//
+# NDBKHW_31121 Length: 48
+# NDBKHW_31121 Number of predicted TMRs: 0
+NDBKHW_31121	inside	1	48				
+//
+# NDBKHW_77061 Length: 48
+# NDBKHW_77061 Number of predicted TMRs: 0
+NDBKHW_77061	inside	1	48				
+//
+# NDBKHW_65841 Length: 46
+# NDBKHW_65841 Number of predicted TMRs: 0
+NDBKHW_65841	inside	1	46				
+//
+# NDBKHW_46980 Length: 34
+# NDBKHW_46980 Number of predicted TMRs: 0
+NDBKHW_46980	signal	1	30				
+NDBKHW_46980	outside	31	34				
+//
+# NDBKHW_9000 Length: 34
+# NDBKHW_9000 Number of predicted TMRs: 0
+NDBKHW_9000	signal	1	33				
+NDBKHW_9000	outside	34	34				
+//
+# NDBKHW_87273 Length: 48
+# NDBKHW_87273 Number of predicted TMRs: 0
+NDBKHW_87273	inside	1	48				
+//
+# NDBKHW_5233 Length: 45
+# NDBKHW_5233 Number of predicted TMRs: 0
+NDBKHW_5233	signal	1	10				
+NDBKHW_5233	outside	11	45				
+//
+# NDBKHW_126766 Length: 44
+# NDBKHW_126766 Number of predicted TMRs: 0
+NDBKHW_126766	signal	1	20				
+NDBKHW_126766	outside	21	44				
+//
+# NDBKHW_161650 Length: 40
+# NDBKHW_161650 Number of predicted TMRs: 0
+NDBKHW_161650	inside	1	40				
+//
+# NDBKHW_96624 Length: 40
+# NDBKHW_96624 Number of predicted TMRs: 0
+NDBKHW_96624	inside	1	40				
+//
+# NDBKHW_96642 Length: 31
+# NDBKHW_96642 Number of predicted TMRs: 0
+NDBKHW_96642	inside	1	31				
+//
+# NDBKHW_111741 Length: 50
+# NDBKHW_111741 Number of predicted TMRs: 0
+NDBKHW_111741	inside	1	50				
+//
+# NDBKHW_79966 Length: 40
+# NDBKHW_79966 Number of predicted TMRs: 0
+NDBKHW_79966	inside	1	40				
+//
+# NDBKHW_69754 Length: 42
+# NDBKHW_69754 Number of predicted TMRs: 0
+NDBKHW_69754	inside	1	42				
+//
+# NDBKHW_113442 Length: 45
+# NDBKHW_113442 Number of predicted TMRs: 0
+NDBKHW_113442	inside	1	45				
+//
+# NDBKHW_113040 Length: 49
+# NDBKHW_113040 Number of predicted TMRs: 0
+NDBKHW_113040	inside	1	49				
+//
+# NDBKHW_88331 Length: 44
+# NDBKHW_88331 Number of predicted TMRs: 0
+NDBKHW_88331	inside	1	44				
+//
+# NDBKHW_36157 Length: 46
+# NDBKHW_36157 Number of predicted TMRs: 0
+NDBKHW_36157	inside	1	46				
+//
+# NDBKHW_36155 Length: 41
+# NDBKHW_36155 Number of predicted TMRs: 0
+NDBKHW_36155	inside	1	41				
+//
+# NDBKHW_71983 Length: 49
+# NDBKHW_71983 Number of predicted TMRs: 0
+NDBKHW_71983	inside	1	49				
+//
+# NDBKHW_23645 Length: 47
+# NDBKHW_23645 Number of predicted TMRs: 0
+NDBKHW_23645	inside	1	47				
+//
+# NDBKHW_8033 Length: 36
+# NDBKHW_8033 Number of predicted TMRs: 0
+NDBKHW_8033	inside	1	36				
+//
+# NDBKHW_7171 Length: 49
+# NDBKHW_7171 Number of predicted TMRs: 0
+NDBKHW_7171	inside	1	49				
+//
+# NDBKHW_27595 Length: 50
+# NDBKHW_27595 Number of predicted TMRs: 0
+NDBKHW_27595	signal	1	49				
+NDBKHW_27595	outside	50	50				
+//
+# NDBKHW_138032 Length: 49
+# NDBKHW_138032 Number of predicted TMRs: 0
+NDBKHW_138032	inside	1	49				
+//
+# NDBKHW_167251 Length: 46
+# NDBKHW_167251 Number of predicted TMRs: 0
+NDBKHW_167251	inside	1	46				
+//
+# NDBKHW_73258 Length: 40
+# NDBKHW_73258 Number of predicted TMRs: 0
+NDBKHW_73258	inside	1	40				
+//
+# NDBKHW_62786 Length: 43
+# NDBKHW_62786 Number of predicted TMRs: 0
+NDBKHW_62786	signal	1	18				
+NDBKHW_62786	outside	19	43				
+//
+# NDBKHW_144986 Length: 47
+# NDBKHW_144986 Number of predicted TMRs: 0
+NDBKHW_144986	inside	1	47				
+//
+# NDBKHW_142617 Length: 44
+# NDBKHW_142617 Number of predicted TMRs: 0
+NDBKHW_142617	inside	1	44				
+//
+# NDBKHW_66831 Length: 28
+# NDBKHW_66831 Number of predicted TMRs: 0
+NDBKHW_66831	signal	1	27				
+NDBKHW_66831	outside	28	28				
+//
+# NDBKHW_116555 Length: 46
+# NDBKHW_116555 Number of predicted TMRs: 0
+NDBKHW_116555	signal	1	45				
+NDBKHW_116555	outside	46	46				
+//
+# NDBKHW_7838 Length: 40
+# NDBKHW_7838 Number of predicted TMRs: 0
+NDBKHW_7838	signal	1	14				
+NDBKHW_7838	outside	15	40				
+//
+# NDBKHW_137710 Length: 41
+# NDBKHW_137710 Number of predicted TMRs: 0
+NDBKHW_137710	signal	1	37				
+NDBKHW_137710	outside	38	41				
+//
+# NDBKHW_10987 Length: 37
+# NDBKHW_10987 Number of predicted TMRs: 0
+NDBKHW_10987	signal	1	33				
+NDBKHW_10987	outside	34	37				
+//
+# NDBKHW_67640 Length: 49
+# NDBKHW_67640 Number of predicted TMRs: 0
+NDBKHW_67640	inside	1	49				
+//
+# NDBKHW_57635 Length: 33
+# NDBKHW_57635 Number of predicted TMRs: 0
+NDBKHW_57635	inside	1	33				
+//
+# NDBKHW_57632 Length: 50
+# NDBKHW_57632 Number of predicted TMRs: 0
+NDBKHW_57632	inside	1	50				
+//
+# NDBKHW_120505 Length: 41
+# NDBKHW_120505 Number of predicted TMRs: 0
+NDBKHW_120505	inside	1	41				
+//
+# NDBKHW_64907 Length: 42
+# NDBKHW_64907 Number of predicted TMRs: 0
+NDBKHW_64907	inside	1	42				
+//
+# NDBKHW_142395 Length: 30
+# NDBKHW_142395 Number of predicted TMRs: 0
+NDBKHW_142395	inside	1	30				
+//
+# NDBKHW_165510 Length: 43
+# NDBKHW_165510 Number of predicted TMRs: 0
+NDBKHW_165510	inside	1	43				
+//
+# NDBKHW_55326 Length: 46
+# NDBKHW_55326 Number of predicted TMRs: 0
+NDBKHW_55326	inside	1	46				
+//
+# NDBKHW_94687 Length: 45
+# NDBKHW_94687 Number of predicted TMRs: 0
+NDBKHW_94687	inside	1	45				
+//
+# NDBKHW_29771 Length: 50
+# NDBKHW_29771 Number of predicted TMRs: 0
+NDBKHW_29771	inside	1	50				
+//
+# NDBKHW_69877 Length: 40
+# NDBKHW_69877 Number of predicted TMRs: 0
+NDBKHW_69877	inside	1	40				
+//
+# NDBKHW_146340 Length: 40
+# NDBKHW_146340 Number of predicted TMRs: 0
+NDBKHW_146340	signal	1	30				
+NDBKHW_146340	outside	31	40				
+//
+# NDBKHW_30738 Length: 48
+# NDBKHW_30738 Number of predicted TMRs: 0
+NDBKHW_30738	inside	1	48				
+//
+# NDBKHW_61247 Length: 42
+# NDBKHW_61247 Number of predicted TMRs: 0
+NDBKHW_61247	inside	1	42				
+//
+# NDBKHW_61287 Length: 42
+# NDBKHW_61287 Number of predicted TMRs: 0
+NDBKHW_61287	inside	1	42				
+//
+# NDBKHW_11428 Length: 45
+# NDBKHW_11428 Number of predicted TMRs: 0
+NDBKHW_11428	inside	1	45				
+//
+# NDBKHW_8316 Length: 33
+# NDBKHW_8316 Number of predicted TMRs: 0
+NDBKHW_8316	inside	1	33				
+//
+# NDBKHW_8312 Length: 40
+# NDBKHW_8312 Number of predicted TMRs: 0
+NDBKHW_8312	signal	1	29				
+NDBKHW_8312	outside	30	40				
+//
+# NDBKHW_8303 Length: 47
+# NDBKHW_8303 Number of predicted TMRs: 0
+NDBKHW_8303	inside	1	47				
+//
+# NDBKHW_158010 Length: 47
+# NDBKHW_158010 Number of predicted TMRs: 0
+NDBKHW_158010	inside	1	47				
+//
+# NDBKHW_5380 Length: 46
+# NDBKHW_5380 Number of predicted TMRs: 0
+NDBKHW_5380	inside	1	46				
+//
+# NDBKHW_40602 Length: 50
+# NDBKHW_40602 Number of predicted TMRs: 0
+NDBKHW_40602	inside	1	50				
+//
+# NDBKHW_10313 Length: 48
+# NDBKHW_10313 Number of predicted TMRs: 0
+NDBKHW_10313	inside	1	48				
+//
+# NDBKHW_41492 Length: 50
+# NDBKHW_41492 Number of predicted TMRs: 0
+NDBKHW_41492	signal	1	47				
+NDBKHW_41492	outside	48	50				
+//
+# NDBKHW_65395 Length: 46
+# NDBKHW_65395 Number of predicted TMRs: 0
+NDBKHW_65395	inside	1	46				
+//
+# NDBKHW_145971 Length: 29
+# NDBKHW_145971 Number of predicted TMRs: 0
+NDBKHW_145971	inside	1	29				
+//
+# NDBKHW_60146 Length: 44
+# NDBKHW_60146 Number of predicted TMRs: 0
+NDBKHW_60146	inside	1	44				
+//
+# NDBKHW_85265 Length: 47
+# NDBKHW_85265 Number of predicted TMRs: 0
+NDBKHW_85265	inside	1	47				
+//
+# NDBKHW_90306 Length: 50
+# NDBKHW_90306 Number of predicted TMRs: 0
+NDBKHW_90306	inside	1	50				
+//
+# NDBKHW_6750 Length: 43
+# NDBKHW_6750 Number of predicted TMRs: 0
+NDBKHW_6750	signal	1	42				
+NDBKHW_6750	outside	43	43				
+//
+# NDBKHW_33716 Length: 46
+# NDBKHW_33716 Number of predicted TMRs: 0
+NDBKHW_33716	inside	1	46				
+//
+# NDBKHW_143117 Length: 47
+# NDBKHW_143117 Number of predicted TMRs: 0
+NDBKHW_143117	inside	1	47				
+//
+# NDBKHW_137224 Length: 42
+# NDBKHW_137224 Number of predicted TMRs: 0
+NDBKHW_137224	inside	1	42				
+//
+# NDBKHW_52899 Length: 48
+# NDBKHW_52899 Number of predicted TMRs: 0
+NDBKHW_52899	signal	1	15				
+NDBKHW_52899	outside	16	48				
+//
+# NDBKHW_87620 Length: 49
+# NDBKHW_87620 Number of predicted TMRs: 0
+NDBKHW_87620	inside	1	49				
+//
+# NDBKHW_121479 Length: 43
+# NDBKHW_121479 Number of predicted TMRs: 0
+NDBKHW_121479	inside	1	43				
+//
+# NDBKHW_41488 Length: 44
+# NDBKHW_41488 Number of predicted TMRs: 0
+NDBKHW_41488	signal	1	43				
+NDBKHW_41488	outside	44	44				
+//
+# NDBKHW_79399 Length: 46
+# NDBKHW_79399 Number of predicted TMRs: 0
+NDBKHW_79399	signal	1	44				
+NDBKHW_79399	outside	45	46				
+//
+# NDBKHW_17331 Length: 50
+# NDBKHW_17331 Number of predicted TMRs: 0
+NDBKHW_17331	inside	1	50				
+//
+# NDBKHW_30486 Length: 45
+# NDBKHW_30486 Number of predicted TMRs: 0
+NDBKHW_30486	inside	1	45				
+//
+# NDBKHW_91647 Length: 47
+# NDBKHW_91647 Number of predicted TMRs: 0
+NDBKHW_91647	inside	1	47				
+//
+# NDBKHW_88789 Length: 45
+# NDBKHW_88789 Number of predicted TMRs: 0
+NDBKHW_88789	inside	1	45				
+//
+# NDBKHW_27004 Length: 39
+# NDBKHW_27004 Number of predicted TMRs: 0
+NDBKHW_27004	signal	1	26				
+NDBKHW_27004	outside	27	39				
+//
+# NDBKHW_126096 Length: 46
+# NDBKHW_126096 Number of predicted TMRs: 0
+NDBKHW_126096	inside	1	46				
+//
+# NDBKHW_21808 Length: 48
+# NDBKHW_21808 Number of predicted TMRs: 0
+NDBKHW_21808	signal	1	43				
+NDBKHW_21808	outside	44	48				
+//
+# NDBKHW_143745 Length: 49
+# NDBKHW_143745 Number of predicted TMRs: 0
+NDBKHW_143745	signal	1	34				
+NDBKHW_143745	outside	35	49				
+//
+# NDBKHW_97977 Length: 45
+# NDBKHW_97977 Number of predicted TMRs: 0
+NDBKHW_97977	signal	1	44				
+NDBKHW_97977	outside	45	45				
+//
+# NDBKHW_27015 Length: 39
+# NDBKHW_27015 Number of predicted TMRs: 0
+NDBKHW_27015	inside	1	39				
+//
+# NDBKHW_62424 Length: 46
+# NDBKHW_62424 Number of predicted TMRs: 0
+NDBKHW_62424	inside	1	46				
+//
+# NDBKHW_32776 Length: 36
+# NDBKHW_32776 Number of predicted TMRs: 0
+NDBKHW_32776	signal	1	32				
+NDBKHW_32776	outside	33	36				
+//
+# NDBKHW_46564 Length: 44
+# NDBKHW_46564 Number of predicted TMRs: 0
+NDBKHW_46564	inside	1	44				
+//
+# NDBKHW_813 Length: 48
+# NDBKHW_813 Number of predicted TMRs: 0
+NDBKHW_813	signal	1	47				
+NDBKHW_813	outside	48	48				
+//
+# NDBKHW_36352 Length: 48
+# NDBKHW_36352 Number of predicted TMRs: 0
+NDBKHW_36352	signal	1	39				
+NDBKHW_36352	outside	40	48				
+//
+# NDBKHW_6230 Length: 44
+# NDBKHW_6230 Number of predicted TMRs: 0
+NDBKHW_6230	outside	1	44				
+//
+# NDBKHW_79235 Length: 41
+# NDBKHW_79235 Number of predicted TMRs: 0
+NDBKHW_79235	inside	1	41				
+//
+# NDBKHW_94090 Length: 46
+# NDBKHW_94090 Number of predicted TMRs: 0
+NDBKHW_94090	inside	1	46				
+//
+# NDBKHW_119647 Length: 45
+# NDBKHW_119647 Number of predicted TMRs: 0
+NDBKHW_119647	signal	1	15				
+NDBKHW_119647	outside	16	45				
+//
+# NDBKHW_11752 Length: 44
+# NDBKHW_11752 Number of predicted TMRs: 0
+NDBKHW_11752	inside	1	44				
+//
+# NDBKHW_67521 Length: 50
+# NDBKHW_67521 Number of predicted TMRs: 0
+NDBKHW_67521	inside	1	50				
+//
+# NDBKHW_60116 Length: 48
+# NDBKHW_60116 Number of predicted TMRs: 0
+NDBKHW_60116	inside	1	48				
+//
+# NDBKHW_24751 Length: 50
+# NDBKHW_24751 Number of predicted TMRs: 0
+NDBKHW_24751	signal	1	26				
+NDBKHW_24751	outside	27	50				
+//
+# NDBKHW_54193 Length: 47
+# NDBKHW_54193 Number of predicted TMRs: 0
+NDBKHW_54193	inside	1	47				
+//
+# NDBKHW_108599 Length: 48
+# NDBKHW_108599 Number of predicted TMRs: 0
+NDBKHW_108599	inside	1	48				
+//
+# NDBKHW_50716 Length: 46
+# NDBKHW_50716 Number of predicted TMRs: 0
+NDBKHW_50716	inside	1	46				
+//
+# NDBKHW_1061 Length: 48
+# NDBKHW_1061 Number of predicted TMRs: 0
+NDBKHW_1061	signal	1	33				
+NDBKHW_1061	outside	34	48				
+//
+# NDBKHW_85431 Length: 48
+# NDBKHW_85431 Number of predicted TMRs: 0
+NDBKHW_85431	outside	1	48				
+//
+# NDBKHW_69903 Length: 46
+# NDBKHW_69903 Number of predicted TMRs: 0
+NDBKHW_69903	inside	1	46				
+//
+# NDBKHW_163049 Length: 47
+# NDBKHW_163049 Number of predicted TMRs: 0
+NDBKHW_163049	inside	1	47				
+//
+# NDBKHW_75255 Length: 33
+# NDBKHW_75255 Number of predicted TMRs: 0
+NDBKHW_75255	signal	1	32				
+NDBKHW_75255	outside	33	33				
+//
+# NDBKHW_7514 Length: 36
+# NDBKHW_7514 Number of predicted TMRs: 1
+NDBKHW_7514	inside	1	6				
+NDBKHW_7514	TMhelix	7	23				
+NDBKHW_7514	outside	24	36				
+//
+# NDBKHW_144474 Length: 44
+# NDBKHW_144474 Number of predicted TMRs: 0
+NDBKHW_144474	signal	1	43				
+NDBKHW_144474	outside	44	44				
+//
+# NDBKHW_2481 Length: 41
+# NDBKHW_2481 Number of predicted TMRs: 0
+NDBKHW_2481	signal	1	21				
+NDBKHW_2481	outside	22	41				
+//
+# NDBKHW_114684 Length: 46
+# NDBKHW_114684 Number of predicted TMRs: 0
+NDBKHW_114684	inside	1	46				
+//
+# NDBKHW_35918 Length: 50
+# NDBKHW_35918 Number of predicted TMRs: 0
+NDBKHW_35918	inside	1	50				
+//
+# NDBKHW_53382 Length: 42
+# NDBKHW_53382 Number of predicted TMRs: 0
+NDBKHW_53382	inside	1	42				
+//
+# NDBKHW_25068 Length: 42
+# NDBKHW_25068 Number of predicted TMRs: 0
+NDBKHW_25068	signal	1	39				
+NDBKHW_25068	outside	40	42				
+//
+# NDBKHW_29339 Length: 41
+# NDBKHW_29339 Number of predicted TMRs: 0
+NDBKHW_29339	signal	1	24				
+NDBKHW_29339	outside	25	41				
+//
+# NDBKHW_64158 Length: 48
+# NDBKHW_64158 Number of predicted TMRs: 0
+NDBKHW_64158	inside	1	48				
+//
+# NDBKHW_126170 Length: 49
+# NDBKHW_126170 Number of predicted TMRs: 0
+NDBKHW_126170	inside	1	49				
+//
+# NDBKHW_94860 Length: 50
+# NDBKHW_94860 Number of predicted TMRs: 0
+NDBKHW_94860	inside	1	50				
+//
+# NDBKHW_170621 Length: 49
+# NDBKHW_170621 Number of predicted TMRs: 0
+NDBKHW_170621	inside	1	49				
+//
+# NDBKHW_124123 Length: 45
+# NDBKHW_124123 Number of predicted TMRs: 0
+NDBKHW_124123	inside	1	45				
+//
+# NDBKHW_67198 Length: 43
+# NDBKHW_67198 Number of predicted TMRs: 0
+NDBKHW_67198	signal	1	41				
+NDBKHW_67198	outside	42	43				
+//
+# NDBKHW_44288 Length: 50
+# NDBKHW_44288 Number of predicted TMRs: 0
+NDBKHW_44288	inside	1	50				
+//
+# NDBKHW_69369 Length: 29
+# NDBKHW_69369 Number of predicted TMRs: 0
+NDBKHW_69369	inside	1	29				
+//
+# NDBKHW_127297 Length: 46
+# NDBKHW_127297 Number of predicted TMRs: 0
+NDBKHW_127297	inside	1	46				
+//
+# NDBKHW_30267 Length: 33
+# NDBKHW_30267 Number of predicted TMRs: 0
+NDBKHW_30267	signal	1	32				
+NDBKHW_30267	outside	33	33				
+//
+# NDBKHW_50630 Length: 43
+# NDBKHW_50630 Number of predicted TMRs: 0
+NDBKHW_50630	inside	1	43				
+//
+# NDBKHW_38338 Length: 34
+# NDBKHW_38338 Number of predicted TMRs: 0
+NDBKHW_38338	inside	1	34				
+//
+# NDBKHW_47772 Length: 48
+# NDBKHW_47772 Number of predicted TMRs: 0
+NDBKHW_47772	inside	1	48				
+//
+# NDBKHW_74812 Length: 42
+# NDBKHW_74812 Number of predicted TMRs: 0
+NDBKHW_74812	inside	1	42				
+//
+# NDBKHW_144483 Length: 45
+# NDBKHW_144483 Number of predicted TMRs: 0
+NDBKHW_144483	signal	1	39				
+NDBKHW_144483	outside	40	45				
+//
+# NDBKHW_35988 Length: 42
+# NDBKHW_35988 Number of predicted TMRs: 0
+NDBKHW_35988	signal	1	28				
+NDBKHW_35988	outside	29	42				
+//
+# NDBKHW_57761 Length: 41
+# NDBKHW_57761 Number of predicted TMRs: 0
+NDBKHW_57761	signal	1	40				
+NDBKHW_57761	outside	41	41				
+//
+# NDBKHW_56872 Length: 39
+# NDBKHW_56872 Number of predicted TMRs: 0
+NDBKHW_56872	inside	1	39				
+//
+# NDBKHW_116067 Length: 49
+# NDBKHW_116067 Number of predicted TMRs: 0
+NDBKHW_116067	signal	1	26				
+NDBKHW_116067	outside	27	49				
+//
+# NDBKHW_73879 Length: 44
+# NDBKHW_73879 Number of predicted TMRs: 0
+NDBKHW_73879	signal	1	34				
+NDBKHW_73879	outside	35	44				
+//
+# NDBKHW_138103 Length: 48
+# NDBKHW_138103 Number of predicted TMRs: 0
+NDBKHW_138103	signal	1	10				
+NDBKHW_138103	outside	11	48				
+//
+# NDBKHW_102819 Length: 50
+# NDBKHW_102819 Number of predicted TMRs: 0
+NDBKHW_102819	inside	1	50				
+//
+# NDBKHW_120004 Length: 45
+# NDBKHW_120004 Number of predicted TMRs: 0
+NDBKHW_120004	signal	1	30				
+NDBKHW_120004	outside	31	45				
+//
+# NDBKHW_121418 Length: 33
+# NDBKHW_121418 Number of predicted TMRs: 0
+NDBKHW_121418	signal	1	12				
+NDBKHW_121418	outside	13	33				
+//
+# NDBKHW_160903 Length: 47
+# NDBKHW_160903 Number of predicted TMRs: 0
+NDBKHW_160903	signal	1	10				
+NDBKHW_160903	outside	11	47				
+//
+# NDBKHW_80885 Length: 48
+# NDBKHW_80885 Number of predicted TMRs: 0
+NDBKHW_80885	signal	1	38				
+NDBKHW_80885	outside	39	48				
+//
+# NDBKHW_18199 Length: 41
+# NDBKHW_18199 Number of predicted TMRs: 0
+NDBKHW_18199	signal	1	10				
+NDBKHW_18199	outside	11	41				
+//
+# NDBKHW_132212 Length: 48
+# NDBKHW_132212 Number of predicted TMRs: 0
+NDBKHW_132212	inside	1	48				
+//
+# NDBKHW_31434 Length: 43
+# NDBKHW_31434 Number of predicted TMRs: 0
+NDBKHW_31434	signal	1	42				
+NDBKHW_31434	outside	43	43				
+//
+# NDBKHW_172291 Length: 45
+# NDBKHW_172291 Number of predicted TMRs: 0
+NDBKHW_172291	inside	1	45				
+//
+# NDBKHW_152574 Length: 50
+# NDBKHW_152574 Number of predicted TMRs: 0
+NDBKHW_152574	inside	1	50				
+//
+# NDBKHW_107909 Length: 42
+# NDBKHW_107909 Number of predicted TMRs: 0
+NDBKHW_107909	signal	1	31				
+NDBKHW_107909	outside	32	42				
+//
+# NDBKHW_118310 Length: 47
+# NDBKHW_118310 Number of predicted TMRs: 0
+NDBKHW_118310	signal	1	12				
+NDBKHW_118310	outside	13	47				
+//
+# NDBKHW_33455 Length: 45
+# NDBKHW_33455 Number of predicted TMRs: 0
+NDBKHW_33455	signal	1	44				
+NDBKHW_33455	outside	45	45				
+//
+# NDBKHW_145476 Length: 47
+# NDBKHW_145476 Number of predicted TMRs: 0
+NDBKHW_145476	signal	1	29				
+NDBKHW_145476	outside	30	47				
+//
+# NDBKHW_94737 Length: 41
+# NDBKHW_94737 Number of predicted TMRs: 0
+NDBKHW_94737	signal	1	40				
+NDBKHW_94737	outside	41	41				
+//
+# NDBKHW_129448 Length: 35
+# NDBKHW_129448 Number of predicted TMRs: 0
+NDBKHW_129448	signal	1	34				
+NDBKHW_129448	outside	35	35				
+//
+# NDBKHW_27666 Length: 50
+# NDBKHW_27666 Number of predicted TMRs: 0
+NDBKHW_27666	inside	1	50				
+//
+# NDBKHW_49684 Length: 47
+# NDBKHW_49684 Number of predicted TMRs: 0
+NDBKHW_49684	signal	1	45				
+NDBKHW_49684	outside	46	47				
+//
+# NDBKHW_169205 Length: 49
+# NDBKHW_169205 Number of predicted TMRs: 0
+NDBKHW_169205	inside	1	49				
+//
+# NDBKHW_150339 Length: 44
+# NDBKHW_150339 Number of predicted TMRs: 0
+NDBKHW_150339	inside	1	44				
+//
+# NDBKHW_131105 Length: 47
+# NDBKHW_131105 Number of predicted TMRs: 0
+NDBKHW_131105	signal	1	26				
+NDBKHW_131105	outside	27	47				
+//
+# NDBKHW_134757 Length: 41
+# NDBKHW_134757 Number of predicted TMRs: 0
+NDBKHW_134757	signal	1	20				
+NDBKHW_134757	outside	21	41				
+//
+# NDBKHW_127195 Length: 47
+# NDBKHW_127195 Number of predicted TMRs: 1
+NDBKHW_127195	signal	1	12				
+NDBKHW_127195	outside	13	20				
+NDBKHW_127195	TMhelix	21	36				
+NDBKHW_127195	inside	37	47				
+//
+# NDBKHW_171774 Length: 49
+# NDBKHW_171774 Number of predicted TMRs: 0
+NDBKHW_171774	signal	1	12				
+NDBKHW_171774	outside	13	49				
+//
+# NDBKHW_105216 Length: 47
+# NDBKHW_105216 Number of predicted TMRs: 0
+NDBKHW_105216	inside	1	47				
+//
+# NDBKHW_87190 Length: 48
+# NDBKHW_87190 Number of predicted TMRs: 0
+NDBKHW_87190	signal	1	10				
+NDBKHW_87190	outside	11	48				
+//
+# NDBKHW_96674 Length: 47
+# NDBKHW_96674 Number of predicted TMRs: 0
+NDBKHW_96674	outside	1	47				
+//
+# NDBKHW_140982 Length: 50
+# NDBKHW_140982 Number of predicted TMRs: 0
+NDBKHW_140982	inside	1	50				
+//
+# NDBKHW_168832 Length: 44
+# NDBKHW_168832 Number of predicted TMRs: 0
+NDBKHW_168832	inside	1	44				
+//
+# NDBKHW_117294 Length: 26
+# NDBKHW_117294 Number of predicted TMRs: 0
+NDBKHW_117294	inside	1	26				
+//
+# NDBKHW_117291 Length: 26
+# NDBKHW_117291 Number of predicted TMRs: 0
+NDBKHW_117291	inside	1	26				
+//
+# NDBKHW_117297 Length: 44
+# NDBKHW_117297 Number of predicted TMRs: 0
+NDBKHW_117297	inside	1	44				
+//
+# NDBKHW_161781 Length: 45
+# NDBKHW_161781 Number of predicted TMRs: 0
+NDBKHW_161781	inside	1	45				
+//
+# NDBKHW_83871 Length: 38
+# NDBKHW_83871 Number of predicted TMRs: 0
+NDBKHW_83871	signal	1	35				
+NDBKHW_83871	outside	36	38				
+//
+# NDBKHW_14911 Length: 33
+# NDBKHW_14911 Number of predicted TMRs: 0
+NDBKHW_14911	inside	1	33				
+//
+# NDBKHW_134908 Length: 46
+# NDBKHW_134908 Number of predicted TMRs: 0
+NDBKHW_134908	signal	1	22				
+NDBKHW_134908	outside	23	46				
+//
+# NDBKHW_110300 Length: 49
+# NDBKHW_110300 Number of predicted TMRs: 0
+NDBKHW_110300	inside	1	49				
+//
+# NDBKHW_170073 Length: 42
+# NDBKHW_170073 Number of predicted TMRs: 0
+NDBKHW_170073	signal	1	41				
+NDBKHW_170073	outside	42	42				
+//
+# NDBKHW_61576 Length: 35
+# NDBKHW_61576 Number of predicted TMRs: 0
+NDBKHW_61576	inside	1	35				
+//
+# NDBKHW_66881 Length: 43
+# NDBKHW_66881 Number of predicted TMRs: 0
+NDBKHW_66881	inside	1	43				
+//
+# NDBKHW_119041 Length: 42
+# NDBKHW_119041 Number of predicted TMRs: 0
+NDBKHW_119041	signal	1	11				
+NDBKHW_119041	outside	12	42				
+//
+# NDBKHW_170160 Length: 48
+# NDBKHW_170160 Number of predicted TMRs: 0
+NDBKHW_170160	inside	1	48				
+//
+# NDBKHW_9939 Length: 42
+# NDBKHW_9939 Number of predicted TMRs: 0
+NDBKHW_9939	signal	1	11				
+NDBKHW_9939	outside	12	42				
+//
+# NDBKHW_111738 Length: 32
+# NDBKHW_111738 Number of predicted TMRs: 0
+NDBKHW_111738	inside	1	32				
+//
+# NDBKHW_46124 Length: 43
+# NDBKHW_46124 Number of predicted TMRs: 0
+NDBKHW_46124	inside	1	43				
+//
+# NDBKHW_5234 Length: 42
+# NDBKHW_5234 Number of predicted TMRs: 0
+NDBKHW_5234	inside	1	42				
+//
+# NDBKHW_54905 Length: 43
+# NDBKHW_54905 Number of predicted TMRs: 0
+NDBKHW_54905	inside	1	43				
+//
+# NDBKHW_39930 Length: 39
+# NDBKHW_39930 Number of predicted TMRs: 0
+NDBKHW_39930	signal	1	37				
+NDBKHW_39930	outside	38	39				
+//
+# NDBKHW_4736 Length: 45
+# NDBKHW_4736 Number of predicted TMRs: 0
+NDBKHW_4736	inside	1	45				
+//
+# NDBKHW_105736 Length: 48
+# NDBKHW_105736 Number of predicted TMRs: 0
+NDBKHW_105736	inside	1	48				
+//
+# NDBKHW_67340 Length: 50
+# NDBKHW_67340 Number of predicted TMRs: 0
+NDBKHW_67340	signal	1	18				
+NDBKHW_67340	outside	19	50				
+//
+# NDBKHW_115463 Length: 42
+# NDBKHW_115463 Number of predicted TMRs: 0
+NDBKHW_115463	inside	1	42				
+//
+# NDBKHW_29766 Length: 37
+# NDBKHW_29766 Number of predicted TMRs: 0
+NDBKHW_29766	signal	1	36				
+NDBKHW_29766	outside	37	37				
+//
+# NDBKHW_142149 Length: 41
+# NDBKHW_142149 Number of predicted TMRs: 0
+NDBKHW_142149	inside	1	41				
+//
+# NDBKHW_52946 Length: 50
+# NDBKHW_52946 Number of predicted TMRs: 0
+NDBKHW_52946	inside	1	50				
+//
+# NDBKHW_147482 Length: 41
+# NDBKHW_147482 Number of predicted TMRs: 0
+NDBKHW_147482	inside	1	41				
+//
+# NDBKHW_105339 Length: 39
+# NDBKHW_105339 Number of predicted TMRs: 0
+NDBKHW_105339	signal	1	33				
+NDBKHW_105339	outside	34	39				
+//
+# NDBKHW_139380 Length: 40
+# NDBKHW_139380 Number of predicted TMRs: 0
+NDBKHW_139380	signal	1	39				
+NDBKHW_139380	outside	40	40				
+//
+# NDBKHW_24387 Length: 46
+# NDBKHW_24387 Number of predicted TMRs: 0
+NDBKHW_24387	inside	1	46				
+//
+# NDBKHW_41127 Length: 33
+# NDBKHW_41127 Number of predicted TMRs: 0
+NDBKHW_41127	inside	1	33				
+//
+# NDBKHW_171502 Length: 48
+# NDBKHW_171502 Number of predicted TMRs: 0
+NDBKHW_171502	inside	1	48				
+//
+# NDBKHW_3943 Length: 36
+# NDBKHW_3943 Number of predicted TMRs: 0
+NDBKHW_3943	inside	1	36				
+//
+# NDBKHW_136212 Length: 43
+# NDBKHW_136212 Number of predicted TMRs: 0
+NDBKHW_136212	inside	1	43				
+//
+# NDBKHW_50702 Length: 37
+# NDBKHW_50702 Number of predicted TMRs: 0
+NDBKHW_50702	inside	1	37				
+//
+# NDBKHW_50707 Length: 39
+# NDBKHW_50707 Number of predicted TMRs: 0
+NDBKHW_50707	inside	1	39				
+//
+# NDBKHW_141273 Length: 49
+# NDBKHW_141273 Number of predicted TMRs: 0
+NDBKHW_141273	inside	1	49				
+//
+# NDBKHW_17507 Length: 36
+# NDBKHW_17507 Number of predicted TMRs: 0
+NDBKHW_17507	inside	1	36				
+//
+# NDBKHW_54074 Length: 37
+# NDBKHW_54074 Number of predicted TMRs: 0
+NDBKHW_54074	signal	1	29				
+NDBKHW_54074	outside	30	37				
+//
+# NDBKHW_101205 Length: 41
+# NDBKHW_101205 Number of predicted TMRs: 0
+NDBKHW_101205	inside	1	41				
+//
+# NDBKHW_14645 Length: 46
+# NDBKHW_14645 Number of predicted TMRs: 0
+NDBKHW_14645	signal	1	42				
+NDBKHW_14645	outside	43	46				
+//
+# NDBKHW_58154 Length: 46
+# NDBKHW_58154 Number of predicted TMRs: 0
+NDBKHW_58154	inside	1	46				
+//
+# NDBKHW_13655 Length: 44
+# NDBKHW_13655 Number of predicted TMRs: 0
+NDBKHW_13655	signal	1	10				
+NDBKHW_13655	outside	11	44				
+//
+# NDBKHW_849 Length: 43
+# NDBKHW_849 Number of predicted TMRs: 0
+NDBKHW_849	signal	1	32				
+NDBKHW_849	outside	33	43				
+//
+# NDBKHW_115987 Length: 44
+# NDBKHW_115987 Number of predicted TMRs: 0
+NDBKHW_115987	inside	1	44				
+//
+# NDBKHW_149814 Length: 44
+# NDBKHW_149814 Number of predicted TMRs: 0
+NDBKHW_149814	signal	1	30				
+NDBKHW_149814	outside	31	44				
+//
+# NDBKHW_40909 Length: 44
+# NDBKHW_40909 Number of predicted TMRs: 0
+NDBKHW_40909	inside	1	44				
+//
+# NDBKHW_86101 Length: 41
+# NDBKHW_86101 Number of predicted TMRs: 0
+NDBKHW_86101	inside	1	41				
+//
+# NDBKHW_107333 Length: 47
+# NDBKHW_107333 Number of predicted TMRs: 0
+NDBKHW_107333	inside	1	47				
+//
+# NDBKHW_12202 Length: 38
+# NDBKHW_12202 Number of predicted TMRs: 0
+NDBKHW_12202	inside	1	38				
+//
+# NDBKHW_25132 Length: 48
+# NDBKHW_25132 Number of predicted TMRs: 0
+NDBKHW_25132	inside	1	48				
+//
+# NDBKHW_14541 Length: 36
+# NDBKHW_14541 Number of predicted TMRs: 0
+NDBKHW_14541	inside	1	36				
+//
+# NDBKHW_36513 Length: 50
+# NDBKHW_36513 Number of predicted TMRs: 0
+NDBKHW_36513	inside	1	50				
+//
+# NDBKHW_37305 Length: 40
+# NDBKHW_37305 Number of predicted TMRs: 0
+NDBKHW_37305	signal	1	28				
+NDBKHW_37305	outside	29	40				
+//
+# NDBKHW_137674 Length: 38
+# NDBKHW_137674 Number of predicted TMRs: 0
+NDBKHW_137674	signal	1	36				
+NDBKHW_137674	outside	37	38				
+//
+# NDBKHW_127299 Length: 37
+# NDBKHW_127299 Number of predicted TMRs: 0
+NDBKHW_127299	inside	1	37				
+//
+# NDBKHW_95927 Length: 42
+# NDBKHW_95927 Number of predicted TMRs: 0
+NDBKHW_95927	inside	1	42				
+//
+# NDBKHW_80146 Length: 44
+# NDBKHW_80146 Number of predicted TMRs: 1
+NDBKHW_80146	outside	1	7				
+NDBKHW_80146	TMhelix	8	26				
+NDBKHW_80146	inside	27	44				
+//
+# NDBKHW_3134 Length: 46
+# NDBKHW_3134 Number of predicted TMRs: 0
+NDBKHW_3134	inside	1	46				
+//
+# NDBKHW_145119 Length: 47
+# NDBKHW_145119 Number of predicted TMRs: 0
+NDBKHW_145119	signal	1	30				
+NDBKHW_145119	outside	31	47				
+//
+# NDBKHW_154119 Length: 42
+# NDBKHW_154119 Number of predicted TMRs: 0
+NDBKHW_154119	inside	1	42				
+//
+# NDBKHW_88100 Length: 50
+# NDBKHW_88100 Number of predicted TMRs: 0
+NDBKHW_88100	signal	1	12				
+NDBKHW_88100	outside	13	50				
+//
+# NDBKHW_4997 Length: 48
+# NDBKHW_4997 Number of predicted TMRs: 0
+NDBKHW_4997	signal	1	37				
+NDBKHW_4997	outside	38	48				
+//
+# NDBKHW_114381 Length: 42
+# NDBKHW_114381 Number of predicted TMRs: 0
+NDBKHW_114381	inside	1	42				
+//
+# NDBKHW_127165 Length: 49
+# NDBKHW_127165 Number of predicted TMRs: 0
+NDBKHW_127165	inside	1	49				
+//
+# NDBKHW_41895 Length: 50
+# NDBKHW_41895 Number of predicted TMRs: 0
+NDBKHW_41895	inside	1	50				
+//
+# NDBKHW_114243 Length: 47
+# NDBKHW_114243 Number of predicted TMRs: 0
+NDBKHW_114243	inside	1	47				
+//
+# NDBKHW_105136 Length: 49
+# NDBKHW_105136 Number of predicted TMRs: 0
+NDBKHW_105136	inside	1	49				
+//
+# NDBKHW_28624 Length: 49
+# NDBKHW_28624 Number of predicted TMRs: 0
+NDBKHW_28624	signal	1	45				
+NDBKHW_28624	outside	46	49				
+//
+# NDBKHW_139250 Length: 49
+# NDBKHW_139250 Number of predicted TMRs: 0
+NDBKHW_139250	inside	1	49				
+//
+# NDBKHW_150588 Length: 50
+# NDBKHW_150588 Number of predicted TMRs: 0
+NDBKHW_150588	inside	1	50				
+//
+# NDBKHW_95598 Length: 48
+# NDBKHW_95598 Number of predicted TMRs: 0
+NDBKHW_95598	inside	1	48				
+//
+# NDBKHW_59627 Length: 48
+# NDBKHW_59627 Number of predicted TMRs: 0
+NDBKHW_59627	inside	1	48				
+//
+# NDBKHW_134967 Length: 50
+# NDBKHW_134967 Number of predicted TMRs: 0
+NDBKHW_134967	signal	1	31				
+NDBKHW_134967	outside	32	50				
+//
+# NDBKHW_140625 Length: 42
+# NDBKHW_140625 Number of predicted TMRs: 0
+NDBKHW_140625	inside	1	42				
+//
+# NDBKHW_27508 Length: 50
+# NDBKHW_27508 Number of predicted TMRs: 0
+NDBKHW_27508	inside	1	50				
+//
+# NDBKHW_142637 Length: 48
+# NDBKHW_142637 Number of predicted TMRs: 0
+NDBKHW_142637	inside	1	48				
+//
+# NDBKHW_115055 Length: 39
+# NDBKHW_115055 Number of predicted TMRs: 0
+NDBKHW_115055	signal	1	38				
+NDBKHW_115055	outside	39	39				
+//
+# NDBKHW_77695 Length: 32
+# NDBKHW_77695 Number of predicted TMRs: 0
+NDBKHW_77695	signal	1	30				
+NDBKHW_77695	outside	31	32				
+//
+# NDBKHW_165474 Length: 37
+# NDBKHW_165474 Number of predicted TMRs: 0
+NDBKHW_165474	signal	1	36				
+NDBKHW_165474	outside	37	37				
+//
+# NDBKHW_58270 Length: 48
+# NDBKHW_58270 Number of predicted TMRs: 0
+NDBKHW_58270	inside	1	48				
+//
+# NDBKHW_101591 Length: 44
+# NDBKHW_101591 Number of predicted TMRs: 0
+NDBKHW_101591	inside	1	44				
+//
+# NDBKHW_153561 Length: 45
+# NDBKHW_153561 Number of predicted TMRs: 0
+NDBKHW_153561	inside	1	45				
+//
+# NDBKHW_141611 Length: 46
+# NDBKHW_141611 Number of predicted TMRs: 0
+NDBKHW_141611	inside	1	46				
+//
+# NDBKHW_128316 Length: 46
+# NDBKHW_128316 Number of predicted TMRs: 0
+NDBKHW_128316	signal	1	44				
+NDBKHW_128316	outside	45	46				
+//
+# NDBKHW_126876 Length: 36
+# NDBKHW_126876 Number of predicted TMRs: 0
+NDBKHW_126876	inside	1	36				
+//
+# NDBKHW_12578 Length: 44
+# NDBKHW_12578 Number of predicted TMRs: 0
+NDBKHW_12578	inside	1	44				
+//
+# NDBKHW_71031 Length: 50
+# NDBKHW_71031 Number of predicted TMRs: 0
+NDBKHW_71031	inside	1	50				
+//
+# NDBKHW_164465 Length: 43
+# NDBKHW_164465 Number of predicted TMRs: 0
+NDBKHW_164465	inside	1	43				
+//
+# NDBKHW_164825 Length: 39
+# NDBKHW_164825 Number of predicted TMRs: 0
+NDBKHW_164825	inside	1	39				
+//
+# NDBKHW_164811 Length: 50
+# NDBKHW_164811 Number of predicted TMRs: 0
+NDBKHW_164811	inside	1	50				
+//
+# NDBKHW_33731 Length: 33
+# NDBKHW_33731 Number of predicted TMRs: 0
+NDBKHW_33731	inside	1	33				
+//
+# NDBKHW_110842 Length: 48
+# NDBKHW_110842 Number of predicted TMRs: 0
+NDBKHW_110842	signal	1	46				
+NDBKHW_110842	outside	47	48				
+//
+# NDBKHW_105345 Length: 42
+# NDBKHW_105345 Number of predicted TMRs: 0
+NDBKHW_105345	inside	1	42				
+//
+# NDBKHW_85974 Length: 42
+# NDBKHW_85974 Number of predicted TMRs: 0
+NDBKHW_85974	signal	1	31				
+NDBKHW_85974	outside	32	42				
+//
+# NDBKHW_130680 Length: 45
+# NDBKHW_130680 Number of predicted TMRs: 0
+NDBKHW_130680	inside	1	45				
+//
+# NDBKHW_149815 Length: 38
+# NDBKHW_149815 Number of predicted TMRs: 0
+NDBKHW_149815	signal	1	18				
+NDBKHW_149815	outside	19	38				
+//
+# NDBKHW_62644 Length: 50
+# NDBKHW_62644 Number of predicted TMRs: 0
+NDBKHW_62644	signal	1	31				
+NDBKHW_62644	outside	32	50				
+//
+# NDBKHW_36624 Length: 48
+# NDBKHW_36624 Number of predicted TMRs: 0
+NDBKHW_36624	signal	1	15				
+NDBKHW_36624	outside	16	48				
+//
+# NDBKHW_135877 Length: 49
+# NDBKHW_135877 Number of predicted TMRs: 0
+NDBKHW_135877	inside	1	49				
+//
+# NDBKHW_139071 Length: 50
+# NDBKHW_139071 Number of predicted TMRs: 0
+NDBKHW_139071	inside	1	50				
+//
+# NDBKHW_98302 Length: 48
+# NDBKHW_98302 Number of predicted TMRs: 0
+NDBKHW_98302	signal	1	47				
+NDBKHW_98302	outside	48	48				
+//
+# NDBKHW_15111 Length: 48
+# NDBKHW_15111 Number of predicted TMRs: 0
+NDBKHW_15111	inside	1	48				
+//
+# NDBKHW_105441 Length: 32
+# NDBKHW_105441 Number of predicted TMRs: 0
+NDBKHW_105441	inside	1	32				
+//
+# NDBKHW_169635 Length: 43
+# NDBKHW_169635 Number of predicted TMRs: 0
+NDBKHW_169635	signal	1	23				
+NDBKHW_169635	outside	24	43				
+//
+# NDBKHW_73773 Length: 44
+# NDBKHW_73773 Number of predicted TMRs: 0
+NDBKHW_73773	inside	1	44				
+//
+# NDBKHW_112219 Length: 48
+# NDBKHW_112219 Number of predicted TMRs: 0
+NDBKHW_112219	inside	1	48				
+//
+# NDBKHW_53243 Length: 38
+# NDBKHW_53243 Number of predicted TMRs: 0
+NDBKHW_53243	inside	1	38				
+//
+# NDBKHW_50668 Length: 36
+# NDBKHW_50668 Number of predicted TMRs: 0
+NDBKHW_50668	signal	1	35				
+NDBKHW_50668	outside	36	36				
+//
+# NDBKHW_23268 Length: 43
+# NDBKHW_23268 Number of predicted TMRs: 1
+NDBKHW_23268	signal	1	12				
+NDBKHW_23268	outside	13	13				
+NDBKHW_23268	TMhelix	14	23				
+NDBKHW_23268	inside	24	43				
+//
+# NDBKHW_167242 Length: 49
+# NDBKHW_167242 Number of predicted TMRs: 0
+NDBKHW_167242	signal	1	45				
+NDBKHW_167242	outside	46	49				
+//
+# NDBKHW_57663 Length: 38
+# NDBKHW_57663 Number of predicted TMRs: 0
+NDBKHW_57663	inside	1	38				
+//
+# NDBKHW_21359 Length: 40
+# NDBKHW_21359 Number of predicted TMRs: 0
+NDBKHW_21359	inside	1	40				
+//
+# NDBKHW_110227 Length: 48
+# NDBKHW_110227 Number of predicted TMRs: 0
+NDBKHW_110227	signal	1	13				
+NDBKHW_110227	outside	14	48				
+//
+# NDBKHW_160131 Length: 46
+# NDBKHW_160131 Number of predicted TMRs: 0
+NDBKHW_160131	signal	1	11				
+NDBKHW_160131	outside	12	46				
+//
+# NDBKHW_97051 Length: 46
+# NDBKHW_97051 Number of predicted TMRs: 0
+NDBKHW_97051	signal	1	21				
+NDBKHW_97051	outside	22	46				
+//
+# NDBKHW_136591 Length: 37
+# NDBKHW_136591 Number of predicted TMRs: 0
+NDBKHW_136591	signal	1	32				
+NDBKHW_136591	outside	33	37				
+//
+# NDBKHW_103076 Length: 50
+# NDBKHW_103076 Number of predicted TMRs: 0
+NDBKHW_103076	inside	1	50				
+//
+# NDBKHW_36254 Length: 47
+# NDBKHW_36254 Number of predicted TMRs: 0
+NDBKHW_36254	inside	1	47				
+//
+# NDBKHW_467 Length: 44
+# NDBKHW_467 Number of predicted TMRs: 0
+NDBKHW_467	inside	1	44				
+//
+# NDBKHW_57361 Length: 47
+# NDBKHW_57361 Number of predicted TMRs: 0
+NDBKHW_57361	signal	1	31				
+NDBKHW_57361	outside	32	47				
+//
+# NDBKHW_39192 Length: 49
+# NDBKHW_39192 Number of predicted TMRs: 0
+NDBKHW_39192	inside	1	49				
+//
+# NDBKHW_44845 Length: 50
+# NDBKHW_44845 Number of predicted TMRs: 0
+NDBKHW_44845	inside	1	50				
+//
+# NDBKHW_110013 Length: 36
+# NDBKHW_110013 Number of predicted TMRs: 0
+NDBKHW_110013	inside	1	36				
+//
+# NDBKHW_142854 Length: 48
+# NDBKHW_142854 Number of predicted TMRs: 0
+NDBKHW_142854	inside	1	48				
+//
+# NDBKHW_18711 Length: 41
+# NDBKHW_18711 Number of predicted TMRs: 0
+NDBKHW_18711	signal	1	35				
+NDBKHW_18711	outside	36	41				
+//
+# NDBKHW_58606 Length: 48
+# NDBKHW_58606 Number of predicted TMRs: 0
+NDBKHW_58606	signal	1	27				
+NDBKHW_58606	outside	28	48				
+//
+# NDBKHW_142257 Length: 50
+# NDBKHW_142257 Number of predicted TMRs: 0
+NDBKHW_142257	inside	1	50				
+//
+# NDBKHW_129905 Length: 39
+# NDBKHW_129905 Number of predicted TMRs: 0
+NDBKHW_129905	signal	1	26				
+NDBKHW_129905	outside	27	39				
+//
+# NDBKHW_52559 Length: 42
+# NDBKHW_52559 Number of predicted TMRs: 0
+NDBKHW_52559	signal	1	15				
+NDBKHW_52559	outside	16	42				
+//
+# NDBKHW_81960 Length: 48
+# NDBKHW_81960 Number of predicted TMRs: 0
+NDBKHW_81960	signal	1	25				
+NDBKHW_81960	outside	26	48				
+//
+# NDBKHW_84725 Length: 37
+# NDBKHW_84725 Number of predicted TMRs: 0
+NDBKHW_84725	signal	1	36				
+NDBKHW_84725	outside	37	37				
+//
+# NDBKHW_118110 Length: 45
+# NDBKHW_118110 Number of predicted TMRs: 0
+NDBKHW_118110	inside	1	45				
+//
+# NDBKHW_114287 Length: 48
+# NDBKHW_114287 Number of predicted TMRs: 0
+NDBKHW_114287	signal	1	20				
+NDBKHW_114287	outside	21	48				
+//
+# NDBKHW_131000 Length: 44
+# NDBKHW_131000 Number of predicted TMRs: 0
+NDBKHW_131000	inside	1	44				
+//
+# NDBKHW_10070 Length: 50
+# NDBKHW_10070 Number of predicted TMRs: 0
+NDBKHW_10070	inside	1	50				
+//
+# NDBKHW_114175 Length: 45
+# NDBKHW_114175 Number of predicted TMRs: 0
+NDBKHW_114175	inside	1	45				
+//
+# NDBKHW_44972 Length: 43
+# NDBKHW_44972 Number of predicted TMRs: 0
+NDBKHW_44972	signal	1	42				
+NDBKHW_44972	outside	43	43				
+//
+# NDBKHW_90457 Length: 47
+# NDBKHW_90457 Number of predicted TMRs: 0
+NDBKHW_90457	signal	1	30				
+NDBKHW_90457	outside	31	47				
+//
+# NDBKHW_82830 Length: 47
+# NDBKHW_82830 Number of predicted TMRs: 0
+NDBKHW_82830	signal	1	15				
+NDBKHW_82830	outside	16	47				
+//
+# NDBKHW_112514 Length: 44
+# NDBKHW_112514 Number of predicted TMRs: 0
+NDBKHW_112514	inside	1	44				
+//
+# NDBKHW_57570 Length: 44
+# NDBKHW_57570 Number of predicted TMRs: 0
+NDBKHW_57570	signal	1	43				
+NDBKHW_57570	outside	44	44				
+//
+# NDBKHW_38468 Length: 30
+# NDBKHW_38468 Number of predicted TMRs: 0
+NDBKHW_38468	signal	1	13				
+NDBKHW_38468	outside	14	30				
+//
+# NDBKHW_109851 Length: 44
+# NDBKHW_109851 Number of predicted TMRs: 0
+NDBKHW_109851	inside	1	44				
+//
+# NDBKHW_62441 Length: 41
+# NDBKHW_62441 Number of predicted TMRs: 0
+NDBKHW_62441	inside	1	41				
+//
+# NDBKHW_34059 Length: 46
+# NDBKHW_34059 Number of predicted TMRs: 0
+NDBKHW_34059	inside	1	46				
+//
+# NDBKHW_122790 Length: 50
+# NDBKHW_122790 Number of predicted TMRs: 0
+NDBKHW_122790	inside	1	50				
+//
+# NDBKHW_89059 Length: 49
+# NDBKHW_89059 Number of predicted TMRs: 0
+NDBKHW_89059	inside	1	49				
+//
+# NDBKHW_111185 Length: 45
+# NDBKHW_111185 Number of predicted TMRs: 0
+NDBKHW_111185	inside	1	45				
+//
+# NDBKHW_107608 Length: 50
+# NDBKHW_107608 Number of predicted TMRs: 0
+NDBKHW_107608	inside	1	50				
+//
+# NDBKHW_136893 Length: 43
+# NDBKHW_136893 Number of predicted TMRs: 0
+NDBKHW_136893	signal	1	33				
+NDBKHW_136893	outside	34	43				
+//
+# NDBKHW_138625 Length: 38
+# NDBKHW_138625 Number of predicted TMRs: 0
+NDBKHW_138625	signal	1	37				
+NDBKHW_138625	outside	38	38				
+//
+# NDBKHW_126630 Length: 43
+# NDBKHW_126630 Number of predicted TMRs: 0
+NDBKHW_126630	inside	1	43				
+//
+# NDBKHW_107161 Length: 48
+# NDBKHW_107161 Number of predicted TMRs: 0
+NDBKHW_107161	inside	1	48				
+//
+# NDBKHW_137868 Length: 39
+# NDBKHW_137868 Number of predicted TMRs: 0
+NDBKHW_137868	inside	1	39				
+//
+# NDBKHW_40649 Length: 45
+# NDBKHW_40649 Number of predicted TMRs: 0
+NDBKHW_40649	signal	1	12				
+NDBKHW_40649	outside	13	45				
+//
+# NDBKHW_131714 Length: 46
+# NDBKHW_131714 Number of predicted TMRs: 0
+NDBKHW_131714	signal	1	32				
+NDBKHW_131714	outside	33	46				
+//
+# NDBKHW_137933 Length: 50
+# NDBKHW_137933 Number of predicted TMRs: 0
+NDBKHW_137933	inside	1	50				
+//
+# NDBKHW_20506 Length: 45
+# NDBKHW_20506 Number of predicted TMRs: 0
+NDBKHW_20506	inside	1	45				
+//
+# NDBKHW_142644 Length: 39
+# NDBKHW_142644 Number of predicted TMRs: 0
+NDBKHW_142644	inside	1	39				
+//
+# NDBKHW_86224 Length: 44
+# NDBKHW_86224 Number of predicted TMRs: 0
+NDBKHW_86224	inside	1	44				
+//
+# NDBKHW_166011 Length: 47
+# NDBKHW_166011 Number of predicted TMRs: 0
+NDBKHW_166011	inside	1	47				
+//
+# NDBKHW_112427 Length: 47
+# NDBKHW_112427 Number of predicted TMRs: 0
+NDBKHW_112427	inside	1	47				
+//
+# NDBKHW_1009 Length: 48
+# NDBKHW_1009 Number of predicted TMRs: 0
+NDBKHW_1009	signal	1	44				
+NDBKHW_1009	outside	45	48				
+//
+# NDBKHW_97947 Length: 47
+# NDBKHW_97947 Number of predicted TMRs: 0
+NDBKHW_97947	signal	1	46				
+NDBKHW_97947	outside	47	47				
+//
+# NDBKHW_58511 Length: 46
+# NDBKHW_58511 Number of predicted TMRs: 0
+NDBKHW_58511	signal	1	43				
+NDBKHW_58511	outside	44	46				
+//
+# NDBKHW_89775 Length: 42
+# NDBKHW_89775 Number of predicted TMRs: 0
+NDBKHW_89775	signal	1	32				
+NDBKHW_89775	outside	33	42				
+//
+# NDBKHW_93132 Length: 32
+# NDBKHW_93132 Number of predicted TMRs: 0
+NDBKHW_93132	signal	1	29				
+NDBKHW_93132	outside	30	32				
+//
+# NDBKHW_12333 Length: 40
+# NDBKHW_12333 Number of predicted TMRs: 0
+NDBKHW_12333	signal	1	39				
+NDBKHW_12333	outside	40	40				
+//
+# NDBKHW_112441 Length: 43
+# NDBKHW_112441 Number of predicted TMRs: 0
+NDBKHW_112441	inside	1	43				
+//
+# NDBKHW_165097 Length: 40
+# NDBKHW_165097 Number of predicted TMRs: 0
+NDBKHW_165097	outside	1	40				
+//
+# NDBKHW_77300 Length: 39
+# NDBKHW_77300 Number of predicted TMRs: 0
+NDBKHW_77300	inside	1	39				
+//
+# NDBKHW_67829 Length: 39
+# NDBKHW_67829 Number of predicted TMRs: 0
+NDBKHW_67829	inside	1	39				
+//
+# NDBKHW_107228 Length: 39
+# NDBKHW_107228 Number of predicted TMRs: 0
+NDBKHW_107228	inside	1	39				
+//
+# NDBKHW_24197 Length: 48
+# NDBKHW_24197 Number of predicted TMRs: 0
+NDBKHW_24197	inside	1	48				
+//
+# NDBKHW_108112 Length: 48
+# NDBKHW_108112 Number of predicted TMRs: 0
+NDBKHW_108112	outside	1	48				
+//
+# NDBKHW_79271 Length: 35
+# NDBKHW_79271 Number of predicted TMRs: 0
+NDBKHW_79271	inside	1	35				
+//
+# NDBKHW_59270 Length: 45
+# NDBKHW_59270 Number of predicted TMRs: 0
+NDBKHW_59270	signal	1	18				
+NDBKHW_59270	outside	19	45				
+//
+# NDBKHW_73483 Length: 50
+# NDBKHW_73483 Number of predicted TMRs: 0
+NDBKHW_73483	inside	1	50				
+//
+# NDBKHW_105262 Length: 48
+# NDBKHW_105262 Number of predicted TMRs: 0
+NDBKHW_105262	inside	1	48				
+//
+# NDBKHW_120384 Length: 40
+# NDBKHW_120384 Number of predicted TMRs: 0
+NDBKHW_120384	signal	1	20				
+NDBKHW_120384	outside	21	40				
+//
+# NDBKHW_23854 Length: 50
+# NDBKHW_23854 Number of predicted TMRs: 0
+NDBKHW_23854	inside	1	50				
+//
+# NDBKHW_168046 Length: 48
+# NDBKHW_168046 Number of predicted TMRs: 0
+NDBKHW_168046	inside	1	48				
+//
+# NDBKHW_74066 Length: 42
+# NDBKHW_74066 Number of predicted TMRs: 0
+NDBKHW_74066	inside	1	42				
+//
+# NDBKHW_4164 Length: 48
+# NDBKHW_4164 Number of predicted TMRs: 0
+NDBKHW_4164	inside	1	48				
+//
+# NDBKHW_74046 Length: 50
+# NDBKHW_74046 Number of predicted TMRs: 0
+NDBKHW_74046	inside	1	50				
+//
+# NDBKHW_62242 Length: 33
+# NDBKHW_62242 Number of predicted TMRs: 0
+NDBKHW_62242	inside	1	33				
+//
+# NDBKHW_72864 Length: 48
+# NDBKHW_72864 Number of predicted TMRs: 0
+NDBKHW_72864	signal	1	33				
+NDBKHW_72864	outside	34	48				
+//
+# NDBKHW_87821 Length: 46
+# NDBKHW_87821 Number of predicted TMRs: 0
+NDBKHW_87821	inside	1	46				
+//
+# NDBKHW_149636 Length: 46
+# NDBKHW_149636 Number of predicted TMRs: 0
+NDBKHW_149636	inside	1	46				
+//
+# NDBKHW_32980 Length: 44
+# NDBKHW_32980 Number of predicted TMRs: 0
+NDBKHW_32980	inside	1	44				
+//
+# NDBKHW_12310 Length: 47
+# NDBKHW_12310 Number of predicted TMRs: 0
+NDBKHW_12310	inside	1	47				
+//
+# NDBKHW_162919 Length: 38
+# NDBKHW_162919 Number of predicted TMRs: 0
+NDBKHW_162919	signal	1	28				
+NDBKHW_162919	outside	29	38				
+//
+# NDBKHW_141912 Length: 39
+# NDBKHW_141912 Number of predicted TMRs: 0
+NDBKHW_141912	inside	1	39				
+//
+# NDBKHW_119034 Length: 49
+# NDBKHW_119034 Number of predicted TMRs: 0
+NDBKHW_119034	inside	1	49				
+//
+# NDBKHW_145839 Length: 38
+# NDBKHW_145839 Number of predicted TMRs: 0
+NDBKHW_145839	inside	1	38				
+//
+# NDBKHW_92904 Length: 38
+# NDBKHW_92904 Number of predicted TMRs: 0
+NDBKHW_92904	signal	1	33				
+NDBKHW_92904	outside	34	38				
+//
+# NDBKHW_89843 Length: 48
+# NDBKHW_89843 Number of predicted TMRs: 0
+NDBKHW_89843	inside	1	48				
+//
+# NDBKHW_96603 Length: 48
+# NDBKHW_96603 Number of predicted TMRs: 0
+NDBKHW_96603	outside	1	48				
+//
+# NDBKHW_129536 Length: 43
+# NDBKHW_129536 Number of predicted TMRs: 0
+NDBKHW_129536	inside	1	43				
+//
+# NDBKHW_160283 Length: 46
+# NDBKHW_160283 Number of predicted TMRs: 0
+NDBKHW_160283	signal	1	15				
+NDBKHW_160283	outside	16	46				
+//
+# NDBKHW_136669 Length: 50
+# NDBKHW_136669 Number of predicted TMRs: 0
+NDBKHW_136669	inside	1	50				
+//
+# NDBKHW_128655 Length: 49
+# NDBKHW_128655 Number of predicted TMRs: 0
+NDBKHW_128655	signal	1	20				
+NDBKHW_128655	outside	21	49				
+//
+# NDBKHW_51706 Length: 41
+# NDBKHW_51706 Number of predicted TMRs: 0
+NDBKHW_51706	signal	1	13				
+NDBKHW_51706	outside	14	41				
+//
+# NDBKHW_24753 Length: 48
+# NDBKHW_24753 Number of predicted TMRs: 0
+NDBKHW_24753	inside	1	48				
+//
+# NDBKHW_97826 Length: 50
+# NDBKHW_97826 Number of predicted TMRs: 0
+NDBKHW_97826	inside	1	50				
+//
+# NDBKHW_68438 Length: 46
+# NDBKHW_68438 Number of predicted TMRs: 0
+NDBKHW_68438	inside	1	46				
+//
+# NDBKHW_115216 Length: 45
+# NDBKHW_115216 Number of predicted TMRs: 0
+NDBKHW_115216	outside	1	45				
+//
+# NDBKHW_37777 Length: 46
+# NDBKHW_37777 Number of predicted TMRs: 0
+NDBKHW_37777	outside	1	46				
+//
+# NDBKHW_60118 Length: 35
+# NDBKHW_60118 Number of predicted TMRs: 0
+NDBKHW_60118	signal	1	33				
+NDBKHW_60118	outside	34	35				
+//
+# NDBKHW_35131 Length: 42
+# NDBKHW_35131 Number of predicted TMRs: 0
+NDBKHW_35131	inside	1	42				
+//
+# NDBKHW_45219 Length: 46
+# NDBKHW_45219 Number of predicted TMRs: 0
+NDBKHW_45219	signal	1	13				
+NDBKHW_45219	outside	14	46				
+//
+# NDBKHW_15316 Length: 48
+# NDBKHW_15316 Number of predicted TMRs: 0
+NDBKHW_15316	inside	1	48				
+//
+# NDBKHW_115275 Length: 45
+# NDBKHW_115275 Number of predicted TMRs: 0
+NDBKHW_115275	signal	1	33				
+NDBKHW_115275	outside	34	45				
+//
+# NDBKHW_150154 Length: 35
+# NDBKHW_150154 Number of predicted TMRs: 0
+NDBKHW_150154	inside	1	35				
+//
+# NDBKHW_76677 Length: 50
+# NDBKHW_76677 Number of predicted TMRs: 0
+NDBKHW_76677	inside	1	50				
+//
+# NDBKHW_9264 Length: 47
+# NDBKHW_9264 Number of predicted TMRs: 0
+NDBKHW_9264	inside	1	47				
+//
+# NDBKHW_169502 Length: 46
+# NDBKHW_169502 Number of predicted TMRs: 0
+NDBKHW_169502	signal	1	10				
+NDBKHW_169502	outside	11	46				
+//
+# NDBKHW_63482 Length: 47
+# NDBKHW_63482 Number of predicted TMRs: 0
+NDBKHW_63482	inside	1	47				
+//
+# NDBKHW_81701 Length: 44
+# NDBKHW_81701 Number of predicted TMRs: 0
+NDBKHW_81701	inside	1	44				
+//
+# NDBKHW_137887 Length: 49
+# NDBKHW_137887 Number of predicted TMRs: 0
+NDBKHW_137887	signal	1	13				
+NDBKHW_137887	outside	14	49				
+//
+# NDBKHW_58890 Length: 41
+# NDBKHW_58890 Number of predicted TMRs: 0
+NDBKHW_58890	signal	1	40				
+NDBKHW_58890	outside	41	41				
+//
+# NDBKHW_16095 Length: 48
+# NDBKHW_16095 Number of predicted TMRs: 0
+NDBKHW_16095	signal	1	26				
+NDBKHW_16095	outside	27	48				
+//
+# NDBKHW_15979 Length: 40
+# NDBKHW_15979 Number of predicted TMRs: 0
+NDBKHW_15979	inside	1	40				
+//
+# NDBKHW_114736 Length: 50
+# NDBKHW_114736 Number of predicted TMRs: 0
+NDBKHW_114736	inside	1	50				
+//
+# NDBKHW_20501 Length: 46
+# NDBKHW_20501 Number of predicted TMRs: 0
+NDBKHW_20501	inside	1	46				
+//
+# NDBKHW_13995 Length: 49
+# NDBKHW_13995 Number of predicted TMRs: 0
+NDBKHW_13995	inside	1	49				
+//
+# NDBKHW_116755 Length: 50
+# NDBKHW_116755 Number of predicted TMRs: 1
+NDBKHW_116755	inside	1	28				
+NDBKHW_116755	TMhelix	29	49				
+NDBKHW_116755	outside	50	50				
+//
+# NDBKHW_56915 Length: 36
+# NDBKHW_56915 Number of predicted TMRs: 0
+NDBKHW_56915	signal	1	35				
+NDBKHW_56915	outside	36	36				
+//
+# NDBKHW_143781 Length: 37
+# NDBKHW_143781 Number of predicted TMRs: 0
+NDBKHW_143781	signal	1	33				
+NDBKHW_143781	outside	34	37				
+//
+# NDBKHW_168744 Length: 49
+# NDBKHW_168744 Number of predicted TMRs: 0
+NDBKHW_168744	inside	1	49				
+//
+# NDBKHW_80151 Length: 44
+# NDBKHW_80151 Number of predicted TMRs: 0
+NDBKHW_80151	signal	1	32				
+NDBKHW_80151	outside	33	44				
+//
+# NDBKHW_9582 Length: 48
+# NDBKHW_9582 Number of predicted TMRs: 0
+NDBKHW_9582	signal	1	47				
+NDBKHW_9582	outside	48	48				
+//
+# NDBKHW_162873 Length: 39
+# NDBKHW_162873 Number of predicted TMRs: 0
+NDBKHW_162873	inside	1	39				
+//
+# NDBKHW_18536 Length: 30
+# NDBKHW_18536 Number of predicted TMRs: 0
+NDBKHW_18536	inside	1	30				
+//
+# NDBKHW_169143 Length: 47
+# NDBKHW_169143 Number of predicted TMRs: 0
+NDBKHW_169143	inside	1	47				
+//
+# NDBKHW_42334 Length: 33
+# NDBKHW_42334 Number of predicted TMRs: 0
+NDBKHW_42334	signal	1	29				
+NDBKHW_42334	outside	30	33				
+//
+# NDBKHW_111521 Length: 47
+# NDBKHW_111521 Number of predicted TMRs: 0
+NDBKHW_111521	signal	1	15				
+NDBKHW_111521	outside	16	47				
+//
+# NDBKHW_6890 Length: 45
+# NDBKHW_6890 Number of predicted TMRs: 0
+NDBKHW_6890	inside	1	45				
+//
+# NDBKHW_147398 Length: 39
+# NDBKHW_147398 Number of predicted TMRs: 0
+NDBKHW_147398	inside	1	39				
+//
+# NDBKHW_153984 Length: 25
+# NDBKHW_153984 Number of predicted TMRs: 0
+NDBKHW_153984	inside	1	25				
+//
+# NDBKHW_76885 Length: 35
+# NDBKHW_76885 Number of predicted TMRs: 0
+NDBKHW_76885	inside	1	35				
+//
+# NDBKHW_100670 Length: 41
+# NDBKHW_100670 Number of predicted TMRs: 0
+NDBKHW_100670	inside	1	41				
+//
+# NDBKHW_40920 Length: 48
+# NDBKHW_40920 Number of predicted TMRs: 0
+NDBKHW_40920	inside	1	48				
+//
+# NDBKHW_69336 Length: 40
+# NDBKHW_69336 Number of predicted TMRs: 0
+NDBKHW_69336	inside	1	40				
+//
+# NDBKHW_17082 Length: 47
+# NDBKHW_17082 Number of predicted TMRs: 0
+NDBKHW_17082	signal	1	46				
+NDBKHW_17082	outside	47	47				
+//
+# NDBKHW_16939 Length: 44
+# NDBKHW_16939 Number of predicted TMRs: 0
+NDBKHW_16939	inside	1	44				
+//
+# NDBKHW_16942 Length: 49
+# NDBKHW_16942 Number of predicted TMRs: 0
+NDBKHW_16942	inside	1	49				
+//
+# NDBKHW_115913 Length: 49
+# NDBKHW_115913 Number of predicted TMRs: 0
+NDBKHW_115913	inside	1	49				
+//
+# NDBKHW_54202 Length: 43
+# NDBKHW_54202 Number of predicted TMRs: 0
+NDBKHW_54202	inside	1	43				
+//
+# NDBKHW_170438 Length: 47
+# NDBKHW_170438 Number of predicted TMRs: 0
+NDBKHW_170438	signal	1	46				
+NDBKHW_170438	outside	47	47				
+//
+# NDBKHW_57222 Length: 50
+# NDBKHW_57222 Number of predicted TMRs: 0
+NDBKHW_57222	inside	1	50				
+//
+# NDBKHW_130915 Length: 45
+# NDBKHW_130915 Number of predicted TMRs: 0
+NDBKHW_130915	signal	1	41				
+NDBKHW_130915	outside	42	45				
+//
+# NDBKHW_14625 Length: 43
+# NDBKHW_14625 Number of predicted TMRs: 0
+NDBKHW_14625	inside	1	43				
+//
+# NDBKHW_19155 Length: 46
+# NDBKHW_19155 Number of predicted TMRs: 0
+NDBKHW_19155	inside	1	46				
+//
+# NDBKHW_88184 Length: 42
+# NDBKHW_88184 Number of predicted TMRs: 0
+NDBKHW_88184	signal	1	41				
+NDBKHW_88184	outside	42	42				
+//
+# NDBKHW_25604 Length: 44
+# NDBKHW_25604 Number of predicted TMRs: 0
+NDBKHW_25604	signal	1	29				
+NDBKHW_25604	outside	30	44				
+//
+# NDBKHW_29853 Length: 49
+# NDBKHW_29853 Number of predicted TMRs: 0
+NDBKHW_29853	signal	1	11				
+NDBKHW_29853	outside	12	49				
+//
+# NDBKHW_68722 Length: 49
+# NDBKHW_68722 Number of predicted TMRs: 0
+NDBKHW_68722	inside	1	49				
+//
+# NDBKHW_32305 Length: 44
+# NDBKHW_32305 Number of predicted TMRs: 0
+NDBKHW_32305	inside	1	44				
+//
+# NDBKHW_26531 Length: 45
+# NDBKHW_26531 Number of predicted TMRs: 0
+NDBKHW_26531	inside	1	45				
+//
+# NDBKHW_135435 Length: 47
+# NDBKHW_135435 Number of predicted TMRs: 0
+NDBKHW_135435	signal	1	43				
+NDBKHW_135435	outside	44	47				
+//
+# NDBKHW_135420 Length: 44
+# NDBKHW_135420 Number of predicted TMRs: 0
+NDBKHW_135420	signal	1	42				
+NDBKHW_135420	outside	43	44				
+//
+# NDBKHW_111503 Length: 49
+# NDBKHW_111503 Number of predicted TMRs: 0
+NDBKHW_111503	inside	1	49				
+//
+# NDBKHW_132935 Length: 37
+# NDBKHW_132935 Number of predicted TMRs: 0
+NDBKHW_132935	signal	1	27				
+NDBKHW_132935	outside	28	37				
+//
+# NDBKHW_6156 Length: 47
+# NDBKHW_6156 Number of predicted TMRs: 0
+NDBKHW_6156	inside	1	47				
+//
+# NDBKHW_108812 Length: 31
+# NDBKHW_108812 Number of predicted TMRs: 0
+NDBKHW_108812	inside	1	31				
+//
+# NDBKHW_12920 Length: 47
+# NDBKHW_12920 Number of predicted TMRs: 0
+NDBKHW_12920	inside	1	47				
+//
+# NDBKHW_75549 Length: 50
+# NDBKHW_75549 Number of predicted TMRs: 0
+NDBKHW_75549	inside	1	50				
+//
+# NDBKHW_17071 Length: 36
+# NDBKHW_17071 Number of predicted TMRs: 0
+NDBKHW_17071	inside	1	36				
+//
+# NDBKHW_170471 Length: 50
+# NDBKHW_170471 Number of predicted TMRs: 0
+NDBKHW_170471	inside	1	50				
+//
+# NDBKHW_113148 Length: 40
+# NDBKHW_113148 Number of predicted TMRs: 0
+NDBKHW_113148	outside	1	40				
+//
+# NDBKHW_165921 Length: 33
+# NDBKHW_165921 Number of predicted TMRs: 0
+NDBKHW_165921	inside	1	33				
+//
+# NDBKHW_7854 Length: 47
+# NDBKHW_7854 Number of predicted TMRs: 0
+NDBKHW_7854	inside	1	47				
+//
+# NDBKHW_102307 Length: 37
+# NDBKHW_102307 Number of predicted TMRs: 0
+NDBKHW_102307	inside	1	37				
+//
+# NDBKHW_64089 Length: 44
+# NDBKHW_64089 Number of predicted TMRs: 0
+NDBKHW_64089	inside	1	44				
+//
+# NDBKHW_68892 Length: 42
+# NDBKHW_68892 Number of predicted TMRs: 0
+NDBKHW_68892	inside	1	42				
+//
+# NDBKHW_73746 Length: 50
+# NDBKHW_73746 Number of predicted TMRs: 0
+NDBKHW_73746	inside	1	50				
+//
+# NDBKHW_170218 Length: 35
+# NDBKHW_170218 Number of predicted TMRs: 0
+NDBKHW_170218	inside	1	35				
+//
+# NDBKHW_119923 Length: 46
+# NDBKHW_119923 Number of predicted TMRs: 0
+NDBKHW_119923	inside	1	46				
+//
+# NDBKHW_161793 Length: 45
+# NDBKHW_161793 Number of predicted TMRs: 0
+NDBKHW_161793	inside	1	45				
+//
+# NDBKHW_69579 Length: 45
+# NDBKHW_69579 Number of predicted TMRs: 0
+NDBKHW_69579	inside	1	45				
+//
+# NDBKHW_18553 Length: 40
+# NDBKHW_18553 Number of predicted TMRs: 0
+NDBKHW_18553	signal	1	27				
+NDBKHW_18553	outside	28	40				
+//
+# NDBKHW_43690 Length: 27
+# NDBKHW_43690 Number of predicted TMRs: 0
+NDBKHW_43690	signal	1	26				
+NDBKHW_43690	outside	27	27				
+//
+# NDBKHW_102054 Length: 42
+# NDBKHW_102054 Number of predicted TMRs: 0
+NDBKHW_102054	signal	1	40				
+NDBKHW_102054	outside	41	42				
+//
+# NDBKHW_48445 Length: 49
+# NDBKHW_48445 Number of predicted TMRs: 0
+NDBKHW_48445	signal	1	31				
+NDBKHW_48445	outside	32	49				
+//
+# NDBKHW_131163 Length: 45
+# NDBKHW_131163 Number of predicted TMRs: 0
+NDBKHW_131163	inside	1	45				
+//
+# NDBKHW_116657 Length: 39
+# NDBKHW_116657 Number of predicted TMRs: 0
+NDBKHW_116657	inside	1	39				
+//
+# NDBKHW_37410 Length: 36
+# NDBKHW_37410 Number of predicted TMRs: 0
+NDBKHW_37410	inside	1	36				
+//
+# NDBKHW_78667 Length: 50
+# NDBKHW_78667 Number of predicted TMRs: 0
+NDBKHW_78667	inside	1	50				
+//
+# NDBKHW_107310 Length: 44
+# NDBKHW_107310 Number of predicted TMRs: 0
+NDBKHW_107310	signal	1	12				
+NDBKHW_107310	outside	13	44				
+//
+# NDBKHW_79758 Length: 36
+# NDBKHW_79758 Number of predicted TMRs: 0
+NDBKHW_79758	inside	1	36				
+//
+# NDBKHW_129324 Length: 36
+# NDBKHW_129324 Number of predicted TMRs: 0
+NDBKHW_129324	signal	1	20				
+NDBKHW_129324	outside	21	36				
+//
+# NDBKHW_60187 Length: 43
+# NDBKHW_60187 Number of predicted TMRs: 0
+NDBKHW_60187	inside	1	43				
+//
+# NDBKHW_43201 Length: 43
+# NDBKHW_43201 Number of predicted TMRs: 0
+NDBKHW_43201	inside	1	43				
+//
+# NDBKHW_70487 Length: 39
+# NDBKHW_70487 Number of predicted TMRs: 0
+NDBKHW_70487	inside	1	39				
+//
+# NDBKHW_10923 Length: 33
+# NDBKHW_10923 Number of predicted TMRs: 0
+NDBKHW_10923	signal	1	30				
+NDBKHW_10923	outside	31	33				
+//
+# NDBKHW_44521 Length: 50
+# NDBKHW_44521 Number of predicted TMRs: 0
+NDBKHW_44521	inside	1	50				
+//
+# NDBKHW_58179 Length: 49
+# NDBKHW_58179 Number of predicted TMRs: 0
+NDBKHW_58179	signal	1	48				
+NDBKHW_58179	outside	49	49				
+//
+# NDBKHW_51980 Length: 48
+# NDBKHW_51980 Number of predicted TMRs: 0
+NDBKHW_51980	inside	1	48				
+//
+# NDBKHW_41193 Length: 41
+# NDBKHW_41193 Number of predicted TMRs: 0
+NDBKHW_41193	signal	1	39				
+NDBKHW_41193	outside	40	41				
+//
+# NDBKHW_28280 Length: 43
+# NDBKHW_28280 Number of predicted TMRs: 0
+NDBKHW_28280	inside	1	43				
+//
+# NDBKHW_151518 Length: 48
+# NDBKHW_151518 Number of predicted TMRs: 0
+NDBKHW_151518	inside	1	48				
+//
+# NDBKHW_98816 Length: 37
+# NDBKHW_98816 Number of predicted TMRs: 0
+NDBKHW_98816	inside	1	37				
+//
+# NDBKHW_134560 Length: 44
+# NDBKHW_134560 Number of predicted TMRs: 0
+NDBKHW_134560	inside	1	44				
+//
+# NDBKHW_51254 Length: 34
+# NDBKHW_51254 Number of predicted TMRs: 0
+NDBKHW_51254	inside	1	34				
+//
+# NDBKHW_77706 Length: 31
+# NDBKHW_77706 Number of predicted TMRs: 0
+NDBKHW_77706	inside	1	31				
+//
+# NDBKHW_171289 Length: 42
+# NDBKHW_171289 Number of predicted TMRs: 0
+NDBKHW_171289	signal	1	37				
+NDBKHW_171289	outside	38	42				
+//
+# NDBKHW_8579 Length: 48
+# NDBKHW_8579 Number of predicted TMRs: 0
+NDBKHW_8579	signal	1	21				
+NDBKHW_8579	outside	22	48				
+//
+# NDBKHW_12415 Length: 44
+# NDBKHW_12415 Number of predicted TMRs: 0
+NDBKHW_12415	inside	1	44				
+//
+# NDBKHW_45189 Length: 46
+# NDBKHW_45189 Number of predicted TMRs: 0
+NDBKHW_45189	signal	1	35				
+NDBKHW_45189	outside	36	46				
+//
+# NDBKHW_147002 Length: 49
+# NDBKHW_147002 Number of predicted TMRs: 0
+NDBKHW_147002	signal	1	47				
+NDBKHW_147002	outside	48	49				
+//
+# NDBKHW_27546 Length: 36
+# NDBKHW_27546 Number of predicted TMRs: 0
+NDBKHW_27546	signal	1	33				
+NDBKHW_27546	outside	34	36				
+//
+# NDBKHW_137911 Length: 44
+# NDBKHW_137911 Number of predicted TMRs: 0
+NDBKHW_137911	inside	1	44				
+//
+# NDBKHW_98618 Length: 43
+# NDBKHW_98618 Number of predicted TMRs: 0
+NDBKHW_98618	inside	1	43				
+//
+# NDBKHW_95285 Length: 37
+# NDBKHW_95285 Number of predicted TMRs: 0
+NDBKHW_95285	signal	1	30				
+NDBKHW_95285	outside	31	37				
+//
+# NDBKHW_118535 Length: 43
+# NDBKHW_118535 Number of predicted TMRs: 0
+NDBKHW_118535	signal	1	41				
+NDBKHW_118535	outside	42	43				
+//
+# NDBKHW_110557 Length: 46
+# NDBKHW_110557 Number of predicted TMRs: 0
+NDBKHW_110557	inside	1	46				
+//
+# NDBKHW_11436 Length: 44
+# NDBKHW_11436 Number of predicted TMRs: 0
+NDBKHW_11436	inside	1	44				
+//
+# NDBKHW_42021 Length: 39
+# NDBKHW_42021 Number of predicted TMRs: 0
+NDBKHW_42021	inside	1	39				
+//
+# NDBKHW_169978 Length: 46
+# NDBKHW_169978 Number of predicted TMRs: 0
+NDBKHW_169978	inside	1	46				
+//
+# NDBKHW_121180 Length: 42
+# NDBKHW_121180 Number of predicted TMRs: 0
+NDBKHW_121180	inside	1	42				
+//
+# NDBKHW_21414 Length: 40
+# NDBKHW_21414 Number of predicted TMRs: 0
+NDBKHW_21414	inside	1	40				
+//
+# NDBKHW_145958 Length: 50
+# NDBKHW_145958 Number of predicted TMRs: 0
+NDBKHW_145958	inside	1	50				
+//
+# NDBKHW_37021 Length: 42
+# NDBKHW_37021 Number of predicted TMRs: 0
+NDBKHW_37021	inside	1	42				
+//
+# NDBKHW_150921 Length: 42
+# NDBKHW_150921 Number of predicted TMRs: 0
+NDBKHW_150921	inside	1	42				
+//
+# NDBKHW_145761 Length: 42
+# NDBKHW_145761 Number of predicted TMRs: 0
+NDBKHW_145761	inside	1	42				
+//
+# NDBKHW_17430 Length: 42
+# NDBKHW_17430 Number of predicted TMRs: 0
+NDBKHW_17430	inside	1	42				
+//
+# NDBKHW_162744 Length: 48
+# NDBKHW_162744 Number of predicted TMRs: 0
+NDBKHW_162744	inside	1	48				
+//
+# NDBKHW_74969 Length: 49
+# NDBKHW_74969 Number of predicted TMRs: 0
+NDBKHW_74969	signal	1	33				
+NDBKHW_74969	outside	34	49				
+//
+# NDBKHW_4533 Length: 41
+# NDBKHW_4533 Number of predicted TMRs: 1
+NDBKHW_4533	inside	1	20				
+NDBKHW_4533	TMhelix	21	38				
+NDBKHW_4533	outside	39	41				
+//
+# NDBKHW_62456 Length: 42
+# NDBKHW_62456 Number of predicted TMRs: 0
+NDBKHW_62456	signal	1	40				
+NDBKHW_62456	outside	41	42				
+//
+# NDBKHW_14638 Length: 40
+# NDBKHW_14638 Number of predicted TMRs: 0
+NDBKHW_14638	signal	1	39				
+NDBKHW_14638	outside	40	40				
+//
+# NDBKHW_33647 Length: 45
+# NDBKHW_33647 Number of predicted TMRs: 0
+NDBKHW_33647	inside	1	45				
+//
+# NDBKHW_72969 Length: 48
+# NDBKHW_72969 Number of predicted TMRs: 0
+NDBKHW_72969	signal	1	26				
+NDBKHW_72969	outside	27	48				
+//
+# NDBKHW_38615 Length: 44
+# NDBKHW_38615 Number of predicted TMRs: 0
+NDBKHW_38615	signal	1	39				
+NDBKHW_38615	outside	40	44				
+//
+# NDBKHW_167359 Length: 39
+# NDBKHW_167359 Number of predicted TMRs: 0
+NDBKHW_167359	signal	1	36				
+NDBKHW_167359	outside	37	39				
+//
+# NDBKHW_70905 Length: 40
+# NDBKHW_70905 Number of predicted TMRs: 0
+NDBKHW_70905	signal	1	39				
+NDBKHW_70905	outside	40	40				
+//
+# NDBKHW_130847 Length: 45
+# NDBKHW_130847 Number of predicted TMRs: 0
+NDBKHW_130847	inside	1	45				
+//
+# NDBKHW_88332 Length: 49
+# NDBKHW_88332 Number of predicted TMRs: 0
+NDBKHW_88332	inside	1	49				
+//
+# NDBKHW_76884 Length: 44
+# NDBKHW_76884 Number of predicted TMRs: 0
+NDBKHW_76884	inside	1	44				
+//
+# NDBKHW_58602 Length: 38
+# NDBKHW_58602 Number of predicted TMRs: 0
+NDBKHW_58602	outside	1	38				
+//
+# NDBKHW_146671 Length: 45
+# NDBKHW_146671 Number of predicted TMRs: 0
+NDBKHW_146671	inside	1	45				
+//
+# NDBKHW_160183 Length: 50
+# NDBKHW_160183 Number of predicted TMRs: 0
+NDBKHW_160183	inside	1	50				
+//
+# NDBKHW_57843 Length: 46
+# NDBKHW_57843 Number of predicted TMRs: 0
+NDBKHW_57843	signal	1	26				
+NDBKHW_57843	outside	27	46				
+//
+# NDBKHW_90524 Length: 48
+# NDBKHW_90524 Number of predicted TMRs: 0
+NDBKHW_90524	inside	1	48				
+//
+# NDBKHW_131642 Length: 39
+# NDBKHW_131642 Number of predicted TMRs: 0
+NDBKHW_131642	signal	1	33				
+NDBKHW_131642	outside	34	39				
+//
+# NDBKHW_133345 Length: 46
+# NDBKHW_133345 Number of predicted TMRs: 0
+NDBKHW_133345	signal	1	34				
+NDBKHW_133345	outside	35	46				
+//
+# NDBKHW_95585 Length: 47
+# NDBKHW_95585 Number of predicted TMRs: 0
+NDBKHW_95585	signal	1	34				
+NDBKHW_95585	outside	35	47				
+//
+# NDBKHW_4988 Length: 38
+# NDBKHW_4988 Number of predicted TMRs: 0
+NDBKHW_4988	signal	1	32				
+NDBKHW_4988	outside	33	38				
+//
+# NDBKHW_16360 Length: 31
+# NDBKHW_16360 Number of predicted TMRs: 0
+NDBKHW_16360	signal	1	28				
+NDBKHW_16360	outside	29	31				
+//
+# NDBKHW_8445 Length: 44
+# NDBKHW_8445 Number of predicted TMRs: 0
+NDBKHW_8445	inside	1	44				
+//
+# NDBKHW_20817 Length: 46
+# NDBKHW_20817 Number of predicted TMRs: 0
+NDBKHW_20817	inside	1	46				
+//
+# NDBKHW_58361 Length: 49
+# NDBKHW_58361 Number of predicted TMRs: 0
+NDBKHW_58361	signal	1	19				
+NDBKHW_58361	outside	20	49				
+//
+# NDBKHW_74433 Length: 44
+# NDBKHW_74433 Number of predicted TMRs: 0
+NDBKHW_74433	inside	1	44				
+//
+# NDBKHW_140665 Length: 48
+# NDBKHW_140665 Number of predicted TMRs: 0
+NDBKHW_140665	signal	1	39				
+NDBKHW_140665	outside	40	48				
+//
+# NDBKHW_6920 Length: 41
+# NDBKHW_6920 Number of predicted TMRs: 0
+NDBKHW_6920	inside	1	41				
+//
+# NDBKHW_102800 Length: 28
+# NDBKHW_102800 Number of predicted TMRs: 0
+NDBKHW_102800	signal	1	27				
+NDBKHW_102800	outside	28	28				
+//
+# NDBKHW_146867 Length: 45
+# NDBKHW_146867 Number of predicted TMRs: 0
+NDBKHW_146867	signal	1	43				
+NDBKHW_146867	outside	44	45				
+//
+# NDBKHW_76664 Length: 47
+# NDBKHW_76664 Number of predicted TMRs: 0
+NDBKHW_76664	inside	1	47				
+//
+# NDBKHW_63749 Length: 48
+# NDBKHW_63749 Number of predicted TMRs: 0
+NDBKHW_63749	inside	1	48				
+//
+# NDBKHW_44113 Length: 46
+# NDBKHW_44113 Number of predicted TMRs: 0
+NDBKHW_44113	inside	1	46				
+//
+# NDBKHW_137088 Length: 49
+# NDBKHW_137088 Number of predicted TMRs: 0
+NDBKHW_137088	inside	1	49				
+//
+# NDBKHW_85866 Length: 49
+# NDBKHW_85866 Number of predicted TMRs: 0
+NDBKHW_85866	signal	1	12				
+NDBKHW_85866	outside	13	49				
+//
+# NDBKHW_130418 Length: 44
+# NDBKHW_130418 Number of predicted TMRs: 0
+NDBKHW_130418	inside	1	44				
+//
+# NDBKHW_169881 Length: 47
+# NDBKHW_169881 Number of predicted TMRs: 0
+NDBKHW_169881	inside	1	47				
+//
+# NDBKHW_145103 Length: 45
+# NDBKHW_145103 Number of predicted TMRs: 0
+NDBKHW_145103	signal	1	16				
+NDBKHW_145103	outside	17	45				
+//
+# NDBKHW_55023 Length: 46
+# NDBKHW_55023 Number of predicted TMRs: 0
+NDBKHW_55023	inside	1	46				
+//
+# NDBKHW_79124 Length: 46
+# NDBKHW_79124 Number of predicted TMRs: 0
+NDBKHW_79124	inside	1	46				
+//
+# NDBKHW_17889 Length: 48
+# NDBKHW_17889 Number of predicted TMRs: 0
+NDBKHW_17889	inside	1	48				
+//
+# NDBKHW_59452 Length: 47
+# NDBKHW_59452 Number of predicted TMRs: 0
+NDBKHW_59452	signal	1	38				
+NDBKHW_59452	outside	39	47				
+//
+# NDBKHW_31138 Length: 36
+# NDBKHW_31138 Number of predicted TMRs: 0
+NDBKHW_31138	signal	1	35				
+NDBKHW_31138	outside	36	36				
+//
+# NDBKHW_52639 Length: 36
+# NDBKHW_52639 Number of predicted TMRs: 0
+NDBKHW_52639	signal	1	24				
+NDBKHW_52639	outside	25	36				
+//
+# NDBKHW_277 Length: 36
+# NDBKHW_277 Number of predicted TMRs: 0
+NDBKHW_277	signal	1	33				
+NDBKHW_277	outside	34	36				
+//
+# NDBKHW_348 Length: 36
+# NDBKHW_348 Number of predicted TMRs: 0
+NDBKHW_348	signal	1	35				
+NDBKHW_348	outside	36	36				
+//
+# NDBKHW_160018 Length: 39
+# NDBKHW_160018 Number of predicted TMRs: 0
+NDBKHW_160018	signal	1	38				
+NDBKHW_160018	outside	39	39				
+//
+# NDBKHW_154764 Length: 46
+# NDBKHW_154764 Number of predicted TMRs: 0
+NDBKHW_154764	inside	1	46				
+//
+# NDBKHW_122070 Length: 48
+# NDBKHW_122070 Number of predicted TMRs: 0
+NDBKHW_122070	inside	1	48				
+//
+# NDBKHW_82656 Length: 39
+# NDBKHW_82656 Number of predicted TMRs: 0
+NDBKHW_82656	signal	1	32				
+NDBKHW_82656	outside	33	39				
+//
+# NDBKHW_79919 Length: 42
+# NDBKHW_79919 Number of predicted TMRs: 0
+NDBKHW_79919	inside	1	42				
+//
+# NDBKHW_20828 Length: 47
+# NDBKHW_20828 Number of predicted TMRs: 0
+NDBKHW_20828	inside	1	47				
+//
+# NDBKHW_14730 Length: 42
+# NDBKHW_14730 Number of predicted TMRs: 0
+NDBKHW_14730	signal	1	41				
+NDBKHW_14730	outside	42	42				
+//
+# NDBKHW_72380 Length: 44
+# NDBKHW_72380 Number of predicted TMRs: 0
+NDBKHW_72380	signal	1	13				
+NDBKHW_72380	outside	14	44				
+//
+# NDBKHW_19389 Length: 47
+# NDBKHW_19389 Number of predicted TMRs: 0
+NDBKHW_19389	inside	1	47				
+//
+# NDBKHW_41070 Length: 41
+# NDBKHW_41070 Number of predicted TMRs: 0
+NDBKHW_41070	inside	1	41				
+//
+# NDBKHW_68841 Length: 49
+# NDBKHW_68841 Number of predicted TMRs: 0
+NDBKHW_68841	inside	1	49				
+//
+# NDBKHW_85952 Length: 41
+# NDBKHW_85952 Number of predicted TMRs: 0
+NDBKHW_85952	inside	1	41				
+//
+# NDBKHW_14976 Length: 38
+# NDBKHW_14976 Number of predicted TMRs: 0
+NDBKHW_14976	signal	1	34				
+NDBKHW_14976	outside	35	38				
+//
+# NDBKHW_6343 Length: 43
+# NDBKHW_6343 Number of predicted TMRs: 0
+NDBKHW_6343	inside	1	43				
+//
+# NDBKHW_18884 Length: 45
+# NDBKHW_18884 Number of predicted TMRs: 0
+NDBKHW_18884	inside	1	45				
+//
+# NDBKHW_46680 Length: 45
+# NDBKHW_46680 Number of predicted TMRs: 0
+NDBKHW_46680	inside	1	45				
+//
+# NDBKHW_34357 Length: 50
+# NDBKHW_34357 Number of predicted TMRs: 0
+NDBKHW_34357	inside	1	50				
+//
+# NDBKHW_42961 Length: 42
+# NDBKHW_42961 Number of predicted TMRs: 0
+NDBKHW_42961	inside	1	42				
+//
+# NDBKHW_122907 Length: 47
+# NDBKHW_122907 Number of predicted TMRs: 0
+NDBKHW_122907	inside	1	47				
+//
+# NDBKHW_138355 Length: 45
+# NDBKHW_138355 Number of predicted TMRs: 0
+NDBKHW_138355	inside	1	45				
+//
+# NDBKHW_141939 Length: 43
+# NDBKHW_141939 Number of predicted TMRs: 0
+NDBKHW_141939	inside	1	43				
+//
+# NDBKHW_53406 Length: 46
+# NDBKHW_53406 Number of predicted TMRs: 0
+NDBKHW_53406	inside	1	46				
+//
+# NDBKHW_77341 Length: 35
+# NDBKHW_77341 Number of predicted TMRs: 0
+NDBKHW_77341	inside	1	35				
+//
+# NDBKHW_40856 Length: 37
+# NDBKHW_40856 Number of predicted TMRs: 0
+NDBKHW_40856	signal	1	36				
+NDBKHW_40856	outside	37	37				
+//
+# NDBKHW_160862 Length: 50
+# NDBKHW_160862 Number of predicted TMRs: 0
+NDBKHW_160862	inside	1	50				
+//
+# NDBKHW_28716 Length: 39
+# NDBKHW_28716 Number of predicted TMRs: 0
+NDBKHW_28716	inside	1	39				
+//
+# NDBKHW_81930 Length: 34
+# NDBKHW_81930 Number of predicted TMRs: 0
+NDBKHW_81930	inside	1	34				
+//
+# NDBKHW_53256 Length: 43
+# NDBKHW_53256 Number of predicted TMRs: 0
+NDBKHW_53256	inside	1	43				
+//
+# NDBKHW_92211 Length: 45
+# NDBKHW_92211 Number of predicted TMRs: 0
+NDBKHW_92211	inside	1	45				
+//
+# NDBKHW_93133 Length: 49
+# NDBKHW_93133 Number of predicted TMRs: 0
+NDBKHW_93133	inside	1	49				
+//
+# NDBKHW_77571 Length: 50
+# NDBKHW_77571 Number of predicted TMRs: 0
+NDBKHW_77571	signal	1	47				
+NDBKHW_77571	outside	48	50				
+//
+# NDBKHW_12307 Length: 40
+# NDBKHW_12307 Number of predicted TMRs: 0
+NDBKHW_12307	inside	1	40				
+//
+# NDBKHW_139260 Length: 46
+# NDBKHW_139260 Number of predicted TMRs: 0
+NDBKHW_139260	inside	1	46				
+//
+# NDBKHW_137315 Length: 46
+# NDBKHW_137315 Number of predicted TMRs: 0
+NDBKHW_137315	inside	1	46				
+//
+# NDBKHW_1456 Length: 32
+# NDBKHW_1456 Number of predicted TMRs: 0
+NDBKHW_1456	inside	1	32				
+//
+# NDBKHW_130771 Length: 48
+# NDBKHW_130771 Number of predicted TMRs: 0
+NDBKHW_130771	inside	1	48				
+//
+# NDBKHW_73497 Length: 45
+# NDBKHW_73497 Number of predicted TMRs: 0
+NDBKHW_73497	signal	1	10				
+NDBKHW_73497	outside	11	45				
+//
+# NDBKHW_128739 Length: 50
+# NDBKHW_128739 Number of predicted TMRs: 0
+NDBKHW_128739	inside	1	50				
+//
+# NDBKHW_17477 Length: 46
+# NDBKHW_17477 Number of predicted TMRs: 0
+NDBKHW_17477	inside	1	46				
+//
+# NDBKHW_166755 Length: 43
+# NDBKHW_166755 Number of predicted TMRs: 0
+NDBKHW_166755	inside	1	43				
+//
+# NDBKHW_110809 Length: 37
+# NDBKHW_110809 Number of predicted TMRs: 0
+NDBKHW_110809	inside	1	37				
+//
+# NDBKHW_125493 Length: 49
+# NDBKHW_125493 Number of predicted TMRs: 0
+NDBKHW_125493	inside	1	49				
+//
+# NDBKHW_110534 Length: 50
+# NDBKHW_110534 Number of predicted TMRs: 0
+NDBKHW_110534	inside	1	50				
+//
+# NDBKHW_2260 Length: 49
+# NDBKHW_2260 Number of predicted TMRs: 0
+NDBKHW_2260	inside	1	49				
+//
+# NDBKHW_135039 Length: 42
+# NDBKHW_135039 Number of predicted TMRs: 0
+NDBKHW_135039	inside	1	42				
+//
+# NDBKHW_46652 Length: 48
+# NDBKHW_46652 Number of predicted TMRs: 0
+NDBKHW_46652	inside	1	48				
+//
+# NDBKHW_7328 Length: 47
+# NDBKHW_7328 Number of predicted TMRs: 0
+NDBKHW_7328	inside	1	47				
+//
+# NDBKHW_32552 Length: 42
+# NDBKHW_32552 Number of predicted TMRs: 0
+NDBKHW_32552	signal	1	31				
+NDBKHW_32552	outside	32	42				
+//
+# NDBKHW_44393 Length: 42
+# NDBKHW_44393 Number of predicted TMRs: 0
+NDBKHW_44393	signal	1	40				
+NDBKHW_44393	outside	41	42				
+//
+# NDBKHW_85366 Length: 44
+# NDBKHW_85366 Number of predicted TMRs: 0
+NDBKHW_85366	inside	1	44				
+//
+# NDBKHW_81498 Length: 39
+# NDBKHW_81498 Number of predicted TMRs: 0
+NDBKHW_81498	signal	1	38				
+NDBKHW_81498	outside	39	39				
+//
+# NDBKHW_104161 Length: 41
+# NDBKHW_104161 Number of predicted TMRs: 0
+NDBKHW_104161	inside	1	41				
+//
+# NDBKHW_136432 Length: 45
+# NDBKHW_136432 Number of predicted TMRs: 0
+NDBKHW_136432	inside	1	45				
+//
+# NDBKHW_160449 Length: 45
+# NDBKHW_160449 Number of predicted TMRs: 0
+NDBKHW_160449	inside	1	45				
+//
+# NDBKHW_141305 Length: 50
+# NDBKHW_141305 Number of predicted TMRs: 0
+NDBKHW_141305	signal	1	12				
+NDBKHW_141305	outside	13	50				
+//
+# NDBKHW_133433 Length: 48
+# NDBKHW_133433 Number of predicted TMRs: 0
+NDBKHW_133433	inside	1	48				
+//
+# NDBKHW_94881 Length: 39
+# NDBKHW_94881 Number of predicted TMRs: 0
+NDBKHW_94881	signal	1	38				
+NDBKHW_94881	outside	39	39				
+//
+# NDBKHW_60264 Length: 44
+# NDBKHW_60264 Number of predicted TMRs: 0
+NDBKHW_60264	inside	1	44				
+//
+# NDBKHW_128897 Length: 50
+# NDBKHW_128897 Number of predicted TMRs: 0
+NDBKHW_128897	inside	1	50				
+//
+# NDBKHW_76424 Length: 50
+# NDBKHW_76424 Number of predicted TMRs: 0
+NDBKHW_76424	inside	1	50				
+//
+# NDBKHW_22572 Length: 38
+# NDBKHW_22572 Number of predicted TMRs: 0
+NDBKHW_22572	inside	1	38				
+//
+# NDBKHW_89835 Length: 46
+# NDBKHW_89835 Number of predicted TMRs: 0
+NDBKHW_89835	signal	1	10				
+NDBKHW_89835	outside	11	46				
+//
+# NDBKHW_26233 Length: 45
+# NDBKHW_26233 Number of predicted TMRs: 0
+NDBKHW_26233	outside	1	45				
+//
+# NDBKHW_127607 Length: 45
+# NDBKHW_127607 Number of predicted TMRs: 0
+NDBKHW_127607	inside	1	45				
+//
+# NDBKHW_5158 Length: 38
+# NDBKHW_5158 Number of predicted TMRs: 0
+NDBKHW_5158	inside	1	38				
+//
+# NDBKHW_48861 Length: 43
+# NDBKHW_48861 Number of predicted TMRs: 0
+NDBKHW_48861	inside	1	43				
+//
+# NDBKHW_15835 Length: 47
+# NDBKHW_15835 Number of predicted TMRs: 0
+NDBKHW_15835	outside	1	47				
+//
+# NDBKHW_77741 Length: 44
+# NDBKHW_77741 Number of predicted TMRs: 0
+NDBKHW_77741	signal	1	43				
+NDBKHW_77741	outside	44	44				
+//
+# NDBKHW_105474 Length: 46
+# NDBKHW_105474 Number of predicted TMRs: 0
+NDBKHW_105474	inside	1	46				
+//
+# NDBKHW_124277 Length: 43
+# NDBKHW_124277 Number of predicted TMRs: 0
+NDBKHW_124277	inside	1	43				
+//
+# NDBKHW_5177 Length: 48
+# NDBKHW_5177 Number of predicted TMRs: 0
+NDBKHW_5177	inside	1	48				
+//
+# NDBKHW_38834 Length: 42
+# NDBKHW_38834 Number of predicted TMRs: 0
+NDBKHW_38834	inside	1	42				
+//
+# NDBKHW_65575 Length: 42
+# NDBKHW_65575 Number of predicted TMRs: 0
+NDBKHW_65575	signal	1	34				
+NDBKHW_65575	outside	35	42				
+//
+# NDBKHW_124472 Length: 50
+# NDBKHW_124472 Number of predicted TMRs: 0
+NDBKHW_124472	inside	1	50				
+//
+# NDBKHW_130631 Length: 43
+# NDBKHW_130631 Number of predicted TMRs: 0
+NDBKHW_130631	signal	1	10				
+NDBKHW_130631	outside	11	43				
+//
+# NDBKHW_152335 Length: 45
+# NDBKHW_152335 Number of predicted TMRs: 0
+NDBKHW_152335	inside	1	45				
+//
+# NDBKHW_42828 Length: 38
+# NDBKHW_42828 Number of predicted TMRs: 0
+NDBKHW_42828	inside	1	38				
+//
+# NDBKHW_124727 Length: 50
+# NDBKHW_124727 Number of predicted TMRs: 0
+NDBKHW_124727	inside	1	50				
+//
+# NDBKHW_48028 Length: 45
+# NDBKHW_48028 Number of predicted TMRs: 0
+NDBKHW_48028	inside	1	45				
+//
+# NDBKHW_68925 Length: 38
+# NDBKHW_68925 Number of predicted TMRs: 0
+NDBKHW_68925	outside	1	38				
+//
+# NDBKHW_133099 Length: 50
+# NDBKHW_133099 Number of predicted TMRs: 0
+NDBKHW_133099	inside	1	50				
+//
+# NDBKHW_143186 Length: 48
+# NDBKHW_143186 Number of predicted TMRs: 0
+NDBKHW_143186	inside	1	48				
+//
+# NDBKHW_137350 Length: 49
+# NDBKHW_137350 Number of predicted TMRs: 0
+NDBKHW_137350	inside	1	49				
+//
+# NDBKHW_127435 Length: 45
+# NDBKHW_127435 Number of predicted TMRs: 0
+NDBKHW_127435	signal	1	10				
+NDBKHW_127435	outside	11	45				
+//
+# NDBKHW_152455 Length: 45
+# NDBKHW_152455 Number of predicted TMRs: 0
+NDBKHW_152455	signal	1	10				
+NDBKHW_152455	outside	11	45				
+//
+# NDBKHW_15098 Length: 37
+# NDBKHW_15098 Number of predicted TMRs: 0
+NDBKHW_15098	inside	1	37				
+//
+# NDBKHW_99941 Length: 49
+# NDBKHW_99941 Number of predicted TMRs: 0
+NDBKHW_99941	inside	1	49				
+//
+# NDBKHW_123926 Length: 50
+# NDBKHW_123926 Number of predicted TMRs: 0
+NDBKHW_123926	inside	1	50				
+//
+# NDBKHW_31249 Length: 43
+# NDBKHW_31249 Number of predicted TMRs: 0
+NDBKHW_31249	signal	1	32				
+NDBKHW_31249	outside	33	43				
+//
+# NDBKHW_170366 Length: 31
+# NDBKHW_170366 Number of predicted TMRs: 0
+NDBKHW_170366	signal	1	17				
+NDBKHW_170366	outside	18	31				
+//
+# NDBKHW_131852 Length: 41
+# NDBKHW_131852 Number of predicted TMRs: 0
+NDBKHW_131852	inside	1	41				
+//
+# NDBKHW_162661 Length: 42
+# NDBKHW_162661 Number of predicted TMRs: 0
+NDBKHW_162661	signal	1	34				
+NDBKHW_162661	outside	35	42				
+//
+# NDBKHW_62042 Length: 45
+# NDBKHW_62042 Number of predicted TMRs: 0
+NDBKHW_62042	inside	1	45				
+//
+# NDBKHW_124775 Length: 42
+# NDBKHW_124775 Number of predicted TMRs: 0
+NDBKHW_124775	inside	1	42				
+//
+# NDBKHW_136990 Length: 42
+# NDBKHW_136990 Number of predicted TMRs: 0
+NDBKHW_136990	inside	1	42				
+//
+# NDBKHW_164601 Length: 40
+# NDBKHW_164601 Number of predicted TMRs: 0
+NDBKHW_164601	inside	1	40				
+//
+# NDBKHW_103736 Length: 36
+# NDBKHW_103736 Number of predicted TMRs: 0
+NDBKHW_103736	inside	1	36				
+//
+# NDBKHW_69296 Length: 50
+# NDBKHW_69296 Number of predicted TMRs: 0
+NDBKHW_69296	inside	1	50				
+//
+# NDBKHW_80881 Length: 50
+# NDBKHW_80881 Number of predicted TMRs: 0
+NDBKHW_80881	inside	1	50				
+//
+# NDBKHW_88884 Length: 39
+# NDBKHW_88884 Number of predicted TMRs: 0
+NDBKHW_88884	inside	1	39				
+//
+# NDBKHW_171617 Length: 48
+# NDBKHW_171617 Number of predicted TMRs: 0
+NDBKHW_171617	inside	1	48				
+//
+# NDBKHW_12567 Length: 38
+# NDBKHW_12567 Number of predicted TMRs: 0
+NDBKHW_12567	signal	1	12				
+NDBKHW_12567	outside	13	38				
+//
+# NDBKHW_49693 Length: 46
+# NDBKHW_49693 Number of predicted TMRs: 0
+NDBKHW_49693	inside	1	46				
+//
+# NDBKHW_138188 Length: 38
+# NDBKHW_138188 Number of predicted TMRs: 0
+NDBKHW_138188	signal	1	33				
+NDBKHW_138188	outside	34	38				
+//
+# NDBKHW_134925 Length: 45
+# NDBKHW_134925 Number of predicted TMRs: 0
+NDBKHW_134925	signal	1	44				
+NDBKHW_134925	outside	45	45				
+//
+# NDBKHW_31696 Length: 47
+# NDBKHW_31696 Number of predicted TMRs: 0
+NDBKHW_31696	inside	1	47				
+//
+# NDBKHW_137973 Length: 37
+# NDBKHW_137973 Number of predicted TMRs: 0
+NDBKHW_137973	signal	1	36				
+NDBKHW_137973	outside	37	37				
+//
+# NDBKHW_14896 Length: 43
+# NDBKHW_14896 Number of predicted TMRs: 0
+NDBKHW_14896	signal	1	35				
+NDBKHW_14896	outside	36	43				
+//
+# NDBKHW_36668 Length: 49
+# NDBKHW_36668 Number of predicted TMRs: 0
+NDBKHW_36668	inside	1	49				
+//
+# NDBKHW_82553 Length: 38
+# NDBKHW_82553 Number of predicted TMRs: 0
+NDBKHW_82553	signal	1	10				
+NDBKHW_82553	outside	11	38				
+//
+# NDBKHW_105887 Length: 42
+# NDBKHW_105887 Number of predicted TMRs: 0
+NDBKHW_105887	inside	1	42				
+//
+# NDBKHW_143782 Length: 42
+# NDBKHW_143782 Number of predicted TMRs: 0
+NDBKHW_143782	inside	1	42				
+//
+# NDBKHW_27825 Length: 40
+# NDBKHW_27825 Number of predicted TMRs: 0
+NDBKHW_27825	signal	1	39				
+NDBKHW_27825	outside	40	40				
+//
+# NDBKHW_103174 Length: 40
+# NDBKHW_103174 Number of predicted TMRs: 0
+NDBKHW_103174	inside	1	40				
+//
+# NDBKHW_132761 Length: 50
+# NDBKHW_132761 Number of predicted TMRs: 0
+NDBKHW_132761	inside	1	50				
+//
+# NDBKHW_4596 Length: 38
+# NDBKHW_4596 Number of predicted TMRs: 0
+NDBKHW_4596	signal	1	37				
+NDBKHW_4596	outside	38	38				
+//
+# NDBKHW_124513 Length: 50
+# NDBKHW_124513 Number of predicted TMRs: 0
+NDBKHW_124513	signal	1	49				
+NDBKHW_124513	outside	50	50				
+//
+# NDBKHW_95107 Length: 40
+# NDBKHW_95107 Number of predicted TMRs: 0
+NDBKHW_95107	inside	1	40				
+//
+# NDBKHW_97005 Length: 32
+# NDBKHW_97005 Number of predicted TMRs: 0
+NDBKHW_97005	signal	1	23				
+NDBKHW_97005	outside	24	32				
+//
+# NDBKHW_138861 Length: 39
+# NDBKHW_138861 Number of predicted TMRs: 0
+NDBKHW_138861	signal	1	38				
+NDBKHW_138861	outside	39	39				
+//
+# NDBKHW_71670 Length: 41
+# NDBKHW_71670 Number of predicted TMRs: 0
+NDBKHW_71670	signal	1	39				
+NDBKHW_71670	outside	40	41				
+//
+# NDBKHW_65165 Length: 44
+# NDBKHW_65165 Number of predicted TMRs: 0
+NDBKHW_65165	inside	1	44				
+//
+# NDBKHW_49025 Length: 49
+# NDBKHW_49025 Number of predicted TMRs: 0
+NDBKHW_49025	inside	1	49				
+//
+# NDBKHW_120479 Length: 38
+# NDBKHW_120479 Number of predicted TMRs: 0
+NDBKHW_120479	signal	1	31				
+NDBKHW_120479	outside	32	38				
+//
+# NDBKHW_49518 Length: 36
+# NDBKHW_49518 Number of predicted TMRs: 0
+NDBKHW_49518	inside	1	36				
+//
+# NDBKHW_121891 Length: 48
+# NDBKHW_121891 Number of predicted TMRs: 0
+NDBKHW_121891	signal	1	46				
+NDBKHW_121891	outside	47	48				
+//
+# NDBKHW_64523 Length: 46
+# NDBKHW_64523 Number of predicted TMRs: 0
+NDBKHW_64523	inside	1	46				
+//
+# NDBKHW_96916 Length: 46
+# NDBKHW_96916 Number of predicted TMRs: 0
+NDBKHW_96916	inside	1	46				
+//
+# NDBKHW_108673 Length: 50
+# NDBKHW_108673 Number of predicted TMRs: 0
+NDBKHW_108673	signal	1	34				
+NDBKHW_108673	outside	35	50				
+//
+# NDBKHW_162782 Length: 48
+# NDBKHW_162782 Number of predicted TMRs: 0
+NDBKHW_162782	signal	1	36				
+NDBKHW_162782	outside	37	48				
+//
+# NDBKHW_78592 Length: 50
+# NDBKHW_78592 Number of predicted TMRs: 0
+NDBKHW_78592	inside	1	50				
+//
+# NDBKHW_141493 Length: 38
+# NDBKHW_141493 Number of predicted TMRs: 0
+NDBKHW_141493	signal	1	37				
+NDBKHW_141493	outside	38	38				
+//
+# NDBKHW_81613 Length: 47
+# NDBKHW_81613 Number of predicted TMRs: 0
+NDBKHW_81613	signal	1	12				
+NDBKHW_81613	outside	13	47				
+//
+# NDBKHW_98456 Length: 46
+# NDBKHW_98456 Number of predicted TMRs: 0
+NDBKHW_98456	inside	1	46				
+//
+# NDBKHW_35148 Length: 39
+# NDBKHW_35148 Number of predicted TMRs: 0
+NDBKHW_35148	inside	1	39				
+//
+# NDBKHW_121560 Length: 40
+# NDBKHW_121560 Number of predicted TMRs: 0
+NDBKHW_121560	inside	1	40				
+//
+# NDBKHW_49950 Length: 42
+# NDBKHW_49950 Number of predicted TMRs: 0
+NDBKHW_49950	signal	1	41				
+NDBKHW_49950	outside	42	42				
+//
+# NDBKHW_155562 Length: 48
+# NDBKHW_155562 Number of predicted TMRs: 0
+NDBKHW_155562	inside	1	48				
+//
+# NDBKHW_73511 Length: 50
+# NDBKHW_73511 Number of predicted TMRs: 0
+NDBKHW_73511	inside	1	50				
+//
+# NDBKHW_30396 Length: 33
+# NDBKHW_30396 Number of predicted TMRs: 0
+NDBKHW_30396	signal	1	17				
+NDBKHW_30396	outside	18	33				
+//
+# NDBKHW_116419 Length: 45
+# NDBKHW_116419 Number of predicted TMRs: 0
+NDBKHW_116419	inside	1	45				
+//
+# NDBKHW_3203 Length: 46
+# NDBKHW_3203 Number of predicted TMRs: 0
+NDBKHW_3203	inside	1	46				
+//
+# NDBKHW_96220 Length: 42
+# NDBKHW_96220 Number of predicted TMRs: 0
+NDBKHW_96220	inside	1	42				
+//
+# NDBKHW_560 Length: 45
+# NDBKHW_560 Number of predicted TMRs: 0
+NDBKHW_560	inside	1	45				
+//
+# NDBKHW_78051 Length: 43
+# NDBKHW_78051 Number of predicted TMRs: 0
+NDBKHW_78051	signal	1	22				
+NDBKHW_78051	outside	23	43				
+//
+# NDBKHW_57604 Length: 44
+# NDBKHW_57604 Number of predicted TMRs: 0
+NDBKHW_57604	signal	1	38				
+NDBKHW_57604	outside	39	44				
+//
+# NDBKHW_105459 Length: 41
+# NDBKHW_105459 Number of predicted TMRs: 0
+NDBKHW_105459	signal	1	39				
+NDBKHW_105459	outside	40	41				
+//
+# NDBKHW_143696 Length: 48
+# NDBKHW_143696 Number of predicted TMRs: 0
+NDBKHW_143696	inside	1	48				
+//
+# NDBKHW_50039 Length: 50
+# NDBKHW_50039 Number of predicted TMRs: 0
+NDBKHW_50039	signal	1	40				
+NDBKHW_50039	outside	41	50				
+//
+# NDBKHW_70388 Length: 42
+# NDBKHW_70388 Number of predicted TMRs: 0
+NDBKHW_70388	inside	1	42				
+//
+# NDBKHW_69402 Length: 49
+# NDBKHW_69402 Number of predicted TMRs: 0
+NDBKHW_69402	inside	1	49				
+//
+# NDBKHW_112711 Length: 49
+# NDBKHW_112711 Number of predicted TMRs: 0
+NDBKHW_112711	inside	1	49				
+//
+# NDBKHW_34988 Length: 45
+# NDBKHW_34988 Number of predicted TMRs: 0
+NDBKHW_34988	signal	1	21				
+NDBKHW_34988	outside	22	45				
+//
+# NDBKHW_91124 Length: 46
+# NDBKHW_91124 Number of predicted TMRs: 0
+NDBKHW_91124	inside	1	46				
+//
+# NDBKHW_14644 Length: 39
+# NDBKHW_14644 Number of predicted TMRs: 0
+NDBKHW_14644	inside	1	39				
+//
+# NDBKHW_130278 Length: 45
+# NDBKHW_130278 Number of predicted TMRs: 0
+NDBKHW_130278	inside	1	45				
+//
+# NDBKHW_128132 Length: 42
+# NDBKHW_128132 Number of predicted TMRs: 0
+NDBKHW_128132	inside	1	42				
+//
+# NDBKHW_68874 Length: 42
+# NDBKHW_68874 Number of predicted TMRs: 0
+NDBKHW_68874	signal	1	34				
+NDBKHW_68874	outside	35	42				
+//
+# NDBKHW_16186 Length: 47
+# NDBKHW_16186 Number of predicted TMRs: 0
+NDBKHW_16186	signal	1	21				
+NDBKHW_16186	outside	22	47				
+//
+# NDBKHW_75160 Length: 37
+# NDBKHW_75160 Number of predicted TMRs: 0
+NDBKHW_75160	inside	1	37				
+//
+# NDBKHW_74472 Length: 41
+# NDBKHW_74472 Number of predicted TMRs: 0
+NDBKHW_74472	inside	1	41				
+//
+# NDBKHW_167293 Length: 36
+# NDBKHW_167293 Number of predicted TMRs: 0
+NDBKHW_167293	inside	1	36				
+//
+# NDBKHW_3643 Length: 43
+# NDBKHW_3643 Number of predicted TMRs: 0
+NDBKHW_3643	inside	1	43				
+//
+# NDBKHW_9066 Length: 46
+# NDBKHW_9066 Number of predicted TMRs: 0
+NDBKHW_9066	inside	1	46				
+//
+# NDBKHW_119355 Length: 45
+# NDBKHW_119355 Number of predicted TMRs: 0
+NDBKHW_119355	signal	1	22				
+NDBKHW_119355	outside	23	45				
+//
+# NDBKHW_55368 Length: 47
+# NDBKHW_55368 Number of predicted TMRs: 0
+NDBKHW_55368	inside	1	47				
+//
+# NDBKHW_34404 Length: 48
+# NDBKHW_34404 Number of predicted TMRs: 0
+NDBKHW_34404	inside	1	48				
+//
+# NDBKHW_119839 Length: 34
+# NDBKHW_119839 Number of predicted TMRs: 0
+NDBKHW_119839	inside	1	34				
+//
+# NDBKHW_131751 Length: 46
+# NDBKHW_131751 Number of predicted TMRs: 0
+NDBKHW_131751	inside	1	46				
+//
+# NDBKHW_34250 Length: 49
+# NDBKHW_34250 Number of predicted TMRs: 0
+NDBKHW_34250	inside	1	49				
+//
+# NDBKHW_4735 Length: 32
+# NDBKHW_4735 Number of predicted TMRs: 0
+NDBKHW_4735	inside	1	32				
+//
+# NDBKHW_145419 Length: 43
+# NDBKHW_145419 Number of predicted TMRs: 0
+NDBKHW_145419	outside	1	43				
+//
+# NDBKHW_123847 Length: 34
+# NDBKHW_123847 Number of predicted TMRs: 0
+NDBKHW_123847	inside	1	34				
+//
+# NDBKHW_99487 Length: 46
+# NDBKHW_99487 Number of predicted TMRs: 0
+NDBKHW_99487	signal	1	34				
+NDBKHW_99487	outside	35	46				
+//
+# NDBKHW_129988 Length: 42
+# NDBKHW_129988 Number of predicted TMRs: 0
+NDBKHW_129988	signal	1	26				
+NDBKHW_129988	outside	27	42				
+//
+# NDBKHW_147208 Length: 50
+# NDBKHW_147208 Number of predicted TMRs: 0
+NDBKHW_147208	inside	1	50				
+//
+# NDBKHW_161606 Length: 40
+# NDBKHW_161606 Number of predicted TMRs: 0
+NDBKHW_161606	signal	1	31				
+NDBKHW_161606	outside	32	40				
+//
+# NDBKHW_146804 Length: 40
+# NDBKHW_146804 Number of predicted TMRs: 0
+NDBKHW_146804	signal	1	38				
+NDBKHW_146804	outside	39	40				
+//
+# NDBKHW_104910 Length: 50
+# NDBKHW_104910 Number of predicted TMRs: 0
+NDBKHW_104910	inside	1	50				
+//
+# NDBKHW_64684 Length: 46
+# NDBKHW_64684 Number of predicted TMRs: 0
+NDBKHW_64684	inside	1	46				
+//
+# NDBKHW_136245 Length: 45
+# NDBKHW_136245 Number of predicted TMRs: 0
+NDBKHW_136245	inside	1	45				
+//
+# NDBKHW_63828 Length: 46
+# NDBKHW_63828 Number of predicted TMRs: 0
+NDBKHW_63828	inside	1	46				
+//
+# NDBKHW_134441 Length: 45
+# NDBKHW_134441 Number of predicted TMRs: 0
+NDBKHW_134441	inside	1	45				
+//
+# NDBKHW_169495 Length: 46
+# NDBKHW_169495 Number of predicted TMRs: 0
+NDBKHW_169495	signal	1	17				
+NDBKHW_169495	outside	18	46				
+//
+# NDBKHW_142593 Length: 50
+# NDBKHW_142593 Number of predicted TMRs: 0
+NDBKHW_142593	inside	1	50				
+//
+# NDBKHW_91770 Length: 43
+# NDBKHW_91770 Number of predicted TMRs: 0
+NDBKHW_91770	inside	1	43				
+//
+# NDBKHW_147267 Length: 48
+# NDBKHW_147267 Number of predicted TMRs: 0
+NDBKHW_147267	signal	1	26				
+NDBKHW_147267	outside	27	48				
+//
+# NDBKHW_9178 Length: 45
+# NDBKHW_9178 Number of predicted TMRs: 0
+NDBKHW_9178	signal	1	34				
+NDBKHW_9178	outside	35	45				
+//
+# NDBKHW_14315 Length: 27
+# NDBKHW_14315 Number of predicted TMRs: 0
+NDBKHW_14315	inside	1	27				
+//
+# NDBKHW_130911 Length: 42
+# NDBKHW_130911 Number of predicted TMRs: 0
+NDBKHW_130911	inside	1	42				
+//
+# NDBKHW_17340 Length: 38
+# NDBKHW_17340 Number of predicted TMRs: 0
+NDBKHW_17340	signal	1	37				
+NDBKHW_17340	outside	38	38				
+//
+# NDBKHW_18856 Length: 46
+# NDBKHW_18856 Number of predicted TMRs: 0
+NDBKHW_18856	signal	1	35				
+NDBKHW_18856	outside	36	46				
+//
+# NDBKHW_131877 Length: 43
+# NDBKHW_131877 Number of predicted TMRs: 0
+NDBKHW_131877	inside	1	43				
+//
+# NDBKHW_83976 Length: 50
+# NDBKHW_83976 Number of predicted TMRs: 0
+NDBKHW_83976	inside	1	50				
+//
+# NDBKHW_51169 Length: 49
+# NDBKHW_51169 Number of predicted TMRs: 0
+NDBKHW_51169	inside	1	49				
+//
+# NDBKHW_10541 Length: 50
+# NDBKHW_10541 Number of predicted TMRs: 0
+NDBKHW_10541	inside	1	50				
+//
+# NDBKHW_131841 Length: 49
+# NDBKHW_131841 Number of predicted TMRs: 0
+NDBKHW_131841	inside	1	49				
+//
+# NDBKHW_29684 Length: 47
+# NDBKHW_29684 Number of predicted TMRs: 0
+NDBKHW_29684	inside	1	47				
+//
+# NDBKHW_45641 Length: 47
+# NDBKHW_45641 Number of predicted TMRs: 0
+NDBKHW_45641	inside	1	47				
+//
+# NDBKHW_123504 Length: 49
+# NDBKHW_123504 Number of predicted TMRs: 0
+NDBKHW_123504	inside	1	49				
+//
+# NDBKHW_82660 Length: 45
+# NDBKHW_82660 Number of predicted TMRs: 0
+NDBKHW_82660	inside	1	45				
+//
+# NDBKHW_115941 Length: 46
+# NDBKHW_115941 Number of predicted TMRs: 0
+NDBKHW_115941	inside	1	46				
+//
+# NDBKHW_137025 Length: 46
+# NDBKHW_137025 Number of predicted TMRs: 0
+NDBKHW_137025	inside	1	46				
+//
+# NDBKHW_133921 Length: 43
+# NDBKHW_133921 Number of predicted TMRs: 0
+NDBKHW_133921	inside	1	43				
+//
+# NDBKHW_2351 Length: 50
+# NDBKHW_2351 Number of predicted TMRs: 0
+NDBKHW_2351	inside	1	50				
+//
+# NDBKHW_44864 Length: 49
+# NDBKHW_44864 Number of predicted TMRs: 0
+NDBKHW_44864	inside	1	49				
+//
+# NDBKHW_130263 Length: 43
+# NDBKHW_130263 Number of predicted TMRs: 0
+NDBKHW_130263	signal	1	22				
+NDBKHW_130263	outside	23	43				
+//
+# NDBKHW_72520 Length: 43
+# NDBKHW_72520 Number of predicted TMRs: 0
+NDBKHW_72520	inside	1	43				
+//
+# NDBKHW_66747 Length: 42
+# NDBKHW_66747 Number of predicted TMRs: 0
+NDBKHW_66747	inside	1	42				
+//
+# NDBKHW_9052 Length: 50
+# NDBKHW_9052 Number of predicted TMRs: 0
+NDBKHW_9052	inside	1	50				
+//
+# NDBKHW_69258 Length: 40
+# NDBKHW_69258 Number of predicted TMRs: 0
+NDBKHW_69258	inside	1	40				
+//
+# NDBKHW_9262 Length: 50
+# NDBKHW_9262 Number of predicted TMRs: 0
+NDBKHW_9262	inside	1	50				
+//
+# NDBKHW_48572 Length: 48
+# NDBKHW_48572 Number of predicted TMRs: 0
+NDBKHW_48572	inside	1	48				
+//
+# NDBKHW_18916 Length: 50
+# NDBKHW_18916 Number of predicted TMRs: 0
+NDBKHW_18916	inside	1	50				
+//
+# NDBKHW_27074 Length: 48
+# NDBKHW_27074 Number of predicted TMRs: 0
+NDBKHW_27074	inside	1	48				
+//
+# NDBKHW_116806 Length: 49
+# NDBKHW_116806 Number of predicted TMRs: 0
+NDBKHW_116806	signal	1	47				
+NDBKHW_116806	outside	48	49				
+//
+# NDBKHW_42773 Length: 48
+# NDBKHW_42773 Number of predicted TMRs: 0
+NDBKHW_42773	inside	1	48				
+//
+# NDBKHW_41890 Length: 42
+# NDBKHW_41890 Number of predicted TMRs: 0
+NDBKHW_41890	signal	1	18				
+NDBKHW_41890	outside	19	42				
+//
+# NDBKHW_71068 Length: 39
+# NDBKHW_71068 Number of predicted TMRs: 0
+NDBKHW_71068	inside	1	39				
+//
+# NDBKHW_141979 Length: 39
+# NDBKHW_141979 Number of predicted TMRs: 0
+NDBKHW_141979	inside	1	39				
+//
+# NDBKHW_78547 Length: 31
+# NDBKHW_78547 Number of predicted TMRs: 0
+NDBKHW_78547	inside	1	31				
+//
+# NDBKHW_142487 Length: 50
+# NDBKHW_142487 Number of predicted TMRs: 0
+NDBKHW_142487	inside	1	50				
+//
+# NDBKHW_111806 Length: 42
+# NDBKHW_111806 Number of predicted TMRs: 0
+NDBKHW_111806	inside	1	42				
+//
+# NDBKHW_90111 Length: 50
+# NDBKHW_90111 Number of predicted TMRs: 0
+NDBKHW_90111	inside	1	50				
+//
+# NDBKHW_86499 Length: 41
+# NDBKHW_86499 Number of predicted TMRs: 0
+NDBKHW_86499	inside	1	41				
+//
+# NDBKHW_63360 Length: 47
+# NDBKHW_63360 Number of predicted TMRs: 0
+NDBKHW_63360	signal	1	30				
+NDBKHW_63360	outside	31	47				
+//
+# NDBKHW_141740 Length: 35
+# NDBKHW_141740 Number of predicted TMRs: 0
+NDBKHW_141740	signal	1	31				
+NDBKHW_141740	outside	32	35				
+//
+# NDBKHW_151026 Length: 44
+# NDBKHW_151026 Number of predicted TMRs: 0
+NDBKHW_151026	inside	1	44				
+//
+# NDBKHW_98143 Length: 50
+# NDBKHW_98143 Number of predicted TMRs: 0
+NDBKHW_98143	signal	1	35				
+NDBKHW_98143	outside	36	50				
+//
+# NDBKHW_75888 Length: 42
+# NDBKHW_75888 Number of predicted TMRs: 0
+NDBKHW_75888	signal	1	24				
+NDBKHW_75888	outside	25	42				
+//
+# NDBKHW_135768 Length: 45
+# NDBKHW_135768 Number of predicted TMRs: 0
+NDBKHW_135768	signal	1	10				
+NDBKHW_135768	outside	11	45				
+//
+# NDBKHW_115173 Length: 35
+# NDBKHW_115173 Number of predicted TMRs: 0
+NDBKHW_115173	signal	1	34				
+NDBKHW_115173	outside	35	35				
+//
+# NDBKHW_33880 Length: 35
+# NDBKHW_33880 Number of predicted TMRs: 0
+NDBKHW_33880	inside	1	35				
+//
+# NDBKHW_79804 Length: 50
+# NDBKHW_79804 Number of predicted TMRs: 0
+NDBKHW_79804	signal	1	49				
+NDBKHW_79804	outside	50	50				
+//
+# NDBKHW_34707 Length: 49
+# NDBKHW_34707 Number of predicted TMRs: 0
+NDBKHW_34707	inside	1	49				
+//
+# NDBKHW_109162 Length: 43
+# NDBKHW_109162 Number of predicted TMRs: 0
+NDBKHW_109162	inside	1	43				
+//
+# NDBKHW_127495 Length: 50
+# NDBKHW_127495 Number of predicted TMRs: 0
+NDBKHW_127495	inside	1	50				
+//
+# NDBKHW_135023 Length: 38
+# NDBKHW_135023 Number of predicted TMRs: 0
+NDBKHW_135023	inside	1	38				
+//
+# NDBKHW_3211 Length: 32
+# NDBKHW_3211 Number of predicted TMRs: 0
+NDBKHW_3211	signal	1	25				
+NDBKHW_3211	outside	26	32				
+//
+# NDBKHW_148748 Length: 40
+# NDBKHW_148748 Number of predicted TMRs: 0
+NDBKHW_148748	inside	1	40				
+//
+# NDBKHW_81716 Length: 40
+# NDBKHW_81716 Number of predicted TMRs: 0
+NDBKHW_81716	outside	1	40				
+//
+# NDBKHW_81444 Length: 41
+# NDBKHW_81444 Number of predicted TMRs: 0
+NDBKHW_81444	inside	1	41				
+//
+# NDBKHW_19716 Length: 49
+# NDBKHW_19716 Number of predicted TMRs: 0
+NDBKHW_19716	inside	1	49				
+//
+# NDBKHW_41115 Length: 49
+# NDBKHW_41115 Number of predicted TMRs: 0
+NDBKHW_41115	inside	1	49				
+//
+# NDBKHW_133935 Length: 48
+# NDBKHW_133935 Number of predicted TMRs: 0
+NDBKHW_133935	inside	1	48				
+//
+# NDBKHW_16696 Length: 39
+# NDBKHW_16696 Number of predicted TMRs: 0
+NDBKHW_16696	inside	1	39				
+//
+# NDBKHW_65430 Length: 41
+# NDBKHW_65430 Number of predicted TMRs: 0
+NDBKHW_65430	signal	1	20				
+NDBKHW_65430	outside	21	41				
+//
+# NDBKHW_125644 Length: 41
+# NDBKHW_125644 Number of predicted TMRs: 0
+NDBKHW_125644	signal	1	39				
+NDBKHW_125644	outside	40	41				
+//
+# NDBKHW_119321 Length: 49
+# NDBKHW_119321 Number of predicted TMRs: 1
+NDBKHW_119321	signal	1	11				
+NDBKHW_119321	outside	12	12				
+NDBKHW_119321	TMhelix	13	23				
+NDBKHW_119321	inside	24	49				
+//
+# NDBKHW_170971 Length: 47
+# NDBKHW_170971 Number of predicted TMRs: 0
+NDBKHW_170971	signal	1	46				
+NDBKHW_170971	outside	47	47				
+//
+# NDBKHW_39690 Length: 46
+# NDBKHW_39690 Number of predicted TMRs: 0
+NDBKHW_39690	signal	1	44				
+NDBKHW_39690	outside	45	46				
+//
+# NDBKHW_126213 Length: 39
+# NDBKHW_126213 Number of predicted TMRs: 0
+NDBKHW_126213	inside	1	39				
+//
+# NDBKHW_164901 Length: 47
+# NDBKHW_164901 Number of predicted TMRs: 0
+NDBKHW_164901	inside	1	47				
+//
+# NDBKHW_86637 Length: 47
+# NDBKHW_86637 Number of predicted TMRs: 0
+NDBKHW_86637	inside	1	47				
+//
+# NDBKHW_145755 Length: 47
+# NDBKHW_145755 Number of predicted TMRs: 0
+NDBKHW_145755	signal	1	35				
+NDBKHW_145755	outside	36	47				
+//
+# NDBKHW_145846 Length: 47
+# NDBKHW_145846 Number of predicted TMRs: 0
+NDBKHW_145846	signal	1	35				
+NDBKHW_145846	outside	36	47				
+//
+# NDBKHW_26036 Length: 32
+# NDBKHW_26036 Number of predicted TMRs: 0
+NDBKHW_26036	inside	1	32				
+//
+# NDBKHW_144334 Length: 35
+# NDBKHW_144334 Number of predicted TMRs: 0
+NDBKHW_144334	signal	1	12				
+NDBKHW_144334	outside	13	35				
+//
+# NDBKHW_117651 Length: 43
+# NDBKHW_117651 Number of predicted TMRs: 0
+NDBKHW_117651	signal	1	35				
+NDBKHW_117651	outside	36	43				
+//
+# NDBKHW_31662 Length: 43
+# NDBKHW_31662 Number of predicted TMRs: 0
+NDBKHW_31662	inside	1	43				
+//
+# NDBKHW_49449 Length: 39
+# NDBKHW_49449 Number of predicted TMRs: 0
+NDBKHW_49449	inside	1	39				
+//
+# NDBKHW_169851 Length: 39
+# NDBKHW_169851 Number of predicted TMRs: 0
+NDBKHW_169851	inside	1	39				
+//
+# NDBKHW_65781 Length: 29
+# NDBKHW_65781 Number of predicted TMRs: 0
+NDBKHW_65781	inside	1	29				
+//
+# NDBKHW_154150 Length: 29
+# NDBKHW_154150 Number of predicted TMRs: 0
+NDBKHW_154150	inside	1	29				
+//
+# NDBKHW_73884 Length: 42
+# NDBKHW_73884 Number of predicted TMRs: 0
+NDBKHW_73884	signal	1	23				
+NDBKHW_73884	outside	24	42				
+//
+# NDBKHW_5745 Length: 46
+# NDBKHW_5745 Number of predicted TMRs: 0
+NDBKHW_5745	inside	1	46				
+//
+# NDBKHW_89733 Length: 36
+# NDBKHW_89733 Number of predicted TMRs: 0
+NDBKHW_89733	signal	1	34				
+NDBKHW_89733	outside	35	36				
+//
+# NDBKHW_22438 Length: 38
+# NDBKHW_22438 Number of predicted TMRs: 0
+NDBKHW_22438	signal	1	15				
+NDBKHW_22438	outside	16	38				
+//
+# NDBKHW_57118 Length: 48
+# NDBKHW_57118 Number of predicted TMRs: 0
+NDBKHW_57118	inside	1	48				
+//
+# NDBKHW_150689 Length: 43
+# NDBKHW_150689 Number of predicted TMRs: 0
+NDBKHW_150689	signal	1	42				
+NDBKHW_150689	outside	43	43				
+//
+# NDBKHW_148500 Length: 50
+# NDBKHW_148500 Number of predicted TMRs: 0
+NDBKHW_148500	inside	1	50				
+//
+# NDBKHW_170209 Length: 42
+# NDBKHW_170209 Number of predicted TMRs: 0
+NDBKHW_170209	signal	1	12				
+NDBKHW_170209	outside	13	42				
+//
+# NDBKHW_26410 Length: 49
+# NDBKHW_26410 Number of predicted TMRs: 0
+NDBKHW_26410	signal	1	12				
+NDBKHW_26410	outside	13	49				
+//
+# NDBKHW_9465 Length: 41
+# NDBKHW_9465 Number of predicted TMRs: 0
+NDBKHW_9465	signal	1	40				
+NDBKHW_9465	outside	41	41				
+//
+# NDBKHW_9449 Length: 50
+# NDBKHW_9449 Number of predicted TMRs: 0
+NDBKHW_9449	inside	1	50				
+//
+# NDBKHW_63403 Length: 48
+# NDBKHW_63403 Number of predicted TMRs: 1
+NDBKHW_63403	inside	1	14				
+NDBKHW_63403	TMhelix	15	34				
+NDBKHW_63403	outside	35	48				
+//
+# NDBKHW_166180 Length: 43
+# NDBKHW_166180 Number of predicted TMRs: 0
+NDBKHW_166180	inside	1	43				
+//
+# NDBKHW_165986 Length: 49
+# NDBKHW_165986 Number of predicted TMRs: 0
+NDBKHW_165986	signal	1	23				
+NDBKHW_165986	outside	24	49				
+//
+# NDBKHW_10279 Length: 43
+# NDBKHW_10279 Number of predicted TMRs: 0
+NDBKHW_10279	signal	1	15				
+NDBKHW_10279	outside	16	43				
+//
+# NDBKHW_135837 Length: 50
+# NDBKHW_135837 Number of predicted TMRs: 0
+NDBKHW_135837	inside	1	50				
+//
+# NDBKHW_164334 Length: 50
+# NDBKHW_164334 Number of predicted TMRs: 0
+NDBKHW_164334	signal	1	49				
+NDBKHW_164334	outside	50	50				
+//
+# NDBKHW_145118 Length: 49
+# NDBKHW_145118 Number of predicted TMRs: 0
+NDBKHW_145118	signal	1	48				
+NDBKHW_145118	outside	49	49				
+//
+# NDBKHW_124549 Length: 43
+# NDBKHW_124549 Number of predicted TMRs: 0
+NDBKHW_124549	inside	1	43				
+//
+# NDBKHW_15151 Length: 47
+# NDBKHW_15151 Number of predicted TMRs: 0
+NDBKHW_15151	inside	1	47				
+//
+# NDBKHW_32992 Length: 49
+# NDBKHW_32992 Number of predicted TMRs: 0
+NDBKHW_32992	inside	1	49				
+//
+# NDBKHW_102553 Length: 47
+# NDBKHW_102553 Number of predicted TMRs: 0
+NDBKHW_102553	inside	1	47				
+//
+# NDBKHW_93255 Length: 46
+# NDBKHW_93255 Number of predicted TMRs: 0
+NDBKHW_93255	signal	1	44				
+NDBKHW_93255	outside	45	46				
+//
+# NDBKHW_143152 Length: 50
+# NDBKHW_143152 Number of predicted TMRs: 0
+NDBKHW_143152	inside	1	50				
+//
+# NDBKHW_117807 Length: 32
+# NDBKHW_117807 Number of predicted TMRs: 0
+NDBKHW_117807	signal	1	26				
+NDBKHW_117807	outside	27	32				
+//
+# NDBKHW_171975 Length: 48
+# NDBKHW_171975 Number of predicted TMRs: 0
+NDBKHW_171975	outside	1	48				
+//
+# NDBKHW_167096 Length: 50
+# NDBKHW_167096 Number of predicted TMRs: 0
+NDBKHW_167096	inside	1	50				
+//
+# NDBKHW_25408 Length: 46
+# NDBKHW_25408 Number of predicted TMRs: 0
+NDBKHW_25408	inside	1	46				
+//
+# NDBKHW_37261 Length: 47
+# NDBKHW_37261 Number of predicted TMRs: 0
+NDBKHW_37261	inside	1	47				
+//
+# NDBKHW_47697 Length: 50
+# NDBKHW_47697 Number of predicted TMRs: 0
+NDBKHW_47697	signal	1	42				
+NDBKHW_47697	outside	43	50				
+//
+# NDBKHW_35167 Length: 50
+# NDBKHW_35167 Number of predicted TMRs: 0
+NDBKHW_35167	signal	1	42				
+NDBKHW_35167	outside	43	50				
+//
+# NDBKHW_133132 Length: 41
+# NDBKHW_133132 Number of predicted TMRs: 0
+NDBKHW_133132	inside	1	41				
+//
+# NDBKHW_104097 Length: 48
+# NDBKHW_104097 Number of predicted TMRs: 0
+NDBKHW_104097	inside	1	48				
+//
+# NDBKHW_147661 Length: 41
+# NDBKHW_147661 Number of predicted TMRs: 0
+NDBKHW_147661	inside	1	41				
+//
+# NDBKHW_5944 Length: 40
+# NDBKHW_5944 Number of predicted TMRs: 0
+NDBKHW_5944	inside	1	40				
+//
+# NDBKHW_25826 Length: 41
+# NDBKHW_25826 Number of predicted TMRs: 0
+NDBKHW_25826	signal	1	26				
+NDBKHW_25826	outside	27	41				
+//
+# NDBKHW_54204 Length: 43
+# NDBKHW_54204 Number of predicted TMRs: 0
+NDBKHW_54204	signal	1	14				
+NDBKHW_54204	outside	15	43				
+//
+# NDBKHW_104565 Length: 48
+# NDBKHW_104565 Number of predicted TMRs: 0
+NDBKHW_104565	signal	1	35				
+NDBKHW_104565	outside	36	48				
+//
+# NDBKHW_105675 Length: 41
+# NDBKHW_105675 Number of predicted TMRs: 0
+NDBKHW_105675	signal	1	25				
+NDBKHW_105675	outside	26	41				
+//
+# NDBKHW_8652 Length: 43
+# NDBKHW_8652 Number of predicted TMRs: 0
+NDBKHW_8652	inside	1	43				
+//
+# NDBKHW_67754 Length: 45
+# NDBKHW_67754 Number of predicted TMRs: 0
+NDBKHW_67754	signal	1	10				
+NDBKHW_67754	outside	11	45				
+//
+# NDBKHW_35133 Length: 47
+# NDBKHW_35133 Number of predicted TMRs: 0
+NDBKHW_35133	signal	1	45				
+NDBKHW_35133	periplasm	46	47				
+//
+# NDBKHW_48674 Length: 41
+# NDBKHW_48674 Number of predicted TMRs: 0
+NDBKHW_48674	inside	1	41				
+//
+# NDBKHW_122275 Length: 49
+# NDBKHW_122275 Number of predicted TMRs: 0
+NDBKHW_122275	inside	1	49				
+//
+# NDBKHW_139265 Length: 40
+# NDBKHW_139265 Number of predicted TMRs: 0
+NDBKHW_139265	signal	1	39				
+NDBKHW_139265	outside	40	40				
+//
+# NDBKHW_30592 Length: 49
+# NDBKHW_30592 Number of predicted TMRs: 0
+NDBKHW_30592	signal	1	18				
+NDBKHW_30592	outside	19	49				
+//
+# NDBKHW_119699 Length: 49
+# NDBKHW_119699 Number of predicted TMRs: 0
+NDBKHW_119699	inside	1	49				
+//
+# NDBKHW_11447 Length: 47
+# NDBKHW_11447 Number of predicted TMRs: 0
+NDBKHW_11447	inside	1	47				
+//
+# NDBKHW_19774 Length: 44
+# NDBKHW_19774 Number of predicted TMRs: 0
+NDBKHW_19774	signal	1	39				
+NDBKHW_19774	outside	40	44				
+//
+# NDBKHW_161305 Length: 44
+# NDBKHW_161305 Number of predicted TMRs: 0
+NDBKHW_161305	inside	1	44				
+//
+# NDBKHW_41468 Length: 33
+# NDBKHW_41468 Number of predicted TMRs: 0
+NDBKHW_41468	inside	1	33				
+//
+# NDBKHW_2738 Length: 50
+# NDBKHW_2738 Number of predicted TMRs: 0
+NDBKHW_2738	inside	1	50				
+//
+# NDBKHW_6670 Length: 40
+# NDBKHW_6670 Number of predicted TMRs: 0
+NDBKHW_6670	signal	1	29				
+NDBKHW_6670	outside	30	40				
+//
+# NDBKHW_84117 Length: 40
+# NDBKHW_84117 Number of predicted TMRs: 0
+NDBKHW_84117	signal	1	17				
+NDBKHW_84117	outside	18	40				
+//
+# NDBKHW_111591 Length: 42
+# NDBKHW_111591 Number of predicted TMRs: 0
+NDBKHW_111591	inside	1	42				
+//
+# NDBKHW_171729 Length: 45
+# NDBKHW_171729 Number of predicted TMRs: 0
+NDBKHW_171729	inside	1	45				
+//
+# NDBKHW_115596 Length: 30
+# NDBKHW_115596 Number of predicted TMRs: 0
+NDBKHW_115596	signal	1	22				
+NDBKHW_115596	outside	23	30				
+//
+# NDBKHW_150701 Length: 47
+# NDBKHW_150701 Number of predicted TMRs: 0
+NDBKHW_150701	inside	1	47				
+//
+# NDBKHW_92686 Length: 46
+# NDBKHW_92686 Number of predicted TMRs: 0
+NDBKHW_92686	inside	1	46				
+//
+# NDBKHW_118884 Length: 48
+# NDBKHW_118884 Number of predicted TMRs: 0
+NDBKHW_118884	inside	1	48				
+//
+# NDBKHW_10147 Length: 43
+# NDBKHW_10147 Number of predicted TMRs: 0
+NDBKHW_10147	inside	1	43				
+//
+# NDBKHW_90603 Length: 48
+# NDBKHW_90603 Number of predicted TMRs: 0
+NDBKHW_90603	inside	1	48				
+//
+# NDBKHW_94272 Length: 44
+# NDBKHW_94272 Number of predicted TMRs: 0
+NDBKHW_94272	signal	1	42				
+NDBKHW_94272	outside	43	44				
+//
+# NDBKHW_117705 Length: 48
+# NDBKHW_117705 Number of predicted TMRs: 0
+NDBKHW_117705	inside	1	48				
+//
+# NDBKHW_133584 Length: 38
+# NDBKHW_133584 Number of predicted TMRs: 0
+NDBKHW_133584	inside	1	38				
+//
+# NDBKHW_126879 Length: 49
+# NDBKHW_126879 Number of predicted TMRs: 0
+NDBKHW_126879	outside	1	49				
+//
+# NDBKHW_2706 Length: 42
+# NDBKHW_2706 Number of predicted TMRs: 0
+NDBKHW_2706	signal	1	22				
+NDBKHW_2706	outside	23	42				
+//
+# NDBKHW_48862 Length: 34
+# NDBKHW_48862 Number of predicted TMRs: 0
+NDBKHW_48862	inside	1	34				
+//
+# NDBKHW_47198 Length: 50
+# NDBKHW_47198 Number of predicted TMRs: 0
+NDBKHW_47198	inside	1	50				
+//
+# NDBKHW_72968 Length: 48
+# NDBKHW_72968 Number of predicted TMRs: 0
+NDBKHW_72968	inside	1	48				
+//
+# NDBKHW_146660 Length: 49
+# NDBKHW_146660 Number of predicted TMRs: 0
+NDBKHW_146660	inside	1	49				
+//
+# NDBKHW_160063 Length: 48
+# NDBKHW_160063 Number of predicted TMRs: 0
+NDBKHW_160063	inside	1	48				
+//
+# NDBKHW_68259 Length: 45
+# NDBKHW_68259 Number of predicted TMRs: 0
+NDBKHW_68259	signal	1	22				
+NDBKHW_68259	outside	23	45				
+//
+# NDBKHW_130982 Length: 47
+# NDBKHW_130982 Number of predicted TMRs: 0
+NDBKHW_130982	inside	1	47				
+//
+# NDBKHW_91695 Length: 42
+# NDBKHW_91695 Number of predicted TMRs: 0
+NDBKHW_91695	inside	1	42				
+//
+# NDBKHW_130446 Length: 47
+# NDBKHW_130446 Number of predicted TMRs: 0
+NDBKHW_130446	signal	1	14				
+NDBKHW_130446	outside	15	47				
+//
+# NDBKHW_126813 Length: 37
+# NDBKHW_126813 Number of predicted TMRs: 0
+NDBKHW_126813	signal	1	32				
+NDBKHW_126813	outside	33	37				
+//
+# NDBKHW_138186 Length: 50
+# NDBKHW_138186 Number of predicted TMRs: 0
+NDBKHW_138186	inside	1	50				
+//
+# NDBKHW_136835 Length: 50
+# NDBKHW_136835 Number of predicted TMRs: 0
+NDBKHW_136835	inside	1	50				
+//
+# NDBKHW_129999 Length: 46
+# NDBKHW_129999 Number of predicted TMRs: 0
+NDBKHW_129999	inside	1	46				
+//
+# NDBKHW_85661 Length: 36
+# NDBKHW_85661 Number of predicted TMRs: 0
+NDBKHW_85661	signal	1	14				
+NDBKHW_85661	outside	15	36				
+//
+# NDBKHW_73720 Length: 47
+# NDBKHW_73720 Number of predicted TMRs: 0
+NDBKHW_73720	inside	1	47				
+//
+# NDBKHW_145927 Length: 43
+# NDBKHW_145927 Number of predicted TMRs: 0
+NDBKHW_145927	signal	1	15				
+NDBKHW_145927	outside	16	43				
+//
+# NDBKHW_134444 Length: 45
+# NDBKHW_134444 Number of predicted TMRs: 0
+NDBKHW_134444	signal	1	15				
+NDBKHW_134444	outside	16	45				
+//
+# NDBKHW_20923 Length: 46
+# NDBKHW_20923 Number of predicted TMRs: 0
+NDBKHW_20923	inside	1	46				
+//
+# NDBKHW_25598 Length: 44
+# NDBKHW_25598 Number of predicted TMRs: 0
+NDBKHW_25598	inside	1	44				
+//
+# NDBKHW_104841 Length: 46
+# NDBKHW_104841 Number of predicted TMRs: 0
+NDBKHW_104841	inside	1	46				
+//
+# NDBKHW_127058 Length: 32
+# NDBKHW_127058 Number of predicted TMRs: 0
+NDBKHW_127058	signal	1	29				
+NDBKHW_127058	outside	30	32				
+//
+# NDBKHW_165968 Length: 46
+# NDBKHW_165968 Number of predicted TMRs: 0
+NDBKHW_165968	inside	1	46				
+//
+# NDBKHW_130612 Length: 34
+# NDBKHW_130612 Number of predicted TMRs: 0
+NDBKHW_130612	signal	1	33				
+NDBKHW_130612	outside	34	34				
+//
+# NDBKHW_64928 Length: 49
+# NDBKHW_64928 Number of predicted TMRs: 0
+NDBKHW_64928	inside	1	49				
+//
+# NDBKHW_29587 Length: 39
+# NDBKHW_29587 Number of predicted TMRs: 0
+NDBKHW_29587	inside	1	39				
+//
+# NDBKHW_4563 Length: 49
+# NDBKHW_4563 Number of predicted TMRs: 0
+NDBKHW_4563	signal	1	33				
+NDBKHW_4563	outside	34	49				
+//
+# NDBKHW_22284 Length: 50
+# NDBKHW_22284 Number of predicted TMRs: 0
+NDBKHW_22284	outside	1	50				
+//
+# NDBKHW_22280 Length: 50
+# NDBKHW_22280 Number of predicted TMRs: 0
+NDBKHW_22280	outside	1	50				
+//
+# NDBKHW_44177 Length: 37
+# NDBKHW_44177 Number of predicted TMRs: 0
+NDBKHW_44177	signal	1	24				
+NDBKHW_44177	outside	25	37				
+//
+# NDBKHW_95087 Length: 47
+# NDBKHW_95087 Number of predicted TMRs: 0
+NDBKHW_95087	inside	1	47				
+//
+# NDBKHW_33235 Length: 42
+# NDBKHW_33235 Number of predicted TMRs: 0
+NDBKHW_33235	signal	1	41				
+NDBKHW_33235	outside	42	42				
+//
+# NDBKHW_151622 Length: 41
+# NDBKHW_151622 Number of predicted TMRs: 0
+NDBKHW_151622	signal	1	30				
+NDBKHW_151622	outside	31	41				
+//
+# NDBKHW_94804 Length: 42
+# NDBKHW_94804 Number of predicted TMRs: 0
+NDBKHW_94804	signal	1	27				
+NDBKHW_94804	outside	28	42				
+//
+# NDBKHW_28449 Length: 50
+# NDBKHW_28449 Number of predicted TMRs: 0
+NDBKHW_28449	inside	1	50				
+//
+# NDBKHW_34103 Length: 37
+# NDBKHW_34103 Number of predicted TMRs: 0
+NDBKHW_34103	signal	1	35				
+NDBKHW_34103	outside	36	37				
+//
+# NDBKHW_76718 Length: 48
+# NDBKHW_76718 Number of predicted TMRs: 0
+NDBKHW_76718	outside	1	48				
+//
+# NDBKHW_55295 Length: 49
+# NDBKHW_55295 Number of predicted TMRs: 0
+NDBKHW_55295	inside	1	49				
+//
+# NDBKHW_56138 Length: 50
+# NDBKHW_56138 Number of predicted TMRs: 0
+NDBKHW_56138	inside	1	50				
+//
+# NDBKHW_143704 Length: 48
+# NDBKHW_143704 Number of predicted TMRs: 0
+NDBKHW_143704	outside	1	48				
+//
+# NDBKHW_98271 Length: 46
+# NDBKHW_98271 Number of predicted TMRs: 0
+NDBKHW_98271	inside	1	46				
+//
+# NDBKHW_12160 Length: 46
+# NDBKHW_12160 Number of predicted TMRs: 0
+NDBKHW_12160	signal	1	41				
+NDBKHW_12160	outside	42	46				
+//
+# NDBKHW_150599 Length: 42
+# NDBKHW_150599 Number of predicted TMRs: 0
+NDBKHW_150599	signal	1	28				
+NDBKHW_150599	outside	29	42				
+//
+# NDBKHW_124138 Length: 47
+# NDBKHW_124138 Number of predicted TMRs: 0
+NDBKHW_124138	inside	1	47				
+//
+# NDBKHW_82510 Length: 46
+# NDBKHW_82510 Number of predicted TMRs: 0
+NDBKHW_82510	inside	1	46				
+//
+# NDBKHW_923 Length: 42
+# NDBKHW_923 Number of predicted TMRs: 0
+NDBKHW_923	inside	1	42				
+//
+# NDBKHW_153074 Length: 47
+# NDBKHW_153074 Number of predicted TMRs: 0
+NDBKHW_153074	inside	1	47				
+//
+# NDBKHW_57636 Length: 41
+# NDBKHW_57636 Number of predicted TMRs: 0
+NDBKHW_57636	inside	1	41				
+//
+# NDBKHW_145881 Length: 47
+# NDBKHW_145881 Number of predicted TMRs: 0
+NDBKHW_145881	signal	1	46				
+NDBKHW_145881	outside	47	47				
+//
+# NDBKHW_95819 Length: 50
+# NDBKHW_95819 Number of predicted TMRs: 0
+NDBKHW_95819	signal	1	31				
+NDBKHW_95819	outside	32	50				
+//
+# NDBKHW_132429 Length: 49
+# NDBKHW_132429 Number of predicted TMRs: 0
+NDBKHW_132429	signal	1	44				
+NDBKHW_132429	outside	45	49				
+//
+# NDBKHW_45680 Length: 49
+# NDBKHW_45680 Number of predicted TMRs: 0
+NDBKHW_45680	inside	1	49				
+//
+# NDBKHW_82521 Length: 45
+# NDBKHW_82521 Number of predicted TMRs: 0
+NDBKHW_82521	inside	1	45				
+//
+# NDBKHW_138301 Length: 50
+# NDBKHW_138301 Number of predicted TMRs: 0
+NDBKHW_138301	inside	1	50				
+//
+# NDBKHW_78050 Length: 50
+# NDBKHW_78050 Number of predicted TMRs: 0
+NDBKHW_78050	signal	1	28				
+NDBKHW_78050	outside	29	50				
+//
+# NDBKHW_13644 Length: 47
+# NDBKHW_13644 Number of predicted TMRs: 0
+NDBKHW_13644	signal	1	13				
+NDBKHW_13644	outside	14	47				
+//
+# NDBKHW_66895 Length: 45
+# NDBKHW_66895 Number of predicted TMRs: 0
+NDBKHW_66895	inside	1	45				
+//
+# NDBKHW_137369 Length: 49
+# NDBKHW_137369 Number of predicted TMRs: 0
+NDBKHW_137369	signal	1	12				
+NDBKHW_137369	outside	13	49				
+//
+# NDBKHW_52903 Length: 45
+# NDBKHW_52903 Number of predicted TMRs: 0
+NDBKHW_52903	inside	1	45				
+//
+# NDBKHW_24592 Length: 45
+# NDBKHW_24592 Number of predicted TMRs: 0
+NDBKHW_24592	inside	1	45				
+//
+# NDBKHW_87361 Length: 44
+# NDBKHW_87361 Number of predicted TMRs: 0
+NDBKHW_87361	outside	1	44				
+//
+# NDBKHW_96108 Length: 49
+# NDBKHW_96108 Number of predicted TMRs: 0
+NDBKHW_96108	inside	1	49				
+//
+# NDBKHW_106455 Length: 49
+# NDBKHW_106455 Number of predicted TMRs: 0
+NDBKHW_106455	inside	1	49				
+//
+# NDBKHW_156036 Length: 42
+# NDBKHW_156036 Number of predicted TMRs: 0
+NDBKHW_156036	signal	1	39				
+NDBKHW_156036	outside	40	42				
+//
+# NDBKHW_33933 Length: 39
+# NDBKHW_33933 Number of predicted TMRs: 0
+NDBKHW_33933	signal	1	12				
+NDBKHW_33933	outside	13	39				
+//
+# NDBKHW_31882 Length: 42
+# NDBKHW_31882 Number of predicted TMRs: 0
+NDBKHW_31882	inside	1	42				
+//
+# NDBKHW_121375 Length: 49
+# NDBKHW_121375 Number of predicted TMRs: 0
+NDBKHW_121375	inside	1	49				
+//
+# NDBKHW_105513 Length: 41
+# NDBKHW_105513 Number of predicted TMRs: 0
+NDBKHW_105513	signal	1	40				
+NDBKHW_105513	outside	41	41				
+//
+# NDBKHW_112032 Length: 50
+# NDBKHW_112032 Number of predicted TMRs: 0
+NDBKHW_112032	inside	1	50				
+//
+# NDBKHW_146601 Length: 42
+# NDBKHW_146601 Number of predicted TMRs: 0
+NDBKHW_146601	inside	1	42				
+//
+# NDBKHW_164227 Length: 32
+# NDBKHW_164227 Number of predicted TMRs: 0
+NDBKHW_164227	signal	1	31				
+NDBKHW_164227	outside	32	32				
+//
+# NDBKHW_97882 Length: 48
+# NDBKHW_97882 Number of predicted TMRs: 0
+NDBKHW_97882	inside	1	48				
+//
+# NDBKHW_111007 Length: 50
+# NDBKHW_111007 Number of predicted TMRs: 0
+NDBKHW_111007	inside	1	50				
+//
+# NDBKHW_55711 Length: 49
+# NDBKHW_55711 Number of predicted TMRs: 0
+NDBKHW_55711	inside	1	49				
+//
+# NDBKHW_11433 Length: 30
+# NDBKHW_11433 Number of predicted TMRs: 0
+NDBKHW_11433	signal	1	29				
+NDBKHW_11433	outside	30	30				
+//
+# NDBKHW_8960 Length: 48
+# NDBKHW_8960 Number of predicted TMRs: 0
+NDBKHW_8960	signal	1	47				
+NDBKHW_8960	outside	48	48				
+//
+# NDBKHW_85673 Length: 45
+# NDBKHW_85673 Number of predicted TMRs: 0
+NDBKHW_85673	signal	1	14				
+NDBKHW_85673	outside	15	45				
+//
+# NDBKHW_34218 Length: 49
+# NDBKHW_34218 Number of predicted TMRs: 0
+NDBKHW_34218	signal	1	48				
+NDBKHW_34218	outside	49	49				
+//
+# NDBKHW_50736 Length: 40
+# NDBKHW_50736 Number of predicted TMRs: 0
+NDBKHW_50736	inside	1	40				
+//
+# NDBKHW_163090 Length: 47
+# NDBKHW_163090 Number of predicted TMRs: 0
+NDBKHW_163090	inside	1	47				
+//
+# NDBKHW_11219 Length: 46
+# NDBKHW_11219 Number of predicted TMRs: 0
+NDBKHW_11219	inside	1	46				
+//
+# NDBKHW_139228 Length: 44
+# NDBKHW_139228 Number of predicted TMRs: 0
+NDBKHW_139228	signal	1	43				
+NDBKHW_139228	outside	44	44				
+//
+# NDBKHW_2766 Length: 49
+# NDBKHW_2766 Number of predicted TMRs: 0
+NDBKHW_2766	inside	1	49				
+//
+# NDBKHW_84337 Length: 47
+# NDBKHW_84337 Number of predicted TMRs: 0
+NDBKHW_84337	inside	1	47				
+//
+# NDBKHW_85512 Length: 49
+# NDBKHW_85512 Number of predicted TMRs: 0
+NDBKHW_85512	inside	1	49				
+//
+# NDBKHW_167476 Length: 40
+# NDBKHW_167476 Number of predicted TMRs: 0
+NDBKHW_167476	inside	1	40				
+//
+# NDBKHW_25218 Length: 50
+# NDBKHW_25218 Number of predicted TMRs: 0
+NDBKHW_25218	signal	1	21				
+NDBKHW_25218	outside	22	50				
+//
+# NDBKHW_24 Length: 44
+# NDBKHW_24 Number of predicted TMRs: 0
+NDBKHW_24	signal	1	35				
+NDBKHW_24	outside	36	44				
+//
+# NDBKHW_85502 Length: 39
+# NDBKHW_85502 Number of predicted TMRs: 0
+NDBKHW_85502	signal	1	37				
+NDBKHW_85502	outside	38	39				
+//
+# NDBKHW_82117 Length: 50
+# NDBKHW_82117 Number of predicted TMRs: 0
+NDBKHW_82117	inside	1	50				
+//
+# NDBKHW_468 Length: 48
+# NDBKHW_468 Number of predicted TMRs: 0
+NDBKHW_468	signal	1	44				
+NDBKHW_468	outside	45	48				
+//
+# NDBKHW_39492 Length: 41
+# NDBKHW_39492 Number of predicted TMRs: 0
+NDBKHW_39492	signal	1	13				
+NDBKHW_39492	outside	14	41				
+//
+# NDBKHW_22998 Length: 45
+# NDBKHW_22998 Number of predicted TMRs: 0
+NDBKHW_22998	signal	1	28				
+NDBKHW_22998	outside	29	45				
+//
+# NDBKHW_157273 Length: 49
+# NDBKHW_157273 Number of predicted TMRs: 0
+NDBKHW_157273	signal	1	48				
+NDBKHW_157273	outside	49	49				
+//
+# NDBKHW_4335 Length: 35
+# NDBKHW_4335 Number of predicted TMRs: 0
+NDBKHW_4335	inside	1	35				
+//
+# NDBKHW_52058 Length: 29
+# NDBKHW_52058 Number of predicted TMRs: 0
+NDBKHW_52058	inside	1	29				
+//
+# NDBKHW_85023 Length: 50
+# NDBKHW_85023 Number of predicted TMRs: 0
+NDBKHW_85023	inside	1	50				
+//
+# NDBKHW_82162 Length: 44
+# NDBKHW_82162 Number of predicted TMRs: 0
+NDBKHW_82162	inside	1	44				
+//
+# NDBKHW_50366 Length: 47
+# NDBKHW_50366 Number of predicted TMRs: 0
+NDBKHW_50366	inside	1	47				
+//
+# NDBKHW_57246 Length: 50
+# NDBKHW_57246 Number of predicted TMRs: 0
+NDBKHW_57246	inside	1	50				

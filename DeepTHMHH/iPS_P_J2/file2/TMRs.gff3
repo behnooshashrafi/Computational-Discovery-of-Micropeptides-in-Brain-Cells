@@ -1,0 +1,4357 @@
+##gff-version 3
+# SSSTKN_93815 Length: 34
+# SSSTKN_93815 Number of predicted TMRs: 0
+SSSTKN_93815	inside	1	34				
+//
+# SSSTKN_142362 Length: 47
+# SSSTKN_142362 Number of predicted TMRs: 0
+SSSTKN_142362	inside	1	47				
+//
+# SSSTKN_13563 Length: 46
+# SSSTKN_13563 Number of predicted TMRs: 0
+SSSTKN_13563	signal	1	26				
+SSSTKN_13563	outside	27	46				
+//
+# SSSTKN_25353 Length: 47
+# SSSTKN_25353 Number of predicted TMRs: 0
+SSSTKN_25353	inside	1	47				
+//
+# SSSTKN_39028 Length: 46
+# SSSTKN_39028 Number of predicted TMRs: 0
+SSSTKN_39028	signal	1	23				
+SSSTKN_39028	outside	24	46				
+//
+# SSSTKN_172011 Length: 41
+# SSSTKN_172011 Number of predicted TMRs: 0
+SSSTKN_172011	inside	1	41				
+//
+# SSSTKN_34833 Length: 37
+# SSSTKN_34833 Number of predicted TMRs: 0
+SSSTKN_34833	signal	1	13				
+SSSTKN_34833	outside	14	37				
+//
+# SSSTKN_113671 Length: 49
+# SSSTKN_113671 Number of predicted TMRs: 0
+SSSTKN_113671	signal	1	14				
+SSSTKN_113671	outside	15	49				
+//
+# SSSTKN_25180 Length: 37
+# SSSTKN_25180 Number of predicted TMRs: 0
+SSSTKN_25180	signal	1	35				
+SSSTKN_25180	outside	36	37				
+//
+# SSSTKN_169555 Length: 42
+# SSSTKN_169555 Number of predicted TMRs: 0
+SSSTKN_169555	signal	1	22				
+SSSTKN_169555	outside	23	42				
+//
+# SSSTKN_73605 Length: 45
+# SSSTKN_73605 Number of predicted TMRs: 0
+SSSTKN_73605	inside	1	45				
+//
+# SSSTKN_107856 Length: 44
+# SSSTKN_107856 Number of predicted TMRs: 0
+SSSTKN_107856	signal	1	20				
+SSSTKN_107856	outside	21	44				
+//
+# SSSTKN_120737 Length: 34
+# SSSTKN_120737 Number of predicted TMRs: 0
+SSSTKN_120737	signal	1	19				
+SSSTKN_120737	outside	20	34				
+//
+# SSSTKN_92943 Length: 47
+# SSSTKN_92943 Number of predicted TMRs: 0
+SSSTKN_92943	inside	1	47				
+//
+# SSSTKN_144689 Length: 49
+# SSSTKN_144689 Number of predicted TMRs: 0
+SSSTKN_144689	inside	1	49				
+//
+# SSSTKN_163419 Length: 43
+# SSSTKN_163419 Number of predicted TMRs: 0
+SSSTKN_163419	signal	1	13				
+SSSTKN_163419	outside	14	43				
+//
+# SSSTKN_113575 Length: 48
+# SSSTKN_113575 Number of predicted TMRs: 1
+SSSTKN_113575	outside	1	14				
+SSSTKN_113575	TMhelix	15	35				
+SSSTKN_113575	inside	36	48				
+//
+# SSSTKN_60841 Length: 49
+# SSSTKN_60841 Number of predicted TMRs: 0
+SSSTKN_60841	signal	1	19				
+SSSTKN_60841	outside	20	49				
+//
+# SSSTKN_21945 Length: 49
+# SSSTKN_21945 Number of predicted TMRs: 0
+SSSTKN_21945	signal	1	47				
+SSSTKN_21945	outside	48	49				
+//
+# SSSTKN_143017 Length: 48
+# SSSTKN_143017 Number of predicted TMRs: 0
+SSSTKN_143017	inside	1	48				
+//
+# SSSTKN_156962 Length: 48
+# SSSTKN_156962 Number of predicted TMRs: 0
+SSSTKN_156962	inside	1	48				
+//
+# SSSTKN_159066 Length: 39
+# SSSTKN_159066 Number of predicted TMRs: 0
+SSSTKN_159066	signal	1	38				
+SSSTKN_159066	outside	39	39				
+//
+# SSSTKN_12624 Length: 49
+# SSSTKN_12624 Number of predicted TMRs: 0
+SSSTKN_12624	inside	1	49				
+//
+# SSSTKN_20585 Length: 50
+# SSSTKN_20585 Number of predicted TMRs: 0
+SSSTKN_20585	inside	1	50				
+//
+# SSSTKN_85944 Length: 48
+# SSSTKN_85944 Number of predicted TMRs: 0
+SSSTKN_85944	signal	1	47				
+SSSTKN_85944	outside	48	48				
+//
+# SSSTKN_702 Length: 47
+# SSSTKN_702 Number of predicted TMRs: 0
+SSSTKN_702	inside	1	47				
+//
+# SSSTKN_144695 Length: 49
+# SSSTKN_144695 Number of predicted TMRs: 0
+SSSTKN_144695	inside	1	49				
+//
+# SSSTKN_144961 Length: 45
+# SSSTKN_144961 Number of predicted TMRs: 0
+SSSTKN_144961	signal	1	20				
+SSSTKN_144961	outside	21	45				
+//
+# SSSTKN_83212 Length: 46
+# SSSTKN_83212 Number of predicted TMRs: 0
+SSSTKN_83212	signal	1	45				
+SSSTKN_83212	outside	46	46				
+//
+# SSSTKN_17494 Length: 46
+# SSSTKN_17494 Number of predicted TMRs: 0
+SSSTKN_17494	signal	1	45				
+SSSTKN_17494	outside	46	46				
+//
+# SSSTKN_121820 Length: 50
+# SSSTKN_121820 Number of predicted TMRs: 0
+SSSTKN_121820	signal	1	48				
+SSSTKN_121820	outside	49	50				
+//
+# SSSTKN_139063 Length: 47
+# SSSTKN_139063 Number of predicted TMRs: 0
+SSSTKN_139063	signal	1	45				
+SSSTKN_139063	outside	46	47				
+//
+# SSSTKN_140195 Length: 42
+# SSSTKN_140195 Number of predicted TMRs: 0
+SSSTKN_140195	inside	1	42				
+//
+# SSSTKN_167121 Length: 44
+# SSSTKN_167121 Number of predicted TMRs: 0
+SSSTKN_167121	inside	1	44				
+//
+# SSSTKN_99958 Length: 50
+# SSSTKN_99958 Number of predicted TMRs: 0
+SSSTKN_99958	signal	1	17				
+SSSTKN_99958	outside	18	50				
+//
+# SSSTKN_95774 Length: 39
+# SSSTKN_95774 Number of predicted TMRs: 0
+SSSTKN_95774	inside	1	39				
+//
+# SSSTKN_32641 Length: 36
+# SSSTKN_32641 Number of predicted TMRs: 0
+SSSTKN_32641	inside	1	36				
+//
+# SSSTKN_100389 Length: 48
+# SSSTKN_100389 Number of predicted TMRs: 0
+SSSTKN_100389	inside	1	48				
+//
+# SSSTKN_38744 Length: 47
+# SSSTKN_38744 Number of predicted TMRs: 0
+SSSTKN_38744	signal	1	35				
+SSSTKN_38744	outside	36	47				
+//
+# SSSTKN_13440 Length: 48
+# SSSTKN_13440 Number of predicted TMRs: 0
+SSSTKN_13440	inside	1	48				
+//
+# SSSTKN_19145 Length: 40
+# SSSTKN_19145 Number of predicted TMRs: 0
+SSSTKN_19145	signal	1	39				
+SSSTKN_19145	outside	40	40				
+//
+# SSSTKN_31477 Length: 42
+# SSSTKN_31477 Number of predicted TMRs: 0
+SSSTKN_31477	signal	1	35				
+SSSTKN_31477	outside	36	42				
+//
+# SSSTKN_141520 Length: 50
+# SSSTKN_141520 Number of predicted TMRs: 0
+SSSTKN_141520	inside	1	50				
+//
+# SSSTKN_142845 Length: 46
+# SSSTKN_142845 Number of predicted TMRs: 0
+SSSTKN_142845	inside	1	46				
+//
+# SSSTKN_126825 Length: 46
+# SSSTKN_126825 Number of predicted TMRs: 0
+SSSTKN_126825	inside	1	46				
+//
+# SSSTKN_121663 Length: 39
+# SSSTKN_121663 Number of predicted TMRs: 0
+SSSTKN_121663	inside	1	39				
+//
+# SSSTKN_171562 Length: 44
+# SSSTKN_171562 Number of predicted TMRs: 0
+SSSTKN_171562	signal	1	43				
+SSSTKN_171562	outside	44	44				
+//
+# SSSTKN_148034 Length: 36
+# SSSTKN_148034 Number of predicted TMRs: 0
+SSSTKN_148034	inside	1	36				
+//
+# SSSTKN_124536 Length: 48
+# SSSTKN_124536 Number of predicted TMRs: 0
+SSSTKN_124536	signal	1	46				
+SSSTKN_124536	outside	47	48				
+//
+# SSSTKN_78713 Length: 36
+# SSSTKN_78713 Number of predicted TMRs: 0
+SSSTKN_78713	inside	1	36				
+//
+# SSSTKN_7147 Length: 48
+# SSSTKN_7147 Number of predicted TMRs: 0
+SSSTKN_7147	inside	1	48				
+//
+# SSSTKN_2930 Length: 36
+# SSSTKN_2930 Number of predicted TMRs: 0
+SSSTKN_2930	signal	1	34				
+SSSTKN_2930	outside	35	36				
+//
+# SSSTKN_112394 Length: 33
+# SSSTKN_112394 Number of predicted TMRs: 0
+SSSTKN_112394	signal	1	32				
+SSSTKN_112394	outside	33	33				
+//
+# SSSTKN_110245 Length: 44
+# SSSTKN_110245 Number of predicted TMRs: 0
+SSSTKN_110245	inside	1	44				
+//
+# SSSTKN_148161 Length: 40
+# SSSTKN_148161 Number of predicted TMRs: 0
+SSSTKN_148161	signal	1	39				
+SSSTKN_148161	outside	40	40				
+//
+# SSSTKN_29287 Length: 47
+# SSSTKN_29287 Number of predicted TMRs: 0
+SSSTKN_29287	signal	1	10				
+SSSTKN_29287	outside	11	47				
+//
+# SSSTKN_38540 Length: 39
+# SSSTKN_38540 Number of predicted TMRs: 0
+SSSTKN_38540	inside	1	39				
+//
+# SSSTKN_41082 Length: 42
+# SSSTKN_41082 Number of predicted TMRs: 0
+SSSTKN_41082	inside	1	42				
+//
+# SSSTKN_133354 Length: 48
+# SSSTKN_133354 Number of predicted TMRs: 0
+SSSTKN_133354	inside	1	48				
+//
+# SSSTKN_42400 Length: 45
+# SSSTKN_42400 Number of predicted TMRs: 0
+SSSTKN_42400	inside	1	45				
+//
+# SSSTKN_115197 Length: 39
+# SSSTKN_115197 Number of predicted TMRs: 0
+SSSTKN_115197	inside	1	39				
+//
+# SSSTKN_37434 Length: 43
+# SSSTKN_37434 Number of predicted TMRs: 0
+SSSTKN_37434	inside	1	43				
+//
+# SSSTKN_123061 Length: 44
+# SSSTKN_123061 Number of predicted TMRs: 0
+SSSTKN_123061	inside	1	44				
+//
+# SSSTKN_75071 Length: 49
+# SSSTKN_75071 Number of predicted TMRs: 0
+SSSTKN_75071	inside	1	49				
+//
+# SSSTKN_138755 Length: 48
+# SSSTKN_138755 Number of predicted TMRs: 0
+SSSTKN_138755	signal	1	47				
+SSSTKN_138755	outside	48	48				
+//
+# SSSTKN_35101 Length: 45
+# SSSTKN_35101 Number of predicted TMRs: 0
+SSSTKN_35101	inside	1	45				
+//
+# SSSTKN_37688 Length: 49
+# SSSTKN_37688 Number of predicted TMRs: 0
+SSSTKN_37688	inside	1	49				
+//
+# SSSTKN_16678 Length: 48
+# SSSTKN_16678 Number of predicted TMRs: 0
+SSSTKN_16678	inside	1	48				
+//
+# SSSTKN_1277 Length: 48
+# SSSTKN_1277 Number of predicted TMRs: 0
+SSSTKN_1277	inside	1	48				
+//
+# SSSTKN_135995 Length: 47
+# SSSTKN_135995 Number of predicted TMRs: 0
+SSSTKN_135995	signal	1	29				
+SSSTKN_135995	outside	30	47				
+//
+# SSSTKN_62445 Length: 32
+# SSSTKN_62445 Number of predicted TMRs: 0
+SSSTKN_62445	signal	1	31				
+SSSTKN_62445	outside	32	32				
+//
+# SSSTKN_149650 Length: 46
+# SSSTKN_149650 Number of predicted TMRs: 0
+SSSTKN_149650	inside	1	46				
+//
+# SSSTKN_87363 Length: 50
+# SSSTKN_87363 Number of predicted TMRs: 0
+SSSTKN_87363	signal	1	45				
+SSSTKN_87363	outside	46	50				
+//
+# SSSTKN_110149 Length: 43
+# SSSTKN_110149 Number of predicted TMRs: 0
+SSSTKN_110149	inside	1	43				
+//
+# SSSTKN_104534 Length: 37
+# SSSTKN_104534 Number of predicted TMRs: 0
+SSSTKN_104534	inside	1	37				
+//
+# SSSTKN_17779 Length: 44
+# SSSTKN_17779 Number of predicted TMRs: 0
+SSSTKN_17779	inside	1	44				
+//
+# SSSTKN_68941 Length: 48
+# SSSTKN_68941 Number of predicted TMRs: 0
+SSSTKN_68941	inside	1	48				
+//
+# SSSTKN_147538 Length: 37
+# SSSTKN_147538 Number of predicted TMRs: 0
+SSSTKN_147538	signal	1	36				
+SSSTKN_147538	outside	37	37				
+//
+# SSSTKN_146506 Length: 50
+# SSSTKN_146506 Number of predicted TMRs: 0
+SSSTKN_146506	inside	1	50				
+//
+# SSSTKN_25163 Length: 41
+# SSSTKN_25163 Number of predicted TMRs: 0
+SSSTKN_25163	inside	1	41				
+//
+# SSSTKN_128751 Length: 44
+# SSSTKN_128751 Number of predicted TMRs: 0
+SSSTKN_128751	inside	1	44				
+//
+# SSSTKN_103028 Length: 47
+# SSSTKN_103028 Number of predicted TMRs: 0
+SSSTKN_103028	inside	1	47				
+//
+# SSSTKN_6022 Length: 34
+# SSSTKN_6022 Number of predicted TMRs: 0
+SSSTKN_6022	signal	1	15				
+SSSTKN_6022	outside	16	34				
+//
+# SSSTKN_94784 Length: 41
+# SSSTKN_94784 Number of predicted TMRs: 0
+SSSTKN_94784	inside	1	41				
+//
+# SSSTKN_127587 Length: 48
+# SSSTKN_127587 Number of predicted TMRs: 0
+SSSTKN_127587	signal	1	10				
+SSSTKN_127587	outside	11	48				
+//
+# SSSTKN_57221 Length: 44
+# SSSTKN_57221 Number of predicted TMRs: 0
+SSSTKN_57221	inside	1	44				
+//
+# SSSTKN_96586 Length: 43
+# SSSTKN_96586 Number of predicted TMRs: 0
+SSSTKN_96586	inside	1	43				
+//
+# SSSTKN_141859 Length: 43
+# SSSTKN_141859 Number of predicted TMRs: 0
+SSSTKN_141859	inside	1	43				
+//
+# SSSTKN_163877 Length: 45
+# SSSTKN_163877 Number of predicted TMRs: 0
+SSSTKN_163877	inside	1	45				
+//
+# SSSTKN_148581 Length: 46
+# SSSTKN_148581 Number of predicted TMRs: 0
+SSSTKN_148581	inside	1	46				
+//
+# SSSTKN_141926 Length: 44
+# SSSTKN_141926 Number of predicted TMRs: 0
+SSSTKN_141926	inside	1	44				
+//
+# SSSTKN_92257 Length: 46
+# SSSTKN_92257 Number of predicted TMRs: 0
+SSSTKN_92257	inside	1	46				
+//
+# SSSTKN_82786 Length: 40
+# SSSTKN_82786 Number of predicted TMRs: 0
+SSSTKN_82786	inside	1	40				
+//
+# SSSTKN_130623 Length: 47
+# SSSTKN_130623 Number of predicted TMRs: 0
+SSSTKN_130623	signal	1	46				
+SSSTKN_130623	outside	47	47				
+//
+# SSSTKN_130322 Length: 44
+# SSSTKN_130322 Number of predicted TMRs: 0
+SSSTKN_130322	signal	1	42				
+SSSTKN_130322	outside	43	44				
+//
+# SSSTKN_15533 Length: 44
+# SSSTKN_15533 Number of predicted TMRs: 0
+SSSTKN_15533	signal	1	35				
+SSSTKN_15533	outside	36	44				
+//
+# SSSTKN_95482 Length: 28
+# SSSTKN_95482 Number of predicted TMRs: 0
+SSSTKN_95482	inside	1	28				
+//
+# SSSTKN_165910 Length: 46
+# SSSTKN_165910 Number of predicted TMRs: 0
+SSSTKN_165910	outside	1	46				
+//
+# SSSTKN_137161 Length: 42
+# SSSTKN_137161 Number of predicted TMRs: 0
+SSSTKN_137161	inside	1	42				
+//
+# SSSTKN_111975 Length: 47
+# SSSTKN_111975 Number of predicted TMRs: 0
+SSSTKN_111975	signal	1	25				
+SSSTKN_111975	outside	26	47				
+//
+# SSSTKN_99132 Length: 45
+# SSSTKN_99132 Number of predicted TMRs: 0
+SSSTKN_99132	inside	1	45				
+//
+# SSSTKN_20910 Length: 41
+# SSSTKN_20910 Number of predicted TMRs: 0
+SSSTKN_20910	signal	1	28				
+SSSTKN_20910	outside	29	41				
+//
+# SSSTKN_112952 Length: 46
+# SSSTKN_112952 Number of predicted TMRs: 0
+SSSTKN_112952	inside	1	46				
+//
+# SSSTKN_12141 Length: 35
+# SSSTKN_12141 Number of predicted TMRs: 0
+SSSTKN_12141	inside	1	35				
+//
+# SSSTKN_107857 Length: 50
+# SSSTKN_107857 Number of predicted TMRs: 0
+SSSTKN_107857	inside	1	50				
+//
+# SSSTKN_158563 Length: 48
+# SSSTKN_158563 Number of predicted TMRs: 0
+SSSTKN_158563	inside	1	48				
+//
+# SSSTKN_21713 Length: 46
+# SSSTKN_21713 Number of predicted TMRs: 0
+SSSTKN_21713	inside	1	46				
+//
+# SSSTKN_55545 Length: 41
+# SSSTKN_55545 Number of predicted TMRs: 0
+SSSTKN_55545	signal	1	32				
+SSSTKN_55545	outside	33	41				
+//
+# SSSTKN_110927 Length: 44
+# SSSTKN_110927 Number of predicted TMRs: 0
+SSSTKN_110927	inside	1	44				
+//
+# SSSTKN_124699 Length: 38
+# SSSTKN_124699 Number of predicted TMRs: 0
+SSSTKN_124699	signal	1	32				
+SSSTKN_124699	outside	33	38				
+//
+# SSSTKN_99446 Length: 47
+# SSSTKN_99446 Number of predicted TMRs: 0
+SSSTKN_99446	inside	1	47				
+//
+# SSSTKN_158231 Length: 49
+# SSSTKN_158231 Number of predicted TMRs: 0
+SSSTKN_158231	inside	1	49				
+//
+# SSSTKN_100001 Length: 34
+# SSSTKN_100001 Number of predicted TMRs: 0
+SSSTKN_100001	outside	1	34				
+//
+# SSSTKN_109791 Length: 48
+# SSSTKN_109791 Number of predicted TMRs: 0
+SSSTKN_109791	signal	1	21				
+SSSTKN_109791	outside	22	48				
+//
+# SSSTKN_57562 Length: 47
+# SSSTKN_57562 Number of predicted TMRs: 0
+SSSTKN_57562	inside	1	47				
+//
+# SSSTKN_35556 Length: 31
+# SSSTKN_35556 Number of predicted TMRs: 0
+SSSTKN_35556	signal	1	27				
+SSSTKN_35556	outside	28	31				
+//
+# SSSTKN_142564 Length: 49
+# SSSTKN_142564 Number of predicted TMRs: 0
+SSSTKN_142564	inside	1	49				
+//
+# SSSTKN_49951 Length: 49
+# SSSTKN_49951 Number of predicted TMRs: 0
+SSSTKN_49951	inside	1	49				
+//
+# SSSTKN_20998 Length: 44
+# SSSTKN_20998 Number of predicted TMRs: 0
+SSSTKN_20998	inside	1	44				
+//
+# SSSTKN_143349 Length: 43
+# SSSTKN_143349 Number of predicted TMRs: 0
+SSSTKN_143349	signal	1	11				
+SSSTKN_143349	outside	12	43				
+//
+# SSSTKN_41519 Length: 49
+# SSSTKN_41519 Number of predicted TMRs: 0
+SSSTKN_41519	signal	1	26				
+SSSTKN_41519	outside	27	49				
+//
+# SSSTKN_143003 Length: 49
+# SSSTKN_143003 Number of predicted TMRs: 0
+SSSTKN_143003	signal	1	29				
+SSSTKN_143003	outside	30	49				
+//
+# SSSTKN_106803 Length: 47
+# SSSTKN_106803 Number of predicted TMRs: 0
+SSSTKN_106803	inside	1	47				
+//
+# SSSTKN_15127 Length: 33
+# SSSTKN_15127 Number of predicted TMRs: 0
+SSSTKN_15127	inside	1	33				
+//
+# SSSTKN_6381 Length: 44
+# SSSTKN_6381 Number of predicted TMRs: 0
+SSSTKN_6381	inside	1	44				
+//
+# SSSTKN_12316 Length: 47
+# SSSTKN_12316 Number of predicted TMRs: 0
+SSSTKN_12316	inside	1	47				
+//
+# SSSTKN_123654 Length: 47
+# SSSTKN_123654 Number of predicted TMRs: 0
+SSSTKN_123654	inside	1	47				
+//
+# SSSTKN_17168 Length: 49
+# SSSTKN_17168 Number of predicted TMRs: 0
+SSSTKN_17168	inside	1	49				
+//
+# SSSTKN_19067 Length: 33
+# SSSTKN_19067 Number of predicted TMRs: 0
+SSSTKN_19067	signal	1	31				
+SSSTKN_19067	outside	32	33				
+//
+# SSSTKN_122841 Length: 47
+# SSSTKN_122841 Number of predicted TMRs: 0
+SSSTKN_122841	inside	1	47				
+//
+# SSSTKN_151560 Length: 39
+# SSSTKN_151560 Number of predicted TMRs: 0
+SSSTKN_151560	signal	1	32				
+SSSTKN_151560	outside	33	39				
+//
+# SSSTKN_104775 Length: 49
+# SSSTKN_104775 Number of predicted TMRs: 0
+SSSTKN_104775	inside	1	49				
+//
+# SSSTKN_9669 Length: 40
+# SSSTKN_9669 Number of predicted TMRs: 0
+SSSTKN_9669	signal	1	22				
+SSSTKN_9669	outside	23	40				
+//
+# SSSTKN_9371 Length: 40
+# SSSTKN_9371 Number of predicted TMRs: 0
+SSSTKN_9371	inside	1	40				
+//
+# SSSTKN_141590 Length: 47
+# SSSTKN_141590 Number of predicted TMRs: 0
+SSSTKN_141590	signal	1	12				
+SSSTKN_141590	outside	13	47				
+//
+# SSSTKN_167374 Length: 50
+# SSSTKN_167374 Number of predicted TMRs: 0
+SSSTKN_167374	inside	1	50				
+//
+# SSSTKN_134494 Length: 36
+# SSSTKN_134494 Number of predicted TMRs: 0
+SSSTKN_134494	inside	1	36				
+//
+# SSSTKN_162763 Length: 39
+# SSSTKN_162763 Number of predicted TMRs: 0
+SSSTKN_162763	inside	1	39				
+//
+# SSSTKN_141700 Length: 40
+# SSSTKN_141700 Number of predicted TMRs: 0
+SSSTKN_141700	inside	1	40				
+//
+# SSSTKN_83520 Length: 39
+# SSSTKN_83520 Number of predicted TMRs: 0
+SSSTKN_83520	inside	1	39				
+//
+# SSSTKN_29738 Length: 42
+# SSSTKN_29738 Number of predicted TMRs: 0
+SSSTKN_29738	inside	1	42				
+//
+# SSSTKN_26253 Length: 44
+# SSSTKN_26253 Number of predicted TMRs: 0
+SSSTKN_26253	outside	1	44				
+//
+# SSSTKN_142343 Length: 45
+# SSSTKN_142343 Number of predicted TMRs: 0
+SSSTKN_142343	signal	1	43				
+SSSTKN_142343	outside	44	45				
+//
+# SSSTKN_36791 Length: 33
+# SSSTKN_36791 Number of predicted TMRs: 0
+SSSTKN_36791	signal	1	32				
+SSSTKN_36791	outside	33	33				
+//
+# SSSTKN_132032 Length: 50
+# SSSTKN_132032 Number of predicted TMRs: 0
+SSSTKN_132032	signal	1	49				
+SSSTKN_132032	outside	50	50				
+//
+# SSSTKN_88485 Length: 44
+# SSSTKN_88485 Number of predicted TMRs: 0
+SSSTKN_88485	inside	1	44				
+//
+# SSSTKN_144273 Length: 49
+# SSSTKN_144273 Number of predicted TMRs: 0
+SSSTKN_144273	inside	1	49				
+//
+# SSSTKN_115106 Length: 45
+# SSSTKN_115106 Number of predicted TMRs: 0
+SSSTKN_115106	inside	1	45				
+//
+# SSSTKN_77584 Length: 50
+# SSSTKN_77584 Number of predicted TMRs: 0
+SSSTKN_77584	inside	1	50				
+//
+# SSSTKN_28049 Length: 48
+# SSSTKN_28049 Number of predicted TMRs: 0
+SSSTKN_28049	inside	1	48				
+//
+# SSSTKN_60238 Length: 42
+# SSSTKN_60238 Number of predicted TMRs: 0
+SSSTKN_60238	inside	1	42				
+//
+# SSSTKN_36917 Length: 38
+# SSSTKN_36917 Number of predicted TMRs: 0
+SSSTKN_36917	signal	1	11				
+SSSTKN_36917	outside	12	38				
+//
+# SSSTKN_100483 Length: 38
+# SSSTKN_100483 Number of predicted TMRs: 0
+SSSTKN_100483	inside	1	38				
+//
+# SSSTKN_3371 Length: 38
+# SSSTKN_3371 Number of predicted TMRs: 0
+SSSTKN_3371	inside	1	38				
+//
+# SSSTKN_126403 Length: 41
+# SSSTKN_126403 Number of predicted TMRs: 0
+SSSTKN_126403	inside	1	41				
+//
+# SSSTKN_134158 Length: 50
+# SSSTKN_134158 Number of predicted TMRs: 0
+SSSTKN_134158	signal	1	47				
+SSSTKN_134158	outside	48	50				
+//
+# SSSTKN_36739 Length: 35
+# SSSTKN_36739 Number of predicted TMRs: 0
+SSSTKN_36739	inside	1	35				
+//
+# SSSTKN_119765 Length: 47
+# SSSTKN_119765 Number of predicted TMRs: 0
+SSSTKN_119765	inside	1	47				
+//
+# SSSTKN_69910 Length: 33
+# SSSTKN_69910 Number of predicted TMRs: 0
+SSSTKN_69910	signal	1	17				
+SSSTKN_69910	outside	18	33				
+//
+# SSSTKN_135084 Length: 47
+# SSSTKN_135084 Number of predicted TMRs: 0
+SSSTKN_135084	inside	1	47				
+//
+# SSSTKN_90827 Length: 48
+# SSSTKN_90827 Number of predicted TMRs: 0
+SSSTKN_90827	signal	1	11				
+SSSTKN_90827	outside	12	48				
+//
+# SSSTKN_124986 Length: 45
+# SSSTKN_124986 Number of predicted TMRs: 0
+SSSTKN_124986	signal	1	10				
+SSSTKN_124986	outside	11	45				
+//
+# SSSTKN_121600 Length: 46
+# SSSTKN_121600 Number of predicted TMRs: 0
+SSSTKN_121600	inside	1	46				
+//
+# SSSTKN_21990 Length: 42
+# SSSTKN_21990 Number of predicted TMRs: 0
+SSSTKN_21990	signal	1	16				
+SSSTKN_21990	outside	17	42				
+//
+# SSSTKN_135899 Length: 39
+# SSSTKN_135899 Number of predicted TMRs: 0
+SSSTKN_135899	signal	1	16				
+SSSTKN_135899	outside	17	39				
+//
+# SSSTKN_23397 Length: 45
+# SSSTKN_23397 Number of predicted TMRs: 0
+SSSTKN_23397	inside	1	45				
+//
+# SSSTKN_132440 Length: 39
+# SSSTKN_132440 Number of predicted TMRs: 0
+SSSTKN_132440	inside	1	39				
+//
+# SSSTKN_66884 Length: 41
+# SSSTKN_66884 Number of predicted TMRs: 0
+SSSTKN_66884	inside	1	41				
+//
+# SSSTKN_44812 Length: 49
+# SSSTKN_44812 Number of predicted TMRs: 0
+SSSTKN_44812	inside	1	49				
+//
+# SSSTKN_153362 Length: 50
+# SSSTKN_153362 Number of predicted TMRs: 0
+SSSTKN_153362	inside	1	50				
+//
+# SSSTKN_12386 Length: 43
+# SSSTKN_12386 Number of predicted TMRs: 0
+SSSTKN_12386	signal	1	30				
+SSSTKN_12386	outside	31	43				
+//
+# SSSTKN_135955 Length: 47
+# SSSTKN_135955 Number of predicted TMRs: 0
+SSSTKN_135955	inside	1	47				
+//
+# SSSTKN_44458 Length: 45
+# SSSTKN_44458 Number of predicted TMRs: 0
+SSSTKN_44458	inside	1	45				
+//
+# SSSTKN_88513 Length: 47
+# SSSTKN_88513 Number of predicted TMRs: 0
+SSSTKN_88513	signal	1	20				
+SSSTKN_88513	outside	21	47				
+//
+# SSSTKN_57228 Length: 44
+# SSSTKN_57228 Number of predicted TMRs: 0
+SSSTKN_57228	signal	1	10				
+SSSTKN_57228	outside	11	44				
+//
+# SSSTKN_46129 Length: 45
+# SSSTKN_46129 Number of predicted TMRs: 0
+SSSTKN_46129	inside	1	45				
+//
+# SSSTKN_105941 Length: 48
+# SSSTKN_105941 Number of predicted TMRs: 0
+SSSTKN_105941	inside	1	48				
+//
+# SSSTKN_36438 Length: 45
+# SSSTKN_36438 Number of predicted TMRs: 0
+SSSTKN_36438	inside	1	45				
+//
+# SSSTKN_111077 Length: 49
+# SSSTKN_111077 Number of predicted TMRs: 0
+SSSTKN_111077	inside	1	49				
+//
+# SSSTKN_29396 Length: 45
+# SSSTKN_29396 Number of predicted TMRs: 0
+SSSTKN_29396	inside	1	45				
+//
+# SSSTKN_144443 Length: 48
+# SSSTKN_144443 Number of predicted TMRs: 0
+SSSTKN_144443	signal	1	46				
+SSSTKN_144443	outside	47	48				
+//
+# SSSTKN_76198 Length: 42
+# SSSTKN_76198 Number of predicted TMRs: 0
+SSSTKN_76198	inside	1	42				
+//
+# SSSTKN_106201 Length: 50
+# SSSTKN_106201 Number of predicted TMRs: 0
+SSSTKN_106201	inside	1	50				
+//
+# SSSTKN_157284 Length: 48
+# SSSTKN_157284 Number of predicted TMRs: 0
+SSSTKN_157284	inside	1	48				
+//
+# SSSTKN_144164 Length: 42
+# SSSTKN_144164 Number of predicted TMRs: 0
+SSSTKN_144164	inside	1	42				
+//
+# SSSTKN_51825 Length: 44
+# SSSTKN_51825 Number of predicted TMRs: 0
+SSSTKN_51825	inside	1	44				
+//
+# SSSTKN_147704 Length: 45
+# SSSTKN_147704 Number of predicted TMRs: 0
+SSSTKN_147704	inside	1	45				
+//
+# SSSTKN_115909 Length: 45
+# SSSTKN_115909 Number of predicted TMRs: 0
+SSSTKN_115909	inside	1	45				
+//
+# SSSTKN_171655 Length: 43
+# SSSTKN_171655 Number of predicted TMRs: 0
+SSSTKN_171655	signal	1	27				
+SSSTKN_171655	outside	28	43				
+//
+# SSSTKN_109931 Length: 46
+# SSSTKN_109931 Number of predicted TMRs: 0
+SSSTKN_109931	signal	1	15				
+SSSTKN_109931	outside	16	46				
+//
+# SSSTKN_46410 Length: 50
+# SSSTKN_46410 Number of predicted TMRs: 0
+SSSTKN_46410	inside	1	50				
+//
+# SSSTKN_118966 Length: 49
+# SSSTKN_118966 Number of predicted TMRs: 0
+SSSTKN_118966	inside	1	49				
+//
+# SSSTKN_23896 Length: 43
+# SSSTKN_23896 Number of predicted TMRs: 0
+SSSTKN_23896	inside	1	43				
+//
+# SSSTKN_95073 Length: 46
+# SSSTKN_95073 Number of predicted TMRs: 0
+SSSTKN_95073	inside	1	46				
+//
+# SSSTKN_13052 Length: 28
+# SSSTKN_13052 Number of predicted TMRs: 0
+SSSTKN_13052	outside	1	28				
+//
+# SSSTKN_76477 Length: 36
+# SSSTKN_76477 Number of predicted TMRs: 0
+SSSTKN_76477	signal	1	31				
+SSSTKN_76477	outside	32	36				
+//
+# SSSTKN_68475 Length: 37
+# SSSTKN_68475 Number of predicted TMRs: 0
+SSSTKN_68475	signal	1	36				
+SSSTKN_68475	outside	37	37				
+//
+# SSSTKN_145188 Length: 49
+# SSSTKN_145188 Number of predicted TMRs: 0
+SSSTKN_145188	inside	1	49				
+//
+# SSSTKN_168599 Length: 43
+# SSSTKN_168599 Number of predicted TMRs: 0
+SSSTKN_168599	inside	1	43				
+//
+# SSSTKN_16631 Length: 41
+# SSSTKN_16631 Number of predicted TMRs: 0
+SSSTKN_16631	inside	1	41				
+//
+# SSSTKN_35760 Length: 40
+# SSSTKN_35760 Number of predicted TMRs: 0
+SSSTKN_35760	signal	1	35				
+SSSTKN_35760	outside	36	40				
+//
+# SSSTKN_115167 Length: 50
+# SSSTKN_115167 Number of predicted TMRs: 0
+SSSTKN_115167	inside	1	50				
+//
+# SSSTKN_121870 Length: 46
+# SSSTKN_121870 Number of predicted TMRs: 0
+SSSTKN_121870	signal	1	45				
+SSSTKN_121870	outside	46	46				
+//
+# SSSTKN_59213 Length: 47
+# SSSTKN_59213 Number of predicted TMRs: 0
+SSSTKN_59213	inside	1	47				
+//
+# SSSTKN_65191 Length: 40
+# SSSTKN_65191 Number of predicted TMRs: 0
+SSSTKN_65191	inside	1	40				
+//
+# SSSTKN_20288 Length: 41
+# SSSTKN_20288 Number of predicted TMRs: 0
+SSSTKN_20288	inside	1	41				
+//
+# SSSTKN_111788 Length: 47
+# SSSTKN_111788 Number of predicted TMRs: 0
+SSSTKN_111788	signal	1	35				
+SSSTKN_111788	outside	36	47				
+//
+# SSSTKN_129363 Length: 45
+# SSSTKN_129363 Number of predicted TMRs: 0
+SSSTKN_129363	outside	1	45				
+//
+# SSSTKN_25790 Length: 38
+# SSSTKN_25790 Number of predicted TMRs: 0
+SSSTKN_25790	signal	1	32				
+SSSTKN_25790	outside	33	38				
+//
+# SSSTKN_83654 Length: 49
+# SSSTKN_83654 Number of predicted TMRs: 0
+SSSTKN_83654	inside	1	49				
+//
+# SSSTKN_36478 Length: 49
+# SSSTKN_36478 Number of predicted TMRs: 0
+SSSTKN_36478	inside	1	49				
+//
+# SSSTKN_118613 Length: 50
+# SSSTKN_118613 Number of predicted TMRs: 0
+SSSTKN_118613	signal	1	33				
+SSSTKN_118613	outside	34	50				
+//
+# SSSTKN_82095 Length: 37
+# SSSTKN_82095 Number of predicted TMRs: 0
+SSSTKN_82095	signal	1	19				
+SSSTKN_82095	outside	20	37				
+//
+# SSSTKN_18596 Length: 38
+# SSSTKN_18596 Number of predicted TMRs: 0
+SSSTKN_18596	inside	1	38				
+//
+# SSSTKN_91911 Length: 48
+# SSSTKN_91911 Number of predicted TMRs: 0
+SSSTKN_91911	signal	1	29				
+SSSTKN_91911	outside	30	48				
+//
+# SSSTKN_67650 Length: 42
+# SSSTKN_67650 Number of predicted TMRs: 0
+SSSTKN_67650	inside	1	42				
+//
+# SSSTKN_68881 Length: 45
+# SSSTKN_68881 Number of predicted TMRs: 0
+SSSTKN_68881	inside	1	45				
+//
+# SSSTKN_125955 Length: 50
+# SSSTKN_125955 Number of predicted TMRs: 0
+SSSTKN_125955	signal	1	48				
+SSSTKN_125955	outside	49	50				
+//
+# SSSTKN_102079 Length: 46
+# SSSTKN_102079 Number of predicted TMRs: 0
+SSSTKN_102079	inside	1	46				
+//
+# SSSTKN_87025 Length: 39
+# SSSTKN_87025 Number of predicted TMRs: 0
+SSSTKN_87025	inside	1	39				
+//
+# SSSTKN_94919 Length: 40
+# SSSTKN_94919 Number of predicted TMRs: 0
+SSSTKN_94919	signal	1	32				
+SSSTKN_94919	outside	33	40				
+//
+# SSSTKN_134493 Length: 48
+# SSSTKN_134493 Number of predicted TMRs: 0
+SSSTKN_134493	signal	1	44				
+SSSTKN_134493	outside	45	48				
+//
+# SSSTKN_18783 Length: 43
+# SSSTKN_18783 Number of predicted TMRs: 0
+SSSTKN_18783	outside	1	43				
+//
+# SSSTKN_171415 Length: 39
+# SSSTKN_171415 Number of predicted TMRs: 0
+SSSTKN_171415	signal	1	26				
+SSSTKN_171415	outside	27	39				
+//
+# SSSTKN_6082 Length: 49
+# SSSTKN_6082 Number of predicted TMRs: 0
+SSSTKN_6082	signal	1	44				
+SSSTKN_6082	outside	45	49				
+//
+# SSSTKN_10169 Length: 40
+# SSSTKN_10169 Number of predicted TMRs: 0
+SSSTKN_10169	signal	1	34				
+SSSTKN_10169	outside	35	40				
+//
+# SSSTKN_142298 Length: 39
+# SSSTKN_142298 Number of predicted TMRs: 0
+SSSTKN_142298	inside	1	39				
+//
+# SSSTKN_99357 Length: 48
+# SSSTKN_99357 Number of predicted TMRs: 0
+SSSTKN_99357	inside	1	48				
+//
+# SSSTKN_124971 Length: 42
+# SSSTKN_124971 Number of predicted TMRs: 0
+SSSTKN_124971	inside	1	42				
+//
+# SSSTKN_43077 Length: 39
+# SSSTKN_43077 Number of predicted TMRs: 0
+SSSTKN_43077	inside	1	39				
+//
+# SSSTKN_144681 Length: 34
+# SSSTKN_144681 Number of predicted TMRs: 0
+SSSTKN_144681	signal	1	14				
+SSSTKN_144681	outside	15	34				
+//
+# SSSTKN_50610 Length: 37
+# SSSTKN_50610 Number of predicted TMRs: 0
+SSSTKN_50610	inside	1	37				
+//
+# SSSTKN_143570 Length: 44
+# SSSTKN_143570 Number of predicted TMRs: 0
+SSSTKN_143570	inside	1	44				
+//
+# SSSTKN_57561 Length: 48
+# SSSTKN_57561 Number of predicted TMRs: 0
+SSSTKN_57561	inside	1	48				
+//
+# SSSTKN_59828 Length: 48
+# SSSTKN_59828 Number of predicted TMRs: 0
+SSSTKN_59828	inside	1	48				
+//
+# SSSTKN_7788 Length: 49
+# SSSTKN_7788 Number of predicted TMRs: 0
+SSSTKN_7788	inside	1	49				
+//
+# SSSTKN_99658 Length: 45
+# SSSTKN_99658 Number of predicted TMRs: 0
+SSSTKN_99658	signal	1	15				
+SSSTKN_99658	outside	16	45				
+//
+# SSSTKN_136928 Length: 38
+# SSSTKN_136928 Number of predicted TMRs: 0
+SSSTKN_136928	signal	1	35				
+SSSTKN_136928	outside	36	38				
+//
+# SSSTKN_100850 Length: 46
+# SSSTKN_100850 Number of predicted TMRs: 0
+SSSTKN_100850	signal	1	43				
+SSSTKN_100850	outside	44	46				
+//
+# SSSTKN_153782 Length: 43
+# SSSTKN_153782 Number of predicted TMRs: 0
+SSSTKN_153782	inside	1	43				
+//
+# SSSTKN_142377 Length: 49
+# SSSTKN_142377 Number of predicted TMRs: 0
+SSSTKN_142377	inside	1	49				
+//
+# SSSTKN_40862 Length: 47
+# SSSTKN_40862 Number of predicted TMRs: 0
+SSSTKN_40862	signal	1	45				
+SSSTKN_40862	outside	46	47				
+//
+# SSSTKN_80220 Length: 42
+# SSSTKN_80220 Number of predicted TMRs: 0
+SSSTKN_80220	signal	1	34				
+SSSTKN_80220	outside	35	42				
+//
+# SSSTKN_156248 Length: 43
+# SSSTKN_156248 Number of predicted TMRs: 0
+SSSTKN_156248	signal	1	35				
+SSSTKN_156248	outside	36	43				
+//
+# SSSTKN_13429 Length: 49
+# SSSTKN_13429 Number of predicted TMRs: 0
+SSSTKN_13429	signal	1	40				
+SSSTKN_13429	outside	41	49				
+//
+# SSSTKN_20629 Length: 48
+# SSSTKN_20629 Number of predicted TMRs: 0
+SSSTKN_20629	inside	1	48				
+//
+# SSSTKN_128248 Length: 48
+# SSSTKN_128248 Number of predicted TMRs: 0
+SSSTKN_128248	inside	1	48				
+//
+# SSSTKN_18626 Length: 41
+# SSSTKN_18626 Number of predicted TMRs: 0
+SSSTKN_18626	inside	1	41				
+//
+# SSSTKN_58884 Length: 49
+# SSSTKN_58884 Number of predicted TMRs: 0
+SSSTKN_58884	inside	1	49				
+//
+# SSSTKN_94949 Length: 46
+# SSSTKN_94949 Number of predicted TMRs: 0
+SSSTKN_94949	inside	1	46				
+//
+# SSSTKN_89349 Length: 48
+# SSSTKN_89349 Number of predicted TMRs: 0
+SSSTKN_89349	signal	1	25				
+SSSTKN_89349	outside	26	48				
+//
+# SSSTKN_135020 Length: 46
+# SSSTKN_135020 Number of predicted TMRs: 0
+SSSTKN_135020	inside	1	46				
+//
+# SSSTKN_8569 Length: 37
+# SSSTKN_8569 Number of predicted TMRs: 0
+SSSTKN_8569	signal	1	35				
+SSSTKN_8569	outside	36	37				
+//
+# SSSTKN_99400 Length: 41
+# SSSTKN_99400 Number of predicted TMRs: 0
+SSSTKN_99400	inside	1	41				
+//
+# SSSTKN_39185 Length: 44
+# SSSTKN_39185 Number of predicted TMRs: 1
+SSSTKN_39185	inside	1	15				
+SSSTKN_39185	TMhelix	16	36				
+SSSTKN_39185	outside	37	44				
+//
+# SSSTKN_100929 Length: 49
+# SSSTKN_100929 Number of predicted TMRs: 0
+SSSTKN_100929	signal	1	37				
+SSSTKN_100929	outside	38	49				
+//
+# SSSTKN_737 Length: 45
+# SSSTKN_737 Number of predicted TMRs: 0
+SSSTKN_737	inside	1	45				
+//
+# SSSTKN_170060 Length: 45
+# SSSTKN_170060 Number of predicted TMRs: 0
+SSSTKN_170060	inside	1	45				
+//
+# SSSTKN_144359 Length: 46
+# SSSTKN_144359 Number of predicted TMRs: 0
+SSSTKN_144359	inside	1	46				
+//
+# SSSTKN_15989 Length: 31
+# SSSTKN_15989 Number of predicted TMRs: 0
+SSSTKN_15989	signal	1	19				
+SSSTKN_15989	outside	20	31				
+//
+# SSSTKN_29982 Length: 38
+# SSSTKN_29982 Number of predicted TMRs: 0
+SSSTKN_29982	inside	1	38				
+//
+# SSSTKN_99680 Length: 48
+# SSSTKN_99680 Number of predicted TMRs: 0
+SSSTKN_99680	inside	1	48				
+//
+# SSSTKN_108199 Length: 46
+# SSSTKN_108199 Number of predicted TMRs: 0
+SSSTKN_108199	inside	1	46				
+//
+# SSSTKN_7709 Length: 50
+# SSSTKN_7709 Number of predicted TMRs: 0
+SSSTKN_7709	inside	1	50				
+//
+# SSSTKN_24300 Length: 37
+# SSSTKN_24300 Number of predicted TMRs: 0
+SSSTKN_24300	inside	1	37				
+//
+# SSSTKN_126115 Length: 50
+# SSSTKN_126115 Number of predicted TMRs: 0
+SSSTKN_126115	signal	1	35				
+SSSTKN_126115	outside	36	50				
+//
+# SSSTKN_108693 Length: 47
+# SSSTKN_108693 Number of predicted TMRs: 0
+SSSTKN_108693	signal	1	45				
+SSSTKN_108693	outside	46	47				
+//
+# SSSTKN_145580 Length: 50
+# SSSTKN_145580 Number of predicted TMRs: 0
+SSSTKN_145580	inside	1	50				
+//
+# SSSTKN_9642 Length: 42
+# SSSTKN_9642 Number of predicted TMRs: 0
+SSSTKN_9642	inside	1	42				
+//
+# SSSTKN_73577 Length: 50
+# SSSTKN_73577 Number of predicted TMRs: 0
+SSSTKN_73577	inside	1	50				
+//
+# SSSTKN_169144 Length: 39
+# SSSTKN_169144 Number of predicted TMRs: 0
+SSSTKN_169144	inside	1	39				
+//
+# SSSTKN_136049 Length: 47
+# SSSTKN_136049 Number of predicted TMRs: 0
+SSSTKN_136049	outside	1	47				
+//
+# SSSTKN_158940 Length: 37
+# SSSTKN_158940 Number of predicted TMRs: 0
+SSSTKN_158940	inside	1	37				
+//
+# SSSTKN_71943 Length: 49
+# SSSTKN_71943 Number of predicted TMRs: 0
+SSSTKN_71943	inside	1	49				
+//
+# SSSTKN_93796 Length: 43
+# SSSTKN_93796 Number of predicted TMRs: 0
+SSSTKN_93796	signal	1	41				
+SSSTKN_93796	outside	42	43				
+//
+# SSSTKN_78414 Length: 33
+# SSSTKN_78414 Number of predicted TMRs: 0
+SSSTKN_78414	inside	1	33				
+//
+# SSSTKN_19004 Length: 42
+# SSSTKN_19004 Number of predicted TMRs: 0
+SSSTKN_19004	inside	1	42				
+//
+# SSSTKN_97014 Length: 47
+# SSSTKN_97014 Number of predicted TMRs: 0
+SSSTKN_97014	signal	1	46				
+SSSTKN_97014	outside	47	47				
+//
+# SSSTKN_4205 Length: 44
+# SSSTKN_4205 Number of predicted TMRs: 0
+SSSTKN_4205	inside	1	44				
+//
+# SSSTKN_68886 Length: 50
+# SSSTKN_68886 Number of predicted TMRs: 0
+SSSTKN_68886	inside	1	50				
+//
+# SSSTKN_30401 Length: 47
+# SSSTKN_30401 Number of predicted TMRs: 0
+SSSTKN_30401	signal	1	10				
+SSSTKN_30401	outside	11	47				
+//
+# SSSTKN_88390 Length: 47
+# SSSTKN_88390 Number of predicted TMRs: 0
+SSSTKN_88390	inside	1	47				
+//
+# SSSTKN_120285 Length: 37
+# SSSTKN_120285 Number of predicted TMRs: 0
+SSSTKN_120285	signal	1	25				
+SSSTKN_120285	outside	26	37				
+//
+# SSSTKN_69540 Length: 39
+# SSSTKN_69540 Number of predicted TMRs: 0
+SSSTKN_69540	signal	1	33				
+SSSTKN_69540	outside	34	39				
+//
+# SSSTKN_131342 Length: 44
+# SSSTKN_131342 Number of predicted TMRs: 0
+SSSTKN_131342	signal	1	10				
+SSSTKN_131342	outside	11	44				
+//
+# SSSTKN_66674 Length: 50
+# SSSTKN_66674 Number of predicted TMRs: 0
+SSSTKN_66674	inside	1	50				
+//
+# SSSTKN_149281 Length: 50
+# SSSTKN_149281 Number of predicted TMRs: 0
+SSSTKN_149281	inside	1	50				
+//
+# SSSTKN_141083 Length: 50
+# SSSTKN_141083 Number of predicted TMRs: 0
+SSSTKN_141083	inside	1	50				
+//
+# SSSTKN_134181 Length: 48
+# SSSTKN_134181 Number of predicted TMRs: 0
+SSSTKN_134181	inside	1	48				
+//
+# SSSTKN_120181 Length: 50
+# SSSTKN_120181 Number of predicted TMRs: 0
+SSSTKN_120181	inside	1	50				
+//
+# SSSTKN_144272 Length: 48
+# SSSTKN_144272 Number of predicted TMRs: 0
+SSSTKN_144272	inside	1	48				
+//
+# SSSTKN_145602 Length: 47
+# SSSTKN_145602 Number of predicted TMRs: 0
+SSSTKN_145602	signal	1	10				
+SSSTKN_145602	outside	11	47				
+//
+# SSSTKN_114460 Length: 43
+# SSSTKN_114460 Number of predicted TMRs: 0
+SSSTKN_114460	signal	1	28				
+SSSTKN_114460	outside	29	43				
+//
+# SSSTKN_69531 Length: 49
+# SSSTKN_69531 Number of predicted TMRs: 0
+SSSTKN_69531	signal	1	10				
+SSSTKN_69531	outside	11	49				
+//
+# SSSTKN_60048 Length: 47
+# SSSTKN_60048 Number of predicted TMRs: 0
+SSSTKN_60048	inside	1	47				
+//
+# SSSTKN_143443 Length: 48
+# SSSTKN_143443 Number of predicted TMRs: 0
+SSSTKN_143443	signal	1	46				
+SSSTKN_143443	outside	47	48				
+//
+# SSSTKN_123704 Length: 49
+# SSSTKN_123704 Number of predicted TMRs: 0
+SSSTKN_123704	inside	1	49				
+//
+# SSSTKN_154066 Length: 48
+# SSSTKN_154066 Number of predicted TMRs: 0
+SSSTKN_154066	signal	1	38				
+SSSTKN_154066	outside	39	48				
+//
+# SSSTKN_6860 Length: 48
+# SSSTKN_6860 Number of predicted TMRs: 0
+SSSTKN_6860	inside	1	48				
+//
+# SSSTKN_142194 Length: 36
+# SSSTKN_142194 Number of predicted TMRs: 0
+SSSTKN_142194	inside	1	36				
+//
+# SSSTKN_76492 Length: 47
+# SSSTKN_76492 Number of predicted TMRs: 0
+SSSTKN_76492	signal	1	46				
+SSSTKN_76492	outside	47	47				
+//
+# SSSTKN_134627 Length: 48
+# SSSTKN_134627 Number of predicted TMRs: 0
+SSSTKN_134627	inside	1	48				
+//
+# SSSTKN_10250 Length: 47
+# SSSTKN_10250 Number of predicted TMRs: 0
+SSSTKN_10250	signal	1	46				
+SSSTKN_10250	outside	47	47				
+//
+# SSSTKN_132744 Length: 50
+# SSSTKN_132744 Number of predicted TMRs: 0
+SSSTKN_132744	inside	1	50				
+//
+# SSSTKN_132848 Length: 50
+# SSSTKN_132848 Number of predicted TMRs: 0
+SSSTKN_132848	inside	1	50				
+//
+# SSSTKN_1963 Length: 45
+# SSSTKN_1963 Number of predicted TMRs: 0
+SSSTKN_1963	signal	1	39				
+SSSTKN_1963	outside	40	45				
+//
+# SSSTKN_166000 Length: 50
+# SSSTKN_166000 Number of predicted TMRs: 0
+SSSTKN_166000	inside	1	50				
+//
+# SSSTKN_113193 Length: 50
+# SSSTKN_113193 Number of predicted TMRs: 0
+SSSTKN_113193	inside	1	50				
+//
+# SSSTKN_82769 Length: 50
+# SSSTKN_82769 Number of predicted TMRs: 0
+SSSTKN_82769	inside	1	50				
+//
+# SSSTKN_11700 Length: 39
+# SSSTKN_11700 Number of predicted TMRs: 0
+SSSTKN_11700	signal	1	38				
+SSSTKN_11700	outside	39	39				
+//
+# SSSTKN_41635 Length: 43
+# SSSTKN_41635 Number of predicted TMRs: 0
+SSSTKN_41635	inside	1	43				
+//
+# SSSTKN_114720 Length: 44
+# SSSTKN_114720 Number of predicted TMRs: 0
+SSSTKN_114720	inside	1	44				
+//
+# SSSTKN_9622 Length: 50
+# SSSTKN_9622 Number of predicted TMRs: 0
+SSSTKN_9622	signal	1	10				
+SSSTKN_9622	outside	11	50				
+//
+# SSSTKN_163220 Length: 47
+# SSSTKN_163220 Number of predicted TMRs: 0
+SSSTKN_163220	inside	1	47				
+//
+# SSSTKN_47863 Length: 50
+# SSSTKN_47863 Number of predicted TMRs: 0
+SSSTKN_47863	inside	1	50				
+//
+# SSSTKN_138472 Length: 43
+# SSSTKN_138472 Number of predicted TMRs: 0
+SSSTKN_138472	outside	1	43				
+//
+# SSSTKN_95917 Length: 41
+# SSSTKN_95917 Number of predicted TMRs: 0
+SSSTKN_95917	inside	1	41				
+//
+# SSSTKN_168075 Length: 46
+# SSSTKN_168075 Number of predicted TMRs: 0
+SSSTKN_168075	signal	1	35				
+SSSTKN_168075	outside	36	46				
+//
+# SSSTKN_7230 Length: 48
+# SSSTKN_7230 Number of predicted TMRs: 0
+SSSTKN_7230	inside	1	48				
+//
+# SSSTKN_168496 Length: 41
+# SSSTKN_168496 Number of predicted TMRs: 0
+SSSTKN_168496	inside	1	41				
+//
+# SSSTKN_75565 Length: 44
+# SSSTKN_75565 Number of predicted TMRs: 0
+SSSTKN_75565	inside	1	44				
+//
+# SSSTKN_4560 Length: 41
+# SSSTKN_4560 Number of predicted TMRs: 0
+SSSTKN_4560	inside	1	41				
+//
+# SSSTKN_102066 Length: 48
+# SSSTKN_102066 Number of predicted TMRs: 0
+SSSTKN_102066	inside	1	48				
+//
+# SSSTKN_23011 Length: 46
+# SSSTKN_23011 Number of predicted TMRs: 0
+SSSTKN_23011	inside	1	46				
+//
+# SSSTKN_166068 Length: 43
+# SSSTKN_166068 Number of predicted TMRs: 0
+SSSTKN_166068	inside	1	43				
+//
+# SSSTKN_139327 Length: 43
+# SSSTKN_139327 Number of predicted TMRs: 0
+SSSTKN_139327	signal	1	22				
+SSSTKN_139327	outside	23	43				
+//
+# SSSTKN_147016 Length: 45
+# SSSTKN_147016 Number of predicted TMRs: 0
+SSSTKN_147016	inside	1	45				
+//
+# SSSTKN_31297 Length: 43
+# SSSTKN_31297 Number of predicted TMRs: 0
+SSSTKN_31297	outside	1	43				
+//
+# SSSTKN_98372 Length: 49
+# SSSTKN_98372 Number of predicted TMRs: 0
+SSSTKN_98372	signal	1	10				
+SSSTKN_98372	outside	11	49				
+//
+# SSSTKN_166014 Length: 47
+# SSSTKN_166014 Number of predicted TMRs: 0
+SSSTKN_166014	signal	1	45				
+SSSTKN_166014	outside	46	47				
+//
+# SSSTKN_6820 Length: 44
+# SSSTKN_6820 Number of predicted TMRs: 0
+SSSTKN_6820	inside	1	44				
+//
+# SSSTKN_132060 Length: 50
+# SSSTKN_132060 Number of predicted TMRs: 0
+SSSTKN_132060	inside	1	50				
+//
+# SSSTKN_100093 Length: 46
+# SSSTKN_100093 Number of predicted TMRs: 0
+SSSTKN_100093	inside	1	46				
+//
+# SSSTKN_93767 Length: 50
+# SSSTKN_93767 Number of predicted TMRs: 0
+SSSTKN_93767	inside	1	50				
+//
+# SSSTKN_74520 Length: 47
+# SSSTKN_74520 Number of predicted TMRs: 0
+SSSTKN_74520	inside	1	47				
+//
+# SSSTKN_127099 Length: 35
+# SSSTKN_127099 Number of predicted TMRs: 0
+SSSTKN_127099	signal	1	34				
+SSSTKN_127099	outside	35	35				
+//
+# SSSTKN_57006 Length: 45
+# SSSTKN_57006 Number of predicted TMRs: 0
+SSSTKN_57006	signal	1	44				
+SSSTKN_57006	outside	45	45				
+//
+# SSSTKN_38329 Length: 33
+# SSSTKN_38329 Number of predicted TMRs: 0
+SSSTKN_38329	inside	1	33				
+//
+# SSSTKN_147252 Length: 47
+# SSSTKN_147252 Number of predicted TMRs: 0
+SSSTKN_147252	signal	1	10				
+SSSTKN_147252	outside	11	47				
+//
+# SSSTKN_126158 Length: 48
+# SSSTKN_126158 Number of predicted TMRs: 0
+SSSTKN_126158	inside	1	48				
+//
+# SSSTKN_152619 Length: 42
+# SSSTKN_152619 Number of predicted TMRs: 0
+SSSTKN_152619	inside	1	42				
+//
+# SSSTKN_149142 Length: 47
+# SSSTKN_149142 Number of predicted TMRs: 0
+SSSTKN_149142	inside	1	47				
+//
+# SSSTKN_65308 Length: 48
+# SSSTKN_65308 Number of predicted TMRs: 0
+SSSTKN_65308	inside	1	48				
+//
+# SSSTKN_86617 Length: 45
+# SSSTKN_86617 Number of predicted TMRs: 0
+SSSTKN_86617	signal	1	40				
+SSSTKN_86617	outside	41	45				
+//
+# SSSTKN_26345 Length: 40
+# SSSTKN_26345 Number of predicted TMRs: 0
+SSSTKN_26345	inside	1	40				
+//
+# SSSTKN_18308 Length: 37
+# SSSTKN_18308 Number of predicted TMRs: 0
+SSSTKN_18308	signal	1	24				
+SSSTKN_18308	outside	25	37				
+//
+# SSSTKN_51583 Length: 30
+# SSSTKN_51583 Number of predicted TMRs: 0
+SSSTKN_51583	signal	1	29				
+SSSTKN_51583	outside	30	30				
+//
+# SSSTKN_26942 Length: 42
+# SSSTKN_26942 Number of predicted TMRs: 0
+SSSTKN_26942	signal	1	10				
+SSSTKN_26942	outside	11	42				
+//
+# SSSTKN_151367 Length: 48
+# SSSTKN_151367 Number of predicted TMRs: 0
+SSSTKN_151367	inside	1	48				
+//
+# SSSTKN_19208 Length: 48
+# SSSTKN_19208 Number of predicted TMRs: 0
+SSSTKN_19208	signal	1	38				
+SSSTKN_19208	outside	39	48				
+//
+# SSSTKN_49463 Length: 40
+# SSSTKN_49463 Number of predicted TMRs: 0
+SSSTKN_49463	signal	1	18				
+SSSTKN_49463	outside	19	40				
+//
+# SSSTKN_11624 Length: 40
+# SSSTKN_11624 Number of predicted TMRs: 0
+SSSTKN_11624	signal	1	30				
+SSSTKN_11624	outside	31	40				
+//
+# SSSTKN_123060 Length: 43
+# SSSTKN_123060 Number of predicted TMRs: 0
+SSSTKN_123060	inside	1	43				
+//
+# SSSTKN_142393 Length: 48
+# SSSTKN_142393 Number of predicted TMRs: 0
+SSSTKN_142393	inside	1	48				
+//
+# SSSTKN_95152 Length: 46
+# SSSTKN_95152 Number of predicted TMRs: 0
+SSSTKN_95152	signal	1	45				
+SSSTKN_95152	outside	46	46				
+//
+# SSSTKN_137113 Length: 41
+# SSSTKN_137113 Number of predicted TMRs: 0
+SSSTKN_137113	signal	1	10				
+SSSTKN_137113	outside	11	41				
+//
+# SSSTKN_165660 Length: 40
+# SSSTKN_165660 Number of predicted TMRs: 0
+SSSTKN_165660	inside	1	40				
+//
+# SSSTKN_52562 Length: 43
+# SSSTKN_52562 Number of predicted TMRs: 0
+SSSTKN_52562	inside	1	43				
+//
+# SSSTKN_75061 Length: 38
+# SSSTKN_75061 Number of predicted TMRs: 0
+SSSTKN_75061	inside	1	38				
+//
+# SSSTKN_87315 Length: 42
+# SSSTKN_87315 Number of predicted TMRs: 0
+SSSTKN_87315	signal	1	12				
+SSSTKN_87315	outside	13	42				
+//
+# SSSTKN_93631 Length: 50
+# SSSTKN_93631 Number of predicted TMRs: 0
+SSSTKN_93631	inside	1	50				
+//
+# SSSTKN_86123 Length: 47
+# SSSTKN_86123 Number of predicted TMRs: 0
+SSSTKN_86123	signal	1	40				
+SSSTKN_86123	outside	41	47				
+//
+# SSSTKN_102295 Length: 50
+# SSSTKN_102295 Number of predicted TMRs: 0
+SSSTKN_102295	signal	1	21				
+SSSTKN_102295	outside	22	50				
+//
+# SSSTKN_78463 Length: 45
+# SSSTKN_78463 Number of predicted TMRs: 0
+SSSTKN_78463	inside	1	45				
+//
+# SSSTKN_83218 Length: 42
+# SSSTKN_83218 Number of predicted TMRs: 0
+SSSTKN_83218	inside	1	42				
+//
+# SSSTKN_149812 Length: 45
+# SSSTKN_149812 Number of predicted TMRs: 0
+SSSTKN_149812	outside	1	45				
+//
+# SSSTKN_11082 Length: 43
+# SSSTKN_11082 Number of predicted TMRs: 0
+SSSTKN_11082	signal	1	19				
+SSSTKN_11082	outside	20	43				
+//
+# SSSTKN_75934 Length: 50
+# SSSTKN_75934 Number of predicted TMRs: 0
+SSSTKN_75934	inside	1	50				
+//
+# SSSTKN_67223 Length: 48
+# SSSTKN_67223 Number of predicted TMRs: 0
+SSSTKN_67223	inside	1	48				
+//
+# SSSTKN_169347 Length: 46
+# SSSTKN_169347 Number of predicted TMRs: 0
+SSSTKN_169347	inside	1	46				
+//
+# SSSTKN_162815 Length: 50
+# SSSTKN_162815 Number of predicted TMRs: 0
+SSSTKN_162815	inside	1	50				
+//
+# SSSTKN_3392 Length: 47
+# SSSTKN_3392 Number of predicted TMRs: 0
+SSSTKN_3392	inside	1	47				
+//
+# SSSTKN_87658 Length: 43
+# SSSTKN_87658 Number of predicted TMRs: 0
+SSSTKN_87658	inside	1	43				
+//
+# SSSTKN_110538 Length: 46
+# SSSTKN_110538 Number of predicted TMRs: 0
+SSSTKN_110538	signal	1	44				
+SSSTKN_110538	outside	45	46				
+//
+# SSSTKN_4768 Length: 43
+# SSSTKN_4768 Number of predicted TMRs: 0
+SSSTKN_4768	inside	1	43				
+//
+# SSSTKN_169993 Length: 49
+# SSSTKN_169993 Number of predicted TMRs: 0
+SSSTKN_169993	signal	1	29				
+SSSTKN_169993	outside	30	49				
+//
+# SSSTKN_165968 Length: 37
+# SSSTKN_165968 Number of predicted TMRs: 0
+SSSTKN_165968	signal	1	35				
+SSSTKN_165968	outside	36	37				
+//
+# SSSTKN_16370 Length: 50
+# SSSTKN_16370 Number of predicted TMRs: 0
+SSSTKN_16370	inside	1	50				
+//
+# SSSTKN_90142 Length: 40
+# SSSTKN_90142 Number of predicted TMRs: 0
+SSSTKN_90142	inside	1	40				
+//
+# SSSTKN_128899 Length: 46
+# SSSTKN_128899 Number of predicted TMRs: 0
+SSSTKN_128899	inside	1	46				
+//
+# SSSTKN_125397 Length: 49
+# SSSTKN_125397 Number of predicted TMRs: 0
+SSSTKN_125397	inside	1	49				
+//
+# SSSTKN_118570 Length: 50
+# SSSTKN_118570 Number of predicted TMRs: 0
+SSSTKN_118570	inside	1	50				
+//
+# SSSTKN_44078 Length: 47
+# SSSTKN_44078 Number of predicted TMRs: 0
+SSSTKN_44078	inside	1	47				
+//
+# SSSTKN_73443 Length: 38
+# SSSTKN_73443 Number of predicted TMRs: 0
+SSSTKN_73443	signal	1	37				
+SSSTKN_73443	outside	38	38				
+//
+# SSSTKN_45147 Length: 45
+# SSSTKN_45147 Number of predicted TMRs: 0
+SSSTKN_45147	inside	1	45				
+//
+# SSSTKN_57795 Length: 50
+# SSSTKN_57795 Number of predicted TMRs: 0
+SSSTKN_57795	inside	1	50				
+//
+# SSSTKN_57758 Length: 46
+# SSSTKN_57758 Number of predicted TMRs: 0
+SSSTKN_57758	inside	1	46				
+//
+# SSSTKN_14122 Length: 46
+# SSSTKN_14122 Number of predicted TMRs: 0
+SSSTKN_14122	inside	1	46				
+//
+# SSSTKN_115848 Length: 44
+# SSSTKN_115848 Number of predicted TMRs: 0
+SSSTKN_115848	inside	1	44				
+//
+# SSSTKN_38921 Length: 49
+# SSSTKN_38921 Number of predicted TMRs: 0
+SSSTKN_38921	inside	1	49				
+//
+# SSSTKN_167097 Length: 45
+# SSSTKN_167097 Number of predicted TMRs: 0
+SSSTKN_167097	inside	1	45				
+//
+# SSSTKN_117752 Length: 44
+# SSSTKN_117752 Number of predicted TMRs: 0
+SSSTKN_117752	inside	1	44				
+//
+# SSSTKN_147316 Length: 48
+# SSSTKN_147316 Number of predicted TMRs: 0
+SSSTKN_147316	outside	1	48				
+//
+# SSSTKN_98595 Length: 36
+# SSSTKN_98595 Number of predicted TMRs: 0
+SSSTKN_98595	inside	1	36				
+//
+# SSSTKN_97386 Length: 37
+# SSSTKN_97386 Number of predicted TMRs: 0
+SSSTKN_97386	inside	1	37				
+//
+# SSSTKN_43744 Length: 47
+# SSSTKN_43744 Number of predicted TMRs: 0
+SSSTKN_43744	inside	1	47				
+//
+# SSSTKN_172341 Length: 49
+# SSSTKN_172341 Number of predicted TMRs: 0
+SSSTKN_172341	inside	1	49				
+//
+# SSSTKN_114514 Length: 40
+# SSSTKN_114514 Number of predicted TMRs: 0
+SSSTKN_114514	signal	1	39				
+SSSTKN_114514	outside	40	40				
+//
+# SSSTKN_34637 Length: 47
+# SSSTKN_34637 Number of predicted TMRs: 0
+SSSTKN_34637	inside	1	47				
+//
+# SSSTKN_89898 Length: 35
+# SSSTKN_89898 Number of predicted TMRs: 0
+SSSTKN_89898	inside	1	35				
+//
+# SSSTKN_57630 Length: 43
+# SSSTKN_57630 Number of predicted TMRs: 0
+SSSTKN_57630	inside	1	43				
+//
+# SSSTKN_97008 Length: 50
+# SSSTKN_97008 Number of predicted TMRs: 0
+SSSTKN_97008	inside	1	50				
+//
+# SSSTKN_101576 Length: 48
+# SSSTKN_101576 Number of predicted TMRs: 0
+SSSTKN_101576	inside	1	48				
+//
+# SSSTKN_114865 Length: 50
+# SSSTKN_114865 Number of predicted TMRs: 0
+SSSTKN_114865	inside	1	50				
+//
+# SSSTKN_79643 Length: 48
+# SSSTKN_79643 Number of predicted TMRs: 0
+SSSTKN_79643	inside	1	48				
+//
+# SSSTKN_149910 Length: 47
+# SSSTKN_149910 Number of predicted TMRs: 0
+SSSTKN_149910	inside	1	47				
+//
+# SSSTKN_152826 Length: 46
+# SSSTKN_152826 Number of predicted TMRs: 0
+SSSTKN_152826	inside	1	46				
+//
+# SSSTKN_35318 Length: 45
+# SSSTKN_35318 Number of predicted TMRs: 0
+SSSTKN_35318	inside	1	45				
+//
+# SSSTKN_48834 Length: 48
+# SSSTKN_48834 Number of predicted TMRs: 0
+SSSTKN_48834	inside	1	48				
+//
+# SSSTKN_7311 Length: 47
+# SSSTKN_7311 Number of predicted TMRs: 0
+SSSTKN_7311	inside	1	47				
+//
+# SSSTKN_152171 Length: 46
+# SSSTKN_152171 Number of predicted TMRs: 0
+SSSTKN_152171	signal	1	45				
+SSSTKN_152171	outside	46	46				
+//
+# SSSTKN_154836 Length: 50
+# SSSTKN_154836 Number of predicted TMRs: 0
+SSSTKN_154836	inside	1	50				
+//
+# SSSTKN_84790 Length: 37
+# SSSTKN_84790 Number of predicted TMRs: 0
+SSSTKN_84790	signal	1	34				
+SSSTKN_84790	outside	35	37				
+//
+# SSSTKN_86825 Length: 42
+# SSSTKN_86825 Number of predicted TMRs: 0
+SSSTKN_86825	inside	1	42				
+//
+# SSSTKN_50812 Length: 35
+# SSSTKN_50812 Number of predicted TMRs: 0
+SSSTKN_50812	signal	1	17				
+SSSTKN_50812	outside	18	35				
+//
+# SSSTKN_89762 Length: 33
+# SSSTKN_89762 Number of predicted TMRs: 0
+SSSTKN_89762	inside	1	33				
+//
+# SSSTKN_17040 Length: 50
+# SSSTKN_17040 Number of predicted TMRs: 0
+SSSTKN_17040	inside	1	50				
+//
+# SSSTKN_153788 Length: 49
+# SSSTKN_153788 Number of predicted TMRs: 0
+SSSTKN_153788	inside	1	49				
+//
+# SSSTKN_43350 Length: 39
+# SSSTKN_43350 Number of predicted TMRs: 0
+SSSTKN_43350	inside	1	39				
+//
+# SSSTKN_62746 Length: 50
+# SSSTKN_62746 Number of predicted TMRs: 0
+SSSTKN_62746	inside	1	50				
+//
+# SSSTKN_112280 Length: 50
+# SSSTKN_112280 Number of predicted TMRs: 0
+SSSTKN_112280	inside	1	50				
+//
+# SSSTKN_22029 Length: 41
+# SSSTKN_22029 Number of predicted TMRs: 0
+SSSTKN_22029	inside	1	41				
+//
+# SSSTKN_63573 Length: 41
+# SSSTKN_63573 Number of predicted TMRs: 0
+SSSTKN_63573	signal	1	40				
+SSSTKN_63573	outside	41	41				
+//
+# SSSTKN_104405 Length: 50
+# SSSTKN_104405 Number of predicted TMRs: 0
+SSSTKN_104405	signal	1	38				
+SSSTKN_104405	outside	39	50				
+//
+# SSSTKN_131290 Length: 31
+# SSSTKN_131290 Number of predicted TMRs: 0
+SSSTKN_131290	inside	1	31				
+//
+# SSSTKN_133004 Length: 49
+# SSSTKN_133004 Number of predicted TMRs: 0
+SSSTKN_133004	inside	1	49				
+//
+# SSSTKN_84765 Length: 42
+# SSSTKN_84765 Number of predicted TMRs: 0
+SSSTKN_84765	signal	1	38				
+SSSTKN_84765	outside	39	42				
+//
+# SSSTKN_84770 Length: 50
+# SSSTKN_84770 Number of predicted TMRs: 0
+SSSTKN_84770	signal	1	12				
+SSSTKN_84770	outside	13	50				
+//
+# SSSTKN_118383 Length: 44
+# SSSTKN_118383 Number of predicted TMRs: 0
+SSSTKN_118383	inside	1	44				
+//
+# SSSTKN_65683 Length: 48
+# SSSTKN_65683 Number of predicted TMRs: 0
+SSSTKN_65683	inside	1	48				
+//
+# SSSTKN_84289 Length: 43
+# SSSTKN_84289 Number of predicted TMRs: 0
+SSSTKN_84289	inside	1	43				
+//
+# SSSTKN_47558 Length: 48
+# SSSTKN_47558 Number of predicted TMRs: 0
+SSSTKN_47558	inside	1	48				
+//
+# SSSTKN_27077 Length: 47
+# SSSTKN_27077 Number of predicted TMRs: 0
+SSSTKN_27077	signal	1	41				
+SSSTKN_27077	outside	42	47				
+//
+# SSSTKN_106821 Length: 48
+# SSSTKN_106821 Number of predicted TMRs: 0
+SSSTKN_106821	inside	1	48				
+//
+# SSSTKN_124271 Length: 50
+# SSSTKN_124271 Number of predicted TMRs: 0
+SSSTKN_124271	inside	1	50				
+//
+# SSSTKN_124637 Length: 50
+# SSSTKN_124637 Number of predicted TMRs: 0
+SSSTKN_124637	inside	1	50				
+//
+# SSSTKN_60381 Length: 33
+# SSSTKN_60381 Number of predicted TMRs: 0
+SSSTKN_60381	signal	1	25				
+SSSTKN_60381	outside	26	33				
+//
+# SSSTKN_95849 Length: 34
+# SSSTKN_95849 Number of predicted TMRs: 0
+SSSTKN_95849	signal	1	30				
+SSSTKN_95849	outside	31	34				
+//
+# SSSTKN_34528 Length: 45
+# SSSTKN_34528 Number of predicted TMRs: 0
+SSSTKN_34528	inside	1	45				
+//
+# SSSTKN_66192 Length: 33
+# SSSTKN_66192 Number of predicted TMRs: 0
+SSSTKN_66192	signal	1	14				
+SSSTKN_66192	outside	15	33				
+//
+# SSSTKN_132888 Length: 39
+# SSSTKN_132888 Number of predicted TMRs: 0
+SSSTKN_132888	signal	1	38				
+SSSTKN_132888	outside	39	39				
+//
+# SSSTKN_29783 Length: 36
+# SSSTKN_29783 Number of predicted TMRs: 0
+SSSTKN_29783	inside	1	36				
+//
+# SSSTKN_141267 Length: 48
+# SSSTKN_141267 Number of predicted TMRs: 0
+SSSTKN_141267	inside	1	48				
+//
+# SSSTKN_141263 Length: 48
+# SSSTKN_141263 Number of predicted TMRs: 0
+SSSTKN_141263	inside	1	48				
+//
+# SSSTKN_102444 Length: 49
+# SSSTKN_102444 Number of predicted TMRs: 0
+SSSTKN_102444	inside	1	49				
+//
+# SSSTKN_26941 Length: 48
+# SSSTKN_26941 Number of predicted TMRs: 0
+SSSTKN_26941	inside	1	48				
+//
+# SSSTKN_126543 Length: 49
+# SSSTKN_126543 Number of predicted TMRs: 0
+SSSTKN_126543	inside	1	49				
+//
+# SSSTKN_28282 Length: 50
+# SSSTKN_28282 Number of predicted TMRs: 0
+SSSTKN_28282	inside	1	50				
+//
+# SSSTKN_96745 Length: 48
+# SSSTKN_96745 Number of predicted TMRs: 0
+SSSTKN_96745	inside	1	48				
+//
+# SSSTKN_84568 Length: 41
+# SSSTKN_84568 Number of predicted TMRs: 0
+SSSTKN_84568	inside	1	41				
+//
+# SSSTKN_133062 Length: 45
+# SSSTKN_133062 Number of predicted TMRs: 0
+SSSTKN_133062	signal	1	16				
+SSSTKN_133062	outside	17	45				
+//
+# SSSTKN_102543 Length: 48
+# SSSTKN_102543 Number of predicted TMRs: 0
+SSSTKN_102543	inside	1	48				
+//
+# SSSTKN_74930 Length: 45
+# SSSTKN_74930 Number of predicted TMRs: 0
+SSSTKN_74930	inside	1	45				
+//
+# SSSTKN_40766 Length: 34
+# SSSTKN_40766 Number of predicted TMRs: 0
+SSSTKN_40766	signal	1	30				
+SSSTKN_40766	outside	31	34				
+//
+# SSSTKN_9210 Length: 46
+# SSSTKN_9210 Number of predicted TMRs: 0
+SSSTKN_9210	inside	1	46				
+//
+# SSSTKN_19311 Length: 46
+# SSSTKN_19311 Number of predicted TMRs: 0
+SSSTKN_19311	inside	1	46				
+//
+# SSSTKN_73827 Length: 41
+# SSSTKN_73827 Number of predicted TMRs: 0
+SSSTKN_73827	inside	1	41				
+//
+# SSSTKN_117631 Length: 42
+# SSSTKN_117631 Number of predicted TMRs: 0
+SSSTKN_117631	inside	1	42				
+//
+# SSSTKN_67802 Length: 42
+# SSSTKN_67802 Number of predicted TMRs: 0
+SSSTKN_67802	signal	1	10				
+SSSTKN_67802	outside	11	42				
+//
+# SSSTKN_2601 Length: 47
+# SSSTKN_2601 Number of predicted TMRs: 0
+SSSTKN_2601	inside	1	47				
+//
+# SSSTKN_94154 Length: 43
+# SSSTKN_94154 Number of predicted TMRs: 0
+SSSTKN_94154	signal	1	19				
+SSSTKN_94154	outside	20	43				
+//
+# SSSTKN_130478 Length: 50
+# SSSTKN_130478 Number of predicted TMRs: 0
+SSSTKN_130478	inside	1	50				
+//
+# SSSTKN_13362 Length: 46
+# SSSTKN_13362 Number of predicted TMRs: 0
+SSSTKN_13362	inside	1	46				
+//
+# SSSTKN_101029 Length: 48
+# SSSTKN_101029 Number of predicted TMRs: 0
+SSSTKN_101029	outside	1	48				
+//
+# SSSTKN_114281 Length: 43
+# SSSTKN_114281 Number of predicted TMRs: 0
+SSSTKN_114281	signal	1	42				
+SSSTKN_114281	outside	43	43				
+//
+# SSSTKN_124854 Length: 50
+# SSSTKN_124854 Number of predicted TMRs: 0
+SSSTKN_124854	inside	1	50				
+//
+# SSSTKN_36722 Length: 43
+# SSSTKN_36722 Number of predicted TMRs: 0
+SSSTKN_36722	inside	1	43				
+//
+# SSSTKN_19073 Length: 49
+# SSSTKN_19073 Number of predicted TMRs: 0
+SSSTKN_19073	inside	1	49				
+//
+# SSSTKN_9825 Length: 45
+# SSSTKN_9825 Number of predicted TMRs: 0
+SSSTKN_9825	inside	1	45				
+//
+# SSSTKN_25441 Length: 49
+# SSSTKN_25441 Number of predicted TMRs: 0
+SSSTKN_25441	inside	1	49				
+//
+# SSSTKN_165202 Length: 44
+# SSSTKN_165202 Number of predicted TMRs: 0
+SSSTKN_165202	inside	1	44				
+//
+# SSSTKN_130145 Length: 42
+# SSSTKN_130145 Number of predicted TMRs: 0
+SSSTKN_130145	signal	1	11				
+SSSTKN_130145	outside	12	42				
+//
+# SSSTKN_141312 Length: 48
+# SSSTKN_141312 Number of predicted TMRs: 0
+SSSTKN_141312	inside	1	48				
+//
+# SSSTKN_50778 Length: 50
+# SSSTKN_50778 Number of predicted TMRs: 0
+SSSTKN_50778	inside	1	50				
+//
+# SSSTKN_114869 Length: 48
+# SSSTKN_114869 Number of predicted TMRs: 0
+SSSTKN_114869	inside	1	48				
+//
+# SSSTKN_169543 Length: 50
+# SSSTKN_169543 Number of predicted TMRs: 0
+SSSTKN_169543	inside	1	50				
+//
+# SSSTKN_7319 Length: 49
+# SSSTKN_7319 Number of predicted TMRs: 0
+SSSTKN_7319	signal	1	32				
+SSSTKN_7319	outside	33	49				
+//
+# SSSTKN_35210 Length: 49
+# SSSTKN_35210 Number of predicted TMRs: 0
+SSSTKN_35210	signal	1	47				
+SSSTKN_35210	outside	48	49				
+//
+# SSSTKN_6421 Length: 48
+# SSSTKN_6421 Number of predicted TMRs: 0
+SSSTKN_6421	inside	1	48				
+//
+# SSSTKN_90828 Length: 45
+# SSSTKN_90828 Number of predicted TMRs: 0
+SSSTKN_90828	signal	1	40				
+SSSTKN_90828	outside	41	45				
+//
+# SSSTKN_65186 Length: 26
+# SSSTKN_65186 Number of predicted TMRs: 0
+SSSTKN_65186	inside	1	26				
+//
+# SSSTKN_96421 Length: 27
+# SSSTKN_96421 Number of predicted TMRs: 0
+SSSTKN_96421	inside	1	27				
+//
+# SSSTKN_149909 Length: 47
+# SSSTKN_149909 Number of predicted TMRs: 0
+SSSTKN_149909	inside	1	47				
+//
+# SSSTKN_120132 Length: 45
+# SSSTKN_120132 Number of predicted TMRs: 0
+SSSTKN_120132	signal	1	16				
+SSSTKN_120132	outside	17	45				
+//
+# SSSTKN_136317 Length: 49
+# SSSTKN_136317 Number of predicted TMRs: 0
+SSSTKN_136317	inside	1	49				
+//
+# SSSTKN_131700 Length: 40
+# SSSTKN_131700 Number of predicted TMRs: 0
+SSSTKN_131700	signal	1	39				
+SSSTKN_131700	outside	40	40				
+//
+# SSSTKN_60479 Length: 46
+# SSSTKN_60479 Number of predicted TMRs: 0
+SSSTKN_60479	inside	1	46				
+//
+# SSSTKN_36648 Length: 47
+# SSSTKN_36648 Number of predicted TMRs: 0
+SSSTKN_36648	inside	1	47				
+//
+# SSSTKN_127615 Length: 41
+# SSSTKN_127615 Number of predicted TMRs: 0
+SSSTKN_127615	signal	1	15				
+SSSTKN_127615	outside	16	41				
+//
+# SSSTKN_133951 Length: 39
+# SSSTKN_133951 Number of predicted TMRs: 0
+SSSTKN_133951	inside	1	39				
+//
+# SSSTKN_119840 Length: 43
+# SSSTKN_119840 Number of predicted TMRs: 0
+SSSTKN_119840	signal	1	18				
+SSSTKN_119840	outside	19	43				
+//
+# SSSTKN_11035 Length: 50
+# SSSTKN_11035 Number of predicted TMRs: 0
+SSSTKN_11035	inside	1	50				
+//
+# SSSTKN_20540 Length: 49
+# SSSTKN_20540 Number of predicted TMRs: 0
+SSSTKN_20540	inside	1	49				
+//
+# SSSTKN_128678 Length: 50
+# SSSTKN_128678 Number of predicted TMRs: 0
+SSSTKN_128678	inside	1	50				
+//
+# SSSTKN_10829 Length: 47
+# SSSTKN_10829 Number of predicted TMRs: 0
+SSSTKN_10829	inside	1	47				
+//
+# SSSTKN_7576 Length: 34
+# SSSTKN_7576 Number of predicted TMRs: 0
+SSSTKN_7576	outside	1	34				
+//
+# SSSTKN_52299 Length: 50
+# SSSTKN_52299 Number of predicted TMRs: 0
+SSSTKN_52299	inside	1	50				
+//
+# SSSTKN_89622 Length: 48
+# SSSTKN_89622 Number of predicted TMRs: 0
+SSSTKN_89622	signal	1	24				
+SSSTKN_89622	outside	25	48				
+//
+# SSSTKN_21156 Length: 48
+# SSSTKN_21156 Number of predicted TMRs: 0
+SSSTKN_21156	inside	1	48				
+//
+# SSSTKN_114939 Length: 45
+# SSSTKN_114939 Number of predicted TMRs: 0
+SSSTKN_114939	inside	1	45				
+//
+# SSSTKN_107021 Length: 46
+# SSSTKN_107021 Number of predicted TMRs: 0
+SSSTKN_107021	inside	1	46				
+//
+# SSSTKN_172413 Length: 49
+# SSSTKN_172413 Number of predicted TMRs: 0
+SSSTKN_172413	outside	1	49				
+//
+# SSSTKN_143333 Length: 44
+# SSSTKN_143333 Number of predicted TMRs: 0
+SSSTKN_143333	inside	1	44				
+//
+# SSSTKN_3557 Length: 46
+# SSSTKN_3557 Number of predicted TMRs: 0
+SSSTKN_3557	inside	1	46				
+//
+# SSSTKN_166832 Length: 43
+# SSSTKN_166832 Number of predicted TMRs: 0
+SSSTKN_166832	signal	1	14				
+SSSTKN_166832	outside	15	43				
+//
+# SSSTKN_47389 Length: 31
+# SSSTKN_47389 Number of predicted TMRs: 0
+SSSTKN_47389	signal	1	30				
+SSSTKN_47389	outside	31	31				
+//
+# SSSTKN_118184 Length: 45
+# SSSTKN_118184 Number of predicted TMRs: 0
+SSSTKN_118184	inside	1	45				
+//
+# SSSTKN_170696 Length: 39
+# SSSTKN_170696 Number of predicted TMRs: 0
+SSSTKN_170696	signal	1	37				
+SSSTKN_170696	outside	38	39				
+//
+# SSSTKN_140290 Length: 45
+# SSSTKN_140290 Number of predicted TMRs: 0
+SSSTKN_140290	inside	1	45				
+//
+# SSSTKN_121495 Length: 49
+# SSSTKN_121495 Number of predicted TMRs: 0
+SSSTKN_121495	signal	1	47				
+SSSTKN_121495	outside	48	49				
+//
+# SSSTKN_12448 Length: 49
+# SSSTKN_12448 Number of predicted TMRs: 0
+SSSTKN_12448	inside	1	49				
+//
+# SSSTKN_90648 Length: 44
+# SSSTKN_90648 Number of predicted TMRs: 0
+SSSTKN_90648	signal	1	10				
+SSSTKN_90648	outside	11	44				
+//
+# SSSTKN_90304 Length: 42
+# SSSTKN_90304 Number of predicted TMRs: 0
+SSSTKN_90304	inside	1	42				
+//
+# SSSTKN_8969 Length: 49
+# SSSTKN_8969 Number of predicted TMRs: 0
+SSSTKN_8969	inside	1	49				
+//
+# SSSTKN_124642 Length: 45
+# SSSTKN_124642 Number of predicted TMRs: 0
+SSSTKN_124642	inside	1	45				
+//
+# SSSTKN_86530 Length: 50
+# SSSTKN_86530 Number of predicted TMRs: 0
+SSSTKN_86530	inside	1	50				
+//
+# SSSTKN_101333 Length: 40
+# SSSTKN_101333 Number of predicted TMRs: 0
+SSSTKN_101333	inside	1	40				
+//
+# SSSTKN_100368 Length: 47
+# SSSTKN_100368 Number of predicted TMRs: 0
+SSSTKN_100368	inside	1	47				
+//
+# SSSTKN_2007 Length: 33
+# SSSTKN_2007 Number of predicted TMRs: 0
+SSSTKN_2007	signal	1	26				
+SSSTKN_2007	outside	27	33				
+//
+# SSSTKN_113542 Length: 40
+# SSSTKN_113542 Number of predicted TMRs: 0
+SSSTKN_113542	signal	1	20				
+SSSTKN_113542	outside	21	40				
+//
+# SSSTKN_35212 Length: 49
+# SSSTKN_35212 Number of predicted TMRs: 0
+SSSTKN_35212	inside	1	49				
+//
+# SSSTKN_138344 Length: 43
+# SSSTKN_138344 Number of predicted TMRs: 0
+SSSTKN_138344	signal	1	15				
+SSSTKN_138344	outside	16	43				
+//
+# SSSTKN_86840 Length: 48
+# SSSTKN_86840 Number of predicted TMRs: 0
+SSSTKN_86840	inside	1	48				
+//
+# SSSTKN_140800 Length: 29
+# SSSTKN_140800 Number of predicted TMRs: 0
+SSSTKN_140800	signal	1	26				
+SSSTKN_140800	outside	27	29				
+//
+# SSSTKN_112620 Length: 39
+# SSSTKN_112620 Number of predicted TMRs: 0
+SSSTKN_112620	signal	1	29				
+SSSTKN_112620	outside	30	39				
+//
+# SSSTKN_66416 Length: 50
+# SSSTKN_66416 Number of predicted TMRs: 0
+SSSTKN_66416	inside	1	50				
+//
+# SSSTKN_23605 Length: 38
+# SSSTKN_23605 Number of predicted TMRs: 0
+SSSTKN_23605	inside	1	38				
+//
+# SSSTKN_60480 Length: 50
+# SSSTKN_60480 Number of predicted TMRs: 0
+SSSTKN_60480	inside	1	50				
+//
+# SSSTKN_40782 Length: 42
+# SSSTKN_40782 Number of predicted TMRs: 0
+SSSTKN_40782	inside	1	42				
+//
+# SSSTKN_147076 Length: 50
+# SSSTKN_147076 Number of predicted TMRs: 0
+SSSTKN_147076	inside	1	50				
+//
+# SSSTKN_127434 Length: 39
+# SSSTKN_127434 Number of predicted TMRs: 0
+SSSTKN_127434	outside	1	39				
+//
+# SSSTKN_55067 Length: 46
+# SSSTKN_55067 Number of predicted TMRs: 0
+SSSTKN_55067	inside	1	46				
+//
+# SSSTKN_73625 Length: 49
+# SSSTKN_73625 Number of predicted TMRs: 0
+SSSTKN_73625	signal	1	13				
+SSSTKN_73625	outside	14	49				
+//
+# SSSTKN_162364 Length: 42
+# SSSTKN_162364 Number of predicted TMRs: 1
+SSSTKN_162364	outside	1	11				
+SSSTKN_162364	TMhelix	12	28				
+SSSTKN_162364	inside	29	42				
+//
+# SSSTKN_3705 Length: 46
+# SSSTKN_3705 Number of predicted TMRs: 0
+SSSTKN_3705	signal	1	45				
+SSSTKN_3705	outside	46	46				
+//
+# SSSTKN_17103 Length: 45
+# SSSTKN_17103 Number of predicted TMRs: 0
+SSSTKN_17103	signal	1	40				
+SSSTKN_17103	outside	41	45				
+//
+# SSSTKN_7348 Length: 49
+# SSSTKN_7348 Number of predicted TMRs: 0
+SSSTKN_7348	signal	1	44				
+SSSTKN_7348	outside	45	49				
+//
+# SSSTKN_42117 Length: 50
+# SSSTKN_42117 Number of predicted TMRs: 0
+SSSTKN_42117	inside	1	50				
+//
+# SSSTKN_131029 Length: 47
+# SSSTKN_131029 Number of predicted TMRs: 0
+SSSTKN_131029	inside	1	47				
+//
+# SSSTKN_143870 Length: 38
+# SSSTKN_143870 Number of predicted TMRs: 0
+SSSTKN_143870	signal	1	37				
+SSSTKN_143870	outside	38	38				
+//
+# SSSTKN_129285 Length: 43
+# SSSTKN_129285 Number of predicted TMRs: 0
+SSSTKN_129285	outside	1	43				
+//
+# SSSTKN_79918 Length: 46
+# SSSTKN_79918 Number of predicted TMRs: 0
+SSSTKN_79918	inside	1	46				
+//
+# SSSTKN_151033 Length: 41
+# SSSTKN_151033 Number of predicted TMRs: 0
+SSSTKN_151033	signal	1	40				
+SSSTKN_151033	outside	41	41				
+//
+# SSSTKN_118309 Length: 46
+# SSSTKN_118309 Number of predicted TMRs: 0
+SSSTKN_118309	inside	1	46				
+//
+# SSSTKN_139240 Length: 46
+# SSSTKN_139240 Number of predicted TMRs: 0
+SSSTKN_139240	signal	1	42				
+SSSTKN_139240	outside	43	46				
+//
+# SSSTKN_16476 Length: 48
+# SSSTKN_16476 Number of predicted TMRs: 0
+SSSTKN_16476	inside	1	48				
+//
+# SSSTKN_61060 Length: 46
+# SSSTKN_61060 Number of predicted TMRs: 0
+SSSTKN_61060	signal	1	38				
+SSSTKN_61060	outside	39	46				
+//
+# SSSTKN_71519 Length: 44
+# SSSTKN_71519 Number of predicted TMRs: 0
+SSSTKN_71519	inside	1	44				
+//
+# SSSTKN_112707 Length: 48
+# SSSTKN_112707 Number of predicted TMRs: 0
+SSSTKN_112707	signal	1	10				
+SSSTKN_112707	outside	11	48				
+//
+# SSSTKN_49989 Length: 46
+# SSSTKN_49989 Number of predicted TMRs: 0
+SSSTKN_49989	signal	1	28				
+SSSTKN_49989	outside	29	46				
+//
+# SSSTKN_84188 Length: 41
+# SSSTKN_84188 Number of predicted TMRs: 0
+SSSTKN_84188	signal	1	40				
+SSSTKN_84188	outside	41	41				
+//
+# SSSTKN_99014 Length: 46
+# SSSTKN_99014 Number of predicted TMRs: 0
+SSSTKN_99014	inside	1	46				
+//
+# SSSTKN_62918 Length: 41
+# SSSTKN_62918 Number of predicted TMRs: 0
+SSSTKN_62918	inside	1	41				
+//
+# SSSTKN_21831 Length: 36
+# SSSTKN_21831 Number of predicted TMRs: 0
+SSSTKN_21831	signal	1	35				
+SSSTKN_21831	outside	36	36				
+//
+# SSSTKN_7461 Length: 50
+# SSSTKN_7461 Number of predicted TMRs: 0
+SSSTKN_7461	inside	1	50				
+//
+# SSSTKN_164940 Length: 50
+# SSSTKN_164940 Number of predicted TMRs: 0
+SSSTKN_164940	inside	1	50				
+//
+# SSSTKN_68934 Length: 45
+# SSSTKN_68934 Number of predicted TMRs: 0
+SSSTKN_68934	signal	1	44				
+SSSTKN_68934	outside	45	45				
+//
+# SSSTKN_97428 Length: 45
+# SSSTKN_97428 Number of predicted TMRs: 0
+SSSTKN_97428	inside	1	45				
+//
+# SSSTKN_28957 Length: 47
+# SSSTKN_28957 Number of predicted TMRs: 0
+SSSTKN_28957	signal	1	12				
+SSSTKN_28957	outside	13	47				
+//
+# SSSTKN_51018 Length: 37
+# SSSTKN_51018 Number of predicted TMRs: 0
+SSSTKN_51018	signal	1	24				
+SSSTKN_51018	outside	25	37				
+//
+# SSSTKN_142913 Length: 33
+# SSSTKN_142913 Number of predicted TMRs: 0
+SSSTKN_142913	outside	1	33				
+//
+# SSSTKN_127974 Length: 49
+# SSSTKN_127974 Number of predicted TMRs: 0
+SSSTKN_127974	signal	1	11				
+SSSTKN_127974	outside	12	49				
+//
+# SSSTKN_130501 Length: 44
+# SSSTKN_130501 Number of predicted TMRs: 0
+SSSTKN_130501	inside	1	44				
+//
+# SSSTKN_6450 Length: 47
+# SSSTKN_6450 Number of predicted TMRs: 0
+SSSTKN_6450	signal	1	41				
+SSSTKN_6450	outside	42	47				
+//
+# SSSTKN_15851 Length: 47
+# SSSTKN_15851 Number of predicted TMRs: 0
+SSSTKN_15851	inside	1	47				
+//
+# SSSTKN_124020 Length: 48
+# SSSTKN_124020 Number of predicted TMRs: 0
+SSSTKN_124020	signal	1	23				
+SSSTKN_124020	outside	24	48				
+//
+# SSSTKN_93055 Length: 36
+# SSSTKN_93055 Number of predicted TMRs: 0
+SSSTKN_93055	signal	1	31				
+SSSTKN_93055	outside	32	36				
+//
+# SSSTKN_122481 Length: 50
+# SSSTKN_122481 Number of predicted TMRs: 0
+SSSTKN_122481	inside	1	50				
+//
+# SSSTKN_46009 Length: 43
+# SSSTKN_46009 Number of predicted TMRs: 0
+SSSTKN_46009	inside	1	43				
+//
+# SSSTKN_169343 Length: 41
+# SSSTKN_169343 Number of predicted TMRs: 0
+SSSTKN_169343	signal	1	40				
+SSSTKN_169343	outside	41	41				
+//
+# SSSTKN_1304 Length: 39
+# SSSTKN_1304 Number of predicted TMRs: 0
+SSSTKN_1304	inside	1	39				
+//
+# SSSTKN_122435 Length: 43
+# SSSTKN_122435 Number of predicted TMRs: 0
+SSSTKN_122435	inside	1	43				
+//
+# SSSTKN_74313 Length: 47
+# SSSTKN_74313 Number of predicted TMRs: 0
+SSSTKN_74313	inside	1	47				
+//
+# SSSTKN_120805 Length: 49
+# SSSTKN_120805 Number of predicted TMRs: 0
+SSSTKN_120805	signal	1	47				
+SSSTKN_120805	outside	48	49				
+//
+# SSSTKN_107301 Length: 45
+# SSSTKN_107301 Number of predicted TMRs: 0
+SSSTKN_107301	signal	1	20				
+SSSTKN_107301	outside	21	45				
+//
+# SSSTKN_158188 Length: 49
+# SSSTKN_158188 Number of predicted TMRs: 1
+SSSTKN_158188	inside	1	21				
+SSSTKN_158188	TMhelix	22	42				
+SSSTKN_158188	outside	43	49				
+//
+# SSSTKN_44527 Length: 47
+# SSSTKN_44527 Number of predicted TMRs: 0
+SSSTKN_44527	signal	1	10				
+SSSTKN_44527	outside	11	47				
+//
+# SSSTKN_45084 Length: 45
+# SSSTKN_45084 Number of predicted TMRs: 0
+SSSTKN_45084	inside	1	45				
+//
+# SSSTKN_84883 Length: 46
+# SSSTKN_84883 Number of predicted TMRs: 0
+SSSTKN_84883	outside	1	46				
+//
+# SSSTKN_125824 Length: 48
+# SSSTKN_125824 Number of predicted TMRs: 0
+SSSTKN_125824	signal	1	47				
+SSSTKN_125824	outside	48	48				
+//
+# SSSTKN_90709 Length: 49
+# SSSTKN_90709 Number of predicted TMRs: 0
+SSSTKN_90709	signal	1	23				
+SSSTKN_90709	outside	24	49				
+//
+# SSSTKN_45452 Length: 39
+# SSSTKN_45452 Number of predicted TMRs: 0
+SSSTKN_45452	signal	1	30				
+SSSTKN_45452	outside	31	39				
+//
+# SSSTKN_48812 Length: 37
+# SSSTKN_48812 Number of predicted TMRs: 0
+SSSTKN_48812	inside	1	37				
+//
+# SSSTKN_170001 Length: 49
+# SSSTKN_170001 Number of predicted TMRs: 0
+SSSTKN_170001	inside	1	49				
+//
+# SSSTKN_64504 Length: 45
+# SSSTKN_64504 Number of predicted TMRs: 0
+SSSTKN_64504	inside	1	45				
+//
+# SSSTKN_55026 Length: 46
+# SSSTKN_55026 Number of predicted TMRs: 0
+SSSTKN_55026	signal	1	13				
+SSSTKN_55026	outside	14	46				
+//
+# SSSTKN_29046 Length: 43
+# SSSTKN_29046 Number of predicted TMRs: 0
+SSSTKN_29046	inside	1	43				
+//
+# SSSTKN_15063 Length: 50
+# SSSTKN_15063 Number of predicted TMRs: 0
+SSSTKN_15063	inside	1	50				
+//
+# SSSTKN_62019 Length: 35
+# SSSTKN_62019 Number of predicted TMRs: 0
+SSSTKN_62019	inside	1	35				
+//
+# SSSTKN_91816 Length: 50
+# SSSTKN_91816 Number of predicted TMRs: 0
+SSSTKN_91816	signal	1	18				
+SSSTKN_91816	outside	19	50				
+//
+# SSSTKN_81351 Length: 39
+# SSSTKN_81351 Number of predicted TMRs: 0
+SSSTKN_81351	inside	1	39				
+//
+# SSSTKN_22850 Length: 44
+# SSSTKN_22850 Number of predicted TMRs: 0
+SSSTKN_22850	inside	1	44				
+//
+# SSSTKN_136458 Length: 46
+# SSSTKN_136458 Number of predicted TMRs: 0
+SSSTKN_136458	inside	1	46				
+//
+# SSSTKN_142810 Length: 47
+# SSSTKN_142810 Number of predicted TMRs: 0
+SSSTKN_142810	inside	1	47				
+//
+# SSSTKN_93844 Length: 48
+# SSSTKN_93844 Number of predicted TMRs: 0
+SSSTKN_93844	outside	1	48				
+//
+# SSSTKN_93050 Length: 43
+# SSSTKN_93050 Number of predicted TMRs: 0
+SSSTKN_93050	inside	1	43				
+//
+# SSSTKN_92196 Length: 43
+# SSSTKN_92196 Number of predicted TMRs: 0
+SSSTKN_92196	inside	1	43				
+//
+# SSSTKN_89495 Length: 50
+# SSSTKN_89495 Number of predicted TMRs: 0
+SSSTKN_89495	inside	1	50				
+//
+# SSSTKN_128837 Length: 34
+# SSSTKN_128837 Number of predicted TMRs: 0
+SSSTKN_128837	outside	1	34				
+//
+# SSSTKN_39348 Length: 48
+# SSSTKN_39348 Number of predicted TMRs: 0
+SSSTKN_39348	inside	1	48				
+//
+# SSSTKN_99681 Length: 44
+# SSSTKN_99681 Number of predicted TMRs: 0
+SSSTKN_99681	inside	1	44				
+//
+# SSSTKN_123052 Length: 45
+# SSSTKN_123052 Number of predicted TMRs: 0
+SSSTKN_123052	signal	1	44				
+SSSTKN_123052	outside	45	45				
+//
+# SSSTKN_39103 Length: 50
+# SSSTKN_39103 Number of predicted TMRs: 0
+SSSTKN_39103	inside	1	50				
+//
+# SSSTKN_134720 Length: 41
+# SSSTKN_134720 Number of predicted TMRs: 0
+SSSTKN_134720	signal	1	32				
+SSSTKN_134720	outside	33	41				
+//
+# SSSTKN_107531 Length: 48
+# SSSTKN_107531 Number of predicted TMRs: 0
+SSSTKN_107531	signal	1	44				
+SSSTKN_107531	outside	45	48				
+//
+# SSSTKN_10973 Length: 41
+# SSSTKN_10973 Number of predicted TMRs: 0
+SSSTKN_10973	inside	1	41				
+//
+# SSSTKN_148033 Length: 42
+# SSSTKN_148033 Number of predicted TMRs: 0
+SSSTKN_148033	signal	1	27				
+SSSTKN_148033	outside	28	42				
+//
+# SSSTKN_111045 Length: 45
+# SSSTKN_111045 Number of predicted TMRs: 0
+SSSTKN_111045	signal	1	43				
+SSSTKN_111045	outside	44	45				
+//
+# SSSTKN_148113 Length: 50
+# SSSTKN_148113 Number of predicted TMRs: 0
+SSSTKN_148113	inside	1	50				
+//
+# SSSTKN_80834 Length: 44
+# SSSTKN_80834 Number of predicted TMRs: 0
+SSSTKN_80834	inside	1	44				
+//
+# SSSTKN_121189 Length: 50
+# SSSTKN_121189 Number of predicted TMRs: 0
+SSSTKN_121189	inside	1	50				
+//
+# SSSTKN_13151 Length: 48
+# SSSTKN_13151 Number of predicted TMRs: 0
+SSSTKN_13151	inside	1	48				
+//
+# SSSTKN_61348 Length: 47
+# SSSTKN_61348 Number of predicted TMRs: 0
+SSSTKN_61348	inside	1	47				
+//
+# SSSTKN_13530 Length: 49
+# SSSTKN_13530 Number of predicted TMRs: 0
+SSSTKN_13530	inside	1	49				
+//
+# SSSTKN_99049 Length: 49
+# SSSTKN_99049 Number of predicted TMRs: 0
+SSSTKN_99049	outside	1	49				
+//
+# SSSTKN_81646 Length: 47
+# SSSTKN_81646 Number of predicted TMRs: 0
+SSSTKN_81646	inside	1	47				
+//
+# SSSTKN_114305 Length: 40
+# SSSTKN_114305 Number of predicted TMRs: 0
+SSSTKN_114305	inside	1	40				
+//
+# SSSTKN_58087 Length: 50
+# SSSTKN_58087 Number of predicted TMRs: 0
+SSSTKN_58087	signal	1	29				
+SSSTKN_58087	outside	30	50				
+//
+# SSSTKN_47838 Length: 45
+# SSSTKN_47838 Number of predicted TMRs: 0
+SSSTKN_47838	signal	1	44				
+SSSTKN_47838	outside	45	45				
+//
+# SSSTKN_12094 Length: 48
+# SSSTKN_12094 Number of predicted TMRs: 0
+SSSTKN_12094	signal	1	22				
+SSSTKN_12094	outside	23	48				
+//
+# SSSTKN_75786 Length: 40
+# SSSTKN_75786 Number of predicted TMRs: 0
+SSSTKN_75786	signal	1	26				
+SSSTKN_75786	outside	27	40				
+//
+# SSSTKN_96962 Length: 41
+# SSSTKN_96962 Number of predicted TMRs: 0
+SSSTKN_96962	signal	1	28				
+SSSTKN_96962	outside	29	41				
+//
+# SSSTKN_3074 Length: 50
+# SSSTKN_3074 Number of predicted TMRs: 0
+SSSTKN_3074	signal	1	13				
+SSSTKN_3074	outside	14	50				
+//
+# SSSTKN_156623 Length: 47
+# SSSTKN_156623 Number of predicted TMRs: 0
+SSSTKN_156623	signal	1	38				
+SSSTKN_156623	outside	39	47				
+//
+# SSSTKN_66923 Length: 47
+# SSSTKN_66923 Number of predicted TMRs: 0
+SSSTKN_66923	signal	1	38				
+SSSTKN_66923	outside	39	47				
+//
+# SSSTKN_19807 Length: 43
+# SSSTKN_19807 Number of predicted TMRs: 0
+SSSTKN_19807	signal	1	12				
+SSSTKN_19807	outside	13	43				
+//
+# SSSTKN_27231 Length: 48
+# SSSTKN_27231 Number of predicted TMRs: 0
+SSSTKN_27231	signal	1	46				
+SSSTKN_27231	outside	47	48				
+//
+# SSSTKN_144097 Length: 46
+# SSSTKN_144097 Number of predicted TMRs: 0
+SSSTKN_144097	signal	1	45				
+SSSTKN_144097	outside	46	46				
+//
+# SSSTKN_149931 Length: 46
+# SSSTKN_149931 Number of predicted TMRs: 0
+SSSTKN_149931	inside	1	46				
+//
+# SSSTKN_16989 Length: 37
+# SSSTKN_16989 Number of predicted TMRs: 0
+SSSTKN_16989	signal	1	12				
+SSSTKN_16989	outside	13	37				
+//
+# SSSTKN_5033 Length: 50
+# SSSTKN_5033 Number of predicted TMRs: 0
+SSSTKN_5033	inside	1	50				
+//
+# SSSTKN_122501 Length: 49
+# SSSTKN_122501 Number of predicted TMRs: 0
+SSSTKN_122501	inside	1	49				
+//
+# SSSTKN_88194 Length: 49
+# SSSTKN_88194 Number of predicted TMRs: 0
+SSSTKN_88194	inside	1	49				
+//
+# SSSTKN_66687 Length: 47
+# SSSTKN_66687 Number of predicted TMRs: 0
+SSSTKN_66687	inside	1	47				
+//
+# SSSTKN_14358 Length: 47
+# SSSTKN_14358 Number of predicted TMRs: 0
+SSSTKN_14358	signal	1	15				
+SSSTKN_14358	outside	16	47				
+//
+# SSSTKN_121694 Length: 50
+# SSSTKN_121694 Number of predicted TMRs: 0
+SSSTKN_121694	signal	1	26				
+SSSTKN_121694	outside	27	50				
+//
+# SSSTKN_1805 Length: 25
+# SSSTKN_1805 Number of predicted TMRs: 0
+SSSTKN_1805	inside	1	25				
+//
+# SSSTKN_37759 Length: 44
+# SSSTKN_37759 Number of predicted TMRs: 0
+SSSTKN_37759	inside	1	44				
+//
+# SSSTKN_55679 Length: 50
+# SSSTKN_55679 Number of predicted TMRs: 0
+SSSTKN_55679	signal	1	10				
+SSSTKN_55679	outside	11	50				
+//
+# SSSTKN_148649 Length: 45
+# SSSTKN_148649 Number of predicted TMRs: 0
+SSSTKN_148649	inside	1	45				
+//
+# SSSTKN_137186 Length: 34
+# SSSTKN_137186 Number of predicted TMRs: 0
+SSSTKN_137186	inside	1	34				
+//
+# SSSTKN_99477 Length: 31
+# SSSTKN_99477 Number of predicted TMRs: 0
+SSSTKN_99477	signal	1	21				
+SSSTKN_99477	outside	22	31				
+//
+# SSSTKN_110344 Length: 49
+# SSSTKN_110344 Number of predicted TMRs: 0
+SSSTKN_110344	inside	1	49				
+//
+# SSSTKN_7093 Length: 43
+# SSSTKN_7093 Number of predicted TMRs: 0
+SSSTKN_7093	inside	1	43				
+//
+# SSSTKN_111355 Length: 45
+# SSSTKN_111355 Number of predicted TMRs: 0
+SSSTKN_111355	outside	1	45				
+//
+# SSSTKN_95160 Length: 36
+# SSSTKN_95160 Number of predicted TMRs: 0
+SSSTKN_95160	inside	1	36				
+//
+# SSSTKN_30038 Length: 47
+# SSSTKN_30038 Number of predicted TMRs: 0
+SSSTKN_30038	inside	1	47				
+//
+# SSSTKN_29706 Length: 47
+# SSSTKN_29706 Number of predicted TMRs: 0
+SSSTKN_29706	inside	1	47				
+//
+# SSSTKN_115733 Length: 48
+# SSSTKN_115733 Number of predicted TMRs: 0
+SSSTKN_115733	inside	1	48				
+//
+# SSSTKN_112149 Length: 39
+# SSSTKN_112149 Number of predicted TMRs: 0
+SSSTKN_112149	signal	1	38				
+SSSTKN_112149	outside	39	39				
+//
+# SSSTKN_28583 Length: 30
+# SSSTKN_28583 Number of predicted TMRs: 0
+SSSTKN_28583	signal	1	29				
+SSSTKN_28583	outside	30	30				
+//
+# SSSTKN_107321 Length: 42
+# SSSTKN_107321 Number of predicted TMRs: 0
+SSSTKN_107321	inside	1	42				
+//
+# SSSTKN_35313 Length: 40
+# SSSTKN_35313 Number of predicted TMRs: 0
+SSSTKN_35313	inside	1	40				
+//
+# SSSTKN_118718 Length: 49
+# SSSTKN_118718 Number of predicted TMRs: 0
+SSSTKN_118718	inside	1	49				
+//
+# SSSTKN_142539 Length: 47
+# SSSTKN_142539 Number of predicted TMRs: 0
+SSSTKN_142539	signal	1	10				
+SSSTKN_142539	outside	11	47				
+//
+# SSSTKN_98982 Length: 46
+# SSSTKN_98982 Number of predicted TMRs: 0
+SSSTKN_98982	inside	1	46				
+//
+# SSSTKN_39253 Length: 50
+# SSSTKN_39253 Number of predicted TMRs: 0
+SSSTKN_39253	inside	1	50				
+//
+# SSSTKN_52378 Length: 49
+# SSSTKN_52378 Number of predicted TMRs: 0
+SSSTKN_52378	inside	1	49				
+//
+# SSSTKN_140624 Length: 47
+# SSSTKN_140624 Number of predicted TMRs: 0
+SSSTKN_140624	signal	1	39				
+SSSTKN_140624	outside	40	47				
+//
+# SSSTKN_172165 Length: 49
+# SSSTKN_172165 Number of predicted TMRs: 0
+SSSTKN_172165	inside	1	49				
+//
+# SSSTKN_116827 Length: 49
+# SSSTKN_116827 Number of predicted TMRs: 0
+SSSTKN_116827	inside	1	49				
+//
+# SSSTKN_16211 Length: 38
+# SSSTKN_16211 Number of predicted TMRs: 0
+SSSTKN_16211	inside	1	38				
+//
+# SSSTKN_49628 Length: 49
+# SSSTKN_49628 Number of predicted TMRs: 0
+SSSTKN_49628	inside	1	49				
+//
+# SSSTKN_37937 Length: 47
+# SSSTKN_37937 Number of predicted TMRs: 0
+SSSTKN_37937	signal	1	34				
+SSSTKN_37937	outside	35	47				
+//
+# SSSTKN_55664 Length: 31
+# SSSTKN_55664 Number of predicted TMRs: 0
+SSSTKN_55664	signal	1	30				
+SSSTKN_55664	outside	31	31				
+//
+# SSSTKN_121503 Length: 45
+# SSSTKN_121503 Number of predicted TMRs: 0
+SSSTKN_121503	signal	1	25				
+SSSTKN_121503	outside	26	45				
+//
+# SSSTKN_19219 Length: 28
+# SSSTKN_19219 Number of predicted TMRs: 0
+SSSTKN_19219	signal	1	25				
+SSSTKN_19219	outside	26	28				
+//
+# SSSTKN_108885 Length: 42
+# SSSTKN_108885 Number of predicted TMRs: 0
+SSSTKN_108885	signal	1	37				
+SSSTKN_108885	outside	38	42				
+//
+# SSSTKN_55063 Length: 46
+# SSSTKN_55063 Number of predicted TMRs: 0
+SSSTKN_55063	signal	1	33				
+SSSTKN_55063	outside	34	46				
+//
+# SSSTKN_145989 Length: 40
+# SSSTKN_145989 Number of predicted TMRs: 0
+SSSTKN_145989	signal	1	10				
+SSSTKN_145989	outside	11	40				
+//
+# SSSTKN_47728 Length: 42
+# SSSTKN_47728 Number of predicted TMRs: 0
+SSSTKN_47728	signal	1	13				
+SSSTKN_47728	outside	14	42				
+//
+# SSSTKN_114193 Length: 41
+# SSSTKN_114193 Number of predicted TMRs: 0
+SSSTKN_114193	signal	1	20				
+SSSTKN_114193	outside	21	41				
+//
+# SSSTKN_171443 Length: 48
+# SSSTKN_171443 Number of predicted TMRs: 0
+SSSTKN_171443	inside	1	48				
+//
+# SSSTKN_40940 Length: 46
+# SSSTKN_40940 Number of predicted TMRs: 0
+SSSTKN_40940	inside	1	46				
+//
+# SSSTKN_60137 Length: 50
+# SSSTKN_60137 Number of predicted TMRs: 0
+SSSTKN_60137	inside	1	50				
+//
+# SSSTKN_52882 Length: 39
+# SSSTKN_52882 Number of predicted TMRs: 0
+SSSTKN_52882	outside	1	39				
+//
+# SSSTKN_18168 Length: 44
+# SSSTKN_18168 Number of predicted TMRs: 0
+SSSTKN_18168	inside	1	44				
+//
+# SSSTKN_44760 Length: 45
+# SSSTKN_44760 Number of predicted TMRs: 0
+SSSTKN_44760	inside	1	45				
+//
+# SSSTKN_165026 Length: 43
+# SSSTKN_165026 Number of predicted TMRs: 0
+SSSTKN_165026	signal	1	10				
+SSSTKN_165026	outside	11	43				
+//
+# SSSTKN_42976 Length: 41
+# SSSTKN_42976 Number of predicted TMRs: 0
+SSSTKN_42976	signal	1	35				
+SSSTKN_42976	outside	36	41				
+//
+# SSSTKN_103321 Length: 48
+# SSSTKN_103321 Number of predicted TMRs: 0
+SSSTKN_103321	signal	1	27				
+SSSTKN_103321	outside	28	48				
+//
+# SSSTKN_168466 Length: 47
+# SSSTKN_168466 Number of predicted TMRs: 0
+SSSTKN_168466	inside	1	47				
+//
+# SSSTKN_1608 Length: 48
+# SSSTKN_1608 Number of predicted TMRs: 0
+SSSTKN_1608	signal	1	39				
+SSSTKN_1608	outside	40	48				
+//
+# SSSTKN_7313 Length: 36
+# SSSTKN_7313 Number of predicted TMRs: 0
+SSSTKN_7313	signal	1	35				
+SSSTKN_7313	outside	36	36				
+//
+# SSSTKN_130927 Length: 38
+# SSSTKN_130927 Number of predicted TMRs: 0
+SSSTKN_130927	inside	1	38				
+//
+# SSSTKN_41942 Length: 43
+# SSSTKN_41942 Number of predicted TMRs: 0
+SSSTKN_41942	inside	1	43				
+//
+# SSSTKN_125293 Length: 48
+# SSSTKN_125293 Number of predicted TMRs: 0
+SSSTKN_125293	inside	1	48				
+//
+# SSSTKN_16042 Length: 45
+# SSSTKN_16042 Number of predicted TMRs: 0
+SSSTKN_16042	inside	1	45				
+//
+# SSSTKN_107286 Length: 36
+# SSSTKN_107286 Number of predicted TMRs: 0
+SSSTKN_107286	inside	1	36				
+//
+# SSSTKN_165840 Length: 38
+# SSSTKN_165840 Number of predicted TMRs: 0
+SSSTKN_165840	inside	1	38				
+//
+# SSSTKN_148083 Length: 46
+# SSSTKN_148083 Number of predicted TMRs: 0
+SSSTKN_148083	signal	1	44				
+SSSTKN_148083	outside	45	46				
+//
+# SSSTKN_19820 Length: 47
+# SSSTKN_19820 Number of predicted TMRs: 0
+SSSTKN_19820	inside	1	47				
+//
+# SSSTKN_53481 Length: 48
+# SSSTKN_53481 Number of predicted TMRs: 0
+SSSTKN_53481	inside	1	48				
+//
+# SSSTKN_44427 Length: 50
+# SSSTKN_44427 Number of predicted TMRs: 1
+SSSTKN_44427	inside	1	18				
+SSSTKN_44427	TMhelix	19	39				
+SSSTKN_44427	outside	40	50				
+//
+# SSSTKN_19422 Length: 50
+# SSSTKN_19422 Number of predicted TMRs: 0
+SSSTKN_19422	inside	1	50				
+//
+# SSSTKN_126997 Length: 47
+# SSSTKN_126997 Number of predicted TMRs: 0
+SSSTKN_126997	inside	1	47				
+//
+# SSSTKN_85857 Length: 49
+# SSSTKN_85857 Number of predicted TMRs: 0
+SSSTKN_85857	inside	1	49				
+//
+# SSSTKN_78601 Length: 49
+# SSSTKN_78601 Number of predicted TMRs: 0
+SSSTKN_78601	inside	1	49				
+//
+# SSSTKN_11644 Length: 40
+# SSSTKN_11644 Number of predicted TMRs: 0
+SSSTKN_11644	signal	1	39				
+SSSTKN_11644	outside	40	40				
+//
+# SSSTKN_104351 Length: 40
+# SSSTKN_104351 Number of predicted TMRs: 0
+SSSTKN_104351	inside	1	40				
+//
+# SSSTKN_34668 Length: 50
+# SSSTKN_34668 Number of predicted TMRs: 0
+SSSTKN_34668	inside	1	50				
+//
+# SSSTKN_23542 Length: 49
+# SSSTKN_23542 Number of predicted TMRs: 0
+SSSTKN_23542	signal	1	22				
+SSSTKN_23542	outside	23	49				
+//
+# SSSTKN_11189 Length: 39
+# SSSTKN_11189 Number of predicted TMRs: 0
+SSSTKN_11189	signal	1	38				
+SSSTKN_11189	outside	39	39				
+//
+# SSSTKN_123653 Length: 43
+# SSSTKN_123653 Number of predicted TMRs: 0
+SSSTKN_123653	inside	1	43				
+//
+# SSSTKN_48386 Length: 48
+# SSSTKN_48386 Number of predicted TMRs: 0
+SSSTKN_48386	inside	1	48				
+//
+# SSSTKN_71327 Length: 41
+# SSSTKN_71327 Number of predicted TMRs: 0
+SSSTKN_71327	inside	1	41				
+//
+# SSSTKN_75542 Length: 42
+# SSSTKN_75542 Number of predicted TMRs: 0
+SSSTKN_75542	inside	1	42				
+//
+# SSSTKN_19565 Length: 46
+# SSSTKN_19565 Number of predicted TMRs: 0
+SSSTKN_19565	inside	1	46				
+//
+# SSSTKN_140621 Length: 48
+# SSSTKN_140621 Number of predicted TMRs: 0
+SSSTKN_140621	outside	1	48				
+//
+# SSSTKN_40477 Length: 46
+# SSSTKN_40477 Number of predicted TMRs: 0
+SSSTKN_40477	signal	1	27				
+SSSTKN_40477	outside	28	46				
+//
+# SSSTKN_116617 Length: 40
+# SSSTKN_116617 Number of predicted TMRs: 0
+SSSTKN_116617	signal	1	15				
+SSSTKN_116617	outside	16	40				
+//
+# SSSTKN_27176 Length: 43
+# SSSTKN_27176 Number of predicted TMRs: 0
+SSSTKN_27176	inside	1	43				
+//
+# SSSTKN_15893 Length: 47
+# SSSTKN_15893 Number of predicted TMRs: 0
+SSSTKN_15893	outside	1	47				
+//
+# SSSTKN_143248 Length: 45
+# SSSTKN_143248 Number of predicted TMRs: 0
+SSSTKN_143248	inside	1	45				
+//
+# SSSTKN_71726 Length: 45
+# SSSTKN_71726 Number of predicted TMRs: 0
+SSSTKN_71726	signal	1	43				
+SSSTKN_71726	outside	44	45				
+//
+# SSSTKN_18183 Length: 48
+# SSSTKN_18183 Number of predicted TMRs: 0
+SSSTKN_18183	signal	1	41				
+SSSTKN_18183	outside	42	48				
+//
+# SSSTKN_6018 Length: 38
+# SSSTKN_6018 Number of predicted TMRs: 0
+SSSTKN_6018	inside	1	38				
+//
+# SSSTKN_44269 Length: 40
+# SSSTKN_44269 Number of predicted TMRs: 0
+SSSTKN_44269	inside	1	40				
+//
+# SSSTKN_140597 Length: 50
+# SSSTKN_140597 Number of predicted TMRs: 0
+SSSTKN_140597	signal	1	47				
+SSSTKN_140597	outside	48	50				
+//
+# SSSTKN_48187 Length: 47
+# SSSTKN_48187 Number of predicted TMRs: 0
+SSSTKN_48187	inside	1	47				
+//
+# SSSTKN_157421 Length: 44
+# SSSTKN_157421 Number of predicted TMRs: 0
+SSSTKN_157421	signal	1	39				
+SSSTKN_157421	outside	40	44				
+//
+# SSSTKN_170841 Length: 48
+# SSSTKN_170841 Number of predicted TMRs: 0
+SSSTKN_170841	inside	1	48				
+//
+# SSSTKN_25914 Length: 34
+# SSSTKN_25914 Number of predicted TMRs: 0
+SSSTKN_25914	inside	1	34				
+//
+# SSSTKN_164115 Length: 49
+# SSSTKN_164115 Number of predicted TMRs: 0
+SSSTKN_164115	signal	1	44				
+SSSTKN_164115	outside	45	49				
+//
+# SSSTKN_153424 Length: 37
+# SSSTKN_153424 Number of predicted TMRs: 0
+SSSTKN_153424	signal	1	13				
+SSSTKN_153424	outside	14	37				
+//
+# SSSTKN_87718 Length: 44
+# SSSTKN_87718 Number of predicted TMRs: 1
+SSSTKN_87718	inside	1	7				
+SSSTKN_87718	TMhelix	8	25				
+SSSTKN_87718	outside	26	44				
+//
+# SSSTKN_26542 Length: 41
+# SSSTKN_26542 Number of predicted TMRs: 0
+SSSTKN_26542	inside	1	41				
+//
+# SSSTKN_57837 Length: 45
+# SSSTKN_57837 Number of predicted TMRs: 0
+SSSTKN_57837	inside	1	45				
+//
+# SSSTKN_21434 Length: 48
+# SSSTKN_21434 Number of predicted TMRs: 0
+SSSTKN_21434	signal	1	45				
+SSSTKN_21434	outside	46	48				
+//
+# SSSTKN_130034 Length: 33
+# SSSTKN_130034 Number of predicted TMRs: 0
+SSSTKN_130034	inside	1	33				
+//
+# SSSTKN_20804 Length: 38
+# SSSTKN_20804 Number of predicted TMRs: 0
+SSSTKN_20804	signal	1	37				
+SSSTKN_20804	outside	38	38				
+//
+# SSSTKN_28366 Length: 35
+# SSSTKN_28366 Number of predicted TMRs: 0
+SSSTKN_28366	inside	1	35				
+//
+# SSSTKN_38234 Length: 40
+# SSSTKN_38234 Number of predicted TMRs: 0
+SSSTKN_38234	signal	1	35				
+SSSTKN_38234	outside	36	40				
+//
+# SSSTKN_80535 Length: 48
+# SSSTKN_80535 Number of predicted TMRs: 0
+SSSTKN_80535	inside	1	48				
+//
+# SSSTKN_86458 Length: 47
+# SSSTKN_86458 Number of predicted TMRs: 0
+SSSTKN_86458	outside	1	47				
+//
+# SSSTKN_87817 Length: 48
+# SSSTKN_87817 Number of predicted TMRs: 0
+SSSTKN_87817	inside	1	48				
+//
+# SSSTKN_9570 Length: 39
+# SSSTKN_9570 Number of predicted TMRs: 0
+SSSTKN_9570	signal	1	38				
+SSSTKN_9570	outside	39	39				
+//
+# SSSTKN_122931 Length: 42
+# SSSTKN_122931 Number of predicted TMRs: 0
+SSSTKN_122931	inside	1	42				
+//
+# SSSTKN_95257 Length: 49
+# SSSTKN_95257 Number of predicted TMRs: 0
+SSSTKN_95257	signal	1	27				
+SSSTKN_95257	outside	28	49				
+//
+# SSSTKN_36283 Length: 42
+# SSSTKN_36283 Number of predicted TMRs: 0
+SSSTKN_36283	inside	1	42				
+//
+# SSSTKN_163159 Length: 49
+# SSSTKN_163159 Number of predicted TMRs: 0
+SSSTKN_163159	inside	1	49				
+//
+# SSSTKN_69437 Length: 49
+# SSSTKN_69437 Number of predicted TMRs: 0
+SSSTKN_69437	signal	1	26				
+SSSTKN_69437	outside	27	49				
+//
+# SSSTKN_166602 Length: 49
+# SSSTKN_166602 Number of predicted TMRs: 0
+SSSTKN_166602	inside	1	49				
+//
+# SSSTKN_49050 Length: 50
+# SSSTKN_49050 Number of predicted TMRs: 0
+SSSTKN_49050	signal	1	23				
+SSSTKN_49050	outside	24	50				
+//
+# SSSTKN_101173 Length: 44
+# SSSTKN_101173 Number of predicted TMRs: 0
+SSSTKN_101173	signal	1	33				
+SSSTKN_101173	outside	34	44				
+//
+# SSSTKN_24892 Length: 41
+# SSSTKN_24892 Number of predicted TMRs: 0
+SSSTKN_24892	inside	1	41				
+//
+# SSSTKN_73767 Length: 49
+# SSSTKN_73767 Number of predicted TMRs: 0
+SSSTKN_73767	inside	1	49				
+//
+# SSSTKN_51055 Length: 49
+# SSSTKN_51055 Number of predicted TMRs: 0
+SSSTKN_51055	inside	1	49				
+//
+# SSSTKN_58841 Length: 41
+# SSSTKN_58841 Number of predicted TMRs: 0
+SSSTKN_58841	inside	1	41				
+//
+# SSSTKN_92134 Length: 47
+# SSSTKN_92134 Number of predicted TMRs: 0
+SSSTKN_92134	signal	1	46				
+SSSTKN_92134	periplasm	47	47				
+//
+# SSSTKN_152049 Length: 47
+# SSSTKN_152049 Number of predicted TMRs: 0
+SSSTKN_152049	signal	1	22				
+SSSTKN_152049	outside	23	47				
+//
+# SSSTKN_138831 Length: 44
+# SSSTKN_138831 Number of predicted TMRs: 0
+SSSTKN_138831	signal	1	37				
+SSSTKN_138831	outside	38	44				
+//
+# SSSTKN_12895 Length: 38
+# SSSTKN_12895 Number of predicted TMRs: 0
+SSSTKN_12895	outside	1	38				
+//
+# SSSTKN_46763 Length: 48
+# SSSTKN_46763 Number of predicted TMRs: 0
+SSSTKN_46763	inside	1	48				
+//
+# SSSTKN_3910 Length: 28
+# SSSTKN_3910 Number of predicted TMRs: 0
+SSSTKN_3910	signal	1	11				
+SSSTKN_3910	outside	12	28				
+//
+# SSSTKN_23536 Length: 29
+# SSSTKN_23536 Number of predicted TMRs: 0
+SSSTKN_23536	signal	1	28				
+SSSTKN_23536	outside	29	29				
+//
+# SSSTKN_3122 Length: 42
+# SSSTKN_3122 Number of predicted TMRs: 0
+SSSTKN_3122	signal	1	25				
+SSSTKN_3122	outside	26	42				
+//
+# SSSTKN_49712 Length: 43
+# SSSTKN_49712 Number of predicted TMRs: 0
+SSSTKN_49712	inside	1	43				
+//
+# SSSTKN_166982 Length: 39
+# SSSTKN_166982 Number of predicted TMRs: 0
+SSSTKN_166982	outside	1	39				
+//
+# SSSTKN_145253 Length: 49
+# SSSTKN_145253 Number of predicted TMRs: 0
+SSSTKN_145253	inside	1	49				
+//
+# SSSTKN_75433 Length: 36
+# SSSTKN_75433 Number of predicted TMRs: 0
+SSSTKN_75433	inside	1	36				
+//
+# SSSTKN_46070 Length: 50
+# SSSTKN_46070 Number of predicted TMRs: 0
+SSSTKN_46070	signal	1	48				
+SSSTKN_46070	outside	49	50				
+//
+# SSSTKN_142192 Length: 48
+# SSSTKN_142192 Number of predicted TMRs: 0
+SSSTKN_142192	outside	1	48				
+//
+# SSSTKN_120465 Length: 50
+# SSSTKN_120465 Number of predicted TMRs: 0
+SSSTKN_120465	inside	1	50				
+//
+# SSSTKN_120263 Length: 48
+# SSSTKN_120263 Number of predicted TMRs: 0
+SSSTKN_120263	inside	1	48				
+//
+# SSSTKN_103175 Length: 46
+# SSSTKN_103175 Number of predicted TMRs: 0
+SSSTKN_103175	inside	1	46				
+//
+# SSSTKN_71923 Length: 37
+# SSSTKN_71923 Number of predicted TMRs: 0
+SSSTKN_71923	signal	1	15				
+SSSTKN_71923	outside	16	37				
+//
+# SSSTKN_171438 Length: 43
+# SSSTKN_171438 Number of predicted TMRs: 0
+SSSTKN_171438	signal	1	42				
+SSSTKN_171438	outside	43	43				
+//
+# SSSTKN_129489 Length: 38
+# SSSTKN_129489 Number of predicted TMRs: 0
+SSSTKN_129489	signal	1	36				
+SSSTKN_129489	outside	37	38				
+//
+# SSSTKN_99059 Length: 50
+# SSSTKN_99059 Number of predicted TMRs: 0
+SSSTKN_99059	signal	1	35				
+SSSTKN_99059	outside	36	50				
+//
+# SSSTKN_39904 Length: 49
+# SSSTKN_39904 Number of predicted TMRs: 0
+SSSTKN_39904	inside	1	49				
+//
+# SSSTKN_61784 Length: 44
+# SSSTKN_61784 Number of predicted TMRs: 0
+SSSTKN_61784	signal	1	43				
+SSSTKN_61784	outside	44	44				
+//
+# SSSTKN_116599 Length: 48
+# SSSTKN_116599 Number of predicted TMRs: 0
+SSSTKN_116599	inside	1	48				
+//
+# SSSTKN_142059 Length: 33
+# SSSTKN_142059 Number of predicted TMRs: 0
+SSSTKN_142059	signal	1	21				
+SSSTKN_142059	outside	22	33				
+//
+# SSSTKN_143186 Length: 36
+# SSSTKN_143186 Number of predicted TMRs: 0
+SSSTKN_143186	inside	1	36				
+//
+# SSSTKN_135583 Length: 43
+# SSSTKN_135583 Number of predicted TMRs: 0
+SSSTKN_135583	inside	1	43				
+//
+# SSSTKN_12432 Length: 48
+# SSSTKN_12432 Number of predicted TMRs: 0
+SSSTKN_12432	outside	1	48				
+//
+# SSSTKN_113656 Length: 47
+# SSSTKN_113656 Number of predicted TMRs: 0
+SSSTKN_113656	inside	1	47				
+//
+# SSSTKN_90574 Length: 45
+# SSSTKN_90574 Number of predicted TMRs: 0
+SSSTKN_90574	inside	1	45				
+//
+# SSSTKN_100083 Length: 43
+# SSSTKN_100083 Number of predicted TMRs: 0
+SSSTKN_100083	inside	1	43				
+//
+# SSSTKN_2282 Length: 47
+# SSSTKN_2282 Number of predicted TMRs: 0
+SSSTKN_2282	signal	1	41				
+SSSTKN_2282	outside	42	47				
+//
+# SSSTKN_50531 Length: 46
+# SSSTKN_50531 Number of predicted TMRs: 0
+SSSTKN_50531	inside	1	46				
+//
+# SSSTKN_64854 Length: 46
+# SSSTKN_64854 Number of predicted TMRs: 0
+SSSTKN_64854	signal	1	25				
+SSSTKN_64854	outside	26	46				
+//
+# SSSTKN_25825 Length: 35
+# SSSTKN_25825 Number of predicted TMRs: 0
+SSSTKN_25825	inside	1	35				
+//
+# SSSTKN_153385 Length: 47
+# SSSTKN_153385 Number of predicted TMRs: 0
+SSSTKN_153385	inside	1	47				
+//
+# SSSTKN_111154 Length: 49
+# SSSTKN_111154 Number of predicted TMRs: 0
+SSSTKN_111154	inside	1	49				
+//
+# SSSTKN_165106 Length: 38
+# SSSTKN_165106 Number of predicted TMRs: 0
+SSSTKN_165106	inside	1	38				
+//
+# SSSTKN_90539 Length: 49
+# SSSTKN_90539 Number of predicted TMRs: 0
+SSSTKN_90539	inside	1	49				
+//
+# SSSTKN_55621 Length: 46
+# SSSTKN_55621 Number of predicted TMRs: 0
+SSSTKN_55621	inside	1	46				
+//
+# SSSTKN_53715 Length: 42
+# SSSTKN_53715 Number of predicted TMRs: 0
+SSSTKN_53715	inside	1	42				
+//
+# SSSTKN_53721 Length: 44
+# SSSTKN_53721 Number of predicted TMRs: 0
+SSSTKN_53721	inside	1	44				
+//
+# SSSTKN_69907 Length: 39
+# SSSTKN_69907 Number of predicted TMRs: 0
+SSSTKN_69907	inside	1	39				
+//
+# SSSTKN_146561 Length: 32
+# SSSTKN_146561 Number of predicted TMRs: 0
+SSSTKN_146561	inside	1	32				
+//
+# SSSTKN_90202 Length: 39
+# SSSTKN_90202 Number of predicted TMRs: 0
+SSSTKN_90202	signal	1	26				
+SSSTKN_90202	outside	27	39				
+//
+# SSSTKN_71480 Length: 47
+# SSSTKN_71480 Number of predicted TMRs: 0
+SSSTKN_71480	signal	1	19				
+SSSTKN_71480	outside	20	47				
+//
+# SSSTKN_64998 Length: 45
+# SSSTKN_64998 Number of predicted TMRs: 0
+SSSTKN_64998	inside	1	45				
+//
+# SSSTKN_42625 Length: 49
+# SSSTKN_42625 Number of predicted TMRs: 0
+SSSTKN_42625	inside	1	49				
+//
+# SSSTKN_144922 Length: 45
+# SSSTKN_144922 Number of predicted TMRs: 0
+SSSTKN_144922	outside	1	45				
+//
+# SSSTKN_106333 Length: 37
+# SSSTKN_106333 Number of predicted TMRs: 0
+SSSTKN_106333	outside	1	37				
+//
+# SSSTKN_42278 Length: 43
+# SSSTKN_42278 Number of predicted TMRs: 0
+SSSTKN_42278	inside	1	43				
+//
+# SSSTKN_22892 Length: 50
+# SSSTKN_22892 Number of predicted TMRs: 0
+SSSTKN_22892	inside	1	50				
+//
+# SSSTKN_56632 Length: 50
+# SSSTKN_56632 Number of predicted TMRs: 0
+SSSTKN_56632	inside	1	50				
+//
+# SSSTKN_110140 Length: 48
+# SSSTKN_110140 Number of predicted TMRs: 0
+SSSTKN_110140	inside	1	48				
+//
+# SSSTKN_121847 Length: 37
+# SSSTKN_121847 Number of predicted TMRs: 0
+SSSTKN_121847	signal	1	35				
+SSSTKN_121847	outside	36	37				
+//
+# SSSTKN_170733 Length: 47
+# SSSTKN_170733 Number of predicted TMRs: 0
+SSSTKN_170733	signal	1	46				
+SSSTKN_170733	outside	47	47				
+//
+# SSSTKN_162382 Length: 40
+# SSSTKN_162382 Number of predicted TMRs: 0
+SSSTKN_162382	signal	1	31				
+SSSTKN_162382	outside	32	40				
+//
+# SSSTKN_55206 Length: 46
+# SSSTKN_55206 Number of predicted TMRs: 0
+SSSTKN_55206	inside	1	46				
+//
+# SSSTKN_127705 Length: 38
+# SSSTKN_127705 Number of predicted TMRs: 0
+SSSTKN_127705	inside	1	38				
+//
+# SSSTKN_90770 Length: 50
+# SSSTKN_90770 Number of predicted TMRs: 0
+SSSTKN_90770	inside	1	50				
+//
+# SSSTKN_125288 Length: 40
+# SSSTKN_125288 Number of predicted TMRs: 0
+SSSTKN_125288	inside	1	40				
+//
+# SSSTKN_165534 Length: 45
+# SSSTKN_165534 Number of predicted TMRs: 0
+SSSTKN_165534	inside	1	45				
+//
+# SSSTKN_120172 Length: 44
+# SSSTKN_120172 Number of predicted TMRs: 0
+SSSTKN_120172	inside	1	44				
+//
+# SSSTKN_162836 Length: 44
+# SSSTKN_162836 Number of predicted TMRs: 0
+SSSTKN_162836	inside	1	44				
+//
+# SSSTKN_86639 Length: 44
+# SSSTKN_86639 Number of predicted TMRs: 0
+SSSTKN_86639	inside	1	44				
+//
+# SSSTKN_167912 Length: 48
+# SSSTKN_167912 Number of predicted TMRs: 0
+SSSTKN_167912	inside	1	48				
+//
+# SSSTKN_99418 Length: 44
+# SSSTKN_99418 Number of predicted TMRs: 0
+SSSTKN_99418	inside	1	44				
+//
+# SSSTKN_106221 Length: 31
+# SSSTKN_106221 Number of predicted TMRs: 0
+SSSTKN_106221	inside	1	31				
+//
+# SSSTKN_136839 Length: 45
+# SSSTKN_136839 Number of predicted TMRs: 0
+SSSTKN_136839	inside	1	45				
+//
+# SSSTKN_122835 Length: 49
+# SSSTKN_122835 Number of predicted TMRs: 0
+SSSTKN_122835	inside	1	49				
+//
+# SSSTKN_127477 Length: 48
+# SSSTKN_127477 Number of predicted TMRs: 0
+SSSTKN_127477	inside	1	48				
+//
+# SSSTKN_7388 Length: 49
+# SSSTKN_7388 Number of predicted TMRs: 0
+SSSTKN_7388	inside	1	49				
+//
+# SSSTKN_12067 Length: 44
+# SSSTKN_12067 Number of predicted TMRs: 0
+SSSTKN_12067	signal	1	26				
+SSSTKN_12067	outside	27	44				
+//
+# SSSTKN_109498 Length: 48
+# SSSTKN_109498 Number of predicted TMRs: 0
+SSSTKN_109498	inside	1	48				
+//
+# SSSTKN_6691 Length: 46
+# SSSTKN_6691 Number of predicted TMRs: 0
+SSSTKN_6691	inside	1	46				
+//
+# SSSTKN_126962 Length: 47
+# SSSTKN_126962 Number of predicted TMRs: 0
+SSSTKN_126962	inside	1	47				
+//
+# SSSTKN_95109 Length: 44
+# SSSTKN_95109 Number of predicted TMRs: 0
+SSSTKN_95109	signal	1	37				
+SSSTKN_95109	outside	38	44				
+//
+# SSSTKN_155036 Length: 48
+# SSSTKN_155036 Number of predicted TMRs: 0
+SSSTKN_155036	inside	1	48				
+//
+# SSSTKN_80168 Length: 34
+# SSSTKN_80168 Number of predicted TMRs: 0
+SSSTKN_80168	inside	1	34				
+//
+# SSSTKN_76955 Length: 45
+# SSSTKN_76955 Number of predicted TMRs: 0
+SSSTKN_76955	inside	1	45				
+//
+# SSSTKN_62530 Length: 48
+# SSSTKN_62530 Number of predicted TMRs: 0
+SSSTKN_62530	inside	1	48				
+//
+# SSSTKN_44492 Length: 38
+# SSSTKN_44492 Number of predicted TMRs: 0
+SSSTKN_44492	inside	1	38				
+//
+# SSSTKN_116392 Length: 42
+# SSSTKN_116392 Number of predicted TMRs: 0
+SSSTKN_116392	signal	1	23				
+SSSTKN_116392	outside	24	42				
+//
+# SSSTKN_132822 Length: 48
+# SSSTKN_132822 Number of predicted TMRs: 0
+SSSTKN_132822	signal	1	40				
+SSSTKN_132822	outside	41	48				
+//
+# SSSTKN_137695 Length: 36
+# SSSTKN_137695 Number of predicted TMRs: 0
+SSSTKN_137695	signal	1	23				
+SSSTKN_137695	outside	24	36				
+//
+# SSSTKN_137698 Length: 48
+# SSSTKN_137698 Number of predicted TMRs: 0
+SSSTKN_137698	signal	1	35				
+SSSTKN_137698	outside	36	48				
+//
+# SSSTKN_11295 Length: 45
+# SSSTKN_11295 Number of predicted TMRs: 0
+SSSTKN_11295	signal	1	44				
+SSSTKN_11295	outside	45	45				
+//
+# SSSTKN_33093 Length: 40
+# SSSTKN_33093 Number of predicted TMRs: 0
+SSSTKN_33093	inside	1	40				
+//
+# SSSTKN_144245 Length: 42
+# SSSTKN_144245 Number of predicted TMRs: 0
+SSSTKN_144245	inside	1	42				
+//
+# SSSTKN_88685 Length: 46
+# SSSTKN_88685 Number of predicted TMRs: 0
+SSSTKN_88685	inside	1	46				
+//
+# SSSTKN_37538 Length: 50
+# SSSTKN_37538 Number of predicted TMRs: 0
+SSSTKN_37538	inside	1	50				
+//
+# SSSTKN_42269 Length: 46
+# SSSTKN_42269 Number of predicted TMRs: 0
+SSSTKN_42269	signal	1	15				
+SSSTKN_42269	outside	16	46				
+//
+# SSSTKN_124757 Length: 38
+# SSSTKN_124757 Number of predicted TMRs: 0
+SSSTKN_124757	signal	1	33				
+SSSTKN_124757	outside	34	38				
+//
+# SSSTKN_165680 Length: 46
+# SSSTKN_165680 Number of predicted TMRs: 0
+SSSTKN_165680	outside	1	46				
+//
+# SSSTKN_6661 Length: 46
+# SSSTKN_6661 Number of predicted TMRs: 0
+SSSTKN_6661	signal	1	37				
+SSSTKN_6661	outside	38	46				
+//
+# SSSTKN_68293 Length: 43
+# SSSTKN_68293 Number of predicted TMRs: 0
+SSSTKN_68293	inside	1	43				
+//
+# SSSTKN_9830 Length: 49
+# SSSTKN_9830 Number of predicted TMRs: 0
+SSSTKN_9830	signal	1	48				
+SSSTKN_9830	outside	49	49				
+//
+# SSSTKN_44346 Length: 46
+# SSSTKN_44346 Number of predicted TMRs: 0
+SSSTKN_44346	signal	1	17				
+SSSTKN_44346	outside	18	46				
+//
+# SSSTKN_29622 Length: 45
+# SSSTKN_29622 Number of predicted TMRs: 0
+SSSTKN_29622	inside	1	45				
+//
+# SSSTKN_21796 Length: 47
+# SSSTKN_21796 Number of predicted TMRs: 0
+SSSTKN_21796	inside	1	47				
+//
+# SSSTKN_86360 Length: 50
+# SSSTKN_86360 Number of predicted TMRs: 0
+SSSTKN_86360	inside	1	50				
+//
+# SSSTKN_90569 Length: 30
+# SSSTKN_90569 Number of predicted TMRs: 0
+SSSTKN_90569	signal	1	18				
+SSSTKN_90569	outside	19	30				
+//
+# SSSTKN_38375 Length: 44
+# SSSTKN_38375 Number of predicted TMRs: 0
+SSSTKN_38375	inside	1	44				
+//
+# SSSTKN_60775 Length: 44
+# SSSTKN_60775 Number of predicted TMRs: 0
+SSSTKN_60775	inside	1	44				
+//
+# SSSTKN_42192 Length: 45
+# SSSTKN_42192 Number of predicted TMRs: 0
+SSSTKN_42192	outside	1	45				
+//
+# SSSTKN_143507 Length: 50
+# SSSTKN_143507 Number of predicted TMRs: 0
+SSSTKN_143507	inside	1	50				
+//
+# SSSTKN_112260 Length: 42
+# SSSTKN_112260 Number of predicted TMRs: 0
+SSSTKN_112260	inside	1	42				
+//
+# SSSTKN_124198 Length: 45
+# SSSTKN_124198 Number of predicted TMRs: 0
+SSSTKN_124198	inside	1	45				
+//
+# SSSTKN_96412 Length: 47
+# SSSTKN_96412 Number of predicted TMRs: 0
+SSSTKN_96412	inside	1	47				
+//
+# SSSTKN_88480 Length: 50
+# SSSTKN_88480 Number of predicted TMRs: 0
+SSSTKN_88480	inside	1	50				
+//
+# SSSTKN_115449 Length: 39
+# SSSTKN_115449 Number of predicted TMRs: 0
+SSSTKN_115449	inside	1	39				
+//
+# SSSTKN_102663 Length: 46
+# SSSTKN_102663 Number of predicted TMRs: 0
+SSSTKN_102663	inside	1	46				
+//
+# SSSTKN_118684 Length: 36
+# SSSTKN_118684 Number of predicted TMRs: 0
+SSSTKN_118684	signal	1	33				
+SSSTKN_118684	outside	34	36				
+//
+# SSSTKN_168401 Length: 50
+# SSSTKN_168401 Number of predicted TMRs: 0
+SSSTKN_168401	inside	1	50				
+//
+# SSSTKN_71092 Length: 49
+# SSSTKN_71092 Number of predicted TMRs: 0
+SSSTKN_71092	signal	1	48				
+SSSTKN_71092	outside	49	49				
+//
+# SSSTKN_75644 Length: 46
+# SSSTKN_75644 Number of predicted TMRs: 0
+SSSTKN_75644	signal	1	39				
+SSSTKN_75644	outside	40	46				
+//
+# SSSTKN_118003 Length: 46
+# SSSTKN_118003 Number of predicted TMRs: 0
+SSSTKN_118003	inside	1	46				
+//
+# SSSTKN_115966 Length: 48
+# SSSTKN_115966 Number of predicted TMRs: 0
+SSSTKN_115966	signal	1	13				
+SSSTKN_115966	outside	14	48				
+//
+# SSSTKN_28886 Length: 50
+# SSSTKN_28886 Number of predicted TMRs: 0
+SSSTKN_28886	inside	1	50				
+//
+# SSSTKN_28158 Length: 50
+# SSSTKN_28158 Number of predicted TMRs: 0
+SSSTKN_28158	signal	1	49				
+SSSTKN_28158	outside	50	50				
+//
+# SSSTKN_84857 Length: 44
+# SSSTKN_84857 Number of predicted TMRs: 0
+SSSTKN_84857	inside	1	44				
+//
+# SSSTKN_127441 Length: 40
+# SSSTKN_127441 Number of predicted TMRs: 0
+SSSTKN_127441	signal	1	25				
+SSSTKN_127441	outside	26	40				
+//
+# SSSTKN_133345 Length: 41
+# SSSTKN_133345 Number of predicted TMRs: 0
+SSSTKN_133345	inside	1	41				
+//
+# SSSTKN_157269 Length: 45
+# SSSTKN_157269 Number of predicted TMRs: 0
+SSSTKN_157269	inside	1	45				
+//
+# SSSTKN_80679 Length: 41
+# SSSTKN_80679 Number of predicted TMRs: 0
+SSSTKN_80679	signal	1	39				
+SSSTKN_80679	outside	40	41				
+//
+# SSSTKN_62386 Length: 47
+# SSSTKN_62386 Number of predicted TMRs: 0
+SSSTKN_62386	inside	1	47				
+//
+# SSSTKN_5261 Length: 48
+# SSSTKN_5261 Number of predicted TMRs: 0
+SSSTKN_5261	signal	1	47				
+SSSTKN_5261	outside	48	48				
+//
+# SSSTKN_33955 Length: 44
+# SSSTKN_33955 Number of predicted TMRs: 0
+SSSTKN_33955	signal	1	43				
+SSSTKN_33955	outside	44	44				
+//
+# SSSTKN_37171 Length: 33
+# SSSTKN_37171 Number of predicted TMRs: 0
+SSSTKN_37171	signal	1	24				
+SSSTKN_37171	outside	25	33				
+//
+# SSSTKN_26884 Length: 38
+# SSSTKN_26884 Number of predicted TMRs: 0
+SSSTKN_26884	signal	1	23				
+SSSTKN_26884	outside	24	38				
+//
+# SSSTKN_96657 Length: 41
+# SSSTKN_96657 Number of predicted TMRs: 0
+SSSTKN_96657	signal	1	40				
+SSSTKN_96657	outside	41	41				
+//
+# SSSTKN_145068 Length: 49
+# SSSTKN_145068 Number of predicted TMRs: 0
+SSSTKN_145068	inside	1	49				
+//
+# SSSTKN_37467 Length: 46
+# SSSTKN_37467 Number of predicted TMRs: 0
+SSSTKN_37467	inside	1	46				
+//
+# SSSTKN_99429 Length: 44
+# SSSTKN_99429 Number of predicted TMRs: 0
+SSSTKN_99429	signal	1	43				
+SSSTKN_99429	outside	44	44				
+//
+# SSSTKN_57278 Length: 36
+# SSSTKN_57278 Number of predicted TMRs: 0
+SSSTKN_57278	signal	1	34				
+SSSTKN_57278	outside	35	36				
+//
+# SSSTKN_133850 Length: 39
+# SSSTKN_133850 Number of predicted TMRs: 0
+SSSTKN_133850	inside	1	39				
+//
+# SSSTKN_129718 Length: 46
+# SSSTKN_129718 Number of predicted TMRs: 0
+SSSTKN_129718	inside	1	46				
+//
+# SSSTKN_2109 Length: 44
+# SSSTKN_2109 Number of predicted TMRs: 0
+SSSTKN_2109	signal	1	43				
+SSSTKN_2109	outside	44	44				
+//
+# SSSTKN_68459 Length: 43
+# SSSTKN_68459 Number of predicted TMRs: 0
+SSSTKN_68459	signal	1	42				
+SSSTKN_68459	outside	43	43				
+//
+# SSSTKN_83879 Length: 41
+# SSSTKN_83879 Number of predicted TMRs: 0
+SSSTKN_83879	signal	1	24				
+SSSTKN_83879	outside	25	41				
+//
+# SSSTKN_94441 Length: 49
+# SSSTKN_94441 Number of predicted TMRs: 0
+SSSTKN_94441	inside	1	49				
+//
+# SSSTKN_131014 Length: 50
+# SSSTKN_131014 Number of predicted TMRs: 0
+SSSTKN_131014	signal	1	49				
+SSSTKN_131014	outside	50	50				
+//
+# SSSTKN_130784 Length: 46
+# SSSTKN_130784 Number of predicted TMRs: 0
+SSSTKN_130784	inside	1	46				
+//
+# SSSTKN_10661 Length: 46
+# SSSTKN_10661 Number of predicted TMRs: 0
+SSSTKN_10661	inside	1	46				
+//
+# SSSTKN_78240 Length: 48
+# SSSTKN_78240 Number of predicted TMRs: 0
+SSSTKN_78240	signal	1	23				
+SSSTKN_78240	outside	24	48				
+//
+# SSSTKN_8268 Length: 43
+# SSSTKN_8268 Number of predicted TMRs: 0
+SSSTKN_8268	inside	1	43				
+//
+# SSSTKN_31057 Length: 49
+# SSSTKN_31057 Number of predicted TMRs: 0
+SSSTKN_31057	inside	1	49				
+//
+# SSSTKN_108494 Length: 47
+# SSSTKN_108494 Number of predicted TMRs: 0
+SSSTKN_108494	inside	1	47				
+//
+# SSSTKN_139601 Length: 43
+# SSSTKN_139601 Number of predicted TMRs: 0
+SSSTKN_139601	inside	1	43				
+//
+# SSSTKN_139604 Length: 44
+# SSSTKN_139604 Number of predicted TMRs: 0
+SSSTKN_139604	inside	1	44				
+//
+# SSSTKN_84435 Length: 45
+# SSSTKN_84435 Number of predicted TMRs: 0
+SSSTKN_84435	signal	1	20				
+SSSTKN_84435	outside	21	45				
+//
+# SSSTKN_5145 Length: 46
+# SSSTKN_5145 Number of predicted TMRs: 0
+SSSTKN_5145	inside	1	46				
+//
+# SSSTKN_80245 Length: 48
+# SSSTKN_80245 Number of predicted TMRs: 0
+SSSTKN_80245	inside	1	48				
+//
+# SSSTKN_116941 Length: 41
+# SSSTKN_116941 Number of predicted TMRs: 0
+SSSTKN_116941	inside	1	41				
+//
+# SSSTKN_157613 Length: 49
+# SSSTKN_157613 Number of predicted TMRs: 0
+SSSTKN_157613	inside	1	49				
+//
+# SSSTKN_15940 Length: 46
+# SSSTKN_15940 Number of predicted TMRs: 0
+SSSTKN_15940	inside	1	46				
+//
+# SSSTKN_164560 Length: 50
+# SSSTKN_164560 Number of predicted TMRs: 0
+SSSTKN_164560	inside	1	50				
+//
+# SSSTKN_18103 Length: 46
+# SSSTKN_18103 Number of predicted TMRs: 0
+SSSTKN_18103	signal	1	20				
+SSSTKN_18103	outside	21	46				
+//
+# SSSTKN_163736 Length: 39
+# SSSTKN_163736 Number of predicted TMRs: 0
+SSSTKN_163736	inside	1	39				
+//
+# SSSTKN_9425 Length: 44
+# SSSTKN_9425 Number of predicted TMRs: 0
+SSSTKN_9425	signal	1	22				
+SSSTKN_9425	outside	23	44				
+//
+# SSSTKN_102222 Length: 50
+# SSSTKN_102222 Number of predicted TMRs: 0
+SSSTKN_102222	inside	1	50				
+//
+# SSSTKN_54707 Length: 50
+# SSSTKN_54707 Number of predicted TMRs: 0
+SSSTKN_54707	inside	1	50				
+//
+# SSSTKN_122779 Length: 45
+# SSSTKN_122779 Number of predicted TMRs: 0
+SSSTKN_122779	inside	1	45				
+//
+# SSSTKN_16941 Length: 43
+# SSSTKN_16941 Number of predicted TMRs: 0
+SSSTKN_16941	inside	1	43				
+//
+# SSSTKN_169839 Length: 49
+# SSSTKN_169839 Number of predicted TMRs: 0
+SSSTKN_169839	inside	1	49				
+//
+# SSSTKN_75240 Length: 48
+# SSSTKN_75240 Number of predicted TMRs: 0
+SSSTKN_75240	signal	1	47				
+SSSTKN_75240	outside	48	48				
+//
+# SSSTKN_115695 Length: 38
+# SSSTKN_115695 Number of predicted TMRs: 0
+SSSTKN_115695	inside	1	38				
+//
+# SSSTKN_130013 Length: 39
+# SSSTKN_130013 Number of predicted TMRs: 0
+SSSTKN_130013	signal	1	37				
+SSSTKN_130013	outside	38	39				
+//
+# SSSTKN_165378 Length: 42
+# SSSTKN_165378 Number of predicted TMRs: 0
+SSSTKN_165378	inside	1	42				
+//
+# SSSTKN_131829 Length: 45
+# SSSTKN_131829 Number of predicted TMRs: 0
+SSSTKN_131829	signal	1	44				
+SSSTKN_131829	outside	45	45				
+//
+# SSSTKN_6370 Length: 49
+# SSSTKN_6370 Number of predicted TMRs: 0
+SSSTKN_6370	signal	1	40				
+SSSTKN_6370	outside	41	49				
+//
+# SSSTKN_39829 Length: 41
+# SSSTKN_39829 Number of predicted TMRs: 0
+SSSTKN_39829	inside	1	41				
+//
+# SSSTKN_121306 Length: 50
+# SSSTKN_121306 Number of predicted TMRs: 0
+SSSTKN_121306	signal	1	14				
+SSSTKN_121306	outside	15	50				
+//
+# SSSTKN_4008 Length: 40
+# SSSTKN_4008 Number of predicted TMRs: 0
+SSSTKN_4008	signal	1	39				
+SSSTKN_4008	outside	40	40				
+//
+# SSSTKN_136798 Length: 43
+# SSSTKN_136798 Number of predicted TMRs: 0
+SSSTKN_136798	signal	1	24				
+SSSTKN_136798	outside	25	43				
+//
+# SSSTKN_87117 Length: 42
+# SSSTKN_87117 Number of predicted TMRs: 0
+SSSTKN_87117	inside	1	42				
+//
+# SSSTKN_151061 Length: 50
+# SSSTKN_151061 Number of predicted TMRs: 0
+SSSTKN_151061	inside	1	50				
+//
+# SSSTKN_113775 Length: 40
+# SSSTKN_113775 Number of predicted TMRs: 0
+SSSTKN_113775	signal	1	20				
+SSSTKN_113775	outside	21	40				
+//
+# SSSTKN_45087 Length: 42
+# SSSTKN_45087 Number of predicted TMRs: 0
+SSSTKN_45087	signal	1	10				
+SSSTKN_45087	outside	11	42				
+//
+# SSSTKN_172025 Length: 45
+# SSSTKN_172025 Number of predicted TMRs: 0
+SSSTKN_172025	inside	1	45				
+//
+# SSSTKN_22879 Length: 43
+# SSSTKN_22879 Number of predicted TMRs: 0
+SSSTKN_22879	inside	1	43				
+//
+# SSSTKN_61135 Length: 44
+# SSSTKN_61135 Number of predicted TMRs: 0
+SSSTKN_61135	inside	1	44				
+//
+# SSSTKN_10957 Length: 49
+# SSSTKN_10957 Number of predicted TMRs: 0
+SSSTKN_10957	inside	1	49				
+//
+# SSSTKN_74157 Length: 42
+# SSSTKN_74157 Number of predicted TMRs: 0
+SSSTKN_74157	inside	1	42				
+//
+# SSSTKN_6917 Length: 49
+# SSSTKN_6917 Number of predicted TMRs: 0
+SSSTKN_6917	inside	1	49				
+//
+# SSSTKN_80016 Length: 44
+# SSSTKN_80016 Number of predicted TMRs: 0
+SSSTKN_80016	inside	1	44				
+//
+# SSSTKN_44428 Length: 45
+# SSSTKN_44428 Number of predicted TMRs: 0
+SSSTKN_44428	signal	1	18				
+SSSTKN_44428	outside	19	45				
+//
+# SSSTKN_170897 Length: 50
+# SSSTKN_170897 Number of predicted TMRs: 0
+SSSTKN_170897	signal	1	40				
+SSSTKN_170897	outside	41	50				
+//
+# SSSTKN_96047 Length: 43
+# SSSTKN_96047 Number of predicted TMRs: 0
+SSSTKN_96047	inside	1	43				
+//
+# SSSTKN_159341 Length: 50
+# SSSTKN_159341 Number of predicted TMRs: 0
+SSSTKN_159341	inside	1	50				
+//
+# SSSTKN_13152 Length: 41
+# SSSTKN_13152 Number of predicted TMRs: 0
+SSSTKN_13152	inside	1	41				
+//
+# SSSTKN_141354 Length: 41
+# SSSTKN_141354 Number of predicted TMRs: 0
+SSSTKN_141354	signal	1	19				
+SSSTKN_141354	outside	20	41				
+//
+# SSSTKN_59929 Length: 49
+# SSSTKN_59929 Number of predicted TMRs: 0
+SSSTKN_59929	inside	1	49				
+//
+# SSSTKN_172705 Length: 50
+# SSSTKN_172705 Number of predicted TMRs: 0
+SSSTKN_172705	signal	1	39				
+SSSTKN_172705	outside	40	50				
+//
+# SSSTKN_21321 Length: 49
+# SSSTKN_21321 Number of predicted TMRs: 0
+SSSTKN_21321	inside	1	49				
+//
+# SSSTKN_86662 Length: 38
+# SSSTKN_86662 Number of predicted TMRs: 0
+SSSTKN_86662	signal	1	32				
+SSSTKN_86662	outside	33	38				
+//
+# SSSTKN_169406 Length: 48
+# SSSTKN_169406 Number of predicted TMRs: 0
+SSSTKN_169406	signal	1	38				
+SSSTKN_169406	outside	39	48				
+//
+# SSSTKN_36221 Length: 38
+# SSSTKN_36221 Number of predicted TMRs: 0
+SSSTKN_36221	inside	1	38				
+//
+# SSSTKN_152392 Length: 49
+# SSSTKN_152392 Number of predicted TMRs: 0
+SSSTKN_152392	signal	1	47				
+SSSTKN_152392	outside	48	49				
+//
+# SSSTKN_79365 Length: 46
+# SSSTKN_79365 Number of predicted TMRs: 0
+SSSTKN_79365	inside	1	46				
+//
+# SSSTKN_132582 Length: 49
+# SSSTKN_132582 Number of predicted TMRs: 0
+SSSTKN_132582	inside	1	49				
+//
+# SSSTKN_61639 Length: 44
+# SSSTKN_61639 Number of predicted TMRs: 0
+SSSTKN_61639	signal	1	43				
+SSSTKN_61639	outside	44	44				
+//
+# SSSTKN_128483 Length: 48
+# SSSTKN_128483 Number of predicted TMRs: 0
+SSSTKN_128483	signal	1	28				
+SSSTKN_128483	outside	29	48				
+//
+# SSSTKN_128353 Length: 43
+# SSSTKN_128353 Number of predicted TMRs: 0
+SSSTKN_128353	signal	1	42				
+SSSTKN_128353	outside	43	43				
+//
+# SSSTKN_136271 Length: 41
+# SSSTKN_136271 Number of predicted TMRs: 0
+SSSTKN_136271	signal	1	40				
+SSSTKN_136271	outside	41	41				
+//
+# SSSTKN_16185 Length: 44
+# SSSTKN_16185 Number of predicted TMRs: 0
+SSSTKN_16185	inside	1	44				
+//
+# SSSTKN_130781 Length: 50
+# SSSTKN_130781 Number of predicted TMRs: 0
+SSSTKN_130781	outside	1	50				
+//
+# SSSTKN_24289 Length: 47
+# SSSTKN_24289 Number of predicted TMRs: 0
+SSSTKN_24289	signal	1	46				
+SSSTKN_24289	outside	47	47				
+//
+# SSSTKN_23366 Length: 49
+# SSSTKN_23366 Number of predicted TMRs: 0
+SSSTKN_23366	inside	1	49				
+//
+# SSSTKN_151640 Length: 50
+# SSSTKN_151640 Number of predicted TMRs: 0
+SSSTKN_151640	outside	1	50				
+//
+# SSSTKN_81085 Length: 50
+# SSSTKN_81085 Number of predicted TMRs: 0
+SSSTKN_81085	inside	1	50				
+//
+# SSSTKN_3531 Length: 38
+# SSSTKN_3531 Number of predicted TMRs: 0
+SSSTKN_3531	inside	1	38				
+//
+# SSSTKN_46393 Length: 49
+# SSSTKN_46393 Number of predicted TMRs: 0
+SSSTKN_46393	inside	1	49				
+//
+# SSSTKN_100025 Length: 48
+# SSSTKN_100025 Number of predicted TMRs: 0
+SSSTKN_100025	inside	1	48				
+//
+# SSSTKN_144881 Length: 50
+# SSSTKN_144881 Number of predicted TMRs: 0
+SSSTKN_144881	signal	1	49				
+SSSTKN_144881	outside	50	50				
+//
+# SSSTKN_169507 Length: 41
+# SSSTKN_169507 Number of predicted TMRs: 0
+SSSTKN_169507	inside	1	41				
+//
+# SSSTKN_8498 Length: 40
+# SSSTKN_8498 Number of predicted TMRs: 1
+SSSTKN_8498	inside	1	18				
+SSSTKN_8498	TMhelix	19	34				
+SSSTKN_8498	outside	35	40				
+//
+# SSSTKN_95409 Length: 49
+# SSSTKN_95409 Number of predicted TMRs: 0
+SSSTKN_95409	inside	1	49				
+//
+# SSSTKN_167872 Length: 41
+# SSSTKN_167872 Number of predicted TMRs: 0
+SSSTKN_167872	signal	1	26				
+SSSTKN_167872	outside	27	41				
+//
+# SSSTKN_162355 Length: 40
+# SSSTKN_162355 Number of predicted TMRs: 0
+SSSTKN_162355	signal	1	23				
+SSSTKN_162355	outside	24	40				
+//
+# SSSTKN_111160 Length: 43
+# SSSTKN_111160 Number of predicted TMRs: 0
+SSSTKN_111160	signal	1	15				
+SSSTKN_111160	outside	16	43				
+//
+# SSSTKN_60084 Length: 45
+# SSSTKN_60084 Number of predicted TMRs: 0
+SSSTKN_60084	inside	1	45				
+//
+# SSSTKN_4296 Length: 49
+# SSSTKN_4296 Number of predicted TMRs: 0
+SSSTKN_4296	signal	1	31				
+SSSTKN_4296	outside	32	49				
+//
+# SSSTKN_145666 Length: 50
+# SSSTKN_145666 Number of predicted TMRs: 0
+SSSTKN_145666	inside	1	50				
+//
+# SSSTKN_157408 Length: 38
+# SSSTKN_157408 Number of predicted TMRs: 0
+SSSTKN_157408	signal	1	37				
+SSSTKN_157408	outside	38	38				
+//
+# SSSTKN_163025 Length: 39
+# SSSTKN_163025 Number of predicted TMRs: 0
+SSSTKN_163025	inside	1	39				
+//
+# SSSTKN_12092 Length: 42
+# SSSTKN_12092 Number of predicted TMRs: 0
+SSSTKN_12092	inside	1	42				
+//
+# SSSTKN_14915 Length: 44
+# SSSTKN_14915 Number of predicted TMRs: 0
+SSSTKN_14915	outside	1	44				
+//
+# SSSTKN_98424 Length: 44
+# SSSTKN_98424 Number of predicted TMRs: 0
+SSSTKN_98424	inside	1	44				
+//
+# SSSTKN_165262 Length: 44
+# SSSTKN_165262 Number of predicted TMRs: 0
+SSSTKN_165262	inside	1	44				
+//
+# SSSTKN_120111 Length: 44
+# SSSTKN_120111 Number of predicted TMRs: 0
+SSSTKN_120111	inside	1	44				
+//
+# SSSTKN_150178 Length: 50
+# SSSTKN_150178 Number of predicted TMRs: 0
+SSSTKN_150178	signal	1	49				
+SSSTKN_150178	outside	50	50				
+//
+# SSSTKN_41806 Length: 47
+# SSSTKN_41806 Number of predicted TMRs: 0
+SSSTKN_41806	inside	1	47				
+//
+# SSSTKN_166041 Length: 44
+# SSSTKN_166041 Number of predicted TMRs: 0
+SSSTKN_166041	outside	1	44				
+//
+# SSSTKN_9246 Length: 44
+# SSSTKN_9246 Number of predicted TMRs: 0
+SSSTKN_9246	outside	1	44				
+//
+# SSSTKN_53315 Length: 44
+# SSSTKN_53315 Number of predicted TMRs: 0
+SSSTKN_53315	outside	1	44				
+//
+# SSSTKN_53324 Length: 44
+# SSSTKN_53324 Number of predicted TMRs: 0
+SSSTKN_53324	inside	1	44				
+//
+# SSSTKN_165185 Length: 50
+# SSSTKN_165185 Number of predicted TMRs: 0
+SSSTKN_165185	outside	1	50				
+//
+# SSSTKN_44313 Length: 50
+# SSSTKN_44313 Number of predicted TMRs: 0
+SSSTKN_44313	inside	1	50				
+//
+# SSSTKN_28300 Length: 50
+# SSSTKN_28300 Number of predicted TMRs: 0
+SSSTKN_28300	inside	1	50				
+//
+# SSSTKN_116507 Length: 50
+# SSSTKN_116507 Number of predicted TMRs: 0
+SSSTKN_116507	outside	1	50				
+//
+# SSSTKN_30557 Length: 50
+# SSSTKN_30557 Number of predicted TMRs: 0
+SSSTKN_30557	inside	1	50				
+//
+# SSSTKN_7021 Length: 50
+# SSSTKN_7021 Number of predicted TMRs: 0
+SSSTKN_7021	outside	1	50				
+//
+# SSSTKN_95154 Length: 50
+# SSSTKN_95154 Number of predicted TMRs: 0
+SSSTKN_95154	outside	1	50				
+//
+# SSSTKN_131786 Length: 50
+# SSSTKN_131786 Number of predicted TMRs: 0
+SSSTKN_131786	outside	1	50				
+//
+# SSSTKN_95668 Length: 50
+# SSSTKN_95668 Number of predicted TMRs: 0
+SSSTKN_95668	outside	1	50				
+//
+# SSSTKN_93798 Length: 46
+# SSSTKN_93798 Number of predicted TMRs: 0
+SSSTKN_93798	inside	1	46				
+//
+# SSSTKN_95491 Length: 50
+# SSSTKN_95491 Number of predicted TMRs: 0
+SSSTKN_95491	outside	1	50				
+//
+# SSSTKN_121466 Length: 50
+# SSSTKN_121466 Number of predicted TMRs: 0
+SSSTKN_121466	inside	1	50				
+//
+# SSSTKN_9156 Length: 46
+# SSSTKN_9156 Number of predicted TMRs: 0
+SSSTKN_9156	inside	1	46				
+//
+# SSSTKN_13834 Length: 50
+# SSSTKN_13834 Number of predicted TMRs: 0
+SSSTKN_13834	outside	1	50				

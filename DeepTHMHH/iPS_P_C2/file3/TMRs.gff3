@@ -1,0 +1,3903 @@
+##gff-version 3
+# MOSMEF_96336 Length: 41
+# MOSMEF_96336 Number of predicted TMRs: 0
+MOSMEF_96336	signal	1	40				
+MOSMEF_96336	outside	41	41				
+//
+# MOSMEF_37267 Length: 46
+# MOSMEF_37267 Number of predicted TMRs: 0
+MOSMEF_37267	inside	1	46				
+//
+# MOSMEF_98996 Length: 44
+# MOSMEF_98996 Number of predicted TMRs: 0
+MOSMEF_98996	signal	1	43				
+MOSMEF_98996	outside	44	44				
+//
+# MOSMEF_169488 Length: 43
+# MOSMEF_169488 Number of predicted TMRs: 0
+MOSMEF_169488	signal	1	27				
+MOSMEF_169488	outside	28	43				
+//
+# MOSMEF_54010 Length: 36
+# MOSMEF_54010 Number of predicted TMRs: 0
+MOSMEF_54010	signal	1	34				
+MOSMEF_54010	outside	35	36				
+//
+# MOSMEF_66156 Length: 41
+# MOSMEF_66156 Number of predicted TMRs: 0
+MOSMEF_66156	signal	1	38				
+MOSMEF_66156	outside	39	41				
+//
+# MOSMEF_133247 Length: 39
+# MOSMEF_133247 Number of predicted TMRs: 0
+MOSMEF_133247	inside	1	39				
+//
+# MOSMEF_127643 Length: 46
+# MOSMEF_127643 Number of predicted TMRs: 0
+MOSMEF_127643	inside	1	46				
+//
+# MOSMEF_2044 Length: 44
+# MOSMEF_2044 Number of predicted TMRs: 0
+MOSMEF_2044	signal	1	43				
+MOSMEF_2044	outside	44	44				
+//
+# MOSMEF_68101 Length: 43
+# MOSMEF_68101 Number of predicted TMRs: 0
+MOSMEF_68101	signal	1	42				
+MOSMEF_68101	outside	43	43				
+//
+# MOSMEF_83391 Length: 41
+# MOSMEF_83391 Number of predicted TMRs: 0
+MOSMEF_83391	signal	1	24				
+MOSMEF_83391	outside	25	41				
+//
+# MOSMEF_94158 Length: 49
+# MOSMEF_94158 Number of predicted TMRs: 0
+MOSMEF_94158	inside	1	49				
+//
+# MOSMEF_130219 Length: 46
+# MOSMEF_130219 Number of predicted TMRs: 0
+MOSMEF_130219	inside	1	46				
+//
+# MOSMEF_10530 Length: 46
+# MOSMEF_10530 Number of predicted TMRs: 0
+MOSMEF_10530	inside	1	46				
+//
+# MOSMEF_77843 Length: 48
+# MOSMEF_77843 Number of predicted TMRs: 0
+MOSMEF_77843	signal	1	23				
+MOSMEF_77843	outside	24	48				
+//
+# MOSMEF_116300 Length: 46
+# MOSMEF_116300 Number of predicted TMRs: 0
+MOSMEF_116300	inside	1	46				
+//
+# MOSMEF_6562 Length: 43
+# MOSMEF_6562 Number of predicted TMRs: 0
+MOSMEF_6562	inside	1	43				
+//
+# MOSMEF_108006 Length: 47
+# MOSMEF_108006 Number of predicted TMRs: 0
+MOSMEF_108006	inside	1	47				
+//
+# MOSMEF_86373 Length: 47
+# MOSMEF_86373 Number of predicted TMRs: 0
+MOSMEF_86373	inside	1	47				
+//
+# MOSMEF_138828 Length: 43
+# MOSMEF_138828 Number of predicted TMRs: 0
+MOSMEF_138828	inside	1	43				
+//
+# MOSMEF_138880 Length: 43
+# MOSMEF_138880 Number of predicted TMRs: 0
+MOSMEF_138880	inside	1	43				
+//
+# MOSMEF_138885 Length: 44
+# MOSMEF_138885 Number of predicted TMRs: 0
+MOSMEF_138885	inside	1	44				
+//
+# MOSMEF_83947 Length: 45
+# MOSMEF_83947 Number of predicted TMRs: 0
+MOSMEF_83947	signal	1	20				
+MOSMEF_83947	outside	21	45				
+//
+# MOSMEF_5071 Length: 46
+# MOSMEF_5071 Number of predicted TMRs: 0
+MOSMEF_5071	inside	1	46				
+//
+# MOSMEF_79813 Length: 48
+# MOSMEF_79813 Number of predicted TMRs: 0
+MOSMEF_79813	inside	1	48				
+//
+# MOSMEF_130794 Length: 38
+# MOSMEF_130794 Number of predicted TMRs: 0
+MOSMEF_130794	inside	1	38				
+//
+# MOSMEF_153057 Length: 47
+# MOSMEF_153057 Number of predicted TMRs: 0
+MOSMEF_153057	inside	1	47				
+//
+# MOSMEF_116440 Length: 41
+# MOSMEF_116440 Number of predicted TMRs: 0
+MOSMEF_116440	inside	1	41				
+//
+# MOSMEF_156986 Length: 49
+# MOSMEF_156986 Number of predicted TMRs: 0
+MOSMEF_156986	inside	1	49				
+//
+# MOSMEF_15838 Length: 46
+# MOSMEF_15838 Number of predicted TMRs: 0
+MOSMEF_15838	inside	1	46				
+//
+# MOSMEF_163973 Length: 50
+# MOSMEF_163973 Number of predicted TMRs: 0
+MOSMEF_163973	inside	1	50				
+//
+# MOSMEF_18041 Length: 46
+# MOSMEF_18041 Number of predicted TMRs: 0
+MOSMEF_18041	signal	1	20				
+MOSMEF_18041	outside	21	46				
+//
+# MOSMEF_22829 Length: 47
+# MOSMEF_22829 Number of predicted TMRs: 0
+MOSMEF_22829	inside	1	47				
+//
+# MOSMEF_9311 Length: 44
+# MOSMEF_9311 Number of predicted TMRs: 0
+MOSMEF_9311	signal	1	22				
+MOSMEF_9311	outside	23	44				
+//
+# MOSMEF_96256 Length: 42
+# MOSMEF_96256 Number of predicted TMRs: 0
+MOSMEF_96256	inside	1	42				
+//
+# MOSMEF_54617 Length: 50
+# MOSMEF_54617 Number of predicted TMRs: 0
+MOSMEF_54617	inside	1	50				
+//
+# MOSMEF_122246 Length: 45
+# MOSMEF_122246 Number of predicted TMRs: 0
+MOSMEF_122246	inside	1	45				
+//
+# MOSMEF_153828 Length: 39
+# MOSMEF_153828 Number of predicted TMRs: 0
+MOSMEF_153828	signal	1	24				
+MOSMEF_153828	outside	25	39				
+//
+# MOSMEF_69484 Length: 49
+# MOSMEF_69484 Number of predicted TMRs: 0
+MOSMEF_69484	inside	1	49				
+//
+# MOSMEF_137345 Length: 33
+# MOSMEF_137345 Number of predicted TMRs: 0
+MOSMEF_137345	inside	1	33				
+//
+# MOSMEF_74839 Length: 48
+# MOSMEF_74839 Number of predicted TMRs: 0
+MOSMEF_74839	signal	1	47				
+MOSMEF_74839	outside	48	48				
+//
+# MOSMEF_143399 Length: 47
+# MOSMEF_143399 Number of predicted TMRs: 0
+MOSMEF_143399	signal	1	46				
+MOSMEF_143399	outside	47	47				
+//
+# MOSMEF_129456 Length: 39
+# MOSMEF_129456 Number of predicted TMRs: 0
+MOSMEF_129456	signal	1	37				
+MOSMEF_129456	outside	38	39				
+//
+# MOSMEF_164790 Length: 42
+# MOSMEF_164790 Number of predicted TMRs: 0
+MOSMEF_164790	inside	1	42				
+//
+# MOSMEF_131278 Length: 45
+# MOSMEF_131278 Number of predicted TMRs: 0
+MOSMEF_131278	signal	1	44				
+MOSMEF_131278	outside	45	45				
+//
+# MOSMEF_88317 Length: 50
+# MOSMEF_88317 Number of predicted TMRs: 0
+MOSMEF_88317	inside	1	50				
+//
+# MOSMEF_145857 Length: 50
+# MOSMEF_145857 Number of predicted TMRs: 0
+MOSMEF_145857	inside	1	50				
+//
+# MOSMEF_120780 Length: 50
+# MOSMEF_120780 Number of predicted TMRs: 0
+MOSMEF_120780	signal	1	14				
+MOSMEF_120780	outside	15	50				
+//
+# MOSMEF_3994 Length: 40
+# MOSMEF_3994 Number of predicted TMRs: 0
+MOSMEF_3994	signal	1	39				
+MOSMEF_3994	outside	40	40				
+//
+# MOSMEF_18899 Length: 49
+# MOSMEF_18899 Number of predicted TMRs: 0
+MOSMEF_18899	inside	1	49				
+//
+# MOSMEF_136073 Length: 43
+# MOSMEF_136073 Number of predicted TMRs: 0
+MOSMEF_136073	signal	1	24				
+MOSMEF_136073	outside	25	43				
+//
+# MOSMEF_86630 Length: 42
+# MOSMEF_86630 Number of predicted TMRs: 0
+MOSMEF_86630	inside	1	42				
+//
+# MOSMEF_150272 Length: 50
+# MOSMEF_150272 Number of predicted TMRs: 0
+MOSMEF_150272	inside	1	50				
+//
+# MOSMEF_113364 Length: 40
+# MOSMEF_113364 Number of predicted TMRs: 0
+MOSMEF_113364	signal	1	20				
+MOSMEF_113364	outside	21	40				
+//
+# MOSMEF_44746 Length: 42
+# MOSMEF_44746 Number of predicted TMRs: 0
+MOSMEF_44746	signal	1	10				
+MOSMEF_44746	outside	11	42				
+//
+# MOSMEF_22896 Length: 43
+# MOSMEF_22896 Number of predicted TMRs: 0
+MOSMEF_22896	inside	1	43				
+//
+# MOSMEF_60741 Length: 44
+# MOSMEF_60741 Number of predicted TMRs: 0
+MOSMEF_60741	inside	1	44				
+//
+# MOSMEF_10864 Length: 49
+# MOSMEF_10864 Number of predicted TMRs: 0
+MOSMEF_10864	inside	1	49				
+//
+# MOSMEF_73765 Length: 42
+# MOSMEF_73765 Number of predicted TMRs: 0
+MOSMEF_73765	inside	1	42				
+//
+# MOSMEF_5887 Length: 43
+# MOSMEF_5887 Number of predicted TMRs: 0
+MOSMEF_5887	inside	1	43				
+//
+# MOSMEF_8868 Length: 49
+# MOSMEF_8868 Number of predicted TMRs: 0
+MOSMEF_8868	inside	1	49				
+//
+# MOSMEF_171869 Length: 48
+# MOSMEF_171869 Number of predicted TMRs: 0
+MOSMEF_171869	signal	1	38				
+MOSMEF_171869	outside	39	48				
+//
+# MOSMEF_22775 Length: 47
+# MOSMEF_22775 Number of predicted TMRs: 0
+MOSMEF_22775	inside	1	47				
+//
+# MOSMEF_44068 Length: 45
+# MOSMEF_44068 Number of predicted TMRs: 0
+MOSMEF_44068	signal	1	18				
+MOSMEF_44068	outside	19	45				
+//
+# MOSMEF_104924 Length: 47
+# MOSMEF_104924 Number of predicted TMRs: 0
+MOSMEF_104924	signal	1	23				
+MOSMEF_104924	outside	24	47				
+//
+# MOSMEF_170467 Length: 50
+# MOSMEF_170467 Number of predicted TMRs: 0
+MOSMEF_170467	signal	1	40				
+MOSMEF_170467	outside	41	50				
+//
+# MOSMEF_93543 Length: 43
+# MOSMEF_93543 Number of predicted TMRs: 0
+MOSMEF_93543	inside	1	43				
+//
+# MOSMEF_142543 Length: 45
+# MOSMEF_142543 Number of predicted TMRs: 0
+MOSMEF_142543	signal	1	42				
+MOSMEF_142543	outside	43	45				
+//
+# MOSMEF_109862 Length: 46
+# MOSMEF_109862 Number of predicted TMRs: 0
+MOSMEF_109862	signal	1	20				
+MOSMEF_109862	outside	21	46				
+//
+# MOSMEF_8336 Length: 36
+# MOSMEF_8336 Number of predicted TMRs: 0
+MOSMEF_8336	signal	1	20				
+MOSMEF_8336	outside	21	36				
+//
+# MOSMEF_157556 Length: 50
+# MOSMEF_157556 Number of predicted TMRs: 0
+MOSMEF_157556	inside	1	50				
+//
+# MOSMEF_138694 Length: 50
+# MOSMEF_138694 Number of predicted TMRs: 0
+MOSMEF_138694	signal	1	38				
+MOSMEF_138694	outside	39	50				
+//
+# MOSMEF_13047 Length: 41
+# MOSMEF_13047 Number of predicted TMRs: 0
+MOSMEF_13047	inside	1	41				
+//
+# MOSMEF_138188 Length: 41
+# MOSMEF_138188 Number of predicted TMRs: 0
+MOSMEF_138188	signal	1	19				
+MOSMEF_138188	outside	20	41				
+//
+# MOSMEF_59533 Length: 49
+# MOSMEF_59533 Number of predicted TMRs: 0
+MOSMEF_59533	inside	1	49				
+//
+# MOSMEF_96669 Length: 37
+# MOSMEF_96669 Number of predicted TMRs: 0
+MOSMEF_96669	signal	1	36				
+MOSMEF_96669	outside	37	37				
+//
+# MOSMEF_172447 Length: 50
+# MOSMEF_172447 Number of predicted TMRs: 0
+MOSMEF_172447	signal	1	39				
+MOSMEF_172447	outside	40	50				
+//
+# MOSMEF_21261 Length: 49
+# MOSMEF_21261 Number of predicted TMRs: 0
+MOSMEF_21261	inside	1	49				
+//
+# MOSMEF_86158 Length: 38
+# MOSMEF_86158 Number of predicted TMRs: 0
+MOSMEF_86158	signal	1	32				
+MOSMEF_86158	outside	33	38				
+//
+# MOSMEF_28504 Length: 50
+# MOSMEF_28504 Number of predicted TMRs: 0
+MOSMEF_28504	inside	1	50				
+//
+# MOSMEF_36066 Length: 38
+# MOSMEF_36066 Number of predicted TMRs: 0
+MOSMEF_36066	inside	1	38				
+//
+# MOSMEF_79001 Length: 46
+# MOSMEF_79001 Number of predicted TMRs: 0
+MOSMEF_79001	inside	1	46				
+//
+# MOSMEF_132072 Length: 49
+# MOSMEF_132072 Number of predicted TMRs: 0
+MOSMEF_132072	inside	1	49				
+//
+# MOSMEF_52641 Length: 39
+# MOSMEF_52641 Number of predicted TMRs: 0
+MOSMEF_52641	inside	1	39				
+//
+# MOSMEF_171943 Length: 41
+# MOSMEF_171943 Number of predicted TMRs: 0
+MOSMEF_171943	inside	1	41				
+//
+# MOSMEF_41211 Length: 44
+# MOSMEF_41211 Number of predicted TMRs: 0
+MOSMEF_41211	inside	1	44				
+//
+# MOSMEF_80798 Length: 49
+# MOSMEF_80798 Number of predicted TMRs: 0
+MOSMEF_80798	inside	1	49				
+//
+# MOSMEF_128676 Length: 48
+# MOSMEF_128676 Number of predicted TMRs: 0
+MOSMEF_128676	signal	1	28				
+MOSMEF_128676	outside	29	48				
+//
+# MOSMEF_128581 Length: 43
+# MOSMEF_128581 Number of predicted TMRs: 0
+MOSMEF_128581	signal	1	42				
+MOSMEF_128581	outside	43	43				
+//
+# MOSMEF_135528 Length: 41
+# MOSMEF_135528 Number of predicted TMRs: 0
+MOSMEF_135528	signal	1	40				
+MOSMEF_135528	outside	41	41				
+//
+# MOSMEF_140797 Length: 50
+# MOSMEF_140797 Number of predicted TMRs: 0
+MOSMEF_140797	inside	1	50				
+//
+# MOSMEF_130217 Length: 50
+# MOSMEF_130217 Number of predicted TMRs: 0
+MOSMEF_130217	outside	1	50				
+//
+# MOSMEF_24255 Length: 47
+# MOSMEF_24255 Number of predicted TMRs: 0
+MOSMEF_24255	signal	1	46				
+MOSMEF_24255	outside	47	47				
+//
+# MOSMEF_168014 Length: 43
+# MOSMEF_168014 Number of predicted TMRs: 0
+MOSMEF_168014	signal	1	23				
+MOSMEF_168014	outside	24	43				
+//
+# MOSMEF_23310 Length: 49
+# MOSMEF_23310 Number of predicted TMRs: 0
+MOSMEF_23310	inside	1	49				
+//
+# MOSMEF_80629 Length: 50
+# MOSMEF_80629 Number of predicted TMRs: 0
+MOSMEF_80629	inside	1	50				
+//
+# MOSMEF_105315 Length: 45
+# MOSMEF_105315 Number of predicted TMRs: 0
+MOSMEF_105315	signal	1	11				
+MOSMEF_105315	outside	12	45				
+//
+# MOSMEF_3459 Length: 38
+# MOSMEF_3459 Number of predicted TMRs: 0
+MOSMEF_3459	inside	1	38				
+//
+# MOSMEF_57871 Length: 42
+# MOSMEF_57871 Number of predicted TMRs: 0
+MOSMEF_57871	signal	1	39				
+MOSMEF_57871	outside	40	42				
+//
+# MOSMEF_46017 Length: 49
+# MOSMEF_46017 Number of predicted TMRs: 0
+MOSMEF_46017	inside	1	49				
+//
+# MOSMEF_99600 Length: 48
+# MOSMEF_99600 Number of predicted TMRs: 0
+MOSMEF_99600	inside	1	48				
+//
+# MOSMEF_169037 Length: 41
+# MOSMEF_169037 Number of predicted TMRs: 0
+MOSMEF_169037	inside	1	41				
+//
+# MOSMEF_102350 Length: 46
+# MOSMEF_102350 Number of predicted TMRs: 0
+MOSMEF_102350	signal	1	41				
+MOSMEF_102350	outside	42	46				
+//
+# MOSMEF_161799 Length: 40
+# MOSMEF_161799 Number of predicted TMRs: 0
+MOSMEF_161799	signal	1	23				
+MOSMEF_161799	outside	24	40				
+//
+# MOSMEF_110728 Length: 43
+# MOSMEF_110728 Number of predicted TMRs: 0
+MOSMEF_110728	signal	1	15				
+MOSMEF_110728	outside	16	43				
+//
+# MOSMEF_59713 Length: 45
+# MOSMEF_59713 Number of predicted TMRs: 0
+MOSMEF_59713	inside	1	45				
+//
+# MOSMEF_4238 Length: 49
+# MOSMEF_4238 Number of predicted TMRs: 0
+MOSMEF_4238	signal	1	31				
+MOSMEF_4238	outside	32	49				
+//
+# MOSMEF_28192 Length: 42
+# MOSMEF_28192 Number of predicted TMRs: 0
+MOSMEF_28192	inside	1	42				
+//
+# MOSMEF_103170 Length: 44
+# MOSMEF_103170 Number of predicted TMRs: 0
+MOSMEF_103170	signal	1	43				
+MOSMEF_103170	outside	44	44				
+//
+# MOSMEF_156758 Length: 38
+# MOSMEF_156758 Number of predicted TMRs: 0
+MOSMEF_156758	signal	1	37				
+MOSMEF_156758	outside	38	38				
+//
+# MOSMEF_141046 Length: 48
+# MOSMEF_141046 Number of predicted TMRs: 0
+MOSMEF_141046	signal	1	47				
+MOSMEF_141046	outside	48	48				
+//
+# MOSMEF_162439 Length: 39
+# MOSMEF_162439 Number of predicted TMRs: 0
+MOSMEF_162439	inside	1	39				
+//
+# MOSMEF_131127 Length: 39
+# MOSMEF_131127 Number of predicted TMRs: 0
+MOSMEF_131127	inside	1	39				
+//
+# MOSMEF_11981 Length: 42
+# MOSMEF_11981 Number of predicted TMRs: 0
+MOSMEF_11981	inside	1	42				
+//
+# MOSMEF_14849 Length: 44
+# MOSMEF_14849 Number of predicted TMRs: 0
+MOSMEF_14849	outside	1	44				
+//
+# MOSMEF_164631 Length: 44
+# MOSMEF_164631 Number of predicted TMRs: 0
+MOSMEF_164631	inside	1	44				
+//
+# MOSMEF_119660 Length: 44
+# MOSMEF_119660 Number of predicted TMRs: 0
+MOSMEF_119660	inside	1	44				
+//
+# MOSMEF_149544 Length: 50
+# MOSMEF_149544 Number of predicted TMRs: 0
+MOSMEF_149544	signal	1	49				
+MOSMEF_149544	outside	50	50				
+//
+# MOSMEF_41507 Length: 47
+# MOSMEF_41507 Number of predicted TMRs: 0
+MOSMEF_41507	inside	1	47				
+//
+# MOSMEF_94743 Length: 44
+# MOSMEF_94743 Number of predicted TMRs: 0
+MOSMEF_94743	outside	1	44				
+//
+# MOSMEF_165409 Length: 44
+# MOSMEF_165409 Number of predicted TMRs: 0
+MOSMEF_165409	outside	1	44				
+//
+# MOSMEF_9122 Length: 44
+# MOSMEF_9122 Number of predicted TMRs: 0
+MOSMEF_9122	outside	1	44				
+//
+# MOSMEF_52957 Length: 44
+# MOSMEF_52957 Number of predicted TMRs: 0
+MOSMEF_52957	outside	1	44				
+//
+# MOSMEF_52965 Length: 44
+# MOSMEF_52965 Number of predicted TMRs: 0
+MOSMEF_52965	inside	1	44				
+//
+# MOSMEF_43976 Length: 50
+# MOSMEF_43976 Number of predicted TMRs: 0
+MOSMEF_43976	inside	1	50				
+//
+# MOSMEF_165390 Length: 50
+# MOSMEF_165390 Number of predicted TMRs: 0
+MOSMEF_165390	outside	1	50				
+//
+# MOSMEF_28248 Length: 50
+# MOSMEF_28248 Number of predicted TMRs: 0
+MOSMEF_28248	inside	1	50				
+//
+# MOSMEF_117785 Length: 50
+# MOSMEF_117785 Number of predicted TMRs: 0
+MOSMEF_117785	outside	1	50				
+//
+# MOSMEF_30506 Length: 50
+# MOSMEF_30506 Number of predicted TMRs: 0
+MOSMEF_30506	inside	1	50				
+//
+# MOSMEF_5825 Length: 50
+# MOSMEF_5825 Number of predicted TMRs: 0
+MOSMEF_5825	outside	1	50				
+//
+# MOSMEF_94876 Length: 50
+# MOSMEF_94876 Number of predicted TMRs: 0
+MOSMEF_94876	outside	1	50				
+//
+# MOSMEF_131256 Length: 50
+# MOSMEF_131256 Number of predicted TMRs: 0
+MOSMEF_131256	outside	1	50				
+//
+# MOSMEF_95333 Length: 50
+# MOSMEF_95333 Number of predicted TMRs: 0
+MOSMEF_95333	outside	1	50				
+//
+# MOSMEF_15074 Length: 46
+# MOSMEF_15074 Number of predicted TMRs: 0
+MOSMEF_15074	inside	1	46				
+//
+# MOSMEF_93414 Length: 46
+# MOSMEF_93414 Number of predicted TMRs: 0
+MOSMEF_93414	inside	1	46				
+//
+# MOSMEF_95174 Length: 50
+# MOSMEF_95174 Number of predicted TMRs: 0
+MOSMEF_95174	outside	1	50				
+//
+# MOSMEF_120941 Length: 50
+# MOSMEF_120941 Number of predicted TMRs: 0
+MOSMEF_120941	inside	1	50				
+//
+# MOSMEF_8962 Length: 46
+# MOSMEF_8962 Number of predicted TMRs: 0
+MOSMEF_8962	inside	1	46				
+//
+# MOSMEF_13880 Length: 50
+# MOSMEF_13880 Number of predicted TMRs: 0
+MOSMEF_13880	outside	1	50				
+//
+# MOSMEF_22523 Length: 34
+# MOSMEF_22523 Number of predicted TMRs: 0
+MOSMEF_22523	signal	1	20				
+MOSMEF_22523	outside	21	34				
+//
+# MOSMEF_114701 Length: 44
+# MOSMEF_114701 Number of predicted TMRs: 0
+MOSMEF_114701	inside	1	44				
+//
+# MOSMEF_27159 Length: 40
+# MOSMEF_27159 Number of predicted TMRs: 0
+MOSMEF_27159	inside	1	40				
+//
+# MOSMEF_171656 Length: 38
+# MOSMEF_171656 Number of predicted TMRs: 0
+MOSMEF_171656	inside	1	38				
+//
+# MOSMEF_126821 Length: 43
+# MOSMEF_126821 Number of predicted TMRs: 0
+MOSMEF_126821	inside	1	43				
+//
+# MOSMEF_113391 Length: 48
+# MOSMEF_113391 Number of predicted TMRs: 0
+MOSMEF_113391	inside	1	48				
+//
+# MOSMEF_148161 Length: 38
+# MOSMEF_148161 Number of predicted TMRs: 0
+MOSMEF_148161	inside	1	38				
+//
+# MOSMEF_39635 Length: 50
+# MOSMEF_39635 Number of predicted TMRs: 0
+MOSMEF_39635	inside	1	50				
+//
+# MOSMEF_55602 Length: 44
+# MOSMEF_55602 Number of predicted TMRs: 0
+MOSMEF_55602	inside	1	44				
+//
+# MOSMEF_170597 Length: 43
+# MOSMEF_170597 Number of predicted TMRs: 0
+MOSMEF_170597	inside	1	43				
+//
+# MOSMEF_15879 Length: 47
+# MOSMEF_15879 Number of predicted TMRs: 1
+MOSMEF_15879	inside	1	6				
+MOSMEF_15879	TMhelix	7	27				
+MOSMEF_15879	outside	28	47				
+//
+# MOSMEF_86370 Length: 50
+# MOSMEF_86370 Number of predicted TMRs: 0
+MOSMEF_86370	inside	1	50				
+//
+# MOSMEF_98416 Length: 46
+# MOSMEF_98416 Number of predicted TMRs: 0
+MOSMEF_98416	inside	1	46				
+//
+# MOSMEF_146406 Length: 47
+# MOSMEF_146406 Number of predicted TMRs: 0
+MOSMEF_146406	inside	1	47				
+//
+# MOSMEF_91339 Length: 40
+# MOSMEF_91339 Number of predicted TMRs: 0
+MOSMEF_91339	signal	1	25				
+MOSMEF_91339	outside	26	40				
+//
+# MOSMEF_148901 Length: 47
+# MOSMEF_148901 Number of predicted TMRs: 0
+MOSMEF_148901	inside	1	47				
+//
+# MOSMEF_1892 Length: 47
+# MOSMEF_1892 Number of predicted TMRs: 0
+MOSMEF_1892	inside	1	47				
+//
+# MOSMEF_90707 Length: 47
+# MOSMEF_90707 Number of predicted TMRs: 0
+MOSMEF_90707	signal	1	45				
+MOSMEF_90707	outside	46	47				
+//
+# MOSMEF_75148 Length: 49
+# MOSMEF_75148 Number of predicted TMRs: 0
+MOSMEF_75148	inside	1	49				
+//
+# MOSMEF_110025 Length: 36
+# MOSMEF_110025 Number of predicted TMRs: 0
+MOSMEF_110025	signal	1	28				
+MOSMEF_110025	outside	29	36				
+//
+# MOSMEF_125211 Length: 49
+# MOSMEF_125211 Number of predicted TMRs: 0
+MOSMEF_125211	inside	1	49				
+//
+# MOSMEF_26073 Length: 47
+# MOSMEF_26073 Number of predicted TMRs: 0
+MOSMEF_26073	inside	1	47				
+//
+# MOSMEF_72624 Length: 42
+# MOSMEF_72624 Number of predicted TMRs: 0
+MOSMEF_72624	signal	1	38				
+MOSMEF_72624	outside	39	42				
+//
+# MOSMEF_48734 Length: 45
+# MOSMEF_48734 Number of predicted TMRs: 0
+MOSMEF_48734	signal	1	44				
+MOSMEF_48734	outside	45	45				
+//
+# MOSMEF_139162 Length: 43
+# MOSMEF_139162 Number of predicted TMRs: 0
+MOSMEF_139162	inside	1	43				
+//
+# MOSMEF_8172 Length: 49
+# MOSMEF_8172 Number of predicted TMRs: 0
+MOSMEF_8172	inside	1	49				
+//
+# MOSMEF_99090 Length: 48
+# MOSMEF_99090 Number of predicted TMRs: 0
+MOSMEF_99090	inside	1	48				
+//
+# MOSMEF_68972 Length: 49
+# MOSMEF_68972 Number of predicted TMRs: 0
+MOSMEF_68972	inside	1	49				
+//
+# MOSMEF_74536 Length: 50
+# MOSMEF_74536 Number of predicted TMRs: 0
+MOSMEF_74536	inside	1	50				
+//
+# MOSMEF_77871 Length: 49
+# MOSMEF_77871 Number of predicted TMRs: 0
+MOSMEF_77871	inside	1	49				
+//
+# MOSMEF_51133 Length: 47
+# MOSMEF_51133 Number of predicted TMRs: 0
+MOSMEF_51133	inside	1	47				
+//
+# MOSMEF_8875 Length: 48
+# MOSMEF_8875 Number of predicted TMRs: 0
+MOSMEF_8875	outside	1	48				
+//
+# MOSMEF_52219 Length: 47
+# MOSMEF_52219 Number of predicted TMRs: 0
+MOSMEF_52219	inside	1	47				
+//
+# MOSMEF_110233 Length: 49
+# MOSMEF_110233 Number of predicted TMRs: 0
+MOSMEF_110233	inside	1	49				
+//
+# MOSMEF_120471 Length: 47
+# MOSMEF_120471 Number of predicted TMRs: 0
+MOSMEF_120471	inside	1	47				
+//
+# MOSMEF_49821 Length: 45
+# MOSMEF_49821 Number of predicted TMRs: 0
+MOSMEF_49821	inside	1	45				
+//
+# MOSMEF_17045 Length: 48
+# MOSMEF_17045 Number of predicted TMRs: 0
+MOSMEF_17045	inside	1	48				
+//
+# MOSMEF_170587 Length: 43
+# MOSMEF_170587 Number of predicted TMRs: 0
+MOSMEF_170587	signal	1	42				
+MOSMEF_170587	outside	43	43				
+//
+# MOSMEF_130462 Length: 50
+# MOSMEF_130462 Number of predicted TMRs: 0
+MOSMEF_130462	inside	1	50				
+//
+# MOSMEF_7055 Length: 49
+# MOSMEF_7055 Number of predicted TMRs: 0
+MOSMEF_7055	inside	1	49				
+//
+# MOSMEF_49373 Length: 42
+# MOSMEF_49373 Number of predicted TMRs: 0
+MOSMEF_49373	inside	1	42				
+//
+# MOSMEF_44726 Length: 47
+# MOSMEF_44726 Number of predicted TMRs: 0
+MOSMEF_44726	inside	1	47				
+//
+# MOSMEF_140048 Length: 36
+# MOSMEF_140048 Number of predicted TMRs: 0
+MOSMEF_140048	inside	1	36				
+//
+# MOSMEF_11834 Length: 38
+# MOSMEF_11834 Number of predicted TMRs: 0
+MOSMEF_11834	signal	1	37				
+MOSMEF_11834	outside	38	38				
+//
+# MOSMEF_90138 Length: 33
+# MOSMEF_90138 Number of predicted TMRs: 0
+MOSMEF_90138	signal	1	25				
+MOSMEF_90138	outside	26	33				
+//
+# MOSMEF_123373 Length: 43
+# MOSMEF_123373 Number of predicted TMRs: 0
+MOSMEF_123373	inside	1	43				
+//
+# MOSMEF_78472 Length: 50
+# MOSMEF_78472 Number of predicted TMRs: 0
+MOSMEF_78472	inside	1	50				
+//
+# MOSMEF_107600 Length: 42
+# MOSMEF_107600 Number of predicted TMRs: 0
+MOSMEF_107600	inside	1	42				
+//
+# MOSMEF_127338 Length: 37
+# MOSMEF_127338 Number of predicted TMRs: 0
+MOSMEF_127338	signal	1	28				
+MOSMEF_127338	outside	29	37				
+//
+# MOSMEF_98926 Length: 48
+# MOSMEF_98926 Number of predicted TMRs: 0
+MOSMEF_98926	inside	1	48				
+//
+# MOSMEF_33771 Length: 42
+# MOSMEF_33771 Number of predicted TMRs: 0
+MOSMEF_33771	signal	1	25				
+MOSMEF_33771	outside	26	42				
+//
+# MOSMEF_39055 Length: 50
+# MOSMEF_39055 Number of predicted TMRs: 0
+MOSMEF_39055	signal	1	29				
+MOSMEF_39055	outside	30	50				
+//
+# MOSMEF_5096 Length: 50
+# MOSMEF_5096 Number of predicted TMRs: 0
+MOSMEF_5096	inside	1	50				
+//
+# MOSMEF_68433 Length: 42
+# MOSMEF_68433 Number of predicted TMRs: 0
+MOSMEF_68433	inside	1	42				
+//
+# MOSMEF_157961 Length: 49
+# MOSMEF_157961 Number of predicted TMRs: 0
+MOSMEF_157961	inside	1	49				
+//
+# MOSMEF_35686 Length: 38
+# MOSMEF_35686 Number of predicted TMRs: 0
+MOSMEF_35686	inside	1	38				
+//
+# MOSMEF_141823 Length: 46
+# MOSMEF_141823 Number of predicted TMRs: 0
+MOSMEF_141823	inside	1	46				
+//
+# MOSMEF_49956 Length: 42
+# MOSMEF_49956 Number of predicted TMRs: 0
+MOSMEF_49956	signal	1	25				
+MOSMEF_49956	outside	26	42				
+//
+# MOSMEF_137649 Length: 50
+# MOSMEF_137649 Number of predicted TMRs: 0
+MOSMEF_137649	signal	1	22				
+MOSMEF_137649	outside	23	50				
+//
+# MOSMEF_137810 Length: 50
+# MOSMEF_137810 Number of predicted TMRs: 0
+MOSMEF_137810	signal	1	47				
+MOSMEF_137810	outside	48	50				
+//
+# MOSMEF_45864 Length: 41
+# MOSMEF_45864 Number of predicted TMRs: 0
+MOSMEF_45864	inside	1	41				
+//
+# MOSMEF_39716 Length: 49
+# MOSMEF_39716 Number of predicted TMRs: 0
+MOSMEF_39716	inside	1	49				
+//
+# MOSMEF_126207 Length: 46
+# MOSMEF_126207 Number of predicted TMRs: 0
+MOSMEF_126207	inside	1	46				
+//
+# MOSMEF_132987 Length: 50
+# MOSMEF_132987 Number of predicted TMRs: 0
+MOSMEF_132987	inside	1	50				
+//
+# MOSMEF_108045 Length: 47
+# MOSMEF_108045 Number of predicted TMRs: 0
+MOSMEF_108045	inside	1	47				
+//
+# MOSMEF_59755 Length: 50
+# MOSMEF_59755 Number of predicted TMRs: 0
+MOSMEF_59755	signal	1	47				
+MOSMEF_59755	outside	48	50				
+//
+# MOSMEF_207 Length: 34
+# MOSMEF_207 Number of predicted TMRs: 0
+MOSMEF_207	outside	1	34				
+//
+# MOSMEF_90591 Length: 49
+# MOSMEF_90591 Number of predicted TMRs: 0
+MOSMEF_90591	signal	1	26				
+MOSMEF_90591	outside	27	49				
+//
+# MOSMEF_109669 Length: 50
+# MOSMEF_109669 Number of predicted TMRs: 0
+MOSMEF_109669	inside	1	50				
+//
+# MOSMEF_70473 Length: 47
+# MOSMEF_70473 Number of predicted TMRs: 0
+MOSMEF_70473	inside	1	47				
+//
+# MOSMEF_102749 Length: 41
+# MOSMEF_102749 Number of predicted TMRs: 0
+MOSMEF_102749	inside	1	41				
+//
+# MOSMEF_125971 Length: 50
+# MOSMEF_125971 Number of predicted TMRs: 0
+MOSMEF_125971	inside	1	50				
+//
+# MOSMEF_81454 Length: 47
+# MOSMEF_81454 Number of predicted TMRs: 0
+MOSMEF_81454	outside	1	47				
+//
+# MOSMEF_47960 Length: 46
+# MOSMEF_47960 Number of predicted TMRs: 0
+MOSMEF_47960	signal	1	11				
+MOSMEF_47960	outside	12	46				
+//
+# MOSMEF_15194 Length: 49
+# MOSMEF_15194 Number of predicted TMRs: 0
+MOSMEF_15194	inside	1	49				
+//
+# MOSMEF_132592 Length: 45
+# MOSMEF_132592 Number of predicted TMRs: 0
+MOSMEF_132592	inside	1	45				
+//
+# MOSMEF_85580 Length: 42
+# MOSMEF_85580 Number of predicted TMRs: 0
+MOSMEF_85580	outside	1	42				
+//
+# MOSMEF_60715 Length: 49
+# MOSMEF_60715 Number of predicted TMRs: 0
+MOSMEF_60715	inside	1	49				
+//
+# MOSMEF_85868 Length: 38
+# MOSMEF_85868 Number of predicted TMRs: 0
+MOSMEF_85868	signal	1	37				
+MOSMEF_85868	outside	38	38				
+//
+# MOSMEF_86627 Length: 50
+# MOSMEF_86627 Number of predicted TMRs: 0
+MOSMEF_86627	signal	1	38				
+MOSMEF_86627	outside	39	50				
+//
+# MOSMEF_66455 Length: 44
+# MOSMEF_66455 Number of predicted TMRs: 0
+MOSMEF_66455	signal	1	21				
+MOSMEF_66455	outside	22	44				
+//
+# MOSMEF_67552 Length: 44
+# MOSMEF_67552 Number of predicted TMRs: 0
+MOSMEF_67552	inside	1	44				
+//
+# MOSMEF_129038 Length: 49
+# MOSMEF_129038 Number of predicted TMRs: 0
+MOSMEF_129038	inside	1	49				
+//
+# MOSMEF_168800 Length: 41
+# MOSMEF_168800 Number of predicted TMRs: 0
+MOSMEF_168800	inside	1	41				
+//
+# MOSMEF_114899 Length: 38
+# MOSMEF_114899 Number of predicted TMRs: 0
+MOSMEF_114899	signal	1	37				
+MOSMEF_114899	outside	38	38				
+//
+# MOSMEF_14410 Length: 48
+# MOSMEF_14410 Number of predicted TMRs: 0
+MOSMEF_14410	inside	1	48				
+//
+# MOSMEF_93967 Length: 36
+# MOSMEF_93967 Number of predicted TMRs: 0
+MOSMEF_93967	signal	1	33				
+MOSMEF_93967	outside	34	36				
+//
+# MOSMEF_15038 Length: 36
+# MOSMEF_15038 Number of predicted TMRs: 0
+MOSMEF_15038	inside	1	36				
+//
+# MOSMEF_79474 Length: 40
+# MOSMEF_79474 Number of predicted TMRs: 0
+MOSMEF_79474	inside	1	40				
+//
+# MOSMEF_161837 Length: 50
+# MOSMEF_161837 Number of predicted TMRs: 0
+MOSMEF_161837	signal	1	49				
+MOSMEF_161837	outside	50	50				
+//
+# MOSMEF_39666 Length: 43
+# MOSMEF_39666 Number of predicted TMRs: 0
+MOSMEF_39666	inside	1	43				
+//
+# MOSMEF_100426 Length: 47
+# MOSMEF_100426 Number of predicted TMRs: 0
+MOSMEF_100426	signal	1	14				
+MOSMEF_100426	outside	15	47				
+//
+# MOSMEF_53787 Length: 46
+# MOSMEF_53787 Number of predicted TMRs: 0
+MOSMEF_53787	inside	1	46				
+//
+# MOSMEF_155681 Length: 46
+# MOSMEF_155681 Number of predicted TMRs: 0
+MOSMEF_155681	inside	1	46				
+//
+# MOSMEF_55097 Length: 46
+# MOSMEF_55097 Number of predicted TMRs: 0
+MOSMEF_55097	inside	1	46				
+//
+# MOSMEF_46916 Length: 45
+# MOSMEF_46916 Number of predicted TMRs: 0
+MOSMEF_46916	signal	1	38				
+MOSMEF_46916	outside	39	45				
+//
+# MOSMEF_161664 Length: 48
+# MOSMEF_161664 Number of predicted TMRs: 0
+MOSMEF_161664	signal	1	25				
+MOSMEF_161664	outside	26	48				
+//
+# MOSMEF_86138 Length: 43
+# MOSMEF_86138 Number of predicted TMRs: 0
+MOSMEF_86138	signal	1	17				
+MOSMEF_86138	outside	18	43				
+//
+# MOSMEF_99857 Length: 44
+# MOSMEF_99857 Number of predicted TMRs: 0
+MOSMEF_99857	inside	1	44				
+//
+# MOSMEF_99818 Length: 49
+# MOSMEF_99818 Number of predicted TMRs: 0
+MOSMEF_99818	inside	1	49				
+//
+# MOSMEF_120350 Length: 40
+# MOSMEF_120350 Number of predicted TMRs: 0
+MOSMEF_120350	inside	1	40				
+//
+# MOSMEF_13129 Length: 47
+# MOSMEF_13129 Number of predicted TMRs: 0
+MOSMEF_13129	inside	1	47				
+//
+# MOSMEF_78035 Length: 39
+# MOSMEF_78035 Number of predicted TMRs: 0
+MOSMEF_78035	inside	1	39				
+//
+# MOSMEF_170430 Length: 48
+# MOSMEF_170430 Number of predicted TMRs: 0
+MOSMEF_170430	inside	1	48				
+//
+# MOSMEF_99082 Length: 40
+# MOSMEF_99082 Number of predicted TMRs: 0
+MOSMEF_99082	signal	1	28				
+MOSMEF_99082	outside	29	40				
+//
+# MOSMEF_115015 Length: 42
+# MOSMEF_115015 Number of predicted TMRs: 0
+MOSMEF_115015	signal	1	12				
+MOSMEF_115015	outside	13	42				
+//
+# MOSMEF_27051 Length: 50
+# MOSMEF_27051 Number of predicted TMRs: 0
+MOSMEF_27051	outside	1	50				
+//
+# MOSMEF_20533 Length: 48
+# MOSMEF_20533 Number of predicted TMRs: 0
+MOSMEF_20533	inside	1	48				
+//
+# MOSMEF_73916 Length: 47
+# MOSMEF_73916 Number of predicted TMRs: 0
+MOSMEF_73916	signal	1	12				
+MOSMEF_73916	outside	13	47				
+//
+# MOSMEF_170582 Length: 44
+# MOSMEF_170582 Number of predicted TMRs: 0
+MOSMEF_170582	inside	1	44				
+//
+# MOSMEF_122128 Length: 47
+# MOSMEF_122128 Number of predicted TMRs: 0
+MOSMEF_122128	inside	1	47				
+//
+# MOSMEF_142691 Length: 40
+# MOSMEF_142691 Number of predicted TMRs: 0
+MOSMEF_142691	signal	1	33				
+MOSMEF_142691	outside	34	40				
+//
+# MOSMEF_33652 Length: 41
+# MOSMEF_33652 Number of predicted TMRs: 0
+MOSMEF_33652	signal	1	36				
+MOSMEF_33652	outside	37	41				
+//
+# MOSMEF_59183 Length: 40
+# MOSMEF_59183 Number of predicted TMRs: 0
+MOSMEF_59183	signal	1	22				
+MOSMEF_59183	outside	23	40				
+//
+# MOSMEF_54630 Length: 40
+# MOSMEF_54630 Number of predicted TMRs: 0
+MOSMEF_54630	signal	1	11				
+MOSMEF_54630	outside	12	40				
+//
+# MOSMEF_144877 Length: 48
+# MOSMEF_144877 Number of predicted TMRs: 0
+MOSMEF_144877	inside	1	48				
+//
+# MOSMEF_49619 Length: 45
+# MOSMEF_49619 Number of predicted TMRs: 0
+MOSMEF_49619	inside	1	45				
+//
+# MOSMEF_90274 Length: 48
+# MOSMEF_90274 Number of predicted TMRs: 0
+MOSMEF_90274	signal	1	44				
+MOSMEF_90274	outside	45	48				
+//
+# MOSMEF_115465 Length: 42
+# MOSMEF_115465 Number of predicted TMRs: 0
+MOSMEF_115465	signal	1	41				
+MOSMEF_115465	outside	42	42				
+//
+# MOSMEF_19288 Length: 41
+# MOSMEF_19288 Number of predicted TMRs: 0
+MOSMEF_19288	inside	1	41				
+//
+# MOSMEF_16275 Length: 48
+# MOSMEF_16275 Number of predicted TMRs: 0
+MOSMEF_16275	inside	1	48				
+//
+# MOSMEF_138335 Length: 50
+# MOSMEF_138335 Number of predicted TMRs: 0
+MOSMEF_138335	inside	1	50				
+//
+# MOSMEF_8175 Length: 48
+# MOSMEF_8175 Number of predicted TMRs: 0
+MOSMEF_8175	inside	1	48				
+//
+# MOSMEF_129867 Length: 42
+# MOSMEF_129867 Number of predicted TMRs: 0
+MOSMEF_129867	inside	1	42				
+//
+# MOSMEF_32118 Length: 44
+# MOSMEF_32118 Number of predicted TMRs: 0
+MOSMEF_32118	inside	1	44				
+//
+# MOSMEF_54442 Length: 38
+# MOSMEF_54442 Number of predicted TMRs: 0
+MOSMEF_54442	inside	1	38				
+//
+# MOSMEF_150773 Length: 46
+# MOSMEF_150773 Number of predicted TMRs: 0
+MOSMEF_150773	inside	1	46				
+//
+# MOSMEF_114966 Length: 46
+# MOSMEF_114966 Number of predicted TMRs: 0
+MOSMEF_114966	inside	1	46				
+//
+# MOSMEF_15215 Length: 45
+# MOSMEF_15215 Number of predicted TMRs: 0
+MOSMEF_15215	signal	1	37				
+MOSMEF_15215	outside	38	45				
+//
+# MOSMEF_112817 Length: 50
+# MOSMEF_112817 Number of predicted TMRs: 0
+MOSMEF_112817	signal	1	49				
+MOSMEF_112817	outside	50	50				
+//
+# MOSMEF_132069 Length: 33
+# MOSMEF_132069 Number of predicted TMRs: 0
+MOSMEF_132069	inside	1	33				
+//
+# MOSMEF_47491 Length: 49
+# MOSMEF_47491 Number of predicted TMRs: 0
+MOSMEF_47491	inside	1	49				
+//
+# MOSMEF_88901 Length: 47
+# MOSMEF_88901 Number of predicted TMRs: 0
+MOSMEF_88901	signal	1	35				
+MOSMEF_88901	outside	36	47				
+//
+# MOSMEF_128100 Length: 49
+# MOSMEF_128100 Number of predicted TMRs: 0
+MOSMEF_128100	signal	1	32				
+MOSMEF_128100	outside	33	49				
+//
+# MOSMEF_94434 Length: 47
+# MOSMEF_94434 Number of predicted TMRs: 0
+MOSMEF_94434	inside	1	47				
+//
+# MOSMEF_9081 Length: 50
+# MOSMEF_9081 Number of predicted TMRs: 0
+MOSMEF_9081	signal	1	49				
+MOSMEF_9081	outside	50	50				
+//
+# MOSMEF_33750 Length: 50
+# MOSMEF_33750 Number of predicted TMRs: 0
+MOSMEF_33750	signal	1	49				
+MOSMEF_33750	outside	50	50				
+//
+# MOSMEF_109509 Length: 43
+# MOSMEF_109509 Number of predicted TMRs: 0
+MOSMEF_109509	signal	1	42				
+MOSMEF_109509	outside	43	43				
+//
+# MOSMEF_6474 Length: 42
+# MOSMEF_6474 Number of predicted TMRs: 0
+MOSMEF_6474	inside	1	42				
+//
+# MOSMEF_63182 Length: 50
+# MOSMEF_63182 Number of predicted TMRs: 0
+MOSMEF_63182	inside	1	50				
+//
+# MOSMEF_121878 Length: 45
+# MOSMEF_121878 Number of predicted TMRs: 0
+MOSMEF_121878	inside	1	45				
+//
+# MOSMEF_103714 Length: 38
+# MOSMEF_103714 Number of predicted TMRs: 0
+MOSMEF_103714	signal	1	14				
+MOSMEF_103714	outside	15	38				
+//
+# MOSMEF_1956 Length: 49
+# MOSMEF_1956 Number of predicted TMRs: 0
+MOSMEF_1956	inside	1	49				
+//
+# MOSMEF_113297 Length: 40
+# MOSMEF_113297 Number of predicted TMRs: 0
+MOSMEF_113297	signal	1	39				
+MOSMEF_113297	outside	40	40				
+//
+# MOSMEF_44135 Length: 48
+# MOSMEF_44135 Number of predicted TMRs: 0
+MOSMEF_44135	inside	1	48				
+//
+# MOSMEF_146298 Length: 31
+# MOSMEF_146298 Number of predicted TMRs: 0
+MOSMEF_146298	inside	1	31				
+//
+# MOSMEF_110293 Length: 42
+# MOSMEF_110293 Number of predicted TMRs: 0
+MOSMEF_110293	inside	1	42				
+//
+# MOSMEF_27885 Length: 40
+# MOSMEF_27885 Number of predicted TMRs: 0
+MOSMEF_27885	inside	1	40				
+//
+# MOSMEF_163419 Length: 38
+# MOSMEF_163419 Number of predicted TMRs: 0
+MOSMEF_163419	signal	1	33				
+MOSMEF_163419	outside	34	38				
+//
+# MOSMEF_14681 Length: 45
+# MOSMEF_14681 Number of predicted TMRs: 0
+MOSMEF_14681	inside	1	45				
+//
+# MOSMEF_105159 Length: 46
+# MOSMEF_105159 Number of predicted TMRs: 0
+MOSMEF_105159	inside	1	46				
+//
+# MOSMEF_128592 Length: 47
+# MOSMEF_128592 Number of predicted TMRs: 0
+MOSMEF_128592	inside	1	47				
+//
+# MOSMEF_14553 Length: 45
+# MOSMEF_14553 Number of predicted TMRs: 0
+MOSMEF_14553	signal	1	32				
+MOSMEF_14553	outside	33	45				
+//
+# MOSMEF_70643 Length: 38
+# MOSMEF_70643 Number of predicted TMRs: 0
+MOSMEF_70643	signal	1	37				
+MOSMEF_70643	outside	38	38				
+//
+# MOSMEF_41586 Length: 41
+# MOSMEF_41586 Number of predicted TMRs: 0
+MOSMEF_41586	signal	1	12				
+MOSMEF_41586	outside	13	41				
+//
+# MOSMEF_111081 Length: 38
+# MOSMEF_111081 Number of predicted TMRs: 0
+MOSMEF_111081	signal	1	37				
+MOSMEF_111081	outside	38	38				
+//
+# MOSMEF_114582 Length: 45
+# MOSMEF_114582 Number of predicted TMRs: 0
+MOSMEF_114582	signal	1	38				
+MOSMEF_114582	outside	39	45				
+//
+# MOSMEF_169071 Length: 47
+# MOSMEF_169071 Number of predicted TMRs: 0
+MOSMEF_169071	inside	1	47				
+//
+# MOSMEF_145885 Length: 42
+# MOSMEF_145885 Number of predicted TMRs: 0
+MOSMEF_145885	inside	1	42				
+//
+# MOSMEF_71682 Length: 49
+# MOSMEF_71682 Number of predicted TMRs: 0
+MOSMEF_71682	inside	1	49				
+//
+# MOSMEF_78818 Length: 46
+# MOSMEF_78818 Number of predicted TMRs: 0
+MOSMEF_78818	inside	1	46				
+//
+# MOSMEF_114298 Length: 49
+# MOSMEF_114298 Number of predicted TMRs: 0
+MOSMEF_114298	signal	1	10				
+MOSMEF_114298	outside	11	49				
+//
+# MOSMEF_123899 Length: 45
+# MOSMEF_123899 Number of predicted TMRs: 0
+MOSMEF_123899	signal	1	35				
+MOSMEF_123899	outside	36	45				
+//
+# MOSMEF_107208 Length: 49
+# MOSMEF_107208 Number of predicted TMRs: 0
+MOSMEF_107208	inside	1	49				
+//
+# MOSMEF_171238 Length: 50
+# MOSMEF_171238 Number of predicted TMRs: 0
+MOSMEF_171238	inside	1	50				
+//
+# MOSMEF_74262 Length: 47
+# MOSMEF_74262 Number of predicted TMRs: 0
+MOSMEF_74262	inside	1	47				
+//
+# MOSMEF_95279 Length: 49
+# MOSMEF_95279 Number of predicted TMRs: 0
+MOSMEF_95279	inside	1	49				
+//
+# MOSMEF_106743 Length: 49
+# MOSMEF_106743 Number of predicted TMRs: 0
+MOSMEF_106743	signal	1	11				
+MOSMEF_106743	outside	12	49				
+//
+# MOSMEF_140318 Length: 49
+# MOSMEF_140318 Number of predicted TMRs: 0
+MOSMEF_140318	inside	1	49				
+//
+# MOSMEF_84964 Length: 23
+# MOSMEF_84964 Number of predicted TMRs: 0
+MOSMEF_84964	inside	1	23				
+//
+# MOSMEF_8484 Length: 39
+# MOSMEF_8484 Number of predicted TMRs: 0
+MOSMEF_8484	signal	1	38				
+MOSMEF_8484	outside	39	39				
+//
+# MOSMEF_169707 Length: 35
+# MOSMEF_169707 Number of predicted TMRs: 0
+MOSMEF_169707	signal	1	32				
+MOSMEF_169707	outside	33	35				
+//
+# MOSMEF_43186 Length: 43
+# MOSMEF_43186 Number of predicted TMRs: 0
+MOSMEF_43186	signal	1	42				
+MOSMEF_43186	outside	43	43				
+//
+# MOSMEF_99550 Length: 48
+# MOSMEF_99550 Number of predicted TMRs: 0
+MOSMEF_99550	signal	1	10				
+MOSMEF_99550	outside	11	48				
+//
+# MOSMEF_120502 Length: 50
+# MOSMEF_120502 Number of predicted TMRs: 0
+MOSMEF_120502	signal	1	15				
+MOSMEF_120502	outside	16	50				
+//
+# MOSMEF_112960 Length: 43
+# MOSMEF_112960 Number of predicted TMRs: 0
+MOSMEF_112960	inside	1	43				
+//
+# MOSMEF_64161 Length: 48
+# MOSMEF_64161 Number of predicted TMRs: 0
+MOSMEF_64161	inside	1	48				
+//
+# MOSMEF_47540 Length: 40
+# MOSMEF_47540 Number of predicted TMRs: 0
+MOSMEF_47540	signal	1	24				
+MOSMEF_47540	outside	25	40				
+//
+# MOSMEF_16153 Length: 42
+# MOSMEF_16153 Number of predicted TMRs: 0
+MOSMEF_16153	signal	1	29				
+MOSMEF_16153	outside	30	42				
+//
+# MOSMEF_4570 Length: 45
+# MOSMEF_4570 Number of predicted TMRs: 0
+MOSMEF_4570	inside	1	45				
+//
+# MOSMEF_64249 Length: 42
+# MOSMEF_64249 Number of predicted TMRs: 0
+MOSMEF_64249	inside	1	42				
+//
+# MOSMEF_7231 Length: 45
+# MOSMEF_7231 Number of predicted TMRs: 0
+MOSMEF_7231	inside	1	45				
+//
+# MOSMEF_119111 Length: 41
+# MOSMEF_119111 Number of predicted TMRs: 0
+MOSMEF_119111	signal	1	21				
+MOSMEF_119111	outside	22	41				
+//
+# MOSMEF_106750 Length: 47
+# MOSMEF_106750 Number of predicted TMRs: 0
+MOSMEF_106750	inside	1	47				
+//
+# MOSMEF_105703 Length: 42
+# MOSMEF_105703 Number of predicted TMRs: 0
+MOSMEF_105703	inside	1	42				
+//
+# MOSMEF_91081 Length: 50
+# MOSMEF_91081 Number of predicted TMRs: 0
+MOSMEF_91081	inside	1	50				
+//
+# MOSMEF_69337 Length: 47
+# MOSMEF_69337 Number of predicted TMRs: 0
+MOSMEF_69337	inside	1	47				
+//
+# MOSMEF_121397 Length: 50
+# MOSMEF_121397 Number of predicted TMRs: 0
+MOSMEF_121397	inside	1	50				
+//
+# MOSMEF_39609 Length: 37
+# MOSMEF_39609 Number of predicted TMRs: 0
+MOSMEF_39609	signal	1	35				
+MOSMEF_39609	outside	36	37				
+//
+# MOSMEF_28876 Length: 46
+# MOSMEF_28876 Number of predicted TMRs: 0
+MOSMEF_28876	signal	1	45				
+MOSMEF_28876	outside	46	46				
+//
+# MOSMEF_171961 Length: 43
+# MOSMEF_171961 Number of predicted TMRs: 0
+MOSMEF_171961	inside	1	43				
+//
+# MOSMEF_168557 Length: 50
+# MOSMEF_168557 Number of predicted TMRs: 0
+MOSMEF_168557	inside	1	50				
+//
+# MOSMEF_7574 Length: 49
+# MOSMEF_7574 Number of predicted TMRs: 0
+MOSMEF_7574	inside	1	49				
+//
+# MOSMEF_150828 Length: 49
+# MOSMEF_150828 Number of predicted TMRs: 0
+MOSMEF_150828	inside	1	49				
+//
+# MOSMEF_167850 Length: 35
+# MOSMEF_167850 Number of predicted TMRs: 0
+MOSMEF_167850	inside	1	35				
+//
+# MOSMEF_21396 Length: 41
+# MOSMEF_21396 Number of predicted TMRs: 1
+MOSMEF_21396	signal	1	19				
+MOSMEF_21396	outside	20	20				
+MOSMEF_21396	TMhelix	21	40				
+MOSMEF_21396	inside	41	41				
+//
+# MOSMEF_95598 Length: 49
+# MOSMEF_95598 Number of predicted TMRs: 0
+MOSMEF_95598	inside	1	49				
+//
+# MOSMEF_9546 Length: 50
+# MOSMEF_9546 Number of predicted TMRs: 0
+MOSMEF_9546	inside	1	50				
+//
+# MOSMEF_166885 Length: 44
+# MOSMEF_166885 Number of predicted TMRs: 0
+MOSMEF_166885	signal	1	12				
+MOSMEF_166885	outside	13	44				
+//
+# MOSMEF_168586 Length: 33
+# MOSMEF_168586 Number of predicted TMRs: 0
+MOSMEF_168586	inside	1	33				
+//
+# MOSMEF_124630 Length: 45
+# MOSMEF_124630 Number of predicted TMRs: 0
+MOSMEF_124630	inside	1	45				
+//
+# MOSMEF_130551 Length: 38
+# MOSMEF_130551 Number of predicted TMRs: 0
+MOSMEF_130551	inside	1	38				
+//
+# MOSMEF_20349 Length: 44
+# MOSMEF_20349 Number of predicted TMRs: 0
+MOSMEF_20349	inside	1	44				
+//
+# MOSMEF_101607 Length: 49
+# MOSMEF_101607 Number of predicted TMRs: 0
+MOSMEF_101607	signal	1	44				
+MOSMEF_101607	outside	45	49				
+//
+# MOSMEF_94720 Length: 37
+# MOSMEF_94720 Number of predicted TMRs: 0
+MOSMEF_94720	signal	1	10				
+MOSMEF_94720	outside	11	37				
+//
+# MOSMEF_28478 Length: 50
+# MOSMEF_28478 Number of predicted TMRs: 0
+MOSMEF_28478	signal	1	32				
+MOSMEF_28478	outside	33	50				
+//
+# MOSMEF_34275 Length: 46
+# MOSMEF_34275 Number of predicted TMRs: 0
+MOSMEF_34275	signal	1	25				
+MOSMEF_34275	outside	26	46				
+//
+# MOSMEF_148438 Length: 40
+# MOSMEF_148438 Number of predicted TMRs: 0
+MOSMEF_148438	inside	1	40				
+//
+# MOSMEF_42447 Length: 42
+# MOSMEF_42447 Number of predicted TMRs: 0
+MOSMEF_42447	inside	1	42				
+//
+# MOSMEF_112622 Length: 45
+# MOSMEF_112622 Number of predicted TMRs: 0
+MOSMEF_112622	signal	1	15				
+MOSMEF_112622	outside	16	45				
+//
+# MOSMEF_57564 Length: 37
+# MOSMEF_57564 Number of predicted TMRs: 0
+MOSMEF_57564	signal	1	35				
+MOSMEF_57564	outside	36	37				
+//
+# MOSMEF_146026 Length: 43
+# MOSMEF_146026 Number of predicted TMRs: 0
+MOSMEF_146026	signal	1	35				
+MOSMEF_146026	outside	36	43				
+//
+# MOSMEF_137057 Length: 45
+# MOSMEF_137057 Number of predicted TMRs: 0
+MOSMEF_137057	inside	1	45				
+//
+# MOSMEF_33437 Length: 48
+# MOSMEF_33437 Number of predicted TMRs: 0
+MOSMEF_33437	inside	1	48				
+//
+# MOSMEF_144218 Length: 45
+# MOSMEF_144218 Number of predicted TMRs: 0
+MOSMEF_144218	signal	1	18				
+MOSMEF_144218	outside	19	45				
+//
+# MOSMEF_169760 Length: 44
+# MOSMEF_169760 Number of predicted TMRs: 0
+MOSMEF_169760	inside	1	44				
+//
+# MOSMEF_17539 Length: 50
+# MOSMEF_17539 Number of predicted TMRs: 0
+MOSMEF_17539	inside	1	50				
+//
+# MOSMEF_104886 Length: 39
+# MOSMEF_104886 Number of predicted TMRs: 0
+MOSMEF_104886	signal	1	28				
+MOSMEF_104886	outside	29	39				
+//
+# MOSMEF_11802 Length: 45
+# MOSMEF_11802 Number of predicted TMRs: 0
+MOSMEF_11802	inside	1	45				
+//
+# MOSMEF_40552 Length: 50
+# MOSMEF_40552 Number of predicted TMRs: 0
+MOSMEF_40552	inside	1	50				
+//
+# MOSMEF_107140 Length: 47
+# MOSMEF_107140 Number of predicted TMRs: 0
+MOSMEF_107140	inside	1	47				
+//
+# MOSMEF_162900 Length: 47
+# MOSMEF_162900 Number of predicted TMRs: 0
+MOSMEF_162900	signal	1	42				
+MOSMEF_162900	outside	43	47				
+//
+# MOSMEF_62752 Length: 40
+# MOSMEF_62752 Number of predicted TMRs: 0
+MOSMEF_62752	signal	1	36				
+MOSMEF_62752	outside	37	40				
+//
+# MOSMEF_165571 Length: 46
+# MOSMEF_165571 Number of predicted TMRs: 0
+MOSMEF_165571	inside	1	46				
+//
+# MOSMEF_14670 Length: 35
+# MOSMEF_14670 Number of predicted TMRs: 0
+MOSMEF_14670	inside	1	35				
+//
+# MOSMEF_10980 Length: 49
+# MOSMEF_10980 Number of predicted TMRs: 0
+MOSMEF_10980	signal	1	22				
+MOSMEF_10980	outside	23	49				
+//
+# MOSMEF_124467 Length: 41
+# MOSMEF_124467 Number of predicted TMRs: 0
+MOSMEF_124467	inside	1	41				
+//
+# MOSMEF_58722 Length: 46
+# MOSMEF_58722 Number of predicted TMRs: 0
+MOSMEF_58722	inside	1	46				
+//
+# MOSMEF_66631 Length: 43
+# MOSMEF_66631 Number of predicted TMRs: 0
+MOSMEF_66631	inside	1	43				
+//
+# MOSMEF_80645 Length: 37
+# MOSMEF_80645 Number of predicted TMRs: 0
+MOSMEF_80645	inside	1	37				
+//
+# MOSMEF_64795 Length: 42
+# MOSMEF_64795 Number of predicted TMRs: 0
+MOSMEF_64795	inside	1	42				
+//
+# MOSMEF_42547 Length: 42
+# MOSMEF_42547 Number of predicted TMRs: 0
+MOSMEF_42547	inside	1	42				
+//
+# MOSMEF_65329 Length: 42
+# MOSMEF_65329 Number of predicted TMRs: 0
+MOSMEF_65329	outside	1	42				
+//
+# MOSMEF_119837 Length: 47
+# MOSMEF_119837 Number of predicted TMRs: 0
+MOSMEF_119837	inside	1	47				
+//
+# MOSMEF_321 Length: 50
+# MOSMEF_321 Number of predicted TMRs: 0
+MOSMEF_321	inside	1	50				
+//
+# MOSMEF_53241 Length: 50
+# MOSMEF_53241 Number of predicted TMRs: 0
+MOSMEF_53241	inside	1	50				
+//
+# MOSMEF_121973 Length: 38
+# MOSMEF_121973 Number of predicted TMRs: 0
+MOSMEF_121973	inside	1	38				
+//
+# MOSMEF_20572 Length: 37
+# MOSMEF_20572 Number of predicted TMRs: 0
+MOSMEF_20572	inside	1	37				
+//
+# MOSMEF_148675 Length: 48
+# MOSMEF_148675 Number of predicted TMRs: 0
+MOSMEF_148675	inside	1	48				
+//
+# MOSMEF_6903 Length: 50
+# MOSMEF_6903 Number of predicted TMRs: 0
+MOSMEF_6903	inside	1	50				
+//
+# MOSMEF_60454 Length: 43
+# MOSMEF_60454 Number of predicted TMRs: 0
+MOSMEF_60454	inside	1	43				
+//
+# MOSMEF_148223 Length: 49
+# MOSMEF_148223 Number of predicted TMRs: 0
+MOSMEF_148223	inside	1	49				
+//
+# MOSMEF_158367 Length: 44
+# MOSMEF_158367 Number of predicted TMRs: 0
+MOSMEF_158367	inside	1	44				
+//
+# MOSMEF_23555 Length: 47
+# MOSMEF_23555 Number of predicted TMRs: 0
+MOSMEF_23555	inside	1	47				
+//
+# MOSMEF_74713 Length: 49
+# MOSMEF_74713 Number of predicted TMRs: 0
+MOSMEF_74713	signal	1	15				
+MOSMEF_74713	outside	16	49				
+//
+# MOSMEF_39376 Length: 49
+# MOSMEF_39376 Number of predicted TMRs: 0
+MOSMEF_39376	inside	1	49				
+//
+# MOSMEF_129073 Length: 46
+# MOSMEF_129073 Number of predicted TMRs: 0
+MOSMEF_129073	inside	1	46				
+//
+# MOSMEF_87555 Length: 40
+# MOSMEF_87555 Number of predicted TMRs: 0
+MOSMEF_87555	signal	1	38				
+MOSMEF_87555	outside	39	40				
+//
+# MOSMEF_49507 Length: 40
+# MOSMEF_49507 Number of predicted TMRs: 0
+MOSMEF_49507	inside	1	40				
+//
+# MOSMEF_72681 Length: 43
+# MOSMEF_72681 Number of predicted TMRs: 0
+MOSMEF_72681	inside	1	43				
+//
+# MOSMEF_92233 Length: 42
+# MOSMEF_92233 Number of predicted TMRs: 0
+MOSMEF_92233	inside	1	42				
+//
+# MOSMEF_33622 Length: 35
+# MOSMEF_33622 Number of predicted TMRs: 0
+MOSMEF_33622	signal	1	33				
+MOSMEF_33622	outside	34	35				
+//
+# MOSMEF_8553 Length: 46
+# MOSMEF_8553 Number of predicted TMRs: 0
+MOSMEF_8553	inside	1	46				
+//
+# MOSMEF_26578 Length: 49
+# MOSMEF_26578 Number of predicted TMRs: 0
+MOSMEF_26578	signal	1	48				
+MOSMEF_26578	outside	49	49				
+//
+# MOSMEF_14517 Length: 45
+# MOSMEF_14517 Number of predicted TMRs: 0
+MOSMEF_14517	inside	1	45				
+//
+# MOSMEF_7093 Length: 50
+# MOSMEF_7093 Number of predicted TMRs: 0
+MOSMEF_7093	inside	1	50				
+//
+# MOSMEF_168408 Length: 44
+# MOSMEF_168408 Number of predicted TMRs: 0
+MOSMEF_168408	inside	1	44				
+//
+# MOSMEF_74692 Length: 34
+# MOSMEF_74692 Number of predicted TMRs: 0
+MOSMEF_74692	signal	1	24				
+MOSMEF_74692	outside	25	34				
+//
+# MOSMEF_50111 Length: 40
+# MOSMEF_50111 Number of predicted TMRs: 0
+MOSMEF_50111	inside	1	40				
+//
+# MOSMEF_108655 Length: 46
+# MOSMEF_108655 Number of predicted TMRs: 0
+MOSMEF_108655	signal	1	40				
+MOSMEF_108655	outside	41	46				
+//
+# MOSMEF_101070 Length: 50
+# MOSMEF_101070 Number of predicted TMRs: 0
+MOSMEF_101070	inside	1	50				
+//
+# MOSMEF_14775 Length: 50
+# MOSMEF_14775 Number of predicted TMRs: 0
+MOSMEF_14775	inside	1	50				
+//
+# MOSMEF_113094 Length: 43
+# MOSMEF_113094 Number of predicted TMRs: 0
+MOSMEF_113094	signal	1	42				
+MOSMEF_113094	outside	43	43				
+//
+# MOSMEF_139566 Length: 50
+# MOSMEF_139566 Number of predicted TMRs: 0
+MOSMEF_139566	inside	1	50				
+//
+# MOSMEF_7467 Length: 49
+# MOSMEF_7467 Number of predicted TMRs: 0
+MOSMEF_7467	inside	1	49				
+//
+# MOSMEF_105217 Length: 49
+# MOSMEF_105217 Number of predicted TMRs: 0
+MOSMEF_105217	inside	1	49				
+//
+# MOSMEF_30796 Length: 41
+# MOSMEF_30796 Number of predicted TMRs: 0
+MOSMEF_30796	signal	1	26				
+MOSMEF_30796	outside	27	41				
+//
+# MOSMEF_24082 Length: 46
+# MOSMEF_24082 Number of predicted TMRs: 0
+MOSMEF_24082	inside	1	46				
+//
+# MOSMEF_144669 Length: 36
+# MOSMEF_144669 Number of predicted TMRs: 0
+MOSMEF_144669	inside	1	36				
+//
+# MOSMEF_96248 Length: 45
+# MOSMEF_96248 Number of predicted TMRs: 0
+MOSMEF_96248	signal	1	42				
+MOSMEF_96248	outside	43	45				
+//
+# MOSMEF_105891 Length: 43
+# MOSMEF_105891 Number of predicted TMRs: 0
+MOSMEF_105891	inside	1	43				
+//
+# MOSMEF_95796 Length: 41
+# MOSMEF_95796 Number of predicted TMRs: 0
+MOSMEF_95796	inside	1	41				
+//
+# MOSMEF_70499 Length: 47
+# MOSMEF_70499 Number of predicted TMRs: 0
+MOSMEF_70499	signal	1	46				
+MOSMEF_70499	outside	47	47				
+//
+# MOSMEF_125888 Length: 37
+# MOSMEF_125888 Number of predicted TMRs: 0
+MOSMEF_125888	signal	1	34				
+MOSMEF_125888	outside	35	37				
+//
+# MOSMEF_130961 Length: 45
+# MOSMEF_130961 Number of predicted TMRs: 0
+MOSMEF_130961	signal	1	10				
+MOSMEF_130961	outside	11	45				
+//
+# MOSMEF_120873 Length: 46
+# MOSMEF_120873 Number of predicted TMRs: 0
+MOSMEF_120873	inside	1	46				
+//
+# MOSMEF_93411 Length: 49
+# MOSMEF_93411 Number of predicted TMRs: 0
+MOSMEF_93411	signal	1	11				
+MOSMEF_93411	outside	12	49				
+//
+# MOSMEF_51114 Length: 47
+# MOSMEF_51114 Number of predicted TMRs: 0
+MOSMEF_51114	signal	1	28				
+MOSMEF_51114	outside	29	47				
+//
+# MOSMEF_137755 Length: 42
+# MOSMEF_137755 Number of predicted TMRs: 0
+MOSMEF_137755	inside	1	42				
+//
+# MOSMEF_138897 Length: 42
+# MOSMEF_138897 Number of predicted TMRs: 0
+MOSMEF_138897	inside	1	42				
+//
+# MOSMEF_36025 Length: 31
+# MOSMEF_36025 Number of predicted TMRs: 0
+MOSMEF_36025	signal	1	29				
+MOSMEF_36025	outside	30	31				
+//
+# MOSMEF_2950 Length: 48
+# MOSMEF_2950 Number of predicted TMRs: 0
+MOSMEF_2950	inside	1	48				
+//
+# MOSMEF_134881 Length: 45
+# MOSMEF_134881 Number of predicted TMRs: 0
+MOSMEF_134881	inside	1	45				
+//
+# MOSMEF_109359 Length: 49
+# MOSMEF_109359 Number of predicted TMRs: 0
+MOSMEF_109359	signal	1	48				
+MOSMEF_109359	outside	49	49				
+//
+# MOSMEF_124094 Length: 50
+# MOSMEF_124094 Number of predicted TMRs: 0
+MOSMEF_124094	signal	1	43				
+MOSMEF_124094	outside	44	50				
+//
+# MOSMEF_22827 Length: 44
+# MOSMEF_22827 Number of predicted TMRs: 0
+MOSMEF_22827	inside	1	44				
+//
+# MOSMEF_110903 Length: 49
+# MOSMEF_110903 Number of predicted TMRs: 0
+MOSMEF_110903	inside	1	49				
+//
+# MOSMEF_146190 Length: 42
+# MOSMEF_146190 Number of predicted TMRs: 0
+MOSMEF_146190	signal	1	10				
+MOSMEF_146190	outside	11	42				
+//
+# MOSMEF_104647 Length: 33
+# MOSMEF_104647 Number of predicted TMRs: 0
+MOSMEF_104647	inside	1	33				
+//
+# MOSMEF_56146 Length: 42
+# MOSMEF_56146 Number of predicted TMRs: 0
+MOSMEF_56146	signal	1	40				
+MOSMEF_56146	outside	41	42				
+//
+# MOSMEF_152923 Length: 31
+# MOSMEF_152923 Number of predicted TMRs: 0
+MOSMEF_152923	signal	1	25				
+MOSMEF_152923	outside	26	31				
+//
+# MOSMEF_59481 Length: 46
+# MOSMEF_59481 Number of predicted TMRs: 0
+MOSMEF_59481	signal	1	41				
+MOSMEF_59481	outside	42	46				
+//
+# MOSMEF_119184 Length: 49
+# MOSMEF_119184 Number of predicted TMRs: 0
+MOSMEF_119184	signal	1	44				
+MOSMEF_119184	outside	45	49				
+//
+# MOSMEF_93326 Length: 44
+# MOSMEF_93326 Number of predicted TMRs: 0
+MOSMEF_93326	signal	1	43				
+MOSMEF_93326	outside	44	44				
+//
+# MOSMEF_31153 Length: 36
+# MOSMEF_31153 Number of predicted TMRs: 0
+MOSMEF_31153	inside	1	36				
+//
+# MOSMEF_101644 Length: 36
+# MOSMEF_101644 Number of predicted TMRs: 0
+MOSMEF_101644	inside	1	36				
+//
+# MOSMEF_29959 Length: 48
+# MOSMEF_29959 Number of predicted TMRs: 0
+MOSMEF_29959	signal	1	47				
+MOSMEF_29959	outside	48	48				
+//
+# MOSMEF_41704 Length: 34
+# MOSMEF_41704 Number of predicted TMRs: 0
+MOSMEF_41704	signal	1	30				
+MOSMEF_41704	outside	31	34				
+//
+# MOSMEF_62507 Length: 43
+# MOSMEF_62507 Number of predicted TMRs: 0
+MOSMEF_62507	signal	1	23				
+MOSMEF_62507	outside	24	43				
+//
+# MOSMEF_168458 Length: 49
+# MOSMEF_168458 Number of predicted TMRs: 0
+MOSMEF_168458	inside	1	49				
+//
+# MOSMEF_119678 Length: 46
+# MOSMEF_119678 Number of predicted TMRs: 0
+MOSMEF_119678	inside	1	46				
+//
+# MOSMEF_60850 Length: 44
+# MOSMEF_60850 Number of predicted TMRs: 0
+MOSMEF_60850	signal	1	43				
+MOSMEF_60850	outside	44	44				
+//
+# MOSMEF_83319 Length: 37
+# MOSMEF_83319 Number of predicted TMRs: 0
+MOSMEF_83319	inside	1	37				
+//
+# MOSMEF_138649 Length: 37
+# MOSMEF_138649 Number of predicted TMRs: 0
+MOSMEF_138649	signal	1	21				
+MOSMEF_138649	outside	22	37				
+//
+# MOSMEF_57437 Length: 48
+# MOSMEF_57437 Number of predicted TMRs: 0
+MOSMEF_57437	signal	1	13				
+MOSMEF_57437	outside	14	48				
+//
+# MOSMEF_162671 Length: 45
+# MOSMEF_162671 Number of predicted TMRs: 0
+MOSMEF_162671	signal	1	32				
+MOSMEF_162671	outside	33	45				
+//
+# MOSMEF_75321 Length: 45
+# MOSMEF_75321 Number of predicted TMRs: 0
+MOSMEF_75321	inside	1	45				
+//
+# MOSMEF_68372 Length: 50
+# MOSMEF_68372 Number of predicted TMRs: 0
+MOSMEF_68372	inside	1	50				
+//
+# MOSMEF_87280 Length: 46
+# MOSMEF_87280 Number of predicted TMRs: 0
+MOSMEF_87280	signal	1	24				
+MOSMEF_87280	outside	25	46				
+//
+# MOSMEF_47949 Length: 42
+# MOSMEF_47949 Number of predicted TMRs: 0
+MOSMEF_47949	inside	1	42				
+//
+# MOSMEF_47538 Length: 42
+# MOSMEF_47538 Number of predicted TMRs: 0
+MOSMEF_47538	signal	1	40				
+MOSMEF_47538	outside	41	42				
+//
+# MOSMEF_64077 Length: 50
+# MOSMEF_64077 Number of predicted TMRs: 0
+MOSMEF_64077	signal	1	49				
+MOSMEF_64077	outside	50	50				
+//
+# MOSMEF_170713 Length: 44
+# MOSMEF_170713 Number of predicted TMRs: 0
+MOSMEF_170713	inside	1	44				
+//
+# MOSMEF_171222 Length: 44
+# MOSMEF_171222 Number of predicted TMRs: 0
+MOSMEF_171222	inside	1	44				
+//
+# MOSMEF_52906 Length: 46
+# MOSMEF_52906 Number of predicted TMRs: 0
+MOSMEF_52906	inside	1	46				
+//
+# MOSMEF_76977 Length: 46
+# MOSMEF_76977 Number of predicted TMRs: 0
+MOSMEF_76977	inside	1	46				
+//
+# MOSMEF_53634 Length: 41
+# MOSMEF_53634 Number of predicted TMRs: 0
+MOSMEF_53634	signal	1	38				
+MOSMEF_53634	outside	39	41				
+//
+# MOSMEF_73248 Length: 50
+# MOSMEF_73248 Number of predicted TMRs: 0
+MOSMEF_73248	inside	1	50				
+//
+# MOSMEF_127585 Length: 44
+# MOSMEF_127585 Number of predicted TMRs: 0
+MOSMEF_127585	signal	1	36				
+MOSMEF_127585	outside	37	44				
+//
+# MOSMEF_166298 Length: 46
+# MOSMEF_166298 Number of predicted TMRs: 0
+MOSMEF_166298	signal	1	25				
+MOSMEF_166298	outside	26	46				
+//
+# MOSMEF_168944 Length: 43
+# MOSMEF_168944 Number of predicted TMRs: 0
+MOSMEF_168944	signal	1	42				
+MOSMEF_168944	outside	43	43				
+//
+# MOSMEF_163895 Length: 44
+# MOSMEF_163895 Number of predicted TMRs: 0
+MOSMEF_163895	signal	1	10				
+MOSMEF_163895	outside	11	44				
+//
+# MOSMEF_118653 Length: 44
+# MOSMEF_118653 Number of predicted TMRs: 0
+MOSMEF_118653	inside	1	44				
+//
+# MOSMEF_16478 Length: 45
+# MOSMEF_16478 Number of predicted TMRs: 0
+MOSMEF_16478	signal	1	28				
+MOSMEF_16478	outside	29	45				
+//
+# MOSMEF_110265 Length: 42
+# MOSMEF_110265 Number of predicted TMRs: 0
+MOSMEF_110265	signal	1	11				
+MOSMEF_110265	outside	12	42				
+//
+# MOSMEF_43231 Length: 48
+# MOSMEF_43231 Number of predicted TMRs: 0
+MOSMEF_43231	signal	1	35				
+MOSMEF_43231	outside	36	48				
+//
+# MOSMEF_47183 Length: 49
+# MOSMEF_47183 Number of predicted TMRs: 0
+MOSMEF_47183	inside	1	49				
+//
+# MOSMEF_143411 Length: 45
+# MOSMEF_143411 Number of predicted TMRs: 0
+MOSMEF_143411	signal	1	44				
+MOSMEF_143411	outside	45	45				
+//
+# MOSMEF_116663 Length: 47
+# MOSMEF_116663 Number of predicted TMRs: 0
+MOSMEF_116663	inside	1	47				
+//
+# MOSMEF_57003 Length: 40
+# MOSMEF_57003 Number of predicted TMRs: 0
+MOSMEF_57003	inside	1	40				
+//
+# MOSMEF_25840 Length: 37
+# MOSMEF_25840 Number of predicted TMRs: 0
+MOSMEF_25840	signal	1	12				
+MOSMEF_25840	outside	13	37				
+//
+# MOSMEF_112266 Length: 40
+# MOSMEF_112266 Number of predicted TMRs: 0
+MOSMEF_112266	signal	1	10				
+MOSMEF_112266	outside	11	40				
+//
+# MOSMEF_121199 Length: 46
+# MOSMEF_121199 Number of predicted TMRs: 0
+MOSMEF_121199	inside	1	46				
+//
+# MOSMEF_73321 Length: 43
+# MOSMEF_73321 Number of predicted TMRs: 0
+MOSMEF_73321	signal	1	21				
+MOSMEF_73321	outside	22	43				
+//
+# MOSMEF_168935 Length: 46
+# MOSMEF_168935 Number of predicted TMRs: 0
+MOSMEF_168935	inside	1	46				
+//
+# MOSMEF_33202 Length: 46
+# MOSMEF_33202 Number of predicted TMRs: 1
+MOSMEF_33202	outside	1	15				
+MOSMEF_33202	TMhelix	16	36				
+MOSMEF_33202	inside	37	46				
+//
+# MOSMEF_840 Length: 36
+# MOSMEF_840 Number of predicted TMRs: 0
+MOSMEF_840	signal	1	34				
+MOSMEF_840	outside	35	36				
+//
+# MOSMEF_83253 Length: 50
+# MOSMEF_83253 Number of predicted TMRs: 0
+MOSMEF_83253	inside	1	50				
+//
+# MOSMEF_44015 Length: 43
+# MOSMEF_44015 Number of predicted TMRs: 0
+MOSMEF_44015	inside	1	43				
+//
+# MOSMEF_131335 Length: 44
+# MOSMEF_131335 Number of predicted TMRs: 0
+MOSMEF_131335	inside	1	44				
+//
+# MOSMEF_12737 Length: 47
+# MOSMEF_12737 Number of predicted TMRs: 0
+MOSMEF_12737	signal	1	46				
+MOSMEF_12737	outside	47	47				
+//
+# MOSMEF_13446 Length: 41
+# MOSMEF_13446 Number of predicted TMRs: 0
+MOSMEF_13446	inside	1	41				
+//
+# MOSMEF_29173 Length: 38
+# MOSMEF_29173 Number of predicted TMRs: 0
+MOSMEF_29173	inside	1	38				
+//
+# MOSMEF_133233 Length: 40
+# MOSMEF_133233 Number of predicted TMRs: 0
+MOSMEF_133233	inside	1	40				
+//
+# MOSMEF_124697 Length: 50
+# MOSMEF_124697 Number of predicted TMRs: 0
+MOSMEF_124697	inside	1	50				
+//
+# MOSMEF_129802 Length: 43
+# MOSMEF_129802 Number of predicted TMRs: 0
+MOSMEF_129802	signal	1	16				
+MOSMEF_129802	outside	17	43				
+//
+# MOSMEF_139872 Length: 33
+# MOSMEF_139872 Number of predicted TMRs: 0
+MOSMEF_139872	inside	1	33				
+//
+# MOSMEF_150133 Length: 39
+# MOSMEF_150133 Number of predicted TMRs: 0
+MOSMEF_150133	inside	1	39				
+//
+# MOSMEF_73499 Length: 35
+# MOSMEF_73499 Number of predicted TMRs: 0
+MOSMEF_73499	signal	1	34				
+MOSMEF_73499	outside	35	35				
+//
+# MOSMEF_5034 Length: 44
+# MOSMEF_5034 Number of predicted TMRs: 0
+MOSMEF_5034	inside	1	44				
+//
+# MOSMEF_43161 Length: 45
+# MOSMEF_43161 Number of predicted TMRs: 0
+MOSMEF_43161	inside	1	45				
+//
+# MOSMEF_125396 Length: 45
+# MOSMEF_125396 Number of predicted TMRs: 0
+MOSMEF_125396	inside	1	45				
+//
+# MOSMEF_142607 Length: 42
+# MOSMEF_142607 Number of predicted TMRs: 0
+MOSMEF_142607	signal	1	14				
+MOSMEF_142607	outside	15	42				
+//
+# MOSMEF_152927 Length: 48
+# MOSMEF_152927 Number of predicted TMRs: 0
+MOSMEF_152927	signal	1	47				
+MOSMEF_152927	outside	48	48				
+//
+# MOSMEF_78089 Length: 44
+# MOSMEF_78089 Number of predicted TMRs: 0
+MOSMEF_78089	signal	1	12				
+MOSMEF_78089	outside	13	44				
+//
+# MOSMEF_50373 Length: 49
+# MOSMEF_50373 Number of predicted TMRs: 0
+MOSMEF_50373	inside	1	49				
+//
+# MOSMEF_55694 Length: 48
+# MOSMEF_55694 Number of predicted TMRs: 0
+MOSMEF_55694	signal	1	15				
+MOSMEF_55694	outside	16	48				
+//
+# MOSMEF_15881 Length: 50
+# MOSMEF_15881 Number of predicted TMRs: 0
+MOSMEF_15881	inside	1	50				
+//
+# MOSMEF_134672 Length: 50
+# MOSMEF_134672 Number of predicted TMRs: 0
+MOSMEF_134672	signal	1	47				
+MOSMEF_134672	outside	48	50				
+//
+# MOSMEF_146368 Length: 48
+# MOSMEF_146368 Number of predicted TMRs: 0
+MOSMEF_146368	signal	1	14				
+MOSMEF_146368	outside	15	48				
+//
+# MOSMEF_167105 Length: 45
+# MOSMEF_167105 Number of predicted TMRs: 0
+MOSMEF_167105	signal	1	38				
+MOSMEF_167105	outside	39	45				
+//
+# MOSMEF_172156 Length: 43
+# MOSMEF_172156 Number of predicted TMRs: 0
+MOSMEF_172156	outside	1	43				
+//
+# MOSMEF_60223 Length: 47
+# MOSMEF_60223 Number of predicted TMRs: 0
+MOSMEF_60223	inside	1	47				
+//
+# MOSMEF_98016 Length: 35
+# MOSMEF_98016 Number of predicted TMRs: 0
+MOSMEF_98016	inside	1	35				
+//
+# MOSMEF_5775 Length: 43
+# MOSMEF_5775 Number of predicted TMRs: 0
+MOSMEF_5775	signal	1	11				
+MOSMEF_5775	outside	12	43				
+//
+# MOSMEF_32312 Length: 41
+# MOSMEF_32312 Number of predicted TMRs: 0
+MOSMEF_32312	signal	1	38				
+MOSMEF_32312	outside	39	41				
+//
+# MOSMEF_147476 Length: 49
+# MOSMEF_147476 Number of predicted TMRs: 0
+MOSMEF_147476	inside	1	49				
+//
+# MOSMEF_38410 Length: 47
+# MOSMEF_38410 Number of predicted TMRs: 0
+MOSMEF_38410	signal	1	44				
+MOSMEF_38410	outside	45	47				
+//
+# MOSMEF_101653 Length: 45
+# MOSMEF_101653 Number of predicted TMRs: 0
+MOSMEF_101653	inside	1	45				
+//
+# MOSMEF_116743 Length: 40
+# MOSMEF_116743 Number of predicted TMRs: 0
+MOSMEF_116743	signal	1	33				
+MOSMEF_116743	outside	34	40				
+//
+# MOSMEF_166268 Length: 50
+# MOSMEF_166268 Number of predicted TMRs: 0
+MOSMEF_166268	inside	1	50				
+//
+# MOSMEF_152876 Length: 41
+# MOSMEF_152876 Number of predicted TMRs: 0
+MOSMEF_152876	outside	1	41				
+//
+# MOSMEF_146827 Length: 44
+# MOSMEF_146827 Number of predicted TMRs: 0
+MOSMEF_146827	inside	1	44				
+//
+# MOSMEF_121267 Length: 43
+# MOSMEF_121267 Number of predicted TMRs: 0
+MOSMEF_121267	inside	1	43				
+//
+# MOSMEF_107101 Length: 47
+# MOSMEF_107101 Number of predicted TMRs: 0
+MOSMEF_107101	inside	1	47				
+//
+# MOSMEF_73690 Length: 41
+# MOSMEF_73690 Number of predicted TMRs: 0
+MOSMEF_73690	signal	1	40				
+MOSMEF_73690	outside	41	41				
+//
+# MOSMEF_46136 Length: 48
+# MOSMEF_46136 Number of predicted TMRs: 0
+MOSMEF_46136	signal	1	15				
+MOSMEF_46136	outside	16	48				
+//
+# MOSMEF_102741 Length: 49
+# MOSMEF_102741 Number of predicted TMRs: 0
+MOSMEF_102741	inside	1	49				
+//
+# MOSMEF_93538 Length: 44
+# MOSMEF_93538 Number of predicted TMRs: 0
+MOSMEF_93538	signal	1	19				
+MOSMEF_93538	outside	20	44				
+//
+# MOSMEF_106487 Length: 45
+# MOSMEF_106487 Number of predicted TMRs: 0
+MOSMEF_106487	inside	1	45				
+//
+# MOSMEF_114364 Length: 49
+# MOSMEF_114364 Number of predicted TMRs: 0
+MOSMEF_114364	inside	1	49				
+//
+# MOSMEF_60281 Length: 50
+# MOSMEF_60281 Number of predicted TMRs: 0
+MOSMEF_60281	inside	1	50				
+//
+# MOSMEF_127421 Length: 44
+# MOSMEF_127421 Number of predicted TMRs: 0
+MOSMEF_127421	inside	1	44				
+//
+# MOSMEF_167971 Length: 40
+# MOSMEF_167971 Number of predicted TMRs: 0
+MOSMEF_167971	inside	1	40				
+//
+# MOSMEF_69306 Length: 47
+# MOSMEF_69306 Number of predicted TMRs: 0
+MOSMEF_69306	inside	1	47				
+//
+# MOSMEF_33215 Length: 42
+# MOSMEF_33215 Number of predicted TMRs: 0
+MOSMEF_33215	signal	1	34				
+MOSMEF_33215	outside	35	42				
+//
+# MOSMEF_100958 Length: 41
+# MOSMEF_100958 Number of predicted TMRs: 0
+MOSMEF_100958	signal	1	20				
+MOSMEF_100958	outside	21	41				
+//
+# MOSMEF_48529 Length: 40
+# MOSMEF_48529 Number of predicted TMRs: 0
+MOSMEF_48529	inside	1	40				
+//
+# MOSMEF_119119 Length: 40
+# MOSMEF_119119 Number of predicted TMRs: 0
+MOSMEF_119119	inside	1	40				
+//
+# MOSMEF_58157 Length: 28
+# MOSMEF_58157 Number of predicted TMRs: 0
+MOSMEF_58157	inside	1	28				
+//
+# MOSMEF_89007 Length: 37
+# MOSMEF_89007 Number of predicted TMRs: 0
+MOSMEF_89007	inside	1	37				
+//
+# MOSMEF_63396 Length: 44
+# MOSMEF_63396 Number of predicted TMRs: 0
+MOSMEF_63396	signal	1	15				
+MOSMEF_63396	outside	16	44				
+//
+# MOSMEF_12618 Length: 47
+# MOSMEF_12618 Number of predicted TMRs: 0
+MOSMEF_12618	inside	1	47				
+//
+# MOSMEF_78122 Length: 42
+# MOSMEF_78122 Number of predicted TMRs: 0
+MOSMEF_78122	signal	1	31				
+MOSMEF_78122	outside	32	42				
+//
+# MOSMEF_103815 Length: 47
+# MOSMEF_103815 Number of predicted TMRs: 0
+MOSMEF_103815	inside	1	47				
+//
+# MOSMEF_54117 Length: 49
+# MOSMEF_54117 Number of predicted TMRs: 0
+MOSMEF_54117	inside	1	49				
+//
+# MOSMEF_57688 Length: 40
+# MOSMEF_57688 Number of predicted TMRs: 0
+MOSMEF_57688	inside	1	40				
+//
+# MOSMEF_53217 Length: 28
+# MOSMEF_53217 Number of predicted TMRs: 0
+MOSMEF_53217	inside	1	28				
+//
+# MOSMEF_53219 Length: 29
+# MOSMEF_53219 Number of predicted TMRs: 0
+MOSMEF_53219	inside	1	29				
+//
+# MOSMEF_15550 Length: 35
+# MOSMEF_15550 Number of predicted TMRs: 0
+MOSMEF_15550	inside	1	35				
+//
+# MOSMEF_139824 Length: 42
+# MOSMEF_139824 Number of predicted TMRs: 0
+MOSMEF_139824	outside	1	42				
+//
+# MOSMEF_52774 Length: 50
+# MOSMEF_52774 Number of predicted TMRs: 0
+MOSMEF_52774	inside	1	50				
+//
+# MOSMEF_131577 Length: 46
+# MOSMEF_131577 Number of predicted TMRs: 0
+MOSMEF_131577	inside	1	46				
+//
+# MOSMEF_104755 Length: 44
+# MOSMEF_104755 Number of predicted TMRs: 0
+MOSMEF_104755	inside	1	44				
+//
+# MOSMEF_14018 Length: 42
+# MOSMEF_14018 Number of predicted TMRs: 0
+MOSMEF_14018	signal	1	10				
+MOSMEF_14018	outside	11	42				
+//
+# MOSMEF_16461 Length: 43
+# MOSMEF_16461 Number of predicted TMRs: 0
+MOSMEF_16461	inside	1	43				
+//
+# MOSMEF_76557 Length: 44
+# MOSMEF_76557 Number of predicted TMRs: 0
+MOSMEF_76557	inside	1	44				
+//
+# MOSMEF_91870 Length: 42
+# MOSMEF_91870 Number of predicted TMRs: 0
+MOSMEF_91870	inside	1	42				
+//
+# MOSMEF_8383 Length: 45
+# MOSMEF_8383 Number of predicted TMRs: 0
+MOSMEF_8383	signal	1	20				
+MOSMEF_8383	outside	21	45				
+//
+# MOSMEF_5807 Length: 34
+# MOSMEF_5807 Number of predicted TMRs: 0
+MOSMEF_5807	signal	1	32				
+MOSMEF_5807	outside	33	34				
+//
+# MOSMEF_80314 Length: 42
+# MOSMEF_80314 Number of predicted TMRs: 0
+MOSMEF_80314	signal	1	41				
+MOSMEF_80314	outside	42	42				
+//
+# MOSMEF_116164 Length: 42
+# MOSMEF_116164 Number of predicted TMRs: 0
+MOSMEF_116164	inside	1	42				
+//
+# MOSMEF_149809 Length: 46
+# MOSMEF_149809 Number of predicted TMRs: 0
+MOSMEF_149809	inside	1	46				
+//
+# MOSMEF_78142 Length: 47
+# MOSMEF_78142 Number of predicted TMRs: 0
+MOSMEF_78142	inside	1	47				
+//
+# MOSMEF_76114 Length: 49
+# MOSMEF_76114 Number of predicted TMRs: 0
+MOSMEF_76114	inside	1	49				
+//
+# MOSMEF_39828 Length: 46
+# MOSMEF_39828 Number of predicted TMRs: 0
+MOSMEF_39828	inside	1	46				
+//
+# MOSMEF_68001 Length: 38
+# MOSMEF_68001 Number of predicted TMRs: 0
+MOSMEF_68001	signal	1	36				
+MOSMEF_68001	outside	37	38				
+//
+# MOSMEF_127375 Length: 43
+# MOSMEF_127375 Number of predicted TMRs: 0
+MOSMEF_127375	inside	1	43				
+//
+# MOSMEF_77333 Length: 49
+# MOSMEF_77333 Number of predicted TMRs: 0
+MOSMEF_77333	signal	1	10				
+MOSMEF_77333	outside	11	49				
+//
+# MOSMEF_65928 Length: 44
+# MOSMEF_65928 Number of predicted TMRs: 0
+MOSMEF_65928	signal	1	43				
+MOSMEF_65928	outside	44	44				
+//
+# MOSMEF_8436 Length: 42
+# MOSMEF_8436 Number of predicted TMRs: 0
+MOSMEF_8436	inside	1	42				
+//
+# MOSMEF_46163 Length: 48
+# MOSMEF_46163 Number of predicted TMRs: 0
+MOSMEF_46163	inside	1	48				
+//
+# MOSMEF_64020 Length: 50
+# MOSMEF_64020 Number of predicted TMRs: 0
+MOSMEF_64020	inside	1	50				
+//
+# MOSMEF_25951 Length: 44
+# MOSMEF_25951 Number of predicted TMRs: 0
+MOSMEF_25951	signal	1	43				
+MOSMEF_25951	outside	44	44				
+//
+# MOSMEF_38701 Length: 45
+# MOSMEF_38701 Number of predicted TMRs: 0
+MOSMEF_38701	inside	1	45				
+//
+# MOSMEF_30587 Length: 50
+# MOSMEF_30587 Number of predicted TMRs: 0
+MOSMEF_30587	inside	1	50				
+//
+# MOSMEF_134022 Length: 50
+# MOSMEF_134022 Number of predicted TMRs: 0
+MOSMEF_134022	signal	1	32				
+MOSMEF_134022	outside	33	50				
+//
+# MOSMEF_93899 Length: 40
+# MOSMEF_93899 Number of predicted TMRs: 0
+MOSMEF_93899	inside	1	40				
+//
+# MOSMEF_39307 Length: 47
+# MOSMEF_39307 Number of predicted TMRs: 0
+MOSMEF_39307	inside	1	47				
+//
+# MOSMEF_120954 Length: 39
+# MOSMEF_120954 Number of predicted TMRs: 0
+MOSMEF_120954	inside	1	39				
+//
+# MOSMEF_21425 Length: 40
+# MOSMEF_21425 Number of predicted TMRs: 0
+MOSMEF_21425	signal	1	10				
+MOSMEF_21425	outside	11	40				
+//
+# MOSMEF_102090 Length: 49
+# MOSMEF_102090 Number of predicted TMRs: 0
+MOSMEF_102090	signal	1	47				
+MOSMEF_102090	outside	48	49				
+//
+# MOSMEF_4724 Length: 42
+# MOSMEF_4724 Number of predicted TMRs: 0
+MOSMEF_4724	signal	1	35				
+MOSMEF_4724	outside	36	42				
+//
+# MOSMEF_95184 Length: 45
+# MOSMEF_95184 Number of predicted TMRs: 0
+MOSMEF_95184	inside	1	45				
+//
+# MOSMEF_66280 Length: 38
+# MOSMEF_66280 Number of predicted TMRs: 0
+MOSMEF_66280	inside	1	38				
+//
+# MOSMEF_93153 Length: 48
+# MOSMEF_93153 Number of predicted TMRs: 0
+MOSMEF_93153	inside	1	48				
+//
+# MOSMEF_77147 Length: 49
+# MOSMEF_77147 Number of predicted TMRs: 0
+MOSMEF_77147	inside	1	49				
+//
+# MOSMEF_92692 Length: 49
+# MOSMEF_92692 Number of predicted TMRs: 0
+MOSMEF_92692	inside	1	49				
+//
+# MOSMEF_131640 Length: 38
+# MOSMEF_131640 Number of predicted TMRs: 0
+MOSMEF_131640	signal	1	37				
+MOSMEF_131640	outside	38	38				
+//
+# MOSMEF_100276 Length: 48
+# MOSMEF_100276 Number of predicted TMRs: 0
+MOSMEF_100276	inside	1	48				
+//
+# MOSMEF_69579 Length: 47
+# MOSMEF_69579 Number of predicted TMRs: 0
+MOSMEF_69579	inside	1	47				
+//
+# MOSMEF_30751 Length: 50
+# MOSMEF_30751 Number of predicted TMRs: 0
+MOSMEF_30751	signal	1	15				
+MOSMEF_30751	outside	16	50				
+//
+# MOSMEF_54799 Length: 50
+# MOSMEF_54799 Number of predicted TMRs: 0
+MOSMEF_54799	inside	1	50				
+//
+# MOSMEF_4645 Length: 49
+# MOSMEF_4645 Number of predicted TMRs: 0
+MOSMEF_4645	outside	1	49				
+//
+# MOSMEF_105917 Length: 44
+# MOSMEF_105917 Number of predicted TMRs: 0
+MOSMEF_105917	inside	1	44				
+//
+# MOSMEF_142259 Length: 48
+# MOSMEF_142259 Number of predicted TMRs: 0
+MOSMEF_142259	inside	1	48				
+//
+# MOSMEF_75122 Length: 49
+# MOSMEF_75122 Number of predicted TMRs: 0
+MOSMEF_75122	inside	1	49				
+//
+# MOSMEF_5079 Length: 50
+# MOSMEF_5079 Number of predicted TMRs: 1
+MOSMEF_5079	inside	1	1				
+MOSMEF_5079	TMhelix	2	18				
+MOSMEF_5079	outside	19	50				
+//
+# MOSMEF_44078 Length: 44
+# MOSMEF_44078 Number of predicted TMRs: 0
+MOSMEF_44078	inside	1	44				
+//
+# MOSMEF_74264 Length: 28
+# MOSMEF_74264 Number of predicted TMRs: 0
+MOSMEF_74264	signal	1	27				
+MOSMEF_74264	outside	28	28				
+//
+# MOSMEF_46504 Length: 49
+# MOSMEF_46504 Number of predicted TMRs: 0
+MOSMEF_46504	inside	1	49				
+//
+# MOSMEF_44160 Length: 40
+# MOSMEF_44160 Number of predicted TMRs: 0
+MOSMEF_44160	inside	1	40				
+//
+# MOSMEF_131662 Length: 50
+# MOSMEF_131662 Number of predicted TMRs: 0
+MOSMEF_131662	inside	1	50				
+//
+# MOSMEF_142626 Length: 48
+# MOSMEF_142626 Number of predicted TMRs: 0
+MOSMEF_142626	inside	1	48				
+//
+# MOSMEF_83499 Length: 48
+# MOSMEF_83499 Number of predicted TMRs: 0
+MOSMEF_83499	inside	1	48				
+//
+# MOSMEF_56983 Length: 45
+# MOSMEF_56983 Number of predicted TMRs: 0
+MOSMEF_56983	inside	1	45				
+//
+# MOSMEF_130882 Length: 42
+# MOSMEF_130882 Number of predicted TMRs: 0
+MOSMEF_130882	inside	1	42				
+//
+# MOSMEF_78826 Length: 43
+# MOSMEF_78826 Number of predicted TMRs: 0
+MOSMEF_78826	outside	1	43				
+//
+# MOSMEF_166130 Length: 46
+# MOSMEF_166130 Number of predicted TMRs: 0
+MOSMEF_166130	inside	1	46				
+//
+# MOSMEF_58059 Length: 46
+# MOSMEF_58059 Number of predicted TMRs: 0
+MOSMEF_58059	signal	1	32				
+MOSMEF_58059	outside	33	46				
+//
+# MOSMEF_21046 Length: 47
+# MOSMEF_21046 Number of predicted TMRs: 0
+MOSMEF_21046	inside	1	47				
+//
+# MOSMEF_135890 Length: 31
+# MOSMEF_135890 Number of predicted TMRs: 0
+MOSMEF_135890	signal	1	21				
+MOSMEF_135890	outside	22	31				
+//
+# MOSMEF_170795 Length: 50
+# MOSMEF_170795 Number of predicted TMRs: 0
+MOSMEF_170795	inside	1	50				
+//
+# MOSMEF_38316 Length: 43
+# MOSMEF_38316 Number of predicted TMRs: 0
+MOSMEF_38316	signal	1	42				
+MOSMEF_38316	outside	43	43				
+//
+# MOSMEF_19666 Length: 47
+# MOSMEF_19666 Number of predicted TMRs: 0
+MOSMEF_19666	inside	1	47				
+//
+# MOSMEF_69336 Length: 37
+# MOSMEF_69336 Number of predicted TMRs: 0
+MOSMEF_69336	inside	1	37				
+//
+# MOSMEF_96550 Length: 46
+# MOSMEF_96550 Number of predicted TMRs: 0
+MOSMEF_96550	signal	1	12				
+MOSMEF_96550	outside	13	46				
+//
+# MOSMEF_170298 Length: 46
+# MOSMEF_170298 Number of predicted TMRs: 0
+MOSMEF_170298	inside	1	46				
+//
+# MOSMEF_9199 Length: 48
+# MOSMEF_9199 Number of predicted TMRs: 0
+MOSMEF_9199	signal	1	45				
+MOSMEF_9199	outside	46	48				
+//
+# MOSMEF_20201 Length: 45
+# MOSMEF_20201 Number of predicted TMRs: 0
+MOSMEF_20201	signal	1	44				
+MOSMEF_20201	outside	45	45				
+//
+# MOSMEF_62437 Length: 47
+# MOSMEF_62437 Number of predicted TMRs: 0
+MOSMEF_62437	signal	1	22				
+MOSMEF_62437	outside	23	47				
+//
+# MOSMEF_42934 Length: 49
+# MOSMEF_42934 Number of predicted TMRs: 0
+MOSMEF_42934	signal	1	20				
+MOSMEF_42934	outside	21	49				
+//
+# MOSMEF_129849 Length: 50
+# MOSMEF_129849 Number of predicted TMRs: 0
+MOSMEF_129849	inside	1	50				
+//
+# MOSMEF_167970 Length: 42
+# MOSMEF_167970 Number of predicted TMRs: 0
+MOSMEF_167970	inside	1	42				
+//
+# MOSMEF_144498 Length: 50
+# MOSMEF_144498 Number of predicted TMRs: 0
+MOSMEF_144498	inside	1	50				
+//
+# MOSMEF_62403 Length: 45
+# MOSMEF_62403 Number of predicted TMRs: 0
+MOSMEF_62403	inside	1	45				
+//
+# MOSMEF_85973 Length: 42
+# MOSMEF_85973 Number of predicted TMRs: 0
+MOSMEF_85973	signal	1	26				
+MOSMEF_85973	outside	27	42				
+//
+# MOSMEF_47725 Length: 49
+# MOSMEF_47725 Number of predicted TMRs: 0
+MOSMEF_47725	signal	1	40				
+MOSMEF_47725	outside	41	49				
+//
+# MOSMEF_5497 Length: 49
+# MOSMEF_5497 Number of predicted TMRs: 0
+MOSMEF_5497	inside	1	49				
+//
+# MOSMEF_167233 Length: 50
+# MOSMEF_167233 Number of predicted TMRs: 0
+MOSMEF_167233	signal	1	21				
+MOSMEF_167233	outside	22	50				
+//
+# MOSMEF_17831 Length: 30
+# MOSMEF_17831 Number of predicted TMRs: 0
+MOSMEF_17831	inside	1	30				
+//
+# MOSMEF_21056 Length: 49
+# MOSMEF_21056 Number of predicted TMRs: 0
+MOSMEF_21056	inside	1	49				
+//
+# MOSMEF_65656 Length: 43
+# MOSMEF_65656 Number of predicted TMRs: 0
+MOSMEF_65656	inside	1	43				
+//
+# MOSMEF_59835 Length: 47
+# MOSMEF_59835 Number of predicted TMRs: 0
+MOSMEF_59835	inside	1	47				
+//
+# MOSMEF_39686 Length: 41
+# MOSMEF_39686 Number of predicted TMRs: 0
+MOSMEF_39686	inside	1	41				
+//
+# MOSMEF_119765 Length: 46
+# MOSMEF_119765 Number of predicted TMRs: 0
+MOSMEF_119765	inside	1	46				
+//
+# MOSMEF_12534 Length: 40
+# MOSMEF_12534 Number of predicted TMRs: 0
+MOSMEF_12534	inside	1	40				
+//
+# MOSMEF_105037 Length: 46
+# MOSMEF_105037 Number of predicted TMRs: 0
+MOSMEF_105037	inside	1	46				
+//
+# MOSMEF_63260 Length: 44
+# MOSMEF_63260 Number of predicted TMRs: 0
+MOSMEF_63260	inside	1	44				
+//
+# MOSMEF_136460 Length: 40
+# MOSMEF_136460 Number of predicted TMRs: 0
+MOSMEF_136460	inside	1	40				
+//
+# MOSMEF_92693 Length: 45
+# MOSMEF_92693 Number of predicted TMRs: 0
+MOSMEF_92693	inside	1	45				
+//
+# MOSMEF_165977 Length: 42
+# MOSMEF_165977 Number of predicted TMRs: 0
+MOSMEF_165977	signal	1	17				
+MOSMEF_165977	outside	18	42				
+//
+# MOSMEF_19397 Length: 36
+# MOSMEF_19397 Number of predicted TMRs: 0
+MOSMEF_19397	inside	1	36				
+//
+# MOSMEF_20983 Length: 49
+# MOSMEF_20983 Number of predicted TMRs: 0
+MOSMEF_20983	signal	1	14				
+MOSMEF_20983	outside	15	49				
+//
+# MOSMEF_127658 Length: 48
+# MOSMEF_127658 Number of predicted TMRs: 0
+MOSMEF_127658	signal	1	38				
+MOSMEF_127658	outside	39	48				
+//
+# MOSMEF_59614 Length: 49
+# MOSMEF_59614 Number of predicted TMRs: 0
+MOSMEF_59614	inside	1	49				
+//
+# MOSMEF_102217 Length: 49
+# MOSMEF_102217 Number of predicted TMRs: 0
+MOSMEF_102217	signal	1	48				
+MOSMEF_102217	outside	49	49				
+//
+# MOSMEF_35256 Length: 43
+# MOSMEF_35256 Number of predicted TMRs: 0
+MOSMEF_35256	inside	1	43				
+//
+# MOSMEF_58830 Length: 50
+# MOSMEF_58830 Number of predicted TMRs: 0
+MOSMEF_58830	inside	1	50				
+//
+# MOSMEF_62583 Length: 50
+# MOSMEF_62583 Number of predicted TMRs: 0
+MOSMEF_62583	inside	1	50				
+//
+# MOSMEF_170941 Length: 47
+# MOSMEF_170941 Number of predicted TMRs: 0
+MOSMEF_170941	inside	1	47				
+//
+# MOSMEF_56724 Length: 49
+# MOSMEF_56724 Number of predicted TMRs: 0
+MOSMEF_56724	inside	1	49				
+//
+# MOSMEF_28864 Length: 42
+# MOSMEF_28864 Number of predicted TMRs: 0
+MOSMEF_28864	signal	1	41				
+MOSMEF_28864	outside	42	42				
+//
+# MOSMEF_125972 Length: 39
+# MOSMEF_125972 Number of predicted TMRs: 0
+MOSMEF_125972	inside	1	39				
+//
+# MOSMEF_64819 Length: 49
+# MOSMEF_64819 Number of predicted TMRs: 0
+MOSMEF_64819	signal	1	24				
+MOSMEF_64819	outside	25	49				
+//
+# MOSMEF_20092 Length: 45
+# MOSMEF_20092 Number of predicted TMRs: 0
+MOSMEF_20092	inside	1	45				
+//
+# MOSMEF_140301 Length: 45
+# MOSMEF_140301 Number of predicted TMRs: 0
+MOSMEF_140301	signal	1	35				
+MOSMEF_140301	outside	36	45				
+//
+# MOSMEF_166983 Length: 47
+# MOSMEF_166983 Number of predicted TMRs: 0
+MOSMEF_166983	signal	1	10				
+MOSMEF_166983	outside	11	47				
+//
+# MOSMEF_59072 Length: 48
+# MOSMEF_59072 Number of predicted TMRs: 0
+MOSMEF_59072	signal	1	10				
+MOSMEF_59072	outside	11	48				
+//
+# MOSMEF_103052 Length: 46
+# MOSMEF_103052 Number of predicted TMRs: 0
+MOSMEF_103052	inside	1	46				
+//
+# MOSMEF_91083 Length: 50
+# MOSMEF_91083 Number of predicted TMRs: 0
+MOSMEF_91083	signal	1	47				
+MOSMEF_91083	outside	48	50				
+//
+# MOSMEF_113088 Length: 50
+# MOSMEF_113088 Number of predicted TMRs: 0
+MOSMEF_113088	inside	1	50				
+//
+# MOSMEF_26595 Length: 45
+# MOSMEF_26595 Number of predicted TMRs: 0
+MOSMEF_26595	inside	1	45				
+//
+# MOSMEF_8085 Length: 46
+# MOSMEF_8085 Number of predicted TMRs: 0
+MOSMEF_8085	inside	1	46				
+//
+# MOSMEF_8461 Length: 26
+# MOSMEF_8461 Number of predicted TMRs: 0
+MOSMEF_8461	outside	1	26				
+//
+# MOSMEF_69926 Length: 49
+# MOSMEF_69926 Number of predicted TMRs: 0
+MOSMEF_69926	inside	1	49				
+//
+# MOSMEF_111590 Length: 50
+# MOSMEF_111590 Number of predicted TMRs: 0
+MOSMEF_111590	inside	1	50				
+//
+# MOSMEF_105329 Length: 41
+# MOSMEF_105329 Number of predicted TMRs: 0
+MOSMEF_105329	signal	1	22				
+MOSMEF_105329	outside	23	41				
+//
+# MOSMEF_61190 Length: 47
+# MOSMEF_61190 Number of predicted TMRs: 0
+MOSMEF_61190	signal	1	41				
+MOSMEF_61190	outside	42	47				
+//
+# MOSMEF_93041 Length: 50
+# MOSMEF_93041 Number of predicted TMRs: 0
+MOSMEF_93041	signal	1	23				
+MOSMEF_93041	outside	24	50				
+//
+# MOSMEF_170544 Length: 48
+# MOSMEF_170544 Number of predicted TMRs: 0
+MOSMEF_170544	inside	1	48				
+//
+# MOSMEF_164718 Length: 39
+# MOSMEF_164718 Number of predicted TMRs: 0
+MOSMEF_164718	signal	1	38				
+MOSMEF_164718	outside	39	39				
+//
+# MOSMEF_139298 Length: 43
+# MOSMEF_139298 Number of predicted TMRs: 0
+MOSMEF_139298	inside	1	43				
+//
+# MOSMEF_58457 Length: 49
+# MOSMEF_58457 Number of predicted TMRs: 0
+MOSMEF_58457	inside	1	49				
+//
+# MOSMEF_104409 Length: 46
+# MOSMEF_104409 Number of predicted TMRs: 0
+MOSMEF_104409	inside	1	46				
+//
+# MOSMEF_88154 Length: 49
+# MOSMEF_88154 Number of predicted TMRs: 0
+MOSMEF_88154	inside	1	49				
+//
+# MOSMEF_16045 Length: 49
+# MOSMEF_16045 Number of predicted TMRs: 0
+MOSMEF_16045	signal	1	45				
+MOSMEF_16045	outside	46	49				
+//
+# MOSMEF_118999 Length: 42
+# MOSMEF_118999 Number of predicted TMRs: 0
+MOSMEF_118999	inside	1	42				
+//
+# MOSMEF_122217 Length: 45
+# MOSMEF_122217 Number of predicted TMRs: 0
+MOSMEF_122217	signal	1	30				
+MOSMEF_122217	outside	31	45				
+//
+# MOSMEF_23039 Length: 34
+# MOSMEF_23039 Number of predicted TMRs: 0
+MOSMEF_23039	signal	1	30				
+MOSMEF_23039	outside	31	34				
+//
+# MOSMEF_146142 Length: 37
+# MOSMEF_146142 Number of predicted TMRs: 0
+MOSMEF_146142	signal	1	11				
+MOSMEF_146142	outside	12	37				
+//
+# MOSMEF_9052 Length: 47
+# MOSMEF_9052 Number of predicted TMRs: 0
+MOSMEF_9052	signal	1	46				
+MOSMEF_9052	outside	47	47				
+//
+# MOSMEF_144837 Length: 47
+# MOSMEF_144837 Number of predicted TMRs: 0
+MOSMEF_144837	signal	1	46				
+MOSMEF_144837	outside	47	47				
+//
+# MOSMEF_6901 Length: 49
+# MOSMEF_6901 Number of predicted TMRs: 0
+MOSMEF_6901	inside	1	49				
+//
+# MOSMEF_100580 Length: 48
+# MOSMEF_100580 Number of predicted TMRs: 0
+MOSMEF_100580	inside	1	48				
+//
+# MOSMEF_61177 Length: 50
+# MOSMEF_61177 Number of predicted TMRs: 0
+MOSMEF_61177	inside	1	50				
+//
+# MOSMEF_128119 Length: 36
+# MOSMEF_128119 Number of predicted TMRs: 0
+MOSMEF_128119	inside	1	36				
+//
+# MOSMEF_125990 Length: 46
+# MOSMEF_125990 Number of predicted TMRs: 0
+MOSMEF_125990	signal	1	45				
+MOSMEF_125990	outside	46	46				
+//
+# MOSMEF_37951 Length: 44
+# MOSMEF_37951 Number of predicted TMRs: 0
+MOSMEF_37951	signal	1	43				
+MOSMEF_37951	outside	44	44				
+//
+# MOSMEF_105184 Length: 44
+# MOSMEF_105184 Number of predicted TMRs: 0
+MOSMEF_105184	inside	1	44				
+//
+# MOSMEF_79274 Length: 35
+# MOSMEF_79274 Number of predicted TMRs: 0
+MOSMEF_79274	signal	1	26				
+MOSMEF_79274	outside	27	35				
+//
+# MOSMEF_116151 Length: 35
+# MOSMEF_116151 Number of predicted TMRs: 0
+MOSMEF_116151	inside	1	35				
+//
+# MOSMEF_5672 Length: 44
+# MOSMEF_5672 Number of predicted TMRs: 0
+MOSMEF_5672	inside	1	44				
+//
+# MOSMEF_69787 Length: 46
+# MOSMEF_69787 Number of predicted TMRs: 0
+MOSMEF_69787	inside	1	46				
+//
+# MOSMEF_75574 Length: 49
+# MOSMEF_75574 Number of predicted TMRs: 0
+MOSMEF_75574	inside	1	49				
+//
+# MOSMEF_30770 Length: 43
+# MOSMEF_30770 Number of predicted TMRs: 0
+MOSMEF_30770	signal	1	10				
+MOSMEF_30770	outside	11	43				
+//
+# MOSMEF_168964 Length: 36
+# MOSMEF_168964 Number of predicted TMRs: 0
+MOSMEF_168964	signal	1	29				
+MOSMEF_168964	outside	30	36				
+//
+# MOSMEF_32395 Length: 47
+# MOSMEF_32395 Number of predicted TMRs: 0
+MOSMEF_32395	signal	1	46				
+MOSMEF_32395	outside	47	47				
+//
+# MOSMEF_62282 Length: 48
+# MOSMEF_62282 Number of predicted TMRs: 0
+MOSMEF_62282	outside	1	48				
+//
+# MOSMEF_77593 Length: 36
+# MOSMEF_77593 Number of predicted TMRs: 0
+MOSMEF_77593	inside	1	36				
+//
+# MOSMEF_100277 Length: 49
+# MOSMEF_100277 Number of predicted TMRs: 0
+MOSMEF_100277	inside	1	49				
+//
+# MOSMEF_120514 Length: 49
+# MOSMEF_120514 Number of predicted TMRs: 0
+MOSMEF_120514	outside	1	49				
+//
+# MOSMEF_29270 Length: 40
+# MOSMEF_29270 Number of predicted TMRs: 0
+MOSMEF_29270	inside	1	40				
+//
+# MOSMEF_29272 Length: 43
+# MOSMEF_29272 Number of predicted TMRs: 0
+MOSMEF_29272	signal	1	42				
+MOSMEF_29272	outside	43	43				
+//
+# MOSMEF_153566 Length: 48
+# MOSMEF_153566 Number of predicted TMRs: 0
+MOSMEF_153566	inside	1	48				
+//
+# MOSMEF_46885 Length: 46
+# MOSMEF_46885 Number of predicted TMRs: 0
+MOSMEF_46885	signal	1	18				
+MOSMEF_46885	outside	19	46				
+//
+# MOSMEF_103475 Length: 49
+# MOSMEF_103475 Number of predicted TMRs: 0
+MOSMEF_103475	outside	1	49				
+//
+# MOSMEF_162408 Length: 48
+# MOSMEF_162408 Number of predicted TMRs: 0
+MOSMEF_162408	inside	1	48				
+//
+# MOSMEF_90176 Length: 44
+# MOSMEF_90176 Number of predicted TMRs: 0
+MOSMEF_90176	inside	1	44				
+//
+# MOSMEF_132705 Length: 48
+# MOSMEF_132705 Number of predicted TMRs: 0
+MOSMEF_132705	inside	1	48				
+//
+# MOSMEF_70010 Length: 45
+# MOSMEF_70010 Number of predicted TMRs: 0
+MOSMEF_70010	signal	1	33				
+MOSMEF_70010	outside	34	45				
+//
+# MOSMEF_168037 Length: 44
+# MOSMEF_168037 Number of predicted TMRs: 0
+MOSMEF_168037	inside	1	44				
+//
+# MOSMEF_8240 Length: 46
+# MOSMEF_8240 Number of predicted TMRs: 0
+MOSMEF_8240	inside	1	46				
+//
+# MOSMEF_131526 Length: 48
+# MOSMEF_131526 Number of predicted TMRs: 0
+MOSMEF_131526	inside	1	48				
+//
+# MOSMEF_101567 Length: 46
+# MOSMEF_101567 Number of predicted TMRs: 0
+MOSMEF_101567	inside	1	46				
+//
+# MOSMEF_9027 Length: 44
+# MOSMEF_9027 Number of predicted TMRs: 0
+MOSMEF_9027	inside	1	44				
+//
+# MOSMEF_101405 Length: 50
+# MOSMEF_101405 Number of predicted TMRs: 0
+MOSMEF_101405	inside	1	50				
+//
+# MOSMEF_101257 Length: 38
+# MOSMEF_101257 Number of predicted TMRs: 0
+MOSMEF_101257	signal	1	13				
+MOSMEF_101257	outside	14	38				
+//
+# MOSMEF_156323 Length: 50
+# MOSMEF_156323 Number of predicted TMRs: 0
+MOSMEF_156323	inside	1	50				
+//
+# MOSMEF_147048 Length: 48
+# MOSMEF_147048 Number of predicted TMRs: 0
+MOSMEF_147048	outside	1	48				
+//
+# MOSMEF_169069 Length: 39
+# MOSMEF_169069 Number of predicted TMRs: 0
+MOSMEF_169069	signal	1	22				
+MOSMEF_169069	outside	23	39				
+//
+# MOSMEF_144272 Length: 46
+# MOSMEF_144272 Number of predicted TMRs: 0
+MOSMEF_144272	inside	1	46				
+//
+# MOSMEF_11730 Length: 39
+# MOSMEF_11730 Number of predicted TMRs: 0
+MOSMEF_11730	signal	1	21				
+MOSMEF_11730	outside	22	39				
+//
+# MOSMEF_18399 Length: 49
+# MOSMEF_18399 Number of predicted TMRs: 0
+MOSMEF_18399	inside	1	49				
+//
+# MOSMEF_132214 Length: 31
+# MOSMEF_132214 Number of predicted TMRs: 0
+MOSMEF_132214	signal	1	30				
+MOSMEF_132214	outside	31	31				
+//
+# MOSMEF_165619 Length: 38
+# MOSMEF_165619 Number of predicted TMRs: 0
+MOSMEF_165619	inside	1	38				
+//
+# MOSMEF_49361 Length: 46
+# MOSMEF_49361 Number of predicted TMRs: 0
+MOSMEF_49361	inside	1	46				
+//
+# MOSMEF_90011 Length: 49
+# MOSMEF_90011 Number of predicted TMRs: 0
+MOSMEF_90011	inside	1	49				
+//
+# MOSMEF_18302 Length: 40
+# MOSMEF_18302 Number of predicted TMRs: 0
+MOSMEF_18302	signal	1	38				
+MOSMEF_18302	outside	39	40				
+//
+# MOSMEF_165720 Length: 49
+# MOSMEF_165720 Number of predicted TMRs: 0
+MOSMEF_165720	inside	1	49				
+//
+# MOSMEF_46918 Length: 37
+# MOSMEF_46918 Number of predicted TMRs: 0
+MOSMEF_46918	signal	1	35				
+MOSMEF_46918	outside	36	37				
+//
+# MOSMEF_39595 Length: 35
+# MOSMEF_39595 Number of predicted TMRs: 0
+MOSMEF_39595	signal	1	15				
+MOSMEF_39595	outside	16	35				
+//
+# MOSMEF_29740 Length: 50
+# MOSMEF_29740 Number of predicted TMRs: 0
+MOSMEF_29740	inside	1	50				
+//
+# MOSMEF_108330 Length: 40
+# MOSMEF_108330 Number of predicted TMRs: 0
+MOSMEF_108330	signal	1	25				
+MOSMEF_108330	outside	26	40				
+//
+# MOSMEF_38164 Length: 47
+# MOSMEF_38164 Number of predicted TMRs: 0
+MOSMEF_38164	inside	1	47				
+//
+# MOSMEF_147591 Length: 49
+# MOSMEF_147591 Number of predicted TMRs: 0
+MOSMEF_147591	inside	1	49				
+//
+# MOSMEF_45320 Length: 46
+# MOSMEF_45320 Number of predicted TMRs: 0
+MOSMEF_45320	signal	1	10				
+MOSMEF_45320	outside	11	46				
+//
+# MOSMEF_41140 Length: 40
+# MOSMEF_41140 Number of predicted TMRs: 0
+MOSMEF_41140	signal	1	36				
+MOSMEF_41140	outside	37	40				
+//
+# MOSMEF_80830 Length: 44
+# MOSMEF_80830 Number of predicted TMRs: 0
+MOSMEF_80830	inside	1	44				
+//
+# MOSMEF_88709 Length: 50
+# MOSMEF_88709 Number of predicted TMRs: 0
+MOSMEF_88709	signal	1	37				
+MOSMEF_88709	outside	38	50				
+//
+# MOSMEF_148226 Length: 38
+# MOSMEF_148226 Number of predicted TMRs: 0
+MOSMEF_148226	signal	1	30				
+MOSMEF_148226	outside	31	38				
+//
+# MOSMEF_37326 Length: 33
+# MOSMEF_37326 Number of predicted TMRs: 0
+MOSMEF_37326	signal	1	29				
+MOSMEF_37326	outside	30	33				
+//
+# MOSMEF_50788 Length: 49
+# MOSMEF_50788 Number of predicted TMRs: 0
+MOSMEF_50788	inside	1	49				
+//
+# MOSMEF_116434 Length: 45
+# MOSMEF_116434 Number of predicted TMRs: 0
+MOSMEF_116434	inside	1	45				
+//
+# MOSMEF_138457 Length: 47
+# MOSMEF_138457 Number of predicted TMRs: 0
+MOSMEF_138457	signal	1	21				
+MOSMEF_138457	outside	22	47				
+//
+# MOSMEF_33645 Length: 47
+# MOSMEF_33645 Number of predicted TMRs: 0
+MOSMEF_33645	inside	1	47				
+//
+# MOSMEF_13450 Length: 50
+# MOSMEF_13450 Number of predicted TMRs: 0
+MOSMEF_13450	inside	1	50				
+//
+# MOSMEF_27091 Length: 44
+# MOSMEF_27091 Number of predicted TMRs: 0
+MOSMEF_27091	signal	1	43				
+MOSMEF_27091	outside	44	44				
+//
+# MOSMEF_57715 Length: 40
+# MOSMEF_57715 Number of predicted TMRs: 0
+MOSMEF_57715	signal	1	38				
+MOSMEF_57715	outside	39	40				
+//
+# MOSMEF_64383 Length: 44
+# MOSMEF_64383 Number of predicted TMRs: 0
+MOSMEF_64383	inside	1	44				
+//
+# MOSMEF_143590 Length: 47
+# MOSMEF_143590 Number of predicted TMRs: 0
+MOSMEF_143590	signal	1	46				
+MOSMEF_143590	outside	47	47				
+//
+# MOSMEF_80483 Length: 40
+# MOSMEF_80483 Number of predicted TMRs: 0
+MOSMEF_80483	inside	1	40				
+//
+# MOSMEF_134551 Length: 44
+# MOSMEF_134551 Number of predicted TMRs: 0
+MOSMEF_134551	signal	1	11				
+MOSMEF_134551	outside	12	44				
+//
+# MOSMEF_143779 Length: 47
+# MOSMEF_143779 Number of predicted TMRs: 0
+MOSMEF_143779	inside	1	47				
+//
+# MOSMEF_169679 Length: 49
+# MOSMEF_169679 Number of predicted TMRs: 0
+MOSMEF_169679	signal	1	12				
+MOSMEF_169679	outside	13	49				
+//
+# MOSMEF_131542 Length: 45
+# MOSMEF_131542 Number of predicted TMRs: 0
+MOSMEF_131542	inside	1	45				
+//
+# MOSMEF_73292 Length: 35
+# MOSMEF_73292 Number of predicted TMRs: 0
+MOSMEF_73292	signal	1	34				
+MOSMEF_73292	outside	35	35				
+//
+# MOSMEF_19519 Length: 40
+# MOSMEF_19519 Number of predicted TMRs: 0
+MOSMEF_19519	signal	1	39				
+MOSMEF_19519	outside	40	40				
+//
+# MOSMEF_80410 Length: 43
+# MOSMEF_80410 Number of predicted TMRs: 0
+MOSMEF_80410	inside	1	43				
+//
+# MOSMEF_86100 Length: 48
+# MOSMEF_86100 Number of predicted TMRs: 0
+MOSMEF_86100	inside	1	48				
+//
+# MOSMEF_34747 Length: 47
+# MOSMEF_34747 Number of predicted TMRs: 0
+MOSMEF_34747	inside	1	47				
+//
+# MOSMEF_57557 Length: 46
+# MOSMEF_57557 Number of predicted TMRs: 0
+MOSMEF_57557	signal	1	24				
+MOSMEF_57557	outside	25	46				
+//
+# MOSMEF_99513 Length: 34
+# MOSMEF_99513 Number of predicted TMRs: 0
+MOSMEF_99513	signal	1	32				
+MOSMEF_99513	outside	33	34				
+//
+# MOSMEF_42891 Length: 43
+# MOSMEF_42891 Number of predicted TMRs: 0
+MOSMEF_42891	signal	1	31				
+MOSMEF_42891	outside	32	43				
+//
+# MOSMEF_116142 Length: 39
+# MOSMEF_116142 Number of predicted TMRs: 0
+MOSMEF_116142	inside	1	39				
+//
+# MOSMEF_131840 Length: 46
+# MOSMEF_131840 Number of predicted TMRs: 0
+MOSMEF_131840	signal	1	38				
+MOSMEF_131840	outside	39	46				
+//
+# MOSMEF_164062 Length: 47
+# MOSMEF_164062 Number of predicted TMRs: 0
+MOSMEF_164062	signal	1	17				
+MOSMEF_164062	outside	18	47				
+//
+# MOSMEF_162263 Length: 48
+# MOSMEF_162263 Number of predicted TMRs: 0
+MOSMEF_162263	inside	1	48				
+//
+# MOSMEF_147463 Length: 45
+# MOSMEF_147463 Number of predicted TMRs: 0
+MOSMEF_147463	inside	1	45				
+//
+# MOSMEF_137111 Length: 43
+# MOSMEF_137111 Number of predicted TMRs: 0
+MOSMEF_137111	signal	1	23				
+MOSMEF_137111	outside	24	43				
+//
+# MOSMEF_41736 Length: 43
+# MOSMEF_41736 Number of predicted TMRs: 0
+MOSMEF_41736	inside	1	43				
+//
+# MOSMEF_144978 Length: 43
+# MOSMEF_144978 Number of predicted TMRs: 0
+MOSMEF_144978	inside	1	43				
+//
+# MOSMEF_104081 Length: 40
+# MOSMEF_104081 Number of predicted TMRs: 0
+MOSMEF_104081	signal	1	35				
+MOSMEF_104081	outside	36	40				
+//
+# MOSMEF_124754 Length: 35
+# MOSMEF_124754 Number of predicted TMRs: 0
+MOSMEF_124754	signal	1	34				
+MOSMEF_124754	outside	35	35				
+//
+# MOSMEF_2466 Length: 50
+# MOSMEF_2466 Number of predicted TMRs: 0
+MOSMEF_2466	inside	1	50				
+//
+# MOSMEF_96703 Length: 50
+# MOSMEF_96703 Number of predicted TMRs: 0
+MOSMEF_96703	inside	1	50				
+//
+# MOSMEF_140332 Length: 50
+# MOSMEF_140332 Number of predicted TMRs: 0
+MOSMEF_140332	signal	1	43				
+MOSMEF_140332	outside	44	50				
+//
+# MOSMEF_163478 Length: 46
+# MOSMEF_163478 Number of predicted TMRs: 0
+MOSMEF_163478	inside	1	46				
+//
+# MOSMEF_25719 Length: 49
+# MOSMEF_25719 Number of predicted TMRs: 0
+MOSMEF_25719	inside	1	49				
+//
+# MOSMEF_167952 Length: 50
+# MOSMEF_167952 Number of predicted TMRs: 0
+MOSMEF_167952	inside	1	50				
+//
+# MOSMEF_85838 Length: 43
+# MOSMEF_85838 Number of predicted TMRs: 0
+MOSMEF_85838	inside	1	43				
+//
+# MOSMEF_145840 Length: 46
+# MOSMEF_145840 Number of predicted TMRs: 0
+MOSMEF_145840	inside	1	46				
+//
+# MOSMEF_128613 Length: 50
+# MOSMEF_128613 Number of predicted TMRs: 0
+MOSMEF_128613	signal	1	49				
+MOSMEF_128613	outside	50	50				
+//
+# MOSMEF_31167 Length: 48
+# MOSMEF_31167 Number of predicted TMRs: 0
+MOSMEF_31167	inside	1	48				
+//
+# MOSMEF_80267 Length: 47
+# MOSMEF_80267 Number of predicted TMRs: 0
+MOSMEF_80267	inside	1	47				
+//
+# MOSMEF_156273 Length: 47
+# MOSMEF_156273 Number of predicted TMRs: 0
+MOSMEF_156273	inside	1	47				
+//
+# MOSMEF_128652 Length: 42
+# MOSMEF_128652 Number of predicted TMRs: 0
+MOSMEF_128652	signal	1	10				
+MOSMEF_128652	outside	11	42				
+//
+# MOSMEF_109646 Length: 49
+# MOSMEF_109646 Number of predicted TMRs: 0
+MOSMEF_109646	inside	1	49				
+//
+# MOSMEF_72150 Length: 50
+# MOSMEF_72150 Number of predicted TMRs: 0
+MOSMEF_72150	inside	1	50				
+//
+# MOSMEF_121638 Length: 39
+# MOSMEF_121638 Number of predicted TMRs: 0
+MOSMEF_121638	signal	1	38				
+MOSMEF_121638	outside	39	39				
+//
+# MOSMEF_107004 Length: 38
+# MOSMEF_107004 Number of predicted TMRs: 0
+MOSMEF_107004	signal	1	37				
+MOSMEF_107004	outside	38	38				
+//
+# MOSMEF_135 Length: 36
+# MOSMEF_135 Number of predicted TMRs: 0
+MOSMEF_135	signal	1	32				
+MOSMEF_135	outside	33	36				
+//
+# MOSMEF_84380 Length: 49
+# MOSMEF_84380 Number of predicted TMRs: 0
+MOSMEF_84380	inside	1	49				
+//
+# MOSMEF_113861 Length: 44
+# MOSMEF_113861 Number of predicted TMRs: 0
+MOSMEF_113861	inside	1	44				
+//
+# MOSMEF_115333 Length: 36
+# MOSMEF_115333 Number of predicted TMRs: 0
+MOSMEF_115333	signal	1	35				
+MOSMEF_115333	outside	36	36				
+//
+# MOSMEF_136216 Length: 48
+# MOSMEF_136216 Number of predicted TMRs: 0
+MOSMEF_136216	signal	1	12				
+MOSMEF_136216	outside	13	48				
+//
+# MOSMEF_107475 Length: 46
+# MOSMEF_107475 Number of predicted TMRs: 0
+MOSMEF_107475	outside	1	46				
+//
+# MOSMEF_94980 Length: 43
+# MOSMEF_94980 Number of predicted TMRs: 0
+MOSMEF_94980	signal	1	19				
+MOSMEF_94980	outside	20	43				
+//
+# MOSMEF_114879 Length: 35
+# MOSMEF_114879 Number of predicted TMRs: 0
+MOSMEF_114879	inside	1	35				
+//
+# MOSMEF_97725 Length: 40
+# MOSMEF_97725 Number of predicted TMRs: 0
+MOSMEF_97725	signal	1	39				
+MOSMEF_97725	periplasm	40	40				
+//
+# MOSMEF_146313 Length: 50
+# MOSMEF_146313 Number of predicted TMRs: 0
+MOSMEF_146313	inside	1	50				
+//
+# MOSMEF_79044 Length: 36
+# MOSMEF_79044 Number of predicted TMRs: 0
+MOSMEF_79044	signal	1	35				
+MOSMEF_79044	outside	36	36				
+//
+# MOSMEF_23220 Length: 49
+# MOSMEF_23220 Number of predicted TMRs: 1
+MOSMEF_23220	outside	1	9				
+MOSMEF_23220	TMhelix	10	30				
+MOSMEF_23220	inside	31	49				
+//
+# MOSMEF_99578 Length: 41
+# MOSMEF_99578 Number of predicted TMRs: 0
+MOSMEF_99578	inside	1	41				
+//
+# MOSMEF_13747 Length: 48
+# MOSMEF_13747 Number of predicted TMRs: 0
+MOSMEF_13747	inside	1	48				
+//
+# MOSMEF_18598 Length: 48
+# MOSMEF_18598 Number of predicted TMRs: 0
+MOSMEF_18598	inside	1	48				
+//
+# MOSMEF_85231 Length: 41
+# MOSMEF_85231 Number of predicted TMRs: 0
+MOSMEF_85231	inside	1	41				
+//
+# MOSMEF_22786 Length: 49
+# MOSMEF_22786 Number of predicted TMRs: 0
+MOSMEF_22786	signal	1	47				
+MOSMEF_22786	outside	48	49				
+//
+# MOSMEF_23597 Length: 41
+# MOSMEF_23597 Number of predicted TMRs: 0
+MOSMEF_23597	inside	1	41				
+//
+# MOSMEF_17689 Length: 43
+# MOSMEF_17689 Number of predicted TMRs: 0
+MOSMEF_17689	signal	1	42				
+MOSMEF_17689	outside	43	43				
+//
+# MOSMEF_120510 Length: 44
+# MOSMEF_120510 Number of predicted TMRs: 0
+MOSMEF_120510	inside	1	44				
+//
+# MOSMEF_110802 Length: 30
+# MOSMEF_110802 Number of predicted TMRs: 0
+MOSMEF_110802	signal	1	29				
+MOSMEF_110802	outside	30	30				
+//
+# MOSMEF_116069 Length: 47
+# MOSMEF_116069 Number of predicted TMRs: 0
+MOSMEF_116069	inside	1	47				
+//
+# MOSMEF_24519 Length: 45
+# MOSMEF_24519 Number of predicted TMRs: 0
+MOSMEF_24519	signal	1	34				
+MOSMEF_24519	outside	35	45				
+//
+# MOSMEF_168729 Length: 50
+# MOSMEF_168729 Number of predicted TMRs: 0
+MOSMEF_168729	signal	1	10				
+MOSMEF_168729	outside	11	50				
+//
+# MOSMEF_136634 Length: 41
+# MOSMEF_136634 Number of predicted TMRs: 0
+MOSMEF_136634	signal	1	25				
+MOSMEF_136634	outside	26	41				
+//
+# MOSMEF_9655 Length: 50
+# MOSMEF_9655 Number of predicted TMRs: 0
+MOSMEF_9655	inside	1	50				
+//
+# MOSMEF_24213 Length: 39
+# MOSMEF_24213 Number of predicted TMRs: 0
+MOSMEF_24213	inside	1	39				
+//
+# MOSMEF_119505 Length: 37
+# MOSMEF_119505 Number of predicted TMRs: 0
+MOSMEF_119505	inside	1	37				
+//
+# MOSMEF_115882 Length: 38
+# MOSMEF_115882 Number of predicted TMRs: 0
+MOSMEF_115882	outside	1	38				
+//
+# MOSMEF_140470 Length: 50
+# MOSMEF_140470 Number of predicted TMRs: 0
+MOSMEF_140470	inside	1	50				
+//
+# MOSMEF_77061 Length: 50
+# MOSMEF_77061 Number of predicted TMRs: 0
+MOSMEF_77061	signal	1	43				
+MOSMEF_77061	outside	44	50				
+//
+# MOSMEF_62534 Length: 38
+# MOSMEF_62534 Number of predicted TMRs: 0
+MOSMEF_62534	signal	1	24				
+MOSMEF_62534	outside	25	38				
+//
+# MOSMEF_64363 Length: 48
+# MOSMEF_64363 Number of predicted TMRs: 0
+MOSMEF_64363	inside	1	48				
+//
+# MOSMEF_89716 Length: 39
+# MOSMEF_89716 Number of predicted TMRs: 0
+MOSMEF_89716	inside	1	39				
+//
+# MOSMEF_50334 Length: 50
+# MOSMEF_50334 Number of predicted TMRs: 0
+MOSMEF_50334	signal	1	28				
+MOSMEF_50334	outside	29	50				
+//
+# MOSMEF_28702 Length: 43
+# MOSMEF_28702 Number of predicted TMRs: 0
+MOSMEF_28702	inside	1	43				
+//
+# MOSMEF_144279 Length: 47
+# MOSMEF_144279 Number of predicted TMRs: 0
+MOSMEF_144279	inside	1	47				
+//
+# MOSMEF_33413 Length: 48
+# MOSMEF_33413 Number of predicted TMRs: 0
+MOSMEF_33413	signal	1	47				
+MOSMEF_33413	outside	48	48				
+//
+# MOSMEF_97941 Length: 37
+# MOSMEF_97941 Number of predicted TMRs: 0
+MOSMEF_97941	signal	1	20				
+MOSMEF_97941	outside	21	37				
+//
+# MOSMEF_9913 Length: 48
+# MOSMEF_9913 Number of predicted TMRs: 0
+MOSMEF_9913	inside	1	48				
+//
+# MOSMEF_23554 Length: 48
+# MOSMEF_23554 Number of predicted TMRs: 0
+MOSMEF_23554	signal	1	20				
+MOSMEF_23554	outside	21	48				
+//
+# MOSMEF_164973 Length: 50
+# MOSMEF_164973 Number of predicted TMRs: 0
+MOSMEF_164973	inside	1	50				
+//
+# MOSMEF_94672 Length: 33
+# MOSMEF_94672 Number of predicted TMRs: 0
+MOSMEF_94672	inside	1	33				
+//
+# MOSMEF_74663 Length: 48
+# MOSMEF_74663 Number of predicted TMRs: 0
+MOSMEF_74663	signal	1	44				
+MOSMEF_74663	outside	45	48				
+//
+# MOSMEF_142016 Length: 44
+# MOSMEF_142016 Number of predicted TMRs: 0
+MOSMEF_142016	signal	1	42				
+MOSMEF_142016	outside	43	44				
+//
+# MOSMEF_143960 Length: 46
+# MOSMEF_143960 Number of predicted TMRs: 0
+MOSMEF_143960	signal	1	38				
+MOSMEF_143960	outside	39	46				
+//
+# MOSMEF_11198 Length: 45
+# MOSMEF_11198 Number of predicted TMRs: 0
+MOSMEF_11198	signal	1	40				
+MOSMEF_11198	outside	41	45				
+//
+# MOSMEF_95151 Length: 48
+# MOSMEF_95151 Number of predicted TMRs: 0
+MOSMEF_95151	inside	1	48				
+//
+# MOSMEF_152245 Length: 47
+# MOSMEF_152245 Number of predicted TMRs: 0
+MOSMEF_152245	outside	1	47				
+//
+# MOSMEF_114505 Length: 45
+# MOSMEF_114505 Number of predicted TMRs: 0
+MOSMEF_114505	inside	1	45				
+//
+# MOSMEF_168506 Length: 49
+# MOSMEF_168506 Number of predicted TMRs: 0
+MOSMEF_168506	signal	1	17				
+MOSMEF_168506	outside	18	49				
+//
+# MOSMEF_79462 Length: 34
+# MOSMEF_79462 Number of predicted TMRs: 0
+MOSMEF_79462	signal	1	33				
+MOSMEF_79462	outside	34	34				
+//
+# MOSMEF_82205 Length: 39
+# MOSMEF_82205 Number of predicted TMRs: 0
+MOSMEF_82205	signal	1	21				
+MOSMEF_82205	outside	22	39				
+//
+# MOSMEF_49110 Length: 42
+# MOSMEF_49110 Number of predicted TMRs: 0
+MOSMEF_49110	signal	1	39				
+MOSMEF_49110	outside	40	42				
+//
+# MOSMEF_12603 Length: 42
+# MOSMEF_12603 Number of predicted TMRs: 0
+MOSMEF_12603	inside	1	42				
+//
+# MOSMEF_15615 Length: 46
+# MOSMEF_15615 Number of predicted TMRs: 0
+MOSMEF_15615	signal	1	11				
+MOSMEF_15615	outside	12	46				
+//
+# MOSMEF_39303 Length: 49
+# MOSMEF_39303 Number of predicted TMRs: 0
+MOSMEF_39303	inside	1	49				
+//
+# MOSMEF_169226 Length: 46
+# MOSMEF_169226 Number of predicted TMRs: 0
+MOSMEF_169226	inside	1	46				
+//
+# MOSMEF_147678 Length: 50
+# MOSMEF_147678 Number of predicted TMRs: 0
+MOSMEF_147678	inside	1	50				
+//
+# MOSMEF_142526 Length: 48
+# MOSMEF_142526 Number of predicted TMRs: 0
+MOSMEF_142526	inside	1	48				
+//
+# MOSMEF_132728 Length: 50
+# MOSMEF_132728 Number of predicted TMRs: 0
+MOSMEF_132728	inside	1	50				
+//
+# MOSMEF_172648 Length: 43
+# MOSMEF_172648 Number of predicted TMRs: 0
+MOSMEF_172648	signal	1	42				
+MOSMEF_172648	outside	43	43				
+//
+# MOSMEF_10658 Length: 41
+# MOSMEF_10658 Number of predicted TMRs: 0
+MOSMEF_10658	inside	1	41				
+//
+# MOSMEF_32874 Length: 39
+# MOSMEF_32874 Number of predicted TMRs: 0
+MOSMEF_32874	inside	1	39				
+//
+# MOSMEF_128776 Length: 45
+# MOSMEF_128776 Number of predicted TMRs: 0
+MOSMEF_128776	signal	1	11				
+MOSMEF_128776	outside	12	45				
+//
+# MOSMEF_136667 Length: 42
+# MOSMEF_136667 Number of predicted TMRs: 0
+MOSMEF_136667	inside	1	42				
+//
+# MOSMEF_128542 Length: 50
+# MOSMEF_128542 Number of predicted TMRs: 0
+MOSMEF_128542	signal	1	28				
+MOSMEF_128542	outside	29	50				
+//
+# MOSMEF_13329 Length: 50
+# MOSMEF_13329 Number of predicted TMRs: 0
+MOSMEF_13329	signal	1	21				
+MOSMEF_13329	outside	22	50				
+//
+# MOSMEF_112777 Length: 50
+# MOSMEF_112777 Number of predicted TMRs: 0
+MOSMEF_112777	inside	1	50				
+//
+# MOSMEF_32448 Length: 45
+# MOSMEF_32448 Number of predicted TMRs: 0
+MOSMEF_32448	signal	1	24				
+MOSMEF_32448	outside	25	45				
+//
+# MOSMEF_30347 Length: 49
+# MOSMEF_30347 Number of predicted TMRs: 0
+MOSMEF_30347	signal	1	40				
+MOSMEF_30347	outside	41	49				
+//
+# MOSMEF_132455 Length: 40
+# MOSMEF_132455 Number of predicted TMRs: 0
+MOSMEF_132455	signal	1	36				
+MOSMEF_132455	outside	37	40				
+//
+# MOSMEF_137176 Length: 45
+# MOSMEF_137176 Number of predicted TMRs: 0
+MOSMEF_137176	inside	1	45				
+//
+# MOSMEF_45822 Length: 50
+# MOSMEF_45822 Number of predicted TMRs: 0
+MOSMEF_45822	inside	1	50				
+//
+# MOSMEF_36618 Length: 46
+# MOSMEF_36618 Number of predicted TMRs: 0
+MOSMEF_36618	inside	1	46				
+//
+# MOSMEF_161999 Length: 37
+# MOSMEF_161999 Number of predicted TMRs: 0
+MOSMEF_161999	inside	1	37				
+//
+# MOSMEF_146371 Length: 49
+# MOSMEF_146371 Number of predicted TMRs: 0
+MOSMEF_146371	inside	1	49				
+//
+# MOSMEF_2704 Length: 46
+# MOSMEF_2704 Number of predicted TMRs: 0
+MOSMEF_2704	outside	1	46				
+//
+# MOSMEF_3519 Length: 48
+# MOSMEF_3519 Number of predicted TMRs: 0
+MOSMEF_3519	inside	1	48				
+//
+# MOSMEF_74908 Length: 40
+# MOSMEF_74908 Number of predicted TMRs: 0
+MOSMEF_74908	signal	1	34				
+MOSMEF_74908	outside	35	40				
+//
+# MOSMEF_69441 Length: 41
+# MOSMEF_69441 Number of predicted TMRs: 0
+MOSMEF_69441	inside	1	41				
+//
+# MOSMEF_66143 Length: 47
+# MOSMEF_66143 Number of predicted TMRs: 0
+MOSMEF_66143	signal	1	32				
+MOSMEF_66143	outside	33	47				
+//
+# MOSMEF_90706 Length: 36
+# MOSMEF_90706 Number of predicted TMRs: 0
+MOSMEF_90706	signal	1	23				
+MOSMEF_90706	outside	24	36				
+//
+# MOSMEF_75048 Length: 41
+# MOSMEF_75048 Number of predicted TMRs: 0
+MOSMEF_75048	inside	1	41				
+//
+# MOSMEF_113194 Length: 47
+# MOSMEF_113194 Number of predicted TMRs: 0
+MOSMEF_113194	inside	1	47				
+//
+# MOSMEF_115473 Length: 49
+# MOSMEF_115473 Number of predicted TMRs: 0
+MOSMEF_115473	inside	1	49				
+//
+# MOSMEF_63894 Length: 44
+# MOSMEF_63894 Number of predicted TMRs: 0
+MOSMEF_63894	inside	1	44				
+//
+# MOSMEF_164446 Length: 44
+# MOSMEF_164446 Number of predicted TMRs: 0
+MOSMEF_164446	inside	1	44				
+//
+# MOSMEF_168808 Length: 41
+# MOSMEF_168808 Number of predicted TMRs: 0
+MOSMEF_168808	inside	1	41				
+//
+# MOSMEF_41984 Length: 48
+# MOSMEF_41984 Number of predicted TMRs: 0
+MOSMEF_41984	inside	1	48				
+//
+# MOSMEF_24077 Length: 44
+# MOSMEF_24077 Number of predicted TMRs: 0
+MOSMEF_24077	inside	1	44				
+//
+# MOSMEF_95064 Length: 46
+# MOSMEF_95064 Number of predicted TMRs: 0
+MOSMEF_95064	signal	1	25				
+MOSMEF_95064	outside	26	46				
+//
+# MOSMEF_87062 Length: 46
+# MOSMEF_87062 Number of predicted TMRs: 0
+MOSMEF_87062	inside	1	46				
+//
+# MOSMEF_36294 Length: 43
+# MOSMEF_36294 Number of predicted TMRs: 0
+MOSMEF_36294	signal	1	40				
+MOSMEF_36294	outside	41	43				
+//
+# MOSMEF_36851 Length: 45
+# MOSMEF_36851 Number of predicted TMRs: 0
+MOSMEF_36851	inside	1	45				
+//
+# MOSMEF_142972 Length: 43
+# MOSMEF_142972 Number of predicted TMRs: 0
+MOSMEF_142972	inside	1	43				
+//
+# MOSMEF_37832 Length: 48
+# MOSMEF_37832 Number of predicted TMRs: 0
+MOSMEF_37832	inside	1	48				
+//
+# MOSMEF_95112 Length: 36
+# MOSMEF_95112 Number of predicted TMRs: 0
+MOSMEF_95112	signal	1	33				
+MOSMEF_95112	outside	34	36				
+//
+# MOSMEF_169687 Length: 48
+# MOSMEF_169687 Number of predicted TMRs: 0
+MOSMEF_169687	inside	1	48				
+//
+# MOSMEF_40473 Length: 47
+# MOSMEF_40473 Number of predicted TMRs: 0
+MOSMEF_40473	inside	1	47				
+//
+# MOSMEF_127966 Length: 41
+# MOSMEF_127966 Number of predicted TMRs: 0
+MOSMEF_127966	inside	1	41				
+//
+# MOSMEF_116606 Length: 48
+# MOSMEF_116606 Number of predicted TMRs: 0
+MOSMEF_116606	signal	1	46				
+MOSMEF_116606	outside	47	48				
+//
+# MOSMEF_125277 Length: 47
+# MOSMEF_125277 Number of predicted TMRs: 0
+MOSMEF_125277	inside	1	47				
+//
+# MOSMEF_105192 Length: 43
+# MOSMEF_105192 Number of predicted TMRs: 0
+MOSMEF_105192	inside	1	43				
+//
+# MOSMEF_41837 Length: 43
+# MOSMEF_41837 Number of predicted TMRs: 0
+MOSMEF_41837	signal	1	12				
+MOSMEF_41837	outside	13	43				
+//
+# MOSMEF_121175 Length: 37
+# MOSMEF_121175 Number of predicted TMRs: 0
+MOSMEF_121175	inside	1	37				
+//
+# MOSMEF_133413 Length: 46
+# MOSMEF_133413 Number of predicted TMRs: 0
+MOSMEF_133413	signal	1	40				
+MOSMEF_133413	outside	41	46				
+//
+# MOSMEF_167507 Length: 44
+# MOSMEF_167507 Number of predicted TMRs: 0
+MOSMEF_167507	signal	1	34				
+MOSMEF_167507	outside	35	44				
+//
+# MOSMEF_32036 Length: 50
+# MOSMEF_32036 Number of predicted TMRs: 0
+MOSMEF_32036	inside	1	50				
+//
+# MOSMEF_92386 Length: 46
+# MOSMEF_92386 Number of predicted TMRs: 0
+MOSMEF_92386	outside	1	46				
+//
+# MOSMEF_116756 Length: 47
+# MOSMEF_116756 Number of predicted TMRs: 0
+MOSMEF_116756	signal	1	25				
+MOSMEF_116756	outside	26	47				

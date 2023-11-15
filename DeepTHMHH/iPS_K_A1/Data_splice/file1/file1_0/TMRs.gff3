@@ -1,0 +1,4416 @@
+##gff-version 3
+# ARRWSP_156550 Length: 42
+# ARRWSP_156550 Number of predicted TMRs: 0
+ARRWSP_156550	signal	1	41				
+ARRWSP_156550	periplasm	42	42				
+//
+# ARRWSP_140822 Length: 44
+# ARRWSP_140822 Number of predicted TMRs: 0
+ARRWSP_140822	inside	1	44				
+//
+# ARRWSP_50077 Length: 48
+# ARRWSP_50077 Number of predicted TMRs: 0
+ARRWSP_50077	signal	1	20				
+ARRWSP_50077	outside	21	48				
+//
+# ARRWSP_115817 Length: 49
+# ARRWSP_115817 Number of predicted TMRs: 0
+ARRWSP_115817	signal	1	12				
+ARRWSP_115817	outside	13	49				
+//
+# ARRWSP_28802 Length: 44
+# ARRWSP_28802 Number of predicted TMRs: 0
+ARRWSP_28802	signal	1	24				
+ARRWSP_28802	outside	25	44				
+//
+# ARRWSP_21593 Length: 48
+# ARRWSP_21593 Number of predicted TMRs: 0
+ARRWSP_21593	inside	1	48				
+//
+# ARRWSP_81429 Length: 47
+# ARRWSP_81429 Number of predicted TMRs: 0
+ARRWSP_81429	signal	1	40				
+ARRWSP_81429	outside	41	47				
+//
+# ARRWSP_87917 Length: 45
+# ARRWSP_87917 Number of predicted TMRs: 0
+ARRWSP_87917	signal	1	29				
+ARRWSP_87917	outside	30	45				
+//
+# ARRWSP_19431 Length: 38
+# ARRWSP_19431 Number of predicted TMRs: 0
+ARRWSP_19431	inside	1	38				
+//
+# ARRWSP_156610 Length: 50
+# ARRWSP_156610 Number of predicted TMRs: 0
+ARRWSP_156610	inside	1	50				
+//
+# ARRWSP_68111 Length: 43
+# ARRWSP_68111 Number of predicted TMRs: 0
+ARRWSP_68111	signal	1	11				
+ARRWSP_68111	outside	12	43				
+//
+# ARRWSP_9337 Length: 38
+# ARRWSP_9337 Number of predicted TMRs: 0
+ARRWSP_9337	signal	1	37				
+ARRWSP_9337	outside	38	38				
+//
+# ARRWSP_9696 Length: 43
+# ARRWSP_9696 Number of predicted TMRs: 0
+ARRWSP_9696	inside	1	43				
+//
+# ARRWSP_86487 Length: 43
+# ARRWSP_86487 Number of predicted TMRs: 0
+ARRWSP_86487	signal	1	26				
+ARRWSP_86487	outside	27	43				
+//
+# ARRWSP_146916 Length: 41
+# ARRWSP_146916 Number of predicted TMRs: 0
+ARRWSP_146916	signal	1	38				
+ARRWSP_146916	outside	39	41				
+//
+# ARRWSP_119411 Length: 47
+# ARRWSP_119411 Number of predicted TMRs: 0
+ARRWSP_119411	signal	1	35				
+ARRWSP_119411	outside	36	47				
+//
+# ARRWSP_23902 Length: 40
+# ARRWSP_23902 Number of predicted TMRs: 0
+ARRWSP_23902	signal	1	38				
+ARRWSP_23902	outside	39	40				
+//
+# ARRWSP_109504 Length: 43
+# ARRWSP_109504 Number of predicted TMRs: 0
+ARRWSP_109504	inside	1	43				
+//
+# ARRWSP_78886 Length: 47
+# ARRWSP_78886 Number of predicted TMRs: 0
+ARRWSP_78886	signal	1	30				
+ARRWSP_78886	outside	31	47				
+//
+# ARRWSP_144324 Length: 44
+# ARRWSP_144324 Number of predicted TMRs: 0
+ARRWSP_144324	signal	1	33				
+ARRWSP_144324	outside	34	44				
+//
+# ARRWSP_170964 Length: 43
+# ARRWSP_170964 Number of predicted TMRs: 0
+ARRWSP_170964	signal	1	37				
+ARRWSP_170964	outside	38	43				
+//
+# ARRWSP_147947 Length: 49
+# ARRWSP_147947 Number of predicted TMRs: 0
+ARRWSP_147947	inside	1	49				
+//
+# ARRWSP_170859 Length: 44
+# ARRWSP_170859 Number of predicted TMRs: 0
+ARRWSP_170859	inside	1	44				
+//
+# ARRWSP_9249 Length: 47
+# ARRWSP_9249 Number of predicted TMRs: 0
+ARRWSP_9249	inside	1	47				
+//
+# ARRWSP_113951 Length: 38
+# ARRWSP_113951 Number of predicted TMRs: 0
+ARRWSP_113951	signal	1	20				
+ARRWSP_113951	outside	21	38				
+//
+# ARRWSP_104822 Length: 43
+# ARRWSP_104822 Number of predicted TMRs: 0
+ARRWSP_104822	outside	1	43				
+//
+# ARRWSP_41928 Length: 47
+# ARRWSP_41928 Number of predicted TMRs: 0
+ARRWSP_41928	inside	1	47				
+//
+# ARRWSP_14566 Length: 47
+# ARRWSP_14566 Number of predicted TMRs: 0
+ARRWSP_14566	signal	1	19				
+ARRWSP_14566	outside	20	47				
+//
+# ARRWSP_126167 Length: 41
+# ARRWSP_126167 Number of predicted TMRs: 0
+ARRWSP_126167	inside	1	41				
+//
+# ARRWSP_20094 Length: 45
+# ARRWSP_20094 Number of predicted TMRs: 0
+ARRWSP_20094	inside	1	45				
+//
+# ARRWSP_169517 Length: 46
+# ARRWSP_169517 Number of predicted TMRs: 0
+ARRWSP_169517	inside	1	46				
+//
+# ARRWSP_135724 Length: 41
+# ARRWSP_135724 Number of predicted TMRs: 0
+ARRWSP_135724	inside	1	41				
+//
+# ARRWSP_135148 Length: 50
+# ARRWSP_135148 Number of predicted TMRs: 0
+ARRWSP_135148	inside	1	50				
+//
+# ARRWSP_117410 Length: 49
+# ARRWSP_117410 Number of predicted TMRs: 0
+ARRWSP_117410	inside	1	49				
+//
+# ARRWSP_79059 Length: 49
+# ARRWSP_79059 Number of predicted TMRs: 0
+ARRWSP_79059	inside	1	49				
+//
+# ARRWSP_79049 Length: 41
+# ARRWSP_79049 Number of predicted TMRs: 0
+ARRWSP_79049	inside	1	41				
+//
+# ARRWSP_69889 Length: 50
+# ARRWSP_69889 Number of predicted TMRs: 0
+ARRWSP_69889	signal	1	49				
+ARRWSP_69889	outside	50	50				
+//
+# ARRWSP_122837 Length: 39
+# ARRWSP_122837 Number of predicted TMRs: 0
+ARRWSP_122837	inside	1	39				
+//
+# ARRWSP_124766 Length: 39
+# ARRWSP_124766 Number of predicted TMRs: 0
+ARRWSP_124766	outside	1	39				
+//
+# ARRWSP_138691 Length: 47
+# ARRWSP_138691 Number of predicted TMRs: 0
+ARRWSP_138691	inside	1	47				
+//
+# ARRWSP_93750 Length: 44
+# ARRWSP_93750 Number of predicted TMRs: 0
+ARRWSP_93750	outside	1	44				
+//
+# ARRWSP_40999 Length: 28
+# ARRWSP_40999 Number of predicted TMRs: 0
+ARRWSP_40999	inside	1	28				
+//
+# ARRWSP_113862 Length: 48
+# ARRWSP_113862 Number of predicted TMRs: 0
+ARRWSP_113862	signal	1	42				
+ARRWSP_113862	outside	43	48				
+//
+# ARRWSP_146914 Length: 35
+# ARRWSP_146914 Number of predicted TMRs: 0
+ARRWSP_146914	inside	1	35				
+//
+# ARRWSP_99865 Length: 37
+# ARRWSP_99865 Number of predicted TMRs: 0
+ARRWSP_99865	inside	1	37				
+//
+# ARRWSP_8001 Length: 48
+# ARRWSP_8001 Number of predicted TMRs: 0
+ARRWSP_8001	inside	1	48				
+//
+# ARRWSP_170648 Length: 38
+# ARRWSP_170648 Number of predicted TMRs: 0
+ARRWSP_170648	inside	1	38				
+//
+# ARRWSP_171976 Length: 45
+# ARRWSP_171976 Number of predicted TMRs: 0
+ARRWSP_171976	outside	1	45				
+//
+# ARRWSP_15534 Length: 47
+# ARRWSP_15534 Number of predicted TMRs: 0
+ARRWSP_15534	inside	1	47				
+//
+# ARRWSP_151042 Length: 47
+# ARRWSP_151042 Number of predicted TMRs: 0
+ARRWSP_151042	inside	1	47				
+//
+# ARRWSP_13944 Length: 43
+# ARRWSP_13944 Number of predicted TMRs: 0
+ARRWSP_13944	inside	1	43				
+//
+# ARRWSP_131234 Length: 43
+# ARRWSP_131234 Number of predicted TMRs: 0
+ARRWSP_131234	inside	1	43				
+//
+# ARRWSP_50296 Length: 49
+# ARRWSP_50296 Number of predicted TMRs: 0
+ARRWSP_50296	signal	1	47				
+ARRWSP_50296	outside	48	49				
+//
+# ARRWSP_139067 Length: 48
+# ARRWSP_139067 Number of predicted TMRs: 0
+ARRWSP_139067	signal	1	46				
+ARRWSP_139067	outside	47	48				
+//
+# ARRWSP_36928 Length: 45
+# ARRWSP_36928 Number of predicted TMRs: 0
+ARRWSP_36928	signal	1	23				
+ARRWSP_36928	outside	24	45				
+//
+# ARRWSP_15291 Length: 49
+# ARRWSP_15291 Number of predicted TMRs: 0
+ARRWSP_15291	inside	1	49				
+//
+# ARRWSP_121397 Length: 37
+# ARRWSP_121397 Number of predicted TMRs: 0
+ARRWSP_121397	signal	1	25				
+ARRWSP_121397	outside	26	37				
+//
+# ARRWSP_36921 Length: 39
+# ARRWSP_36921 Number of predicted TMRs: 0
+ARRWSP_36921	signal	1	35				
+ARRWSP_36921	outside	36	39				
+//
+# ARRWSP_82700 Length: 49
+# ARRWSP_82700 Number of predicted TMRs: 0
+ARRWSP_82700	inside	1	49				
+//
+# ARRWSP_169890 Length: 46
+# ARRWSP_169890 Number of predicted TMRs: 0
+ARRWSP_169890	inside	1	46				
+//
+# ARRWSP_19957 Length: 42
+# ARRWSP_19957 Number of predicted TMRs: 0
+ARRWSP_19957	signal	1	29				
+ARRWSP_19957	outside	30	42				
+//
+# ARRWSP_22504 Length: 30
+# ARRWSP_22504 Number of predicted TMRs: 0
+ARRWSP_22504	signal	1	29				
+ARRWSP_22504	outside	30	30				
+//
+# ARRWSP_71581 Length: 49
+# ARRWSP_71581 Number of predicted TMRs: 0
+ARRWSP_71581	signal	1	10				
+ARRWSP_71581	outside	11	49				
+//
+# ARRWSP_127388 Length: 44
+# ARRWSP_127388 Number of predicted TMRs: 0
+ARRWSP_127388	inside	1	44				
+//
+# ARRWSP_5126 Length: 46
+# ARRWSP_5126 Number of predicted TMRs: 0
+ARRWSP_5126	inside	1	46				
+//
+# ARRWSP_95538 Length: 43
+# ARRWSP_95538 Number of predicted TMRs: 0
+ARRWSP_95538	signal	1	37				
+ARRWSP_95538	outside	38	43				
+//
+# ARRWSP_43194 Length: 43
+# ARRWSP_43194 Number of predicted TMRs: 0
+ARRWSP_43194	inside	1	43				
+//
+# ARRWSP_128431 Length: 49
+# ARRWSP_128431 Number of predicted TMRs: 0
+ARRWSP_128431	inside	1	49				
+//
+# ARRWSP_113769 Length: 48
+# ARRWSP_113769 Number of predicted TMRs: 0
+ARRWSP_113769	inside	1	48				
+//
+# ARRWSP_10010 Length: 44
+# ARRWSP_10010 Number of predicted TMRs: 0
+ARRWSP_10010	inside	1	44				
+//
+# ARRWSP_166389 Length: 36
+# ARRWSP_166389 Number of predicted TMRs: 0
+ARRWSP_166389	inside	1	36				
+//
+# ARRWSP_168005 Length: 47
+# ARRWSP_168005 Number of predicted TMRs: 0
+ARRWSP_168005	inside	1	47				
+//
+# ARRWSP_170450 Length: 43
+# ARRWSP_170450 Number of predicted TMRs: 0
+ARRWSP_170450	inside	1	43				
+//
+# ARRWSP_90284 Length: 50
+# ARRWSP_90284 Number of predicted TMRs: 0
+ARRWSP_90284	inside	1	50				
+//
+# ARRWSP_23112 Length: 50
+# ARRWSP_23112 Number of predicted TMRs: 0
+ARRWSP_23112	inside	1	50				
+//
+# ARRWSP_119067 Length: 36
+# ARRWSP_119067 Number of predicted TMRs: 0
+ARRWSP_119067	inside	1	36				
+//
+# ARRWSP_87621 Length: 41
+# ARRWSP_87621 Number of predicted TMRs: 0
+ARRWSP_87621	inside	1	41				
+//
+# ARRWSP_43109 Length: 37
+# ARRWSP_43109 Number of predicted TMRs: 0
+ARRWSP_43109	inside	1	37				
+//
+# ARRWSP_149632 Length: 49
+# ARRWSP_149632 Number of predicted TMRs: 0
+ARRWSP_149632	inside	1	49				
+//
+# ARRWSP_119569 Length: 39
+# ARRWSP_119569 Number of predicted TMRs: 0
+ARRWSP_119569	signal	1	23				
+ARRWSP_119569	outside	24	39				
+//
+# ARRWSP_114341 Length: 50
+# ARRWSP_114341 Number of predicted TMRs: 0
+ARRWSP_114341	signal	1	40				
+ARRWSP_114341	outside	41	50				
+//
+# ARRWSP_11162 Length: 47
+# ARRWSP_11162 Number of predicted TMRs: 0
+ARRWSP_11162	inside	1	47				
+//
+# ARRWSP_33427 Length: 44
+# ARRWSP_33427 Number of predicted TMRs: 0
+ARRWSP_33427	inside	1	44				
+//
+# ARRWSP_104847 Length: 32
+# ARRWSP_104847 Number of predicted TMRs: 0
+ARRWSP_104847	inside	1	32				
+//
+# ARRWSP_73524 Length: 41
+# ARRWSP_73524 Number of predicted TMRs: 0
+ARRWSP_73524	signal	1	24				
+ARRWSP_73524	outside	25	41				
+//
+# ARRWSP_16638 Length: 40
+# ARRWSP_16638 Number of predicted TMRs: 0
+ARRWSP_16638	inside	1	40				
+//
+# ARRWSP_121365 Length: 48
+# ARRWSP_121365 Number of predicted TMRs: 0
+ARRWSP_121365	inside	1	48				
+//
+# ARRWSP_155078 Length: 44
+# ARRWSP_155078 Number of predicted TMRs: 0
+ARRWSP_155078	inside	1	44				
+//
+# ARRWSP_169418 Length: 45
+# ARRWSP_169418 Number of predicted TMRs: 0
+ARRWSP_169418	inside	1	45				
+//
+# ARRWSP_89680 Length: 44
+# ARRWSP_89680 Number of predicted TMRs: 0
+ARRWSP_89680	inside	1	44				
+//
+# ARRWSP_123366 Length: 41
+# ARRWSP_123366 Number of predicted TMRs: 0
+ARRWSP_123366	inside	1	41				
+//
+# ARRWSP_69191 Length: 40
+# ARRWSP_69191 Number of predicted TMRs: 0
+ARRWSP_69191	inside	1	40				
+//
+# ARRWSP_155474 Length: 44
+# ARRWSP_155474 Number of predicted TMRs: 0
+ARRWSP_155474	inside	1	44				
+//
+# ARRWSP_93751 Length: 50
+# ARRWSP_93751 Number of predicted TMRs: 0
+ARRWSP_93751	inside	1	50				
+//
+# ARRWSP_144207 Length: 38
+# ARRWSP_144207 Number of predicted TMRs: 0
+ARRWSP_144207	signal	1	37				
+ARRWSP_144207	outside	38	38				
+//
+# ARRWSP_24537 Length: 44
+# ARRWSP_24537 Number of predicted TMRs: 0
+ARRWSP_24537	inside	1	44				
+//
+# ARRWSP_46441 Length: 50
+# ARRWSP_46441 Number of predicted TMRs: 0
+ARRWSP_46441	inside	1	50				
+//
+# ARRWSP_59882 Length: 45
+# ARRWSP_59882 Number of predicted TMRs: 0
+ARRWSP_59882	signal	1	29				
+ARRWSP_59882	outside	30	45				
+//
+# ARRWSP_147913 Length: 46
+# ARRWSP_147913 Number of predicted TMRs: 0
+ARRWSP_147913	signal	1	29				
+ARRWSP_147913	outside	30	46				
+//
+# ARRWSP_114147 Length: 45
+# ARRWSP_114147 Number of predicted TMRs: 0
+ARRWSP_114147	inside	1	45				
+//
+# ARRWSP_143929 Length: 43
+# ARRWSP_143929 Number of predicted TMRs: 0
+ARRWSP_143929	inside	1	43				
+//
+# ARRWSP_34015 Length: 26
+# ARRWSP_34015 Number of predicted TMRs: 0
+ARRWSP_34015	inside	1	26				
+//
+# ARRWSP_57692 Length: 28
+# ARRWSP_57692 Number of predicted TMRs: 0
+ARRWSP_57692	inside	1	28				
+//
+# ARRWSP_30322 Length: 36
+# ARRWSP_30322 Number of predicted TMRs: 0
+ARRWSP_30322	inside	1	36				
+//
+# ARRWSP_142239 Length: 46
+# ARRWSP_142239 Number of predicted TMRs: 0
+ARRWSP_142239	inside	1	46				
+//
+# ARRWSP_169578 Length: 48
+# ARRWSP_169578 Number of predicted TMRs: 0
+ARRWSP_169578	signal	1	23				
+ARRWSP_169578	outside	24	48				
+//
+# ARRWSP_169192 Length: 32
+# ARRWSP_169192 Number of predicted TMRs: 0
+ARRWSP_169192	signal	1	31				
+ARRWSP_169192	outside	32	32				
+//
+# ARRWSP_90644 Length: 47
+# ARRWSP_90644 Number of predicted TMRs: 0
+ARRWSP_90644	inside	1	47				
+//
+# ARRWSP_34595 Length: 43
+# ARRWSP_34595 Number of predicted TMRs: 0
+ARRWSP_34595	inside	1	43				
+//
+# ARRWSP_171000 Length: 46
+# ARRWSP_171000 Number of predicted TMRs: 0
+ARRWSP_171000	inside	1	46				
+//
+# ARRWSP_14949 Length: 45
+# ARRWSP_14949 Number of predicted TMRs: 0
+ARRWSP_14949	signal	1	12				
+ARRWSP_14949	outside	13	45				
+//
+# ARRWSP_93642 Length: 50
+# ARRWSP_93642 Number of predicted TMRs: 0
+ARRWSP_93642	inside	1	50				
+//
+# ARRWSP_132343 Length: 44
+# ARRWSP_132343 Number of predicted TMRs: 0
+ARRWSP_132343	signal	1	38				
+ARRWSP_132343	outside	39	44				
+//
+# ARRWSP_148682 Length: 46
+# ARRWSP_148682 Number of predicted TMRs: 0
+ARRWSP_148682	inside	1	46				
+//
+# ARRWSP_100057 Length: 43
+# ARRWSP_100057 Number of predicted TMRs: 0
+ARRWSP_100057	inside	1	43				
+//
+# ARRWSP_16421 Length: 37
+# ARRWSP_16421 Number of predicted TMRs: 0
+ARRWSP_16421	signal	1	32				
+ARRWSP_16421	outside	33	37				
+//
+# ARRWSP_171114 Length: 49
+# ARRWSP_171114 Number of predicted TMRs: 0
+ARRWSP_171114	inside	1	49				
+//
+# ARRWSP_19420 Length: 49
+# ARRWSP_19420 Number of predicted TMRs: 0
+ARRWSP_19420	inside	1	49				
+//
+# ARRWSP_16975 Length: 44
+# ARRWSP_16975 Number of predicted TMRs: 0
+ARRWSP_16975	signal	1	35				
+ARRWSP_16975	outside	36	44				
+//
+# ARRWSP_163029 Length: 46
+# ARRWSP_163029 Number of predicted TMRs: 0
+ARRWSP_163029	signal	1	11				
+ARRWSP_163029	outside	12	46				
+//
+# ARRWSP_73937 Length: 50
+# ARRWSP_73937 Number of predicted TMRs: 0
+ARRWSP_73937	inside	1	50				
+//
+# ARRWSP_171681 Length: 37
+# ARRWSP_171681 Number of predicted TMRs: 0
+ARRWSP_171681	inside	1	37				
+//
+# ARRWSP_134348 Length: 48
+# ARRWSP_134348 Number of predicted TMRs: 0
+ARRWSP_134348	signal	1	47				
+ARRWSP_134348	outside	48	48				
+//
+# ARRWSP_32772 Length: 44
+# ARRWSP_32772 Number of predicted TMRs: 0
+ARRWSP_32772	signal	1	15				
+ARRWSP_32772	outside	16	44				
+//
+# ARRWSP_32767 Length: 44
+# ARRWSP_32767 Number of predicted TMRs: 0
+ARRWSP_32767	signal	1	42				
+ARRWSP_32767	outside	43	44				
+//
+# ARRWSP_5977 Length: 45
+# ARRWSP_5977 Number of predicted TMRs: 0
+ARRWSP_5977	signal	1	25				
+ARRWSP_5977	outside	26	45				
+//
+# ARRWSP_9359 Length: 44
+# ARRWSP_9359 Number of predicted TMRs: 0
+ARRWSP_9359	signal	1	43				
+ARRWSP_9359	outside	44	44				
+//
+# ARRWSP_123073 Length: 42
+# ARRWSP_123073 Number of predicted TMRs: 0
+ARRWSP_123073	signal	1	39				
+ARRWSP_123073	outside	40	42				
+//
+# ARRWSP_135701 Length: 40
+# ARRWSP_135701 Number of predicted TMRs: 0
+ARRWSP_135701	signal	1	30				
+ARRWSP_135701	outside	31	40				
+//
+# ARRWSP_108784 Length: 49
+# ARRWSP_108784 Number of predicted TMRs: 0
+ARRWSP_108784	inside	1	49				
+//
+# ARRWSP_46 Length: 43
+# ARRWSP_46 Number of predicted TMRs: 0
+ARRWSP_46	inside	1	43				
+//
+# ARRWSP_140819 Length: 50
+# ARRWSP_140819 Number of predicted TMRs: 0
+ARRWSP_140819	inside	1	50				
+//
+# ARRWSP_134702 Length: 37
+# ARRWSP_134702 Number of predicted TMRs: 0
+ARRWSP_134702	signal	1	28				
+ARRWSP_134702	outside	29	37				
+//
+# ARRWSP_77461 Length: 47
+# ARRWSP_77461 Number of predicted TMRs: 0
+ARRWSP_77461	signal	1	44				
+ARRWSP_77461	outside	45	47				
+//
+# ARRWSP_19007 Length: 47
+# ARRWSP_19007 Number of predicted TMRs: 0
+ARRWSP_19007	inside	1	47				
+//
+# ARRWSP_139010 Length: 49
+# ARRWSP_139010 Number of predicted TMRs: 0
+ARRWSP_139010	signal	1	27				
+ARRWSP_139010	outside	28	49				
+//
+# ARRWSP_128171 Length: 43
+# ARRWSP_128171 Number of predicted TMRs: 0
+ARRWSP_128171	signal	1	42				
+ARRWSP_128171	outside	43	43				
+//
+# ARRWSP_84313 Length: 50
+# ARRWSP_84313 Number of predicted TMRs: 0
+ARRWSP_84313	inside	1	50				
+//
+# ARRWSP_164804 Length: 38
+# ARRWSP_164804 Number of predicted TMRs: 0
+ARRWSP_164804	signal	1	28				
+ARRWSP_164804	outside	29	38				
+//
+# ARRWSP_157510 Length: 50
+# ARRWSP_157510 Number of predicted TMRs: 0
+ARRWSP_157510	inside	1	50				
+//
+# ARRWSP_153411 Length: 35
+# ARRWSP_153411 Number of predicted TMRs: 0
+ARRWSP_153411	inside	1	35				
+//
+# ARRWSP_83878 Length: 44
+# ARRWSP_83878 Number of predicted TMRs: 0
+ARRWSP_83878	signal	1	42				
+ARRWSP_83878	outside	43	44				
+//
+# ARRWSP_59401 Length: 43
+# ARRWSP_59401 Number of predicted TMRs: 0
+ARRWSP_59401	inside	1	43				
+//
+# ARRWSP_117664 Length: 50
+# ARRWSP_117664 Number of predicted TMRs: 0
+ARRWSP_117664	signal	1	22				
+ARRWSP_117664	outside	23	50				
+//
+# ARRWSP_29123 Length: 42
+# ARRWSP_29123 Number of predicted TMRs: 0
+ARRWSP_29123	inside	1	42				
+//
+# ARRWSP_169595 Length: 36
+# ARRWSP_169595 Number of predicted TMRs: 0
+ARRWSP_169595	signal	1	10				
+ARRWSP_169595	outside	11	36				
+//
+# ARRWSP_135164 Length: 45
+# ARRWSP_135164 Number of predicted TMRs: 0
+ARRWSP_135164	inside	1	45				
+//
+# ARRWSP_33461 Length: 43
+# ARRWSP_33461 Number of predicted TMRs: 0
+ARRWSP_33461	inside	1	43				
+//
+# ARRWSP_115421 Length: 45
+# ARRWSP_115421 Number of predicted TMRs: 0
+ARRWSP_115421	inside	1	45				
+//
+# ARRWSP_159578 Length: 44
+# ARRWSP_159578 Number of predicted TMRs: 0
+ARRWSP_159578	inside	1	44				
+//
+# ARRWSP_38452 Length: 45
+# ARRWSP_38452 Number of predicted TMRs: 0
+ARRWSP_38452	signal	1	44				
+ARRWSP_38452	outside	45	45				
+//
+# ARRWSP_142416 Length: 37
+# ARRWSP_142416 Number of predicted TMRs: 0
+ARRWSP_142416	inside	1	37				
+//
+# ARRWSP_95676 Length: 50
+# ARRWSP_95676 Number of predicted TMRs: 0
+ARRWSP_95676	inside	1	50				
+//
+# ARRWSP_52102 Length: 46
+# ARRWSP_52102 Number of predicted TMRs: 0
+ARRWSP_52102	inside	1	46				
+//
+# ARRWSP_48275 Length: 46
+# ARRWSP_48275 Number of predicted TMRs: 0
+ARRWSP_48275	inside	1	46				
+//
+# ARRWSP_94494 Length: 48
+# ARRWSP_94494 Number of predicted TMRs: 0
+ARRWSP_94494	inside	1	48				
+//
+# ARRWSP_110623 Length: 40
+# ARRWSP_110623 Number of predicted TMRs: 0
+ARRWSP_110623	inside	1	40				
+//
+# ARRWSP_139075 Length: 42
+# ARRWSP_139075 Number of predicted TMRs: 0
+ARRWSP_139075	signal	1	41				
+ARRWSP_139075	outside	42	42				
+//
+# ARRWSP_75039 Length: 47
+# ARRWSP_75039 Number of predicted TMRs: 0
+ARRWSP_75039	inside	1	47				
+//
+# ARRWSP_38564 Length: 49
+# ARRWSP_38564 Number of predicted TMRs: 0
+ARRWSP_38564	signal	1	47				
+ARRWSP_38564	outside	48	49				
+//
+# ARRWSP_49679 Length: 50
+# ARRWSP_49679 Number of predicted TMRs: 0
+ARRWSP_49679	inside	1	50				
+//
+# ARRWSP_9605 Length: 48
+# ARRWSP_9605 Number of predicted TMRs: 0
+ARRWSP_9605	inside	1	48				
+//
+# ARRWSP_89566 Length: 33
+# ARRWSP_89566 Number of predicted TMRs: 0
+ARRWSP_89566	signal	1	21				
+ARRWSP_89566	outside	22	33				
+//
+# ARRWSP_112429 Length: 43
+# ARRWSP_112429 Number of predicted TMRs: 0
+ARRWSP_112429	inside	1	43				
+//
+# ARRWSP_15574 Length: 44
+# ARRWSP_15574 Number of predicted TMRs: 0
+ARRWSP_15574	inside	1	44				
+//
+# ARRWSP_61334 Length: 44
+# ARRWSP_61334 Number of predicted TMRs: 0
+ARRWSP_61334	inside	1	44				
+//
+# ARRWSP_82961 Length: 50
+# ARRWSP_82961 Number of predicted TMRs: 0
+ARRWSP_82961	inside	1	50				
+//
+# ARRWSP_63863 Length: 36
+# ARRWSP_63863 Number of predicted TMRs: 0
+ARRWSP_63863	inside	1	36				
+//
+# ARRWSP_20258 Length: 50
+# ARRWSP_20258 Number of predicted TMRs: 0
+ARRWSP_20258	inside	1	50				
+//
+# ARRWSP_147168 Length: 49
+# ARRWSP_147168 Number of predicted TMRs: 0
+ARRWSP_147168	inside	1	49				
+//
+# ARRWSP_73958 Length: 47
+# ARRWSP_73958 Number of predicted TMRs: 0
+ARRWSP_73958	signal	1	46				
+ARRWSP_73958	outside	47	47				
+//
+# ARRWSP_129791 Length: 44
+# ARRWSP_129791 Number of predicted TMRs: 0
+ARRWSP_129791	signal	1	43				
+ARRWSP_129791	outside	44	44				
+//
+# ARRWSP_58269 Length: 47
+# ARRWSP_58269 Number of predicted TMRs: 0
+ARRWSP_58269	inside	1	47				
+//
+# ARRWSP_16452 Length: 41
+# ARRWSP_16452 Number of predicted TMRs: 0
+ARRWSP_16452	inside	1	41				
+//
+# ARRWSP_171404 Length: 50
+# ARRWSP_171404 Number of predicted TMRs: 0
+ARRWSP_171404	inside	1	50				
+//
+# ARRWSP_16313 Length: 47
+# ARRWSP_16313 Number of predicted TMRs: 0
+ARRWSP_16313	inside	1	47				
+//
+# ARRWSP_123331 Length: 35
+# ARRWSP_123331 Number of predicted TMRs: 0
+ARRWSP_123331	signal	1	32				
+ARRWSP_123331	outside	33	35				
+//
+# ARRWSP_66769 Length: 41
+# ARRWSP_66769 Number of predicted TMRs: 0
+ARRWSP_66769	signal	1	35				
+ARRWSP_66769	outside	36	41				
+//
+# ARRWSP_79797 Length: 44
+# ARRWSP_79797 Number of predicted TMRs: 0
+ARRWSP_79797	inside	1	44				
+//
+# ARRWSP_13135 Length: 42
+# ARRWSP_13135 Number of predicted TMRs: 0
+ARRWSP_13135	inside	1	42				
+//
+# ARRWSP_99103 Length: 36
+# ARRWSP_99103 Number of predicted TMRs: 0
+ARRWSP_99103	signal	1	28				
+ARRWSP_99103	outside	29	36				
+//
+# ARRWSP_21410 Length: 44
+# ARRWSP_21410 Number of predicted TMRs: 0
+ARRWSP_21410	inside	1	44				
+//
+# ARRWSP_49756 Length: 50
+# ARRWSP_49756 Number of predicted TMRs: 0
+ARRWSP_49756	inside	1	50				
+//
+# ARRWSP_169077 Length: 47
+# ARRWSP_169077 Number of predicted TMRs: 0
+ARRWSP_169077	inside	1	47				
+//
+# ARRWSP_10044 Length: 42
+# ARRWSP_10044 Number of predicted TMRs: 0
+ARRWSP_10044	inside	1	42				
+//
+# ARRWSP_132697 Length: 39
+# ARRWSP_132697 Number of predicted TMRs: 0
+ARRWSP_132697	inside	1	39				
+//
+# ARRWSP_65151 Length: 40
+# ARRWSP_65151 Number of predicted TMRs: 0
+ARRWSP_65151	signal	1	20				
+ARRWSP_65151	outside	21	40				
+//
+# ARRWSP_55732 Length: 46
+# ARRWSP_55732 Number of predicted TMRs: 0
+ARRWSP_55732	inside	1	46				
+//
+# ARRWSP_54851 Length: 39
+# ARRWSP_54851 Number of predicted TMRs: 1
+ARRWSP_54851	inside	1	14				
+ARRWSP_54851	TMhelix	15	35				
+ARRWSP_54851	outside	36	39				
+//
+# ARRWSP_155800 Length: 42
+# ARRWSP_155800 Number of predicted TMRs: 0
+ARRWSP_155800	inside	1	42				
+//
+# ARRWSP_55789 Length: 46
+# ARRWSP_55789 Number of predicted TMRs: 0
+ARRWSP_55789	inside	1	46				
+//
+# ARRWSP_94656 Length: 50
+# ARRWSP_94656 Number of predicted TMRs: 0
+ARRWSP_94656	inside	1	50				
+//
+# ARRWSP_136453 Length: 42
+# ARRWSP_136453 Number of predicted TMRs: 0
+ARRWSP_136453	inside	1	42				
+//
+# ARRWSP_121109 Length: 46
+# ARRWSP_121109 Number of predicted TMRs: 0
+ARRWSP_121109	inside	1	46				
+//
+# ARRWSP_106167 Length: 36
+# ARRWSP_106167 Number of predicted TMRs: 0
+ARRWSP_106167	inside	1	36				
+//
+# ARRWSP_87707 Length: 43
+# ARRWSP_87707 Number of predicted TMRs: 0
+ARRWSP_87707	inside	1	43				
+//
+# ARRWSP_32272 Length: 50
+# ARRWSP_32272 Number of predicted TMRs: 0
+ARRWSP_32272	inside	1	50				
+//
+# ARRWSP_93285 Length: 50
+# ARRWSP_93285 Number of predicted TMRs: 0
+ARRWSP_93285	inside	1	50				
+//
+# ARRWSP_139112 Length: 42
+# ARRWSP_139112 Number of predicted TMRs: 0
+ARRWSP_139112	signal	1	35				
+ARRWSP_139112	outside	36	42				
+//
+# ARRWSP_88941 Length: 46
+# ARRWSP_88941 Number of predicted TMRs: 0
+ARRWSP_88941	inside	1	46				
+//
+# ARRWSP_146684 Length: 34
+# ARRWSP_146684 Number of predicted TMRs: 0
+ARRWSP_146684	inside	1	34				
+//
+# ARRWSP_77506 Length: 45
+# ARRWSP_77506 Number of predicted TMRs: 0
+ARRWSP_77506	signal	1	21				
+ARRWSP_77506	outside	22	45				
+//
+# ARRWSP_99298 Length: 39
+# ARRWSP_99298 Number of predicted TMRs: 0
+ARRWSP_99298	inside	1	39				
+//
+# ARRWSP_33188 Length: 48
+# ARRWSP_33188 Number of predicted TMRs: 0
+ARRWSP_33188	inside	1	48				
+//
+# ARRWSP_14239 Length: 46
+# ARRWSP_14239 Number of predicted TMRs: 0
+ARRWSP_14239	inside	1	46				
+//
+# ARRWSP_36994 Length: 49
+# ARRWSP_36994 Number of predicted TMRs: 0
+ARRWSP_36994	signal	1	46				
+ARRWSP_36994	outside	47	49				
+//
+# ARRWSP_9265 Length: 47
+# ARRWSP_9265 Number of predicted TMRs: 0
+ARRWSP_9265	inside	1	47				
+//
+# ARRWSP_132127 Length: 39
+# ARRWSP_132127 Number of predicted TMRs: 0
+ARRWSP_132127	signal	1	37				
+ARRWSP_132127	outside	38	39				
+//
+# ARRWSP_69621 Length: 50
+# ARRWSP_69621 Number of predicted TMRs: 0
+ARRWSP_69621	signal	1	15				
+ARRWSP_69621	outside	16	50				
+//
+# ARRWSP_28988 Length: 49
+# ARRWSP_28988 Number of predicted TMRs: 0
+ARRWSP_28988	inside	1	49				
+//
+# ARRWSP_59372 Length: 49
+# ARRWSP_59372 Number of predicted TMRs: 0
+ARRWSP_59372	signal	1	42				
+ARRWSP_59372	outside	43	49				
+//
+# ARRWSP_147968 Length: 43
+# ARRWSP_147968 Number of predicted TMRs: 0
+ARRWSP_147968	signal	1	41				
+ARRWSP_147968	outside	42	43				
+//
+# ARRWSP_99293 Length: 48
+# ARRWSP_99293 Number of predicted TMRs: 0
+ARRWSP_99293	inside	1	48				
+//
+# ARRWSP_131820 Length: 48
+# ARRWSP_131820 Number of predicted TMRs: 0
+ARRWSP_131820	inside	1	48				
+//
+# ARRWSP_28239 Length: 50
+# ARRWSP_28239 Number of predicted TMRs: 0
+ARRWSP_28239	inside	1	50				
+//
+# ARRWSP_88400 Length: 34
+# ARRWSP_88400 Number of predicted TMRs: 0
+ARRWSP_88400	signal	1	33				
+ARRWSP_88400	outside	34	34				
+//
+# ARRWSP_142162 Length: 40
+# ARRWSP_142162 Number of predicted TMRs: 0
+ARRWSP_142162	inside	1	40				
+//
+# ARRWSP_39804 Length: 47
+# ARRWSP_39804 Number of predicted TMRs: 0
+ARRWSP_39804	inside	1	47				
+//
+# ARRWSP_93039 Length: 39
+# ARRWSP_93039 Number of predicted TMRs: 0
+ARRWSP_93039	signal	1	28				
+ARRWSP_93039	outside	29	39				
+//
+# ARRWSP_21938 Length: 44
+# ARRWSP_21938 Number of predicted TMRs: 0
+ARRWSP_21938	signal	1	15				
+ARRWSP_21938	outside	16	44				
+//
+# ARRWSP_132231 Length: 42
+# ARRWSP_132231 Number of predicted TMRs: 0
+ARRWSP_132231	inside	1	42				
+//
+# ARRWSP_144949 Length: 44
+# ARRWSP_144949 Number of predicted TMRs: 0
+ARRWSP_144949	inside	1	44				
+//
+# ARRWSP_46265 Length: 39
+# ARRWSP_46265 Number of predicted TMRs: 0
+ARRWSP_46265	inside	1	39				
+//
+# ARRWSP_147835 Length: 46
+# ARRWSP_147835 Number of predicted TMRs: 0
+ARRWSP_147835	signal	1	37				
+ARRWSP_147835	outside	38	46				
+//
+# ARRWSP_141915 Length: 50
+# ARRWSP_141915 Number of predicted TMRs: 0
+ARRWSP_141915	signal	1	26				
+ARRWSP_141915	outside	27	50				
+//
+# ARRWSP_21166 Length: 38
+# ARRWSP_21166 Number of predicted TMRs: 0
+ARRWSP_21166	signal	1	32				
+ARRWSP_21166	outside	33	38				
+//
+# ARRWSP_82707 Length: 42
+# ARRWSP_82707 Number of predicted TMRs: 0
+ARRWSP_82707	inside	1	42				
+//
+# ARRWSP_101413 Length: 42
+# ARRWSP_101413 Number of predicted TMRs: 0
+ARRWSP_101413	signal	1	30				
+ARRWSP_101413	outside	31	42				
+//
+# ARRWSP_96122 Length: 41
+# ARRWSP_96122 Number of predicted TMRs: 0
+ARRWSP_96122	inside	1	41				
+//
+# ARRWSP_81635 Length: 30
+# ARRWSP_81635 Number of predicted TMRs: 0
+ARRWSP_81635	inside	1	30				
+//
+# ARRWSP_151531 Length: 45
+# ARRWSP_151531 Number of predicted TMRs: 0
+ARRWSP_151531	inside	1	45				
+//
+# ARRWSP_77421 Length: 32
+# ARRWSP_77421 Number of predicted TMRs: 0
+ARRWSP_77421	signal	1	28				
+ARRWSP_77421	outside	29	32				
+//
+# ARRWSP_95498 Length: 43
+# ARRWSP_95498 Number of predicted TMRs: 0
+ARRWSP_95498	inside	1	43				
+//
+# ARRWSP_41376 Length: 41
+# ARRWSP_41376 Number of predicted TMRs: 0
+ARRWSP_41376	signal	1	36				
+ARRWSP_41376	outside	37	41				
+//
+# ARRWSP_124437 Length: 42
+# ARRWSP_124437 Number of predicted TMRs: 0
+ARRWSP_124437	signal	1	40				
+ARRWSP_124437	outside	41	42				
+//
+# ARRWSP_131735 Length: 44
+# ARRWSP_131735 Number of predicted TMRs: 0
+ARRWSP_131735	inside	1	44				
+//
+# ARRWSP_171203 Length: 48
+# ARRWSP_171203 Number of predicted TMRs: 0
+ARRWSP_171203	inside	1	48				
+//
+# ARRWSP_17758 Length: 43
+# ARRWSP_17758 Number of predicted TMRs: 0
+ARRWSP_17758	signal	1	40				
+ARRWSP_17758	outside	41	43				
+//
+# ARRWSP_171786 Length: 50
+# ARRWSP_171786 Number of predicted TMRs: 0
+ARRWSP_171786	inside	1	50				
+//
+# ARRWSP_116771 Length: 45
+# ARRWSP_116771 Number of predicted TMRs: 0
+ARRWSP_116771	inside	1	45				
+//
+# ARRWSP_86472 Length: 40
+# ARRWSP_86472 Number of predicted TMRs: 0
+ARRWSP_86472	signal	1	10				
+ARRWSP_86472	outside	11	40				
+//
+# ARRWSP_169885 Length: 47
+# ARRWSP_169885 Number of predicted TMRs: 0
+ARRWSP_169885	inside	1	47				
+//
+# ARRWSP_111992 Length: 47
+# ARRWSP_111992 Number of predicted TMRs: 0
+ARRWSP_111992	signal	1	45				
+ARRWSP_111992	outside	46	47				
+//
+# ARRWSP_3952 Length: 46
+# ARRWSP_3952 Number of predicted TMRs: 0
+ARRWSP_3952	inside	1	46				
+//
+# ARRWSP_74630 Length: 50
+# ARRWSP_74630 Number of predicted TMRs: 0
+ARRWSP_74630	signal	1	49				
+ARRWSP_74630	outside	50	50				
+//
+# ARRWSP_89152 Length: 49
+# ARRWSP_89152 Number of predicted TMRs: 0
+ARRWSP_89152	inside	1	49				
+//
+# ARRWSP_119308 Length: 40
+# ARRWSP_119308 Number of predicted TMRs: 0
+ARRWSP_119308	outside	1	40				
+//
+# ARRWSP_29811 Length: 31
+# ARRWSP_29811 Number of predicted TMRs: 0
+ARRWSP_29811	signal	1	30				
+ARRWSP_29811	outside	31	31				
+//
+# ARRWSP_95779 Length: 49
+# ARRWSP_95779 Number of predicted TMRs: 0
+ARRWSP_95779	inside	1	49				
+//
+# ARRWSP_71035 Length: 46
+# ARRWSP_71035 Number of predicted TMRs: 0
+ARRWSP_71035	signal	1	11				
+ARRWSP_71035	outside	12	46				
+//
+# ARRWSP_11726 Length: 48
+# ARRWSP_11726 Number of predicted TMRs: 0
+ARRWSP_11726	signal	1	10				
+ARRWSP_11726	outside	11	48				
+//
+# ARRWSP_15484 Length: 50
+# ARRWSP_15484 Number of predicted TMRs: 0
+ARRWSP_15484	signal	1	18				
+ARRWSP_15484	outside	19	50				
+//
+# ARRWSP_103815 Length: 48
+# ARRWSP_103815 Number of predicted TMRs: 0
+ARRWSP_103815	signal	1	37				
+ARRWSP_103815	outside	38	48				
+//
+# ARRWSP_59268 Length: 47
+# ARRWSP_59268 Number of predicted TMRs: 0
+ARRWSP_59268	signal	1	14				
+ARRWSP_59268	outside	15	47				
+//
+# ARRWSP_84002 Length: 43
+# ARRWSP_84002 Number of predicted TMRs: 0
+ARRWSP_84002	inside	1	43				
+//
+# ARRWSP_6789 Length: 36
+# ARRWSP_6789 Number of predicted TMRs: 0
+ARRWSP_6789	signal	1	18				
+ARRWSP_6789	outside	19	36				
+//
+# ARRWSP_17465 Length: 37
+# ARRWSP_17465 Number of predicted TMRs: 0
+ARRWSP_17465	signal	1	35				
+ARRWSP_17465	outside	36	37				
+//
+# ARRWSP_65452 Length: 50
+# ARRWSP_65452 Number of predicted TMRs: 0
+ARRWSP_65452	inside	1	50				
+//
+# ARRWSP_9221 Length: 45
+# ARRWSP_9221 Number of predicted TMRs: 0
+ARRWSP_9221	inside	1	45				
+//
+# ARRWSP_79923 Length: 40
+# ARRWSP_79923 Number of predicted TMRs: 0
+ARRWSP_79923	signal	1	39				
+ARRWSP_79923	outside	40	40				
+//
+# ARRWSP_149994 Length: 46
+# ARRWSP_149994 Number of predicted TMRs: 0
+ARRWSP_149994	signal	1	24				
+ARRWSP_149994	outside	25	46				
+//
+# ARRWSP_41110 Length: 46
+# ARRWSP_41110 Number of predicted TMRs: 0
+ARRWSP_41110	inside	1	46				
+//
+# ARRWSP_59890 Length: 48
+# ARRWSP_59890 Number of predicted TMRs: 0
+ARRWSP_59890	signal	1	10				
+ARRWSP_59890	outside	11	48				
+//
+# ARRWSP_93032 Length: 49
+# ARRWSP_93032 Number of predicted TMRs: 0
+ARRWSP_93032	inside	1	49				
+//
+# ARRWSP_42722 Length: 40
+# ARRWSP_42722 Number of predicted TMRs: 0
+ARRWSP_42722	inside	1	40				
+//
+# ARRWSP_40270 Length: 49
+# ARRWSP_40270 Number of predicted TMRs: 0
+ARRWSP_40270	inside	1	49				
+//
+# ARRWSP_133617 Length: 45
+# ARRWSP_133617 Number of predicted TMRs: 0
+ARRWSP_133617	signal	1	35				
+ARRWSP_133617	outside	36	45				
+//
+# ARRWSP_142879 Length: 50
+# ARRWSP_142879 Number of predicted TMRs: 0
+ARRWSP_142879	inside	1	50				
+//
+# ARRWSP_16584 Length: 29
+# ARRWSP_16584 Number of predicted TMRs: 0
+ARRWSP_16584	signal	1	28				
+ARRWSP_16584	outside	29	29				
+//
+# ARRWSP_66542 Length: 49
+# ARRWSP_66542 Number of predicted TMRs: 0
+ARRWSP_66542	inside	1	49				
+//
+# ARRWSP_124466 Length: 49
+# ARRWSP_124466 Number of predicted TMRs: 0
+ARRWSP_124466	inside	1	49				
+//
+# ARRWSP_45508 Length: 48
+# ARRWSP_45508 Number of predicted TMRs: 0
+ARRWSP_45508	signal	1	13				
+ARRWSP_45508	outside	14	48				
+//
+# ARRWSP_74508 Length: 47
+# ARRWSP_74508 Number of predicted TMRs: 0
+ARRWSP_74508	inside	1	47				
+//
+# ARRWSP_117956 Length: 46
+# ARRWSP_117956 Number of predicted TMRs: 0
+ARRWSP_117956	inside	1	46				
+//
+# ARRWSP_12269 Length: 41
+# ARRWSP_12269 Number of predicted TMRs: 0
+ARRWSP_12269	inside	1	41				
+//
+# ARRWSP_61221 Length: 49
+# ARRWSP_61221 Number of predicted TMRs: 0
+ARRWSP_61221	inside	1	49				
+//
+# ARRWSP_55097 Length: 48
+# ARRWSP_55097 Number of predicted TMRs: 0
+ARRWSP_55097	signal	1	26				
+ARRWSP_55097	outside	27	48				
+//
+# ARRWSP_54832 Length: 46
+# ARRWSP_54832 Number of predicted TMRs: 0
+ARRWSP_54832	inside	1	46				
+//
+# ARRWSP_135244 Length: 46
+# ARRWSP_135244 Number of predicted TMRs: 0
+ARRWSP_135244	inside	1	46				
+//
+# ARRWSP_98296 Length: 43
+# ARRWSP_98296 Number of predicted TMRs: 0
+ARRWSP_98296	signal	1	42				
+ARRWSP_98296	outside	43	43				
+//
+# ARRWSP_87819 Length: 30
+# ARRWSP_87819 Number of predicted TMRs: 0
+ARRWSP_87819	inside	1	30				
+//
+# ARRWSP_154609 Length: 46
+# ARRWSP_154609 Number of predicted TMRs: 0
+ARRWSP_154609	inside	1	46				
+//
+# ARRWSP_121412 Length: 49
+# ARRWSP_121412 Number of predicted TMRs: 0
+ARRWSP_121412	signal	1	48				
+ARRWSP_121412	outside	49	49				
+//
+# ARRWSP_23691 Length: 46
+# ARRWSP_23691 Number of predicted TMRs: 0
+ARRWSP_23691	inside	1	46				
+//
+# ARRWSP_35104 Length: 37
+# ARRWSP_35104 Number of predicted TMRs: 0
+ARRWSP_35104	inside	1	37				
+//
+# ARRWSP_11130 Length: 39
+# ARRWSP_11130 Number of predicted TMRs: 0
+ARRWSP_11130	inside	1	39				
+//
+# ARRWSP_29132 Length: 48
+# ARRWSP_29132 Number of predicted TMRs: 0
+ARRWSP_29132	inside	1	48				
+//
+# ARRWSP_142326 Length: 48
+# ARRWSP_142326 Number of predicted TMRs: 0
+ARRWSP_142326	inside	1	48				
+//
+# ARRWSP_93904 Length: 49
+# ARRWSP_93904 Number of predicted TMRs: 0
+ARRWSP_93904	inside	1	49				
+//
+# ARRWSP_172156 Length: 49
+# ARRWSP_172156 Number of predicted TMRs: 0
+ARRWSP_172156	inside	1	49				
+//
+# ARRWSP_168458 Length: 46
+# ARRWSP_168458 Number of predicted TMRs: 0
+ARRWSP_168458	inside	1	46				
+//
+# ARRWSP_167927 Length: 37
+# ARRWSP_167927 Number of predicted TMRs: 0
+ARRWSP_167927	inside	1	37				
+//
+# ARRWSP_34530 Length: 37
+# ARRWSP_34530 Number of predicted TMRs: 0
+ARRWSP_34530	signal	1	32				
+ARRWSP_34530	outside	33	37				
+//
+# ARRWSP_137870 Length: 46
+# ARRWSP_137870 Number of predicted TMRs: 0
+ARRWSP_137870	signal	1	10				
+ARRWSP_137870	outside	11	46				
+//
+# ARRWSP_86479 Length: 40
+# ARRWSP_86479 Number of predicted TMRs: 0
+ARRWSP_86479	inside	1	40				
+//
+# ARRWSP_68885 Length: 43
+# ARRWSP_68885 Number of predicted TMRs: 0
+ARRWSP_68885	inside	1	43				
+//
+# ARRWSP_74481 Length: 35
+# ARRWSP_74481 Number of predicted TMRs: 0
+ARRWSP_74481	inside	1	35				
+//
+# ARRWSP_111434 Length: 38
+# ARRWSP_111434 Number of predicted TMRs: 0
+ARRWSP_111434	signal	1	36				
+ARRWSP_111434	outside	37	38				
+//
+# ARRWSP_128123 Length: 46
+# ARRWSP_128123 Number of predicted TMRs: 0
+ARRWSP_128123	inside	1	46				
+//
+# ARRWSP_11394 Length: 48
+# ARRWSP_11394 Number of predicted TMRs: 0
+ARRWSP_11394	signal	1	47				
+ARRWSP_11394	outside	48	48				
+//
+# ARRWSP_16684 Length: 40
+# ARRWSP_16684 Number of predicted TMRs: 0
+ARRWSP_16684	signal	1	27				
+ARRWSP_16684	outside	28	40				
+//
+# ARRWSP_153880 Length: 41
+# ARRWSP_153880 Number of predicted TMRs: 0
+ARRWSP_153880	inside	1	41				
+//
+# ARRWSP_142992 Length: 48
+# ARRWSP_142992 Number of predicted TMRs: 0
+ARRWSP_142992	signal	1	47				
+ARRWSP_142992	outside	48	48				
+//
+# ARRWSP_52337 Length: 45
+# ARRWSP_52337 Number of predicted TMRs: 0
+ARRWSP_52337	inside	1	45				
+//
+# ARRWSP_112989 Length: 48
+# ARRWSP_112989 Number of predicted TMRs: 0
+ARRWSP_112989	inside	1	48				
+//
+# ARRWSP_72532 Length: 50
+# ARRWSP_72532 Number of predicted TMRs: 0
+ARRWSP_72532	inside	1	50				
+//
+# ARRWSP_50746 Length: 49
+# ARRWSP_50746 Number of predicted TMRs: 0
+ARRWSP_50746	signal	1	30				
+ARRWSP_50746	outside	31	49				
+//
+# ARRWSP_78020 Length: 41
+# ARRWSP_78020 Number of predicted TMRs: 0
+ARRWSP_78020	signal	1	40				
+ARRWSP_78020	outside	41	41				
+//
+# ARRWSP_148146 Length: 47
+# ARRWSP_148146 Number of predicted TMRs: 0
+ARRWSP_148146	signal	1	14				
+ARRWSP_148146	outside	15	47				
+//
+# ARRWSP_109260 Length: 36
+# ARRWSP_109260 Number of predicted TMRs: 0
+ARRWSP_109260	signal	1	12				
+ARRWSP_109260	outside	13	36				
+//
+# ARRWSP_80949 Length: 45
+# ARRWSP_80949 Number of predicted TMRs: 0
+ARRWSP_80949	inside	1	45				
+//
+# ARRWSP_38998 Length: 38
+# ARRWSP_38998 Number of predicted TMRs: 0
+ARRWSP_38998	signal	1	30				
+ARRWSP_38998	outside	31	38				
+//
+# ARRWSP_67610 Length: 36
+# ARRWSP_67610 Number of predicted TMRs: 0
+ARRWSP_67610	inside	1	36				
+//
+# ARRWSP_44826 Length: 49
+# ARRWSP_44826 Number of predicted TMRs: 0
+ARRWSP_44826	signal	1	12				
+ARRWSP_44826	outside	13	49				
+//
+# ARRWSP_56703 Length: 43
+# ARRWSP_56703 Number of predicted TMRs: 0
+ARRWSP_56703	inside	1	43				
+//
+# ARRWSP_22149 Length: 34
+# ARRWSP_22149 Number of predicted TMRs: 0
+ARRWSP_22149	inside	1	34				
+//
+# ARRWSP_23827 Length: 42
+# ARRWSP_23827 Number of predicted TMRs: 0
+ARRWSP_23827	signal	1	41				
+ARRWSP_23827	outside	42	42				
+//
+# ARRWSP_98538 Length: 46
+# ARRWSP_98538 Number of predicted TMRs: 0
+ARRWSP_98538	signal	1	12				
+ARRWSP_98538	outside	13	46				
+//
+# ARRWSP_86909 Length: 35
+# ARRWSP_86909 Number of predicted TMRs: 0
+ARRWSP_86909	signal	1	34				
+ARRWSP_86909	outside	35	35				
+//
+# ARRWSP_114684 Length: 48
+# ARRWSP_114684 Number of predicted TMRs: 0
+ARRWSP_114684	signal	1	47				
+ARRWSP_114684	outside	48	48				
+//
+# ARRWSP_68236 Length: 47
+# ARRWSP_68236 Number of predicted TMRs: 0
+ARRWSP_68236	inside	1	47				
+//
+# ARRWSP_125019 Length: 46
+# ARRWSP_125019 Number of predicted TMRs: 0
+ARRWSP_125019	signal	1	43				
+ARRWSP_125019	outside	44	46				
+//
+# ARRWSP_112370 Length: 46
+# ARRWSP_112370 Number of predicted TMRs: 0
+ARRWSP_112370	signal	1	43				
+ARRWSP_112370	outside	44	46				
+//
+# ARRWSP_77705 Length: 50
+# ARRWSP_77705 Number of predicted TMRs: 0
+ARRWSP_77705	signal	1	49				
+ARRWSP_77705	outside	50	50				
+//
+# ARRWSP_49564 Length: 46
+# ARRWSP_49564 Number of predicted TMRs: 0
+ARRWSP_49564	signal	1	30				
+ARRWSP_49564	outside	31	46				
+//
+# ARRWSP_118387 Length: 50
+# ARRWSP_118387 Number of predicted TMRs: 0
+ARRWSP_118387	inside	1	50				
+//
+# ARRWSP_158255 Length: 50
+# ARRWSP_158255 Number of predicted TMRs: 0
+ARRWSP_158255	inside	1	50				
+//
+# ARRWSP_90931 Length: 48
+# ARRWSP_90931 Number of predicted TMRs: 0
+ARRWSP_90931	signal	1	44				
+ARRWSP_90931	outside	45	48				
+//
+# ARRWSP_70032 Length: 42
+# ARRWSP_70032 Number of predicted TMRs: 0
+ARRWSP_70032	signal	1	32				
+ARRWSP_70032	outside	33	42				
+//
+# ARRWSP_72736 Length: 43
+# ARRWSP_72736 Number of predicted TMRs: 0
+ARRWSP_72736	signal	1	42				
+ARRWSP_72736	outside	43	43				
+//
+# ARRWSP_142991 Length: 36
+# ARRWSP_142991 Number of predicted TMRs: 1
+ARRWSP_142991	inside	1	11				
+ARRWSP_142991	TMhelix	12	28				
+ARRWSP_142991	outside	29	36				
+//
+# ARRWSP_93675 Length: 43
+# ARRWSP_93675 Number of predicted TMRs: 0
+ARRWSP_93675	signal	1	32				
+ARRWSP_93675	outside	33	43				
+//
+# ARRWSP_122639 Length: 47
+# ARRWSP_122639 Number of predicted TMRs: 0
+ARRWSP_122639	inside	1	47				
+//
+# ARRWSP_117109 Length: 43
+# ARRWSP_117109 Number of predicted TMRs: 0
+ARRWSP_117109	signal	1	39				
+ARRWSP_117109	outside	40	43				
+//
+# ARRWSP_50387 Length: 42
+# ARRWSP_50387 Number of predicted TMRs: 0
+ARRWSP_50387	outside	1	42				
+//
+# ARRWSP_122834 Length: 45
+# ARRWSP_122834 Number of predicted TMRs: 0
+ARRWSP_122834	inside	1	45				
+//
+# ARRWSP_23627 Length: 44
+# ARRWSP_23627 Number of predicted TMRs: 0
+ARRWSP_23627	signal	1	28				
+ARRWSP_23627	outside	29	44				
+//
+# ARRWSP_133319 Length: 47
+# ARRWSP_133319 Number of predicted TMRs: 0
+ARRWSP_133319	signal	1	31				
+ARRWSP_133319	outside	32	47				
+//
+# ARRWSP_132017 Length: 26
+# ARRWSP_132017 Number of predicted TMRs: 0
+ARRWSP_132017	inside	1	26				
+//
+# ARRWSP_40936 Length: 48
+# ARRWSP_40936 Number of predicted TMRs: 0
+ARRWSP_40936	inside	1	48				
+//
+# ARRWSP_117849 Length: 47
+# ARRWSP_117849 Number of predicted TMRs: 0
+ARRWSP_117849	inside	1	47				
+//
+# ARRWSP_170579 Length: 45
+# ARRWSP_170579 Number of predicted TMRs: 0
+ARRWSP_170579	signal	1	26				
+ARRWSP_170579	outside	27	45				
+//
+# ARRWSP_51292 Length: 45
+# ARRWSP_51292 Number of predicted TMRs: 0
+ARRWSP_51292	inside	1	45				
+//
+# ARRWSP_16098 Length: 50
+# ARRWSP_16098 Number of predicted TMRs: 0
+ARRWSP_16098	inside	1	50				
+//
+# ARRWSP_64869 Length: 43
+# ARRWSP_64869 Number of predicted TMRs: 0
+ARRWSP_64869	signal	1	38				
+ARRWSP_64869	outside	39	43				
+//
+# ARRWSP_37742 Length: 36
+# ARRWSP_37742 Number of predicted TMRs: 0
+ARRWSP_37742	inside	1	36				
+//
+# ARRWSP_163185 Length: 41
+# ARRWSP_163185 Number of predicted TMRs: 0
+ARRWSP_163185	signal	1	33				
+ARRWSP_163185	outside	34	41				
+//
+# ARRWSP_149938 Length: 49
+# ARRWSP_149938 Number of predicted TMRs: 0
+ARRWSP_149938	inside	1	49				
+//
+# ARRWSP_41478 Length: 38
+# ARRWSP_41478 Number of predicted TMRs: 0
+ARRWSP_41478	signal	1	18				
+ARRWSP_41478	outside	19	38				
+//
+# ARRWSP_19025 Length: 49
+# ARRWSP_19025 Number of predicted TMRs: 0
+ARRWSP_19025	signal	1	12				
+ARRWSP_19025	outside	13	49				
+//
+# ARRWSP_86727 Length: 39
+# ARRWSP_86727 Number of predicted TMRs: 1
+ARRWSP_86727	outside	1	6				
+ARRWSP_86727	TMhelix	7	27				
+ARRWSP_86727	inside	28	39				
+//
+# ARRWSP_66488 Length: 47
+# ARRWSP_66488 Number of predicted TMRs: 1
+ARRWSP_66488	inside	1	27				
+ARRWSP_66488	TMhelix	28	41				
+ARRWSP_66488	outside	42	47				
+//
+# ARRWSP_105179 Length: 49
+# ARRWSP_105179 Number of predicted TMRs: 0
+ARRWSP_105179	inside	1	49				
+//
+# ARRWSP_119359 Length: 32
+# ARRWSP_119359 Number of predicted TMRs: 0
+ARRWSP_119359	signal	1	16				
+ARRWSP_119359	outside	17	32				
+//
+# ARRWSP_128343 Length: 49
+# ARRWSP_128343 Number of predicted TMRs: 0
+ARRWSP_128343	inside	1	49				
+//
+# ARRWSP_13211 Length: 41
+# ARRWSP_13211 Number of predicted TMRs: 0
+ARRWSP_13211	signal	1	25				
+ARRWSP_13211	outside	26	41				
+//
+# ARRWSP_103479 Length: 40
+# ARRWSP_103479 Number of predicted TMRs: 0
+ARRWSP_103479	signal	1	28				
+ARRWSP_103479	outside	29	40				
+//
+# ARRWSP_144564 Length: 45
+# ARRWSP_144564 Number of predicted TMRs: 0
+ARRWSP_144564	signal	1	43				
+ARRWSP_144564	outside	44	45				
+//
+# ARRWSP_12606 Length: 49
+# ARRWSP_12606 Number of predicted TMRs: 0
+ARRWSP_12606	signal	1	38				
+ARRWSP_12606	outside	39	49				
+//
+# ARRWSP_98045 Length: 49
+# ARRWSP_98045 Number of predicted TMRs: 0
+ARRWSP_98045	signal	1	10				
+ARRWSP_98045	outside	11	49				
+//
+# ARRWSP_27991 Length: 28
+# ARRWSP_27991 Number of predicted TMRs: 0
+ARRWSP_27991	signal	1	25				
+ARRWSP_27991	outside	26	28				
+//
+# ARRWSP_144855 Length: 47
+# ARRWSP_144855 Number of predicted TMRs: 0
+ARRWSP_144855	inside	1	47				
+//
+# ARRWSP_35407 Length: 48
+# ARRWSP_35407 Number of predicted TMRs: 0
+ARRWSP_35407	inside	1	48				
+//
+# ARRWSP_23631 Length: 48
+# ARRWSP_23631 Number of predicted TMRs: 0
+ARRWSP_23631	inside	1	48				
+//
+# ARRWSP_168481 Length: 47
+# ARRWSP_168481 Number of predicted TMRs: 0
+ARRWSP_168481	signal	1	46				
+ARRWSP_168481	outside	47	47				
+//
+# ARRWSP_69008 Length: 46
+# ARRWSP_69008 Number of predicted TMRs: 0
+ARRWSP_69008	signal	1	45				
+ARRWSP_69008	outside	46	46				
+//
+# ARRWSP_14881 Length: 47
+# ARRWSP_14881 Number of predicted TMRs: 0
+ARRWSP_14881	signal	1	46				
+ARRWSP_14881	outside	47	47				
+//
+# ARRWSP_135083 Length: 45
+# ARRWSP_135083 Number of predicted TMRs: 0
+ARRWSP_135083	signal	1	34				
+ARRWSP_135083	outside	35	45				
+//
+# ARRWSP_138438 Length: 47
+# ARRWSP_138438 Number of predicted TMRs: 0
+ARRWSP_138438	signal	1	34				
+ARRWSP_138438	outside	35	47				
+//
+# ARRWSP_24592 Length: 48
+# ARRWSP_24592 Number of predicted TMRs: 0
+ARRWSP_24592	signal	1	10				
+ARRWSP_24592	outside	11	48				
+//
+# ARRWSP_140881 Length: 37
+# ARRWSP_140881 Number of predicted TMRs: 0
+ARRWSP_140881	inside	1	37				
+//
+# ARRWSP_94619 Length: 37
+# ARRWSP_94619 Number of predicted TMRs: 0
+ARRWSP_94619	inside	1	37				
+//
+# ARRWSP_9671 Length: 49
+# ARRWSP_9671 Number of predicted TMRs: 0
+ARRWSP_9671	inside	1	49				
+//
+# ARRWSP_44645 Length: 49
+# ARRWSP_44645 Number of predicted TMRs: 0
+ARRWSP_44645	inside	1	49				
+//
+# ARRWSP_137946 Length: 49
+# ARRWSP_137946 Number of predicted TMRs: 0
+ARRWSP_137946	inside	1	49				
+//
+# ARRWSP_165367 Length: 49
+# ARRWSP_165367 Number of predicted TMRs: 0
+ARRWSP_165367	inside	1	49				
+//
+# ARRWSP_16173 Length: 45
+# ARRWSP_16173 Number of predicted TMRs: 0
+ARRWSP_16173	inside	1	45				
+//
+# ARRWSP_91515 Length: 46
+# ARRWSP_91515 Number of predicted TMRs: 0
+ARRWSP_91515	signal	1	23				
+ARRWSP_91515	outside	24	46				
+//
+# ARRWSP_48028 Length: 48
+# ARRWSP_48028 Number of predicted TMRs: 0
+ARRWSP_48028	inside	1	48				
+//
+# ARRWSP_23868 Length: 48
+# ARRWSP_23868 Number of predicted TMRs: 0
+ARRWSP_23868	inside	1	48				
+//
+# ARRWSP_143798 Length: 38
+# ARRWSP_143798 Number of predicted TMRs: 0
+ARRWSP_143798	signal	1	21				
+ARRWSP_143798	outside	22	38				
+//
+# ARRWSP_78140 Length: 40
+# ARRWSP_78140 Number of predicted TMRs: 0
+ARRWSP_78140	signal	1	20				
+ARRWSP_78140	outside	21	40				
+//
+# ARRWSP_78121 Length: 41
+# ARRWSP_78121 Number of predicted TMRs: 0
+ARRWSP_78121	signal	1	21				
+ARRWSP_78121	outside	22	41				
+//
+# ARRWSP_151047 Length: 48
+# ARRWSP_151047 Number of predicted TMRs: 0
+ARRWSP_151047	outside	1	48				
+//
+# ARRWSP_29660 Length: 41
+# ARRWSP_29660 Number of predicted TMRs: 0
+ARRWSP_29660	signal	1	14				
+ARRWSP_29660	outside	15	41				
+//
+# ARRWSP_92922 Length: 49
+# ARRWSP_92922 Number of predicted TMRs: 0
+ARRWSP_92922	inside	1	49				
+//
+# ARRWSP_88303 Length: 45
+# ARRWSP_88303 Number of predicted TMRs: 0
+ARRWSP_88303	inside	1	45				
+//
+# ARRWSP_107299 Length: 48
+# ARRWSP_107299 Number of predicted TMRs: 0
+ARRWSP_107299	signal	1	29				
+ARRWSP_107299	outside	30	48				
+//
+# ARRWSP_73592 Length: 46
+# ARRWSP_73592 Number of predicted TMRs: 0
+ARRWSP_73592	inside	1	46				
+//
+# ARRWSP_73575 Length: 44
+# ARRWSP_73575 Number of predicted TMRs: 0
+ARRWSP_73575	inside	1	44				
+//
+# ARRWSP_75394 Length: 44
+# ARRWSP_75394 Number of predicted TMRs: 0
+ARRWSP_75394	inside	1	44				
+//
+# ARRWSP_137838 Length: 42
+# ARRWSP_137838 Number of predicted TMRs: 0
+ARRWSP_137838	signal	1	41				
+ARRWSP_137838	outside	42	42				
+//
+# ARRWSP_47557 Length: 50
+# ARRWSP_47557 Number of predicted TMRs: 0
+ARRWSP_47557	inside	1	50				
+//
+# ARRWSP_53475 Length: 46
+# ARRWSP_53475 Number of predicted TMRs: 0
+ARRWSP_53475	inside	1	46				
+//
+# ARRWSP_2333 Length: 43
+# ARRWSP_2333 Number of predicted TMRs: 0
+ARRWSP_2333	signal	1	42				
+ARRWSP_2333	outside	43	43				
+//
+# ARRWSP_140169 Length: 44
+# ARRWSP_140169 Number of predicted TMRs: 0
+ARRWSP_140169	inside	1	44				
+//
+# ARRWSP_152695 Length: 47
+# ARRWSP_152695 Number of predicted TMRs: 0
+ARRWSP_152695	inside	1	47				
+//
+# ARRWSP_140946 Length: 42
+# ARRWSP_140946 Number of predicted TMRs: 0
+ARRWSP_140946	inside	1	42				
+//
+# ARRWSP_136226 Length: 36
+# ARRWSP_136226 Number of predicted TMRs: 0
+ARRWSP_136226	inside	1	36				
+//
+# ARRWSP_126271 Length: 42
+# ARRWSP_126271 Number of predicted TMRs: 0
+ARRWSP_126271	signal	1	27				
+ARRWSP_126271	outside	28	42				
+//
+# ARRWSP_56888 Length: 31
+# ARRWSP_56888 Number of predicted TMRs: 0
+ARRWSP_56888	signal	1	29				
+ARRWSP_56888	outside	30	31				
+//
+# ARRWSP_129175 Length: 50
+# ARRWSP_129175 Number of predicted TMRs: 0
+ARRWSP_129175	inside	1	50				
+//
+# ARRWSP_146780 Length: 44
+# ARRWSP_146780 Number of predicted TMRs: 0
+ARRWSP_146780	signal	1	40				
+ARRWSP_146780	outside	41	44				
+//
+# ARRWSP_56190 Length: 39
+# ARRWSP_56190 Number of predicted TMRs: 0
+ARRWSP_56190	signal	1	37				
+ARRWSP_56190	outside	38	39				
+//
+# ARRWSP_164133 Length: 44
+# ARRWSP_164133 Number of predicted TMRs: 0
+ARRWSP_164133	inside	1	44				
+//
+# ARRWSP_138963 Length: 46
+# ARRWSP_138963 Number of predicted TMRs: 0
+ARRWSP_138963	signal	1	45				
+ARRWSP_138963	outside	46	46				
+//
+# ARRWSP_37348 Length: 49
+# ARRWSP_37348 Number of predicted TMRs: 0
+ARRWSP_37348	signal	1	12				
+ARRWSP_37348	outside	13	49				
+//
+# ARRWSP_22217 Length: 47
+# ARRWSP_22217 Number of predicted TMRs: 0
+ARRWSP_22217	inside	1	47				
+//
+# ARRWSP_52525 Length: 39
+# ARRWSP_52525 Number of predicted TMRs: 0
+ARRWSP_52525	signal	1	35				
+ARRWSP_52525	outside	36	39				
+//
+# ARRWSP_28046 Length: 49
+# ARRWSP_28046 Number of predicted TMRs: 0
+ARRWSP_28046	signal	1	14				
+ARRWSP_28046	outside	15	49				
+//
+# ARRWSP_73814 Length: 44
+# ARRWSP_73814 Number of predicted TMRs: 0
+ARRWSP_73814	signal	1	11				
+ARRWSP_73814	outside	12	44				
+//
+# ARRWSP_166684 Length: 43
+# ARRWSP_166684 Number of predicted TMRs: 0
+ARRWSP_166684	signal	1	35				
+ARRWSP_166684	outside	36	43				
+//
+# ARRWSP_159598 Length: 50
+# ARRWSP_159598 Number of predicted TMRs: 0
+ARRWSP_159598	signal	1	13				
+ARRWSP_159598	outside	14	50				
+//
+# ARRWSP_33404 Length: 40
+# ARRWSP_33404 Number of predicted TMRs: 0
+ARRWSP_33404	signal	1	39				
+ARRWSP_33404	outside	40	40				
+//
+# ARRWSP_79605 Length: 39
+# ARRWSP_79605 Number of predicted TMRs: 0
+ARRWSP_79605	signal	1	38				
+ARRWSP_79605	outside	39	39				
+//
+# ARRWSP_48776 Length: 46
+# ARRWSP_48776 Number of predicted TMRs: 0
+ARRWSP_48776	signal	1	10				
+ARRWSP_48776	outside	11	46				
+//
+# ARRWSP_114751 Length: 49
+# ARRWSP_114751 Number of predicted TMRs: 0
+ARRWSP_114751	signal	1	47				
+ARRWSP_114751	outside	48	49				
+//
+# ARRWSP_83296 Length: 33
+# ARRWSP_83296 Number of predicted TMRs: 0
+ARRWSP_83296	outside	1	33				
+//
+# ARRWSP_58888 Length: 39
+# ARRWSP_58888 Number of predicted TMRs: 0
+ARRWSP_58888	signal	1	17				
+ARRWSP_58888	outside	18	39				
+//
+# ARRWSP_41577 Length: 50
+# ARRWSP_41577 Number of predicted TMRs: 0
+ARRWSP_41577	signal	1	44				
+ARRWSP_41577	outside	45	50				
+//
+# ARRWSP_101797 Length: 49
+# ARRWSP_101797 Number of predicted TMRs: 0
+ARRWSP_101797	signal	1	46				
+ARRWSP_101797	outside	47	49				
+//
+# ARRWSP_37184 Length: 46
+# ARRWSP_37184 Number of predicted TMRs: 0
+ARRWSP_37184	signal	1	11				
+ARRWSP_37184	outside	12	46				
+//
+# ARRWSP_88694 Length: 49
+# ARRWSP_88694 Number of predicted TMRs: 0
+ARRWSP_88694	signal	1	37				
+ARRWSP_88694	outside	38	49				
+//
+# ARRWSP_29206 Length: 46
+# ARRWSP_29206 Number of predicted TMRs: 0
+ARRWSP_29206	signal	1	45				
+ARRWSP_29206	outside	46	46				
+//
+# ARRWSP_95322 Length: 46
+# ARRWSP_95322 Number of predicted TMRs: 0
+ARRWSP_95322	signal	1	16				
+ARRWSP_95322	outside	17	46				
+//
+# ARRWSP_92339 Length: 50
+# ARRWSP_92339 Number of predicted TMRs: 0
+ARRWSP_92339	signal	1	44				
+ARRWSP_92339	outside	45	50				
+//
+# ARRWSP_36384 Length: 49
+# ARRWSP_36384 Number of predicted TMRs: 0
+ARRWSP_36384	inside	1	49				
+//
+# ARRWSP_58123 Length: 36
+# ARRWSP_58123 Number of predicted TMRs: 0
+ARRWSP_58123	signal	1	12				
+ARRWSP_58123	outside	13	36				
+//
+# ARRWSP_156621 Length: 43
+# ARRWSP_156621 Number of predicted TMRs: 0
+ARRWSP_156621	signal	1	35				
+ARRWSP_156621	outside	36	43				
+//
+# ARRWSP_116201 Length: 48
+# ARRWSP_116201 Number of predicted TMRs: 0
+ARRWSP_116201	inside	1	48				
+//
+# ARRWSP_112420 Length: 38
+# ARRWSP_112420 Number of predicted TMRs: 0
+ARRWSP_112420	signal	1	21				
+ARRWSP_112420	outside	22	38				
+//
+# ARRWSP_122648 Length: 40
+# ARRWSP_122648 Number of predicted TMRs: 0
+ARRWSP_122648	signal	1	27				
+ARRWSP_122648	outside	28	40				
+//
+# ARRWSP_63859 Length: 47
+# ARRWSP_63859 Number of predicted TMRs: 0
+ARRWSP_63859	inside	1	47				
+//
+# ARRWSP_110891 Length: 35
+# ARRWSP_110891 Number of predicted TMRs: 0
+ARRWSP_110891	signal	1	34				
+ARRWSP_110891	outside	35	35				
+//
+# ARRWSP_23203 Length: 46
+# ARRWSP_23203 Number of predicted TMRs: 0
+ARRWSP_23203	signal	1	18				
+ARRWSP_23203	outside	19	46				
+//
+# ARRWSP_15055 Length: 42
+# ARRWSP_15055 Number of predicted TMRs: 0
+ARRWSP_15055	signal	1	41				
+ARRWSP_15055	outside	42	42				
+//
+# ARRWSP_132176 Length: 42
+# ARRWSP_132176 Number of predicted TMRs: 0
+ARRWSP_132176	inside	1	42				
+//
+# ARRWSP_60659 Length: 42
+# ARRWSP_60659 Number of predicted TMRs: 0
+ARRWSP_60659	signal	1	41				
+ARRWSP_60659	outside	42	42				
+//
+# ARRWSP_124789 Length: 42
+# ARRWSP_124789 Number of predicted TMRs: 0
+ARRWSP_124789	inside	1	42				
+//
+# ARRWSP_144035 Length: 42
+# ARRWSP_144035 Number of predicted TMRs: 0
+ARRWSP_144035	signal	1	40				
+ARRWSP_144035	outside	41	42				
+//
+# ARRWSP_120057 Length: 42
+# ARRWSP_120057 Number of predicted TMRs: 0
+ARRWSP_120057	inside	1	42				
+//
+# ARRWSP_75310 Length: 42
+# ARRWSP_75310 Number of predicted TMRs: 0
+ARRWSP_75310	inside	1	42				
+//
+# ARRWSP_148715 Length: 42
+# ARRWSP_148715 Number of predicted TMRs: 0
+ARRWSP_148715	inside	1	42				
+//
+# ARRWSP_128227 Length: 42
+# ARRWSP_128227 Number of predicted TMRs: 0
+ARRWSP_128227	inside	1	42				
+//
+# ARRWSP_165012 Length: 42
+# ARRWSP_165012 Number of predicted TMRs: 0
+ARRWSP_165012	signal	1	41				
+ARRWSP_165012	outside	42	42				
+//
+# ARRWSP_149829 Length: 42
+# ARRWSP_149829 Number of predicted TMRs: 0
+ARRWSP_149829	inside	1	42				
+//
+# ARRWSP_113845 Length: 42
+# ARRWSP_113845 Number of predicted TMRs: 0
+ARRWSP_113845	inside	1	42				
+//
+# ARRWSP_126416 Length: 42
+# ARRWSP_126416 Number of predicted TMRs: 0
+ARRWSP_126416	signal	1	41				
+ARRWSP_126416	outside	42	42				
+//
+# ARRWSP_29767 Length: 42
+# ARRWSP_29767 Number of predicted TMRs: 0
+ARRWSP_29767	signal	1	41				
+ARRWSP_29767	outside	42	42				
+//
+# ARRWSP_132110 Length: 42
+# ARRWSP_132110 Number of predicted TMRs: 0
+ARRWSP_132110	signal	1	41				
+ARRWSP_132110	outside	42	42				
+//
+# ARRWSP_16599 Length: 42
+# ARRWSP_16599 Number of predicted TMRs: 0
+ARRWSP_16599	signal	1	40				
+ARRWSP_16599	outside	41	42				
+//
+# ARRWSP_13188 Length: 42
+# ARRWSP_13188 Number of predicted TMRs: 0
+ARRWSP_13188	signal	1	41				
+ARRWSP_13188	outside	42	42				
+//
+# ARRWSP_119660 Length: 42
+# ARRWSP_119660 Number of predicted TMRs: 0
+ARRWSP_119660	signal	1	41				
+ARRWSP_119660	outside	42	42				
+//
+# ARRWSP_139973 Length: 42
+# ARRWSP_139973 Number of predicted TMRs: 0
+ARRWSP_139973	inside	1	42				
+//
+# ARRWSP_44238 Length: 42
+# ARRWSP_44238 Number of predicted TMRs: 0
+ARRWSP_44238	inside	1	42				
+//
+# ARRWSP_7710 Length: 42
+# ARRWSP_7710 Number of predicted TMRs: 0
+ARRWSP_7710	signal	1	41				
+ARRWSP_7710	outside	42	42				
+//
+# ARRWSP_93010 Length: 42
+# ARRWSP_93010 Number of predicted TMRs: 0
+ARRWSP_93010	signal	1	41				
+ARRWSP_93010	outside	42	42				
+//
+# ARRWSP_124797 Length: 42
+# ARRWSP_124797 Number of predicted TMRs: 0
+ARRWSP_124797	inside	1	42				
+//
+# ARRWSP_75041 Length: 42
+# ARRWSP_75041 Number of predicted TMRs: 0
+ARRWSP_75041	signal	1	41				
+ARRWSP_75041	outside	42	42				
+//
+# ARRWSP_165136 Length: 42
+# ARRWSP_165136 Number of predicted TMRs: 0
+ARRWSP_165136	inside	1	42				
+//
+# ARRWSP_96002 Length: 42
+# ARRWSP_96002 Number of predicted TMRs: 0
+ARRWSP_96002	inside	1	42				
+//
+# ARRWSP_162302 Length: 42
+# ARRWSP_162302 Number of predicted TMRs: 0
+ARRWSP_162302	inside	1	42				
+//
+# ARRWSP_44335 Length: 42
+# ARRWSP_44335 Number of predicted TMRs: 0
+ARRWSP_44335	signal	1	41				
+ARRWSP_44335	outside	42	42				
+//
+# ARRWSP_122470 Length: 42
+# ARRWSP_122470 Number of predicted TMRs: 0
+ARRWSP_122470	signal	1	41				
+ARRWSP_122470	outside	42	42				
+//
+# ARRWSP_56989 Length: 42
+# ARRWSP_56989 Number of predicted TMRs: 0
+ARRWSP_56989	signal	1	41				
+ARRWSP_56989	outside	42	42				
+//
+# ARRWSP_166139 Length: 42
+# ARRWSP_166139 Number of predicted TMRs: 0
+ARRWSP_166139	signal	1	41				
+ARRWSP_166139	outside	42	42				
+//
+# ARRWSP_29772 Length: 44
+# ARRWSP_29772 Number of predicted TMRs: 0
+ARRWSP_29772	signal	1	32				
+ARRWSP_29772	outside	33	44				
+//
+# ARRWSP_144299 Length: 42
+# ARRWSP_144299 Number of predicted TMRs: 0
+ARRWSP_144299	inside	1	42				
+//
+# ARRWSP_53306 Length: 42
+# ARRWSP_53306 Number of predicted TMRs: 0
+ARRWSP_53306	signal	1	41				
+ARRWSP_53306	outside	42	42				
+//
+# ARRWSP_116309 Length: 42
+# ARRWSP_116309 Number of predicted TMRs: 0
+ARRWSP_116309	signal	1	41				
+ARRWSP_116309	outside	42	42				
+//
+# ARRWSP_17132 Length: 42
+# ARRWSP_17132 Number of predicted TMRs: 0
+ARRWSP_17132	signal	1	41				
+ARRWSP_17132	outside	42	42				
+//
+# ARRWSP_91015 Length: 42
+# ARRWSP_91015 Number of predicted TMRs: 0
+ARRWSP_91015	signal	1	41				
+ARRWSP_91015	outside	42	42				
+//
+# ARRWSP_23102 Length: 38
+# ARRWSP_23102 Number of predicted TMRs: 0
+ARRWSP_23102	signal	1	10				
+ARRWSP_23102	outside	11	38				
+//
+# ARRWSP_140218 Length: 44
+# ARRWSP_140218 Number of predicted TMRs: 0
+ARRWSP_140218	inside	1	44				
+//
+# ARRWSP_28232 Length: 44
+# ARRWSP_28232 Number of predicted TMRs: 0
+ARRWSP_28232	signal	1	35				
+ARRWSP_28232	outside	36	44				
+//
+# ARRWSP_61563 Length: 48
+# ARRWSP_61563 Number of predicted TMRs: 0
+ARRWSP_61563	signal	1	38				
+ARRWSP_61563	outside	39	48				
+//
+# ARRWSP_143832 Length: 49
+# ARRWSP_143832 Number of predicted TMRs: 0
+ARRWSP_143832	inside	1	49				
+//
+# ARRWSP_2813 Length: 44
+# ARRWSP_2813 Number of predicted TMRs: 0
+ARRWSP_2813	signal	1	31				
+ARRWSP_2813	outside	32	44				
+//
+# ARRWSP_149601 Length: 42
+# ARRWSP_149601 Number of predicted TMRs: 0
+ARRWSP_149601	signal	1	28				
+ARRWSP_149601	outside	29	42				
+//
+# ARRWSP_125121 Length: 40
+# ARRWSP_125121 Number of predicted TMRs: 0
+ARRWSP_125121	inside	1	40				
+//
+# ARRWSP_55290 Length: 44
+# ARRWSP_55290 Number of predicted TMRs: 0
+ARRWSP_55290	signal	1	34				
+ARRWSP_55290	outside	35	44				
+//
+# ARRWSP_83239 Length: 38
+# ARRWSP_83239 Number of predicted TMRs: 0
+ARRWSP_83239	inside	1	38				
+//
+# ARRWSP_37409 Length: 46
+# ARRWSP_37409 Number of predicted TMRs: 0
+ARRWSP_37409	signal	1	10				
+ARRWSP_37409	outside	11	46				
+//
+# ARRWSP_93458 Length: 47
+# ARRWSP_93458 Number of predicted TMRs: 0
+ARRWSP_93458	inside	1	47				
+//
+# ARRWSP_145122 Length: 47
+# ARRWSP_145122 Number of predicted TMRs: 0
+ARRWSP_145122	inside	1	47				
+//
+# ARRWSP_133303 Length: 47
+# ARRWSP_133303 Number of predicted TMRs: 0
+ARRWSP_133303	inside	1	47				
+//
+# ARRWSP_67034 Length: 35
+# ARRWSP_67034 Number of predicted TMRs: 0
+ARRWSP_67034	signal	1	20				
+ARRWSP_67034	outside	21	35				
+//
+# ARRWSP_32135 Length: 38
+# ARRWSP_32135 Number of predicted TMRs: 0
+ARRWSP_32135	inside	1	38				
+//
+# ARRWSP_152884 Length: 50
+# ARRWSP_152884 Number of predicted TMRs: 0
+ARRWSP_152884	signal	1	38				
+ARRWSP_152884	outside	39	50				
+//
+# ARRWSP_94496 Length: 38
+# ARRWSP_94496 Number of predicted TMRs: 0
+ARRWSP_94496	outside	1	38				
+//
+# ARRWSP_44001 Length: 45
+# ARRWSP_44001 Number of predicted TMRs: 0
+ARRWSP_44001	inside	1	45				
+//
+# ARRWSP_14830 Length: 47
+# ARRWSP_14830 Number of predicted TMRs: 0
+ARRWSP_14830	signal	1	41				
+ARRWSP_14830	outside	42	47				
+//
+# ARRWSP_133154 Length: 35
+# ARRWSP_133154 Number of predicted TMRs: 0
+ARRWSP_133154	inside	1	35				
+//
+# ARRWSP_79564 Length: 49
+# ARRWSP_79564 Number of predicted TMRs: 0
+ARRWSP_79564	inside	1	49				
+//
+# ARRWSP_44666 Length: 48
+# ARRWSP_44666 Number of predicted TMRs: 0
+ARRWSP_44666	inside	1	48				
+//
+# ARRWSP_93537 Length: 45
+# ARRWSP_93537 Number of predicted TMRs: 0
+ARRWSP_93537	inside	1	45				
+//
+# ARRWSP_172045 Length: 41
+# ARRWSP_172045 Number of predicted TMRs: 0
+ARRWSP_172045	signal	1	40				
+ARRWSP_172045	outside	41	41				
+//
+# ARRWSP_172025 Length: 41
+# ARRWSP_172025 Number of predicted TMRs: 0
+ARRWSP_172025	inside	1	41				
+//
+# ARRWSP_165205 Length: 43
+# ARRWSP_165205 Number of predicted TMRs: 0
+ARRWSP_165205	inside	1	43				
+//
+# ARRWSP_9489 Length: 44
+# ARRWSP_9489 Number of predicted TMRs: 0
+ARRWSP_9489	signal	1	42				
+ARRWSP_9489	outside	43	44				
+//
+# ARRWSP_157925 Length: 45
+# ARRWSP_157925 Number of predicted TMRs: 0
+ARRWSP_157925	signal	1	18				
+ARRWSP_157925	outside	19	45				
+//
+# ARRWSP_134812 Length: 50
+# ARRWSP_134812 Number of predicted TMRs: 0
+ARRWSP_134812	inside	1	50				
+//
+# ARRWSP_118316 Length: 48
+# ARRWSP_118316 Number of predicted TMRs: 0
+ARRWSP_118316	inside	1	48				
+//
+# ARRWSP_138283 Length: 47
+# ARRWSP_138283 Number of predicted TMRs: 0
+ARRWSP_138283	inside	1	47				
+//
+# ARRWSP_99709 Length: 37
+# ARRWSP_99709 Number of predicted TMRs: 0
+ARRWSP_99709	signal	1	35				
+ARRWSP_99709	outside	36	37				
+//
+# ARRWSP_74478 Length: 43
+# ARRWSP_74478 Number of predicted TMRs: 0
+ARRWSP_74478	signal	1	15				
+ARRWSP_74478	outside	16	43				
+//
+# ARRWSP_47876 Length: 49
+# ARRWSP_47876 Number of predicted TMRs: 0
+ARRWSP_47876	inside	1	49				
+//
+# ARRWSP_95446 Length: 50
+# ARRWSP_95446 Number of predicted TMRs: 0
+ARRWSP_95446	inside	1	50				
+//
+# ARRWSP_30429 Length: 37
+# ARRWSP_30429 Number of predicted TMRs: 0
+ARRWSP_30429	signal	1	23				
+ARRWSP_30429	outside	24	37				
+//
+# ARRWSP_17733 Length: 39
+# ARRWSP_17733 Number of predicted TMRs: 0
+ARRWSP_17733	signal	1	26				
+ARRWSP_17733	outside	27	39				
+//
+# ARRWSP_18029 Length: 46
+# ARRWSP_18029 Number of predicted TMRs: 0
+ARRWSP_18029	signal	1	26				
+ARRWSP_18029	outside	27	46				
+//
+# ARRWSP_115908 Length: 41
+# ARRWSP_115908 Number of predicted TMRs: 0
+ARRWSP_115908	inside	1	41				
+//
+# ARRWSP_69016 Length: 49
+# ARRWSP_69016 Number of predicted TMRs: 0
+ARRWSP_69016	inside	1	49				
+//
+# ARRWSP_112390 Length: 47
+# ARRWSP_112390 Number of predicted TMRs: 0
+ARRWSP_112390	inside	1	47				
+//
+# ARRWSP_8339 Length: 45
+# ARRWSP_8339 Number of predicted TMRs: 0
+ARRWSP_8339	signal	1	44				
+ARRWSP_8339	outside	45	45				
+//
+# ARRWSP_67234 Length: 41
+# ARRWSP_67234 Number of predicted TMRs: 0
+ARRWSP_67234	inside	1	41				
+//
+# ARRWSP_169026 Length: 41
+# ARRWSP_169026 Number of predicted TMRs: 0
+ARRWSP_169026	inside	1	41				
+//
+# ARRWSP_96908 Length: 39
+# ARRWSP_96908 Number of predicted TMRs: 0
+ARRWSP_96908	signal	1	10				
+ARRWSP_96908	outside	11	39				
+//
+# ARRWSP_137506 Length: 34
+# ARRWSP_137506 Number of predicted TMRs: 0
+ARRWSP_137506	signal	1	33				
+ARRWSP_137506	outside	34	34				
+//
+# ARRWSP_21257 Length: 47
+# ARRWSP_21257 Number of predicted TMRs: 0
+ARRWSP_21257	signal	1	10				
+ARRWSP_21257	outside	11	47				
+//
+# ARRWSP_72881 Length: 50
+# ARRWSP_72881 Number of predicted TMRs: 0
+ARRWSP_72881	inside	1	50				
+//
+# ARRWSP_41372 Length: 50
+# ARRWSP_41372 Number of predicted TMRs: 0
+ARRWSP_41372	outside	1	50				
+//
+# ARRWSP_121144 Length: 48
+# ARRWSP_121144 Number of predicted TMRs: 0
+ARRWSP_121144	inside	1	48				
+//
+# ARRWSP_2190 Length: 46
+# ARRWSP_2190 Number of predicted TMRs: 0
+ARRWSP_2190	inside	1	46				
+//
+# ARRWSP_126440 Length: 39
+# ARRWSP_126440 Number of predicted TMRs: 0
+ARRWSP_126440	outside	1	39				
+//
+# ARRWSP_114217 Length: 49
+# ARRWSP_114217 Number of predicted TMRs: 0
+ARRWSP_114217	inside	1	49				
+//
+# ARRWSP_168643 Length: 41
+# ARRWSP_168643 Number of predicted TMRs: 0
+ARRWSP_168643	signal	1	32				
+ARRWSP_168643	outside	33	41				
+//
+# ARRWSP_17065 Length: 47
+# ARRWSP_17065 Number of predicted TMRs: 0
+ARRWSP_17065	signal	1	28				
+ARRWSP_17065	outside	29	47				
+//
+# ARRWSP_49440 Length: 41
+# ARRWSP_49440 Number of predicted TMRs: 0
+ARRWSP_49440	signal	1	36				
+ARRWSP_49440	outside	37	41				
+//
+# ARRWSP_119042 Length: 41
+# ARRWSP_119042 Number of predicted TMRs: 0
+ARRWSP_119042	signal	1	32				
+ARRWSP_119042	outside	33	41				
+//
+# ARRWSP_21040 Length: 48
+# ARRWSP_21040 Number of predicted TMRs: 0
+ARRWSP_21040	inside	1	48				
+//
+# ARRWSP_122698 Length: 41
+# ARRWSP_122698 Number of predicted TMRs: 0
+ARRWSP_122698	outside	1	41				
+//
+# ARRWSP_106935 Length: 40
+# ARRWSP_106935 Number of predicted TMRs: 0
+ARRWSP_106935	signal	1	14				
+ARRWSP_106935	outside	15	40				
+//
+# ARRWSP_54142 Length: 46
+# ARRWSP_54142 Number of predicted TMRs: 0
+ARRWSP_54142	inside	1	46				
+//
+# ARRWSP_21411 Length: 29
+# ARRWSP_21411 Number of predicted TMRs: 0
+ARRWSP_21411	signal	1	28				
+ARRWSP_21411	outside	29	29				
+//
+# ARRWSP_55523 Length: 50
+# ARRWSP_55523 Number of predicted TMRs: 0
+ARRWSP_55523	signal	1	43				
+ARRWSP_55523	outside	44	50				
+//
+# ARRWSP_62261 Length: 42
+# ARRWSP_62261 Number of predicted TMRs: 0
+ARRWSP_62261	inside	1	42				
+//
+# ARRWSP_90726 Length: 42
+# ARRWSP_90726 Number of predicted TMRs: 0
+ARRWSP_90726	signal	1	27				
+ARRWSP_90726	outside	28	42				
+//
+# ARRWSP_14623 Length: 47
+# ARRWSP_14623 Number of predicted TMRs: 0
+ARRWSP_14623	inside	1	47				
+//
+# ARRWSP_127979 Length: 45
+# ARRWSP_127979 Number of predicted TMRs: 0
+ARRWSP_127979	inside	1	45				
+//
+# ARRWSP_42474 Length: 50
+# ARRWSP_42474 Number of predicted TMRs: 0
+ARRWSP_42474	inside	1	50				
+//
+# ARRWSP_69451 Length: 49
+# ARRWSP_69451 Number of predicted TMRs: 0
+ARRWSP_69451	signal	1	47				
+ARRWSP_69451	outside	48	49				
+//
+# ARRWSP_65011 Length: 37
+# ARRWSP_65011 Number of predicted TMRs: 0
+ARRWSP_65011	inside	1	37				
+//
+# ARRWSP_263 Length: 41
+# ARRWSP_263 Number of predicted TMRs: 0
+ARRWSP_263	inside	1	41				
+//
+# ARRWSP_169410 Length: 44
+# ARRWSP_169410 Number of predicted TMRs: 0
+ARRWSP_169410	inside	1	44				
+//
+# ARRWSP_170793 Length: 46
+# ARRWSP_170793 Number of predicted TMRs: 0
+ARRWSP_170793	inside	1	46				
+//
+# ARRWSP_42729 Length: 50
+# ARRWSP_42729 Number of predicted TMRs: 0
+ARRWSP_42729	signal	1	12				
+ARRWSP_42729	outside	13	50				
+//
+# ARRWSP_61430 Length: 50
+# ARRWSP_61430 Number of predicted TMRs: 0
+ARRWSP_61430	inside	1	50				
+//
+# ARRWSP_16147 Length: 39
+# ARRWSP_16147 Number of predicted TMRs: 0
+ARRWSP_16147	inside	1	39				
+//
+# ARRWSP_22294 Length: 50
+# ARRWSP_22294 Number of predicted TMRs: 0
+ARRWSP_22294	outside	1	50				
+//
+# ARRWSP_74 Length: 41
+# ARRWSP_74 Number of predicted TMRs: 0
+ARRWSP_74	signal	1	13				
+ARRWSP_74	outside	14	41				
+//
+# ARRWSP_51135 Length: 40
+# ARRWSP_51135 Number of predicted TMRs: 0
+ARRWSP_51135	inside	1	40				
+//
+# ARRWSP_121700 Length: 45
+# ARRWSP_121700 Number of predicted TMRs: 0
+ARRWSP_121700	signal	1	41				
+ARRWSP_121700	outside	42	45				
+//
+# ARRWSP_26200 Length: 42
+# ARRWSP_26200 Number of predicted TMRs: 0
+ARRWSP_26200	outside	1	42				
+//
+# ARRWSP_105504 Length: 41
+# ARRWSP_105504 Number of predicted TMRs: 0
+ARRWSP_105504	signal	1	40				
+ARRWSP_105504	outside	41	41				
+//
+# ARRWSP_144574 Length: 37
+# ARRWSP_144574 Number of predicted TMRs: 0
+ARRWSP_144574	signal	1	30				
+ARRWSP_144574	outside	31	37				
+//
+# ARRWSP_129358 Length: 46
+# ARRWSP_129358 Number of predicted TMRs: 0
+ARRWSP_129358	inside	1	46				
+//
+# ARRWSP_123518 Length: 45
+# ARRWSP_123518 Number of predicted TMRs: 0
+ARRWSP_123518	signal	1	24				
+ARRWSP_123518	outside	25	45				
+//
+# ARRWSP_99239 Length: 50
+# ARRWSP_99239 Number of predicted TMRs: 0
+ARRWSP_99239	inside	1	50				
+//
+# ARRWSP_141656 Length: 49
+# ARRWSP_141656 Number of predicted TMRs: 0
+ARRWSP_141656	outside	1	49				
+//
+# ARRWSP_112436 Length: 41
+# ARRWSP_112436 Number of predicted TMRs: 0
+ARRWSP_112436	signal	1	29				
+ARRWSP_112436	outside	30	41				
+//
+# ARRWSP_135177 Length: 46
+# ARRWSP_135177 Number of predicted TMRs: 0
+ARRWSP_135177	signal	1	45				
+ARRWSP_135177	outside	46	46				
+//
+# ARRWSP_38017 Length: 49
+# ARRWSP_38017 Number of predicted TMRs: 0
+ARRWSP_38017	signal	1	23				
+ARRWSP_38017	outside	24	49				
+//
+# ARRWSP_103751 Length: 44
+# ARRWSP_103751 Number of predicted TMRs: 0
+ARRWSP_103751	inside	1	44				
+//
+# ARRWSP_32562 Length: 44
+# ARRWSP_32562 Number of predicted TMRs: 0
+ARRWSP_32562	inside	1	44				
+//
+# ARRWSP_168134 Length: 44
+# ARRWSP_168134 Number of predicted TMRs: 0
+ARRWSP_168134	signal	1	43				
+ARRWSP_168134	outside	44	44				
+//
+# ARRWSP_168501 Length: 46
+# ARRWSP_168501 Number of predicted TMRs: 0
+ARRWSP_168501	inside	1	46				
+//
+# ARRWSP_40738 Length: 44
+# ARRWSP_40738 Number of predicted TMRs: 0
+ARRWSP_40738	inside	1	44				
+//
+# ARRWSP_6766 Length: 42
+# ARRWSP_6766 Number of predicted TMRs: 0
+ARRWSP_6766	signal	1	32				
+ARRWSP_6766	outside	33	42				
+//
+# ARRWSP_73312 Length: 45
+# ARRWSP_73312 Number of predicted TMRs: 0
+ARRWSP_73312	inside	1	45				
+//
+# ARRWSP_84213 Length: 42
+# ARRWSP_84213 Number of predicted TMRs: 0
+ARRWSP_84213	signal	1	41				
+ARRWSP_84213	outside	42	42				
+//
+# ARRWSP_77147 Length: 41
+# ARRWSP_77147 Number of predicted TMRs: 0
+ARRWSP_77147	inside	1	41				
+//
+# ARRWSP_92784 Length: 43
+# ARRWSP_92784 Number of predicted TMRs: 0
+ARRWSP_92784	signal	1	18				
+ARRWSP_92784	outside	19	43				
+//
+# ARRWSP_154412 Length: 46
+# ARRWSP_154412 Number of predicted TMRs: 0
+ARRWSP_154412	inside	1	46				
+//
+# ARRWSP_7930 Length: 48
+# ARRWSP_7930 Number of predicted TMRs: 0
+ARRWSP_7930	inside	1	48				
+//
+# ARRWSP_136447 Length: 43
+# ARRWSP_136447 Number of predicted TMRs: 0
+ARRWSP_136447	signal	1	38				
+ARRWSP_136447	outside	39	43				
+//
+# ARRWSP_10920 Length: 48
+# ARRWSP_10920 Number of predicted TMRs: 0
+ARRWSP_10920	inside	1	48				
+//
+# ARRWSP_101241 Length: 46
+# ARRWSP_101241 Number of predicted TMRs: 0
+ARRWSP_101241	inside	1	46				
+//
+# ARRWSP_144693 Length: 44
+# ARRWSP_144693 Number of predicted TMRs: 0
+ARRWSP_144693	signal	1	32				
+ARRWSP_144693	outside	33	44				
+//
+# ARRWSP_30014 Length: 35
+# ARRWSP_30014 Number of predicted TMRs: 0
+ARRWSP_30014	inside	1	35				
+//
+# ARRWSP_97722 Length: 45
+# ARRWSP_97722 Number of predicted TMRs: 0
+ARRWSP_97722	inside	1	45				
+//
+# ARRWSP_45732 Length: 44
+# ARRWSP_45732 Number of predicted TMRs: 0
+ARRWSP_45732	signal	1	43				
+ARRWSP_45732	outside	44	44				
+//
+# ARRWSP_138466 Length: 49
+# ARRWSP_138466 Number of predicted TMRs: 0
+ARRWSP_138466	inside	1	49				
+//
+# ARRWSP_133712 Length: 49
+# ARRWSP_133712 Number of predicted TMRs: 0
+ARRWSP_133712	signal	1	40				
+ARRWSP_133712	outside	41	49				
+//
+# ARRWSP_44203 Length: 40
+# ARRWSP_44203 Number of predicted TMRs: 0
+ARRWSP_44203	signal	1	10				
+ARRWSP_44203	outside	11	40				
+//
+# ARRWSP_135000 Length: 43
+# ARRWSP_135000 Number of predicted TMRs: 0
+ARRWSP_135000	inside	1	43				
+//
+# ARRWSP_168268 Length: 45
+# ARRWSP_168268 Number of predicted TMRs: 0
+ARRWSP_168268	inside	1	45				
+//
+# ARRWSP_70267 Length: 46
+# ARRWSP_70267 Number of predicted TMRs: 0
+ARRWSP_70267	signal	1	43				
+ARRWSP_70267	outside	44	46				
+//
+# ARRWSP_53989 Length: 49
+# ARRWSP_53989 Number of predicted TMRs: 0
+ARRWSP_53989	signal	1	22				
+ARRWSP_53989	outside	23	49				
+//
+# ARRWSP_26685 Length: 50
+# ARRWSP_26685 Number of predicted TMRs: 0
+ARRWSP_26685	inside	1	50				
+//
+# ARRWSP_132232 Length: 46
+# ARRWSP_132232 Number of predicted TMRs: 0
+ARRWSP_132232	inside	1	46				
+//
+# ARRWSP_129845 Length: 48
+# ARRWSP_129845 Number of predicted TMRs: 0
+ARRWSP_129845	inside	1	48				
+//
+# ARRWSP_46282 Length: 47
+# ARRWSP_46282 Number of predicted TMRs: 0
+ARRWSP_46282	signal	1	41				
+ARRWSP_46282	outside	42	47				
+//
+# ARRWSP_55768 Length: 46
+# ARRWSP_55768 Number of predicted TMRs: 1
+ARRWSP_55768	signal	1	10				
+ARRWSP_55768	outside	11	11				
+ARRWSP_55768	TMhelix	12	32				
+ARRWSP_55768	inside	33	46				
+//
+# ARRWSP_93139 Length: 41
+# ARRWSP_93139 Number of predicted TMRs: 0
+ARRWSP_93139	inside	1	41				
+//
+# ARRWSP_100416 Length: 46
+# ARRWSP_100416 Number of predicted TMRs: 0
+ARRWSP_100416	inside	1	46				
+//
+# ARRWSP_18351 Length: 37
+# ARRWSP_18351 Number of predicted TMRs: 0
+ARRWSP_18351	signal	1	34				
+ARRWSP_18351	outside	35	37				
+//
+# ARRWSP_87116 Length: 48
+# ARRWSP_87116 Number of predicted TMRs: 0
+ARRWSP_87116	inside	1	48				
+//
+# ARRWSP_137910 Length: 39
+# ARRWSP_137910 Number of predicted TMRs: 0
+ARRWSP_137910	signal	1	19				
+ARRWSP_137910	outside	20	39				
+//
+# ARRWSP_166227 Length: 37
+# ARRWSP_166227 Number of predicted TMRs: 0
+ARRWSP_166227	signal	1	11				
+ARRWSP_166227	outside	12	37				
+//
+# ARRWSP_141130 Length: 50
+# ARRWSP_141130 Number of predicted TMRs: 0
+ARRWSP_141130	outside	1	50				
+//
+# ARRWSP_138367 Length: 39
+# ARRWSP_138367 Number of predicted TMRs: 0
+ARRWSP_138367	signal	1	38				
+ARRWSP_138367	outside	39	39				
+//
+# ARRWSP_89658 Length: 42
+# ARRWSP_89658 Number of predicted TMRs: 0
+ARRWSP_89658	inside	1	42				
+//
+# ARRWSP_96814 Length: 47
+# ARRWSP_96814 Number of predicted TMRs: 0
+ARRWSP_96814	signal	1	44				
+ARRWSP_96814	outside	45	47				
+//
+# ARRWSP_51301 Length: 37
+# ARRWSP_51301 Number of predicted TMRs: 0
+ARRWSP_51301	inside	1	37				
+//
+# ARRWSP_102408 Length: 47
+# ARRWSP_102408 Number of predicted TMRs: 0
+ARRWSP_102408	signal	1	46				
+ARRWSP_102408	outside	47	47				
+//
+# ARRWSP_12952 Length: 49
+# ARRWSP_12952 Number of predicted TMRs: 0
+ARRWSP_12952	inside	1	49				
+//
+# ARRWSP_91568 Length: 47
+# ARRWSP_91568 Number of predicted TMRs: 0
+ARRWSP_91568	inside	1	47				
+//
+# ARRWSP_53514 Length: 47
+# ARRWSP_53514 Number of predicted TMRs: 0
+ARRWSP_53514	signal	1	18				
+ARRWSP_53514	outside	19	47				
+//
+# ARRWSP_103796 Length: 50
+# ARRWSP_103796 Number of predicted TMRs: 0
+ARRWSP_103796	inside	1	50				
+//
+# ARRWSP_163260 Length: 47
+# ARRWSP_163260 Number of predicted TMRs: 0
+ARRWSP_163260	signal	1	14				
+ARRWSP_163260	outside	15	47				
+//
+# ARRWSP_101792 Length: 46
+# ARRWSP_101792 Number of predicted TMRs: 0
+ARRWSP_101792	inside	1	46				
+//
+# ARRWSP_61445 Length: 44
+# ARRWSP_61445 Number of predicted TMRs: 0
+ARRWSP_61445	inside	1	44				
+//
+# ARRWSP_140618 Length: 44
+# ARRWSP_140618 Number of predicted TMRs: 0
+ARRWSP_140618	signal	1	43				
+ARRWSP_140618	outside	44	44				
+//
+# ARRWSP_51956 Length: 50
+# ARRWSP_51956 Number of predicted TMRs: 0
+ARRWSP_51956	inside	1	50				
+//
+# ARRWSP_123958 Length: 40
+# ARRWSP_123958 Number of predicted TMRs: 0
+ARRWSP_123958	signal	1	35				
+ARRWSP_123958	outside	36	40				
+//
+# ARRWSP_86889 Length: 39
+# ARRWSP_86889 Number of predicted TMRs: 0
+ARRWSP_86889	inside	1	39				
+//
+# ARRWSP_87767 Length: 49
+# ARRWSP_87767 Number of predicted TMRs: 0
+ARRWSP_87767	inside	1	49				
+//
+# ARRWSP_152798 Length: 37
+# ARRWSP_152798 Number of predicted TMRs: 0
+ARRWSP_152798	inside	1	37				
+//
+# ARRWSP_144952 Length: 45
+# ARRWSP_144952 Number of predicted TMRs: 0
+ARRWSP_144952	inside	1	45				
+//
+# ARRWSP_4826 Length: 46
+# ARRWSP_4826 Number of predicted TMRs: 0
+ARRWSP_4826	inside	1	46				
+//
+# ARRWSP_93877 Length: 34
+# ARRWSP_93877 Number of predicted TMRs: 0
+ARRWSP_93877	inside	1	34				
+//
+# ARRWSP_141956 Length: 47
+# ARRWSP_141956 Number of predicted TMRs: 0
+ARRWSP_141956	inside	1	47				
+//
+# ARRWSP_13595 Length: 46
+# ARRWSP_13595 Number of predicted TMRs: 0
+ARRWSP_13595	signal	1	26				
+ARRWSP_13595	outside	27	46				
+//
+# ARRWSP_25529 Length: 47
+# ARRWSP_25529 Number of predicted TMRs: 0
+ARRWSP_25529	inside	1	47				
+//
+# ARRWSP_38921 Length: 46
+# ARRWSP_38921 Number of predicted TMRs: 0
+ARRWSP_38921	signal	1	23				
+ARRWSP_38921	outside	24	46				
+//
+# ARRWSP_34957 Length: 37
+# ARRWSP_34957 Number of predicted TMRs: 0
+ARRWSP_34957	signal	1	13				
+ARRWSP_34957	outside	14	37				
+//
+# ARRWSP_36604 Length: 49
+# ARRWSP_36604 Number of predicted TMRs: 0
+ARRWSP_36604	signal	1	13				
+ARRWSP_36604	outside	14	49				
+//
+# ARRWSP_113585 Length: 49
+# ARRWSP_113585 Number of predicted TMRs: 0
+ARRWSP_113585	signal	1	14				
+ARRWSP_113585	outside	15	49				
+//
+# ARRWSP_80962 Length: 18
+# ARRWSP_80962 Number of predicted TMRs: 0
+ARRWSP_80962	signal	1	12				
+ARRWSP_80962	outside	13	18				
+//
+# ARRWSP_25321 Length: 37
+# ARRWSP_25321 Number of predicted TMRs: 0
+ARRWSP_25321	signal	1	35				
+ARRWSP_25321	outside	36	37				
+//
+# ARRWSP_73606 Length: 45
+# ARRWSP_73606 Number of predicted TMRs: 0
+ARRWSP_73606	inside	1	45				
+//
+# ARRWSP_107587 Length: 44
+# ARRWSP_107587 Number of predicted TMRs: 0
+ARRWSP_107587	signal	1	20				
+ARRWSP_107587	outside	21	44				
+//
+# ARRWSP_120544 Length: 34
+# ARRWSP_120544 Number of predicted TMRs: 0
+ARRWSP_120544	signal	1	19				
+ARRWSP_120544	outside	20	34				
+//
+# ARRWSP_96783 Length: 47
+# ARRWSP_96783 Number of predicted TMRs: 0
+ARRWSP_96783	inside	1	47				
+//
+# ARRWSP_144323 Length: 49
+# ARRWSP_144323 Number of predicted TMRs: 0
+ARRWSP_144323	inside	1	49				
+//
+# ARRWSP_163249 Length: 43
+# ARRWSP_163249 Number of predicted TMRs: 0
+ARRWSP_163249	signal	1	13				
+ARRWSP_163249	outside	14	43				
+//
+# ARRWSP_113492 Length: 48
+# ARRWSP_113492 Number of predicted TMRs: 1
+ARRWSP_113492	outside	1	14				
+ARRWSP_113492	TMhelix	15	35				
+ARRWSP_113492	inside	36	48				
+//
+# ARRWSP_127694 Length: 36
+# ARRWSP_127694 Number of predicted TMRs: 0
+ARRWSP_127694	inside	1	36				
+//
+# ARRWSP_142628 Length: 48
+# ARRWSP_142628 Number of predicted TMRs: 0
+ARRWSP_142628	inside	1	48				
+//
+# ARRWSP_80806 Length: 48
+# ARRWSP_80806 Number of predicted TMRs: 0
+ARRWSP_80806	inside	1	48				
+//
+# ARRWSP_69229 Length: 44
+# ARRWSP_69229 Number of predicted TMRs: 0
+ARRWSP_69229	inside	1	44				
+//
+# ARRWSP_128799 Length: 34
+# ARRWSP_128799 Number of predicted TMRs: 0
+ARRWSP_128799	signal	1	27				
+ARRWSP_128799	outside	28	34				
+//
+# ARRWSP_110449 Length: 43
+# ARRWSP_110449 Number of predicted TMRs: 0
+ARRWSP_110449	inside	1	43				
+//
+# ARRWSP_85923 Length: 48
+# ARRWSP_85923 Number of predicted TMRs: 0
+ARRWSP_85923	signal	1	47				
+ARRWSP_85923	outside	48	48				
+//
+# ARRWSP_116206 Length: 49
+# ARRWSP_116206 Number of predicted TMRs: 0
+ARRWSP_116206	inside	1	49				
+//
+# ARRWSP_19110 Length: 45
+# ARRWSP_19110 Number of predicted TMRs: 0
+ARRWSP_19110	inside	1	45				
+//
+# ARRWSP_166460 Length: 44
+# ARRWSP_166460 Number of predicted TMRs: 0
+ARRWSP_166460	signal	1	21				
+ARRWSP_166460	outside	22	44				
+//
+# ARRWSP_639 Length: 45
+# ARRWSP_639 Number of predicted TMRs: 0
+ARRWSP_639	inside	1	45				
+//
+# ARRWSP_144329 Length: 49
+# ARRWSP_144329 Number of predicted TMRs: 0
+ARRWSP_144329	inside	1	49				
+//
+# ARRWSP_144567 Length: 45
+# ARRWSP_144567 Number of predicted TMRs: 0
+ARRWSP_144567	signal	1	20				
+ARRWSP_144567	outside	21	45				
+//
+# ARRWSP_83217 Length: 46
+# ARRWSP_83217 Number of predicted TMRs: 0
+ARRWSP_83217	signal	1	45				
+ARRWSP_83217	outside	46	46				
+//
+# ARRWSP_17524 Length: 46
+# ARRWSP_17524 Number of predicted TMRs: 0
+ARRWSP_17524	signal	1	45				
+ARRWSP_17524	outside	46	46				
+//
+# ARRWSP_121597 Length: 50
+# ARRWSP_121597 Number of predicted TMRs: 0
+ARRWSP_121597	signal	1	48				
+ARRWSP_121597	outside	49	50				
+//
+# ARRWSP_138736 Length: 47
+# ARRWSP_138736 Number of predicted TMRs: 0
+ARRWSP_138736	signal	1	45				
+ARRWSP_138736	outside	46	47				
+//
+# ARRWSP_139833 Length: 42
+# ARRWSP_139833 Number of predicted TMRs: 0
+ARRWSP_139833	inside	1	42				
+//
+# ARRWSP_162587 Length: 41
+# ARRWSP_162587 Number of predicted TMRs: 0
+ARRWSP_162587	inside	1	41				
+//
+# ARRWSP_166952 Length: 44
+# ARRWSP_166952 Number of predicted TMRs: 0
+ARRWSP_166952	inside	1	44				
+//
+# ARRWSP_100130 Length: 50
+# ARRWSP_100130 Number of predicted TMRs: 0
+ARRWSP_100130	signal	1	17				
+ARRWSP_100130	outside	18	50				
+//
+# ARRWSP_32760 Length: 36
+# ARRWSP_32760 Number of predicted TMRs: 0
+ARRWSP_32760	inside	1	36				
+//
+# ARRWSP_100540 Length: 48
+# ARRWSP_100540 Number of predicted TMRs: 0
+ARRWSP_100540	inside	1	48				
+//
+# ARRWSP_38791 Length: 47
+# ARRWSP_38791 Number of predicted TMRs: 0
+ARRWSP_38791	signal	1	35				
+ARRWSP_38791	outside	36	47				
+//
+# ARRWSP_125455 Length: 48
+# ARRWSP_125455 Number of predicted TMRs: 0
+ARRWSP_125455	inside	1	48				
+//
+# ARRWSP_13344 Length: 48
+# ARRWSP_13344 Number of predicted TMRs: 0
+ARRWSP_13344	inside	1	48				
+//
+# ARRWSP_168516 Length: 40
+# ARRWSP_168516 Number of predicted TMRs: 0
+ARRWSP_168516	signal	1	39				
+ARRWSP_168516	outside	40	40				
+//
+# ARRWSP_31567 Length: 42
+# ARRWSP_31567 Number of predicted TMRs: 0
+ARRWSP_31567	signal	1	35				
+ARRWSP_31567	outside	36	42				
+//
+# ARRWSP_2896 Length: 50
+# ARRWSP_2896 Number of predicted TMRs: 0
+ARRWSP_2896	inside	1	50				
+//
+# ARRWSP_97042 Length: 46
+# ARRWSP_97042 Number of predicted TMRs: 0
+ARRWSP_97042	inside	1	46				
+//
+# ARRWSP_142424 Length: 46
+# ARRWSP_142424 Number of predicted TMRs: 0
+ARRWSP_142424	inside	1	46				
+//
+# ARRWSP_126482 Length: 46
+# ARRWSP_126482 Number of predicted TMRs: 0
+ARRWSP_126482	inside	1	46				
+//
+# ARRWSP_121402 Length: 39
+# ARRWSP_121402 Number of predicted TMRs: 0
+ARRWSP_121402	inside	1	39				
+//
+# ARRWSP_171168 Length: 44
+# ARRWSP_171168 Number of predicted TMRs: 0
+ARRWSP_171168	signal	1	43				
+ARRWSP_171168	outside	44	44				
+//
+# ARRWSP_124218 Length: 48
+# ARRWSP_124218 Number of predicted TMRs: 0
+ARRWSP_124218	signal	1	46				
+ARRWSP_124218	outside	47	48				
+//
+# ARRWSP_95979 Length: 47
+# ARRWSP_95979 Number of predicted TMRs: 0
+ARRWSP_95979	signal	1	16				
+ARRWSP_95979	outside	17	47				
+//
+# ARRWSP_6307 Length: 48
+# ARRWSP_6307 Number of predicted TMRs: 0
+ARRWSP_6307	inside	1	48				
+//
+# ARRWSP_2753 Length: 36
+# ARRWSP_2753 Number of predicted TMRs: 0
+ARRWSP_2753	signal	1	34				
+ARRWSP_2753	outside	35	36				
+//
+# ARRWSP_101115 Length: 24
+# ARRWSP_101115 Number of predicted TMRs: 0
+ARRWSP_101115	inside	1	24				
+//
+# ARRWSP_112347 Length: 33
+# ARRWSP_112347 Number of predicted TMRs: 0
+ARRWSP_112347	signal	1	32				
+ARRWSP_112347	outside	33	33				
+//
+# ARRWSP_110202 Length: 44
+# ARRWSP_110202 Number of predicted TMRs: 0
+ARRWSP_110202	inside	1	44				
+//
+# ARRWSP_147743 Length: 40
+# ARRWSP_147743 Number of predicted TMRs: 0
+ARRWSP_147743	signal	1	39				
+ARRWSP_147743	outside	40	40				
+//
+# ARRWSP_1231 Length: 35
+# ARRWSP_1231 Number of predicted TMRs: 0
+ARRWSP_1231	signal	1	18				
+ARRWSP_1231	outside	19	35				
+//
+# ARRWSP_29405 Length: 47
+# ARRWSP_29405 Number of predicted TMRs: 0
+ARRWSP_29405	signal	1	10				
+ARRWSP_29405	outside	11	47				
+//
+# ARRWSP_74479 Length: 42
+# ARRWSP_74479 Number of predicted TMRs: 0
+ARRWSP_74479	inside	1	42				
+//
+# ARRWSP_35963 Length: 39
+# ARRWSP_35963 Number of predicted TMRs: 0
+ARRWSP_35963	inside	1	39				
+//
+# ARRWSP_81954 Length: 44
+# ARRWSP_81954 Number of predicted TMRs: 0
+ARRWSP_81954	signal	1	10				
+ARRWSP_81954	outside	11	44				
+//
+# ARRWSP_76719 Length: 41
+# ARRWSP_76719 Number of predicted TMRs: 0
+ARRWSP_76719	signal	1	33				
+ARRWSP_76719	outside	34	41				
+//
+# ARRWSP_41030 Length: 42
+# ARRWSP_41030 Number of predicted TMRs: 0
+ARRWSP_41030	inside	1	42				
+//
+# ARRWSP_132965 Length: 48
+# ARRWSP_132965 Number of predicted TMRs: 0
+ARRWSP_132965	inside	1	48				
+//
+# ARRWSP_42350 Length: 45
+# ARRWSP_42350 Number of predicted TMRs: 0
+ARRWSP_42350	inside	1	45				
+//
+# ARRWSP_115135 Length: 39
+# ARRWSP_115135 Number of predicted TMRs: 0
+ARRWSP_115135	inside	1	39				
+//
+# ARRWSP_122744 Length: 44
+# ARRWSP_122744 Number of predicted TMRs: 0
+ARRWSP_122744	inside	1	44				
+//
+# ARRWSP_75075 Length: 49
+# ARRWSP_75075 Number of predicted TMRs: 0
+ARRWSP_75075	inside	1	49				
+//
+# ARRWSP_35256 Length: 45
+# ARRWSP_35256 Number of predicted TMRs: 0
+ARRWSP_35256	inside	1	45				
+//
+# ARRWSP_95270 Length: 48
+# ARRWSP_95270 Number of predicted TMRs: 0
+ARRWSP_95270	signal	1	12				
+ARRWSP_95270	outside	13	48				
+//
+# ARRWSP_37753 Length: 49
+# ARRWSP_37753 Number of predicted TMRs: 0
+ARRWSP_37753	inside	1	49				
+//
+# ARRWSP_16700 Length: 48
+# ARRWSP_16700 Number of predicted TMRs: 0
+ARRWSP_16700	inside	1	48				
+//
+# ARRWSP_75678 Length: 37
+# ARRWSP_75678 Number of predicted TMRs: 0
+ARRWSP_75678	inside	1	37				
+//
+# ARRWSP_61951 Length: 32
+# ARRWSP_61951 Number of predicted TMRs: 0
+ARRWSP_61951	signal	1	31				
+ARRWSP_61951	outside	32	32				
+//
+# ARRWSP_149255 Length: 46
+# ARRWSP_149255 Number of predicted TMRs: 0
+ARRWSP_149255	inside	1	46				
+//
+# ARRWSP_87399 Length: 50
+# ARRWSP_87399 Number of predicted TMRs: 0
+ARRWSP_87399	signal	1	45				
+ARRWSP_87399	outside	46	50				
+//
+# ARRWSP_110076 Length: 43
+# ARRWSP_110076 Number of predicted TMRs: 0
+ARRWSP_110076	inside	1	43				
+//
+# ARRWSP_157007 Length: 37
+# ARRWSP_157007 Number of predicted TMRs: 0
+ARRWSP_157007	inside	1	37				
+//
+# ARRWSP_17734 Length: 44
+# ARRWSP_17734 Number of predicted TMRs: 0
+ARRWSP_17734	inside	1	44				
+//
+# ARRWSP_68926 Length: 48
+# ARRWSP_68926 Number of predicted TMRs: 0
+ARRWSP_68926	inside	1	48				
+//
+# ARRWSP_156702 Length: 44
+# ARRWSP_156702 Number of predicted TMRs: 0
+ARRWSP_156702	inside	1	44				
+//
+# ARRWSP_147132 Length: 37
+# ARRWSP_147132 Number of predicted TMRs: 0
+ARRWSP_147132	signal	1	36				
+ARRWSP_147132	outside	37	37				
+//
+# ARRWSP_146078 Length: 50
+# ARRWSP_146078 Number of predicted TMRs: 0
+ARRWSP_146078	inside	1	50				
+//
+# ARRWSP_54750 Length: 45
+# ARRWSP_54750 Number of predicted TMRs: 0
+ARRWSP_54750	inside	1	45				
+//
+# ARRWSP_128432 Length: 44
+# ARRWSP_128432 Number of predicted TMRs: 0
+ARRWSP_128432	inside	1	44				
+//
+# ARRWSP_103108 Length: 47
+# ARRWSP_103108 Number of predicted TMRs: 0
+ARRWSP_103108	inside	1	47				
+//
+# ARRWSP_8029 Length: 34
+# ARRWSP_8029 Number of predicted TMRs: 0
+ARRWSP_8029	signal	1	15				
+ARRWSP_8029	outside	16	34				
+//
+# ARRWSP_127254 Length: 48
+# ARRWSP_127254 Number of predicted TMRs: 0
+ARRWSP_127254	signal	1	10				
+ARRWSP_127254	outside	11	48				
+//
+# ARRWSP_65355 Length: 43
+# ARRWSP_65355 Number of predicted TMRs: 0
+ARRWSP_65355	signal	1	39				
+ARRWSP_65355	outside	40	43				
+//
+# ARRWSP_104506 Length: 43
+# ARRWSP_104506 Number of predicted TMRs: 0
+ARRWSP_104506	signal	1	35				
+ARRWSP_104506	outside	36	43				
+//
+# ARRWSP_96623 Length: 43
+# ARRWSP_96623 Number of predicted TMRs: 0
+ARRWSP_96623	inside	1	43				
+//
+# ARRWSP_164381 Length: 45
+# ARRWSP_164381 Number of predicted TMRs: 0
+ARRWSP_164381	inside	1	45				
+//
+# ARRWSP_148141 Length: 46
+# ARRWSP_148141 Number of predicted TMRs: 0
+ARRWSP_148141	inside	1	46				
+//
+# ARRWSP_141488 Length: 44
+# ARRWSP_141488 Number of predicted TMRs: 0
+ARRWSP_141488	inside	1	44				
+//
+# ARRWSP_92434 Length: 46
+# ARRWSP_92434 Number of predicted TMRs: 0
+ARRWSP_92434	inside	1	46				
+//
+# ARRWSP_123246 Length: 45
+# ARRWSP_123246 Number of predicted TMRs: 0
+ARRWSP_123246	outside	1	45				
+//
+# ARRWSP_82823 Length: 40
+# ARRWSP_82823 Number of predicted TMRs: 0
+ARRWSP_82823	inside	1	40				
+//
+# ARRWSP_130196 Length: 47
+# ARRWSP_130196 Number of predicted TMRs: 0
+ARRWSP_130196	signal	1	46				
+ARRWSP_130196	outside	47	47				
+//
+# ARRWSP_129900 Length: 44
+# ARRWSP_129900 Number of predicted TMRs: 0
+ARRWSP_129900	signal	1	42				
+ARRWSP_129900	outside	43	44				
+//
+# ARRWSP_95553 Length: 28
+# ARRWSP_95553 Number of predicted TMRs: 0
+ARRWSP_95553	inside	1	28				
+//
+# ARRWSP_165755 Length: 46
+# ARRWSP_165755 Number of predicted TMRs: 0
+ARRWSP_165755	outside	1	46				
+//
+# ARRWSP_116254 Length: 28
+# ARRWSP_116254 Number of predicted TMRs: 0
+ARRWSP_116254	signal	1	26				
+ARRWSP_116254	outside	27	28				
+//
+# ARRWSP_17674 Length: 41
+# ARRWSP_17674 Number of predicted TMRs: 0
+ARRWSP_17674	signal	1	22				
+ARRWSP_17674	outside	23	41				
+//
+# ARRWSP_82045 Length: 44
+# ARRWSP_82045 Number of predicted TMRs: 0
+ARRWSP_82045	inside	1	44				
+//
+# ARRWSP_70701 Length: 38
+# ARRWSP_70701 Number of predicted TMRs: 0
+ARRWSP_70701	outside	1	38				
+//
+# ARRWSP_9622 Length: 50
+# ARRWSP_9622 Number of predicted TMRs: 0
+ARRWSP_9622	inside	1	50				
+//
+# ARRWSP_21032 Length: 41
+# ARRWSP_21032 Number of predicted TMRs: 0
+ARRWSP_21032	signal	1	28				
+ARRWSP_21032	outside	29	41				
+//
+# ARRWSP_112815 Length: 46
+# ARRWSP_112815 Number of predicted TMRs: 0
+ARRWSP_112815	inside	1	46				
+//
+# ARRWSP_12025 Length: 35
+# ARRWSP_12025 Number of predicted TMRs: 0
+ARRWSP_12025	inside	1	35				
+//
+# ARRWSP_114773 Length: 46
+# ARRWSP_114773 Number of predicted TMRs: 0
+ARRWSP_114773	inside	1	46				
+//
+# ARRWSP_107588 Length: 50
+# ARRWSP_107588 Number of predicted TMRs: 0
+ARRWSP_107588	inside	1	50				
+//
+# ARRWSP_22923 Length: 49
+# ARRWSP_22923 Number of predicted TMRs: 0
+ARRWSP_22923	inside	1	49				
+//
+# ARRWSP_9754 Length: 42
+# ARRWSP_9754 Number of predicted TMRs: 0
+ARRWSP_9754	outside	1	42				
+//
+# ARRWSP_156569 Length: 48
+# ARRWSP_156569 Number of predicted TMRs: 0
+ARRWSP_156569	inside	1	48				
+//
+# ARRWSP_21861 Length: 46
+# ARRWSP_21861 Number of predicted TMRs: 0
+ARRWSP_21861	inside	1	46				
+//
+# ARRWSP_124397 Length: 38
+# ARRWSP_124397 Number of predicted TMRs: 0
+ARRWSP_124397	signal	1	32				
+ARRWSP_124397	outside	33	38				
+//
+# ARRWSP_15255 Length: 37
+# ARRWSP_15255 Number of predicted TMRs: 0
+ARRWSP_15255	inside	1	37				
+//
+# ARRWSP_157981 Length: 49
+# ARRWSP_157981 Number of predicted TMRs: 0
+ARRWSP_157981	inside	1	49				
+//
+# ARRWSP_100346 Length: 34
+# ARRWSP_100346 Number of predicted TMRs: 0
+ARRWSP_100346	outside	1	34				
+//
+# ARRWSP_109735 Length: 48
+# ARRWSP_109735 Number of predicted TMRs: 0
+ARRWSP_109735	signal	1	21				
+ARRWSP_109735	outside	22	48				
+//
+# ARRWSP_57547 Length: 47
+# ARRWSP_57547 Number of predicted TMRs: 0
+ARRWSP_57547	inside	1	47				
+//
+# ARRWSP_35703 Length: 31
+# ARRWSP_35703 Number of predicted TMRs: 0
+ARRWSP_35703	signal	1	27				
+ARRWSP_35703	outside	28	31				
+//
+# ARRWSP_142169 Length: 49
+# ARRWSP_142169 Number of predicted TMRs: 0
+ARRWSP_142169	inside	1	49				
+//
+# ARRWSP_49982 Length: 49
+# ARRWSP_49982 Number of predicted TMRs: 0
+ARRWSP_49982	inside	1	49				
+//
+# ARRWSP_21200 Length: 44
+# ARRWSP_21200 Number of predicted TMRs: 0
+ARRWSP_21200	inside	1	44				
+//
+# ARRWSP_143017 Length: 43
+# ARRWSP_143017 Number of predicted TMRs: 0
+ARRWSP_143017	signal	1	11				
+ARRWSP_143017	outside	12	43				
+//
+# ARRWSP_98547 Length: 46
+# ARRWSP_98547 Number of predicted TMRs: 0
+ARRWSP_98547	inside	1	46				
+//
+# ARRWSP_142611 Length: 49
+# ARRWSP_142611 Number of predicted TMRs: 0
+ARRWSP_142611	signal	1	29				
+ARRWSP_142611	outside	30	49				
+//
+# ARRWSP_15120 Length: 33
+# ARRWSP_15120 Number of predicted TMRs: 0
+ARRWSP_15120	inside	1	33				
+//
+# ARRWSP_171084 Length: 32
+# ARRWSP_171084 Number of predicted TMRs: 0
+ARRWSP_171084	inside	1	32				
+//
+# ARRWSP_92993 Length: 33
+# ARRWSP_92993 Number of predicted TMRs: 0
+ARRWSP_92993	inside	1	33				
+//
+# ARRWSP_8399 Length: 44
+# ARRWSP_8399 Number of predicted TMRs: 0
+ARRWSP_8399	inside	1	44				
+//
+# ARRWSP_41250 Length: 44
+# ARRWSP_41250 Number of predicted TMRs: 0
+ARRWSP_41250	inside	1	44				
+//
+# ARRWSP_111837 Length: 40
+# ARRWSP_111837 Number of predicted TMRs: 0
+ARRWSP_111837	signal	1	39				
+ARRWSP_111837	outside	40	40				
+//
+# ARRWSP_12127 Length: 47
+# ARRWSP_12127 Number of predicted TMRs: 0
+ARRWSP_12127	inside	1	47				
+//
+# ARRWSP_109329 Length: 43
+# ARRWSP_109329 Number of predicted TMRs: 0
+ARRWSP_109329	inside	1	43				
+//
+# ARRWSP_115671 Length: 48
+# ARRWSP_115671 Number of predicted TMRs: 0
+ARRWSP_115671	inside	1	48				
+//
+# ARRWSP_123325 Length: 47
+# ARRWSP_123325 Number of predicted TMRs: 0
+ARRWSP_123325	inside	1	47				
+//
+# ARRWSP_17205 Length: 49
+# ARRWSP_17205 Number of predicted TMRs: 0
+ARRWSP_17205	inside	1	49				
+//
+# ARRWSP_73757 Length: 50
+# ARRWSP_73757 Number of predicted TMRs: 0
+ARRWSP_73757	signal	1	41				
+ARRWSP_73757	outside	42	50				
+//
+# ARRWSP_122552 Length: 47
+# ARRWSP_122552 Number of predicted TMRs: 0
+ARRWSP_122552	inside	1	47				
+//
+# ARRWSP_123204 Length: 48
+# ARRWSP_123204 Number of predicted TMRs: 0
+ARRWSP_123204	signal	1	20				
+ARRWSP_123204	outside	21	48				
+//
+# ARRWSP_105140 Length: 49
+# ARRWSP_105140 Number of predicted TMRs: 0
+ARRWSP_105140	inside	1	49				
+//
+# ARRWSP_134090 Length: 36
+# ARRWSP_134090 Number of predicted TMRs: 0
+ARRWSP_134090	inside	1	36				
+//
+# ARRWSP_10461 Length: 49
+# ARRWSP_10461 Number of predicted TMRs: 0
+ARRWSP_10461	inside	1	49				
+//
+# ARRWSP_162617 Length: 39
+# ARRWSP_162617 Number of predicted TMRs: 0
+ARRWSP_162617	inside	1	39				
+//
+# ARRWSP_141256 Length: 40
+# ARRWSP_141256 Number of predicted TMRs: 0
+ARRWSP_141256	inside	1	40				
+//
+# ARRWSP_101799 Length: 36
+# ARRWSP_101799 Number of predicted TMRs: 0
+ARRWSP_101799	signal	1	35				
+ARRWSP_101799	outside	36	36				
+//
+# ARRWSP_29823 Length: 42
+# ARRWSP_29823 Number of predicted TMRs: 0
+ARRWSP_29823	inside	1	42				
+//
+# ARRWSP_149167 Length: 42
+# ARRWSP_149167 Number of predicted TMRs: 0
+ARRWSP_149167	inside	1	42				
+//
+# ARRWSP_8071 Length: 27
+# ARRWSP_8071 Number of predicted TMRs: 0
+ARRWSP_8071	signal	1	26				
+ARRWSP_8071	outside	27	27				
+//
+# ARRWSP_131620 Length: 50
+# ARRWSP_131620 Number of predicted TMRs: 0
+ARRWSP_131620	signal	1	49				
+ARRWSP_131620	outside	50	50				
+//
+# ARRWSP_143901 Length: 49
+# ARRWSP_143901 Number of predicted TMRs: 0
+ARRWSP_143901	inside	1	49				
+//
+# ARRWSP_110801 Length: 30
+# ARRWSP_110801 Number of predicted TMRs: 0
+ARRWSP_110801	inside	1	30				
+//
+# ARRWSP_115021 Length: 45
+# ARRWSP_115021 Number of predicted TMRs: 0
+ARRWSP_115021	inside	1	45				
+//
+# ARRWSP_77555 Length: 50
+# ARRWSP_77555 Number of predicted TMRs: 0
+ARRWSP_77555	inside	1	50				
+//
+# ARRWSP_28177 Length: 48
+# ARRWSP_28177 Number of predicted TMRs: 0
+ARRWSP_28177	inside	1	48				
+//
+# ARRWSP_60244 Length: 42
+# ARRWSP_60244 Number of predicted TMRs: 0
+ARRWSP_60244	inside	1	42				
+//
+# ARRWSP_37023 Length: 38
+# ARRWSP_37023 Number of predicted TMRs: 0
+ARRWSP_37023	signal	1	11				
+ARRWSP_37023	outside	12	38				
+//
+# ARRWSP_100593 Length: 38
+# ARRWSP_100593 Number of predicted TMRs: 0
+ARRWSP_100593	inside	1	38				
+//
+# ARRWSP_3101 Length: 38
+# ARRWSP_3101 Number of predicted TMRs: 0
+ARRWSP_3101	inside	1	38				
+//
+# ARRWSP_133708 Length: 50
+# ARRWSP_133708 Number of predicted TMRs: 0
+ARRWSP_133708	signal	1	47				
+ARRWSP_133708	outside	48	50				
+//
+# ARRWSP_36850 Length: 35
+# ARRWSP_36850 Number of predicted TMRs: 0
+ARRWSP_36850	inside	1	35				
+//
+# ARRWSP_10176 Length: 48
+# ARRWSP_10176 Number of predicted TMRs: 0
+ARRWSP_10176	inside	1	48				
+//
+# ARRWSP_119644 Length: 47
+# ARRWSP_119644 Number of predicted TMRs: 0
+ARRWSP_119644	inside	1	47				
+//
+# ARRWSP_18247 Length: 35
+# ARRWSP_18247 Number of predicted TMRs: 0
+ARRWSP_18247	inside	1	35				
+//
+# ARRWSP_144452 Length: 43
+# ARRWSP_144452 Number of predicted TMRs: 0
+ARRWSP_144452	signal	1	15				
+ARRWSP_144452	outside	16	43				
+//
+# ARRWSP_69922 Length: 33
+# ARRWSP_69922 Number of predicted TMRs: 0
+ARRWSP_69922	signal	1	17				
+ARRWSP_69922	outside	18	33				
+//
+# ARRWSP_134581 Length: 47
+# ARRWSP_134581 Number of predicted TMRs: 0
+ARRWSP_134581	inside	1	47				
+//
+# ARRWSP_169703 Length: 42
+# ARRWSP_169703 Number of predicted TMRs: 0
+ARRWSP_169703	signal	1	23				
+ARRWSP_169703	outside	24	42				
+//
+# ARRWSP_121374 Length: 46
+# ARRWSP_121374 Number of predicted TMRs: 0
+ARRWSP_121374	inside	1	46				
+//
+# ARRWSP_23539 Length: 45
+# ARRWSP_23539 Number of predicted TMRs: 0
+ARRWSP_23539	inside	1	45				
+//
+# ARRWSP_132023 Length: 39
+# ARRWSP_132023 Number of predicted TMRs: 0
+ARRWSP_132023	inside	1	39				
+//
+# ARRWSP_43619 Length: 39
+# ARRWSP_43619 Number of predicted TMRs: 0
+ARRWSP_43619	signal	1	20				
+ARRWSP_43619	outside	21	39				
+//
+# ARRWSP_54566 Length: 43
+# ARRWSP_54566 Number of predicted TMRs: 0
+ARRWSP_54566	inside	1	43				
+//
+# ARRWSP_16593 Length: 43
+# ARRWSP_16593 Number of predicted TMRs: 0
+ARRWSP_16593	inside	1	43				
+//
+# ARRWSP_152959 Length: 50
+# ARRWSP_152959 Number of predicted TMRs: 0
+ARRWSP_152959	inside	1	50				
+//
+# ARRWSP_12258 Length: 43
+# ARRWSP_12258 Number of predicted TMRs: 0
+ARRWSP_12258	signal	1	30				
+ARRWSP_12258	outside	31	43				
+//
+# ARRWSP_97041 Length: 31
+# ARRWSP_97041 Number of predicted TMRs: 0
+ARRWSP_97041	inside	1	31				
+//
+# ARRWSP_135432 Length: 47
+# ARRWSP_135432 Number of predicted TMRs: 0
+ARRWSP_135432	inside	1	47				
+//
+# ARRWSP_115407 Length: 41
+# ARRWSP_115407 Number of predicted TMRs: 0
+ARRWSP_115407	inside	1	41				
+//
+# ARRWSP_44385 Length: 45
+# ARRWSP_44385 Number of predicted TMRs: 0
+ARRWSP_44385	inside	1	45				
+//
+# ARRWSP_37636 Length: 49
+# ARRWSP_37636 Number of predicted TMRs: 0
+ARRWSP_37636	inside	1	49				
+//
+# ARRWSP_88547 Length: 47
+# ARRWSP_88547 Number of predicted TMRs: 0
+ARRWSP_88547	signal	1	20				
+ARRWSP_88547	outside	21	47				
+//
+# ARRWSP_55230 Length: 44
+# ARRWSP_55230 Number of predicted TMRs: 0
+ARRWSP_55230	signal	1	10				
+ARRWSP_55230	outside	11	44				
+//
+# ARRWSP_46109 Length: 45
+# ARRWSP_46109 Number of predicted TMRs: 0
+ARRWSP_46109	inside	1	45				
+//
+# ARRWSP_105956 Length: 48
+# ARRWSP_105956 Number of predicted TMRs: 0
+ARRWSP_105956	inside	1	48				
+//
+# ARRWSP_36562 Length: 45
+# ARRWSP_36562 Number of predicted TMRs: 0
+ARRWSP_36562	inside	1	45				
+//
+# ARRWSP_59084 Length: 42
+# ARRWSP_59084 Number of predicted TMRs: 0
+ARRWSP_59084	outside	1	42				
+//
+# ARRWSP_29499 Length: 45
+# ARRWSP_29499 Number of predicted TMRs: 0
+ARRWSP_29499	inside	1	45				
+//
+# ARRWSP_144068 Length: 48
+# ARRWSP_144068 Number of predicted TMRs: 0
+ARRWSP_144068	signal	1	46				
+ARRWSP_144068	outside	47	48				
+//
+# ARRWSP_76154 Length: 42
+# ARRWSP_76154 Number of predicted TMRs: 0
+ARRWSP_76154	inside	1	42				
+//
+# ARRWSP_106238 Length: 50
+# ARRWSP_106238 Number of predicted TMRs: 0
+ARRWSP_106238	inside	1	50				
+//
+# ARRWSP_157048 Length: 48
+# ARRWSP_157048 Number of predicted TMRs: 0
+ARRWSP_157048	inside	1	48				
+//
+# ARRWSP_147355 Length: 45
+# ARRWSP_147355 Number of predicted TMRs: 0
+ARRWSP_147355	inside	1	45				
+//
+# ARRWSP_109848 Length: 46
+# ARRWSP_109848 Number of predicted TMRs: 0
+ARRWSP_109848	signal	1	15				
+ARRWSP_109848	outside	16	46				
+//
+# ARRWSP_46382 Length: 50
+# ARRWSP_46382 Number of predicted TMRs: 0
+ARRWSP_46382	inside	1	50				
+//
+# ARRWSP_118881 Length: 49
+# ARRWSP_118881 Number of predicted TMRs: 0
+ARRWSP_118881	inside	1	49				
+//
+# ARRWSP_93495 Length: 46
+# ARRWSP_93495 Number of predicted TMRs: 0
+ARRWSP_93495	inside	1	46				
+//
+# ARRWSP_12931 Length: 28
+# ARRWSP_12931 Number of predicted TMRs: 0
+ARRWSP_12931	outside	1	28				
+//
+# ARRWSP_76528 Length: 36
+# ARRWSP_76528 Number of predicted TMRs: 0
+ARRWSP_76528	signal	1	31				
+ARRWSP_76528	outside	32	36				
+//
+# ARRWSP_68410 Length: 37
+# ARRWSP_68410 Number of predicted TMRs: 0
+ARRWSP_68410	signal	1	36				
+ARRWSP_68410	outside	37	37				
+//
+# ARRWSP_144801 Length: 49
+# ARRWSP_144801 Number of predicted TMRs: 0
+ARRWSP_144801	inside	1	49				
+//
+# ARRWSP_131095 Length: 44
+# ARRWSP_131095 Number of predicted TMRs: 0
+ARRWSP_131095	inside	1	44				
+//
+# ARRWSP_77666 Length: 45
+# ARRWSP_77666 Number of predicted TMRs: 0
+ARRWSP_77666	inside	1	45				
+//
+# ARRWSP_16683 Length: 41
+# ARRWSP_16683 Number of predicted TMRs: 0
+ARRWSP_16683	inside	1	41				
+//
+# ARRWSP_7 Length: 48
+# ARRWSP_7 Number of predicted TMRs: 0
+ARRWSP_7	inside	1	48				
+//
+# ARRWSP_35901 Length: 40
+# ARRWSP_35901 Number of predicted TMRs: 0
+ARRWSP_35901	signal	1	35				
+ARRWSP_35901	outside	36	40				
+//
+# ARRWSP_121666 Length: 46
+# ARRWSP_121666 Number of predicted TMRs: 0
+ARRWSP_121666	signal	1	45				
+ARRWSP_121666	outside	46	46				
+//
+# ARRWSP_101589 Length: 45
+# ARRWSP_101589 Number of predicted TMRs: 0
+ARRWSP_101589	inside	1	45				
+//
+# ARRWSP_3957 Length: 42
+# ARRWSP_3957 Number of predicted TMRs: 0
+ARRWSP_3957	inside	1	42				
+//
+# ARRWSP_65159 Length: 40
+# ARRWSP_65159 Number of predicted TMRs: 0
+ARRWSP_65159	inside	1	40				
+//
+# ARRWSP_68727 Length: 42
+# ARRWSP_68727 Number of predicted TMRs: 0
+ARRWSP_68727	inside	1	42				
+//
+# ARRWSP_20431 Length: 41
+# ARRWSP_20431 Number of predicted TMRs: 0
+ARRWSP_20431	inside	1	41				
+//
+# ARRWSP_111861 Length: 47
+# ARRWSP_111861 Number of predicted TMRs: 0
+ARRWSP_111861	signal	1	35				
+ARRWSP_111861	outside	36	47				
+//
+# ARRWSP_44085 Length: 39
+# ARRWSP_44085 Number of predicted TMRs: 0
+ARRWSP_44085	outside	1	39				
+//
+# ARRWSP_25914 Length: 38
+# ARRWSP_25914 Number of predicted TMRs: 0
+ARRWSP_25914	signal	1	32				
+ARRWSP_25914	outside	33	38				
+//
+# ARRWSP_141855 Length: 49
+# ARRWSP_141855 Number of predicted TMRs: 0
+ARRWSP_141855	inside	1	49				
+//
+# ARRWSP_83679 Length: 49
+# ARRWSP_83679 Number of predicted TMRs: 0
+ARRWSP_83679	inside	1	49				
+//
+# ARRWSP_36598 Length: 49
+# ARRWSP_36598 Number of predicted TMRs: 0
+ARRWSP_36598	inside	1	49				
+//
+# ARRWSP_82126 Length: 37
+# ARRWSP_82126 Number of predicted TMRs: 0
+ARRWSP_82126	signal	1	19				
+ARRWSP_82126	outside	20	37				
+//
+# ARRWSP_18709 Length: 38
+# ARRWSP_18709 Number of predicted TMRs: 0
+ARRWSP_18709	inside	1	38				
+//
+# ARRWSP_92007 Length: 48
+# ARRWSP_92007 Number of predicted TMRs: 0
+ARRWSP_92007	signal	1	29				
+ARRWSP_92007	outside	30	48				
+//
+# ARRWSP_169813 Length: 47
+# ARRWSP_169813 Number of predicted TMRs: 0
+ARRWSP_169813	inside	1	47				
+//
+# ARRWSP_125580 Length: 50
+# ARRWSP_125580 Number of predicted TMRs: 0
+ARRWSP_125580	signal	1	48				
+ARRWSP_125580	outside	49	50				
+//
+# ARRWSP_95047 Length: 40
+# ARRWSP_95047 Number of predicted TMRs: 0
+ARRWSP_95047	signal	1	32				
+ARRWSP_95047	outside	33	40				
+//
+# ARRWSP_134089 Length: 48
+# ARRWSP_134089 Number of predicted TMRs: 0
+ARRWSP_134089	signal	1	44				
+ARRWSP_134089	outside	45	48				
+//
+# ARRWSP_18955 Length: 43
+# ARRWSP_18955 Number of predicted TMRs: 0
+ARRWSP_18955	outside	1	43				
+//
+# ARRWSP_121073 Length: 39
+# ARRWSP_121073 Number of predicted TMRs: 0
+ARRWSP_121073	signal	1	26				
+ARRWSP_121073	outside	27	39				
+//
+# ARRWSP_8083 Length: 49
+# ARRWSP_8083 Number of predicted TMRs: 0
+ARRWSP_8083	signal	1	44				
+ARRWSP_8083	outside	45	49				
+//
+# ARRWSP_10042 Length: 40
+# ARRWSP_10042 Number of predicted TMRs: 0
+ARRWSP_10042	signal	1	34				
+ARRWSP_10042	outside	35	40				
+//
+# ARRWSP_141927 Length: 39
+# ARRWSP_141927 Number of predicted TMRs: 0
+ARRWSP_141927	inside	1	39				
+//
+# ARRWSP_99536 Length: 48
+# ARRWSP_99536 Number of predicted TMRs: 0
+ARRWSP_99536	inside	1	48				
+//
+# ARRWSP_124634 Length: 42
+# ARRWSP_124634 Number of predicted TMRs: 0
+ARRWSP_124634	inside	1	42				
+//
+# ARRWSP_43056 Length: 39
+# ARRWSP_43056 Number of predicted TMRs: 0
+ARRWSP_43056	inside	1	39				
+//
+# ARRWSP_132919 Length: 38
+# ARRWSP_132919 Number of predicted TMRs: 0
+ARRWSP_132919	signal	1	37				
+ARRWSP_132919	outside	38	38				
+//
+# ARRWSP_144320 Length: 34
+# ARRWSP_144320 Number of predicted TMRs: 0
+ARRWSP_144320	signal	1	14				
+ARRWSP_144320	outside	15	34				
+//
+# ARRWSP_143214 Length: 44
+# ARRWSP_143214 Number of predicted TMRs: 0
+ARRWSP_143214	inside	1	44				
+//
+# ARRWSP_57546 Length: 48
+# ARRWSP_57546 Number of predicted TMRs: 0
+ARRWSP_57546	inside	1	48				
+//
+# ARRWSP_35000 Length: 49
+# ARRWSP_35000 Number of predicted TMRs: 0
+ARRWSP_35000	signal	1	28				
+ARRWSP_35000	outside	29	49				
+//
+# ARRWSP_5914 Length: 49
+# ARRWSP_5914 Number of predicted TMRs: 0
+ARRWSP_5914	inside	1	49				
+//
+# ARRWSP_38797 Length: 47
+# ARRWSP_38797 Number of predicted TMRs: 0
+ARRWSP_38797	inside	1	47				
+//
+# ARRWSP_101019 Length: 46
+# ARRWSP_101019 Number of predicted TMRs: 0
+ARRWSP_101019	signal	1	43				
+ARRWSP_101019	outside	44	46				
+//
+# ARRWSP_141973 Length: 49
+# ARRWSP_141973 Number of predicted TMRs: 0
+ARRWSP_141973	inside	1	49				
+//
+# ARRWSP_169100 Length: 47
+# ARRWSP_169100 Number of predicted TMRs: 0
+ARRWSP_169100	signal	1	45				
+ARRWSP_169100	outside	46	47				
+//
+# ARRWSP_80270 Length: 42
+# ARRWSP_80270 Number of predicted TMRs: 0
+ARRWSP_80270	signal	1	34				
+ARRWSP_80270	outside	35	42				
+//
+# ARRWSP_46488 Length: 50
+# ARRWSP_46488 Number of predicted TMRs: 0
+ARRWSP_46488	inside	1	50				
+//
+# ARRWSP_13334 Length: 49
+# ARRWSP_13334 Number of predicted TMRs: 0
+ARRWSP_13334	signal	1	40				
+ARRWSP_13334	outside	41	49				
+//
+# ARRWSP_20740 Length: 48
+# ARRWSP_20740 Number of predicted TMRs: 0
+ARRWSP_20740	inside	1	48				
+//
+# ARRWSP_127917 Length: 48
+# ARRWSP_127917 Number of predicted TMRs: 0
+ARRWSP_127917	inside	1	48				
+//
+# ARRWSP_58973 Length: 49
+# ARRWSP_58973 Number of predicted TMRs: 0
+ARRWSP_58973	inside	1	49				
+//
+# ARRWSP_93416 Length: 46
+# ARRWSP_93416 Number of predicted TMRs: 0
+ARRWSP_93416	inside	1	46				
+//
+# ARRWSP_110042 Length: 50
+# ARRWSP_110042 Number of predicted TMRs: 0
+ARRWSP_110042	inside	1	50				
+//
+# ARRWSP_7049 Length: 37
+# ARRWSP_7049 Number of predicted TMRs: 0
+ARRWSP_7049	signal	1	35				
+ARRWSP_7049	outside	36	37				
+//
+# ARRWSP_99559 Length: 41
+# ARRWSP_99559 Number of predicted TMRs: 0
+ARRWSP_99559	inside	1	41				
+//
+# ARRWSP_39183 Length: 44
+# ARRWSP_39183 Number of predicted TMRs: 1
+ARRWSP_39183	inside	1	15				
+ARRWSP_39183	TMhelix	16	36				
+ARRWSP_39183	outside	37	44				
+//
+# ARRWSP_101084 Length: 49
+# ARRWSP_101084 Number of predicted TMRs: 0
+ARRWSP_101084	signal	1	37				
+ARRWSP_101084	outside	38	49				
+//
+# ARRWSP_169840 Length: 45
+# ARRWSP_169840 Number of predicted TMRs: 0
+ARRWSP_169840	inside	1	45				
+//
+# ARRWSP_30057 Length: 38
+# ARRWSP_30057 Number of predicted TMRs: 0
+ARRWSP_30057	inside	1	38				
+//
+# ARRWSP_99851 Length: 48
+# ARRWSP_99851 Number of predicted TMRs: 0
+ARRWSP_99851	inside	1	48				
+//
+# ARRWSP_108098 Length: 46
+# ARRWSP_108098 Number of predicted TMRs: 0
+ARRWSP_108098	inside	1	46				
+//
+# ARRWSP_5819 Length: 50
+# ARRWSP_5819 Number of predicted TMRs: 0
+ARRWSP_5819	inside	1	50				
+//
+# ARRWSP_24475 Length: 37
+# ARRWSP_24475 Number of predicted TMRs: 0
+ARRWSP_24475	inside	1	37				
+//
+# ARRWSP_125770 Length: 50
+# ARRWSP_125770 Number of predicted TMRs: 0
+ARRWSP_125770	signal	1	35				
+ARRWSP_125770	outside	36	50				
+//
+# ARRWSP_103702 Length: 47
+# ARRWSP_103702 Number of predicted TMRs: 0
+ARRWSP_103702	signal	1	45				
+ARRWSP_103702	outside	46	47				
+//
+# ARRWSP_9545 Length: 42
+# ARRWSP_9545 Number of predicted TMRs: 0
+ARRWSP_9545	inside	1	42				
+//
+# ARRWSP_73577 Length: 50
+# ARRWSP_73577 Number of predicted TMRs: 0
+ARRWSP_73577	inside	1	50				
+//
+# ARRWSP_72170 Length: 40
+# ARRWSP_72170 Number of predicted TMRs: 0
+ARRWSP_72170	inside	1	40				
+//
+# ARRWSP_169005 Length: 39
+# ARRWSP_169005 Number of predicted TMRs: 0
+ARRWSP_169005	inside	1	39				
+//
+# ARRWSP_135510 Length: 47
+# ARRWSP_135510 Number of predicted TMRs: 0
+ARRWSP_135510	outside	1	47				
+//
+# ARRWSP_128773 Length: 37
+# ARRWSP_128773 Number of predicted TMRs: 0
+ARRWSP_128773	inside	1	37				
+//
+# ARRWSP_93851 Length: 43
+# ARRWSP_93851 Number of predicted TMRs: 0
+ARRWSP_93851	signal	1	41				
+ARRWSP_93851	outside	42	43				
+//
+# ARRWSP_78435 Length: 33
+# ARRWSP_78435 Number of predicted TMRs: 0
+ARRWSP_78435	inside	1	33				
+//
+# ARRWSP_19166 Length: 42
+# ARRWSP_19166 Number of predicted TMRs: 0
+ARRWSP_19166	inside	1	42				
+//
+# ARRWSP_68838 Length: 50
+# ARRWSP_68838 Number of predicted TMRs: 0
+ARRWSP_68838	inside	1	50				
+//
+# ARRWSP_61656 Length: 49
+# ARRWSP_61656 Number of predicted TMRs: 0
+ARRWSP_61656	signal	1	45				
+ARRWSP_61656	outside	46	49				
+//
+# ARRWSP_12599 Length: 40
+# ARRWSP_12599 Number of predicted TMRs: 0
+ARRWSP_12599	inside	1	40				
+//
+# ARRWSP_17652 Length: 48
+# ARRWSP_17652 Number of predicted TMRs: 0
+ARRWSP_17652	signal	1	45				
+ARRWSP_17652	outside	46	48				
+//
+# ARRWSP_88432 Length: 47
+# ARRWSP_88432 Number of predicted TMRs: 0
+ARRWSP_88432	inside	1	47				
+//
+# ARRWSP_21732 Length: 36
+# ARRWSP_21732 Number of predicted TMRs: 0
+ARRWSP_21732	inside	1	36				
+//
+# ARRWSP_162466 Length: 42
+# ARRWSP_162466 Number of predicted TMRs: 0
+ARRWSP_162466	inside	1	42				
+//
+# ARRWSP_120104 Length: 37
+# ARRWSP_120104 Number of predicted TMRs: 0
+ARRWSP_120104	signal	1	25				
+ARRWSP_120104	outside	26	37				
+//
+# ARRWSP_69515 Length: 39
+# ARRWSP_69515 Number of predicted TMRs: 0
+ARRWSP_69515	signal	1	33				
+ARRWSP_69515	outside	34	39				
+//
+# ARRWSP_130886 Length: 44
+# ARRWSP_130886 Number of predicted TMRs: 0
+ARRWSP_130886	signal	1	10				
+ARRWSP_130886	outside	11	44				
+//
+# ARRWSP_21557 Length: 49
+# ARRWSP_21557 Number of predicted TMRs: 0
+ARRWSP_21557	inside	1	49				
+//
+# ARRWSP_37586 Length: 50
+# ARRWSP_37586 Number of predicted TMRs: 0
+ARRWSP_37586	inside	1	50				
+//
+# ARRWSP_66653 Length: 50
+# ARRWSP_66653 Number of predicted TMRs: 0
+ARRWSP_66653	inside	1	50				
+//
+# ARRWSP_148905 Length: 50
+# ARRWSP_148905 Number of predicted TMRs: 0
+ARRWSP_148905	inside	1	50				
+//
+# ARRWSP_38934 Length: 32
+# ARRWSP_38934 Number of predicted TMRs: 0
+ARRWSP_38934	signal	1	31				
+ARRWSP_38934	outside	32	32				
+//
+# ARRWSP_123480 Length: 50
+# ARRWSP_123480 Number of predicted TMRs: 0
+ARRWSP_123480	inside	1	50				
+//
+# ARRWSP_133859 Length: 48
+# ARRWSP_133859 Number of predicted TMRs: 0
+ARRWSP_133859	inside	1	48				
+//
+# ARRWSP_120024 Length: 50
+# ARRWSP_120024 Number of predicted TMRs: 0
+ARRWSP_120024	inside	1	50				
+//
+# ARRWSP_165013 Length: 49
+# ARRWSP_165013 Number of predicted TMRs: 0
+ARRWSP_165013	inside	1	49				
+//
+# ARRWSP_143900 Length: 48
+# ARRWSP_143900 Number of predicted TMRs: 0
+ARRWSP_143900	inside	1	48				
+//
+# ARRWSP_145230 Length: 47
+# ARRWSP_145230 Number of predicted TMRs: 0
+ARRWSP_145230	signal	1	10				
+ARRWSP_145230	outside	11	47				
+//
+# ARRWSP_132514 Length: 50
+# ARRWSP_132514 Number of predicted TMRs: 0
+ARRWSP_132514	inside	1	50				
+//
+# ARRWSP_114453 Length: 43
+# ARRWSP_114453 Number of predicted TMRs: 0
+ARRWSP_114453	signal	1	28				
+ARRWSP_114453	outside	29	43				
+//
+# ARRWSP_60048 Length: 47
+# ARRWSP_60048 Number of predicted TMRs: 0
+ARRWSP_60048	inside	1	47				
+//
+# ARRWSP_143085 Length: 48
+# ARRWSP_143085 Number of predicted TMRs: 0
+ARRWSP_143085	signal	1	46				
+ARRWSP_143085	outside	47	48				
+//
+# ARRWSP_123392 Length: 49
+# ARRWSP_123392 Number of predicted TMRs: 0
+ARRWSP_123392	inside	1	49				
+//
+# ARRWSP_153646 Length: 48
+# ARRWSP_153646 Number of predicted TMRs: 0
+ARRWSP_153646	signal	1	38				
+ARRWSP_153646	outside	39	48				
+//
+# ARRWSP_8863 Length: 48
+# ARRWSP_8863 Number of predicted TMRs: 0
+ARRWSP_8863	inside	1	48				
+//
+# ARRWSP_141813 Length: 36
+# ARRWSP_141813 Number of predicted TMRs: 0
+ARRWSP_141813	inside	1	36				
+//
+# ARRWSP_94833 Length: 46
+# ARRWSP_94833 Number of predicted TMRs: 0
+ARRWSP_94833	inside	1	46				
+//
+# ARRWSP_134034 Length: 48
+# ARRWSP_134034 Number of predicted TMRs: 0
+ARRWSP_134034	inside	1	48				
+//
+# ARRWSP_10125 Length: 47
+# ARRWSP_10125 Number of predicted TMRs: 0
+ARRWSP_10125	signal	1	46				
+ARRWSP_10125	outside	47	47				
+//
+# ARRWSP_169120 Length: 41
+# ARRWSP_169120 Number of predicted TMRs: 0
+ARRWSP_169120	signal	1	21				
+ARRWSP_169120	outside	22	41				
+//
+# ARRWSP_132450 Length: 50
+# ARRWSP_132450 Number of predicted TMRs: 0
+ARRWSP_132450	inside	1	50				
+//
+# ARRWSP_86748 Length: 50
+# ARRWSP_86748 Number of predicted TMRs: 0
+ARRWSP_86748	inside	1	50				
+//
+# ARRWSP_1830 Length: 45
+# ARRWSP_1830 Number of predicted TMRs: 0
+ARRWSP_1830	signal	1	39				
+ARRWSP_1830	outside	40	45				
+//
+# ARRWSP_165813 Length: 50
+# ARRWSP_165813 Number of predicted TMRs: 0
+ARRWSP_165813	inside	1	50				
+//
+# ARRWSP_113101 Length: 50
+# ARRWSP_113101 Number of predicted TMRs: 0
+ARRWSP_113101	inside	1	50				
+//
+# ARRWSP_153699 Length: 31
+# ARRWSP_153699 Number of predicted TMRs: 0
+ARRWSP_153699	signal	1	25				
+ARRWSP_153699	outside	26	31				
+//
+# ARRWSP_82809 Length: 50
+# ARRWSP_82809 Number of predicted TMRs: 0
+ARRWSP_82809	inside	1	50				
+//
+# ARRWSP_11595 Length: 39
+# ARRWSP_11595 Number of predicted TMRs: 0
+ARRWSP_11595	signal	1	38				
+ARRWSP_11595	outside	39	39				
+//
+# ARRWSP_41609 Length: 43
+# ARRWSP_41609 Number of predicted TMRs: 0
+ARRWSP_41609	inside	1	43				
+//
+# ARRWSP_114636 Length: 44
+# ARRWSP_114636 Number of predicted TMRs: 0
+ARRWSP_114636	inside	1	44				
+//
+# ARRWSP_70588 Length: 40
+# ARRWSP_70588 Number of predicted TMRs: 0
+ARRWSP_70588	inside	1	40				
+//
+# ARRWSP_163054 Length: 47
+# ARRWSP_163054 Number of predicted TMRs: 0
+ARRWSP_163054	inside	1	47				
+//
+# ARRWSP_138088 Length: 43
+# ARRWSP_138088 Number of predicted TMRs: 0
+ARRWSP_138088	outside	1	43				
+//
+# ARRWSP_35316 Length: 50
+# ARRWSP_35316 Number of predicted TMRs: 0
+ARRWSP_35316	inside	1	50				
+//
+# ARRWSP_94873 Length: 41
+# ARRWSP_94873 Number of predicted TMRs: 0
+ARRWSP_94873	signal	1	40				
+ARRWSP_94873	outside	41	41				
+//
+# ARRWSP_27653 Length: 40
+# ARRWSP_27653 Number of predicted TMRs: 0
+ARRWSP_27653	inside	1	40				
+//
+# ARRWSP_148862 Length: 41
+# ARRWSP_148862 Number of predicted TMRs: 0
+ARRWSP_148862	signal	1	29				
+ARRWSP_148862	outside	30	41				
+//
+# ARRWSP_167924 Length: 46
+# ARRWSP_167924 Number of predicted TMRs: 0
+ARRWSP_167924	signal	1	35				
+ARRWSP_167924	outside	36	46				
+//
+# ARRWSP_11730 Length: 50
+# ARRWSP_11730 Number of predicted TMRs: 0
+ARRWSP_11730	inside	1	50				
+//
+# ARRWSP_168302 Length: 41
+# ARRWSP_168302 Number of predicted TMRs: 0
+ARRWSP_168302	inside	1	41				
+//
+# ARRWSP_98423 Length: 44
+# ARRWSP_98423 Number of predicted TMRs: 0
+ARRWSP_98423	inside	1	44				
+//
+# ARRWSP_102149 Length: 48
+# ARRWSP_102149 Number of predicted TMRs: 0
+ARRWSP_102149	inside	1	48				
+//
+# ARRWSP_23204 Length: 46
+# ARRWSP_23204 Number of predicted TMRs: 0
+ARRWSP_23204	inside	1	46				
+//
+# ARRWSP_165895 Length: 43
+# ARRWSP_165895 Number of predicted TMRs: 0
+ARRWSP_165895	inside	1	43				
+//
+# ARRWSP_69498 Length: 39
+# ARRWSP_69498 Number of predicted TMRs: 0
+ARRWSP_69498	inside	1	39				
+//
+# ARRWSP_13993 Length: 33
+# ARRWSP_13993 Number of predicted TMRs: 0
+ARRWSP_13993	inside	1	33				
+//
+# ARRWSP_139037 Length: 43
+# ARRWSP_139037 Number of predicted TMRs: 0
+ARRWSP_139037	signal	1	22				
+ARRWSP_139037	outside	23	43				
+//
+# ARRWSP_16973 Length: 50
+# ARRWSP_16973 Number of predicted TMRs: 0
+ARRWSP_16973	inside	1	50				
+//
+# ARRWSP_126745 Length: 35
+# ARRWSP_126745 Number of predicted TMRs: 0
+ARRWSP_126745	signal	1	32				
+ARRWSP_126745	outside	33	35				
+//
+# ARRWSP_79889 Length: 47
+# ARRWSP_79889 Number of predicted TMRs: 0
+ARRWSP_79889	inside	1	47				
+//
+# ARRWSP_31375 Length: 43
+# ARRWSP_31375 Number of predicted TMRs: 0
+ARRWSP_31375	outside	1	43				
+//
+# ARRWSP_98507 Length: 49
+# ARRWSP_98507 Number of predicted TMRs: 0
+ARRWSP_98507	signal	1	10				
+ARRWSP_98507	outside	11	49				
+//
+# ARRWSP_165840 Length: 47
+# ARRWSP_165840 Number of predicted TMRs: 0
+ARRWSP_165840	signal	1	45				
+ARRWSP_165840	outside	46	47				
+//
+# ARRWSP_8820 Length: 44
+# ARRWSP_8820 Number of predicted TMRs: 0
+ARRWSP_8820	inside	1	44				
+//
+# ARRWSP_100206 Length: 46
+# ARRWSP_100206 Number of predicted TMRs: 0
+ARRWSP_100206	inside	1	46				
+//
+# ARRWSP_70794 Length: 50
+# ARRWSP_70794 Number of predicted TMRs: 0
+ARRWSP_70794	inside	1	50				
+//
+# ARRWSP_95738 Length: 50
+# ARRWSP_95738 Number of predicted TMRs: 0
+ARRWSP_95738	inside	1	50				
+//
+# ARRWSP_113466 Length: 36
+# ARRWSP_113466 Number of predicted TMRs: 0
+ARRWSP_113466	signal	1	28				
+ARRWSP_113466	outside	29	36				
+//
+# ARRWSP_126771 Length: 35
+# ARRWSP_126771 Number of predicted TMRs: 0
+ARRWSP_126771	signal	1	34				
+ARRWSP_126771	outside	35	35				
+//
+# ARRWSP_82796 Length: 49
+# ARRWSP_82796 Number of predicted TMRs: 0
+ARRWSP_82796	inside	1	49				
+//
+# ARRWSP_57040 Length: 45
+# ARRWSP_57040 Number of predicted TMRs: 0
+ARRWSP_57040	signal	1	44				
+ARRWSP_57040	outside	45	45				
+//
+# ARRWSP_38303 Length: 33
+# ARRWSP_38303 Number of predicted TMRs: 0
+ARRWSP_38303	inside	1	33				
+//
+# ARRWSP_94876 Length: 50
+# ARRWSP_94876 Number of predicted TMRs: 0
+ARRWSP_94876	inside	1	50				
+//
+# ARRWSP_146828 Length: 47
+# ARRWSP_146828 Number of predicted TMRs: 0
+ARRWSP_146828	signal	1	10				
+ARRWSP_146828	outside	11	47				
+//
+# ARRWSP_125797 Length: 48
+# ARRWSP_125797 Number of predicted TMRs: 0
+ARRWSP_125797	inside	1	48				
+//
+# ARRWSP_152155 Length: 42
+# ARRWSP_152155 Number of predicted TMRs: 0
+ARRWSP_152155	inside	1	42				
+//
+# ARRWSP_148765 Length: 47
+# ARRWSP_148765 Number of predicted TMRs: 0
+ARRWSP_148765	inside	1	47				
+//
+# ARRWSP_32551 Length: 43
+# ARRWSP_32551 Number of predicted TMRs: 0
+ARRWSP_32551	signal	1	22				
+ARRWSP_32551	outside	23	43				
+//
+# ARRWSP_86665 Length: 45
+# ARRWSP_86665 Number of predicted TMRs: 0
+ARRWSP_86665	signal	1	40				
+ARRWSP_86665	outside	41	45				
+//
+# ARRWSP_26686 Length: 40
+# ARRWSP_26686 Number of predicted TMRs: 0
+ARRWSP_26686	inside	1	40				
+//
+# ARRWSP_18405 Length: 37
+# ARRWSP_18405 Number of predicted TMRs: 0
+ARRWSP_18405	signal	1	24				
+ARRWSP_18405	outside	25	37				
+//
+# ARRWSP_27042 Length: 42
+# ARRWSP_27042 Number of predicted TMRs: 0
+ARRWSP_27042	signal	1	10				
+ARRWSP_27042	outside	11	42				
+//
+# ARRWSP_150849 Length: 48
+# ARRWSP_150849 Number of predicted TMRs: 0
+ARRWSP_150849	inside	1	48				
+//
+# ARRWSP_95170 Length: 50
+# ARRWSP_95170 Number of predicted TMRs: 0
+ARRWSP_95170	inside	1	50				
+//
+# ARRWSP_19329 Length: 48
+# ARRWSP_19329 Number of predicted TMRs: 0
+ARRWSP_19329	signal	1	38				
+ARRWSP_19329	outside	39	48				
+//
+# ARRWSP_49274 Length: 40
+# ARRWSP_49274 Number of predicted TMRs: 0
+ARRWSP_49274	signal	1	18				
+ARRWSP_49274	outside	19	40				
+//
+# ARRWSP_11508 Length: 40
+# ARRWSP_11508 Number of predicted TMRs: 0
+ARRWSP_11508	signal	1	30				
+ARRWSP_11508	outside	31	40				
+//
+# ARRWSP_122743 Length: 43
+# ARRWSP_122743 Number of predicted TMRs: 0
+ARRWSP_122743	inside	1	43				
+//
+# ARRWSP_141986 Length: 48
+# ARRWSP_141986 Number of predicted TMRs: 0
+ARRWSP_141986	inside	1	48				
+//
+# ARRWSP_95241 Length: 46
+# ARRWSP_95241 Number of predicted TMRs: 0
+ARRWSP_95241	signal	1	45				
+ARRWSP_95241	outside	46	46				
+//
+# ARRWSP_136666 Length: 41
+# ARRWSP_136666 Number of predicted TMRs: 0
+ARRWSP_136666	signal	1	10				
+ARRWSP_136666	outside	11	41				
+//
+# ARRWSP_52495 Length: 43
+# ARRWSP_52495 Number of predicted TMRs: 0
+ARRWSP_52495	inside	1	43				
+//
+# ARRWSP_125481 Length: 47
+# ARRWSP_125481 Number of predicted TMRs: 0
+ARRWSP_125481	inside	1	47				
+//
+# ARRWSP_75056 Length: 38
+# ARRWSP_75056 Number of predicted TMRs: 0
+ARRWSP_75056	inside	1	38				
+//
+# ARRWSP_87343 Length: 42
+# ARRWSP_87343 Number of predicted TMRs: 0
+ARRWSP_87343	signal	1	12				
+ARRWSP_87343	outside	13	42				
+//
+# ARRWSP_93671 Length: 50
+# ARRWSP_93671 Number of predicted TMRs: 0
+ARRWSP_93671	inside	1	50				
+//
+# ARRWSP_86169 Length: 47
+# ARRWSP_86169 Number of predicted TMRs: 0
+ARRWSP_86169	signal	1	40				
+ARRWSP_86169	outside	41	47				
+//
+# ARRWSP_102430 Length: 50
+# ARRWSP_102430 Number of predicted TMRs: 0
+ARRWSP_102430	signal	1	21				
+ARRWSP_102430	outside	22	50				
+//
+# ARRWSP_78450 Length: 45
+# ARRWSP_78450 Number of predicted TMRs: 0
+ARRWSP_78450	inside	1	45				

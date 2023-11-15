@@ -1,0 +1,4441 @@
+##gff-version 3
+# OSUXYN_138009 Length: 49
+# OSUXYN_138009 Number of predicted TMRs: 0
+OSUXYN_138009	signal	1	12				
+OSUXYN_138009	outside	13	49				
+//
+# OSUXYN_53521 Length: 45
+# OSUXYN_53521 Number of predicted TMRs: 0
+OSUXYN_53521	inside	1	45				
+//
+# OSUXYN_24751 Length: 45
+# OSUXYN_24751 Number of predicted TMRs: 0
+OSUXYN_24751	inside	1	45				
+//
+# OSUXYN_88109 Length: 44
+# OSUXYN_88109 Number of predicted TMRs: 0
+OSUXYN_88109	outside	1	44				
+//
+# OSUXYN_97018 Length: 49
+# OSUXYN_97018 Number of predicted TMRs: 0
+OSUXYN_97018	inside	1	49				
+//
+# OSUXYN_34298 Length: 39
+# OSUXYN_34298 Number of predicted TMRs: 0
+OSUXYN_34298	signal	1	12				
+OSUXYN_34298	outside	13	39				
+//
+# OSUXYN_143340 Length: 46
+# OSUXYN_143340 Number of predicted TMRs: 0
+OSUXYN_143340	inside	1	46				
+//
+# OSUXYN_122385 Length: 49
+# OSUXYN_122385 Number of predicted TMRs: 0
+OSUXYN_122385	inside	1	49				
+//
+# OSUXYN_106367 Length: 41
+# OSUXYN_106367 Number of predicted TMRs: 0
+OSUXYN_106367	signal	1	40				
+OSUXYN_106367	outside	41	41				
+//
+# OSUXYN_112866 Length: 50
+# OSUXYN_112866 Number of predicted TMRs: 0
+OSUXYN_112866	inside	1	50				
+//
+# OSUXYN_153385 Length: 41
+# OSUXYN_153385 Number of predicted TMRs: 0
+OSUXYN_153385	signal	1	40				
+OSUXYN_153385	outside	41	41				
+//
+# OSUXYN_165663 Length: 32
+# OSUXYN_165663 Number of predicted TMRs: 0
+OSUXYN_165663	signal	1	31				
+OSUXYN_165663	outside	32	32				
+//
+# OSUXYN_150273 Length: 42
+# OSUXYN_150273 Number of predicted TMRs: 0
+OSUXYN_150273	signal	1	34				
+OSUXYN_150273	outside	35	42				
+//
+# OSUXYN_94227 Length: 32
+# OSUXYN_94227 Number of predicted TMRs: 0
+OSUXYN_94227	signal	1	31				
+OSUXYN_94227	outside	32	32				
+//
+# OSUXYN_93651 Length: 49
+# OSUXYN_93651 Number of predicted TMRs: 0
+OSUXYN_93651	inside	1	49				
+//
+# OSUXYN_111855 Length: 50
+# OSUXYN_111855 Number of predicted TMRs: 0
+OSUXYN_111855	inside	1	50				
+//
+# OSUXYN_56866 Length: 43
+# OSUXYN_56866 Number of predicted TMRs: 0
+OSUXYN_56866	inside	1	43				
+//
+# OSUXYN_154747 Length: 49
+# OSUXYN_154747 Number of predicted TMRs: 0
+OSUXYN_154747	inside	1	49				
+//
+# OSUXYN_134370 Length: 49
+# OSUXYN_134370 Number of predicted TMRs: 0
+OSUXYN_134370	inside	1	49				
+//
+# OSUXYN_11327 Length: 30
+# OSUXYN_11327 Number of predicted TMRs: 0
+OSUXYN_11327	signal	1	29				
+OSUXYN_11327	outside	30	30				
+//
+# OSUXYN_86286 Length: 45
+# OSUXYN_86286 Number of predicted TMRs: 0
+OSUXYN_86286	signal	1	14				
+OSUXYN_86286	outside	15	45				
+//
+# OSUXYN_34575 Length: 49
+# OSUXYN_34575 Number of predicted TMRs: 0
+OSUXYN_34575	signal	1	48				
+OSUXYN_34575	outside	49	49				
+//
+# OSUXYN_51293 Length: 40
+# OSUXYN_51293 Number of predicted TMRs: 0
+OSUXYN_51293	inside	1	40				
+//
+# OSUXYN_161583 Length: 48
+# OSUXYN_161583 Number of predicted TMRs: 0
+OSUXYN_161583	inside	1	48				
+//
+# OSUXYN_40530 Length: 50
+# OSUXYN_40530 Number of predicted TMRs: 0
+OSUXYN_40530	inside	1	50				
+//
+# OSUXYN_11303 Length: 46
+# OSUXYN_11303 Number of predicted TMRs: 0
+OSUXYN_11303	inside	1	46				
+//
+# OSUXYN_85084 Length: 47
+# OSUXYN_85084 Number of predicted TMRs: 0
+OSUXYN_85084	inside	1	47				
+//
+# OSUXYN_86204 Length: 49
+# OSUXYN_86204 Number of predicted TMRs: 0
+OSUXYN_86204	inside	1	49				
+//
+# OSUXYN_168417 Length: 40
+# OSUXYN_168417 Number of predicted TMRs: 0
+OSUXYN_168417	inside	1	40				
+//
+# OSUXYN_82633 Length: 50
+# OSUXYN_82633 Number of predicted TMRs: 0
+OSUXYN_82633	inside	1	50				
+//
+# OSUXYN_39856 Length: 41
+# OSUXYN_39856 Number of predicted TMRs: 0
+OSUXYN_39856	signal	1	13				
+OSUXYN_39856	outside	14	41				
+//
+# OSUXYN_23099 Length: 45
+# OSUXYN_23099 Number of predicted TMRs: 0
+OSUXYN_23099	signal	1	28				
+OSUXYN_23099	outside	29	45				
+//
+# OSUXYN_71660 Length: 46
+# OSUXYN_71660 Number of predicted TMRs: 0
+OSUXYN_71660	inside	1	46				
+//
+# OSUXYN_80814 Length: 49
+# OSUXYN_80814 Number of predicted TMRs: 0
+OSUXYN_80814	signal	1	32				
+OSUXYN_80814	outside	33	49				
+//
+# OSUXYN_125235 Length: 50
+# OSUXYN_125235 Number of predicted TMRs: 0
+OSUXYN_125235	signal	1	18				
+OSUXYN_125235	outside	19	50				
+//
+# OSUXYN_158586 Length: 49
+# OSUXYN_158586 Number of predicted TMRs: 0
+OSUXYN_158586	signal	1	48				
+OSUXYN_158586	outside	49	49				
+//
+# OSUXYN_52693 Length: 29
+# OSUXYN_52693 Number of predicted TMRs: 0
+OSUXYN_52693	inside	1	29				
+//
+# OSUXYN_85734 Length: 50
+# OSUXYN_85734 Number of predicted TMRs: 0
+OSUXYN_85734	inside	1	50				
+//
+# OSUXYN_82743 Length: 44
+# OSUXYN_82743 Number of predicted TMRs: 0
+OSUXYN_82743	inside	1	44				
+//
+# OSUXYN_50939 Length: 47
+# OSUXYN_50939 Number of predicted TMRs: 0
+OSUXYN_50939	inside	1	47				
+//
+# OSUXYN_57908 Length: 50
+# OSUXYN_57908 Number of predicted TMRs: 0
+OSUXYN_57908	inside	1	50				
+//
+# OSUXYN_135259 Length: 49
+# OSUXYN_135259 Number of predicted TMRs: 0
+OSUXYN_135259	inside	1	49				
+//
+# OSUXYN_135929 Length: 45
+# OSUXYN_135929 Number of predicted TMRs: 0
+OSUXYN_135929	signal	1	13				
+OSUXYN_135929	outside	14	45				
+//
+# OSUXYN_130113 Length: 44
+# OSUXYN_130113 Number of predicted TMRs: 0
+OSUXYN_130113	signal	1	30				
+OSUXYN_130113	outside	31	44				
+//
+# OSUXYN_144563 Length: 49
+# OSUXYN_144563 Number of predicted TMRs: 0
+OSUXYN_144563	inside	1	49				
+//
+# OSUXYN_171474 Length: 47
+# OSUXYN_171474 Number of predicted TMRs: 0
+OSUXYN_171474	inside	1	47				
+//
+# OSUXYN_91346 Length: 46
+# OSUXYN_91346 Number of predicted TMRs: 0
+OSUXYN_91346	inside	1	46				
+//
+# OSUXYN_125129 Length: 40
+# OSUXYN_125129 Number of predicted TMRs: 0
+OSUXYN_125129	inside	1	40				
+//
+# OSUXYN_148387 Length: 50
+# OSUXYN_148387 Number of predicted TMRs: 0
+OSUXYN_148387	signal	1	12				
+OSUXYN_148387	outside	13	50				
+//
+# OSUXYN_86891 Length: 48
+# OSUXYN_86891 Number of predicted TMRs: 0
+OSUXYN_86891	signal	1	12				
+OSUXYN_86891	outside	13	48				
+//
+# OSUXYN_90964 Length: 49
+# OSUXYN_90964 Number of predicted TMRs: 0
+OSUXYN_90964	inside	1	49				
+//
+# OSUXYN_10780 Length: 50
+# OSUXYN_10780 Number of predicted TMRs: 0
+OSUXYN_10780	inside	1	50				
+//
+# OSUXYN_69929 Length: 50
+# OSUXYN_69929 Number of predicted TMRs: 0
+OSUXYN_69929	inside	1	50				
+//
+# OSUXYN_69076 Length: 48
+# OSUXYN_69076 Number of predicted TMRs: 0
+OSUXYN_69076	signal	1	35				
+OSUXYN_69076	outside	36	48				
+//
+# OSUXYN_19650 Length: 44
+# OSUXYN_19650 Number of predicted TMRs: 0
+OSUXYN_19650	signal	1	15				
+OSUXYN_19650	outside	16	44				
+//
+# OSUXYN_144588 Length: 48
+# OSUXYN_144588 Number of predicted TMRs: 0
+OSUXYN_144588	inside	1	48				
+//
+# OSUXYN_13683 Length: 46
+# OSUXYN_13683 Number of predicted TMRs: 0
+OSUXYN_13683	inside	1	46				
+//
+# OSUXYN_31908 Length: 46
+# OSUXYN_31908 Number of predicted TMRs: 0
+OSUXYN_31908	inside	1	46				
+//
+# OSUXYN_89018 Length: 43
+# OSUXYN_89018 Number of predicted TMRs: 0
+OSUXYN_89018	inside	1	43				
+//
+# OSUXYN_133625 Length: 41
+# OSUXYN_133625 Number of predicted TMRs: 0
+OSUXYN_133625	signal	1	34				
+OSUXYN_133625	outside	35	41				
+//
+# OSUXYN_153191 Length: 46
+# OSUXYN_153191 Number of predicted TMRs: 0
+OSUXYN_153191	signal	1	34				
+OSUXYN_153191	outside	35	46				
+//
+# OSUXYN_7060 Length: 43
+# OSUXYN_7060 Number of predicted TMRs: 0
+OSUXYN_7060	signal	1	10				
+OSUXYN_7060	outside	11	43				
+//
+# OSUXYN_107120 Length: 41
+# OSUXYN_107120 Number of predicted TMRs: 0
+OSUXYN_107120	inside	1	41				
+//
+# OSUXYN_90193 Length: 49
+# OSUXYN_90193 Number of predicted TMRs: 0
+OSUXYN_90193	signal	1	45				
+OSUXYN_90193	outside	46	49				
+//
+# OSUXYN_121574 Length: 44
+# OSUXYN_121574 Number of predicted TMRs: 0
+OSUXYN_121574	inside	1	44				
+//
+# OSUXYN_156474 Length: 47
+# OSUXYN_156474 Number of predicted TMRs: 0
+OSUXYN_156474	inside	1	47				
+//
+# OSUXYN_138136 Length: 45
+# OSUXYN_138136 Number of predicted TMRs: 0
+OSUXYN_138136	signal	1	18				
+OSUXYN_138136	outside	19	45				
+//
+# OSUXYN_92112 Length: 44
+# OSUXYN_92112 Number of predicted TMRs: 0
+OSUXYN_92112	signal	1	43				
+OSUXYN_92112	outside	44	44				
+//
+# OSUXYN_79955 Length: 44
+# OSUXYN_79955 Number of predicted TMRs: 0
+OSUXYN_79955	inside	1	44				
+//
+# OSUXYN_123559 Length: 46
+# OSUXYN_123559 Number of predicted TMRs: 0
+OSUXYN_123559	inside	1	46				
+//
+# OSUXYN_146544 Length: 41
+# OSUXYN_146544 Number of predicted TMRs: 0
+OSUXYN_146544	outside	1	41				
+//
+# OSUXYN_74914 Length: 38
+# OSUXYN_74914 Number of predicted TMRs: 0
+OSUXYN_74914	inside	1	38				
+//
+# OSUXYN_101310 Length: 46
+# OSUXYN_101310 Number of predicted TMRs: 0
+OSUXYN_101310	inside	1	46				
+//
+# OSUXYN_141797 Length: 45
+# OSUXYN_141797 Number of predicted TMRs: 0
+OSUXYN_141797	signal	1	39				
+OSUXYN_141797	outside	40	45				
+//
+# OSUXYN_68520 Length: 49
+# OSUXYN_68520 Number of predicted TMRs: 0
+OSUXYN_68520	inside	1	49				
+//
+# OSUXYN_16399 Length: 49
+# OSUXYN_16399 Number of predicted TMRs: 0
+OSUXYN_16399	signal	1	45				
+OSUXYN_16399	outside	46	49				
+//
+# OSUXYN_170663 Length: 42
+# OSUXYN_170663 Number of predicted TMRs: 0
+OSUXYN_170663	inside	1	42				
+//
+# OSUXYN_140736 Length: 42
+# OSUXYN_140736 Number of predicted TMRs: 0
+OSUXYN_140736	signal	1	32				
+OSUXYN_140736	outside	33	42				
+//
+# OSUXYN_102488 Length: 49
+# OSUXYN_102488 Number of predicted TMRs: 0
+OSUXYN_102488	signal	1	20				
+OSUXYN_102488	outside	21	49				
+//
+# OSUXYN_103549 Length: 42
+# OSUXYN_103549 Number of predicted TMRs: 0
+OSUXYN_103549	signal	1	12				
+OSUXYN_103549	outside	13	42				
+//
+# OSUXYN_94934 Length: 45
+# OSUXYN_94934 Number of predicted TMRs: 0
+OSUXYN_94934	signal	1	10				
+OSUXYN_94934	outside	11	45				
+//
+# OSUXYN_103949 Length: 43
+# OSUXYN_103949 Number of predicted TMRs: 0
+OSUXYN_103949	inside	1	43				
+//
+# OSUXYN_156107 Length: 45
+# OSUXYN_156107 Number of predicted TMRs: 0
+OSUXYN_156107	inside	1	45				
+//
+# OSUXYN_104520 Length: 41
+# OSUXYN_104520 Number of predicted TMRs: 0
+OSUXYN_104520	signal	1	10				
+OSUXYN_104520	outside	11	41				
+//
+# OSUXYN_19877 Length: 47
+# OSUXYN_19877 Number of predicted TMRs: 0
+OSUXYN_19877	signal	1	22				
+OSUXYN_19877	outside	23	47				
+//
+# OSUXYN_125735 Length: 38
+# OSUXYN_125735 Number of predicted TMRs: 0
+OSUXYN_125735	inside	1	38				
+//
+# OSUXYN_117248 Length: 47
+# OSUXYN_117248 Number of predicted TMRs: 0
+OSUXYN_117248	outside	1	47				
+//
+# OSUXYN_65652 Length: 45
+# OSUXYN_65652 Number of predicted TMRs: 0
+OSUXYN_65652	inside	1	45				
+//
+# OSUXYN_27521 Length: 38
+# OSUXYN_27521 Number of predicted TMRs: 0
+OSUXYN_27521	outside	1	38				
+//
+# OSUXYN_62554 Length: 49
+# OSUXYN_62554 Number of predicted TMRs: 0
+OSUXYN_62554	signal	1	19				
+OSUXYN_62554	outside	20	49				
+//
+# OSUXYN_55233 Length: 42
+# OSUXYN_55233 Number of predicted TMRs: 0
+OSUXYN_55233	signal	1	41				
+OSUXYN_55233	outside	42	42				
+//
+# OSUXYN_168757 Length: 41
+# OSUXYN_168757 Number of predicted TMRs: 0
+OSUXYN_168757	signal	1	11				
+OSUXYN_168757	outside	12	41				
+//
+# OSUXYN_129453 Length: 38
+# OSUXYN_129453 Number of predicted TMRs: 0
+OSUXYN_129453	signal	1	37				
+OSUXYN_129453	outside	38	38				
+//
+# OSUXYN_42832 Length: 47
+# OSUXYN_42832 Number of predicted TMRs: 0
+OSUXYN_42832	inside	1	47				
+//
+# OSUXYN_44509 Length: 44
+# OSUXYN_44509 Number of predicted TMRs: 0
+OSUXYN_44509	signal	1	40				
+OSUXYN_44509	outside	41	44				
+//
+# OSUXYN_136986 Length: 42
+# OSUXYN_136986 Number of predicted TMRs: 0
+OSUXYN_136986	signal	1	18				
+OSUXYN_136986	outside	19	42				
+//
+# OSUXYN_12353 Length: 47
+# OSUXYN_12353 Number of predicted TMRs: 0
+OSUXYN_12353	signal	1	14				
+OSUXYN_12353	outside	15	47				
+//
+# OSUXYN_43459 Length: 43
+# OSUXYN_43459 Number of predicted TMRs: 0
+OSUXYN_43459	inside	1	43				
+//
+# OSUXYN_89454 Length: 50
+# OSUXYN_89454 Number of predicted TMRs: 0
+OSUXYN_89454	inside	1	50				
+//
+# OSUXYN_66339 Length: 42
+# OSUXYN_66339 Number of predicted TMRs: 0
+OSUXYN_66339	inside	1	42				
+//
+# OSUXYN_158896 Length: 41
+# OSUXYN_158896 Number of predicted TMRs: 0
+OSUXYN_158896	signal	1	12				
+OSUXYN_158896	outside	13	41				
+//
+# OSUXYN_138555 Length: 35
+# OSUXYN_138555 Number of predicted TMRs: 0
+OSUXYN_138555	inside	1	35				
+//
+# OSUXYN_109455 Length: 42
+# OSUXYN_109455 Number of predicted TMRs: 0
+OSUXYN_109455	inside	1	42				
+//
+# OSUXYN_32034 Length: 44
+# OSUXYN_32034 Number of predicted TMRs: 0
+OSUXYN_32034	signal	1	40				
+OSUXYN_32034	outside	41	44				
+//
+# OSUXYN_87501 Length: 44
+# OSUXYN_87501 Number of predicted TMRs: 0
+OSUXYN_87501	signal	1	43				
+OSUXYN_87501	outside	44	44				
+//
+# OSUXYN_29946 Length: 40
+# OSUXYN_29946 Number of predicted TMRs: 0
+OSUXYN_29946	inside	1	40				
+//
+# OSUXYN_8835 Length: 47
+# OSUXYN_8835 Number of predicted TMRs: 0
+OSUXYN_8835	inside	1	47				
+//
+# OSUXYN_65798 Length: 35
+# OSUXYN_65798 Number of predicted TMRs: 0
+OSUXYN_65798	signal	1	16				
+OSUXYN_65798	outside	17	35				
+//
+# OSUXYN_42766 Length: 49
+# OSUXYN_42766 Number of predicted TMRs: 0
+OSUXYN_42766	inside	1	49				
+//
+# OSUXYN_116059 Length: 33
+# OSUXYN_116059 Number of predicted TMRs: 0
+OSUXYN_116059	signal	1	10				
+OSUXYN_116059	outside	11	33				
+//
+# OSUXYN_168096 Length: 43
+# OSUXYN_168096 Number of predicted TMRs: 0
+OSUXYN_168096	inside	1	43				
+//
+# OSUXYN_149118 Length: 43
+# OSUXYN_149118 Number of predicted TMRs: 0
+OSUXYN_149118	inside	1	43				
+//
+# OSUXYN_56077 Length: 48
+# OSUXYN_56077 Number of predicted TMRs: 0
+OSUXYN_56077	signal	1	45				
+OSUXYN_56077	outside	46	48				
+//
+# OSUXYN_151040 Length: 49
+# OSUXYN_151040 Number of predicted TMRs: 0
+OSUXYN_151040	outside	1	49				
+//
+# OSUXYN_162974 Length: 45
+# OSUXYN_162974 Number of predicted TMRs: 0
+OSUXYN_162974	inside	1	45				
+//
+# OSUXYN_125492 Length: 44
+# OSUXYN_125492 Number of predicted TMRs: 0
+OSUXYN_125492	inside	1	44				
+//
+# OSUXYN_115062 Length: 48
+# OSUXYN_115062 Number of predicted TMRs: 0
+OSUXYN_115062	signal	1	47				
+OSUXYN_115062	outside	48	48				
+//
+# OSUXYN_139335 Length: 32
+# OSUXYN_139335 Number of predicted TMRs: 0
+OSUXYN_139335	signal	1	12				
+OSUXYN_139335	outside	13	32				
+//
+# OSUXYN_138989 Length: 33
+# OSUXYN_138989 Number of predicted TMRs: 0
+OSUXYN_138989	signal	1	12				
+OSUXYN_138989	outside	13	33				
+//
+# OSUXYN_139329 Length: 43
+# OSUXYN_139329 Number of predicted TMRs: 0
+OSUXYN_139329	signal	1	12				
+OSUXYN_139329	outside	13	43				
+//
+# OSUXYN_169720 Length: 43
+# OSUXYN_169720 Number of predicted TMRs: 0
+OSUXYN_169720	inside	1	43				
+//
+# OSUXYN_162776 Length: 44
+# OSUXYN_162776 Number of predicted TMRs: 0
+OSUXYN_162776	signal	1	43				
+OSUXYN_162776	outside	44	44				
+//
+# OSUXYN_83259 Length: 45
+# OSUXYN_83259 Number of predicted TMRs: 0
+OSUXYN_83259	inside	1	45				
+//
+# OSUXYN_42871 Length: 38
+# OSUXYN_42871 Number of predicted TMRs: 0
+OSUXYN_42871	signal	1	14				
+OSUXYN_42871	outside	15	38				
+//
+# OSUXYN_55762 Length: 47
+# OSUXYN_55762 Number of predicted TMRs: 0
+OSUXYN_55762	inside	1	47				
+//
+# OSUXYN_114167 Length: 50
+# OSUXYN_114167 Number of predicted TMRs: 0
+OSUXYN_114167	signal	1	11				
+OSUXYN_114167	outside	12	50				
+//
+# OSUXYN_14288 Length: 46
+# OSUXYN_14288 Number of predicted TMRs: 0
+OSUXYN_14288	inside	1	46				
+//
+# OSUXYN_122255 Length: 47
+# OSUXYN_122255 Number of predicted TMRs: 0
+OSUXYN_122255	signal	1	10				
+OSUXYN_122255	outside	11	47				
+//
+# OSUXYN_92623 Length: 50
+# OSUXYN_92623 Number of predicted TMRs: 0
+OSUXYN_92623	inside	1	50				
+//
+# OSUXYN_85442 Length: 47
+# OSUXYN_85442 Number of predicted TMRs: 0
+OSUXYN_85442	inside	1	47				
+//
+# OSUXYN_2206 Length: 48
+# OSUXYN_2206 Number of predicted TMRs: 0
+OSUXYN_2206	inside	1	48				
+//
+# OSUXYN_12804 Length: 41
+# OSUXYN_12804 Number of predicted TMRs: 0
+OSUXYN_12804	signal	1	10				
+OSUXYN_12804	outside	11	41				
+//
+# OSUXYN_35883 Length: 47
+# OSUXYN_35883 Number of predicted TMRs: 0
+OSUXYN_35883	outside	1	47				
+//
+# OSUXYN_85126 Length: 37
+# OSUXYN_85126 Number of predicted TMRs: 0
+OSUXYN_85126	signal	1	28				
+OSUXYN_85126	outside	29	37				
+//
+# OSUXYN_85106 Length: 46
+# OSUXYN_85106 Number of predicted TMRs: 0
+OSUXYN_85106	signal	1	29				
+OSUXYN_85106	outside	30	46				
+//
+# OSUXYN_74059 Length: 47
+# OSUXYN_74059 Number of predicted TMRs: 0
+OSUXYN_74059	inside	1	47				
+//
+# OSUXYN_132687 Length: 47
+# OSUXYN_132687 Number of predicted TMRs: 0
+OSUXYN_132687	signal	1	44				
+OSUXYN_132687	outside	45	47				
+//
+# OSUXYN_155138 Length: 47
+# OSUXYN_155138 Number of predicted TMRs: 0
+OSUXYN_155138	outside	1	47				
+//
+# OSUXYN_142956 Length: 38
+# OSUXYN_142956 Number of predicted TMRs: 0
+OSUXYN_142956	inside	1	38				
+//
+# OSUXYN_161058 Length: 43
+# OSUXYN_161058 Number of predicted TMRs: 0
+OSUXYN_161058	inside	1	43				
+//
+# OSUXYN_115528 Length: 42
+# OSUXYN_115528 Number of predicted TMRs: 0
+OSUXYN_115528	signal	1	23				
+OSUXYN_115528	outside	24	42				
+//
+# OSUXYN_10661 Length: 45
+# OSUXYN_10661 Number of predicted TMRs: 0
+OSUXYN_10661	signal	1	21				
+OSUXYN_10661	outside	22	45				
+//
+# OSUXYN_59096 Length: 48
+# OSUXYN_59096 Number of predicted TMRs: 0
+OSUXYN_59096	inside	1	48				
+//
+# OSUXYN_136116 Length: 37
+# OSUXYN_136116 Number of predicted TMRs: 0
+OSUXYN_136116	inside	1	37				
+//
+# OSUXYN_140471 Length: 45
+# OSUXYN_140471 Number of predicted TMRs: 0
+OSUXYN_140471	signal	1	12				
+OSUXYN_140471	outside	13	45				
+//
+# OSUXYN_97244 Length: 44
+# OSUXYN_97244 Number of predicted TMRs: 0
+OSUXYN_97244	signal	1	41				
+OSUXYN_97244	outside	42	44				
+//
+# OSUXYN_163870 Length: 46
+# OSUXYN_163870 Number of predicted TMRs: 0
+OSUXYN_163870	signal	1	37				
+OSUXYN_163870	outside	38	46				
+//
+# OSUXYN_101036 Length: 36
+# OSUXYN_101036 Number of predicted TMRs: 0
+OSUXYN_101036	signal	1	34				
+OSUXYN_101036	outside	35	36				
+//
+# OSUXYN_2634 Length: 49
+# OSUXYN_2634 Number of predicted TMRs: 0
+OSUXYN_2634	signal	1	48				
+OSUXYN_2634	outside	49	49				
+//
+# OSUXYN_70518 Length: 49
+# OSUXYN_70518 Number of predicted TMRs: 0
+OSUXYN_70518	inside	1	49				
+//
+# OSUXYN_8969 Length: 47
+# OSUXYN_8969 Number of predicted TMRs: 0
+OSUXYN_8969	signal	1	21				
+OSUXYN_8969	outside	22	47				
+//
+# OSUXYN_6254 Length: 50
+# OSUXYN_6254 Number of predicted TMRs: 0
+OSUXYN_6254	inside	1	50				
+//
+# OSUXYN_141884 Length: 48
+# OSUXYN_141884 Number of predicted TMRs: 0
+OSUXYN_141884	inside	1	48				
+//
+# OSUXYN_105863 Length: 37
+# OSUXYN_105863 Number of predicted TMRs: 0
+OSUXYN_105863	inside	1	37				
+//
+# OSUXYN_33964 Length: 48
+# OSUXYN_33964 Number of predicted TMRs: 0
+OSUXYN_33964	signal	1	47				
+OSUXYN_33964	outside	48	48				
+//
+# OSUXYN_115716 Length: 50
+# OSUXYN_115716 Number of predicted TMRs: 0
+OSUXYN_115716	outside	1	50				
+//
+# OSUXYN_9121 Length: 42
+# OSUXYN_9121 Number of predicted TMRs: 0
+OSUXYN_9121	inside	1	42				
+//
+# OSUXYN_167699 Length: 39
+# OSUXYN_167699 Number of predicted TMRs: 0
+OSUXYN_167699	signal	1	38				
+OSUXYN_167699	outside	39	39				
+//
+# OSUXYN_168567 Length: 50
+# OSUXYN_168567 Number of predicted TMRs: 0
+OSUXYN_168567	inside	1	50				
+//
+# OSUXYN_90717 Length: 49
+# OSUXYN_90717 Number of predicted TMRs: 0
+OSUXYN_90717	inside	1	49				
+//
+# OSUXYN_23393 Length: 33
+# OSUXYN_23393 Number of predicted TMRs: 0
+OSUXYN_23393	signal	1	31				
+OSUXYN_23393	outside	32	33				
+//
+# OSUXYN_65665 Length: 39
+# OSUXYN_65665 Number of predicted TMRs: 0
+OSUXYN_65665	inside	1	39				
+//
+# OSUXYN_134001 Length: 50
+# OSUXYN_134001 Number of predicted TMRs: 0
+OSUXYN_134001	inside	1	50				
+//
+# OSUXYN_97177 Length: 50
+# OSUXYN_97177 Number of predicted TMRs: 0
+OSUXYN_97177	inside	1	50				
+//
+# OSUXYN_89868 Length: 46
+# OSUXYN_89868 Number of predicted TMRs: 0
+OSUXYN_89868	signal	1	37				
+OSUXYN_89868	outside	38	46				
+//
+# OSUXYN_93158 Length: 33
+# OSUXYN_93158 Number of predicted TMRs: 0
+OSUXYN_93158	signal	1	25				
+OSUXYN_93158	outside	26	33				
+//
+# OSUXYN_43249 Length: 47
+# OSUXYN_43249 Number of predicted TMRs: 0
+OSUXYN_43249	signal	1	32				
+OSUXYN_43249	outside	33	47				
+//
+# OSUXYN_76823 Length: 45
+# OSUXYN_76823 Number of predicted TMRs: 0
+OSUXYN_76823	signal	1	17				
+OSUXYN_76823	outside	18	45				
+//
+# OSUXYN_100676 Length: 45
+# OSUXYN_100676 Number of predicted TMRs: 0
+OSUXYN_100676	inside	1	45				
+//
+# OSUXYN_152886 Length: 48
+# OSUXYN_152886 Number of predicted TMRs: 0
+OSUXYN_152886	signal	1	41				
+OSUXYN_152886	outside	42	48				
+//
+# OSUXYN_143497 Length: 40
+# OSUXYN_143497 Number of predicted TMRs: 0
+OSUXYN_143497	inside	1	40				
+//
+# OSUXYN_98401 Length: 39
+# OSUXYN_98401 Number of predicted TMRs: 0
+OSUXYN_98401	signal	1	35				
+OSUXYN_98401	outside	36	39				
+//
+# OSUXYN_18875 Length: 44
+# OSUXYN_18875 Number of predicted TMRs: 0
+OSUXYN_18875	inside	1	44				
+//
+# OSUXYN_101708 Length: 39
+# OSUXYN_101708 Number of predicted TMRs: 0
+OSUXYN_101708	signal	1	35				
+OSUXYN_101708	outside	36	39				
+//
+# OSUXYN_11523 Length: 46
+# OSUXYN_11523 Number of predicted TMRs: 0
+OSUXYN_11523	inside	1	46				
+//
+# OSUXYN_69070 Length: 48
+# OSUXYN_69070 Number of predicted TMRs: 0
+OSUXYN_69070	inside	1	48				
+//
+# OSUXYN_132830 Length: 39
+# OSUXYN_132830 Number of predicted TMRs: 0
+OSUXYN_132830	inside	1	39				
+//
+# OSUXYN_60299 Length: 38
+# OSUXYN_60299 Number of predicted TMRs: 0
+OSUXYN_60299	signal	1	35				
+OSUXYN_60299	outside	36	38				
+//
+# OSUXYN_75198 Length: 37
+# OSUXYN_75198 Number of predicted TMRs: 0
+OSUXYN_75198	signal	1	34				
+OSUXYN_75198	outside	35	37				
+//
+# OSUXYN_76174 Length: 46
+# OSUXYN_76174 Number of predicted TMRs: 0
+OSUXYN_76174	signal	1	42				
+OSUXYN_76174	outside	43	46				
+//
+# OSUXYN_30386 Length: 45
+# OSUXYN_30386 Number of predicted TMRs: 0
+OSUXYN_30386	signal	1	44				
+OSUXYN_30386	outside	45	45				
+//
+# OSUXYN_30160 Length: 46
+# OSUXYN_30160 Number of predicted TMRs: 0
+OSUXYN_30160	signal	1	45				
+OSUXYN_30160	outside	46	46				
+//
+# OSUXYN_153188 Length: 46
+# OSUXYN_153188 Number of predicted TMRs: 0
+OSUXYN_153188	signal	1	39				
+OSUXYN_153188	outside	40	46				
+//
+# OSUXYN_77942 Length: 49
+# OSUXYN_77942 Number of predicted TMRs: 0
+OSUXYN_77942	outside	1	49				
+//
+# OSUXYN_163538 Length: 48
+# OSUXYN_163538 Number of predicted TMRs: 0
+OSUXYN_163538	signal	1	44				
+OSUXYN_163538	outside	45	48				
+//
+# OSUXYN_68263 Length: 50
+# OSUXYN_68263 Number of predicted TMRs: 0
+OSUXYN_68263	inside	1	50				
+//
+# OSUXYN_65938 Length: 40
+# OSUXYN_65938 Number of predicted TMRs: 0
+OSUXYN_65938	signal	1	20				
+OSUXYN_65938	outside	21	40				
+//
+# OSUXYN_32755 Length: 49
+# OSUXYN_32755 Number of predicted TMRs: 0
+OSUXYN_32755	inside	1	49				
+//
+# OSUXYN_62868 Length: 29
+# OSUXYN_62868 Number of predicted TMRs: 0
+OSUXYN_62868	inside	1	29				
+//
+# OSUXYN_119482 Length: 47
+# OSUXYN_119482 Number of predicted TMRs: 0
+OSUXYN_119482	inside	1	47				
+//
+# OSUXYN_39682 Length: 50
+# OSUXYN_39682 Number of predicted TMRs: 0
+OSUXYN_39682	inside	1	50				
+//
+# OSUXYN_166874 Length: 40
+# OSUXYN_166874 Number of predicted TMRs: 0
+OSUXYN_166874	inside	1	40				
+//
+# OSUXYN_166862 Length: 40
+# OSUXYN_166862 Number of predicted TMRs: 0
+OSUXYN_166862	signal	1	21				
+OSUXYN_166862	outside	22	40				
+//
+# OSUXYN_124016 Length: 42
+# OSUXYN_124016 Number of predicted TMRs: 0
+OSUXYN_124016	signal	1	25				
+OSUXYN_124016	outside	26	42				
+//
+# OSUXYN_120428 Length: 48
+# OSUXYN_120428 Number of predicted TMRs: 0
+OSUXYN_120428	signal	1	47				
+OSUXYN_120428	outside	48	48				
+//
+# OSUXYN_19539 Length: 49
+# OSUXYN_19539 Number of predicted TMRs: 0
+OSUXYN_19539	inside	1	49				
+//
+# OSUXYN_83746 Length: 44
+# OSUXYN_83746 Number of predicted TMRs: 0
+OSUXYN_83746	signal	1	43				
+OSUXYN_83746	outside	44	44				
+//
+# OSUXYN_64634 Length: 50
+# OSUXYN_64634 Number of predicted TMRs: 0
+OSUXYN_64634	signal	1	33				
+OSUXYN_64634	outside	34	50				
+//
+# OSUXYN_110421 Length: 35
+# OSUXYN_110421 Number of predicted TMRs: 0
+OSUXYN_110421	signal	1	11				
+OSUXYN_110421	outside	12	35				
+//
+# OSUXYN_151045 Length: 50
+# OSUXYN_151045 Number of predicted TMRs: 0
+OSUXYN_151045	inside	1	50				
+//
+# OSUXYN_100170 Length: 50
+# OSUXYN_100170 Number of predicted TMRs: 0
+OSUXYN_100170	inside	1	50				
+//
+# OSUXYN_54739 Length: 36
+# OSUXYN_54739 Number of predicted TMRs: 0
+OSUXYN_54739	signal	1	24				
+OSUXYN_54739	outside	25	36				
+//
+# OSUXYN_67800 Length: 50
+# OSUXYN_67800 Number of predicted TMRs: 0
+OSUXYN_67800	inside	1	50				
+//
+# OSUXYN_144234 Length: 49
+# OSUXYN_144234 Number of predicted TMRs: 0
+OSUXYN_144234	inside	1	49				
+//
+# OSUXYN_100695 Length: 37
+# OSUXYN_100695 Number of predicted TMRs: 0
+OSUXYN_100695	signal	1	26				
+OSUXYN_100695	outside	27	37				
+//
+# OSUXYN_71888 Length: 36
+# OSUXYN_71888 Number of predicted TMRs: 0
+OSUXYN_71888	inside	1	36				
+//
+# OSUXYN_105824 Length: 48
+# OSUXYN_105824 Number of predicted TMRs: 0
+OSUXYN_105824	inside	1	48				
+//
+# OSUXYN_9753 Length: 47
+# OSUXYN_9753 Number of predicted TMRs: 0
+OSUXYN_9753	outside	1	47				
+//
+# OSUXYN_97952 Length: 46
+# OSUXYN_97952 Number of predicted TMRs: 0
+OSUXYN_97952	signal	1	35				
+OSUXYN_97952	outside	36	46				
+//
+# OSUXYN_26830 Length: 49
+# OSUXYN_26830 Number of predicted TMRs: 0
+OSUXYN_26830	signal	1	44				
+OSUXYN_26830	outside	45	49				
+//
+# OSUXYN_74193 Length: 48
+# OSUXYN_74193 Number of predicted TMRs: 0
+OSUXYN_74193	inside	1	48				
+//
+# OSUXYN_46637 Length: 50
+# OSUXYN_46637 Number of predicted TMRs: 0
+OSUXYN_46637	signal	1	15				
+OSUXYN_46637	outside	16	50				
+//
+# OSUXYN_77338 Length: 50
+# OSUXYN_77338 Number of predicted TMRs: 0
+OSUXYN_77338	inside	1	50				
+//
+# OSUXYN_104558 Length: 47
+# OSUXYN_104558 Number of predicted TMRs: 0
+OSUXYN_104558	signal	1	44				
+OSUXYN_104558	outside	45	47				
+//
+# OSUXYN_13045 Length: 50
+# OSUXYN_13045 Number of predicted TMRs: 0
+OSUXYN_13045	inside	1	50				
+//
+# OSUXYN_46464 Length: 49
+# OSUXYN_46464 Number of predicted TMRs: 0
+OSUXYN_46464	inside	1	49				
+//
+# OSUXYN_143359 Length: 42
+# OSUXYN_143359 Number of predicted TMRs: 0
+OSUXYN_143359	signal	1	40				
+OSUXYN_143359	outside	41	42				
+//
+# OSUXYN_89180 Length: 50
+# OSUXYN_89180 Number of predicted TMRs: 0
+OSUXYN_89180	inside	1	50				
+//
+# OSUXYN_35166 Length: 50
+# OSUXYN_35166 Number of predicted TMRs: 0
+OSUXYN_35166	inside	1	50				
+//
+# OSUXYN_30775 Length: 44
+# OSUXYN_30775 Number of predicted TMRs: 0
+OSUXYN_30775	signal	1	32				
+OSUXYN_30775	outside	33	44				
+//
+# OSUXYN_85317 Length: 45
+# OSUXYN_85317 Number of predicted TMRs: 0
+OSUXYN_85317	inside	1	45				
+//
+# OSUXYN_66871 Length: 42
+# OSUXYN_66871 Number of predicted TMRs: 0
+OSUXYN_66871	signal	1	28				
+OSUXYN_66871	outside	29	42				
+//
+# OSUXYN_84497 Length: 38
+# OSUXYN_84497 Number of predicted TMRs: 0
+OSUXYN_84497	signal	1	22				
+OSUXYN_84497	outside	23	38				
+//
+# OSUXYN_140794 Length: 43
+# OSUXYN_140794 Number of predicted TMRs: 0
+OSUXYN_140794	signal	1	32				
+OSUXYN_140794	outside	33	43				
+//
+# OSUXYN_6742 Length: 47
+# OSUXYN_6742 Number of predicted TMRs: 0
+OSUXYN_6742	signal	1	10				
+OSUXYN_6742	outside	11	47				
+//
+# OSUXYN_3513 Length: 48
+# OSUXYN_3513 Number of predicted TMRs: 0
+OSUXYN_3513	inside	1	48				
+//
+# OSUXYN_89196 Length: 45
+# OSUXYN_89196 Number of predicted TMRs: 0
+OSUXYN_89196	signal	1	14				
+OSUXYN_89196	outside	15	45				
+//
+# OSUXYN_77456 Length: 47
+# OSUXYN_77456 Number of predicted TMRs: 1
+OSUXYN_77456	inside	1	6				
+OSUXYN_77456	TMhelix	7	27				
+OSUXYN_77456	outside	28	47				
+//
+# OSUXYN_145872 Length: 41
+# OSUXYN_145872 Number of predicted TMRs: 0
+OSUXYN_145872	inside	1	41				
+//
+# OSUXYN_115710 Length: 41
+# OSUXYN_115710 Number of predicted TMRs: 0
+OSUXYN_115710	inside	1	41				
+//
+# OSUXYN_133737 Length: 42
+# OSUXYN_133737 Number of predicted TMRs: 0
+OSUXYN_133737	signal	1	35				
+OSUXYN_133737	outside	36	42				
+//
+# OSUXYN_62561 Length: 43
+# OSUXYN_62561 Number of predicted TMRs: 0
+OSUXYN_62561	inside	1	43				
+//
+# OSUXYN_85650 Length: 49
+# OSUXYN_85650 Number of predicted TMRs: 0
+OSUXYN_85650	inside	1	49				
+//
+# OSUXYN_72432 Length: 50
+# OSUXYN_72432 Number of predicted TMRs: 0
+OSUXYN_72432	inside	1	50				
+//
+# OSUXYN_63027 Length: 42
+# OSUXYN_63027 Number of predicted TMRs: 0
+OSUXYN_63027	inside	1	42				
+//
+# OSUXYN_88887 Length: 44
+# OSUXYN_88887 Number of predicted TMRs: 0
+OSUXYN_88887	inside	1	44				
+//
+# OSUXYN_124994 Length: 29
+# OSUXYN_124994 Number of predicted TMRs: 0
+OSUXYN_124994	inside	1	29				
+//
+# OSUXYN_122900 Length: 50
+# OSUXYN_122900 Number of predicted TMRs: 0
+OSUXYN_122900	inside	1	50				
+//
+# OSUXYN_18692 Length: 47
+# OSUXYN_18692 Number of predicted TMRs: 0
+OSUXYN_18692	inside	1	47				
+//
+# OSUXYN_71194 Length: 42
+# OSUXYN_71194 Number of predicted TMRs: 0
+OSUXYN_71194	signal	1	10				
+OSUXYN_71194	outside	11	42				
+//
+# OSUXYN_125933 Length: 47
+# OSUXYN_125933 Number of predicted TMRs: 0
+OSUXYN_125933	signal	1	46				
+OSUXYN_125933	outside	47	47				
+//
+# OSUXYN_14201 Length: 46
+# OSUXYN_14201 Number of predicted TMRs: 0
+OSUXYN_14201	inside	1	46				
+//
+# OSUXYN_104525 Length: 41
+# OSUXYN_104525 Number of predicted TMRs: 0
+OSUXYN_104525	inside	1	41				
+//
+# OSUXYN_51584 Length: 45
+# OSUXYN_51584 Number of predicted TMRs: 0
+OSUXYN_51584	inside	1	45				
+//
+# OSUXYN_84769 Length: 43
+# OSUXYN_84769 Number of predicted TMRs: 0
+OSUXYN_84769	inside	1	43				
+//
+# OSUXYN_108013 Length: 45
+# OSUXYN_108013 Number of predicted TMRs: 0
+OSUXYN_108013	signal	1	26				
+OSUXYN_108013	outside	27	45				
+//
+# OSUXYN_73419 Length: 44
+# OSUXYN_73419 Number of predicted TMRs: 0
+OSUXYN_73419	inside	1	44				
+//
+# OSUXYN_109313 Length: 45
+# OSUXYN_109313 Number of predicted TMRs: 0
+OSUXYN_109313	inside	1	45				
+//
+# OSUXYN_163915 Length: 46
+# OSUXYN_163915 Number of predicted TMRs: 0
+OSUXYN_163915	signal	1	44				
+OSUXYN_163915	outside	45	46				
+//
+# OSUXYN_121252 Length: 49
+# OSUXYN_121252 Number of predicted TMRs: 0
+OSUXYN_121252	inside	1	49				
+//
+# OSUXYN_33162 Length: 38
+# OSUXYN_33162 Number of predicted TMRs: 0
+OSUXYN_33162	signal	1	35				
+OSUXYN_33162	outside	36	38				
+//
+# OSUXYN_166777 Length: 48
+# OSUXYN_166777 Number of predicted TMRs: 0
+OSUXYN_166777	inside	1	48				
+//
+# OSUXYN_105757 Length: 50
+# OSUXYN_105757 Number of predicted TMRs: 0
+OSUXYN_105757	inside	1	50				
+//
+# OSUXYN_70170 Length: 43
+# OSUXYN_70170 Number of predicted TMRs: 0
+OSUXYN_70170	inside	1	43				
+//
+# OSUXYN_96102 Length: 41
+# OSUXYN_96102 Number of predicted TMRs: 0
+OSUXYN_96102	signal	1	25				
+OSUXYN_96102	outside	26	41				
+//
+# OSUXYN_49236 Length: 44
+# OSUXYN_49236 Number of predicted TMRs: 0
+OSUXYN_49236	inside	1	44				
+//
+# OSUXYN_164871 Length: 50
+# OSUXYN_164871 Number of predicted TMRs: 0
+OSUXYN_164871	inside	1	50				
+//
+# OSUXYN_86367 Length: 48
+# OSUXYN_86367 Number of predicted TMRs: 0
+OSUXYN_86367	inside	1	48				
+//
+# OSUXYN_165884 Length: 39
+# OSUXYN_165884 Number of predicted TMRs: 0
+OSUXYN_165884	inside	1	39				
+//
+# OSUXYN_78518 Length: 47
+# OSUXYN_78518 Number of predicted TMRs: 0
+OSUXYN_78518	inside	1	47				
+//
+# OSUXYN_21619 Length: 38
+# OSUXYN_21619 Number of predicted TMRs: 0
+OSUXYN_21619	signal	1	36				
+OSUXYN_21619	outside	37	38				
+//
+# OSUXYN_42514 Length: 50
+# OSUXYN_42514 Number of predicted TMRs: 0
+OSUXYN_42514	inside	1	50				
+//
+# OSUXYN_170448 Length: 48
+# OSUXYN_170448 Number of predicted TMRs: 0
+OSUXYN_170448	inside	1	48				
+//
+# OSUXYN_7843 Length: 42
+# OSUXYN_7843 Number of predicted TMRs: 0
+OSUXYN_7843	inside	1	42				
+//
+# OSUXYN_118579 Length: 48
+# OSUXYN_118579 Number of predicted TMRs: 0
+OSUXYN_118579	inside	1	48				
+//
+# OSUXYN_60382 Length: 48
+# OSUXYN_60382 Number of predicted TMRs: 0
+OSUXYN_60382	inside	1	48				
+//
+# OSUXYN_11793 Length: 48
+# OSUXYN_11793 Number of predicted TMRs: 0
+OSUXYN_11793	signal	1	17				
+OSUXYN_11793	outside	18	48				
+//
+# OSUXYN_46526 Length: 42
+# OSUXYN_46526 Number of predicted TMRs: 0
+OSUXYN_46526	inside	1	42				
+//
+# OSUXYN_140890 Length: 40
+# OSUXYN_140890 Number of predicted TMRs: 0
+OSUXYN_140890	inside	1	40				
+//
+# OSUXYN_170031 Length: 50
+# OSUXYN_170031 Number of predicted TMRs: 0
+OSUXYN_170031	signal	1	10				
+OSUXYN_170031	outside	11	50				
+//
+# OSUXYN_53792 Length: 37
+# OSUXYN_53792 Number of predicted TMRs: 0
+OSUXYN_53792	signal	1	34				
+OSUXYN_53792	outside	35	37				
+//
+# OSUXYN_40809 Length: 49
+# OSUXYN_40809 Number of predicted TMRs: 0
+OSUXYN_40809	inside	1	49				
+//
+# OSUXYN_109126 Length: 46
+# OSUXYN_109126 Number of predicted TMRs: 0
+OSUXYN_109126	inside	1	46				
+//
+# OSUXYN_136680 Length: 49
+# OSUXYN_136680 Number of predicted TMRs: 0
+OSUXYN_136680	inside	1	49				
+//
+# OSUXYN_22058 Length: 37
+# OSUXYN_22058 Number of predicted TMRs: 0
+OSUXYN_22058	signal	1	29				
+OSUXYN_22058	outside	30	37				
+//
+# OSUXYN_55454 Length: 46
+# OSUXYN_55454 Number of predicted TMRs: 0
+OSUXYN_55454	inside	1	46				
+//
+# OSUXYN_79524 Length: 50
+# OSUXYN_79524 Number of predicted TMRs: 0
+OSUXYN_79524	signal	1	41				
+OSUXYN_79524	outside	42	50				
+//
+# OSUXYN_14544 Length: 42
+# OSUXYN_14544 Number of predicted TMRs: 0
+OSUXYN_14544	inside	1	42				
+//
+# OSUXYN_38957 Length: 45
+# OSUXYN_38957 Number of predicted TMRs: 0
+OSUXYN_38957	inside	1	45				
+//
+# OSUXYN_131470 Length: 45
+# OSUXYN_131470 Number of predicted TMRs: 0
+OSUXYN_131470	signal	1	15				
+OSUXYN_131470	outside	16	45				
+//
+# OSUXYN_28967 Length: 45
+# OSUXYN_28967 Number of predicted TMRs: 0
+OSUXYN_28967	signal	1	44				
+OSUXYN_28967	outside	45	45				
+//
+# OSUXYN_79758 Length: 46
+# OSUXYN_79758 Number of predicted TMRs: 0
+OSUXYN_79758	signal	1	45				
+OSUXYN_79758	outside	46	46				
+//
+# OSUXYN_82481 Length: 41
+# OSUXYN_82481 Number of predicted TMRs: 0
+OSUXYN_82481	signal	1	40				
+OSUXYN_82481	outside	41	41				
+//
+# OSUXYN_162206 Length: 46
+# OSUXYN_162206 Number of predicted TMRs: 0
+OSUXYN_162206	signal	1	45				
+OSUXYN_162206	outside	46	46				
+//
+# OSUXYN_148930 Length: 48
+# OSUXYN_148930 Number of predicted TMRs: 0
+OSUXYN_148930	signal	1	14				
+OSUXYN_148930	outside	15	48				
+//
+# OSUXYN_121571 Length: 48
+# OSUXYN_121571 Number of predicted TMRs: 0
+OSUXYN_121571	inside	1	48				
+//
+# OSUXYN_86191 Length: 49
+# OSUXYN_86191 Number of predicted TMRs: 0
+OSUXYN_86191	inside	1	49				
+//
+# OSUXYN_43214 Length: 42
+# OSUXYN_43214 Number of predicted TMRs: 0
+OSUXYN_43214	inside	1	42				
+//
+# OSUXYN_17362 Length: 44
+# OSUXYN_17362 Number of predicted TMRs: 0
+OSUXYN_17362	inside	1	44				
+//
+# OSUXYN_134426 Length: 37
+# OSUXYN_134426 Number of predicted TMRs: 0
+OSUXYN_134426	inside	1	37				
+//
+# OSUXYN_31907 Length: 47
+# OSUXYN_31907 Number of predicted TMRs: 0
+OSUXYN_31907	inside	1	47				
+//
+# OSUXYN_24052 Length: 45
+# OSUXYN_24052 Number of predicted TMRs: 0
+OSUXYN_24052	inside	1	45				
+//
+# OSUXYN_132908 Length: 41
+# OSUXYN_132908 Number of predicted TMRs: 0
+OSUXYN_132908	signal	1	28				
+OSUXYN_132908	outside	29	41				
+//
+# OSUXYN_106688 Length: 38
+# OSUXYN_106688 Number of predicted TMRs: 0
+OSUXYN_106688	signal	1	37				
+OSUXYN_106688	outside	38	38				
+//
+# OSUXYN_42519 Length: 40
+# OSUXYN_42519 Number of predicted TMRs: 0
+OSUXYN_42519	inside	1	40				
+//
+# OSUXYN_35985 Length: 42
+# OSUXYN_35985 Number of predicted TMRs: 0
+OSUXYN_35985	inside	1	42				
+//
+# OSUXYN_61791 Length: 38
+# OSUXYN_61791 Number of predicted TMRs: 0
+OSUXYN_61791	signal	1	18				
+OSUXYN_61791	outside	19	38				
+//
+# OSUXYN_45646 Length: 50
+# OSUXYN_45646 Number of predicted TMRs: 0
+OSUXYN_45646	inside	1	50				
+//
+# OSUXYN_44739 Length: 49
+# OSUXYN_44739 Number of predicted TMRs: 0
+OSUXYN_44739	signal	1	47				
+OSUXYN_44739	outside	48	49				
+//
+# OSUXYN_131203 Length: 46
+# OSUXYN_131203 Number of predicted TMRs: 0
+OSUXYN_131203	inside	1	46				
+//
+# OSUXYN_62422 Length: 50
+# OSUXYN_62422 Number of predicted TMRs: 0
+OSUXYN_62422	inside	1	50				
+//
+# OSUXYN_73997 Length: 32
+# OSUXYN_73997 Number of predicted TMRs: 0
+OSUXYN_73997	inside	1	32				
+//
+# OSUXYN_3541 Length: 48
+# OSUXYN_3541 Number of predicted TMRs: 0
+OSUXYN_3541	inside	1	48				
+//
+# OSUXYN_135667 Length: 50
+# OSUXYN_135667 Number of predicted TMRs: 0
+OSUXYN_135667	inside	1	50				
+//
+# OSUXYN_67035 Length: 46
+# OSUXYN_67035 Number of predicted TMRs: 0
+OSUXYN_67035	signal	1	45				
+OSUXYN_67035	outside	46	46				
+//
+# OSUXYN_22144 Length: 49
+# OSUXYN_22144 Number of predicted TMRs: 0
+OSUXYN_22144	inside	1	49				
+//
+# OSUXYN_50795 Length: 41
+# OSUXYN_50795 Number of predicted TMRs: 0
+OSUXYN_50795	inside	1	41				
+//
+# OSUXYN_93256 Length: 49
+# OSUXYN_93256 Number of predicted TMRs: 0
+OSUXYN_93256	inside	1	49				
+//
+# OSUXYN_55207 Length: 45
+# OSUXYN_55207 Number of predicted TMRs: 0
+OSUXYN_55207	inside	1	45				
+//
+# OSUXYN_169179 Length: 44
+# OSUXYN_169179 Number of predicted TMRs: 0
+OSUXYN_169179	signal	1	29				
+OSUXYN_169179	outside	30	44				
+//
+# OSUXYN_86234 Length: 45
+# OSUXYN_86234 Number of predicted TMRs: 0
+OSUXYN_86234	inside	1	45				
+//
+# OSUXYN_168269 Length: 40
+# OSUXYN_168269 Number of predicted TMRs: 0
+OSUXYN_168269	inside	1	40				
+//
+# OSUXYN_55208 Length: 42
+# OSUXYN_55208 Number of predicted TMRs: 0
+OSUXYN_55208	signal	1	41				
+OSUXYN_55208	outside	42	42				
+//
+# OSUXYN_90196 Length: 36
+# OSUXYN_90196 Number of predicted TMRs: 0
+OSUXYN_90196	inside	1	36				
+//
+# OSUXYN_162067 Length: 42
+# OSUXYN_162067 Number of predicted TMRs: 0
+OSUXYN_162067	signal	1	40				
+OSUXYN_162067	outside	41	42				
+//
+# OSUXYN_42824 Length: 50
+# OSUXYN_42824 Number of predicted TMRs: 0
+OSUXYN_42824	inside	1	50				
+//
+# OSUXYN_74550 Length: 47
+# OSUXYN_74550 Number of predicted TMRs: 0
+OSUXYN_74550	outside	1	47				
+//
+# OSUXYN_4010 Length: 44
+# OSUXYN_4010 Number of predicted TMRs: 0
+OSUXYN_4010	inside	1	44				
+//
+# OSUXYN_24632 Length: 38
+# OSUXYN_24632 Number of predicted TMRs: 0
+OSUXYN_24632	signal	1	27				
+OSUXYN_24632	outside	28	38				
+//
+# OSUXYN_83583 Length: 44
+# OSUXYN_83583 Number of predicted TMRs: 0
+OSUXYN_83583	inside	1	44				
+//
+# OSUXYN_100486 Length: 43
+# OSUXYN_100486 Number of predicted TMRs: 0
+OSUXYN_100486	inside	1	43				
+//
+# OSUXYN_25699 Length: 47
+# OSUXYN_25699 Number of predicted TMRs: 0
+OSUXYN_25699	signal	1	15				
+OSUXYN_25699	outside	16	47				
+//
+# OSUXYN_46201 Length: 49
+# OSUXYN_46201 Number of predicted TMRs: 0
+OSUXYN_46201	inside	1	49				
+//
+# OSUXYN_128651 Length: 49
+# OSUXYN_128651 Number of predicted TMRs: 0
+OSUXYN_128651	inside	1	49				
+//
+# OSUXYN_144485 Length: 41
+# OSUXYN_144485 Number of predicted TMRs: 0
+OSUXYN_144485	signal	1	39				
+OSUXYN_144485	outside	40	41				
+//
+# OSUXYN_123913 Length: 42
+# OSUXYN_123913 Number of predicted TMRs: 0
+OSUXYN_123913	inside	1	42				
+//
+# OSUXYN_147419 Length: 45
+# OSUXYN_147419 Number of predicted TMRs: 0
+OSUXYN_147419	outside	1	45				
+//
+# OSUXYN_89857 Length: 50
+# OSUXYN_89857 Number of predicted TMRs: 0
+OSUXYN_89857	inside	1	50				
+//
+# OSUXYN_28994 Length: 49
+# OSUXYN_28994 Number of predicted TMRs: 0
+OSUXYN_28994	inside	1	49				
+//
+# OSUXYN_100646 Length: 44
+# OSUXYN_100646 Number of predicted TMRs: 0
+OSUXYN_100646	inside	1	44				
+//
+# OSUXYN_50541 Length: 50
+# OSUXYN_50541 Number of predicted TMRs: 0
+OSUXYN_50541	inside	1	50				
+//
+# OSUXYN_43128 Length: 50
+# OSUXYN_43128 Number of predicted TMRs: 0
+OSUXYN_43128	inside	1	50				
+//
+# OSUXYN_26060 Length: 44
+# OSUXYN_26060 Number of predicted TMRs: 0
+OSUXYN_26060	signal	1	43				
+OSUXYN_26060	outside	44	44				
+//
+# OSUXYN_59466 Length: 38
+# OSUXYN_59466 Number of predicted TMRs: 0
+OSUXYN_59466	signal	1	10				
+OSUXYN_59466	outside	11	38				
+//
+# OSUXYN_118581 Length: 34
+# OSUXYN_118581 Number of predicted TMRs: 0
+OSUXYN_118581	inside	1	34				
+//
+# OSUXYN_3499 Length: 46
+# OSUXYN_3499 Number of predicted TMRs: 0
+OSUXYN_3499	inside	1	46				
+//
+# OSUXYN_43298 Length: 44
+# OSUXYN_43298 Number of predicted TMRs: 0
+OSUXYN_43298	inside	1	44				
+//
+# OSUXYN_12803 Length: 38
+# OSUXYN_12803 Number of predicted TMRs: 0
+OSUXYN_12803	signal	1	26				
+OSUXYN_12803	outside	27	38				
+//
+# OSUXYN_141736 Length: 49
+# OSUXYN_141736 Number of predicted TMRs: 0
+OSUXYN_141736	inside	1	49				
+//
+# OSUXYN_52926 Length: 35
+# OSUXYN_52926 Number of predicted TMRs: 0
+OSUXYN_52926	signal	1	34				
+OSUXYN_52926	outside	35	35				
+//
+# OSUXYN_21344 Length: 47
+# OSUXYN_21344 Number of predicted TMRs: 0
+OSUXYN_21344	signal	1	44				
+OSUXYN_21344	outside	45	47				
+//
+# OSUXYN_167042 Length: 43
+# OSUXYN_167042 Number of predicted TMRs: 0
+OSUXYN_167042	signal	1	42				
+OSUXYN_167042	outside	43	43				
+//
+# OSUXYN_122381 Length: 43
+# OSUXYN_122381 Number of predicted TMRs: 0
+OSUXYN_122381	signal	1	36				
+OSUXYN_122381	outside	37	43				
+//
+# OSUXYN_126748 Length: 40
+# OSUXYN_126748 Number of predicted TMRs: 0
+OSUXYN_126748	inside	1	40				
+//
+# OSUXYN_44247 Length: 49
+# OSUXYN_44247 Number of predicted TMRs: 0
+OSUXYN_44247	inside	1	49				
+//
+# OSUXYN_4008 Length: 39
+# OSUXYN_4008 Number of predicted TMRs: 0
+OSUXYN_4008	signal	1	37				
+OSUXYN_4008	outside	38	39				
+//
+# OSUXYN_45396 Length: 45
+# OSUXYN_45396 Number of predicted TMRs: 0
+OSUXYN_45396	signal	1	17				
+OSUXYN_45396	outside	18	45				
+//
+# OSUXYN_106380 Length: 50
+# OSUXYN_106380 Number of predicted TMRs: 0
+OSUXYN_106380	inside	1	50				
+//
+# OSUXYN_99592 Length: 37
+# OSUXYN_99592 Number of predicted TMRs: 0
+OSUXYN_99592	signal	1	25				
+OSUXYN_99592	outside	26	37				
+//
+# OSUXYN_125678 Length: 42
+# OSUXYN_125678 Number of predicted TMRs: 0
+OSUXYN_125678	inside	1	42				
+//
+# OSUXYN_118417 Length: 32
+# OSUXYN_118417 Number of predicted TMRs: 0
+OSUXYN_118417	signal	1	30				
+OSUXYN_118417	outside	31	32				
+//
+# OSUXYN_117842 Length: 34
+# OSUXYN_117842 Number of predicted TMRs: 0
+OSUXYN_117842	inside	1	34				
+//
+# OSUXYN_85525 Length: 37
+# OSUXYN_85525 Number of predicted TMRs: 0
+OSUXYN_85525	inside	1	37				
+//
+# OSUXYN_93433 Length: 31
+# OSUXYN_93433 Number of predicted TMRs: 0
+OSUXYN_93433	signal	1	14				
+OSUXYN_93433	outside	15	31				
+//
+# OSUXYN_150502 Length: 43
+# OSUXYN_150502 Number of predicted TMRs: 0
+OSUXYN_150502	signal	1	10				
+OSUXYN_150502	outside	11	43				
+//
+# OSUXYN_49509 Length: 39
+# OSUXYN_49509 Number of predicted TMRs: 0
+OSUXYN_49509	inside	1	39				
+//
+# OSUXYN_131698 Length: 45
+# OSUXYN_131698 Number of predicted TMRs: 0
+OSUXYN_131698	inside	1	45				
+//
+# OSUXYN_31159 Length: 48
+# OSUXYN_31159 Number of predicted TMRs: 0
+OSUXYN_31159	signal	1	21				
+OSUXYN_31159	outside	22	48				
+//
+# OSUXYN_49394 Length: 48
+# OSUXYN_49394 Number of predicted TMRs: 0
+OSUXYN_49394	inside	1	48				
+//
+# OSUXYN_21169 Length: 42
+# OSUXYN_21169 Number of predicted TMRs: 0
+OSUXYN_21169	inside	1	42				
+//
+# OSUXYN_79270 Length: 49
+# OSUXYN_79270 Number of predicted TMRs: 1
+OSUXYN_79270	outside	1	4				
+OSUXYN_79270	TMhelix	5	19				
+OSUXYN_79270	inside	20	49				
+//
+# OSUXYN_86948 Length: 39
+# OSUXYN_86948 Number of predicted TMRs: 0
+OSUXYN_86948	inside	1	39				
+//
+# OSUXYN_141306 Length: 39
+# OSUXYN_141306 Number of predicted TMRs: 0
+OSUXYN_141306	signal	1	20				
+OSUXYN_141306	outside	21	39				
+//
+# OSUXYN_145802 Length: 46
+# OSUXYN_145802 Number of predicted TMRs: 0
+OSUXYN_145802	inside	1	46				
+//
+# OSUXYN_118960 Length: 50
+# OSUXYN_118960 Number of predicted TMRs: 0
+OSUXYN_118960	inside	1	50				
+//
+# OSUXYN_77841 Length: 49
+# OSUXYN_77841 Number of predicted TMRs: 0
+OSUXYN_77841	signal	1	47				
+OSUXYN_77841	outside	48	49				
+//
+# OSUXYN_70785 Length: 46
+# OSUXYN_70785 Number of predicted TMRs: 0
+OSUXYN_70785	inside	1	46				
+//
+# OSUXYN_96193 Length: 46
+# OSUXYN_96193 Number of predicted TMRs: 0
+OSUXYN_96193	inside	1	46				
+//
+# OSUXYN_137399 Length: 46
+# OSUXYN_137399 Number of predicted TMRs: 0
+OSUXYN_137399	inside	1	46				
+//
+# OSUXYN_73873 Length: 42
+# OSUXYN_73873 Number of predicted TMRs: 0
+OSUXYN_73873	signal	1	38				
+OSUXYN_73873	outside	39	42				
+//
+# OSUXYN_58975 Length: 44
+# OSUXYN_58975 Number of predicted TMRs: 0
+OSUXYN_58975	inside	1	44				
+//
+# OSUXYN_93239 Length: 35
+# OSUXYN_93239 Number of predicted TMRs: 0
+OSUXYN_93239	signal	1	34				
+OSUXYN_93239	outside	35	35				
+//
+# OSUXYN_87610 Length: 40
+# OSUXYN_87610 Number of predicted TMRs: 0
+OSUXYN_87610	signal	1	38				
+OSUXYN_87610	outside	39	40				
+//
+# OSUXYN_146161 Length: 45
+# OSUXYN_146161 Number of predicted TMRs: 0
+OSUXYN_146161	inside	1	45				
+//
+# OSUXYN_162539 Length: 50
+# OSUXYN_162539 Number of predicted TMRs: 0
+OSUXYN_162539	signal	1	30				
+OSUXYN_162539	outside	31	50				
+//
+# OSUXYN_93081 Length: 45
+# OSUXYN_93081 Number of predicted TMRs: 0
+OSUXYN_93081	signal	1	26				
+OSUXYN_93081	outside	27	45				
+//
+# OSUXYN_118040 Length: 44
+# OSUXYN_118040 Number of predicted TMRs: 0
+OSUXYN_118040	inside	1	44				
+//
+# OSUXYN_15253 Length: 48
+# OSUXYN_15253 Number of predicted TMRs: 0
+OSUXYN_15253	inside	1	48				
+//
+# OSUXYN_115476 Length: 41
+# OSUXYN_115476 Number of predicted TMRs: 0
+OSUXYN_115476	inside	1	41				
+//
+# OSUXYN_138666 Length: 46
+# OSUXYN_138666 Number of predicted TMRs: 0
+OSUXYN_138666	inside	1	46				
+//
+# OSUXYN_45328 Length: 45
+# OSUXYN_45328 Number of predicted TMRs: 0
+OSUXYN_45328	inside	1	45				
+//
+# OSUXYN_95752 Length: 46
+# OSUXYN_95752 Number of predicted TMRs: 0
+OSUXYN_95752	signal	1	39				
+OSUXYN_95752	outside	40	46				
+//
+# OSUXYN_19520 Length: 48
+# OSUXYN_19520 Number of predicted TMRs: 0
+OSUXYN_19520	signal	1	28				
+OSUXYN_19520	outside	29	48				
+//
+# OSUXYN_14877 Length: 48
+# OSUXYN_14877 Number of predicted TMRs: 0
+OSUXYN_14877	inside	1	48				
+//
+# OSUXYN_113250 Length: 32
+# OSUXYN_113250 Number of predicted TMRs: 0
+OSUXYN_113250	signal	1	31				
+OSUXYN_113250	outside	32	32				
+//
+# OSUXYN_18971 Length: 40
+# OSUXYN_18971 Number of predicted TMRs: 0
+OSUXYN_18971	signal	1	34				
+OSUXYN_18971	outside	35	40				
+//
+# OSUXYN_142055 Length: 41
+# OSUXYN_142055 Number of predicted TMRs: 0
+OSUXYN_142055	signal	1	38				
+OSUXYN_142055	outside	39	41				
+//
+# OSUXYN_23377 Length: 50
+# OSUXYN_23377 Number of predicted TMRs: 0
+OSUXYN_23377	inside	1	50				
+//
+# OSUXYN_130673 Length: 44
+# OSUXYN_130673 Number of predicted TMRs: 0
+OSUXYN_130673	inside	1	44				
+//
+# OSUXYN_47932 Length: 50
+# OSUXYN_47932 Number of predicted TMRs: 0
+OSUXYN_47932	inside	1	50				
+//
+# OSUXYN_166979 Length: 35
+# OSUXYN_166979 Number of predicted TMRs: 0
+OSUXYN_166979	signal	1	21				
+OSUXYN_166979	outside	22	35				
+//
+# OSUXYN_143610 Length: 38
+# OSUXYN_143610 Number of predicted TMRs: 0
+OSUXYN_143610	signal	1	33				
+OSUXYN_143610	outside	34	38				
+//
+# OSUXYN_156748 Length: 36
+# OSUXYN_156748 Number of predicted TMRs: 0
+OSUXYN_156748	signal	1	18				
+OSUXYN_156748	outside	19	36				
+//
+# OSUXYN_104232 Length: 36
+# OSUXYN_104232 Number of predicted TMRs: 0
+OSUXYN_104232	inside	1	36				
+//
+# OSUXYN_33056 Length: 50
+# OSUXYN_33056 Number of predicted TMRs: 0
+OSUXYN_33056	inside	1	50				
+//
+# OSUXYN_10264 Length: 49
+# OSUXYN_10264 Number of predicted TMRs: 0
+OSUXYN_10264	signal	1	48				
+OSUXYN_10264	outside	49	49				
+//
+# OSUXYN_86628 Length: 43
+# OSUXYN_86628 Number of predicted TMRs: 0
+OSUXYN_86628	inside	1	43				
+//
+# OSUXYN_80463 Length: 49
+# OSUXYN_80463 Number of predicted TMRs: 0
+OSUXYN_80463	signal	1	32				
+OSUXYN_80463	outside	33	49				
+//
+# OSUXYN_60553 Length: 46
+# OSUXYN_60553 Number of predicted TMRs: 0
+OSUXYN_60553	signal	1	34				
+OSUXYN_60553	outside	35	46				
+//
+# OSUXYN_114261 Length: 46
+# OSUXYN_114261 Number of predicted TMRs: 0
+OSUXYN_114261	inside	1	46				
+//
+# OSUXYN_131794 Length: 39
+# OSUXYN_131794 Number of predicted TMRs: 0
+OSUXYN_131794	signal	1	24				
+OSUXYN_131794	outside	25	39				
+//
+# OSUXYN_126688 Length: 48
+# OSUXYN_126688 Number of predicted TMRs: 0
+OSUXYN_126688	inside	1	48				
+//
+# OSUXYN_146863 Length: 49
+# OSUXYN_146863 Number of predicted TMRs: 1
+OSUXYN_146863	inside	1	26				
+OSUXYN_146863	TMhelix	27	46				
+OSUXYN_146863	outside	47	49				
+//
+# OSUXYN_171796 Length: 46
+# OSUXYN_171796 Number of predicted TMRs: 0
+OSUXYN_171796	inside	1	46				
+//
+# OSUXYN_164411 Length: 47
+# OSUXYN_164411 Number of predicted TMRs: 0
+OSUXYN_164411	inside	1	47				
+//
+# OSUXYN_108977 Length: 49
+# OSUXYN_108977 Number of predicted TMRs: 0
+OSUXYN_108977	signal	1	47				
+OSUXYN_108977	outside	48	49				
+//
+# OSUXYN_127706 Length: 42
+# OSUXYN_127706 Number of predicted TMRs: 0
+OSUXYN_127706	inside	1	42				
+//
+# OSUXYN_6826 Length: 39
+# OSUXYN_6826 Number of predicted TMRs: 0
+OSUXYN_6826	inside	1	39				
+//
+# OSUXYN_132691 Length: 42
+# OSUXYN_132691 Number of predicted TMRs: 0
+OSUXYN_132691	signal	1	40				
+OSUXYN_132691	outside	41	42				
+//
+# OSUXYN_168748 Length: 40
+# OSUXYN_168748 Number of predicted TMRs: 0
+OSUXYN_168748	signal	1	24				
+OSUXYN_168748	outside	25	40				
+//
+# OSUXYN_94984 Length: 30
+# OSUXYN_94984 Number of predicted TMRs: 0
+OSUXYN_94984	signal	1	24				
+OSUXYN_94984	outside	25	30				
+//
+# OSUXYN_142292 Length: 42
+# OSUXYN_142292 Number of predicted TMRs: 0
+OSUXYN_142292	inside	1	42				
+//
+# OSUXYN_40581 Length: 41
+# OSUXYN_40581 Number of predicted TMRs: 0
+OSUXYN_40581	inside	1	41				
+//
+# OSUXYN_15870 Length: 49
+# OSUXYN_15870 Number of predicted TMRs: 0
+OSUXYN_15870	inside	1	49				
+//
+# OSUXYN_148168 Length: 43
+# OSUXYN_148168 Number of predicted TMRs: 0
+OSUXYN_148168	inside	1	43				
+//
+# OSUXYN_31117 Length: 40
+# OSUXYN_31117 Number of predicted TMRs: 0
+OSUXYN_31117	signal	1	39				
+OSUXYN_31117	outside	40	40				
+//
+# OSUXYN_31981 Length: 39
+# OSUXYN_31981 Number of predicted TMRs: 0
+OSUXYN_31981	inside	1	39				
+//
+# OSUXYN_120692 Length: 33
+# OSUXYN_120692 Number of predicted TMRs: 0
+OSUXYN_120692	signal	1	30				
+OSUXYN_120692	outside	31	33				
+//
+# OSUXYN_100660 Length: 43
+# OSUXYN_100660 Number of predicted TMRs: 0
+OSUXYN_100660	inside	1	43				
+//
+# OSUXYN_75227 Length: 47
+# OSUXYN_75227 Number of predicted TMRs: 0
+OSUXYN_75227	signal	1	46				
+OSUXYN_75227	outside	47	47				
+//
+# OSUXYN_35233 Length: 45
+# OSUXYN_35233 Number of predicted TMRs: 0
+OSUXYN_35233	inside	1	45				
+//
+# OSUXYN_42376 Length: 46
+# OSUXYN_42376 Number of predicted TMRs: 1
+OSUXYN_42376	signal	1	10				
+OSUXYN_42376	outside	11	11				
+OSUXYN_42376	TMhelix	12	25				
+OSUXYN_42376	inside	26	46				
+//
+# OSUXYN_137957 Length: 46
+# OSUXYN_137957 Number of predicted TMRs: 0
+OSUXYN_137957	inside	1	46				
+//
+# OSUXYN_2197 Length: 50
+# OSUXYN_2197 Number of predicted TMRs: 0
+OSUXYN_2197	inside	1	50				
+//
+# OSUXYN_70318 Length: 37
+# OSUXYN_70318 Number of predicted TMRs: 0
+OSUXYN_70318	signal	1	16				
+OSUXYN_70318	outside	17	37				
+//
+# OSUXYN_31731 Length: 44
+# OSUXYN_31731 Number of predicted TMRs: 0
+OSUXYN_31731	inside	1	44				
+//
+# OSUXYN_143087 Length: 47
+# OSUXYN_143087 Number of predicted TMRs: 0
+OSUXYN_143087	signal	1	35				
+OSUXYN_143087	outside	36	47				
+//
+# OSUXYN_92374 Length: 48
+# OSUXYN_92374 Number of predicted TMRs: 0
+OSUXYN_92374	outside	1	48				
+//
+# OSUXYN_23288 Length: 42
+# OSUXYN_23288 Number of predicted TMRs: 0
+OSUXYN_23288	inside	1	42				
+//
+# OSUXYN_139708 Length: 48
+# OSUXYN_139708 Number of predicted TMRs: 0
+OSUXYN_139708	inside	1	48				
+//
+# OSUXYN_163537 Length: 42
+# OSUXYN_163537 Number of predicted TMRs: 0
+OSUXYN_163537	inside	1	42				
+//
+# OSUXYN_76444 Length: 37
+# OSUXYN_76444 Number of predicted TMRs: 0
+OSUXYN_76444	inside	1	37				
+//
+# OSUXYN_85163 Length: 42
+# OSUXYN_85163 Number of predicted TMRs: 0
+OSUXYN_85163	inside	1	42				
+//
+# OSUXYN_166512 Length: 39
+# OSUXYN_166512 Number of predicted TMRs: 0
+OSUXYN_166512	signal	1	17				
+OSUXYN_166512	outside	18	39				
+//
+# OSUXYN_83523 Length: 48
+# OSUXYN_83523 Number of predicted TMRs: 0
+OSUXYN_83523	signal	1	17				
+OSUXYN_83523	outside	18	48				
+//
+# OSUXYN_129909 Length: 46
+# OSUXYN_129909 Number of predicted TMRs: 0
+OSUXYN_129909	signal	1	31				
+OSUXYN_129909	outside	32	46				
+//
+# OSUXYN_59162 Length: 41
+# OSUXYN_59162 Number of predicted TMRs: 0
+OSUXYN_59162	signal	1	13				
+OSUXYN_59162	outside	14	41				
+//
+# OSUXYN_149419 Length: 49
+# OSUXYN_149419 Number of predicted TMRs: 0
+OSUXYN_149419	signal	1	18				
+OSUXYN_149419	outside	19	49				
+//
+# OSUXYN_116860 Length: 47
+# OSUXYN_116860 Number of predicted TMRs: 0
+OSUXYN_116860	inside	1	47				
+//
+# OSUXYN_23836 Length: 40
+# OSUXYN_23836 Number of predicted TMRs: 0
+OSUXYN_23836	signal	1	31				
+OSUXYN_23836	outside	32	40				
+//
+# OSUXYN_171820 Length: 36
+# OSUXYN_171820 Number of predicted TMRs: 0
+OSUXYN_171820	inside	1	36				
+//
+# OSUXYN_120051 Length: 43
+# OSUXYN_120051 Number of predicted TMRs: 0
+OSUXYN_120051	signal	1	23				
+OSUXYN_120051	outside	24	43				
+//
+# OSUXYN_169807 Length: 36
+# OSUXYN_169807 Number of predicted TMRs: 0
+OSUXYN_169807	inside	1	36				
+//
+# OSUXYN_163940 Length: 39
+# OSUXYN_163940 Number of predicted TMRs: 0
+OSUXYN_163940	signal	1	21				
+OSUXYN_163940	outside	22	39				
+//
+# OSUXYN_33112 Length: 40
+# OSUXYN_33112 Number of predicted TMRs: 1
+OSUXYN_33112	inside	1	9				
+OSUXYN_33112	TMhelix	10	30				
+OSUXYN_33112	outside	31	40				
+//
+# OSUXYN_89957 Length: 48
+# OSUXYN_89957 Number of predicted TMRs: 0
+OSUXYN_89957	inside	1	48				
+//
+# OSUXYN_130926 Length: 41
+# OSUXYN_130926 Number of predicted TMRs: 0
+OSUXYN_130926	signal	1	13				
+OSUXYN_130926	outside	14	41				
+//
+# OSUXYN_146868 Length: 46
+# OSUXYN_146868 Number of predicted TMRs: 0
+OSUXYN_146868	inside	1	46				
+//
+# OSUXYN_157788 Length: 44
+# OSUXYN_157788 Number of predicted TMRs: 0
+OSUXYN_157788	inside	1	44				
+//
+# OSUXYN_32087 Length: 45
+# OSUXYN_32087 Number of predicted TMRs: 0
+OSUXYN_32087	signal	1	41				
+OSUXYN_32087	outside	42	45				
+//
+# OSUXYN_65396 Length: 45
+# OSUXYN_65396 Number of predicted TMRs: 0
+OSUXYN_65396	inside	1	45				
+//
+# OSUXYN_135261 Length: 43
+# OSUXYN_135261 Number of predicted TMRs: 0
+OSUXYN_135261	signal	1	32				
+OSUXYN_135261	outside	33	43				
+//
+# OSUXYN_30967 Length: 43
+# OSUXYN_30967 Number of predicted TMRs: 0
+OSUXYN_30967	signal	1	20				
+OSUXYN_30967	outside	21	43				
+//
+# OSUXYN_96362 Length: 40
+# OSUXYN_96362 Number of predicted TMRs: 0
+OSUXYN_96362	inside	1	40				
+//
+# OSUXYN_48768 Length: 40
+# OSUXYN_48768 Number of predicted TMRs: 0
+OSUXYN_48768	signal	1	12				
+OSUXYN_48768	outside	13	40				
+//
+# OSUXYN_33229 Length: 50
+# OSUXYN_33229 Number of predicted TMRs: 0
+OSUXYN_33229	inside	1	50				
+//
+# OSUXYN_68934 Length: 48
+# OSUXYN_68934 Number of predicted TMRs: 0
+OSUXYN_68934	outside	1	48				
+//
+# OSUXYN_120895 Length: 39
+# OSUXYN_120895 Number of predicted TMRs: 0
+OSUXYN_120895	inside	1	39				
+//
+# OSUXYN_103820 Length: 47
+# OSUXYN_103820 Number of predicted TMRs: 0
+OSUXYN_103820	signal	1	21				
+OSUXYN_103820	outside	22	47				
+//
+# OSUXYN_109952 Length: 38
+# OSUXYN_109952 Number of predicted TMRs: 0
+OSUXYN_109952	signal	1	10				
+OSUXYN_109952	outside	11	38				
+//
+# OSUXYN_62049 Length: 45
+# OSUXYN_62049 Number of predicted TMRs: 0
+OSUXYN_62049	inside	1	45				
+//
+# OSUXYN_24065 Length: 44
+# OSUXYN_24065 Number of predicted TMRs: 0
+OSUXYN_24065	inside	1	44				
+//
+# OSUXYN_132468 Length: 46
+# OSUXYN_132468 Number of predicted TMRs: 0
+OSUXYN_132468	inside	1	46				
+//
+# OSUXYN_111360 Length: 50
+# OSUXYN_111360 Number of predicted TMRs: 0
+OSUXYN_111360	signal	1	49				
+OSUXYN_111360	outside	50	50				
+//
+# OSUXYN_20548 Length: 49
+# OSUXYN_20548 Number of predicted TMRs: 0
+OSUXYN_20548	inside	1	49				
+//
+# OSUXYN_128315 Length: 38
+# OSUXYN_128315 Number of predicted TMRs: 0
+OSUXYN_128315	signal	1	37				
+OSUXYN_128315	outside	38	38				
+//
+# OSUXYN_122942 Length: 50
+# OSUXYN_122942 Number of predicted TMRs: 0
+OSUXYN_122942	inside	1	50				
+//
+# OSUXYN_116189 Length: 48
+# OSUXYN_116189 Number of predicted TMRs: 0
+OSUXYN_116189	inside	1	48				
+//
+# OSUXYN_31119 Length: 49
+# OSUXYN_31119 Number of predicted TMRs: 0
+OSUXYN_31119	signal	1	26				
+OSUXYN_31119	outside	27	49				
+//
+# OSUXYN_42023 Length: 49
+# OSUXYN_42023 Number of predicted TMRs: 0
+OSUXYN_42023	inside	1	49				
+//
+# OSUXYN_109059 Length: 49
+# OSUXYN_109059 Number of predicted TMRs: 0
+OSUXYN_109059	inside	1	49				
+//
+# OSUXYN_21413 Length: 44
+# OSUXYN_21413 Number of predicted TMRs: 0
+OSUXYN_21413	inside	1	44				
+//
+# OSUXYN_22568 Length: 41
+# OSUXYN_22568 Number of predicted TMRs: 0
+OSUXYN_22568	inside	1	41				
+//
+# OSUXYN_91077 Length: 45
+# OSUXYN_91077 Number of predicted TMRs: 0
+OSUXYN_91077	inside	1	45				
+//
+# OSUXYN_155662 Length: 42
+# OSUXYN_155662 Number of predicted TMRs: 0
+OSUXYN_155662	signal	1	41				
+OSUXYN_155662	periplasm	42	42				
+//
+# OSUXYN_115120 Length: 49
+# OSUXYN_115120 Number of predicted TMRs: 0
+OSUXYN_115120	signal	1	12				
+OSUXYN_115120	outside	13	49				
+//
+# OSUXYN_28469 Length: 44
+# OSUXYN_28469 Number of predicted TMRs: 0
+OSUXYN_28469	signal	1	24				
+OSUXYN_28469	outside	25	44				
+//
+# OSUXYN_81012 Length: 47
+# OSUXYN_81012 Number of predicted TMRs: 0
+OSUXYN_81012	signal	1	40				
+OSUXYN_81012	outside	41	47				
+//
+# OSUXYN_87392 Length: 45
+# OSUXYN_87392 Number of predicted TMRs: 0
+OSUXYN_87392	signal	1	29				
+OSUXYN_87392	outside	30	45				
+//
+# OSUXYN_19061 Length: 38
+# OSUXYN_19061 Number of predicted TMRs: 0
+OSUXYN_19061	inside	1	38				
+//
+# OSUXYN_155722 Length: 50
+# OSUXYN_155722 Number of predicted TMRs: 0
+OSUXYN_155722	inside	1	50				
+//
+# OSUXYN_67640 Length: 43
+# OSUXYN_67640 Number of predicted TMRs: 0
+OSUXYN_67640	signal	1	11				
+OSUXYN_67640	outside	12	43				
+//
+# OSUXYN_9159 Length: 38
+# OSUXYN_9159 Number of predicted TMRs: 0
+OSUXYN_9159	signal	1	37				
+OSUXYN_9159	outside	38	38				
+//
+# OSUXYN_146214 Length: 41
+# OSUXYN_146214 Number of predicted TMRs: 0
+OSUXYN_146214	signal	1	38				
+OSUXYN_146214	outside	39	41				
+//
+# OSUXYN_23594 Length: 40
+# OSUXYN_23594 Number of predicted TMRs: 0
+OSUXYN_23594	signal	1	38				
+OSUXYN_23594	outside	39	40				
+//
+# OSUXYN_155522 Length: 45
+# OSUXYN_155522 Number of predicted TMRs: 0
+OSUXYN_155522	inside	1	45				
+//
+# OSUXYN_108717 Length: 43
+# OSUXYN_108717 Number of predicted TMRs: 0
+OSUXYN_108717	inside	1	43				
+//
+# OSUXYN_112477 Length: 42
+# OSUXYN_112477 Number of predicted TMRs: 0
+OSUXYN_112477	inside	1	42				
+//
+# OSUXYN_78496 Length: 47
+# OSUXYN_78496 Number of predicted TMRs: 0
+OSUXYN_78496	signal	1	30				
+OSUXYN_78496	outside	31	47				
+//
+# OSUXYN_143631 Length: 44
+# OSUXYN_143631 Number of predicted TMRs: 0
+OSUXYN_143631	signal	1	33				
+OSUXYN_143631	outside	34	44				
+//
+# OSUXYN_118488 Length: 43
+# OSUXYN_118488 Number of predicted TMRs: 0
+OSUXYN_118488	signal	1	37				
+OSUXYN_118488	outside	38	43				
+//
+# OSUXYN_170560 Length: 48
+# OSUXYN_170560 Number of predicted TMRs: 0
+OSUXYN_170560	inside	1	48				
+//
+# OSUXYN_137783 Length: 42
+# OSUXYN_137783 Number of predicted TMRs: 0
+OSUXYN_137783	signal	1	40				
+OSUXYN_137783	outside	41	42				
+//
+# OSUXYN_9101 Length: 47
+# OSUXYN_9101 Number of predicted TMRs: 0
+OSUXYN_9101	inside	1	47				
+//
+# OSUXYN_65406 Length: 48
+# OSUXYN_65406 Number of predicted TMRs: 0
+OSUXYN_65406	inside	1	48				
+//
+# OSUXYN_127692 Length: 40
+# OSUXYN_127692 Number of predicted TMRs: 0
+OSUXYN_127692	signal	1	10				
+OSUXYN_127692	outside	11	40				
+//
+# OSUXYN_104191 Length: 43
+# OSUXYN_104191 Number of predicted TMRs: 0
+OSUXYN_104191	outside	1	43				
+//
+# OSUXYN_24136 Length: 49
+# OSUXYN_24136 Number of predicted TMRs: 0
+OSUXYN_24136	inside	1	49				
+//
+# OSUXYN_14282 Length: 47
+# OSUXYN_14282 Number of predicted TMRs: 0
+OSUXYN_14282	signal	1	19				
+OSUXYN_14282	outside	20	47				
+//
+# OSUXYN_109488 Length: 41
+# OSUXYN_109488 Number of predicted TMRs: 0
+OSUXYN_109488	signal	1	29				
+OSUXYN_109488	outside	30	41				
+//
+# OSUXYN_19714 Length: 45
+# OSUXYN_19714 Number of predicted TMRs: 0
+OSUXYN_19714	inside	1	45				
+//
+# OSUXYN_168495 Length: 46
+# OSUXYN_168495 Number of predicted TMRs: 0
+OSUXYN_168495	inside	1	46				
+//
+# OSUXYN_135112 Length: 41
+# OSUXYN_135112 Number of predicted TMRs: 0
+OSUXYN_135112	inside	1	41				
+//
+# OSUXYN_134577 Length: 50
+# OSUXYN_134577 Number of predicted TMRs: 0
+OSUXYN_134577	inside	1	50				
+//
+# OSUXYN_116726 Length: 49
+# OSUXYN_116726 Number of predicted TMRs: 0
+OSUXYN_116726	inside	1	49				
+//
+# OSUXYN_78786 Length: 49
+# OSUXYN_78786 Number of predicted TMRs: 0
+OSUXYN_78786	inside	1	49				
+//
+# OSUXYN_78762 Length: 41
+# OSUXYN_78762 Number of predicted TMRs: 0
+OSUXYN_78762	inside	1	41				
+//
+# OSUXYN_69303 Length: 50
+# OSUXYN_69303 Number of predicted TMRs: 0
+OSUXYN_69303	signal	1	49				
+OSUXYN_69303	outside	50	50				
+//
+# OSUXYN_122205 Length: 39
+# OSUXYN_122205 Number of predicted TMRs: 0
+OSUXYN_122205	inside	1	39				
+//
+# OSUXYN_121312 Length: 38
+# OSUXYN_121312 Number of predicted TMRs: 0
+OSUXYN_121312	inside	1	38				
+//
+# OSUXYN_124166 Length: 39
+# OSUXYN_124166 Number of predicted TMRs: 0
+OSUXYN_124166	outside	1	39				
+//
+# OSUXYN_38477 Length: 48
+# OSUXYN_38477 Number of predicted TMRs: 0
+OSUXYN_38477	inside	1	48				
+//
+# OSUXYN_57380 Length: 39
+# OSUXYN_57380 Number of predicted TMRs: 0
+OSUXYN_57380	inside	1	39				
+//
+# OSUXYN_138284 Length: 47
+# OSUXYN_138284 Number of predicted TMRs: 0
+OSUXYN_138284	inside	1	47				
+//
+# OSUXYN_93573 Length: 44
+# OSUXYN_93573 Number of predicted TMRs: 0
+OSUXYN_93573	outside	1	44				
+//
+# OSUXYN_40677 Length: 28
+# OSUXYN_40677 Number of predicted TMRs: 0
+OSUXYN_40677	inside	1	28				
+//
+# OSUXYN_112999 Length: 48
+# OSUXYN_112999 Number of predicted TMRs: 0
+OSUXYN_112999	signal	1	42				
+OSUXYN_112999	outside	43	48				
+//
+# OSUXYN_146212 Length: 35
+# OSUXYN_146212 Number of predicted TMRs: 0
+OSUXYN_146212	inside	1	35				
+//
+# OSUXYN_99237 Length: 37
+# OSUXYN_99237 Number of predicted TMRs: 0
+OSUXYN_99237	inside	1	37				
+//
+# OSUXYN_7855 Length: 48
+# OSUXYN_7855 Number of predicted TMRs: 0
+OSUXYN_7855	inside	1	48				
+//
+# OSUXYN_161195 Length: 45
+# OSUXYN_161195 Number of predicted TMRs: 0
+OSUXYN_161195	outside	1	45				
+//
+# OSUXYN_15215 Length: 47
+# OSUXYN_15215 Number of predicted TMRs: 0
+OSUXYN_15215	inside	1	47				
+//
+# OSUXYN_150096 Length: 47
+# OSUXYN_150096 Number of predicted TMRs: 0
+OSUXYN_150096	inside	1	47				
+//
+# OSUXYN_13672 Length: 43
+# OSUXYN_13672 Number of predicted TMRs: 0
+OSUXYN_13672	inside	1	43				
+//
+# OSUXYN_130635 Length: 43
+# OSUXYN_130635 Number of predicted TMRs: 0
+OSUXYN_130635	inside	1	43				
+//
+# OSUXYN_49970 Length: 49
+# OSUXYN_49970 Number of predicted TMRs: 0
+OSUXYN_49970	signal	1	47				
+OSUXYN_49970	outside	48	49				
+//
+# OSUXYN_137489 Length: 48
+# OSUXYN_137489 Number of predicted TMRs: 0
+OSUXYN_137489	signal	1	46				
+OSUXYN_137489	outside	47	48				
+//
+# OSUXYN_40643 Length: 47
+# OSUXYN_40643 Number of predicted TMRs: 0
+OSUXYN_40643	inside	1	47				
+//
+# OSUXYN_36608 Length: 45
+# OSUXYN_36608 Number of predicted TMRs: 0
+OSUXYN_36608	signal	1	23				
+OSUXYN_36608	outside	24	45				
+//
+# OSUXYN_14936 Length: 49
+# OSUXYN_14936 Number of predicted TMRs: 0
+OSUXYN_14936	inside	1	49				
+//
+# OSUXYN_120695 Length: 37
+# OSUXYN_120695 Number of predicted TMRs: 0
+OSUXYN_120695	signal	1	25				
+OSUXYN_120695	outside	26	37				
+//
+# OSUXYN_135571 Length: 39
+# OSUXYN_135571 Number of predicted TMRs: 0
+OSUXYN_135571	signal	1	10				
+OSUXYN_135571	outside	11	39				
+//
+# OSUXYN_36627 Length: 39
+# OSUXYN_36627 Number of predicted TMRs: 0
+OSUXYN_36627	signal	1	35				
+OSUXYN_36627	outside	36	39				
+//
+# OSUXYN_169014 Length: 46
+# OSUXYN_169014 Number of predicted TMRs: 0
+OSUXYN_169014	inside	1	46				
+//
+# OSUXYN_148188 Length: 43
+# OSUXYN_148188 Number of predicted TMRs: 0
+OSUXYN_148188	signal	1	38				
+OSUXYN_148188	outside	39	43				
+//
+# OSUXYN_154175 Length: 30
+# OSUXYN_154175 Number of predicted TMRs: 0
+OSUXYN_154175	signal	1	29				
+OSUXYN_154175	outside	30	30				
+//
+# OSUXYN_71219 Length: 49
+# OSUXYN_71219 Number of predicted TMRs: 0
+OSUXYN_71219	signal	1	10				
+OSUXYN_71219	outside	11	49				
+//
+# OSUXYN_95414 Length: 43
+# OSUXYN_95414 Number of predicted TMRs: 0
+OSUXYN_95414	signal	1	37				
+OSUXYN_95414	outside	38	43				
+//
+# OSUXYN_75309 Length: 50
+# OSUXYN_75309 Number of predicted TMRs: 0
+OSUXYN_75309	signal	1	43				
+OSUXYN_75309	outside	44	50				
+//
+# OSUXYN_128636 Length: 49
+# OSUXYN_128636 Number of predicted TMRs: 0
+OSUXYN_128636	inside	1	49				
+//
+# OSUXYN_112935 Length: 48
+# OSUXYN_112935 Number of predicted TMRs: 0
+OSUXYN_112935	inside	1	48				
+//
+# OSUXYN_31011 Length: 30
+# OSUXYN_31011 Number of predicted TMRs: 0
+OSUXYN_31011	signal	1	29				
+OSUXYN_31011	outside	30	30				
+//
+# OSUXYN_165260 Length: 36
+# OSUXYN_165260 Number of predicted TMRs: 0
+OSUXYN_165260	inside	1	36				
+//
+# OSUXYN_166885 Length: 47
+# OSUXYN_166885 Number of predicted TMRs: 0
+OSUXYN_166885	inside	1	47				
+//
+# OSUXYN_89707 Length: 43
+# OSUXYN_89707 Number of predicted TMRs: 0
+OSUXYN_89707	inside	1	43				
+//
+# OSUXYN_22728 Length: 50
+# OSUXYN_22728 Number of predicted TMRs: 0
+OSUXYN_22728	inside	1	50				
+//
+# OSUXYN_87115 Length: 41
+# OSUXYN_87115 Number of predicted TMRs: 0
+OSUXYN_87115	inside	1	41				
+//
+# OSUXYN_42778 Length: 37
+# OSUXYN_42778 Number of predicted TMRs: 0
+OSUXYN_42778	inside	1	37				
+//
+# OSUXYN_148907 Length: 49
+# OSUXYN_148907 Number of predicted TMRs: 0
+OSUXYN_148907	inside	1	49				
+//
+# OSUXYN_118821 Length: 39
+# OSUXYN_118821 Number of predicted TMRs: 0
+OSUXYN_118821	signal	1	23				
+OSUXYN_118821	outside	24	39				
+//
+# OSUXYN_21128 Length: 48
+# OSUXYN_21128 Number of predicted TMRs: 0
+OSUXYN_21128	signal	1	24				
+OSUXYN_21128	outside	25	48				
+//
+# OSUXYN_23337 Length: 47
+# OSUXYN_23337 Number of predicted TMRs: 0
+OSUXYN_23337	inside	1	47				
+//
+# OSUXYN_113627 Length: 50
+# OSUXYN_113627 Number of predicted TMRs: 0
+OSUXYN_113627	signal	1	40				
+OSUXYN_113627	outside	41	50				
+//
+# OSUXYN_10906 Length: 47
+# OSUXYN_10906 Number of predicted TMRs: 0
+OSUXYN_10906	inside	1	47				
+//
+# OSUXYN_33135 Length: 44
+# OSUXYN_33135 Number of predicted TMRs: 0
+OSUXYN_33135	inside	1	44				
+//
+# OSUXYN_104215 Length: 32
+# OSUXYN_104215 Number of predicted TMRs: 0
+OSUXYN_104215	inside	1	32				
+//
+# OSUXYN_73226 Length: 41
+# OSUXYN_73226 Number of predicted TMRs: 0
+OSUXYN_73226	signal	1	24				
+OSUXYN_73226	outside	25	41				
+//
+# OSUXYN_94000 Length: 48
+# OSUXYN_94000 Number of predicted TMRs: 0
+OSUXYN_94000	inside	1	48				
+//
+# OSUXYN_154253 Length: 44
+# OSUXYN_154253 Number of predicted TMRs: 0
+OSUXYN_154253	inside	1	44				
+//
+# OSUXYN_48385 Length: 45
+# OSUXYN_48385 Number of predicted TMRs: 0
+OSUXYN_48385	inside	1	45				
+//
+# OSUXYN_89132 Length: 44
+# OSUXYN_89132 Number of predicted TMRs: 0
+OSUXYN_89132	inside	1	44				
+//
+# OSUXYN_122712 Length: 41
+# OSUXYN_122712 Number of predicted TMRs: 0
+OSUXYN_122712	inside	1	41				
+//
+# OSUXYN_68774 Length: 40
+# OSUXYN_68774 Number of predicted TMRs: 0
+OSUXYN_68774	inside	1	40				
+//
+# OSUXYN_93574 Length: 50
+# OSUXYN_93574 Number of predicted TMRs: 0
+OSUXYN_93574	inside	1	50				
+//
+# OSUXYN_143515 Length: 38
+# OSUXYN_143515 Number of predicted TMRs: 0
+OSUXYN_143515	signal	1	37				
+OSUXYN_143515	outside	38	38				
+//
+# OSUXYN_10593 Length: 50
+# OSUXYN_10593 Number of predicted TMRs: 0
+OSUXYN_10593	inside	1	50				
+//
+# OSUXYN_24194 Length: 44
+# OSUXYN_24194 Number of predicted TMRs: 0
+OSUXYN_24194	inside	1	44				
+//
+# OSUXYN_85879 Length: 43
+# OSUXYN_85879 Number of predicted TMRs: 0
+OSUXYN_85879	signal	1	42				
+OSUXYN_85879	outside	43	43				
+//
+# OSUXYN_46100 Length: 50
+# OSUXYN_46100 Number of predicted TMRs: 0
+OSUXYN_46100	inside	1	50				
+//
+# OSUXYN_147211 Length: 46
+# OSUXYN_147211 Number of predicted TMRs: 0
+OSUXYN_147211	signal	1	29				
+OSUXYN_147211	outside	30	46				
+//
+# OSUXYN_113444 Length: 45
+# OSUXYN_113444 Number of predicted TMRs: 0
+OSUXYN_113444	inside	1	45				
+//
+# OSUXYN_143237 Length: 43
+# OSUXYN_143237 Number of predicted TMRs: 0
+OSUXYN_143237	inside	1	43				
+//
+# OSUXYN_113252 Length: 50
+# OSUXYN_113252 Number of predicted TMRs: 0
+OSUXYN_113252	inside	1	50				
+//
+# OSUXYN_33710 Length: 26
+# OSUXYN_33710 Number of predicted TMRs: 0
+OSUXYN_33710	inside	1	26				
+//
+# OSUXYN_57359 Length: 28
+# OSUXYN_57359 Number of predicted TMRs: 0
+OSUXYN_57359	inside	1	28				
+//
+# OSUXYN_170594 Length: 35
+# OSUXYN_170594 Number of predicted TMRs: 0
+OSUXYN_170594	inside	1	35				
+//
+# OSUXYN_9376 Length: 34
+# OSUXYN_9376 Number of predicted TMRs: 0
+OSUXYN_9376	signal	1	32				
+OSUXYN_9376	outside	33	34				
+//
+# OSUXYN_30081 Length: 36
+# OSUXYN_30081 Number of predicted TMRs: 0
+OSUXYN_30081	inside	1	36				
+//
+# OSUXYN_143888 Length: 43
+# OSUXYN_143888 Number of predicted TMRs: 0
+OSUXYN_143888	inside	1	43				
+//
+# OSUXYN_21785 Length: 40
+# OSUXYN_21785 Number of predicted TMRs: 0
+OSUXYN_21785	inside	1	40				
+//
+# OSUXYN_168043 Length: 32
+# OSUXYN_168043 Number of predicted TMRs: 0
+OSUXYN_168043	signal	1	31				
+OSUXYN_168043	outside	32	32				
+//
+# OSUXYN_90168 Length: 47
+# OSUXYN_90168 Number of predicted TMRs: 0
+OSUXYN_90168	inside	1	47				
+//
+# OSUXYN_34198 Length: 43
+# OSUXYN_34198 Number of predicted TMRs: 0
+OSUXYN_34198	inside	1	43				
+//
+# OSUXYN_170396 Length: 46
+# OSUXYN_170396 Number of predicted TMRs: 0
+OSUXYN_170396	inside	1	46				
+//
+# OSUXYN_137335 Length: 45
+# OSUXYN_137335 Number of predicted TMRs: 0
+OSUXYN_137335	inside	1	45				
+//
+# OSUXYN_14666 Length: 45
+# OSUXYN_14666 Number of predicted TMRs: 0
+OSUXYN_14666	signal	1	12				
+OSUXYN_14666	outside	13	45				
+//
+# OSUXYN_99400 Length: 43
+# OSUXYN_99400 Number of predicted TMRs: 0
+OSUXYN_99400	inside	1	43				
+//
+# OSUXYN_16103 Length: 37
+# OSUXYN_16103 Number of predicted TMRs: 0
+OSUXYN_16103	signal	1	32				
+OSUXYN_16103	outside	33	37				
+//
+# OSUXYN_170540 Length: 49
+# OSUXYN_170540 Number of predicted TMRs: 0
+OSUXYN_170540	inside	1	49				
+//
+# OSUXYN_19038 Length: 49
+# OSUXYN_19038 Number of predicted TMRs: 0
+OSUXYN_19038	inside	1	49				
+//
+# OSUXYN_16675 Length: 44
+# OSUXYN_16675 Number of predicted TMRs: 0
+OSUXYN_16675	signal	1	35				
+OSUXYN_16675	outside	36	44				
+//
+# OSUXYN_162416 Length: 46
+# OSUXYN_162416 Number of predicted TMRs: 0
+OSUXYN_162416	signal	1	11				
+OSUXYN_162416	outside	12	46				
+//
+# OSUXYN_167945 Length: 46
+# OSUXYN_167945 Number of predicted TMRs: 0
+OSUXYN_167945	signal	1	45				
+OSUXYN_167945	outside	46	46				
+//
+# OSUXYN_91309 Length: 50
+# OSUXYN_91309 Number of predicted TMRs: 0
+OSUXYN_91309	inside	1	50				
+//
+# OSUXYN_73623 Length: 50
+# OSUXYN_73623 Number of predicted TMRs: 0
+OSUXYN_73623	inside	1	50				
+//
+# OSUXYN_133731 Length: 48
+# OSUXYN_133731 Number of predicted TMRs: 0
+OSUXYN_133731	signal	1	47				
+OSUXYN_133731	outside	48	48				
+//
+# OSUXYN_32483 Length: 44
+# OSUXYN_32483 Number of predicted TMRs: 0
+OSUXYN_32483	signal	1	42				
+OSUXYN_32483	outside	43	44				
+//
+# OSUXYN_5913 Length: 45
+# OSUXYN_5913 Number of predicted TMRs: 0
+OSUXYN_5913	signal	1	25				
+OSUXYN_5913	outside	26	45				
+//
+# OSUXYN_122447 Length: 42
+# OSUXYN_122447 Number of predicted TMRs: 0
+OSUXYN_122447	signal	1	39				
+OSUXYN_122447	outside	40	42				
+//
+# OSUXYN_108389 Length: 49
+# OSUXYN_108389 Number of predicted TMRs: 0
+OSUXYN_108389	inside	1	49				
+//
+# OSUXYN_101932 Length: 39
+# OSUXYN_101932 Number of predicted TMRs: 0
+OSUXYN_101932	signal	1	37				
+OSUXYN_101932	outside	38	39				
+//
+# OSUXYN_61 Length: 43
+# OSUXYN_61 Number of predicted TMRs: 0
+OSUXYN_61	inside	1	43				
+//
+# OSUXYN_134081 Length: 37
+# OSUXYN_134081 Number of predicted TMRs: 0
+OSUXYN_134081	signal	1	28				
+OSUXYN_134081	outside	29	37				
+//
+# OSUXYN_18655 Length: 47
+# OSUXYN_18655 Number of predicted TMRs: 0
+OSUXYN_18655	inside	1	47				
+//
+# OSUXYN_162496 Length: 32
+# OSUXYN_162496 Number of predicted TMRs: 0
+OSUXYN_162496	signal	1	12				
+OSUXYN_162496	outside	13	32				
+//
+# OSUXYN_48659 Length: 42
+# OSUXYN_48659 Number of predicted TMRs: 0
+OSUXYN_48659	inside	1	42				
+//
+# OSUXYN_140844 Length: 32
+# OSUXYN_140844 Number of predicted TMRs: 0
+OSUXYN_140844	outside	1	32				
+//
+# OSUXYN_165451 Length: 33
+# OSUXYN_165451 Number of predicted TMRs: 0
+OSUXYN_165451	inside	1	33				
+//
+# OSUXYN_51641 Length: 40
+# OSUXYN_51641 Number of predicted TMRs: 0
+OSUXYN_51641	inside	1	40				
+//
+# OSUXYN_127777 Length: 43
+# OSUXYN_127777 Number of predicted TMRs: 0
+OSUXYN_127777	signal	1	42				
+OSUXYN_127777	outside	43	43				
+//
+# OSUXYN_83955 Length: 50
+# OSUXYN_83955 Number of predicted TMRs: 0
+OSUXYN_83955	inside	1	50				
+//
+# OSUXYN_115820 Length: 35
+# OSUXYN_115820 Number of predicted TMRs: 0
+OSUXYN_115820	inside	1	35				
+//
+# OSUXYN_163760 Length: 38
+# OSUXYN_163760 Number of predicted TMRs: 0
+OSUXYN_163760	signal	1	28				
+OSUXYN_163760	outside	29	38				
+//
+# OSUXYN_153594 Length: 50
+# OSUXYN_153594 Number of predicted TMRs: 0
+OSUXYN_153594	inside	1	50				
+//
+# OSUXYN_152625 Length: 35
+# OSUXYN_152625 Number of predicted TMRs: 0
+OSUXYN_152625	inside	1	35				
+//
+# OSUXYN_83383 Length: 44
+# OSUXYN_83383 Number of predicted TMRs: 0
+OSUXYN_83383	signal	1	42				
+OSUXYN_83383	outside	43	44				
+//
+# OSUXYN_59061 Length: 43
+# OSUXYN_59061 Number of predicted TMRs: 0
+OSUXYN_59061	inside	1	43				
+//
+# OSUXYN_117053 Length: 50
+# OSUXYN_117053 Number of predicted TMRs: 0
+OSUXYN_117053	signal	1	22				
+OSUXYN_117053	outside	23	50				
+//
+# OSUXYN_28807 Length: 42
+# OSUXYN_28807 Number of predicted TMRs: 0
+OSUXYN_28807	inside	1	42				
+//
+# OSUXYN_168685 Length: 36
+# OSUXYN_168685 Number of predicted TMRs: 0
+OSUXYN_168685	signal	1	10				
+OSUXYN_168685	outside	11	36				
+//
+# OSUXYN_73165 Length: 40
+# OSUXYN_73165 Number of predicted TMRs: 0
+OSUXYN_73165	inside	1	40				
+//
+# OSUXYN_5273 Length: 45
+# OSUXYN_5273 Number of predicted TMRs: 0
+OSUXYN_5273	inside	1	45				
+//
+# OSUXYN_134570 Length: 45
+# OSUXYN_134570 Number of predicted TMRs: 0
+OSUXYN_134570	inside	1	45				
+//
+# OSUXYN_33150 Length: 43
+# OSUXYN_33150 Number of predicted TMRs: 0
+OSUXYN_33150	inside	1	43				
+//
+# OSUXYN_153696 Length: 44
+# OSUXYN_153696 Number of predicted TMRs: 0
+OSUXYN_153696	inside	1	44				
+//
+# OSUXYN_38144 Length: 45
+# OSUXYN_38144 Number of predicted TMRs: 0
+OSUXYN_38144	signal	1	44				
+OSUXYN_38144	outside	45	45				
+//
+# OSUXYN_139867 Length: 48
+# OSUXYN_139867 Number of predicted TMRs: 0
+OSUXYN_139867	inside	1	48				
+//
+# OSUXYN_141676 Length: 37
+# OSUXYN_141676 Number of predicted TMRs: 0
+OSUXYN_141676	inside	1	37				
+//
+# OSUXYN_163956 Length: 44
+# OSUXYN_163956 Number of predicted TMRs: 0
+OSUXYN_163956	signal	1	42				
+OSUXYN_163956	outside	43	44				
+//
+# OSUXYN_95564 Length: 50
+# OSUXYN_95564 Number of predicted TMRs: 0
+OSUXYN_95564	inside	1	50				
+//
+# OSUXYN_48393 Length: 46
+# OSUXYN_48393 Number of predicted TMRs: 0
+OSUXYN_48393	inside	1	46				
+//
+# OSUXYN_146017 Length: 42
+# OSUXYN_146017 Number of predicted TMRs: 0
+OSUXYN_146017	inside	1	42				
+//
+# OSUXYN_94237 Length: 48
+# OSUXYN_94237 Number of predicted TMRs: 0
+OSUXYN_94237	inside	1	48				
+//
+# OSUXYN_109859 Length: 40
+# OSUXYN_109859 Number of predicted TMRs: 0
+OSUXYN_109859	inside	1	40				
+//
+# OSUXYN_93580 Length: 47
+# OSUXYN_93580 Number of predicted TMRs: 0
+OSUXYN_93580	inside	1	47				
+//
+# OSUXYN_138608 Length: 42
+# OSUXYN_138608 Number of predicted TMRs: 0
+OSUXYN_138608	signal	1	41				
+OSUXYN_138608	outside	42	42				
+//
+# OSUXYN_74679 Length: 47
+# OSUXYN_74679 Number of predicted TMRs: 0
+OSUXYN_74679	inside	1	47				
+//
+# OSUXYN_38265 Length: 49
+# OSUXYN_38265 Number of predicted TMRs: 0
+OSUXYN_38265	signal	1	47				
+OSUXYN_38265	outside	48	49				
+//
+# OSUXYN_49386 Length: 50
+# OSUXYN_49386 Number of predicted TMRs: 0
+OSUXYN_49386	inside	1	50				
+//
+# OSUXYN_9402 Length: 48
+# OSUXYN_9402 Number of predicted TMRs: 0
+OSUXYN_9402	inside	1	48				
+//
+# OSUXYN_89048 Length: 33
+# OSUXYN_89048 Number of predicted TMRs: 0
+OSUXYN_89048	signal	1	21				
+OSUXYN_89048	outside	22	33				
+//
+# OSUXYN_23975 Length: 44
+# OSUXYN_23975 Number of predicted TMRs: 0
+OSUXYN_23975	inside	1	44				
+//
+# OSUXYN_111727 Length: 43
+# OSUXYN_111727 Number of predicted TMRs: 0
+OSUXYN_111727	inside	1	43				
+//
+# OSUXYN_15268 Length: 44
+# OSUXYN_15268 Number of predicted TMRs: 0
+OSUXYN_15268	inside	1	44				
+//
+# OSUXYN_58463 Length: 38
+# OSUXYN_58463 Number of predicted TMRs: 0
+OSUXYN_58463	outside	1	38				
+//
+# OSUXYN_61031 Length: 44
+# OSUXYN_61031 Number of predicted TMRs: 0
+OSUXYN_61031	inside	1	44				
+//
+# OSUXYN_143457 Length: 30
+# OSUXYN_143457 Number of predicted TMRs: 0
+OSUXYN_143457	inside	1	30				
+//
+# OSUXYN_82480 Length: 50
+# OSUXYN_82480 Number of predicted TMRs: 0
+OSUXYN_82480	inside	1	50				
+//
+# OSUXYN_63312 Length: 36
+# OSUXYN_63312 Number of predicted TMRs: 0
+OSUXYN_63312	inside	1	36				
+//
+# OSUXYN_19850 Length: 50
+# OSUXYN_19850 Number of predicted TMRs: 0
+OSUXYN_19850	inside	1	50				
+//
+# OSUXYN_146469 Length: 49
+# OSUXYN_146469 Number of predicted TMRs: 0
+OSUXYN_146469	inside	1	49				
+//
+# OSUXYN_73663 Length: 47
+# OSUXYN_73663 Number of predicted TMRs: 0
+OSUXYN_73663	signal	1	46				
+OSUXYN_73663	outside	47	47				
+//
+# OSUXYN_129229 Length: 44
+# OSUXYN_129229 Number of predicted TMRs: 0
+OSUXYN_129229	signal	1	43				
+OSUXYN_129229	outside	44	44				
+//
+# OSUXYN_56030 Length: 45
+# OSUXYN_56030 Number of predicted TMRs: 0
+OSUXYN_56030	inside	1	45				
+//
+# OSUXYN_57970 Length: 47
+# OSUXYN_57970 Number of predicted TMRs: 0
+OSUXYN_57970	inside	1	47				
+//
+# OSUXYN_114141 Length: 47
+# OSUXYN_114141 Number of predicted TMRs: 0
+OSUXYN_114141	inside	1	47				
+//
+# OSUXYN_122716 Length: 35
+# OSUXYN_122716 Number of predicted TMRs: 0
+OSUXYN_122716	signal	1	32				
+OSUXYN_122716	outside	33	35				
+//
+# OSUXYN_155296 Length: 41
+# OSUXYN_155296 Number of predicted TMRs: 0
+OSUXYN_155296	signal	1	35				
+OSUXYN_155296	outside	36	41				
+//
+# OSUXYN_79436 Length: 44
+# OSUXYN_79436 Number of predicted TMRs: 0
+OSUXYN_79436	inside	1	44				
+//
+# OSUXYN_12917 Length: 42
+# OSUXYN_12917 Number of predicted TMRs: 0
+OSUXYN_12917	inside	1	42				
+//
+# OSUXYN_98459 Length: 36
+# OSUXYN_98459 Number of predicted TMRs: 0
+OSUXYN_98459	signal	1	28				
+OSUXYN_98459	outside	29	36				
+//
+# OSUXYN_56873 Length: 49
+# OSUXYN_56873 Number of predicted TMRs: 0
+OSUXYN_56873	inside	1	49				
+//
+# OSUXYN_21021 Length: 44
+# OSUXYN_21021 Number of predicted TMRs: 0
+OSUXYN_21021	inside	1	44				
+//
+# OSUXYN_49451 Length: 50
+# OSUXYN_49451 Number of predicted TMRs: 0
+OSUXYN_49451	inside	1	50				
+//
+# OSUXYN_9858 Length: 42
+# OSUXYN_9858 Number of predicted TMRs: 0
+OSUXYN_9858	inside	1	42				
+//
+# OSUXYN_132096 Length: 39
+# OSUXYN_132096 Number of predicted TMRs: 0
+OSUXYN_132096	inside	1	39				
+//
+# OSUXYN_64881 Length: 40
+# OSUXYN_64881 Number of predicted TMRs: 0
+OSUXYN_64881	signal	1	20				
+OSUXYN_64881	outside	21	40				
+//
+# OSUXYN_56120 Length: 46
+# OSUXYN_56120 Number of predicted TMRs: 0
+OSUXYN_56120	inside	1	46				
+//
+# OSUXYN_56088 Length: 39
+# OSUXYN_56088 Number of predicted TMRs: 1
+OSUXYN_56088	inside	1	14				
+OSUXYN_56088	TMhelix	15	35				
+OSUXYN_56088	outside	36	39				
+//
+# OSUXYN_56087 Length: 42
+# OSUXYN_56087 Number of predicted TMRs: 0
+OSUXYN_56087	inside	1	42				
+//
+# OSUXYN_56307 Length: 46
+# OSUXYN_56307 Number of predicted TMRs: 0
+OSUXYN_56307	inside	1	46				
+//
+# OSUXYN_93131 Length: 50
+# OSUXYN_93131 Number of predicted TMRs: 0
+OSUXYN_93131	inside	1	50				
+//
+# OSUXYN_20807 Length: 42
+# OSUXYN_20807 Number of predicted TMRs: 0
+OSUXYN_20807	inside	1	42				
+//
+# OSUXYN_135811 Length: 42
+# OSUXYN_135811 Number of predicted TMRs: 0
+OSUXYN_135811	inside	1	42				
+//
+# OSUXYN_120394 Length: 46
+# OSUXYN_120394 Number of predicted TMRs: 0
+OSUXYN_120394	inside	1	46				
+//
+# OSUXYN_105510 Length: 36
+# OSUXYN_105510 Number of predicted TMRs: 0
+OSUXYN_105510	inside	1	36				
+//
+# OSUXYN_87170 Length: 43
+# OSUXYN_87170 Number of predicted TMRs: 0
+OSUXYN_87170	inside	1	43				
+//
+# OSUXYN_34817 Length: 49
+# OSUXYN_34817 Number of predicted TMRs: 0
+OSUXYN_34817	inside	1	49				
+//
+# OSUXYN_31998 Length: 50
+# OSUXYN_31998 Number of predicted TMRs: 0
+OSUXYN_31998	inside	1	50				
+//
+# OSUXYN_94565 Length: 50
+# OSUXYN_94565 Number of predicted TMRs: 0
+OSUXYN_94565	inside	1	50				
+//
+# OSUXYN_138640 Length: 42
+# OSUXYN_138640 Number of predicted TMRs: 0
+OSUXYN_138640	signal	1	35				
+OSUXYN_138640	outside	36	42				
+//
+# OSUXYN_88423 Length: 46
+# OSUXYN_88423 Number of predicted TMRs: 0
+OSUXYN_88423	inside	1	46				
+//
+# OSUXYN_145976 Length: 34
+# OSUXYN_145976 Number of predicted TMRs: 0
+OSUXYN_145976	inside	1	34				
+//
+# OSUXYN_41744 Length: 45
+# OSUXYN_41744 Number of predicted TMRs: 0
+OSUXYN_41744	signal	1	35				
+OSUXYN_41744	outside	36	45				
+//
+# OSUXYN_77200 Length: 45
+# OSUXYN_77200 Number of predicted TMRs: 0
+OSUXYN_77200	signal	1	21				
+OSUXYN_77200	outside	22	45				
+//
+# OSUXYN_98694 Length: 39
+# OSUXYN_98694 Number of predicted TMRs: 0
+OSUXYN_98694	inside	1	39				
+//
+# OSUXYN_103703 Length: 38
+# OSUXYN_103703 Number of predicted TMRs: 0
+OSUXYN_103703	signal	1	37				
+OSUXYN_103703	outside	38	38				
+//
+# OSUXYN_14028 Length: 46
+# OSUXYN_14028 Number of predicted TMRs: 0
+OSUXYN_14028	inside	1	46				
+//
+# OSUXYN_121966 Length: 45
+# OSUXYN_121966 Number of predicted TMRs: 0
+OSUXYN_121966	inside	1	45				
+//
+# OSUXYN_36660 Length: 49
+# OSUXYN_36660 Number of predicted TMRs: 0
+OSUXYN_36660	signal	1	46				
+OSUXYN_36660	outside	47	49				
+//
+# OSUXYN_131521 Length: 39
+# OSUXYN_131521 Number of predicted TMRs: 0
+OSUXYN_131521	signal	1	37				
+OSUXYN_131521	outside	38	39				
+//
+# OSUXYN_69379 Length: 50
+# OSUXYN_69379 Number of predicted TMRs: 0
+OSUXYN_69379	signal	1	15				
+OSUXYN_69379	outside	16	50				
+//
+# OSUXYN_28646 Length: 49
+# OSUXYN_28646 Number of predicted TMRs: 0
+OSUXYN_28646	inside	1	49				
+//
+# OSUXYN_41783 Length: 47
+# OSUXYN_41783 Number of predicted TMRs: 0
+OSUXYN_41783	inside	1	47				
+//
+# OSUXYN_59015 Length: 49
+# OSUXYN_59015 Number of predicted TMRs: 0
+OSUXYN_59015	signal	1	42				
+OSUXYN_59015	outside	43	49				
+//
+# OSUXYN_131187 Length: 48
+# OSUXYN_131187 Number of predicted TMRs: 0
+OSUXYN_131187	inside	1	48				
+//
+# OSUXYN_61435 Length: 40
+# OSUXYN_61435 Number of predicted TMRs: 0
+OSUXYN_61435	inside	1	40				
+//
+# OSUXYN_27859 Length: 50
+# OSUXYN_27859 Number of predicted TMRs: 0
+OSUXYN_27859	inside	1	50				
+//
+# OSUXYN_87880 Length: 34
+# OSUXYN_87880 Number of predicted TMRs: 0
+OSUXYN_87880	signal	1	33				
+OSUXYN_87880	outside	34	34				
+//
+# OSUXYN_10441 Length: 47
+# OSUXYN_10441 Number of predicted TMRs: 0
+OSUXYN_10441	signal	1	30				
+OSUXYN_10441	outside	31	47				
+//
+# OSUXYN_141439 Length: 40
+# OSUXYN_141439 Number of predicted TMRs: 0
+OSUXYN_141439	inside	1	40				
+//
+# OSUXYN_9620 Length: 47
+# OSUXYN_9620 Number of predicted TMRs: 0
+OSUXYN_9620	inside	1	47				
+//
+# OSUXYN_39501 Length: 47
+# OSUXYN_39501 Number of predicted TMRs: 0
+OSUXYN_39501	inside	1	47				
+//
+# OSUXYN_92961 Length: 39
+# OSUXYN_92961 Number of predicted TMRs: 0
+OSUXYN_92961	signal	1	28				
+OSUXYN_92961	outside	29	39				
+//
+# OSUXYN_21538 Length: 44
+# OSUXYN_21538 Number of predicted TMRs: 0
+OSUXYN_21538	signal	1	15				
+OSUXYN_21538	outside	16	44				
+//
+# OSUXYN_115552 Length: 47
+# OSUXYN_115552 Number of predicted TMRs: 0
+OSUXYN_115552	inside	1	47				
+//
+# OSUXYN_45946 Length: 39
+# OSUXYN_45946 Number of predicted TMRs: 0
+OSUXYN_45946	inside	1	39				
+//
+# OSUXYN_147122 Length: 46
+# OSUXYN_147122 Number of predicted TMRs: 0
+OSUXYN_147122	signal	1	37				
+OSUXYN_147122	outside	38	46				
+//
+# OSUXYN_20778 Length: 38
+# OSUXYN_20778 Number of predicted TMRs: 0
+OSUXYN_20778	signal	1	32				
+OSUXYN_20778	outside	33	38				
+//
+# OSUXYN_82206 Length: 42
+# OSUXYN_82206 Number of predicted TMRs: 0
+OSUXYN_82206	inside	1	42				
+//
+# OSUXYN_143268 Length: 45
+# OSUXYN_143268 Number of predicted TMRs: 0
+OSUXYN_143268	inside	1	45				
+//
+# OSUXYN_101107 Length: 42
+# OSUXYN_101107 Number of predicted TMRs: 0
+OSUXYN_101107	signal	1	30				
+OSUXYN_101107	outside	31	42				
+//
+# OSUXYN_93813 Length: 41
+# OSUXYN_93813 Number of predicted TMRs: 0
+OSUXYN_93813	inside	1	41				
+//
+# OSUXYN_128654 Length: 48
+# OSUXYN_128654 Number of predicted TMRs: 0
+OSUXYN_128654	inside	1	48				
+//
+# OSUXYN_150739 Length: 45
+# OSUXYN_150739 Number of predicted TMRs: 0
+OSUXYN_150739	inside	1	45				
+//
+# OSUXYN_93546 Length: 43
+# OSUXYN_93546 Number of predicted TMRs: 0
+OSUXYN_93546	inside	1	43				
+//
+# OSUXYN_41070 Length: 41
+# OSUXYN_41070 Number of predicted TMRs: 0
+OSUXYN_41070	signal	1	36				
+OSUXYN_41070	outside	37	41				
+//
+# OSUXYN_123822 Length: 42
+# OSUXYN_123822 Number of predicted TMRs: 0
+OSUXYN_123822	signal	1	40				
+OSUXYN_123822	outside	41	42				
+//
+# OSUXYN_29283 Length: 41
+# OSUXYN_29283 Number of predicted TMRs: 0
+OSUXYN_29283	inside	1	41				
+//
+# OSUXYN_17582 Length: 43
+# OSUXYN_17582 Number of predicted TMRs: 0
+OSUXYN_17582	signal	1	40				
+OSUXYN_17582	outside	41	43				
+//
+# OSUXYN_143192 Length: 50
+# OSUXYN_143192 Number of predicted TMRs: 0
+OSUXYN_143192	inside	1	50				
+//
+# OSUXYN_164577 Length: 36
+# OSUXYN_164577 Number of predicted TMRs: 0
+OSUXYN_164577	outside	1	36				
+//
+# OSUXYN_85936 Length: 40
+# OSUXYN_85936 Number of predicted TMRs: 0
+OSUXYN_85936	signal	1	10				
+OSUXYN_85936	outside	11	40				
+//
+# OSUXYN_111276 Length: 47
+# OSUXYN_111276 Number of predicted TMRs: 0
+OSUXYN_111276	signal	1	45				
+OSUXYN_111276	outside	46	47				
+//
+# OSUXYN_3954 Length: 46
+# OSUXYN_3954 Number of predicted TMRs: 0
+OSUXYN_3954	inside	1	46				
+//
+# OSUXYN_88631 Length: 49
+# OSUXYN_88631 Number of predicted TMRs: 0
+OSUXYN_88631	inside	1	49				
+//
+# OSUXYN_170369 Length: 40
+# OSUXYN_170369 Number of predicted TMRs: 0
+OSUXYN_170369	outside	1	40				
+//
+# OSUXYN_29499 Length: 31
+# OSUXYN_29499 Number of predicted TMRs: 0
+OSUXYN_29499	signal	1	30				
+OSUXYN_29499	outside	31	31				
+//
+# OSUXYN_95654 Length: 49
+# OSUXYN_95654 Number of predicted TMRs: 0
+OSUXYN_95654	inside	1	49				
+//
+# OSUXYN_22560 Length: 46
+# OSUXYN_22560 Number of predicted TMRs: 0
+OSUXYN_22560	signal	1	13				
+OSUXYN_22560	outside	14	46				
+//
+# OSUXYN_70627 Length: 46
+# OSUXYN_70627 Number of predicted TMRs: 0
+OSUXYN_70627	signal	1	11				
+OSUXYN_70627	outside	12	46				
+//
+# OSUXYN_171462 Length: 47
+# OSUXYN_171462 Number of predicted TMRs: 0
+OSUXYN_171462	signal	1	45				
+OSUXYN_171462	outside	46	47				
+//
+# OSUXYN_57035 Length: 46
+# OSUXYN_57035 Number of predicted TMRs: 0
+OSUXYN_57035	inside	1	46				
+//
+# OSUXYN_167080 Length: 48
+# OSUXYN_167080 Number of predicted TMRs: 0
+OSUXYN_167080	signal	1	10				
+OSUXYN_167080	outside	11	48				
+//
+# OSUXYN_103207 Length: 48
+# OSUXYN_103207 Number of predicted TMRs: 0
+OSUXYN_103207	signal	1	37				
+OSUXYN_103207	outside	38	48				
+//
+# OSUXYN_58931 Length: 47
+# OSUXYN_58931 Number of predicted TMRs: 0
+OSUXYN_58931	signal	1	14				
+OSUXYN_58931	outside	15	47				
+//
+# OSUXYN_148024 Length: 39
+# OSUXYN_148024 Number of predicted TMRs: 0
+OSUXYN_148024	signal	1	10				
+OSUXYN_148024	outside	11	39				
+//
+# OSUXYN_83521 Length: 43
+# OSUXYN_83521 Number of predicted TMRs: 0
+OSUXYN_83521	inside	1	43				
+//
+# OSUXYN_9066 Length: 45
+# OSUXYN_9066 Number of predicted TMRs: 0
+OSUXYN_9066	inside	1	45				
+//
+# OSUXYN_79601 Length: 40
+# OSUXYN_79601 Number of predicted TMRs: 0
+OSUXYN_79601	signal	1	39				
+OSUXYN_79601	outside	40	40				
+//
+# OSUXYN_86885 Length: 45
+# OSUXYN_86885 Number of predicted TMRs: 0
+OSUXYN_86885	inside	1	45				
+//
+# OSUXYN_59486 Length: 48
+# OSUXYN_59486 Number of predicted TMRs: 0
+OSUXYN_59486	signal	1	10				
+OSUXYN_59486	outside	11	48				
+//
+# OSUXYN_42411 Length: 40
+# OSUXYN_42411 Number of predicted TMRs: 0
+OSUXYN_42411	inside	1	40				
+//
+# OSUXYN_40020 Length: 49
+# OSUXYN_40020 Number of predicted TMRs: 0
+OSUXYN_40020	inside	1	49				
+//
+# OSUXYN_133065 Length: 45
+# OSUXYN_133065 Number of predicted TMRs: 0
+OSUXYN_133065	signal	1	35				
+OSUXYN_133065	outside	36	45				
+//
+# OSUXYN_142178 Length: 50
+# OSUXYN_142178 Number of predicted TMRs: 0
+OSUXYN_142178	inside	1	50				
+//
+# OSUXYN_100694 Length: 48
+# OSUXYN_100694 Number of predicted TMRs: 0
+OSUXYN_100694	inside	1	48				
+//
+# OSUXYN_16211 Length: 29
+# OSUXYN_16211 Number of predicted TMRs: 0
+OSUXYN_16211	signal	1	28				
+OSUXYN_16211	outside	29	29				
+//
+# OSUXYN_66229 Length: 49
+# OSUXYN_66229 Number of predicted TMRs: 0
+OSUXYN_66229	inside	1	49				
+//
+# OSUXYN_123849 Length: 49
+# OSUXYN_123849 Number of predicted TMRs: 0
+OSUXYN_123849	inside	1	49				
+//
+# OSUXYN_45184 Length: 48
+# OSUXYN_45184 Number of predicted TMRs: 0
+OSUXYN_45184	signal	1	13				
+OSUXYN_45184	outside	14	48				
+//
+# OSUXYN_74198 Length: 47
+# OSUXYN_74198 Number of predicted TMRs: 0
+OSUXYN_74198	inside	1	47				
+//
+# OSUXYN_12104 Length: 41
+# OSUXYN_12104 Number of predicted TMRs: 0
+OSUXYN_12104	inside	1	41				
+//
+# OSUXYN_60921 Length: 49
+# OSUXYN_60921 Number of predicted TMRs: 0
+OSUXYN_60921	inside	1	49				
+//
+# OSUXYN_42359 Length: 43
+# OSUXYN_42359 Number of predicted TMRs: 0
+OSUXYN_42359	signal	1	26				
+OSUXYN_42359	outside	27	43				
+//
+# OSUXYN_168399 Length: 48
+# OSUXYN_168399 Number of predicted TMRs: 0
+OSUXYN_168399	signal	1	26				
+OSUXYN_168399	outside	27	48				
+//
+# OSUXYN_82678 Length: 47
+# OSUXYN_82678 Number of predicted TMRs: 0
+OSUXYN_82678	inside	1	47				
+//
+# OSUXYN_110244 Length: 49
+# OSUXYN_110244 Number of predicted TMRs: 0
+OSUXYN_110244	inside	1	49				
+//
+# OSUXYN_98998 Length: 49
+# OSUXYN_98998 Number of predicted TMRs: 0
+OSUXYN_98998	signal	1	47				
+OSUXYN_98998	outside	48	49				
+//
+# OSUXYN_149176 Length: 41
+# OSUXYN_149176 Number of predicted TMRs: 0
+OSUXYN_149176	signal	1	24				
+OSUXYN_149176	outside	25	41				
+//
+# OSUXYN_134669 Length: 46
+# OSUXYN_134669 Number of predicted TMRs: 0
+OSUXYN_134669	inside	1	46				
+//
+# OSUXYN_37287 Length: 46
+# OSUXYN_37287 Number of predicted TMRs: 0
+OSUXYN_37287	inside	1	46				
+//
+# OSUXYN_97711 Length: 43
+# OSUXYN_97711 Number of predicted TMRs: 0
+OSUXYN_97711	signal	1	42				
+OSUXYN_97711	outside	43	43				
+//
+# OSUXYN_87279 Length: 30
+# OSUXYN_87279 Number of predicted TMRs: 0
+OSUXYN_87279	inside	1	30				
+//
+# OSUXYN_147360 Length: 43
+# OSUXYN_147360 Number of predicted TMRs: 0
+OSUXYN_147360	inside	1	43				
+//
+# OSUXYN_120706 Length: 49
+# OSUXYN_120706 Number of predicted TMRs: 0
+OSUXYN_120706	signal	1	48				
+OSUXYN_120706	outside	49	49				
+//
+# OSUXYN_63817 Length: 35
+# OSUXYN_63817 Number of predicted TMRs: 0
+OSUXYN_63817	inside	1	35				
+//
+# OSUXYN_23385 Length: 46
+# OSUXYN_23385 Number of predicted TMRs: 0
+OSUXYN_23385	inside	1	46				
+//
+# OSUXYN_34756 Length: 37
+# OSUXYN_34756 Number of predicted TMRs: 0
+OSUXYN_34756	inside	1	37				
+//
+# OSUXYN_11047 Length: 39
+# OSUXYN_11047 Number of predicted TMRs: 0
+OSUXYN_11047	inside	1	39				
+//
+# OSUXYN_157744 Length: 47
+# OSUXYN_157744 Number of predicted TMRs: 0
+OSUXYN_157744	inside	1	47				
+//
+# OSUXYN_28814 Length: 48
+# OSUXYN_28814 Number of predicted TMRs: 0
+OSUXYN_28814	inside	1	48				
+//
+# OSUXYN_141673 Length: 48
+# OSUXYN_141673 Number of predicted TMRs: 0
+OSUXYN_141673	inside	1	48				
+//
+# OSUXYN_171794 Length: 49
+# OSUXYN_171794 Number of predicted TMRs: 0
+OSUXYN_171794	inside	1	49				
+//
+# OSUXYN_167361 Length: 46
+# OSUXYN_167361 Number of predicted TMRs: 0
+OSUXYN_167361	inside	1	46				
+//
+# OSUXYN_171930 Length: 37
+# OSUXYN_171930 Number of predicted TMRs: 0
+OSUXYN_171930	inside	1	37				
+//
+# OSUXYN_34171 Length: 37
+# OSUXYN_34171 Number of predicted TMRs: 0
+OSUXYN_34171	signal	1	32				
+OSUXYN_34171	outside	33	37				
+//
+# OSUXYN_137138 Length: 46
+# OSUXYN_137138 Number of predicted TMRs: 0
+OSUXYN_137138	signal	1	10				
+OSUXYN_137138	outside	11	46				
+//
+# OSUXYN_134494 Length: 46
+# OSUXYN_134494 Number of predicted TMRs: 0
+OSUXYN_134494	inside	1	46				
+//
+# OSUXYN_68448 Length: 43
+# OSUXYN_68448 Number of predicted TMRs: 0
+OSUXYN_68448	inside	1	43				
+//
+# OSUXYN_74147 Length: 35
+# OSUXYN_74147 Number of predicted TMRs: 0
+OSUXYN_74147	inside	1	35				
+//
+# OSUXYN_148013 Length: 42
+# OSUXYN_148013 Number of predicted TMRs: 0
+OSUXYN_148013	signal	1	40				
+OSUXYN_148013	outside	41	42				
+//
+# OSUXYN_110798 Length: 38
+# OSUXYN_110798 Number of predicted TMRs: 0
+OSUXYN_110798	signal	1	36				
+OSUXYN_110798	outside	37	38				
+//
+# OSUXYN_136763 Length: 39
+# OSUXYN_136763 Number of predicted TMRs: 0
+OSUXYN_136763	inside	1	39				
+//
+# OSUXYN_21180 Length: 43
+# OSUXYN_21180 Number of predicted TMRs: 0
+OSUXYN_21180	inside	1	43				
+//
+# OSUXYN_128405 Length: 44
+# OSUXYN_128405 Number of predicted TMRs: 0
+OSUXYN_128405	inside	1	44				
+//
+# OSUXYN_11217 Length: 48
+# OSUXYN_11217 Number of predicted TMRs: 0
+OSUXYN_11217	signal	1	47				
+OSUXYN_11217	outside	48	48				
+//
+# OSUXYN_16361 Length: 40
+# OSUXYN_16361 Number of predicted TMRs: 0
+OSUXYN_16361	signal	1	27				
+OSUXYN_16361	outside	28	40				
+//
+# OSUXYN_153080 Length: 41
+# OSUXYN_153080 Number of predicted TMRs: 0
+OSUXYN_153080	inside	1	41				
+//
+# OSUXYN_142273 Length: 48
+# OSUXYN_142273 Number of predicted TMRs: 0
+OSUXYN_142273	signal	1	47				
+OSUXYN_142273	outside	48	48				
+//
+# OSUXYN_52048 Length: 45
+# OSUXYN_52048 Number of predicted TMRs: 0
+OSUXYN_52048	inside	1	45				
+//
+# OSUXYN_112353 Length: 48
+# OSUXYN_112353 Number of predicted TMRs: 0
+OSUXYN_112353	inside	1	48				
+//
+# OSUXYN_72286 Length: 50
+# OSUXYN_72286 Number of predicted TMRs: 0
+OSUXYN_72286	inside	1	50				
+//
+# OSUXYN_50511 Length: 49
+# OSUXYN_50511 Number of predicted TMRs: 0
+OSUXYN_50511	signal	1	30				
+OSUXYN_50511	outside	31	49				
+//
+# OSUXYN_87162 Length: 39
+# OSUXYN_87162 Number of predicted TMRs: 0
+OSUXYN_87162	inside	1	39				
+//
+# OSUXYN_147481 Length: 47
+# OSUXYN_147481 Number of predicted TMRs: 0
+OSUXYN_147481	signal	1	14				
+OSUXYN_147481	outside	15	47				
+//
+# OSUXYN_108826 Length: 36
+# OSUXYN_108826 Number of predicted TMRs: 0
+OSUXYN_108826	signal	1	12				
+OSUXYN_108826	outside	13	36				
+//
+# OSUXYN_168980 Length: 49
+# OSUXYN_168980 Number of predicted TMRs: 0
+OSUXYN_168980	inside	1	49				
+//
+# OSUXYN_80521 Length: 45
+# OSUXYN_80521 Number of predicted TMRs: 0
+OSUXYN_80521	inside	1	45				
+//
+# OSUXYN_143524 Length: 42
+# OSUXYN_143524 Number of predicted TMRs: 0
+OSUXYN_143524	signal	1	32				
+OSUXYN_143524	outside	33	42				
+//
+# OSUXYN_38746 Length: 38
+# OSUXYN_38746 Number of predicted TMRs: 0
+OSUXYN_38746	signal	1	30				
+OSUXYN_38746	outside	31	38				
+//
+# OSUXYN_64581 Length: 41
+# OSUXYN_64581 Number of predicted TMRs: 0
+OSUXYN_64581	inside	1	41				
+//
+# OSUXYN_64578 Length: 48
+# OSUXYN_64578 Number of predicted TMRs: 0
+OSUXYN_64578	inside	1	48				
+//
+# OSUXYN_44507 Length: 49
+# OSUXYN_44507 Number of predicted TMRs: 0
+OSUXYN_44507	signal	1	12				
+OSUXYN_44507	outside	13	49				
+//
+# OSUXYN_55673 Length: 43
+# OSUXYN_55673 Number of predicted TMRs: 0
+OSUXYN_55673	inside	1	43				
+//
+# OSUXYN_21754 Length: 34
+# OSUXYN_21754 Number of predicted TMRs: 0
+OSUXYN_21754	inside	1	34				
+//
+# OSUXYN_23537 Length: 42
+# OSUXYN_23537 Number of predicted TMRs: 0
+OSUXYN_23537	signal	1	41				
+OSUXYN_23537	outside	42	42				
+//
+# OSUXYN_86385 Length: 35
+# OSUXYN_86385 Number of predicted TMRs: 0
+OSUXYN_86385	signal	1	34				
+OSUXYN_86385	outside	35	35				
+//
+# OSUXYN_113991 Length: 48
+# OSUXYN_113991 Number of predicted TMRs: 0
+OSUXYN_113991	signal	1	47				
+OSUXYN_113991	outside	48	48				
+//
+# OSUXYN_67862 Length: 47
+# OSUXYN_67862 Number of predicted TMRs: 0
+OSUXYN_67862	inside	1	47				
+//
+# OSUXYN_124325 Length: 46
+# OSUXYN_124325 Number of predicted TMRs: 0
+OSUXYN_124325	signal	1	43				
+OSUXYN_124325	outside	44	46				
+//
+# OSUXYN_115591 Length: 41
+# OSUXYN_115591 Number of predicted TMRs: 0
+OSUXYN_115591	signal	1	40				
+OSUXYN_115591	outside	41	41				
+//
+# OSUXYN_111669 Length: 46
+# OSUXYN_111669 Number of predicted TMRs: 0
+OSUXYN_111669	signal	1	43				
+OSUXYN_111669	outside	44	46				
+//
+# OSUXYN_38125 Length: 47
+# OSUXYN_38125 Number of predicted TMRs: 0
+OSUXYN_38125	inside	1	47				
+//
+# OSUXYN_77375 Length: 50
+# OSUXYN_77375 Number of predicted TMRs: 0
+OSUXYN_77375	signal	1	49				
+OSUXYN_77375	outside	50	50				
+//
+# OSUXYN_49273 Length: 46
+# OSUXYN_49273 Number of predicted TMRs: 0
+OSUXYN_49273	signal	1	30				
+OSUXYN_49273	outside	31	46				
+//
+# OSUXYN_157434 Length: 50
+# OSUXYN_157434 Number of predicted TMRs: 0
+OSUXYN_157434	inside	1	50				
+//
+# OSUXYN_90469 Length: 48
+# OSUXYN_90469 Number of predicted TMRs: 0
+OSUXYN_90469	signal	1	44				
+OSUXYN_90469	outside	45	48				
+//
+# OSUXYN_69612 Length: 42
+# OSUXYN_69612 Number of predicted TMRs: 0
+OSUXYN_69612	signal	1	32				
+OSUXYN_69612	outside	33	42				
+//
+# OSUXYN_142272 Length: 36
+# OSUXYN_142272 Number of predicted TMRs: 1
+OSUXYN_142272	inside	1	11				
+OSUXYN_142272	TMhelix	12	28				
+OSUXYN_142272	outside	29	36				
+//
+# OSUXYN_93508 Length: 43
+# OSUXYN_93508 Number of predicted TMRs: 0
+OSUXYN_93508	signal	1	32				
+OSUXYN_93508	outside	33	43				
+//
+# OSUXYN_122031 Length: 47
+# OSUXYN_122031 Number of predicted TMRs: 0
+OSUXYN_122031	inside	1	47				
+//
+# OSUXYN_116453 Length: 43
+# OSUXYN_116453 Number of predicted TMRs: 0
+OSUXYN_116453	signal	1	39				
+OSUXYN_116453	outside	40	43				
+//
+# OSUXYN_50078 Length: 42
+# OSUXYN_50078 Number of predicted TMRs: 0
+OSUXYN_50078	outside	1	42				
+//
+# OSUXYN_122199 Length: 45
+# OSUXYN_122199 Number of predicted TMRs: 0
+OSUXYN_122199	inside	1	45				
+//
+# OSUXYN_23310 Length: 44
+# OSUXYN_23310 Number of predicted TMRs: 0
+OSUXYN_23310	signal	1	28				
+OSUXYN_23310	outside	29	44				
+//
+# OSUXYN_131427 Length: 26
+# OSUXYN_131427 Number of predicted TMRs: 0
+OSUXYN_131427	inside	1	26				
+//
+# OSUXYN_117170 Length: 47
+# OSUXYN_117170 Number of predicted TMRs: 0
+OSUXYN_117170	inside	1	47				
+//
+# OSUXYN_169908 Length: 45
+# OSUXYN_169908 Number of predicted TMRs: 0
+OSUXYN_169908	signal	1	26				
+OSUXYN_169908	outside	27	45				
+//
+# OSUXYN_15791 Length: 50
+# OSUXYN_15791 Number of predicted TMRs: 0
+OSUXYN_15791	inside	1	50				
+//
+# OSUXYN_41030 Length: 47
+# OSUXYN_41030 Number of predicted TMRs: 0
+OSUXYN_41030	signal	1	23				
+OSUXYN_41030	outside	24	47				
+//
+# OSUXYN_37391 Length: 36
+# OSUXYN_37391 Number of predicted TMRs: 0
+OSUXYN_37391	inside	1	36				
+//
+# OSUXYN_105131 Length: 43
+# OSUXYN_105131 Number of predicted TMRs: 0
+OSUXYN_105131	inside	1	43				
+//
+# OSUXYN_68899 Length: 34
+# OSUXYN_68899 Number of predicted TMRs: 0
+OSUXYN_68899	signal	1	23				
+OSUXYN_68899	outside	24	34				
+//
+# OSUXYN_162583 Length: 41
+# OSUXYN_162583 Number of predicted TMRs: 0
+OSUXYN_162583	signal	1	33				
+OSUXYN_162583	outside	34	41				
+//
+# OSUXYN_40973 Length: 37
+# OSUXYN_40973 Number of predicted TMRs: 0
+OSUXYN_40973	signal	1	32				
+OSUXYN_40973	outside	33	37				
+//
+# OSUXYN_149217 Length: 49
+# OSUXYN_149217 Number of predicted TMRs: 0
+OSUXYN_149217	inside	1	49				
+//
+# OSUXYN_167978 Length: 38
+# OSUXYN_167978 Number of predicted TMRs: 0
+OSUXYN_167978	signal	1	18				
+OSUXYN_167978	outside	19	38				
+//
+# OSUXYN_18670 Length: 49
+# OSUXYN_18670 Number of predicted TMRs: 0
+OSUXYN_18670	signal	1	12				
+OSUXYN_18670	outside	13	49				
+//
+# OSUXYN_66195 Length: 47
+# OSUXYN_66195 Number of predicted TMRs: 1
+OSUXYN_66195	inside	1	27				
+OSUXYN_66195	TMhelix	28	41				
+OSUXYN_66195	outside	42	47				
+//
+# OSUXYN_104537 Length: 49
+# OSUXYN_104537 Number of predicted TMRs: 0
+OSUXYN_104537	inside	1	49				
+//
+# OSUXYN_118639 Length: 32
+# OSUXYN_118639 Number of predicted TMRs: 0
+OSUXYN_118639	signal	1	16				
+OSUXYN_118639	outside	17	32				
+//
+# OSUXYN_128533 Length: 49
+# OSUXYN_128533 Number of predicted TMRs: 0
+OSUXYN_128533	inside	1	49				
+//
+# OSUXYN_102843 Length: 40
+# OSUXYN_102843 Number of predicted TMRs: 0
+OSUXYN_102843	signal	1	28				
+OSUXYN_102843	outside	29	40				
+//
+# OSUXYN_12403 Length: 49
+# OSUXYN_12403 Number of predicted TMRs: 0
+OSUXYN_12403	signal	1	38				
+OSUXYN_12403	outside	39	49				
+//
+# OSUXYN_97481 Length: 49
+# OSUXYN_97481 Number of predicted TMRs: 0
+OSUXYN_97481	signal	1	10				
+OSUXYN_97481	outside	11	49				
+//
+# OSUXYN_64470 Length: 33
+# OSUXYN_64470 Number of predicted TMRs: 0
+OSUXYN_64470	signal	1	29				
+OSUXYN_64470	outside	30	33				
+//
+# OSUXYN_27690 Length: 28
+# OSUXYN_27690 Number of predicted TMRs: 0
+OSUXYN_27690	signal	1	25				
+OSUXYN_27690	outside	26	28				
+//
+# OSUXYN_144149 Length: 47
+# OSUXYN_144149 Number of predicted TMRs: 0
+OSUXYN_144149	inside	1	47				
+//
+# OSUXYN_120349 Length: 47
+# OSUXYN_120349 Number of predicted TMRs: 0
+OSUXYN_120349	signal	1	38				
+OSUXYN_120349	outside	39	47				
+//
+# OSUXYN_35191 Length: 48
+# OSUXYN_35191 Number of predicted TMRs: 0
+OSUXYN_35191	inside	1	48				
+//
+# OSUXYN_23314 Length: 48
+# OSUXYN_23314 Number of predicted TMRs: 0
+OSUXYN_23314	inside	1	48				
+//
+# OSUXYN_53008 Length: 49
+# OSUXYN_53008 Number of predicted TMRs: 0
+OSUXYN_53008	signal	1	47				
+OSUXYN_53008	outside	48	49				
+//
+# OSUXYN_68857 Length: 46
+# OSUXYN_68857 Number of predicted TMRs: 0
+OSUXYN_68857	signal	1	45				
+OSUXYN_68857	outside	46	46				
+//
+# OSUXYN_14605 Length: 47
+# OSUXYN_14605 Number of predicted TMRs: 0
+OSUXYN_14605	signal	1	46				
+OSUXYN_14605	outside	47	47				
+//
+# OSUXYN_134473 Length: 45
+# OSUXYN_134473 Number of predicted TMRs: 0
+OSUXYN_134473	signal	1	34				
+OSUXYN_134473	outside	35	45				
+//
+# OSUXYN_137970 Length: 47
+# OSUXYN_137970 Number of predicted TMRs: 0
+OSUXYN_137970	signal	1	34				
+OSUXYN_137970	outside	35	47				
+//
+# OSUXYN_112768 Length: 47
+# OSUXYN_112768 Number of predicted TMRs: 0
+OSUXYN_112768	signal	1	14				
+OSUXYN_112768	outside	15	47				
+//
+# OSUXYN_24253 Length: 48
+# OSUXYN_24253 Number of predicted TMRs: 0
+OSUXYN_24253	signal	1	10				
+OSUXYN_24253	outside	11	48				
+//
+# OSUXYN_167393 Length: 47
+# OSUXYN_167393 Number of predicted TMRs: 0
+OSUXYN_167393	inside	1	47				
+//
+# OSUXYN_77046 Length: 50
+# OSUXYN_77046 Number of predicted TMRs: 0
+OSUXYN_77046	inside	1	50				
+//
+# OSUXYN_9498 Length: 49
+# OSUXYN_9498 Number of predicted TMRs: 0
+OSUXYN_9498	inside	1	49				
+//
+# OSUXYN_137516 Length: 49
+# OSUXYN_137516 Number of predicted TMRs: 0
+OSUXYN_137516	inside	1	49				
+//
+# OSUXYN_145829 Length: 40
+# OSUXYN_145829 Number of predicted TMRs: 0
+OSUXYN_145829	signal	1	14				
+OSUXYN_145829	outside	15	40				
+//
+# OSUXYN_164378 Length: 49
+# OSUXYN_164378 Number of predicted TMRs: 0
+OSUXYN_164378	inside	1	49				
+//
+# OSUXYN_47720 Length: 48
+# OSUXYN_47720 Number of predicted TMRs: 0
+OSUXYN_47720	inside	1	48				
+//
+# OSUXYN_23554 Length: 48
+# OSUXYN_23554 Number of predicted TMRs: 0
+OSUXYN_23554	inside	1	48				
+//
+# OSUXYN_77756 Length: 40
+# OSUXYN_77756 Number of predicted TMRs: 0
+OSUXYN_77756	signal	1	20				
+OSUXYN_77756	outside	21	40				
+//
+# OSUXYN_77742 Length: 41
+# OSUXYN_77742 Number of predicted TMRs: 0
+OSUXYN_77742	signal	1	21				
+OSUXYN_77742	outside	22	41				
+//
+# OSUXYN_150371 Length: 48
+# OSUXYN_150371 Number of predicted TMRs: 0
+OSUXYN_150371	outside	1	48				
+//
+# OSUXYN_29308 Length: 41
+# OSUXYN_29308 Number of predicted TMRs: 0
+OSUXYN_29308	signal	1	14				
+OSUXYN_29308	outside	15	41				
+//
+# OSUXYN_92364 Length: 49
+# OSUXYN_92364 Number of predicted TMRs: 0
+OSUXYN_92364	inside	1	49				
+//
+# OSUXYN_87770 Length: 45
+# OSUXYN_87770 Number of predicted TMRs: 0
+OSUXYN_87770	inside	1	45				
+//
+# OSUXYN_73819 Length: 47
+# OSUXYN_73819 Number of predicted TMRs: 0
+OSUXYN_73819	inside	1	47				
+//
+# OSUXYN_106722 Length: 48
+# OSUXYN_106722 Number of predicted TMRs: 0
+OSUXYN_106722	signal	1	29				
+OSUXYN_106722	outside	30	48				
+//
+# OSUXYN_73265 Length: 44
+# OSUXYN_73265 Number of predicted TMRs: 0
+OSUXYN_73265	inside	1	44				
+//
+# OSUXYN_137108 Length: 42
+# OSUXYN_137108 Number of predicted TMRs: 0
+OSUXYN_137108	signal	1	41				
+OSUXYN_137108	outside	42	42				
+//
+# OSUXYN_47226 Length: 50
+# OSUXYN_47226 Number of predicted TMRs: 0
+OSUXYN_47226	inside	1	50				
+//
+# OSUXYN_143052 Length: 43
+# OSUXYN_143052 Number of predicted TMRs: 0
+OSUXYN_143052	inside	1	43				
+//
+# OSUXYN_2369 Length: 43
+# OSUXYN_2369 Number of predicted TMRs: 0
+OSUXYN_2369	signal	1	42				
+OSUXYN_2369	outside	43	43				
+//
+# OSUXYN_139720 Length: 44
+# OSUXYN_139720 Number of predicted TMRs: 0
+OSUXYN_139720	inside	1	44				
+//
+# OSUXYN_151886 Length: 47
+# OSUXYN_151886 Number of predicted TMRs: 0
+OSUXYN_151886	inside	1	47				
+//
+# OSUXYN_139408 Length: 42
+# OSUXYN_139408 Number of predicted TMRs: 0
+OSUXYN_139408	inside	1	42				
+//
+# OSUXYN_125654 Length: 42
+# OSUXYN_125654 Number of predicted TMRs: 0
+OSUXYN_125654	signal	1	27				
+OSUXYN_125654	outside	28	42				
+//
+# OSUXYN_158840 Length: 50
+# OSUXYN_158840 Number of predicted TMRs: 0
+OSUXYN_158840	inside	1	50				
+//
+# OSUXYN_146074 Length: 44
+# OSUXYN_146074 Number of predicted TMRs: 0
+OSUXYN_146074	signal	1	40				
+OSUXYN_146074	outside	41	44				
+//
+# OSUXYN_54975 Length: 39
+# OSUXYN_54975 Number of predicted TMRs: 0
+OSUXYN_54975	signal	1	37				
+OSUXYN_54975	outside	38	39				
+//
+# OSUXYN_163462 Length: 44
+# OSUXYN_163462 Number of predicted TMRs: 0
+OSUXYN_163462	inside	1	44				
+//
+# OSUXYN_145749 Length: 44
+# OSUXYN_145749 Number of predicted TMRs: 0
+OSUXYN_145749	signal	1	10				
+OSUXYN_145749	outside	11	44				
+//
+# OSUXYN_2543 Length: 46
+# OSUXYN_2543 Number of predicted TMRs: 0
+OSUXYN_2543	signal	1	12				
+OSUXYN_2543	outside	13	46				
+//
+# OSUXYN_138554 Length: 46
+# OSUXYN_138554 Number of predicted TMRs: 0
+OSUXYN_138554	signal	1	45				
+OSUXYN_138554	outside	46	46				
+//
+# OSUXYN_27738 Length: 49
+# OSUXYN_27738 Number of predicted TMRs: 0
+OSUXYN_27738	signal	1	14				
+OSUXYN_27738	outside	15	49				
+//
+# OSUXYN_73498 Length: 44
+# OSUXYN_73498 Number of predicted TMRs: 0
+OSUXYN_73498	signal	1	11				
+OSUXYN_73498	outside	12	44				
+//
+# OSUXYN_132987 Length: 43
+# OSUXYN_132987 Number of predicted TMRs: 0
+OSUXYN_132987	inside	1	43				
+//
+# OSUXYN_148121 Length: 46
+# OSUXYN_148121 Number of predicted TMRs: 0
+OSUXYN_148121	signal	1	40				
+OSUXYN_148121	outside	41	46				
+//
+# OSUXYN_33102 Length: 40
+# OSUXYN_33102 Number of predicted TMRs: 0
+OSUXYN_33102	signal	1	39				
+OSUXYN_33102	outside	40	40				
+//
+# OSUXYN_79223 Length: 39
+# OSUXYN_79223 Number of predicted TMRs: 0
+OSUXYN_79223	signal	1	38				
+OSUXYN_79223	outside	39	39				
+//
+# OSUXYN_48449 Length: 46
+# OSUXYN_48449 Number of predicted TMRs: 0
+OSUXYN_48449	signal	1	10				
+OSUXYN_48449	outside	11	46				
+//
+# OSUXYN_114050 Length: 49
+# OSUXYN_114050 Number of predicted TMRs: 0
+OSUXYN_114050	signal	1	47				
+OSUXYN_114050	outside	48	49				
+//
+# OSUXYN_93923 Length: 41
+# OSUXYN_93923 Number of predicted TMRs: 0
+OSUXYN_93923	signal	1	19				
+OSUXYN_93923	outside	20	41				
+//
+# OSUXYN_82859 Length: 33
+# OSUXYN_82859 Number of predicted TMRs: 0
+OSUXYN_82859	outside	1	33				
+//
+# OSUXYN_58443 Length: 39
+# OSUXYN_58443 Number of predicted TMRs: 0
+OSUXYN_58443	signal	1	17				
+OSUXYN_58443	outside	18	39				
+//
+# OSUXYN_41303 Length: 50
+# OSUXYN_41303 Number of predicted TMRs: 0
+OSUXYN_41303	signal	1	44				
+OSUXYN_41303	outside	45	50				
+//
+# OSUXYN_120015 Length: 40
+# OSUXYN_120015 Number of predicted TMRs: 0
+OSUXYN_120015	signal	1	20				
+OSUXYN_120015	outside	21	40				
+//
+# OSUXYN_86103 Length: 45
+# OSUXYN_86103 Number of predicted TMRs: 0
+OSUXYN_86103	inside	1	45				
+//
+# OSUXYN_88187 Length: 49
+# OSUXYN_88187 Number of predicted TMRs: 0
+OSUXYN_88187	signal	1	37				
+OSUXYN_88187	outside	38	49				
+//
+# OSUXYN_28884 Length: 46
+# OSUXYN_28884 Number of predicted TMRs: 0
+OSUXYN_28884	signal	1	45				
+OSUXYN_28884	outside	46	46				
+//
+# OSUXYN_95160 Length: 46
+# OSUXYN_95160 Number of predicted TMRs: 0
+OSUXYN_95160	signal	1	16				
+OSUXYN_95160	outside	17	46				
+//
+# OSUXYN_89700 Length: 49
+# OSUXYN_89700 Number of predicted TMRs: 0
+OSUXYN_89700	inside	1	49				
+//
+# OSUXYN_154490 Length: 44
+# OSUXYN_154490 Number of predicted TMRs: 0
+OSUXYN_154490	inside	1	44				
+//
+# OSUXYN_91809 Length: 50
+# OSUXYN_91809 Number of predicted TMRs: 0
+OSUXYN_91809	signal	1	44				
+OSUXYN_91809	outside	45	50				
+//
+# OSUXYN_69243 Length: 47
+# OSUXYN_69243 Number of predicted TMRs: 0
+OSUXYN_69243	inside	1	47				
+//
+# OSUXYN_35825 Length: 49
+# OSUXYN_35825 Number of predicted TMRs: 0
+OSUXYN_35825	inside	1	49				
+//
+# OSUXYN_115511 Length: 48
+# OSUXYN_115511 Number of predicted TMRs: 0
+OSUXYN_115511	inside	1	48				
+//
+# OSUXYN_55620 Length: 37
+# OSUXYN_55620 Number of predicted TMRs: 0
+OSUXYN_55620	signal	1	29				
+OSUXYN_55620	outside	30	37				
+//
+# OSUXYN_111730 Length: 38
+# OSUXYN_111730 Number of predicted TMRs: 0
+OSUXYN_111730	signal	1	21				
+OSUXYN_111730	outside	22	38				
+//
+# OSUXYN_122041 Length: 40
+# OSUXYN_122041 Number of predicted TMRs: 0
+OSUXYN_122041	signal	1	27				
+OSUXYN_122041	outside	28	40				
+//
+# OSUXYN_63308 Length: 47
+# OSUXYN_63308 Number of predicted TMRs: 0
+OSUXYN_63308	inside	1	47				
+//
+# OSUXYN_88539 Length: 50
+# OSUXYN_88539 Number of predicted TMRs: 0
+OSUXYN_88539	signal	1	43				
+OSUXYN_88539	outside	44	50				
+//
+# OSUXYN_170787 Length: 49
+# OSUXYN_170787 Number of predicted TMRs: 0
+OSUXYN_170787	signal	1	10				
+OSUXYN_170787	outside	11	49				
+//
+# OSUXYN_110198 Length: 35
+# OSUXYN_110198 Number of predicted TMRs: 0
+OSUXYN_110198	signal	1	34				
+OSUXYN_110198	outside	35	35				
+//
+# OSUXYN_22747 Length: 46
+# OSUXYN_22747 Number of predicted TMRs: 0
+OSUXYN_22747	signal	1	18				
+OSUXYN_22747	outside	19	46				
+//
+# OSUXYN_14736 Length: 42
+# OSUXYN_14736 Number of predicted TMRs: 0
+OSUXYN_14736	signal	1	41				
+OSUXYN_14736	outside	42	42				
+//
+# OSUXYN_131534 Length: 42
+# OSUXYN_131534 Number of predicted TMRs: 0
+OSUXYN_131534	inside	1	42				
+//
+# OSUXYN_168802 Length: 42
+# OSUXYN_168802 Number of predicted TMRs: 0
+OSUXYN_168802	inside	1	42				
+//
+# OSUXYN_124161 Length: 42
+# OSUXYN_124161 Number of predicted TMRs: 0
+OSUXYN_124161	inside	1	42				
+//
+# OSUXYN_143336 Length: 42
+# OSUXYN_143336 Number of predicted TMRs: 0
+OSUXYN_143336	signal	1	40				
+OSUXYN_143336	outside	41	42				
+//
+# OSUXYN_131737 Length: 42
+# OSUXYN_131737 Number of predicted TMRs: 0
+OSUXYN_131737	signal	1	41				
+OSUXYN_131737	outside	42	42				
+//
+# OSUXYN_119361 Length: 42
+# OSUXYN_119361 Number of predicted TMRs: 0
+OSUXYN_119361	inside	1	42				
+//
+# OSUXYN_74947 Length: 42
+# OSUXYN_74947 Number of predicted TMRs: 0
+OSUXYN_74947	inside	1	42				
+//
+# OSUXYN_171418 Length: 42
+# OSUXYN_171418 Number of predicted TMRs: 0
+OSUXYN_171418	inside	1	42				
+//
+# OSUXYN_127796 Length: 42
+# OSUXYN_127796 Number of predicted TMRs: 0
+OSUXYN_127796	inside	1	42				
+//
+# OSUXYN_163981 Length: 42
+# OSUXYN_163981 Number of predicted TMRs: 0
+OSUXYN_163981	signal	1	41				
+OSUXYN_163981	outside	42	42				
+//
+# OSUXYN_171455 Length: 42
+# OSUXYN_171455 Number of predicted TMRs: 0
+OSUXYN_171455	inside	1	42				
+//
+# OSUXYN_112832 Length: 42
+# OSUXYN_112832 Number of predicted TMRs: 0
+OSUXYN_112832	inside	1	42				
+//
+# OSUXYN_170723 Length: 42
+# OSUXYN_170723 Number of predicted TMRs: 0
+OSUXYN_170723	signal	1	41				
+OSUXYN_170723	outside	42	42				
+//
+# OSUXYN_148422 Length: 42
+# OSUXYN_148422 Number of predicted TMRs: 0
+OSUXYN_148422	signal	1	41				
+OSUXYN_148422	outside	42	42				
+//
+# OSUXYN_118614 Length: 41
+# OSUXYN_118614 Number of predicted TMRs: 0
+OSUXYN_118614	signal	1	37				
+OSUXYN_118614	outside	38	41				
+//
+# OSUXYN_16224 Length: 42
+# OSUXYN_16224 Number of predicted TMRs: 0
+OSUXYN_16224	signal	1	40				
+OSUXYN_16224	outside	41	42				
+//
+# OSUXYN_137829 Length: 42
+# OSUXYN_137829 Number of predicted TMRs: 0
+OSUXYN_137829	inside	1	42				
+//
+# OSUXYN_43925 Length: 42
+# OSUXYN_43925 Number of predicted TMRs: 0
+OSUXYN_43925	inside	1	42				
+//
+# OSUXYN_7591 Length: 42
+# OSUXYN_7591 Number of predicted TMRs: 0
+OSUXYN_7591	signal	1	41				
+OSUXYN_7591	outside	42	42				
+//
+# OSUXYN_124155 Length: 42
+# OSUXYN_124155 Number of predicted TMRs: 0
+OSUXYN_124155	inside	1	42				
+//
+# OSUXYN_74677 Length: 42
+# OSUXYN_74677 Number of predicted TMRs: 0
+OSUXYN_74677	signal	1	41				
+OSUXYN_74677	outside	42	42				
+//
+# OSUXYN_128481 Length: 42
+# OSUXYN_128481 Number of predicted TMRs: 0
+OSUXYN_128481	signal	1	41				
+OSUXYN_128481	outside	42	42				
+//
+# OSUXYN_164004 Length: 42
+# OSUXYN_164004 Number of predicted TMRs: 0
+OSUXYN_164004	inside	1	42				
+//
+# OSUXYN_93755 Length: 42
+# OSUXYN_93755 Number of predicted TMRs: 0
+OSUXYN_93755	inside	1	42				
+//
+# OSUXYN_161778 Length: 42
+# OSUXYN_161778 Number of predicted TMRs: 0
+OSUXYN_161778	inside	1	42				
+//
+# OSUXYN_44019 Length: 42
+# OSUXYN_44019 Number of predicted TMRs: 0
+OSUXYN_44019	signal	1	41				
+OSUXYN_44019	outside	42	42				
+//
+# OSUXYN_121819 Length: 42
+# OSUXYN_121819 Number of predicted TMRs: 0
+OSUXYN_121819	signal	1	41				
+OSUXYN_121819	outside	42	42				
+//
+# OSUXYN_56019 Length: 42
+# OSUXYN_56019 Number of predicted TMRs: 0
+OSUXYN_56019	signal	1	41				
+OSUXYN_56019	outside	42	42				
+//
+# OSUXYN_165012 Length: 42
+# OSUXYN_165012 Number of predicted TMRs: 0
+OSUXYN_165012	signal	1	41				
+OSUXYN_165012	outside	42	42				
+//
+# OSUXYN_147278 Length: 42
+# OSUXYN_147278 Number of predicted TMRs: 0
+OSUXYN_147278	signal	1	41				
+OSUXYN_147278	outside	42	42				
+//
+# OSUXYN_115584 Length: 42
+# OSUXYN_115584 Number of predicted TMRs: 0
+OSUXYN_115584	signal	1	41				
+OSUXYN_115584	outside	42	42				
+//
+# OSUXYN_90523 Length: 42
+# OSUXYN_90523 Number of predicted TMRs: 0
+OSUXYN_90523	signal	1	41				
+OSUXYN_90523	outside	42	42				
+//
+# OSUXYN_22753 Length: 38
+# OSUXYN_22753 Number of predicted TMRs: 0
+OSUXYN_22753	signal	1	10				
+OSUXYN_22753	outside	11	38				
+//
+# OSUXYN_77350 Length: 41
+# OSUXYN_77350 Number of predicted TMRs: 0
+OSUXYN_77350	signal	1	21				
+OSUXYN_77350	outside	22	41				
+//
+# OSUXYN_41423 Length: 45
+# OSUXYN_41423 Number of predicted TMRs: 0
+OSUXYN_41423	signal	1	29				
+OSUXYN_41423	outside	30	45				
+//
+# OSUXYN_139784 Length: 44
+# OSUXYN_139784 Number of predicted TMRs: 0
+OSUXYN_139784	inside	1	44				
+//
+# OSUXYN_84483 Length: 43
+# OSUXYN_84483 Number of predicted TMRs: 0
+OSUXYN_84483	inside	1	43				
+//
+# OSUXYN_61209 Length: 48
+# OSUXYN_61209 Number of predicted TMRs: 0
+OSUXYN_61209	signal	1	38				
+OSUXYN_61209	outside	39	48				
+//
+# OSUXYN_128502 Length: 49
+# OSUXYN_128502 Number of predicted TMRs: 0
+OSUXYN_128502	inside	1	49				
+//
+# OSUXYN_131792 Length: 46
+# OSUXYN_131792 Number of predicted TMRs: 0
+OSUXYN_131792	signal	1	45				
+OSUXYN_131792	outside	46	46				
+//
+# OSUXYN_143137 Length: 49
+# OSUXYN_143137 Number of predicted TMRs: 0
+OSUXYN_143137	inside	1	49				
+//
+# OSUXYN_2831 Length: 44
+# OSUXYN_2831 Number of predicted TMRs: 0
+OSUXYN_2831	signal	1	31				
+OSUXYN_2831	outside	32	44				
+//
+# OSUXYN_134652 Length: 42
+# OSUXYN_134652 Number of predicted TMRs: 0
+OSUXYN_134652	signal	1	40				
+OSUXYN_134652	outside	41	42				
+//
+# OSUXYN_54626 Length: 44
+# OSUXYN_54626 Number of predicted TMRs: 0
+OSUXYN_54626	signal	1	34				
+OSUXYN_54626	outside	35	44				
+//
+# OSUXYN_82768 Length: 38
+# OSUXYN_82768 Number of predicted TMRs: 0
+OSUXYN_82768	inside	1	38				
+//
+# OSUXYN_115575 Length: 47
+# OSUXYN_115575 Number of predicted TMRs: 0
+OSUXYN_115575	signal	1	46				
+OSUXYN_115575	outside	47	47				
+//
+# OSUXYN_37054 Length: 46
+# OSUXYN_37054 Number of predicted TMRs: 0
+OSUXYN_37054	signal	1	10				
+OSUXYN_37054	outside	11	46				
+//
+# OSUXYN_93341 Length: 47
+# OSUXYN_93341 Number of predicted TMRs: 0
+OSUXYN_93341	inside	1	47				
+//
+# OSUXYN_144422 Length: 47
+# OSUXYN_144422 Number of predicted TMRs: 0
+OSUXYN_144422	inside	1	47				
+//
+# OSUXYN_155503 Length: 35
+# OSUXYN_155503 Number of predicted TMRs: 0
+OSUXYN_155503	signal	1	20				
+OSUXYN_155503	outside	21	35				
+//
+# OSUXYN_31829 Length: 38
+# OSUXYN_31829 Number of predicted TMRs: 0
+OSUXYN_31829	inside	1	38				
+//
+# OSUXYN_55869 Length: 44
+# OSUXYN_55869 Number of predicted TMRs: 0
+OSUXYN_55869	signal	1	32				
+OSUXYN_55869	outside	33	44				
+//
+# OSUXYN_152096 Length: 50
+# OSUXYN_152096 Number of predicted TMRs: 0
+OSUXYN_152096	signal	1	38				
+OSUXYN_152096	outside	39	50				
+//
+# OSUXYN_43715 Length: 45
+# OSUXYN_43715 Number of predicted TMRs: 0
+OSUXYN_43715	inside	1	45				
+//
+# OSUXYN_14502 Length: 47
+# OSUXYN_14502 Number of predicted TMRs: 0
+OSUXYN_14502	signal	1	41				
+OSUXYN_14502	outside	42	47				
+//
+# OSUXYN_168950 Length: 49
+# OSUXYN_168950 Number of predicted TMRs: 0
+OSUXYN_168950	inside	1	49				
+//
+# OSUXYN_44366 Length: 48
+# OSUXYN_44366 Number of predicted TMRs: 0
+OSUXYN_44366	inside	1	48				
+//
+# OSUXYN_93400 Length: 45
+# OSUXYN_93400 Number of predicted TMRs: 0
+OSUXYN_93400	inside	1	45				
+//
+# OSUXYN_162665 Length: 41
+# OSUXYN_162665 Number of predicted TMRs: 0
+OSUXYN_162665	inside	1	41				
+//
+# OSUXYN_164166 Length: 43
+# OSUXYN_164166 Number of predicted TMRs: 0
+OSUXYN_164166	inside	1	43				
+//
+# OSUXYN_9326 Length: 44
+# OSUXYN_9326 Number of predicted TMRs: 0
+OSUXYN_9326	signal	1	42				
+OSUXYN_9326	outside	43	44				
+//
+# OSUXYN_156952 Length: 45
+# OSUXYN_156952 Number of predicted TMRs: 0
+OSUXYN_156952	signal	1	18				
+OSUXYN_156952	outside	19	45				
+//
+# OSUXYN_117591 Length: 48
+# OSUXYN_117591 Number of predicted TMRs: 0
+OSUXYN_117591	inside	1	48				
+//
+# OSUXYN_137845 Length: 47
+# OSUXYN_137845 Number of predicted TMRs: 0
+OSUXYN_137845	inside	1	47				
+//
+# OSUXYN_99003 Length: 37
+# OSUXYN_99003 Number of predicted TMRs: 0
+OSUXYN_99003	signal	1	35				
+OSUXYN_99003	outside	36	37				
+//
+# OSUXYN_74145 Length: 43
+# OSUXYN_74145 Number of predicted TMRs: 0
+OSUXYN_74145	signal	1	15				
+OSUXYN_74145	outside	16	43				
+//
+# OSUXYN_100928 Length: 50
+# OSUXYN_100928 Number of predicted TMRs: 0
+OSUXYN_100928	signal	1	47				
+OSUXYN_100928	outside	48	50				
+//
+# OSUXYN_47544 Length: 49
+# OSUXYN_47544 Number of predicted TMRs: 0
+OSUXYN_47544	inside	1	49				
+//
+# OSUXYN_95306 Length: 50
+# OSUXYN_95306 Number of predicted TMRs: 0
+OSUXYN_95306	inside	1	50				
+//
+# OSUXYN_30015 Length: 37
+# OSUXYN_30015 Number of predicted TMRs: 0
+OSUXYN_30015	signal	1	23				
+OSUXYN_30015	outside	24	37				
+//
+# OSUXYN_17700 Length: 46
+# OSUXYN_17700 Number of predicted TMRs: 0
+OSUXYN_17700	signal	1	26				
+OSUXYN_17700	outside	27	46				
+//
+# OSUXYN_128378 Length: 47
+# OSUXYN_128378 Number of predicted TMRs: 0
+OSUXYN_128378	inside	1	47				
+//
+# OSUXYN_115184 Length: 41
+# OSUXYN_115184 Number of predicted TMRs: 0
+OSUXYN_115184	inside	1	41				
+//
+# OSUXYN_142213 Length: 34
+# OSUXYN_142213 Number of predicted TMRs: 1
+OSUXYN_142213	outside	1	1				
+OSUXYN_142213	TMhelix	2	20				
+OSUXYN_142213	inside	21	34				
+//
+# OSUXYN_68655 Length: 49
+# OSUXYN_68655 Number of predicted TMRs: 0
+OSUXYN_68655	inside	1	49				
+//
+# OSUXYN_168586 Length: 41
+# OSUXYN_168586 Number of predicted TMRs: 0
+OSUXYN_168586	inside	1	41				
+//
+# OSUXYN_52135 Length: 40
+# OSUXYN_52135 Number of predicted TMRs: 0
+OSUXYN_52135	inside	1	40				

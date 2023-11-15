@@ -1,0 +1,4363 @@
+##gff-version 3
+# DTLVCD_137421 Length: 50
+# DTLVCD_137421 Number of predicted TMRs: 0
+DTLVCD_137421	inside	1	50				
+//
+# DTLVCD_61444 Length: 46
+# DTLVCD_61444 Number of predicted TMRs: 0
+DTLVCD_61444	signal	1	20				
+DTLVCD_61444	outside	21	46				
+//
+# DTLVCD_51272 Length: 44
+# DTLVCD_51272 Number of predicted TMRs: 0
+DTLVCD_51272	inside	1	44				
+//
+# DTLVCD_20702 Length: 30
+# DTLVCD_20702 Number of predicted TMRs: 0
+DTLVCD_20702	signal	1	28				
+DTLVCD_20702	outside	29	30				
+//
+# DTLVCD_37024 Length: 46
+# DTLVCD_37024 Number of predicted TMRs: 0
+DTLVCD_37024	inside	1	46				
+//
+# DTLVCD_33946 Length: 44
+# DTLVCD_33946 Number of predicted TMRs: 0
+DTLVCD_33946	inside	1	44				
+//
+# DTLVCD_69764 Length: 44
+# DTLVCD_69764 Number of predicted TMRs: 0
+DTLVCD_69764	inside	1	44				
+//
+# DTLVCD_14450 Length: 46
+# DTLVCD_14450 Number of predicted TMRs: 0
+DTLVCD_14450	signal	1	19				
+DTLVCD_14450	outside	20	46				
+//
+# DTLVCD_19376 Length: 50
+# DTLVCD_19376 Number of predicted TMRs: 0
+DTLVCD_19376	inside	1	50				
+//
+# DTLVCD_99997 Length: 39
+# DTLVCD_99997 Number of predicted TMRs: 0
+DTLVCD_99997	signal	1	21				
+DTLVCD_99997	outside	22	39				
+//
+# DTLVCD_105417 Length: 46
+# DTLVCD_105417 Number of predicted TMRs: 0
+DTLVCD_105417	inside	1	46				
+//
+# DTLVCD_53660 Length: 37
+# DTLVCD_53660 Number of predicted TMRs: 0
+DTLVCD_53660	signal	1	24				
+DTLVCD_53660	outside	25	37				
+//
+# DTLVCD_13641 Length: 49
+# DTLVCD_13641 Number of predicted TMRs: 0
+DTLVCD_13641	inside	1	49				
+//
+# DTLVCD_98893 Length: 29
+# DTLVCD_98893 Number of predicted TMRs: 0
+DTLVCD_98893	inside	1	29				
+//
+# DTLVCD_45098 Length: 46
+# DTLVCD_45098 Number of predicted TMRs: 0
+DTLVCD_45098	signal	1	23				
+DTLVCD_45098	outside	24	46				
+//
+# DTLVCD_131656 Length: 43
+# DTLVCD_131656 Number of predicted TMRs: 0
+DTLVCD_131656	inside	1	43				
+//
+# DTLVCD_170165 Length: 50
+# DTLVCD_170165 Number of predicted TMRs: 0
+DTLVCD_170165	inside	1	50				
+//
+# DTLVCD_124489 Length: 39
+# DTLVCD_124489 Number of predicted TMRs: 0
+DTLVCD_124489	inside	1	39				
+//
+# DTLVCD_42831 Length: 49
+# DTLVCD_42831 Number of predicted TMRs: 0
+DTLVCD_42831	signal	1	12				
+DTLVCD_42831	outside	13	49				
+//
+# DTLVCD_137984 Length: 49
+# DTLVCD_137984 Number of predicted TMRs: 0
+DTLVCD_137984	inside	1	49				
+//
+# DTLVCD_82910 Length: 48
+# DTLVCD_82910 Number of predicted TMRs: 0
+DTLVCD_82910	inside	1	48				
+//
+# DTLVCD_59002 Length: 38
+# DTLVCD_59002 Number of predicted TMRs: 0
+DTLVCD_59002	inside	1	38				
+//
+# DTLVCD_125436 Length: 45
+# DTLVCD_125436 Number of predicted TMRs: 0
+DTLVCD_125436	inside	1	45				
+//
+# DTLVCD_22603 Length: 49
+# DTLVCD_22603 Number of predicted TMRs: 0
+DTLVCD_22603	inside	1	49				
+//
+# DTLVCD_91298 Length: 48
+# DTLVCD_91298 Number of predicted TMRs: 0
+DTLVCD_91298	inside	1	48				
+//
+# DTLVCD_129067 Length: 40
+# DTLVCD_129067 Number of predicted TMRs: 0
+DTLVCD_129067	inside	1	40				
+//
+# DTLVCD_52113 Length: 36
+# DTLVCD_52113 Number of predicted TMRs: 0
+DTLVCD_52113	inside	1	36				
+//
+# DTLVCD_166148 Length: 32
+# DTLVCD_166148 Number of predicted TMRs: 0
+DTLVCD_166148	inside	1	32				
+//
+# DTLVCD_77075 Length: 48
+# DTLVCD_77075 Number of predicted TMRs: 0
+DTLVCD_77075	inside	1	48				
+//
+# DTLVCD_66123 Length: 46
+# DTLVCD_66123 Number of predicted TMRs: 0
+DTLVCD_66123	inside	1	46				
+//
+# DTLVCD_47230 Length: 34
+# DTLVCD_47230 Number of predicted TMRs: 0
+DTLVCD_47230	signal	1	30				
+DTLVCD_47230	outside	31	34				
+//
+# DTLVCD_30921 Length: 34
+# DTLVCD_30921 Number of predicted TMRs: 0
+DTLVCD_30921	signal	1	30				
+DTLVCD_30921	outside	31	34				
+//
+# DTLVCD_8900 Length: 34
+# DTLVCD_8900 Number of predicted TMRs: 0
+DTLVCD_8900	signal	1	33				
+DTLVCD_8900	outside	34	34				
+//
+# DTLVCD_87388 Length: 48
+# DTLVCD_87388 Number of predicted TMRs: 0
+DTLVCD_87388	inside	1	48				
+//
+# DTLVCD_5243 Length: 45
+# DTLVCD_5243 Number of predicted TMRs: 0
+DTLVCD_5243	signal	1	10				
+DTLVCD_5243	outside	11	45				
+//
+# DTLVCD_127271 Length: 44
+# DTLVCD_127271 Number of predicted TMRs: 0
+DTLVCD_127271	signal	1	20				
+DTLVCD_127271	outside	21	44				
+//
+# DTLVCD_162741 Length: 40
+# DTLVCD_162741 Number of predicted TMRs: 0
+DTLVCD_162741	inside	1	40				
+//
+# DTLVCD_96976 Length: 40
+# DTLVCD_96976 Number of predicted TMRs: 0
+DTLVCD_96976	inside	1	40				
+//
+# DTLVCD_96996 Length: 31
+# DTLVCD_96996 Number of predicted TMRs: 0
+DTLVCD_96996	inside	1	31				
+//
+# DTLVCD_43450 Length: 50
+# DTLVCD_43450 Number of predicted TMRs: 0
+DTLVCD_43450	inside	1	50				
+//
+# DTLVCD_80013 Length: 40
+# DTLVCD_80013 Number of predicted TMRs: 0
+DTLVCD_80013	inside	1	40				
+//
+# DTLVCD_113475 Length: 49
+# DTLVCD_113475 Number of predicted TMRs: 0
+DTLVCD_113475	inside	1	49				
+//
+# DTLVCD_88396 Length: 44
+# DTLVCD_88396 Number of predicted TMRs: 0
+DTLVCD_88396	inside	1	44				
+//
+# DTLVCD_36114 Length: 41
+# DTLVCD_36114 Number of predicted TMRs: 0
+DTLVCD_36114	inside	1	41				
+//
+# DTLVCD_72376 Length: 49
+# DTLVCD_72376 Number of predicted TMRs: 0
+DTLVCD_72376	inside	1	49				
+//
+# DTLVCD_7954 Length: 36
+# DTLVCD_7954 Number of predicted TMRs: 0
+DTLVCD_7954	inside	1	36				
+//
+# DTLVCD_16785 Length: 34
+# DTLVCD_16785 Number of predicted TMRs: 0
+DTLVCD_16785	inside	1	34				
+//
+# DTLVCD_27446 Length: 50
+# DTLVCD_27446 Number of predicted TMRs: 0
+DTLVCD_27446	signal	1	49				
+DTLVCD_27446	outside	50	50				
+//
+# DTLVCD_45655 Length: 46
+# DTLVCD_45655 Number of predicted TMRs: 0
+DTLVCD_45655	inside	1	46				
+//
+# DTLVCD_91704 Length: 39
+# DTLVCD_91704 Number of predicted TMRs: 0
+DTLVCD_91704	inside	1	39				
+//
+# DTLVCD_63061 Length: 43
+# DTLVCD_63061 Number of predicted TMRs: 0
+DTLVCD_63061	signal	1	18				
+DTLVCD_63061	outside	19	43				
+//
+# DTLVCD_145799 Length: 47
+# DTLVCD_145799 Number of predicted TMRs: 0
+DTLVCD_145799	inside	1	47				
+//
+# DTLVCD_143352 Length: 44
+# DTLVCD_143352 Number of predicted TMRs: 0
+DTLVCD_143352	inside	1	44				
+//
+# DTLVCD_66996 Length: 28
+# DTLVCD_66996 Number of predicted TMRs: 0
+DTLVCD_66996	signal	1	27				
+DTLVCD_66996	outside	28	28				
+//
+# DTLVCD_116944 Length: 46
+# DTLVCD_116944 Number of predicted TMRs: 0
+DTLVCD_116944	signal	1	45				
+DTLVCD_116944	outside	46	46				
+//
+# DTLVCD_7812 Length: 40
+# DTLVCD_7812 Number of predicted TMRs: 0
+DTLVCD_7812	signal	1	14				
+DTLVCD_7812	outside	15	40				
+//
+# DTLVCD_155723 Length: 39
+# DTLVCD_155723 Number of predicted TMRs: 0
+DTLVCD_155723	signal	1	35				
+DTLVCD_155723	outside	36	39				
+//
+# DTLVCD_67778 Length: 49
+# DTLVCD_67778 Number of predicted TMRs: 0
+DTLVCD_67778	inside	1	49				
+//
+# DTLVCD_57619 Length: 50
+# DTLVCD_57619 Number of predicted TMRs: 0
+DTLVCD_57619	inside	1	50				
+//
+# DTLVCD_65121 Length: 42
+# DTLVCD_65121 Number of predicted TMRs: 0
+DTLVCD_65121	inside	1	42				
+//
+# DTLVCD_143133 Length: 30
+# DTLVCD_143133 Number of predicted TMRs: 0
+DTLVCD_143133	inside	1	30				
+//
+# DTLVCD_55289 Length: 46
+# DTLVCD_55289 Number of predicted TMRs: 0
+DTLVCD_55289	inside	1	46				
+//
+# DTLVCD_94712 Length: 45
+# DTLVCD_94712 Number of predicted TMRs: 0
+DTLVCD_94712	inside	1	45				
+//
+# DTLVCD_29883 Length: 50
+# DTLVCD_29883 Number of predicted TMRs: 0
+DTLVCD_29883	inside	1	50				
+//
+# DTLVCD_150520 Length: 28
+# DTLVCD_150520 Number of predicted TMRs: 0
+DTLVCD_150520	signal	1	27				
+DTLVCD_150520	outside	28	28				
+//
+# DTLVCD_70050 Length: 40
+# DTLVCD_70050 Number of predicted TMRs: 0
+DTLVCD_70050	inside	1	40				
+//
+# DTLVCD_147194 Length: 40
+# DTLVCD_147194 Number of predicted TMRs: 0
+DTLVCD_147194	signal	1	30				
+DTLVCD_147194	outside	31	40				
+//
+# DTLVCD_30682 Length: 48
+# DTLVCD_30682 Number of predicted TMRs: 0
+DTLVCD_30682	inside	1	48				
+//
+# DTLVCD_61375 Length: 42
+# DTLVCD_61375 Number of predicted TMRs: 0
+DTLVCD_61375	inside	1	42				
+//
+# DTLVCD_61365 Length: 42
+# DTLVCD_61365 Number of predicted TMRs: 0
+DTLVCD_61365	inside	1	42				
+//
+# DTLVCD_11263 Length: 45
+# DTLVCD_11263 Number of predicted TMRs: 0
+DTLVCD_11263	inside	1	45				
+//
+# DTLVCD_8238 Length: 40
+# DTLVCD_8238 Number of predicted TMRs: 0
+DTLVCD_8238	signal	1	29				
+DTLVCD_8238	outside	30	40				
+//
+# DTLVCD_8236 Length: 47
+# DTLVCD_8236 Number of predicted TMRs: 0
+DTLVCD_8236	inside	1	47				
+//
+# DTLVCD_157174 Length: 47
+# DTLVCD_157174 Number of predicted TMRs: 0
+DTLVCD_157174	inside	1	47				
+//
+# DTLVCD_5380 Length: 46
+# DTLVCD_5380 Number of predicted TMRs: 0
+DTLVCD_5380	inside	1	46				
+//
+# DTLVCD_40594 Length: 50
+# DTLVCD_40594 Number of predicted TMRs: 0
+DTLVCD_40594	inside	1	50				
+//
+# DTLVCD_10180 Length: 48
+# DTLVCD_10180 Number of predicted TMRs: 0
+DTLVCD_10180	inside	1	48				
+//
+# DTLVCD_41532 Length: 50
+# DTLVCD_41532 Number of predicted TMRs: 0
+DTLVCD_41532	signal	1	47				
+DTLVCD_41532	outside	48	50				
+//
+# DTLVCD_165551 Length: 45
+# DTLVCD_165551 Number of predicted TMRs: 0
+DTLVCD_165551	inside	1	45				
+//
+# DTLVCD_74903 Length: 48
+# DTLVCD_74903 Number of predicted TMRs: 0
+DTLVCD_74903	signal	1	11				
+DTLVCD_74903	outside	12	48				
+//
+# DTLVCD_122162 Length: 46
+# DTLVCD_122162 Number of predicted TMRs: 0
+DTLVCD_122162	inside	1	46				
+//
+# DTLVCD_146802 Length: 29
+# DTLVCD_146802 Number of predicted TMRs: 0
+DTLVCD_146802	inside	1	29				
+//
+# DTLVCD_60306 Length: 44
+# DTLVCD_60306 Number of predicted TMRs: 0
+DTLVCD_60306	inside	1	44				
+//
+# DTLVCD_43688 Length: 42
+# DTLVCD_43688 Number of predicted TMRs: 0
+DTLVCD_43688	inside	1	42				
+//
+# DTLVCD_160846 Length: 49
+# DTLVCD_160846 Number of predicted TMRs: 0
+DTLVCD_160846	inside	1	49				
+//
+# DTLVCD_85370 Length: 47
+# DTLVCD_85370 Number of predicted TMRs: 0
+DTLVCD_85370	inside	1	47				
+//
+# DTLVCD_170550 Length: 42
+# DTLVCD_170550 Number of predicted TMRs: 0
+DTLVCD_170550	inside	1	42				
+//
+# DTLVCD_90509 Length: 50
+# DTLVCD_90509 Number of predicted TMRs: 0
+DTLVCD_90509	inside	1	50				
+//
+# DTLVCD_6762 Length: 43
+# DTLVCD_6762 Number of predicted TMRs: 0
+DTLVCD_6762	signal	1	42				
+DTLVCD_6762	outside	43	43				
+//
+# DTLVCD_167758 Length: 46
+# DTLVCD_167758 Number of predicted TMRs: 0
+DTLVCD_167758	inside	1	46				
+//
+# DTLVCD_44049 Length: 39
+# DTLVCD_44049 Number of predicted TMRs: 0
+DTLVCD_44049	inside	1	39				
+//
+# DTLVCD_137375 Length: 42
+# DTLVCD_137375 Number of predicted TMRs: 0
+DTLVCD_137375	inside	1	42				
+//
+# DTLVCD_85926 Length: 47
+# DTLVCD_85926 Number of predicted TMRs: 0
+DTLVCD_85926	inside	1	47				
+//
+# DTLVCD_53045 Length: 48
+# DTLVCD_53045 Number of predicted TMRs: 0
+DTLVCD_53045	signal	1	15				
+DTLVCD_53045	outside	16	48				
+//
+# DTLVCD_122008 Length: 43
+# DTLVCD_122008 Number of predicted TMRs: 0
+DTLVCD_122008	inside	1	43				
+//
+# DTLVCD_41528 Length: 44
+# DTLVCD_41528 Number of predicted TMRs: 0
+DTLVCD_41528	signal	1	43				
+DTLVCD_41528	outside	44	44				
+//
+# DTLVCD_17196 Length: 50
+# DTLVCD_17196 Number of predicted TMRs: 0
+DTLVCD_17196	inside	1	50				
+//
+# DTLVCD_30428 Length: 45
+# DTLVCD_30428 Number of predicted TMRs: 0
+DTLVCD_30428	inside	1	45				
+//
+# DTLVCD_148147 Length: 49
+# DTLVCD_148147 Number of predicted TMRs: 0
+DTLVCD_148147	inside	1	49				
+//
+# DTLVCD_88922 Length: 45
+# DTLVCD_88922 Number of predicted TMRs: 0
+DTLVCD_88922	inside	1	45				
+//
+# DTLVCD_26889 Length: 25
+# DTLVCD_26889 Number of predicted TMRs: 0
+DTLVCD_26889	signal	1	24				
+DTLVCD_26889	outside	25	25				
+//
+# DTLVCD_126613 Length: 46
+# DTLVCD_126613 Number of predicted TMRs: 0
+DTLVCD_126613	inside	1	46				
+//
+# DTLVCD_21745 Length: 48
+# DTLVCD_21745 Number of predicted TMRs: 0
+DTLVCD_21745	signal	1	43				
+DTLVCD_21745	outside	44	48				
+//
+# DTLVCD_144559 Length: 49
+# DTLVCD_144559 Number of predicted TMRs: 0
+DTLVCD_144559	signal	1	34				
+DTLVCD_144559	outside	35	49				
+//
+# DTLVCD_26897 Length: 39
+# DTLVCD_26897 Number of predicted TMRs: 0
+DTLVCD_26897	inside	1	39				
+//
+# DTLVCD_32741 Length: 36
+# DTLVCD_32741 Number of predicted TMRs: 0
+DTLVCD_32741	signal	1	32				
+DTLVCD_32741	outside	33	36				
+//
+# DTLVCD_46756 Length: 44
+# DTLVCD_46756 Number of predicted TMRs: 0
+DTLVCD_46756	inside	1	44				
+//
+# DTLVCD_36337 Length: 48
+# DTLVCD_36337 Number of predicted TMRs: 0
+DTLVCD_36337	signal	1	39				
+DTLVCD_36337	outside	40	48				
+//
+# DTLVCD_94067 Length: 46
+# DTLVCD_94067 Number of predicted TMRs: 0
+DTLVCD_94067	inside	1	46				
+//
+# DTLVCD_120144 Length: 45
+# DTLVCD_120144 Number of predicted TMRs: 0
+DTLVCD_120144	signal	1	15				
+DTLVCD_120144	outside	16	45				
+//
+# DTLVCD_11577 Length: 44
+# DTLVCD_11577 Number of predicted TMRs: 0
+DTLVCD_11577	inside	1	44				
+//
+# DTLVCD_67742 Length: 50
+# DTLVCD_67742 Number of predicted TMRs: 0
+DTLVCD_67742	inside	1	50				
+//
+# DTLVCD_60268 Length: 48
+# DTLVCD_60268 Number of predicted TMRs: 0
+DTLVCD_60268	inside	1	48				
+//
+# DTLVCD_108906 Length: 48
+# DTLVCD_108906 Number of predicted TMRs: 0
+DTLVCD_108906	inside	1	48				
+//
+# DTLVCD_50680 Length: 41
+# DTLVCD_50680 Number of predicted TMRs: 0
+DTLVCD_50680	inside	1	41				
+//
+# DTLVCD_50725 Length: 46
+# DTLVCD_50725 Number of predicted TMRs: 0
+DTLVCD_50725	inside	1	46				
+//
+# DTLVCD_1062 Length: 48
+# DTLVCD_1062 Number of predicted TMRs: 0
+DTLVCD_1062	signal	1	33				
+DTLVCD_1062	outside	34	48				
+//
+# DTLVCD_85518 Length: 48
+# DTLVCD_85518 Number of predicted TMRs: 0
+DTLVCD_85518	outside	1	48				
+//
+# DTLVCD_154123 Length: 47
+# DTLVCD_154123 Number of predicted TMRs: 0
+DTLVCD_154123	inside	1	47				
+//
+# DTLVCD_45986 Length: 50
+# DTLVCD_45986 Number of predicted TMRs: 0
+DTLVCD_45986	signal	1	47				
+DTLVCD_45986	outside	48	50				
+//
+# DTLVCD_70085 Length: 46
+# DTLVCD_70085 Number of predicted TMRs: 0
+DTLVCD_70085	inside	1	46				
+//
+# DTLVCD_101273 Length: 48
+# DTLVCD_101273 Number of predicted TMRs: 0
+DTLVCD_101273	outside	1	48				
+//
+# DTLVCD_18824 Length: 47
+# DTLVCD_18824 Number of predicted TMRs: 0
+DTLVCD_18824	inside	1	47				
+//
+# DTLVCD_164108 Length: 47
+# DTLVCD_164108 Number of predicted TMRs: 0
+DTLVCD_164108	inside	1	47				
+//
+# DTLVCD_26566 Length: 47
+# DTLVCD_26566 Number of predicted TMRs: 0
+DTLVCD_26566	signal	1	45				
+DTLVCD_26566	outside	46	47				
+//
+# DTLVCD_29895 Length: 42
+# DTLVCD_29895 Number of predicted TMRs: 0
+DTLVCD_29895	signal	1	26				
+DTLVCD_29895	outside	27	42				
+//
+# DTLVCD_75409 Length: 33
+# DTLVCD_75409 Number of predicted TMRs: 0
+DTLVCD_75409	signal	1	32				
+DTLVCD_75409	outside	33	33				
+//
+# DTLVCD_7504 Length: 36
+# DTLVCD_7504 Number of predicted TMRs: 1
+DTLVCD_7504	inside	1	6				
+DTLVCD_7504	TMhelix	7	23				
+DTLVCD_7504	outside	24	36				
+//
+# DTLVCD_2456 Length: 41
+# DTLVCD_2456 Number of predicted TMRs: 0
+DTLVCD_2456	signal	1	21				
+DTLVCD_2456	outside	22	41				
+//
+# DTLVCD_115102 Length: 46
+# DTLVCD_115102 Number of predicted TMRs: 0
+DTLVCD_115102	inside	1	46				
+//
+# DTLVCD_35861 Length: 50
+# DTLVCD_35861 Number of predicted TMRs: 0
+DTLVCD_35861	inside	1	50				
+//
+# DTLVCD_47653 Length: 41
+# DTLVCD_47653 Number of predicted TMRs: 0
+DTLVCD_47653	signal	1	40				
+DTLVCD_47653	outside	41	41				
+//
+# DTLVCD_24938 Length: 42
+# DTLVCD_24938 Number of predicted TMRs: 0
+DTLVCD_24938	signal	1	39				
+DTLVCD_24938	outside	40	42				
+//
+# DTLVCD_29304 Length: 41
+# DTLVCD_29304 Number of predicted TMRs: 0
+DTLVCD_29304	signal	1	24				
+DTLVCD_29304	outside	25	41				
+//
+# DTLVCD_64323 Length: 48
+# DTLVCD_64323 Number of predicted TMRs: 0
+DTLVCD_64323	inside	1	48				
+//
+# DTLVCD_68822 Length: 37
+# DTLVCD_68822 Number of predicted TMRs: 0
+DTLVCD_68822	signal	1	33				
+DTLVCD_68822	outside	34	37				
+//
+# DTLVCD_126735 Length: 49
+# DTLVCD_126735 Number of predicted TMRs: 0
+DTLVCD_126735	inside	1	49				
+//
+# DTLVCD_94926 Length: 50
+# DTLVCD_94926 Number of predicted TMRs: 0
+DTLVCD_94926	inside	1	50				
+//
+# DTLVCD_79640 Length: 48
+# DTLVCD_79640 Number of predicted TMRs: 0
+DTLVCD_79640	inside	1	48				
+//
+# DTLVCD_127499 Length: 49
+# DTLVCD_127499 Number of predicted TMRs: 0
+DTLVCD_127499	inside	1	49				
+//
+# DTLVCD_83655 Length: 49
+# DTLVCD_83655 Number of predicted TMRs: 0
+DTLVCD_83655	inside	1	49				
+//
+# DTLVCD_124684 Length: 45
+# DTLVCD_124684 Number of predicted TMRs: 0
+DTLVCD_124684	inside	1	45				
+//
+# DTLVCD_67425 Length: 43
+# DTLVCD_67425 Number of predicted TMRs: 0
+DTLVCD_67425	signal	1	41				
+DTLVCD_67425	outside	42	43				
+//
+# DTLVCD_168342 Length: 44
+# DTLVCD_168342 Number of predicted TMRs: 0
+DTLVCD_168342	inside	1	44				
+//
+# DTLVCD_44321 Length: 50
+# DTLVCD_44321 Number of predicted TMRs: 0
+DTLVCD_44321	inside	1	50				
+//
+# DTLVCD_68795 Length: 29
+# DTLVCD_68795 Number of predicted TMRs: 0
+DTLVCD_68795	inside	1	29				
+//
+# DTLVCD_156309 Length: 46
+# DTLVCD_156309 Number of predicted TMRs: 0
+DTLVCD_156309	inside	1	46				
+//
+# DTLVCD_30155 Length: 33
+# DTLVCD_30155 Number of predicted TMRs: 0
+DTLVCD_30155	signal	1	32				
+DTLVCD_30155	outside	33	33				
+//
+# DTLVCD_50626 Length: 43
+# DTLVCD_50626 Number of predicted TMRs: 0
+DTLVCD_50626	inside	1	43				
+//
+# DTLVCD_47379 Length: 48
+# DTLVCD_47379 Number of predicted TMRs: 0
+DTLVCD_47379	inside	1	48				
+//
+# DTLVCD_74947 Length: 42
+# DTLVCD_74947 Number of predicted TMRs: 0
+DTLVCD_74947	inside	1	42				
+//
+# DTLVCD_145204 Length: 45
+# DTLVCD_145204 Number of predicted TMRs: 0
+DTLVCD_145204	signal	1	39				
+DTLVCD_145204	outside	40	45				
+//
+# DTLVCD_35944 Length: 42
+# DTLVCD_35944 Number of predicted TMRs: 0
+DTLVCD_35944	signal	1	28				
+DTLVCD_35944	outside	29	42				
+//
+# DTLVCD_57924 Length: 41
+# DTLVCD_57924 Number of predicted TMRs: 0
+DTLVCD_57924	signal	1	40				
+DTLVCD_57924	outside	41	41				
+//
+# DTLVCD_43597 Length: 40
+# DTLVCD_43597 Number of predicted TMRs: 0
+DTLVCD_43597	signal	1	35				
+DTLVCD_43597	outside	36	40				
+//
+# DTLVCD_116433 Length: 49
+# DTLVCD_116433 Number of predicted TMRs: 0
+DTLVCD_116433	signal	1	26				
+DTLVCD_116433	outside	27	49				
+//
+# DTLVCD_44016 Length: 49
+# DTLVCD_44016 Number of predicted TMRs: 0
+DTLVCD_44016	inside	1	49				
+//
+# DTLVCD_151982 Length: 27
+# DTLVCD_151982 Number of predicted TMRs: 0
+DTLVCD_151982	inside	1	27				
+//
+# DTLVCD_108162 Length: 47
+# DTLVCD_108162 Number of predicted TMRs: 0
+DTLVCD_108162	inside	1	47				
+//
+# DTLVCD_138239 Length: 48
+# DTLVCD_138239 Number of predicted TMRs: 0
+DTLVCD_138239	signal	1	10				
+DTLVCD_138239	outside	11	48				
+//
+# DTLVCD_103076 Length: 50
+# DTLVCD_103076 Number of predicted TMRs: 0
+DTLVCD_103076	inside	1	50				
+//
+# DTLVCD_121950 Length: 33
+# DTLVCD_121950 Number of predicted TMRs: 0
+DTLVCD_121950	signal	1	12				
+DTLVCD_121950	outside	13	33				
+//
+# DTLVCD_162008 Length: 47
+# DTLVCD_162008 Number of predicted TMRs: 0
+DTLVCD_162008	signal	1	10				
+DTLVCD_162008	outside	11	47				
+//
+# DTLVCD_80879 Length: 48
+# DTLVCD_80879 Number of predicted TMRs: 0
+DTLVCD_80879	signal	1	38				
+DTLVCD_80879	outside	39	48				
+//
+# DTLVCD_18095 Length: 41
+# DTLVCD_18095 Number of predicted TMRs: 0
+DTLVCD_18095	signal	1	10				
+DTLVCD_18095	outside	11	41				
+//
+# DTLVCD_62779 Length: 33
+# DTLVCD_62779 Number of predicted TMRs: 0
+DTLVCD_62779	signal	1	32				
+DTLVCD_62779	outside	33	33				
+//
+# DTLVCD_132796 Length: 48
+# DTLVCD_132796 Number of predicted TMRs: 0
+DTLVCD_132796	inside	1	48				
+//
+# DTLVCD_31355 Length: 43
+# DTLVCD_31355 Number of predicted TMRs: 0
+DTLVCD_31355	signal	1	42				
+DTLVCD_31355	outside	43	43				
+//
+# DTLVCD_153509 Length: 50
+# DTLVCD_153509 Number of predicted TMRs: 0
+DTLVCD_153509	inside	1	50				
+//
+# DTLVCD_108280 Length: 42
+# DTLVCD_108280 Number of predicted TMRs: 0
+DTLVCD_108280	signal	1	31				
+DTLVCD_108280	outside	32	42				
+//
+# DTLVCD_118861 Length: 47
+# DTLVCD_118861 Number of predicted TMRs: 0
+DTLVCD_118861	signal	1	12				
+DTLVCD_118861	outside	13	47				
+//
+# DTLVCD_151980 Length: 48
+# DTLVCD_151980 Number of predicted TMRs: 0
+DTLVCD_151980	inside	1	48				
+//
+# DTLVCD_33399 Length: 45
+# DTLVCD_33399 Number of predicted TMRs: 0
+DTLVCD_33399	signal	1	44				
+DTLVCD_33399	outside	45	45				
+//
+# DTLVCD_146282 Length: 47
+# DTLVCD_146282 Number of predicted TMRs: 0
+DTLVCD_146282	signal	1	29				
+DTLVCD_146282	outside	30	47				
+//
+# DTLVCD_94765 Length: 41
+# DTLVCD_94765 Number of predicted TMRs: 0
+DTLVCD_94765	signal	1	40				
+DTLVCD_94765	outside	41	41				
+//
+# DTLVCD_110876 Length: 50
+# DTLVCD_110876 Number of predicted TMRs: 0
+DTLVCD_110876	signal	1	38				
+DTLVCD_110876	outside	39	50				
+//
+# DTLVCD_130035 Length: 35
+# DTLVCD_130035 Number of predicted TMRs: 0
+DTLVCD_130035	signal	1	34				
+DTLVCD_130035	outside	35	35				
+//
+# DTLVCD_27556 Length: 50
+# DTLVCD_27556 Number of predicted TMRs: 0
+DTLVCD_27556	inside	1	50				
+//
+# DTLVCD_49753 Length: 47
+# DTLVCD_49753 Number of predicted TMRs: 0
+DTLVCD_49753	signal	1	45				
+DTLVCD_49753	outside	46	47				
+//
+# DTLVCD_124485 Length: 43
+# DTLVCD_124485 Number of predicted TMRs: 0
+DTLVCD_124485	inside	1	43				
+//
+# DTLVCD_151091 Length: 44
+# DTLVCD_151091 Number of predicted TMRs: 0
+DTLVCD_151091	inside	1	44				
+//
+# DTLVCD_127744 Length: 47
+# DTLVCD_127744 Number of predicted TMRs: 1
+DTLVCD_127744	signal	1	12				
+DTLVCD_127744	outside	13	20				
+DTLVCD_127744	TMhelix	21	36				
+DTLVCD_127744	inside	37	47				
+//
+# DTLVCD_87351 Length: 48
+# DTLVCD_87351 Number of predicted TMRs: 0
+DTLVCD_87351	signal	1	10				
+DTLVCD_87351	outside	11	48				
+//
+# DTLVCD_96969 Length: 47
+# DTLVCD_96969 Number of predicted TMRs: 0
+DTLVCD_96969	outside	1	47				
+//
+# DTLVCD_141740 Length: 50
+# DTLVCD_141740 Number of predicted TMRs: 0
+DTLVCD_141740	inside	1	50				
+//
+# DTLVCD_88370 Length: 44
+# DTLVCD_88370 Number of predicted TMRs: 0
+DTLVCD_88370	inside	1	44				
+//
+# DTLVCD_117761 Length: 26
+# DTLVCD_117761 Number of predicted TMRs: 0
+DTLVCD_117761	inside	1	26				
+//
+# DTLVCD_117758 Length: 26
+# DTLVCD_117758 Number of predicted TMRs: 0
+DTLVCD_117758	inside	1	26				
+//
+# DTLVCD_117764 Length: 44
+# DTLVCD_117764 Number of predicted TMRs: 0
+DTLVCD_117764	inside	1	44				
+//
+# DTLVCD_162948 Length: 45
+# DTLVCD_162948 Number of predicted TMRs: 0
+DTLVCD_162948	inside	1	45				
+//
+# DTLVCD_83824 Length: 38
+# DTLVCD_83824 Number of predicted TMRs: 0
+DTLVCD_83824	signal	1	35				
+DTLVCD_83824	outside	36	38				
+//
+# DTLVCD_14676 Length: 33
+# DTLVCD_14676 Number of predicted TMRs: 0
+DTLVCD_14676	inside	1	33				
+//
+# DTLVCD_135634 Length: 46
+# DTLVCD_135634 Number of predicted TMRs: 0
+DTLVCD_135634	signal	1	22				
+DTLVCD_135634	outside	23	46				
+//
+# DTLVCD_82971 Length: 45
+# DTLVCD_82971 Number of predicted TMRs: 0
+DTLVCD_82971	inside	1	45				
+//
+# DTLVCD_121426 Length: 42
+# DTLVCD_121426 Number of predicted TMRs: 0
+DTLVCD_121426	signal	1	41				
+DTLVCD_121426	outside	42	42				
+//
+# DTLVCD_61811 Length: 35
+# DTLVCD_61811 Number of predicted TMRs: 0
+DTLVCD_61811	inside	1	35				
+//
+# DTLVCD_67054 Length: 43
+# DTLVCD_67054 Number of predicted TMRs: 0
+DTLVCD_67054	inside	1	43				
+//
+# DTLVCD_123251 Length: 48
+# DTLVCD_123251 Number of predicted TMRs: 0
+DTLVCD_123251	inside	1	48				
+//
+# DTLVCD_9853 Length: 42
+# DTLVCD_9853 Number of predicted TMRs: 0
+DTLVCD_9853	signal	1	11				
+DTLVCD_9853	outside	12	42				
+//
+# DTLVCD_112048 Length: 32
+# DTLVCD_112048 Number of predicted TMRs: 0
+DTLVCD_112048	inside	1	32				
+//
+# DTLVCD_46289 Length: 43
+# DTLVCD_46289 Number of predicted TMRs: 0
+DTLVCD_46289	inside	1	43				
+//
+# DTLVCD_40071 Length: 34
+# DTLVCD_40071 Number of predicted TMRs: 0
+DTLVCD_40071	signal	1	33				
+DTLVCD_40071	outside	34	34				
+//
+# DTLVCD_144427 Length: 47
+# DTLVCD_144427 Number of predicted TMRs: 0
+DTLVCD_144427	inside	1	47				
+//
+# DTLVCD_5244 Length: 42
+# DTLVCD_5244 Number of predicted TMRs: 0
+DTLVCD_5244	inside	1	42				
+//
+# DTLVCD_18285 Length: 44
+# DTLVCD_18285 Number of predicted TMRs: 0
+DTLVCD_18285	inside	1	44				
+//
+# DTLVCD_82638 Length: 48
+# DTLVCD_82638 Number of predicted TMRs: 0
+DTLVCD_82638	inside	1	48				
+//
+# DTLVCD_164159 Length: 46
+# DTLVCD_164159 Number of predicted TMRs: 0
+DTLVCD_164159	inside	1	46				
+//
+# DTLVCD_53699 Length: 43
+# DTLVCD_53699 Number of predicted TMRs: 0
+DTLVCD_53699	inside	1	43				
+//
+# DTLVCD_39900 Length: 39
+# DTLVCD_39900 Number of predicted TMRs: 0
+DTLVCD_39900	signal	1	37				
+DTLVCD_39900	outside	38	39				
+//
+# DTLVCD_4675 Length: 45
+# DTLVCD_4675 Number of predicted TMRs: 0
+DTLVCD_4675	inside	1	45				
+//
+# DTLVCD_105958 Length: 48
+# DTLVCD_105958 Number of predicted TMRs: 0
+DTLVCD_105958	inside	1	48				
+//
+# DTLVCD_67520 Length: 50
+# DTLVCD_67520 Number of predicted TMRs: 0
+DTLVCD_67520	signal	1	18				
+DTLVCD_67520	outside	19	50				
+//
+# DTLVCD_133564 Length: 46
+# DTLVCD_133564 Number of predicted TMRs: 0
+DTLVCD_133564	inside	1	46				
+//
+# DTLVCD_142872 Length: 41
+# DTLVCD_142872 Number of predicted TMRs: 0
+DTLVCD_142872	inside	1	41				
+//
+# DTLVCD_53036 Length: 50
+# DTLVCD_53036 Number of predicted TMRs: 0
+DTLVCD_53036	inside	1	50				
+//
+# DTLVCD_148375 Length: 41
+# DTLVCD_148375 Number of predicted TMRs: 0
+DTLVCD_148375	inside	1	41				
+//
+# DTLVCD_137480 Length: 40
+# DTLVCD_137480 Number of predicted TMRs: 0
+DTLVCD_137480	signal	1	39				
+DTLVCD_137480	outside	40	40				
+//
+# DTLVCD_24270 Length: 46
+# DTLVCD_24270 Number of predicted TMRs: 0
+DTLVCD_24270	inside	1	46				
+//
+# DTLVCD_41178 Length: 33
+# DTLVCD_41178 Number of predicted TMRs: 0
+DTLVCD_41178	inside	1	33				
+//
+# DTLVCD_41052 Length: 43
+# DTLVCD_41052 Number of predicted TMRs: 0
+DTLVCD_41052	signal	1	21				
+DTLVCD_41052	outside	22	43				
+//
+# DTLVCD_170867 Length: 48
+# DTLVCD_170867 Number of predicted TMRs: 0
+DTLVCD_170867	inside	1	48				
+//
+# DTLVCD_88812 Length: 41
+# DTLVCD_88812 Number of predicted TMRs: 0
+DTLVCD_88812	inside	1	41				
+//
+# DTLVCD_3892 Length: 36
+# DTLVCD_3892 Number of predicted TMRs: 0
+DTLVCD_3892	inside	1	36				
+//
+# DTLVCD_50672 Length: 39
+# DTLVCD_50672 Number of predicted TMRs: 0
+DTLVCD_50672	inside	1	39				
+//
+# DTLVCD_17465 Length: 36
+# DTLVCD_17465 Number of predicted TMRs: 0
+DTLVCD_17465	inside	1	36				
+//
+# DTLVCD_101417 Length: 41
+# DTLVCD_101417 Number of predicted TMRs: 0
+DTLVCD_101417	inside	1	41				
+//
+# DTLVCD_14390 Length: 46
+# DTLVCD_14390 Number of predicted TMRs: 0
+DTLVCD_14390	signal	1	42				
+DTLVCD_14390	outside	43	46				
+//
+# DTLVCD_140911 Length: 50
+# DTLVCD_140911 Number of predicted TMRs: 0
+DTLVCD_140911	inside	1	50				
+//
+# DTLVCD_58100 Length: 46
+# DTLVCD_58100 Number of predicted TMRs: 0
+DTLVCD_58100	inside	1	46				
+//
+# DTLVCD_13350 Length: 44
+# DTLVCD_13350 Number of predicted TMRs: 0
+DTLVCD_13350	signal	1	10				
+DTLVCD_13350	outside	11	44				
+//
+# DTLVCD_820 Length: 43
+# DTLVCD_820 Number of predicted TMRs: 0
+DTLVCD_820	signal	1	32				
+DTLVCD_820	outside	33	43				
+//
+# DTLVCD_116395 Length: 44
+# DTLVCD_116395 Number of predicted TMRs: 0
+DTLVCD_116395	inside	1	44				
+//
+# DTLVCD_28301 Length: 44
+# DTLVCD_28301 Number of predicted TMRs: 0
+DTLVCD_28301	inside	1	44				
+//
+# DTLVCD_111081 Length: 46
+# DTLVCD_111081 Number of predicted TMRs: 0
+DTLVCD_111081	inside	1	46				
+//
+# DTLVCD_150675 Length: 44
+# DTLVCD_150675 Number of predicted TMRs: 0
+DTLVCD_150675	signal	1	30				
+DTLVCD_150675	outside	31	44				
+//
+# DTLVCD_111002 Length: 47
+# DTLVCD_111002 Number of predicted TMRs: 0
+DTLVCD_111002	inside	1	47				
+//
+# DTLVCD_40918 Length: 44
+# DTLVCD_40918 Number of predicted TMRs: 0
+DTLVCD_40918	inside	1	44				
+//
+# DTLVCD_86217 Length: 41
+# DTLVCD_86217 Number of predicted TMRs: 0
+DTLVCD_86217	inside	1	41				
+//
+# DTLVCD_135447 Length: 47
+# DTLVCD_135447 Number of predicted TMRs: 0
+DTLVCD_135447	inside	1	47				
+//
+# DTLVCD_107670 Length: 47
+# DTLVCD_107670 Number of predicted TMRs: 0
+DTLVCD_107670	inside	1	47				
+//
+# DTLVCD_11955 Length: 38
+# DTLVCD_11955 Number of predicted TMRs: 0
+DTLVCD_11955	inside	1	38				
+//
+# DTLVCD_24929 Length: 48
+# DTLVCD_24929 Number of predicted TMRs: 0
+DTLVCD_24929	inside	1	48				
+//
+# DTLVCD_36498 Length: 50
+# DTLVCD_36498 Number of predicted TMRs: 0
+DTLVCD_36498	inside	1	50				
+//
+# DTLVCD_37261 Length: 40
+# DTLVCD_37261 Number of predicted TMRs: 0
+DTLVCD_37261	signal	1	28				
+DTLVCD_37261	outside	29	40				
+//
+# DTLVCD_127841 Length: 37
+# DTLVCD_127841 Number of predicted TMRs: 0
+DTLVCD_127841	inside	1	37				
+//
+# DTLVCD_96209 Length: 42
+# DTLVCD_96209 Number of predicted TMRs: 0
+DTLVCD_96209	inside	1	42				
+//
+# DTLVCD_80178 Length: 44
+# DTLVCD_80178 Number of predicted TMRs: 1
+DTLVCD_80178	outside	1	7				
+DTLVCD_80178	TMhelix	8	26				
+DTLVCD_80178	inside	27	44				
+//
+# DTLVCD_3131 Length: 46
+# DTLVCD_3131 Number of predicted TMRs: 0
+DTLVCD_3131	inside	1	46				
+//
+# DTLVCD_145932 Length: 47
+# DTLVCD_145932 Number of predicted TMRs: 0
+DTLVCD_145932	signal	1	30				
+DTLVCD_145932	outside	31	47				
+//
+# DTLVCD_155040 Length: 42
+# DTLVCD_155040 Number of predicted TMRs: 0
+DTLVCD_155040	inside	1	42				
+//
+# DTLVCD_154436 Length: 48
+# DTLVCD_154436 Number of predicted TMRs: 0
+DTLVCD_154436	inside	1	48				
+//
+# DTLVCD_88240 Length: 50
+# DTLVCD_88240 Number of predicted TMRs: 0
+DTLVCD_88240	signal	1	12				
+DTLVCD_88240	outside	13	50				
+//
+# DTLVCD_5089 Length: 48
+# DTLVCD_5089 Number of predicted TMRs: 0
+DTLVCD_5089	signal	1	37				
+DTLVCD_5089	outside	38	48				
+//
+# DTLVCD_26227 Length: 50
+# DTLVCD_26227 Number of predicted TMRs: 0
+DTLVCD_26227	signal	1	47				
+DTLVCD_26227	outside	48	50				
+//
+# DTLVCD_114837 Length: 42
+# DTLVCD_114837 Number of predicted TMRs: 0
+DTLVCD_114837	inside	1	42				
+//
+# DTLVCD_41955 Length: 50
+# DTLVCD_41955 Number of predicted TMRs: 0
+DTLVCD_41955	inside	1	50				
+//
+# DTLVCD_105409 Length: 45
+# DTLVCD_105409 Number of predicted TMRs: 0
+DTLVCD_105409	inside	1	45				
+//
+# DTLVCD_28548 Length: 49
+# DTLVCD_28548 Number of predicted TMRs: 0
+DTLVCD_28548	signal	1	45				
+DTLVCD_28548	outside	46	49				
+//
+# DTLVCD_139525 Length: 49
+# DTLVCD_139525 Number of predicted TMRs: 0
+DTLVCD_139525	inside	1	49				
+//
+# DTLVCD_168393 Length: 35
+# DTLVCD_168393 Number of predicted TMRs: 0
+DTLVCD_168393	signal	1	32				
+DTLVCD_168393	outside	33	35				
+//
+# DTLVCD_95838 Length: 48
+# DTLVCD_95838 Number of predicted TMRs: 0
+DTLVCD_95838	inside	1	48				
+//
+# DTLVCD_59774 Length: 48
+# DTLVCD_59774 Number of predicted TMRs: 0
+DTLVCD_59774	inside	1	48				
+//
+# DTLVCD_153481 Length: 50
+# DTLVCD_153481 Number of predicted TMRs: 0
+DTLVCD_153481	signal	1	31				
+DTLVCD_153481	outside	32	50				
+//
+# DTLVCD_148318 Length: 44
+# DTLVCD_148318 Number of predicted TMRs: 0
+DTLVCD_148318	inside	1	44				
+//
+# DTLVCD_27387 Length: 50
+# DTLVCD_27387 Number of predicted TMRs: 0
+DTLVCD_27387	inside	1	50				
+//
+# DTLVCD_143383 Length: 48
+# DTLVCD_143383 Number of predicted TMRs: 0
+DTLVCD_143383	inside	1	48				
+//
+# DTLVCD_115404 Length: 39
+# DTLVCD_115404 Number of predicted TMRs: 0
+DTLVCD_115404	signal	1	38				
+DTLVCD_115404	outside	39	39				
+//
+# DTLVCD_77789 Length: 32
+# DTLVCD_77789 Number of predicted TMRs: 0
+DTLVCD_77789	signal	1	30				
+DTLVCD_77789	outside	31	32				
+//
+# DTLVCD_23199 Length: 35
+# DTLVCD_23199 Number of predicted TMRs: 0
+DTLVCD_23199	signal	1	33				
+DTLVCD_23199	outside	34	35				
+//
+# DTLVCD_118285 Length: 48
+# DTLVCD_118285 Number of predicted TMRs: 0
+DTLVCD_118285	inside	1	48				
+//
+# DTLVCD_58383 Length: 48
+# DTLVCD_58383 Number of predicted TMRs: 0
+DTLVCD_58383	inside	1	48				
+//
+# DTLVCD_102007 Length: 44
+# DTLVCD_102007 Number of predicted TMRs: 0
+DTLVCD_102007	inside	1	44				
+//
+# DTLVCD_154520 Length: 45
+# DTLVCD_154520 Number of predicted TMRs: 0
+DTLVCD_154520	inside	1	45				
+//
+# DTLVCD_142386 Length: 46
+# DTLVCD_142386 Number of predicted TMRs: 0
+DTLVCD_142386	inside	1	46				
+//
+# DTLVCD_128928 Length: 46
+# DTLVCD_128928 Number of predicted TMRs: 0
+DTLVCD_128928	signal	1	44				
+DTLVCD_128928	outside	45	46				
+//
+# DTLVCD_115517 Length: 45
+# DTLVCD_115517 Number of predicted TMRs: 0
+DTLVCD_115517	signal	1	10				
+DTLVCD_115517	outside	11	45				
+//
+# DTLVCD_167049 Length: 44
+# DTLVCD_167049 Number of predicted TMRs: 0
+DTLVCD_167049	inside	1	44				
+//
+# DTLVCD_165607 Length: 43
+# DTLVCD_165607 Number of predicted TMRs: 0
+DTLVCD_165607	inside	1	43				
+//
+# DTLVCD_166103 Length: 39
+# DTLVCD_166103 Number of predicted TMRs: 0
+DTLVCD_166103	inside	1	39				
+//
+# DTLVCD_92381 Length: 48
+# DTLVCD_92381 Number of predicted TMRs: 0
+DTLVCD_92381	inside	1	48				
+//
+# DTLVCD_33728 Length: 33
+# DTLVCD_33728 Number of predicted TMRs: 0
+DTLVCD_33728	inside	1	33				
+//
+# DTLVCD_111121 Length: 48
+# DTLVCD_111121 Number of predicted TMRs: 0
+DTLVCD_111121	signal	1	46				
+DTLVCD_111121	outside	47	48				
+//
+# DTLVCD_150676 Length: 38
+# DTLVCD_150676 Number of predicted TMRs: 0
+DTLVCD_150676	signal	1	18				
+DTLVCD_150676	outside	19	38				
+//
+# DTLVCD_62770 Length: 50
+# DTLVCD_62770 Number of predicted TMRs: 0
+DTLVCD_62770	signal	1	31				
+DTLVCD_62770	outside	32	50				
+//
+# DTLVCD_36619 Length: 48
+# DTLVCD_36619 Number of predicted TMRs: 0
+DTLVCD_36619	signal	1	15				
+DTLVCD_36619	outside	16	48				
+//
+# DTLVCD_136612 Length: 49
+# DTLVCD_136612 Number of predicted TMRs: 0
+DTLVCD_136612	inside	1	49				
+//
+# DTLVCD_126992 Length: 38
+# DTLVCD_126992 Number of predicted TMRs: 0
+DTLVCD_126992	inside	1	38				
+//
+# DTLVCD_114538 Length: 43
+# DTLVCD_114538 Number of predicted TMRs: 0
+DTLVCD_114538	signal	1	23				
+DTLVCD_114538	outside	24	43				
+//
+# DTLVCD_73982 Length: 44
+# DTLVCD_73982 Number of predicted TMRs: 0
+DTLVCD_73982	inside	1	44				
+//
+# DTLVCD_163249 Length: 48
+# DTLVCD_163249 Number of predicted TMRs: 0
+DTLVCD_163249	signal	1	12				
+DTLVCD_163249	outside	13	48				
+//
+# DTLVCD_6685 Length: 47
+# DTLVCD_6685 Number of predicted TMRs: 0
+DTLVCD_6685	inside	1	47				
+//
+# DTLVCD_112596 Length: 48
+# DTLVCD_112596 Number of predicted TMRs: 0
+DTLVCD_112596	inside	1	48				
+//
+# DTLVCD_54234 Length: 38
+# DTLVCD_54234 Number of predicted TMRs: 0
+DTLVCD_54234	inside	1	38				
+//
+# DTLVCD_50683 Length: 36
+# DTLVCD_50683 Number of predicted TMRs: 0
+DTLVCD_50683	signal	1	35				
+DTLVCD_50683	outside	36	36				
+//
+# DTLVCD_23152 Length: 43
+# DTLVCD_23152 Number of predicted TMRs: 1
+DTLVCD_23152	signal	1	12				
+DTLVCD_23152	outside	13	13				
+DTLVCD_23152	TMhelix	14	23				
+DTLVCD_23152	inside	24	43				
+//
+# DTLVCD_168140 Length: 49
+# DTLVCD_168140 Number of predicted TMRs: 0
+DTLVCD_168140	signal	1	45				
+DTLVCD_168140	outside	46	49				
+//
+# DTLVCD_57807 Length: 38
+# DTLVCD_57807 Number of predicted TMRs: 0
+DTLVCD_57807	inside	1	38				
+//
+# DTLVCD_110464 Length: 48
+# DTLVCD_110464 Number of predicted TMRs: 0
+DTLVCD_110464	signal	1	13				
+DTLVCD_110464	outside	14	48				
+//
+# DTLVCD_161321 Length: 46
+# DTLVCD_161321 Number of predicted TMRs: 0
+DTLVCD_161321	signal	1	11				
+DTLVCD_161321	outside	12	46				
+//
+# DTLVCD_97391 Length: 46
+# DTLVCD_97391 Number of predicted TMRs: 0
+DTLVCD_97391	signal	1	21				
+DTLVCD_97391	outside	22	46				
+//
+# DTLVCD_141215 Length: 37
+# DTLVCD_141215 Number of predicted TMRs: 0
+DTLVCD_141215	signal	1	32				
+DTLVCD_141215	outside	33	37				
+//
+# DTLVCD_103355 Length: 50
+# DTLVCD_103355 Number of predicted TMRs: 0
+DTLVCD_103355	inside	1	50				
+//
+# DTLVCD_57515 Length: 47
+# DTLVCD_57515 Number of predicted TMRs: 0
+DTLVCD_57515	signal	1	31				
+DTLVCD_57515	outside	32	47				
+//
+# DTLVCD_24258 Length: 50
+# DTLVCD_24258 Number of predicted TMRs: 0
+DTLVCD_24258	signal	1	15				
+DTLVCD_24258	outside	16	50				
+//
+# DTLVCD_166078 Length: 48
+# DTLVCD_166078 Number of predicted TMRs: 0
+DTLVCD_166078	inside	1	48				
+//
+# DTLVCD_152568 Length: 47
+# DTLVCD_152568 Number of predicted TMRs: 0
+DTLVCD_152568	inside	1	47				
+//
+# DTLVCD_139219 Length: 49
+# DTLVCD_139219 Number of predicted TMRs: 0
+DTLVCD_139219	inside	1	49				
+//
+# DTLVCD_44915 Length: 50
+# DTLVCD_44915 Number of predicted TMRs: 0
+DTLVCD_44915	inside	1	50				
+//
+# DTLVCD_110368 Length: 36
+# DTLVCD_110368 Number of predicted TMRs: 0
+DTLVCD_110368	inside	1	36				
+//
+# DTLVCD_42320 Length: 45
+# DTLVCD_42320 Number of predicted TMRs: 0
+DTLVCD_42320	outside	1	45				
+//
+# DTLVCD_143573 Length: 48
+# DTLVCD_143573 Number of predicted TMRs: 0
+DTLVCD_143573	inside	1	48				
+//
+# DTLVCD_113699 Length: 48
+# DTLVCD_113699 Number of predicted TMRs: 0
+DTLVCD_113699	inside	1	48				
+//
+# DTLVCD_18569 Length: 41
+# DTLVCD_18569 Number of predicted TMRs: 0
+DTLVCD_18569	signal	1	35				
+DTLVCD_18569	outside	36	41				
+//
+# DTLVCD_58707 Length: 48
+# DTLVCD_58707 Number of predicted TMRs: 0
+DTLVCD_58707	signal	1	27				
+DTLVCD_58707	outside	28	48				
+//
+# DTLVCD_142988 Length: 50
+# DTLVCD_142988 Number of predicted TMRs: 0
+DTLVCD_142988	inside	1	50				
+//
+# DTLVCD_130492 Length: 39
+# DTLVCD_130492 Number of predicted TMRs: 0
+DTLVCD_130492	signal	1	26				
+DTLVCD_130492	outside	27	39				
+//
+# DTLVCD_4858 Length: 48
+# DTLVCD_4858 Number of predicted TMRs: 0
+DTLVCD_4858	inside	1	48				
+//
+# DTLVCD_24255 Length: 46
+# DTLVCD_24255 Number of predicted TMRs: 0
+DTLVCD_24255	inside	1	46				
+//
+# DTLVCD_169981 Length: 33
+# DTLVCD_169981 Number of predicted TMRs: 0
+DTLVCD_169981	inside	1	33				
+//
+# DTLVCD_85665 Length: 47
+# DTLVCD_85665 Number of predicted TMRs: 0
+DTLVCD_85665	inside	1	47				
+//
+# DTLVCD_131820 Length: 44
+# DTLVCD_131820 Number of predicted TMRs: 0
+DTLVCD_131820	inside	1	44				
+//
+# DTLVCD_84789 Length: 37
+# DTLVCD_84789 Number of predicted TMRs: 0
+DTLVCD_84789	signal	1	36				
+DTLVCD_84789	outside	37	37				
+//
+# DTLVCD_114705 Length: 48
+# DTLVCD_114705 Number of predicted TMRs: 0
+DTLVCD_114705	signal	1	20				
+DTLVCD_114705	outside	21	48				
+//
+# DTLVCD_9976 Length: 50
+# DTLVCD_9976 Number of predicted TMRs: 0
+DTLVCD_9976	inside	1	50				
+//
+# DTLVCD_114612 Length: 45
+# DTLVCD_114612 Number of predicted TMRs: 0
+DTLVCD_114612	inside	1	45				
+//
+# DTLVCD_82772 Length: 44
+# DTLVCD_82772 Number of predicted TMRs: 0
+DTLVCD_82772	signal	1	43				
+DTLVCD_82772	outside	44	44				
+//
+# DTLVCD_94770 Length: 45
+# DTLVCD_94770 Number of predicted TMRs: 0
+DTLVCD_94770	signal	1	44				
+DTLVCD_94770	outside	45	45				
+//
+# DTLVCD_90674 Length: 47
+# DTLVCD_90674 Number of predicted TMRs: 0
+DTLVCD_90674	signal	1	30				
+DTLVCD_90674	outside	31	47				
+//
+# DTLVCD_82837 Length: 47
+# DTLVCD_82837 Number of predicted TMRs: 0
+DTLVCD_82837	signal	1	15				
+DTLVCD_82837	outside	16	47				
+//
+# DTLVCD_57716 Length: 44
+# DTLVCD_57716 Number of predicted TMRs: 0
+DTLVCD_57716	signal	1	43				
+DTLVCD_57716	outside	44	44				
+//
+# DTLVCD_166432 Length: 41
+# DTLVCD_166432 Number of predicted TMRs: 0
+DTLVCD_166432	signal	1	28				
+DTLVCD_166432	outside	29	41				
+//
+# DTLVCD_38384 Length: 30
+# DTLVCD_38384 Number of predicted TMRs: 0
+DTLVCD_38384	signal	1	13				
+DTLVCD_38384	outside	14	30				
+//
+# DTLVCD_110193 Length: 44
+# DTLVCD_110193 Number of predicted TMRs: 0
+DTLVCD_110193	inside	1	44				
+//
+# DTLVCD_123345 Length: 50
+# DTLVCD_123345 Number of predicted TMRs: 0
+DTLVCD_123345	inside	1	50				
+//
+# DTLVCD_89216 Length: 49
+# DTLVCD_89216 Number of predicted TMRs: 0
+DTLVCD_89216	inside	1	49				
+//
+# DTLVCD_111494 Length: 45
+# DTLVCD_111494 Number of predicted TMRs: 0
+DTLVCD_111494	inside	1	45				
+//
+# DTLVCD_107925 Length: 50
+# DTLVCD_107925 Number of predicted TMRs: 0
+DTLVCD_107925	inside	1	50				
+//
+# DTLVCD_137089 Length: 43
+# DTLVCD_137089 Number of predicted TMRs: 0
+DTLVCD_137089	signal	1	33				
+DTLVCD_137089	outside	34	43				
+//
+# DTLVCD_138820 Length: 38
+# DTLVCD_138820 Number of predicted TMRs: 0
+DTLVCD_138820	signal	1	37				
+DTLVCD_138820	outside	38	38				
+//
+# DTLVCD_127134 Length: 43
+# DTLVCD_127134 Number of predicted TMRs: 0
+DTLVCD_127134	inside	1	43				
+//
+# DTLVCD_107401 Length: 48
+# DTLVCD_107401 Number of predicted TMRs: 0
+DTLVCD_107401	inside	1	48				
+//
+# DTLVCD_140760 Length: 39
+# DTLVCD_140760 Number of predicted TMRs: 0
+DTLVCD_140760	inside	1	39				
+//
+# DTLVCD_135820 Length: 43
+# DTLVCD_135820 Number of predicted TMRs: 0
+DTLVCD_135820	inside	1	43				
+//
+# DTLVCD_150090 Length: 40
+# DTLVCD_150090 Number of predicted TMRs: 0
+DTLVCD_150090	inside	1	40				
+//
+# DTLVCD_132287 Length: 46
+# DTLVCD_132287 Number of predicted TMRs: 0
+DTLVCD_132287	signal	1	32				
+DTLVCD_132287	outside	33	46				
+//
+# DTLVCD_6249 Length: 43
+# DTLVCD_6249 Number of predicted TMRs: 0
+DTLVCD_6249	inside	1	43				
+//
+# DTLVCD_20380 Length: 45
+# DTLVCD_20380 Number of predicted TMRs: 0
+DTLVCD_20380	inside	1	45				
+//
+# DTLVCD_164889 Length: 50
+# DTLVCD_164889 Number of predicted TMRs: 0
+DTLVCD_164889	inside	1	50				
+//
+# DTLVCD_153824 Length: 38
+# DTLVCD_153824 Number of predicted TMRs: 0
+DTLVCD_153824	inside	1	38				
+//
+# DTLVCD_143378 Length: 39
+# DTLVCD_143378 Number of predicted TMRs: 0
+DTLVCD_143378	inside	1	39				
+//
+# DTLVCD_86337 Length: 44
+# DTLVCD_86337 Number of predicted TMRs: 0
+DTLVCD_86337	inside	1	44				
+//
+# DTLVCD_58696 Length: 46
+# DTLVCD_58696 Number of predicted TMRs: 0
+DTLVCD_58696	signal	1	43				
+DTLVCD_58696	outside	44	46				
+//
+# DTLVCD_89939 Length: 42
+# DTLVCD_89939 Number of predicted TMRs: 0
+DTLVCD_89939	signal	1	32				
+DTLVCD_89939	outside	33	42				
+//
+# DTLVCD_21380 Length: 47
+# DTLVCD_21380 Number of predicted TMRs: 0
+DTLVCD_21380	signal	1	10				
+DTLVCD_21380	outside	11	47				
+//
+# DTLVCD_162533 Length: 45
+# DTLVCD_162533 Number of predicted TMRs: 0
+DTLVCD_162533	signal	1	20				
+DTLVCD_162533	outside	21	45				
+//
+# DTLVCD_12104 Length: 40
+# DTLVCD_12104 Number of predicted TMRs: 0
+DTLVCD_12104	signal	1	39				
+DTLVCD_12104	outside	40	40				
+//
+# DTLVCD_112839 Length: 43
+# DTLVCD_112839 Number of predicted TMRs: 0
+DTLVCD_112839	inside	1	43				
+//
+# DTLVCD_166365 Length: 40
+# DTLVCD_166365 Number of predicted TMRs: 0
+DTLVCD_166365	outside	1	40				
+//
+# DTLVCD_77317 Length: 39
+# DTLVCD_77317 Number of predicted TMRs: 0
+DTLVCD_77317	inside	1	39				
+//
+# DTLVCD_58470 Length: 39
+# DTLVCD_58470 Number of predicted TMRs: 0
+DTLVCD_58470	signal	1	21				
+DTLVCD_58470	outside	22	39				
+//
+# DTLVCD_67996 Length: 39
+# DTLVCD_67996 Number of predicted TMRs: 0
+DTLVCD_67996	inside	1	39				
+//
+# DTLVCD_107478 Length: 39
+# DTLVCD_107478 Number of predicted TMRs: 0
+DTLVCD_107478	inside	1	39				
+//
+# DTLVCD_93474 Length: 45
+# DTLVCD_93474 Number of predicted TMRs: 0
+DTLVCD_93474	inside	1	45				
+//
+# DTLVCD_108477 Length: 48
+# DTLVCD_108477 Number of predicted TMRs: 0
+DTLVCD_108477	outside	1	48				
+//
+# DTLVCD_79307 Length: 35
+# DTLVCD_79307 Number of predicted TMRs: 0
+DTLVCD_79307	inside	1	35				
+//
+# DTLVCD_59381 Length: 45
+# DTLVCD_59381 Number of predicted TMRs: 0
+DTLVCD_59381	signal	1	18				
+DTLVCD_59381	outside	19	45				
+//
+# DTLVCD_117666 Length: 50
+# DTLVCD_117666 Number of predicted TMRs: 0
+DTLVCD_117666	inside	1	50				
+//
+# DTLVCD_73654 Length: 50
+# DTLVCD_73654 Number of predicted TMRs: 0
+DTLVCD_73654	inside	1	50				
+//
+# DTLVCD_105515 Length: 48
+# DTLVCD_105515 Number of predicted TMRs: 0
+DTLVCD_105515	inside	1	48				
+//
+# DTLVCD_153047 Length: 40
+# DTLVCD_153047 Number of predicted TMRs: 0
+DTLVCD_153047	signal	1	20				
+DTLVCD_153047	outside	21	40				
+//
+# DTLVCD_23829 Length: 50
+# DTLVCD_23829 Number of predicted TMRs: 0
+DTLVCD_23829	inside	1	50				
+//
+# DTLVCD_80975 Length: 48
+# DTLVCD_80975 Number of predicted TMRs: 0
+DTLVCD_80975	inside	1	48				
+//
+# DTLVCD_160963 Length: 48
+# DTLVCD_160963 Number of predicted TMRs: 0
+DTLVCD_160963	inside	1	48				
+//
+# DTLVCD_74193 Length: 42
+# DTLVCD_74193 Number of predicted TMRs: 0
+DTLVCD_74193	inside	1	42				
+//
+# DTLVCD_4162 Length: 48
+# DTLVCD_4162 Number of predicted TMRs: 0
+DTLVCD_4162	inside	1	48				
+//
+# DTLVCD_15981 Length: 49
+# DTLVCD_15981 Number of predicted TMRs: 0
+DTLVCD_15981	inside	1	49				
+//
+# DTLVCD_126590 Length: 49
+# DTLVCD_126590 Number of predicted TMRs: 0
+DTLVCD_126590	inside	1	49				
+//
+# DTLVCD_62386 Length: 33
+# DTLVCD_62386 Number of predicted TMRs: 0
+DTLVCD_62386	inside	1	33				
+//
+# DTLVCD_87950 Length: 46
+# DTLVCD_87950 Number of predicted TMRs: 0
+DTLVCD_87950	inside	1	46				
+//
+# DTLVCD_150490 Length: 46
+# DTLVCD_150490 Number of predicted TMRs: 0
+DTLVCD_150490	inside	1	46				
+//
+# DTLVCD_849 Length: 50
+# DTLVCD_849 Number of predicted TMRs: 0
+DTLVCD_849	signal	1	38				
+DTLVCD_849	outside	39	50				
+//
+# DTLVCD_163986 Length: 38
+# DTLVCD_163986 Number of predicted TMRs: 0
+DTLVCD_163986	signal	1	28				
+DTLVCD_163986	outside	29	38				
+//
+# DTLVCD_75087 Length: 40
+# DTLVCD_75087 Number of predicted TMRs: 0
+DTLVCD_75087	inside	1	40				
+//
+# DTLVCD_146668 Length: 38
+# DTLVCD_146668 Number of predicted TMRs: 0
+DTLVCD_146668	inside	1	38				
+//
+# DTLVCD_81721 Length: 43
+# DTLVCD_81721 Number of predicted TMRs: 0
+DTLVCD_81721	inside	1	43				
+//
+# DTLVCD_92629 Length: 38
+# DTLVCD_92629 Number of predicted TMRs: 0
+DTLVCD_92629	signal	1	33				
+DTLVCD_92629	outside	34	38				
+//
+# DTLVCD_96919 Length: 48
+# DTLVCD_96919 Number of predicted TMRs: 0
+DTLVCD_96919	outside	1	48				
+//
+# DTLVCD_130133 Length: 43
+# DTLVCD_130133 Number of predicted TMRs: 0
+DTLVCD_130133	inside	1	43				
+//
+# DTLVCD_161405 Length: 46
+# DTLVCD_161405 Number of predicted TMRs: 0
+DTLVCD_161405	signal	1	15				
+DTLVCD_161405	outside	16	46				
+//
+# DTLVCD_92257 Length: 49
+# DTLVCD_92257 Number of predicted TMRs: 0
+DTLVCD_92257	inside	1	49				
+//
+# DTLVCD_141299 Length: 50
+# DTLVCD_141299 Number of predicted TMRs: 0
+DTLVCD_141299	inside	1	50				
+//
+# DTLVCD_129254 Length: 49
+# DTLVCD_129254 Number of predicted TMRs: 0
+DTLVCD_129254	signal	1	20				
+DTLVCD_129254	outside	21	49				
+//
+# DTLVCD_89415 Length: 44
+# DTLVCD_89415 Number of predicted TMRs: 0
+DTLVCD_89415	signal	1	43				
+DTLVCD_89415	outside	44	44				
+//
+# DTLVCD_51776 Length: 41
+# DTLVCD_51776 Number of predicted TMRs: 0
+DTLVCD_51776	signal	1	13				
+DTLVCD_51776	outside	14	41				
+//
+# DTLVCD_24601 Length: 48
+# DTLVCD_24601 Number of predicted TMRs: 0
+DTLVCD_24601	inside	1	48				
+//
+# DTLVCD_40561 Length: 49
+# DTLVCD_40561 Number of predicted TMRs: 0
+DTLVCD_40561	inside	1	49				
+//
+# DTLVCD_68619 Length: 49
+# DTLVCD_68619 Number of predicted TMRs: 0
+DTLVCD_68619	inside	1	49				
+//
+# DTLVCD_56594 Length: 38
+# DTLVCD_56594 Number of predicted TMRs: 0
+DTLVCD_56594	outside	1	38				
+//
+# DTLVCD_115619 Length: 45
+# DTLVCD_115619 Number of predicted TMRs: 0
+DTLVCD_115619	outside	1	45				
+//
+# DTLVCD_60260 Length: 35
+# DTLVCD_60260 Number of predicted TMRs: 0
+DTLVCD_60260	signal	1	33				
+DTLVCD_60260	outside	34	35				
+//
+# DTLVCD_45311 Length: 46
+# DTLVCD_45311 Number of predicted TMRs: 0
+DTLVCD_45311	signal	1	13				
+DTLVCD_45311	outside	14	46				
+//
+# DTLVCD_115679 Length: 45
+# DTLVCD_115679 Number of predicted TMRs: 0
+DTLVCD_115679	signal	1	33				
+DTLVCD_115679	outside	34	45				
+//
+# DTLVCD_150977 Length: 35
+# DTLVCD_150977 Number of predicted TMRs: 0
+DTLVCD_150977	inside	1	35				
+//
+# DTLVCD_76770 Length: 50
+# DTLVCD_76770 Number of predicted TMRs: 0
+DTLVCD_76770	inside	1	50				
+//
+# DTLVCD_5905 Length: 37
+# DTLVCD_5905 Number of predicted TMRs: 0
+DTLVCD_5905	inside	1	37				
+//
+# DTLVCD_33122 Length: 39
+# DTLVCD_33122 Number of predicted TMRs: 0
+DTLVCD_33122	signal	1	38				
+DTLVCD_33122	outside	39	39				
+//
+# DTLVCD_63661 Length: 47
+# DTLVCD_63661 Number of predicted TMRs: 0
+DTLVCD_63661	inside	1	47				
+//
+# DTLVCD_81700 Length: 44
+# DTLVCD_81700 Number of predicted TMRs: 0
+DTLVCD_81700	inside	1	44				
+//
+# DTLVCD_137973 Length: 49
+# DTLVCD_137973 Number of predicted TMRs: 0
+DTLVCD_137973	signal	1	13				
+DTLVCD_137973	outside	14	49				
+//
+# DTLVCD_59083 Length: 41
+# DTLVCD_59083 Number of predicted TMRs: 0
+DTLVCD_59083	signal	1	40				
+DTLVCD_59083	outside	41	41				
+//
+# DTLVCD_72261 Length: 45
+# DTLVCD_72261 Number of predicted TMRs: 0
+DTLVCD_72261	inside	1	45				
+//
+# DTLVCD_115131 Length: 50
+# DTLVCD_115131 Number of predicted TMRs: 0
+DTLVCD_115131	inside	1	50				
+//
+# DTLVCD_20367 Length: 46
+# DTLVCD_20367 Number of predicted TMRs: 0
+DTLVCD_20367	inside	1	46				
+//
+# DTLVCD_13689 Length: 49
+# DTLVCD_13689 Number of predicted TMRs: 0
+DTLVCD_13689	inside	1	49				
+//
+# DTLVCD_57062 Length: 36
+# DTLVCD_57062 Number of predicted TMRs: 0
+DTLVCD_57062	signal	1	35				
+DTLVCD_57062	outside	36	36				
+//
+# DTLVCD_144626 Length: 37
+# DTLVCD_144626 Number of predicted TMRs: 0
+DTLVCD_144626	signal	1	33				
+DTLVCD_144626	outside	34	37				
+//
+# DTLVCD_28106 Length: 34
+# DTLVCD_28106 Number of predicted TMRs: 0
+DTLVCD_28106	signal	1	32				
+DTLVCD_28106	outside	33	34				
+//
+# DTLVCD_49784 Length: 40
+# DTLVCD_49784 Number of predicted TMRs: 0
+DTLVCD_49784	inside	1	40				
+//
+# DTLVCD_61890 Length: 50
+# DTLVCD_61890 Number of predicted TMRs: 0
+DTLVCD_61890	inside	1	50				
+//
+# DTLVCD_150858 Length: 32
+# DTLVCD_150858 Number of predicted TMRs: 0
+DTLVCD_150858	inside	1	32				
+//
+# DTLVCD_80181 Length: 44
+# DTLVCD_80181 Number of predicted TMRs: 0
+DTLVCD_80181	signal	1	32				
+DTLVCD_80181	outside	33	44				
+//
+# DTLVCD_40573 Length: 39
+# DTLVCD_40573 Number of predicted TMRs: 0
+DTLVCD_40573	inside	1	39				
+//
+# DTLVCD_18389 Length: 30
+# DTLVCD_18389 Number of predicted TMRs: 0
+DTLVCD_18389	inside	1	30				
+//
+# DTLVCD_48083 Length: 48
+# DTLVCD_48083 Number of predicted TMRs: 0
+DTLVCD_48083	signal	1	10				
+DTLVCD_48083	outside	11	48				
+//
+# DTLVCD_23075 Length: 30
+# DTLVCD_23075 Number of predicted TMRs: 0
+DTLVCD_23075	inside	1	30				
+//
+# DTLVCD_111812 Length: 47
+# DTLVCD_111812 Number of predicted TMRs: 0
+DTLVCD_111812	signal	1	15				
+DTLVCD_111812	outside	16	47				
+//
+# DTLVCD_6866 Length: 45
+# DTLVCD_6866 Number of predicted TMRs: 0
+DTLVCD_6866	inside	1	45				
+//
+# DTLVCD_92017 Length: 48
+# DTLVCD_92017 Number of predicted TMRs: 0
+DTLVCD_92017	inside	1	48				
+//
+# DTLVCD_61963 Length: 25
+# DTLVCD_61963 Number of predicted TMRs: 0
+DTLVCD_61963	inside	1	25				
+//
+# DTLVCD_67750 Length: 48
+# DTLVCD_67750 Number of predicted TMRs: 0
+DTLVCD_67750	inside	1	48				
+//
+# DTLVCD_101101 Length: 41
+# DTLVCD_101101 Number of predicted TMRs: 0
+DTLVCD_101101	inside	1	41				
+//
+# DTLVCD_40932 Length: 48
+# DTLVCD_40932 Number of predicted TMRs: 0
+DTLVCD_40932	inside	1	48				
+//
+# DTLVCD_69557 Length: 40
+# DTLVCD_69557 Number of predicted TMRs: 0
+DTLVCD_69557	inside	1	40				
+//
+# DTLVCD_16933 Length: 38
+# DTLVCD_16933 Number of predicted TMRs: 0
+DTLVCD_16933	signal	1	37				
+DTLVCD_16933	outside	38	38				
+//
+# DTLVCD_16918 Length: 47
+# DTLVCD_16918 Number of predicted TMRs: 0
+DTLVCD_16918	signal	1	46				
+DTLVCD_16918	outside	47	47				
+//
+# DTLVCD_16768 Length: 44
+# DTLVCD_16768 Number of predicted TMRs: 0
+DTLVCD_16768	inside	1	44				
+//
+# DTLVCD_16771 Length: 49
+# DTLVCD_16771 Number of predicted TMRs: 0
+DTLVCD_16771	inside	1	49				
+//
+# DTLVCD_100596 Length: 39
+# DTLVCD_100596 Number of predicted TMRs: 0
+DTLVCD_100596	inside	1	39				
+//
+# DTLVCD_116358 Length: 49
+# DTLVCD_116358 Number of predicted TMRs: 0
+DTLVCD_116358	inside	1	49				
+//
+# DTLVCD_49867 Length: 50
+# DTLVCD_49867 Number of predicted TMRs: 0
+DTLVCD_49867	inside	1	50				
+//
+# DTLVCD_110188 Length: 50
+# DTLVCD_110188 Number of predicted TMRs: 0
+DTLVCD_110188	signal	1	49				
+DTLVCD_110188	outside	50	50				
+//
+# DTLVCD_92719 Length: 42
+# DTLVCD_92719 Number of predicted TMRs: 0
+DTLVCD_92719	signal	1	41				
+DTLVCD_92719	outside	42	42				
+//
+# DTLVCD_170267 Length: 37
+# DTLVCD_170267 Number of predicted TMRs: 0
+DTLVCD_170267	signal	1	15				
+DTLVCD_170267	outside	16	37				
+//
+# DTLVCD_55991 Length: 43
+# DTLVCD_55991 Number of predicted TMRs: 0
+DTLVCD_55991	inside	1	43				
+//
+# DTLVCD_170270 Length: 47
+# DTLVCD_170270 Number of predicted TMRs: 0
+DTLVCD_170270	signal	1	46				
+DTLVCD_170270	outside	47	47				
+//
+# DTLVCD_170525 Length: 44
+# DTLVCD_170525 Number of predicted TMRs: 0
+DTLVCD_170525	inside	1	44				
+//
+# DTLVCD_93782 Length: 45
+# DTLVCD_93782 Number of predicted TMRs: 0
+DTLVCD_93782	signal	1	44				
+DTLVCD_93782	outside	45	45				
+//
+# DTLVCD_131499 Length: 45
+# DTLVCD_131499 Number of predicted TMRs: 0
+DTLVCD_131499	signal	1	41				
+DTLVCD_131499	outside	42	45				
+//
+# DTLVCD_88308 Length: 42
+# DTLVCD_88308 Number of predicted TMRs: 0
+DTLVCD_88308	signal	1	41				
+DTLVCD_88308	outside	42	42				
+//
+# DTLVCD_102248 Length: 40
+# DTLVCD_102248 Number of predicted TMRs: 0
+DTLVCD_102248	inside	1	40				
+//
+# DTLVCD_117100 Length: 48
+# DTLVCD_117100 Number of predicted TMRs: 0
+DTLVCD_117100	signal	1	44				
+DTLVCD_117100	outside	45	48				
+//
+# DTLVCD_25531 Length: 44
+# DTLVCD_25531 Number of predicted TMRs: 0
+DTLVCD_25531	signal	1	29				
+DTLVCD_25531	outside	30	44				
+//
+# DTLVCD_29791 Length: 49
+# DTLVCD_29791 Number of predicted TMRs: 0
+DTLVCD_29791	signal	1	11				
+DTLVCD_29791	outside	12	49				
+//
+# DTLVCD_126106 Length: 45
+# DTLVCD_126106 Number of predicted TMRs: 0
+DTLVCD_126106	inside	1	45				
+//
+# DTLVCD_68879 Length: 49
+# DTLVCD_68879 Number of predicted TMRs: 0
+DTLVCD_68879	inside	1	49				
+//
+# DTLVCD_41916 Length: 45
+# DTLVCD_41916 Number of predicted TMRs: 0
+DTLVCD_41916	signal	1	44				
+DTLVCD_41916	outside	45	45				
+//
+# DTLVCD_19576 Length: 49
+# DTLVCD_19576 Number of predicted TMRs: 0
+DTLVCD_19576	inside	1	49				
+//
+# DTLVCD_133605 Length: 37
+# DTLVCD_133605 Number of predicted TMRs: 0
+DTLVCD_133605	signal	1	27				
+DTLVCD_133605	outside	28	37				
+//
+# DTLVCD_109157 Length: 31
+# DTLVCD_109157 Number of predicted TMRs: 0
+DTLVCD_109157	inside	1	31				
+//
+# DTLVCD_8858 Length: 42
+# DTLVCD_8858 Number of predicted TMRs: 0
+DTLVCD_8858	signal	1	39				
+DTLVCD_8858	outside	40	42				
+//
+# DTLVCD_75686 Length: 50
+# DTLVCD_75686 Number of predicted TMRs: 0
+DTLVCD_75686	inside	1	50				
+//
+# DTLVCD_16921 Length: 36
+# DTLVCD_16921 Number of predicted TMRs: 0
+DTLVCD_16921	inside	1	36				
+//
+# DTLVCD_113579 Length: 40
+# DTLVCD_113579 Number of predicted TMRs: 0
+DTLVCD_113579	outside	1	40				
+//
+# DTLVCD_167207 Length: 33
+# DTLVCD_167207 Number of predicted TMRs: 0
+DTLVCD_167207	inside	1	33				
+//
+# DTLVCD_102578 Length: 37
+# DTLVCD_102578 Number of predicted TMRs: 0
+DTLVCD_102578	inside	1	37				
+//
+# DTLVCD_64269 Length: 44
+# DTLVCD_64269 Number of predicted TMRs: 0
+DTLVCD_64269	inside	1	44				
+//
+# DTLVCD_69100 Length: 42
+# DTLVCD_69100 Number of predicted TMRs: 0
+DTLVCD_69100	inside	1	42				
+//
+# DTLVCD_21647 Length: 29
+# DTLVCD_21647 Number of predicted TMRs: 0
+DTLVCD_21647	signal	1	23				
+DTLVCD_21647	outside	24	29				
+//
+# DTLVCD_73934 Length: 50
+# DTLVCD_73934 Number of predicted TMRs: 0
+DTLVCD_73934	inside	1	50				
+//
+# DTLVCD_120412 Length: 46
+# DTLVCD_120412 Number of predicted TMRs: 0
+DTLVCD_120412	inside	1	46				
+//
+# DTLVCD_162878 Length: 45
+# DTLVCD_162878 Number of predicted TMRs: 0
+DTLVCD_162878	inside	1	45				
+//
+# DTLVCD_152423 Length: 34
+# DTLVCD_152423 Number of predicted TMRs: 0
+DTLVCD_152423	signal	1	33				
+DTLVCD_152423	outside	34	34				
+//
+# DTLVCD_18403 Length: 40
+# DTLVCD_18403 Number of predicted TMRs: 0
+DTLVCD_18403	signal	1	27				
+DTLVCD_18403	outside	28	40				
+//
+# DTLVCD_121747 Length: 27
+# DTLVCD_121747 Number of predicted TMRs: 0
+DTLVCD_121747	signal	1	26				
+DTLVCD_121747	outside	27	27				
+//
+# DTLVCD_43716 Length: 27
+# DTLVCD_43716 Number of predicted TMRs: 0
+DTLVCD_43716	signal	1	26				
+DTLVCD_43716	outside	27	27				
+//
+# DTLVCD_102397 Length: 42
+# DTLVCD_102397 Number of predicted TMRs: 0
+DTLVCD_102397	signal	1	40				
+DTLVCD_102397	outside	41	42				
+//
+# DTLVCD_48508 Length: 49
+# DTLVCD_48508 Number of predicted TMRs: 0
+DTLVCD_48508	signal	1	31				
+DTLVCD_48508	outside	32	49				
+//
+# DTLVCD_127986 Length: 49
+# DTLVCD_127986 Number of predicted TMRs: 0
+DTLVCD_127986	signal	1	34				
+DTLVCD_127986	outside	35	49				
+//
+# DTLVCD_95487 Length: 43
+# DTLVCD_95487 Number of predicted TMRs: 0
+DTLVCD_95487	inside	1	43				
+//
+# DTLVCD_99825 Length: 39
+# DTLVCD_99825 Number of predicted TMRs: 0
+DTLVCD_99825	signal	1	38				
+DTLVCD_99825	outside	39	39				
+//
+# DTLVCD_134535 Length: 44
+# DTLVCD_134535 Number of predicted TMRs: 0
+DTLVCD_134535	inside	1	44				
+//
+# DTLVCD_88794 Length: 39
+# DTLVCD_88794 Number of predicted TMRs: 0
+DTLVCD_88794	signal	1	38				
+DTLVCD_88794	outside	39	39				
+//
+# DTLVCD_78748 Length: 50
+# DTLVCD_78748 Number of predicted TMRs: 0
+DTLVCD_78748	inside	1	50				
+//
+# DTLVCD_144488 Length: 44
+# DTLVCD_144488 Number of predicted TMRs: 0
+DTLVCD_144488	inside	1	44				
+//
+# DTLVCD_46259 Length: 49
+# DTLVCD_46259 Number of predicted TMRs: 0
+DTLVCD_46259	inside	1	49				
+//
+# DTLVCD_107530 Length: 44
+# DTLVCD_107530 Number of predicted TMRs: 0
+DTLVCD_107530	signal	1	12				
+DTLVCD_107530	outside	13	44				
+//
+# DTLVCD_129923 Length: 36
+# DTLVCD_129923 Number of predicted TMRs: 0
+DTLVCD_129923	signal	1	20				
+DTLVCD_129923	outside	21	36				
+//
+# DTLVCD_60342 Length: 43
+# DTLVCD_60342 Number of predicted TMRs: 0
+DTLVCD_60342	inside	1	43				
+//
+# DTLVCD_70653 Length: 39
+# DTLVCD_70653 Number of predicted TMRs: 0
+DTLVCD_70653	inside	1	39				
+//
+# DTLVCD_10795 Length: 33
+# DTLVCD_10795 Number of predicted TMRs: 0
+DTLVCD_10795	signal	1	30				
+DTLVCD_10795	outside	31	33				
+//
+# DTLVCD_44552 Length: 50
+# DTLVCD_44552 Number of predicted TMRs: 0
+DTLVCD_44552	inside	1	50				
+//
+# DTLVCD_89419 Length: 39
+# DTLVCD_89419 Number of predicted TMRs: 0
+DTLVCD_89419	inside	1	39				
+//
+# DTLVCD_58291 Length: 49
+# DTLVCD_58291 Number of predicted TMRs: 0
+DTLVCD_58291	signal	1	48				
+DTLVCD_58291	outside	49	49				
+//
+# DTLVCD_52002 Length: 48
+# DTLVCD_52002 Number of predicted TMRs: 0
+DTLVCD_52002	inside	1	48				
+//
+# DTLVCD_3568 Length: 43
+# DTLVCD_3568 Number of predicted TMRs: 0
+DTLVCD_3568	inside	1	43				
+//
+# DTLVCD_28083 Length: 43
+# DTLVCD_28083 Number of predicted TMRs: 0
+DTLVCD_28083	inside	1	43				
+//
+# DTLVCD_152389 Length: 40
+# DTLVCD_152389 Number of predicted TMRs: 0
+DTLVCD_152389	inside	1	40				
+//
+# DTLVCD_152405 Length: 48
+# DTLVCD_152405 Number of predicted TMRs: 0
+DTLVCD_152405	inside	1	48				
+//
+# DTLVCD_99123 Length: 37
+# DTLVCD_99123 Number of predicted TMRs: 0
+DTLVCD_99123	inside	1	37				
+//
+# DTLVCD_151902 Length: 39
+# DTLVCD_151902 Number of predicted TMRs: 0
+DTLVCD_151902	inside	1	39				
+//
+# DTLVCD_131096 Length: 40
+# DTLVCD_131096 Number of predicted TMRs: 0
+DTLVCD_131096	outside	1	40				
+//
+# DTLVCD_135835 Length: 43
+# DTLVCD_135835 Number of predicted TMRs: 0
+DTLVCD_135835	signal	1	26				
+DTLVCD_135835	outside	27	43				
+//
+# DTLVCD_68782 Length: 39
+# DTLVCD_68782 Number of predicted TMRs: 0
+DTLVCD_68782	outside	1	39				
+//
+# DTLVCD_12150 Length: 44
+# DTLVCD_12150 Number of predicted TMRs: 0
+DTLVCD_12150	inside	1	44				
+//
+# DTLVCD_66396 Length: 41
+# DTLVCD_66396 Number of predicted TMRs: 0
+DTLVCD_66396	inside	1	41				
+//
+# DTLVCD_102782 Length: 48
+# DTLVCD_102782 Number of predicted TMRs: 0
+DTLVCD_102782	inside	1	48				
+//
+# DTLVCD_147910 Length: 49
+# DTLVCD_147910 Number of predicted TMRs: 0
+DTLVCD_147910	signal	1	47				
+DTLVCD_147910	outside	48	49				
+//
+# DTLVCD_100149 Length: 41
+# DTLVCD_100149 Number of predicted TMRs: 0
+DTLVCD_100149	inside	1	41				
+//
+# DTLVCD_27415 Length: 36
+# DTLVCD_27415 Number of predicted TMRs: 0
+DTLVCD_27415	signal	1	33				
+DTLVCD_27415	outside	34	36				
+//
+# DTLVCD_137994 Length: 44
+# DTLVCD_137994 Number of predicted TMRs: 0
+DTLVCD_137994	inside	1	44				
+//
+# DTLVCD_95323 Length: 37
+# DTLVCD_95323 Number of predicted TMRs: 0
+DTLVCD_95323	signal	1	30				
+DTLVCD_95323	outside	31	37				
+//
+# DTLVCD_119045 Length: 43
+# DTLVCD_119045 Number of predicted TMRs: 0
+DTLVCD_119045	signal	1	41				
+DTLVCD_119045	outside	42	43				
+//
+# DTLVCD_110777 Length: 46
+# DTLVCD_110777 Number of predicted TMRs: 0
+DTLVCD_110777	inside	1	46				
+//
+# DTLVCD_21015 Length: 49
+# DTLVCD_21015 Number of predicted TMRs: 0
+DTLVCD_21015	inside	1	49				
+//
+# DTLVCD_120877 Length: 46
+# DTLVCD_120877 Number of predicted TMRs: 0
+DTLVCD_120877	inside	1	46				
+//
+# DTLVCD_121726 Length: 42
+# DTLVCD_121726 Number of predicted TMRs: 0
+DTLVCD_121726	inside	1	42				
+//
+# DTLVCD_21283 Length: 40
+# DTLVCD_21283 Number of predicted TMRs: 0
+DTLVCD_21283	inside	1	40				
+//
+# DTLVCD_146792 Length: 50
+# DTLVCD_146792 Number of predicted TMRs: 0
+DTLVCD_146792	inside	1	50				
+//
+# DTLVCD_36995 Length: 42
+# DTLVCD_36995 Number of predicted TMRs: 0
+DTLVCD_36995	inside	1	42				
+//
+# DTLVCD_151789 Length: 42
+# DTLVCD_151789 Number of predicted TMRs: 0
+DTLVCD_151789	inside	1	42				
+//
+# DTLVCD_17319 Length: 42
+# DTLVCD_17319 Number of predicted TMRs: 0
+DTLVCD_17319	inside	1	42				
+//
+# DTLVCD_75139 Length: 49
+# DTLVCD_75139 Number of predicted TMRs: 0
+DTLVCD_75139	signal	1	33				
+DTLVCD_75139	outside	34	49				
+//
+# DTLVCD_4512 Length: 41
+# DTLVCD_4512 Number of predicted TMRs: 1
+DTLVCD_4512	inside	1	20				
+DTLVCD_4512	TMhelix	21	38				
+DTLVCD_4512	outside	39	41				
+//
+# DTLVCD_120154 Length: 46
+# DTLVCD_120154 Number of predicted TMRs: 0
+DTLVCD_120154	inside	1	46				
+//
+# DTLVCD_62579 Length: 42
+# DTLVCD_62579 Number of predicted TMRs: 0
+DTLVCD_62579	signal	1	40				
+DTLVCD_62579	outside	41	42				
+//
+# DTLVCD_474 Length: 50
+# DTLVCD_474 Number of predicted TMRs: 0
+DTLVCD_474	inside	1	50				
+//
+# DTLVCD_14383 Length: 40
+# DTLVCD_14383 Number of predicted TMRs: 0
+DTLVCD_14383	signal	1	39				
+DTLVCD_14383	outside	40	40				
+//
+# DTLVCD_33608 Length: 45
+# DTLVCD_33608 Number of predicted TMRs: 0
+DTLVCD_33608	inside	1	45				
+//
+# DTLVCD_38545 Length: 44
+# DTLVCD_38545 Number of predicted TMRs: 0
+DTLVCD_38545	signal	1	39				
+DTLVCD_38545	outside	40	44				
+//
+# DTLVCD_49326 Length: 39
+# DTLVCD_49326 Number of predicted TMRs: 0
+DTLVCD_49326	signal	1	36				
+DTLVCD_49326	outside	37	39				
+//
+# DTLVCD_71087 Length: 40
+# DTLVCD_71087 Number of predicted TMRs: 0
+DTLVCD_71087	signal	1	39				
+DTLVCD_71087	outside	40	40				
+//
+# DTLVCD_131465 Length: 45
+# DTLVCD_131465 Number of predicted TMRs: 0
+DTLVCD_131465	inside	1	45				
+//
+# DTLVCD_88397 Length: 49
+# DTLVCD_88397 Number of predicted TMRs: 0
+DTLVCD_88397	inside	1	49				
+//
+# DTLVCD_13949 Length: 47
+# DTLVCD_13949 Number of predicted TMRs: 0
+DTLVCD_13949	outside	1	47				
+//
+# DTLVCD_58714 Length: 38
+# DTLVCD_58714 Number of predicted TMRs: 0
+DTLVCD_58714	outside	1	38				
+//
+# DTLVCD_161372 Length: 50
+# DTLVCD_161372 Number of predicted TMRs: 0
+DTLVCD_161372	inside	1	50				
+//
+# DTLVCD_90739 Length: 48
+# DTLVCD_90739 Number of predicted TMRs: 0
+DTLVCD_90739	inside	1	48				
+//
+# DTLVCD_95830 Length: 47
+# DTLVCD_95830 Number of predicted TMRs: 0
+DTLVCD_95830	signal	1	34				
+DTLVCD_95830	outside	35	47				
+//
+# DTLVCD_16191 Length: 31
+# DTLVCD_16191 Number of predicted TMRs: 0
+DTLVCD_16191	signal	1	28				
+DTLVCD_16191	outside	29	31				
+//
+# DTLVCD_8369 Length: 44
+# DTLVCD_8369 Number of predicted TMRs: 0
+DTLVCD_8369	inside	1	44				
+//
+# DTLVCD_17803 Length: 48
+# DTLVCD_17803 Number of predicted TMRs: 0
+DTLVCD_17803	signal	1	34				
+DTLVCD_17803	outside	35	48				
+//
+# DTLVCD_20688 Length: 46
+# DTLVCD_20688 Number of predicted TMRs: 0
+DTLVCD_20688	inside	1	46				
+//
+# DTLVCD_165352 Length: 46
+# DTLVCD_165352 Number of predicted TMRs: 0
+DTLVCD_165352	inside	1	46				
+//
+# DTLVCD_74590 Length: 44
+# DTLVCD_74590 Number of predicted TMRs: 0
+DTLVCD_74590	inside	1	44				
+//
+# DTLVCD_74592 Length: 45
+# DTLVCD_74592 Number of predicted TMRs: 0
+DTLVCD_74592	inside	1	45				
+//
+# DTLVCD_141482 Length: 48
+# DTLVCD_141482 Number of predicted TMRs: 0
+DTLVCD_141482	signal	1	39				
+DTLVCD_141482	outside	40	48				
+//
+# DTLVCD_51838 Length: 41
+# DTLVCD_51838 Number of predicted TMRs: 0
+DTLVCD_51838	signal	1	33				
+DTLVCD_51838	outside	34	41				
+//
+# DTLVCD_6900 Length: 41
+# DTLVCD_6900 Number of predicted TMRs: 0
+DTLVCD_6900	inside	1	41				
+//
+# DTLVCD_103012 Length: 28
+# DTLVCD_103012 Number of predicted TMRs: 0
+DTLVCD_103012	signal	1	27				
+DTLVCD_103012	outside	28	28				
+//
+# DTLVCD_76747 Length: 47
+# DTLVCD_76747 Number of predicted TMRs: 0
+DTLVCD_76747	inside	1	47				
+//
+# DTLVCD_63939 Length: 48
+# DTLVCD_63939 Number of predicted TMRs: 0
+DTLVCD_63939	inside	1	48				
+//
+# DTLVCD_138986 Length: 49
+# DTLVCD_138986 Number of predicted TMRs: 0
+DTLVCD_138986	inside	1	49				
+//
+# DTLVCD_85994 Length: 49
+# DTLVCD_85994 Number of predicted TMRs: 0
+DTLVCD_85994	signal	1	12				
+DTLVCD_85994	outside	13	49				
+//
+# DTLVCD_131034 Length: 44
+# DTLVCD_131034 Number of predicted TMRs: 0
+DTLVCD_131034	inside	1	44				
+//
+# DTLVCD_169963 Length: 47
+# DTLVCD_169963 Number of predicted TMRs: 0
+DTLVCD_169963	inside	1	47				
+//
+# DTLVCD_145913 Length: 45
+# DTLVCD_145913 Number of predicted TMRs: 0
+DTLVCD_145913	signal	1	16				
+DTLVCD_145913	outside	17	45				
+//
+# DTLVCD_53965 Length: 46
+# DTLVCD_53965 Number of predicted TMRs: 0
+DTLVCD_53965	inside	1	46				
+//
+# DTLVCD_17742 Length: 48
+# DTLVCD_17742 Number of predicted TMRs: 0
+DTLVCD_17742	inside	1	48				
+//
+# DTLVCD_31101 Length: 36
+# DTLVCD_31101 Number of predicted TMRs: 0
+DTLVCD_31101	signal	1	35				
+DTLVCD_31101	outside	36	36				
+//
+# DTLVCD_52734 Length: 36
+# DTLVCD_52734 Number of predicted TMRs: 0
+DTLVCD_52734	signal	1	24				
+DTLVCD_52734	outside	25	36				
+//
+# DTLVCD_145247 Length: 36
+# DTLVCD_145247 Number of predicted TMRs: 0
+DTLVCD_145247	signal	1	35				
+DTLVCD_145247	outside	36	36				
+//
+# DTLVCD_161217 Length: 39
+# DTLVCD_161217 Number of predicted TMRs: 0
+DTLVCD_161217	signal	1	38				
+DTLVCD_161217	outside	39	39				
+//
+# DTLVCD_155726 Length: 46
+# DTLVCD_155726 Number of predicted TMRs: 0
+DTLVCD_155726	inside	1	46				
+//
+# DTLVCD_122635 Length: 48
+# DTLVCD_122635 Number of predicted TMRs: 0
+DTLVCD_122635	inside	1	48				
+//
+# DTLVCD_82663 Length: 39
+# DTLVCD_82663 Number of predicted TMRs: 0
+DTLVCD_82663	signal	1	32				
+DTLVCD_82663	outside	33	39				
+//
+# DTLVCD_65384 Length: 47
+# DTLVCD_65384 Number of predicted TMRs: 0
+DTLVCD_65384	signal	1	25				
+DTLVCD_65384	outside	26	47				
+//
+# DTLVCD_169868 Length: 44
+# DTLVCD_169868 Number of predicted TMRs: 0
+DTLVCD_169868	inside	1	44				
+//
+# DTLVCD_79953 Length: 48
+# DTLVCD_79953 Number of predicted TMRs: 0
+DTLVCD_79953	inside	1	48				
+//
+# DTLVCD_79957 Length: 50
+# DTLVCD_79957 Number of predicted TMRs: 0
+DTLVCD_79957	inside	1	50				
+//
+# DTLVCD_20703 Length: 47
+# DTLVCD_20703 Number of predicted TMRs: 0
+DTLVCD_20703	inside	1	47				
+//
+# DTLVCD_14477 Length: 42
+# DTLVCD_14477 Number of predicted TMRs: 0
+DTLVCD_14477	signal	1	41				
+DTLVCD_14477	outside	42	42				
+//
+# DTLVCD_72290 Length: 44
+# DTLVCD_72290 Number of predicted TMRs: 0
+DTLVCD_72290	signal	1	13				
+DTLVCD_72290	outside	14	44				
+//
+# DTLVCD_167490 Length: 46
+# DTLVCD_167490 Number of predicted TMRs: 0
+DTLVCD_167490	inside	1	46				
+//
+# DTLVCD_19246 Length: 47
+# DTLVCD_19246 Number of predicted TMRs: 0
+DTLVCD_19246	inside	1	47				
+//
+# DTLVCD_41144 Length: 41
+# DTLVCD_41144 Number of predicted TMRs: 0
+DTLVCD_41144	inside	1	41				
+//
+# DTLVCD_33383 Length: 38
+# DTLVCD_33383 Number of predicted TMRs: 0
+DTLVCD_33383	inside	1	38				
+//
+# DTLVCD_73656 Length: 29
+# DTLVCD_73656 Number of predicted TMRs: 0
+DTLVCD_73656	signal	1	28				
+DTLVCD_73656	outside	29	29				
+//
+# DTLVCD_69047 Length: 49
+# DTLVCD_69047 Number of predicted TMRs: 0
+DTLVCD_69047	inside	1	49				
+//
+# DTLVCD_14735 Length: 38
+# DTLVCD_14735 Number of predicted TMRs: 0
+DTLVCD_14735	signal	1	34				
+DTLVCD_14735	outside	35	38				
+//
+# DTLVCD_6303 Length: 43
+# DTLVCD_6303 Number of predicted TMRs: 0
+DTLVCD_6303	inside	1	43				
+//
+# DTLVCD_46817 Length: 45
+# DTLVCD_46817 Number of predicted TMRs: 0
+DTLVCD_46817	inside	1	45				
+//
+# DTLVCD_34368 Length: 50
+# DTLVCD_34368 Number of predicted TMRs: 0
+DTLVCD_34368	inside	1	50				
+//
+# DTLVCD_42867 Length: 42
+# DTLVCD_42867 Number of predicted TMRs: 0
+DTLVCD_42867	inside	1	42				
+//
+# DTLVCD_139938 Length: 47
+# DTLVCD_139938 Number of predicted TMRs: 0
+DTLVCD_139938	signal	1	40				
+DTLVCD_139938	outside	41	47				
+//
+# DTLVCD_169591 Length: 49
+# DTLVCD_169591 Number of predicted TMRs: 0
+DTLVCD_169591	inside	1	49				
+//
+# DTLVCD_82891 Length: 46
+# DTLVCD_82891 Number of predicted TMRs: 0
+DTLVCD_82891	inside	1	46				
+//
+# DTLVCD_54403 Length: 46
+# DTLVCD_54403 Number of predicted TMRs: 0
+DTLVCD_54403	inside	1	46				
+//
+# DTLVCD_77453 Length: 35
+# DTLVCD_77453 Number of predicted TMRs: 0
+DTLVCD_77453	inside	1	35				
+//
+# DTLVCD_161971 Length: 50
+# DTLVCD_161971 Number of predicted TMRs: 0
+DTLVCD_161971	inside	1	50				
+//
+# DTLVCD_20308 Length: 48
+# DTLVCD_20308 Number of predicted TMRs: 0
+DTLVCD_20308	signal	1	47				
+DTLVCD_20308	outside	48	48				
+//
+# DTLVCD_10092 Length: 45
+# DTLVCD_10092 Number of predicted TMRs: 0
+DTLVCD_10092	inside	1	45				
+//
+# DTLVCD_54229 Length: 43
+# DTLVCD_54229 Number of predicted TMRs: 0
+DTLVCD_54229	inside	1	43				
+//
+# DTLVCD_73660 Length: 30
+# DTLVCD_73660 Number of predicted TMRs: 0
+DTLVCD_73660	inside	1	30				
+//
+# DTLVCD_92079 Length: 45
+# DTLVCD_92079 Number of predicted TMRs: 0
+DTLVCD_92079	inside	1	45				
+//
+# DTLVCD_12083 Length: 40
+# DTLVCD_12083 Number of predicted TMRs: 0
+DTLVCD_12083	inside	1	40				
+//
+# DTLVCD_131379 Length: 48
+# DTLVCD_131379 Number of predicted TMRs: 0
+DTLVCD_131379	inside	1	48				
+//
+# DTLVCD_73667 Length: 45
+# DTLVCD_73667 Number of predicted TMRs: 0
+DTLVCD_73667	signal	1	10				
+DTLVCD_73667	outside	11	45				
+//
+# DTLVCD_129340 Length: 50
+# DTLVCD_129340 Number of predicted TMRs: 0
+DTLVCD_129340	inside	1	50				
+//
+# DTLVCD_17295 Length: 46
+# DTLVCD_17295 Number of predicted TMRs: 0
+DTLVCD_17295	inside	1	46				
+//
+# DTLVCD_35947 Length: 43
+# DTLVCD_35947 Number of predicted TMRs: 0
+DTLVCD_35947	inside	1	43				
+//
+# DTLVCD_111078 Length: 37
+# DTLVCD_111078 Number of predicted TMRs: 0
+DTLVCD_111078	inside	1	37				
+//
+# DTLVCD_3215 Length: 36
+# DTLVCD_3215 Number of predicted TMRs: 0
+DTLVCD_3215	signal	1	10				
+DTLVCD_3215	outside	11	36				
+//
+# DTLVCD_2222 Length: 49
+# DTLVCD_2222 Number of predicted TMRs: 0
+DTLVCD_2222	inside	1	49				
+//
+# DTLVCD_43813 Length: 40
+# DTLVCD_43813 Number of predicted TMRs: 0
+DTLVCD_43813	inside	1	40				
+//
+# DTLVCD_135772 Length: 42
+# DTLVCD_135772 Number of predicted TMRs: 0
+DTLVCD_135772	inside	1	42				
+//
+# DTLVCD_46803 Length: 48
+# DTLVCD_46803 Number of predicted TMRs: 0
+DTLVCD_46803	inside	1	48				
+//
+# DTLVCD_23708 Length: 38
+# DTLVCD_23708 Number of predicted TMRs: 0
+DTLVCD_23708	signal	1	37				
+DTLVCD_23708	outside	38	38				
+//
+# DTLVCD_32526 Length: 42
+# DTLVCD_32526 Number of predicted TMRs: 0
+DTLVCD_32526	signal	1	31				
+DTLVCD_32526	outside	32	42				
+//
+# DTLVCD_44418 Length: 42
+# DTLVCD_44418 Number of predicted TMRs: 0
+DTLVCD_44418	signal	1	40				
+DTLVCD_44418	outside	41	42				
+//
+# DTLVCD_23472 Length: 45
+# DTLVCD_23472 Number of predicted TMRs: 0
+DTLVCD_23472	inside	1	45				
+//
+# DTLVCD_81496 Length: 39
+# DTLVCD_81496 Number of predicted TMRs: 0
+DTLVCD_81496	signal	1	38				
+DTLVCD_81496	outside	39	39				
+//
+# DTLVCD_115801 Length: 50
+# DTLVCD_115801 Number of predicted TMRs: 0
+DTLVCD_115801	inside	1	50				
+//
+# DTLVCD_161553 Length: 45
+# DTLVCD_161553 Number of predicted TMRs: 0
+DTLVCD_161553	inside	1	45				
+//
+# DTLVCD_142051 Length: 50
+# DTLVCD_142051 Number of predicted TMRs: 0
+DTLVCD_142051	signal	1	12				
+DTLVCD_142051	outside	13	50				
+//
+# DTLVCD_33476 Length: 49
+# DTLVCD_33476 Number of predicted TMRs: 0
+DTLVCD_33476	inside	1	49				
+//
+# DTLVCD_134119 Length: 48
+# DTLVCD_134119 Number of predicted TMRs: 0
+DTLVCD_134119	inside	1	48				
+//
+# DTLVCD_94958 Length: 39
+# DTLVCD_94958 Number of predicted TMRs: 0
+DTLVCD_94958	signal	1	38				
+DTLVCD_94958	outside	39	39				
+//
+# DTLVCD_60418 Length: 44
+# DTLVCD_60418 Number of predicted TMRs: 0
+DTLVCD_60418	inside	1	44				
+//
+# DTLVCD_129548 Length: 50
+# DTLVCD_129548 Number of predicted TMRs: 0
+DTLVCD_129548	inside	1	50				
+//
+# DTLVCD_31605 Length: 49
+# DTLVCD_31605 Number of predicted TMRs: 0
+DTLVCD_31605	outside	1	49				
+//
+# DTLVCD_153918 Length: 38
+# DTLVCD_153918 Number of predicted TMRs: 0
+DTLVCD_153918	inside	1	38				
+//
+# DTLVCD_90050 Length: 46
+# DTLVCD_90050 Number of predicted TMRs: 0
+DTLVCD_90050	signal	1	10				
+DTLVCD_90050	outside	11	46				
+//
+# DTLVCD_149542 Length: 36
+# DTLVCD_149542 Number of predicted TMRs: 0
+DTLVCD_149542	signal	1	14				
+DTLVCD_149542	outside	15	36				
+//
+# DTLVCD_128180 Length: 45
+# DTLVCD_128180 Number of predicted TMRs: 0
+DTLVCD_128180	inside	1	45				
+//
+# DTLVCD_5160 Length: 38
+# DTLVCD_5160 Number of predicted TMRs: 0
+DTLVCD_5160	inside	1	38				
+//
+# DTLVCD_48936 Length: 43
+# DTLVCD_48936 Number of predicted TMRs: 0
+DTLVCD_48936	inside	1	43				
+//
+# DTLVCD_15643 Length: 47
+# DTLVCD_15643 Number of predicted TMRs: 0
+DTLVCD_15643	outside	1	47				
+//
+# DTLVCD_77833 Length: 44
+# DTLVCD_77833 Number of predicted TMRs: 0
+DTLVCD_77833	signal	1	43				
+DTLVCD_77833	outside	44	44				
+//
+# DTLVCD_26692 Length: 48
+# DTLVCD_26692 Number of predicted TMRs: 0
+DTLVCD_26692	inside	1	48				
+//
+# DTLVCD_155903 Length: 46
+# DTLVCD_155903 Number of predicted TMRs: 0
+DTLVCD_155903	inside	1	46				
+//
+# DTLVCD_124832 Length: 43
+# DTLVCD_124832 Number of predicted TMRs: 0
+DTLVCD_124832	inside	1	43				
+//
+# DTLVCD_5171 Length: 48
+# DTLVCD_5171 Number of predicted TMRs: 0
+DTLVCD_5171	inside	1	48				
+//
+# DTLVCD_146290 Length: 50
+# DTLVCD_146290 Number of predicted TMRs: 0
+DTLVCD_146290	inside	1	50				
+//
+# DTLVCD_65815 Length: 42
+# DTLVCD_65815 Number of predicted TMRs: 0
+DTLVCD_65815	signal	1	34				
+DTLVCD_65815	outside	35	42				
+//
+# DTLVCD_124997 Length: 50
+# DTLVCD_124997 Number of predicted TMRs: 0
+DTLVCD_124997	inside	1	50				
+//
+# DTLVCD_157545 Length: 45
+# DTLVCD_157545 Number of predicted TMRs: 0
+DTLVCD_157545	inside	1	45				
+//
+# DTLVCD_42877 Length: 38
+# DTLVCD_42877 Number of predicted TMRs: 0
+DTLVCD_42877	inside	1	38				
+//
+# DTLVCD_125269 Length: 50
+# DTLVCD_125269 Number of predicted TMRs: 0
+DTLVCD_125269	inside	1	50				
+//
+# DTLVCD_168460 Length: 44
+# DTLVCD_168460 Number of predicted TMRs: 0
+DTLVCD_168460	signal	1	23				
+DTLVCD_168460	outside	24	44				
+//
+# DTLVCD_48295 Length: 45
+# DTLVCD_48295 Number of predicted TMRs: 0
+DTLVCD_48295	inside	1	45				
+//
+# DTLVCD_69132 Length: 38
+# DTLVCD_69132 Number of predicted TMRs: 0
+DTLVCD_69132	outside	1	38				
+//
+# DTLVCD_133779 Length: 50
+# DTLVCD_133779 Number of predicted TMRs: 0
+DTLVCD_133779	inside	1	50				
+//
+# DTLVCD_143932 Length: 48
+# DTLVCD_143932 Number of predicted TMRs: 0
+DTLVCD_143932	inside	1	48				
+//
+# DTLVCD_96768 Length: 46
+# DTLVCD_96768 Number of predicted TMRs: 1
+DTLVCD_96768	outside	1	9				
+DTLVCD_96768	TMhelix	10	25				
+DTLVCD_96768	inside	26	46				
+//
+# DTLVCD_153391 Length: 45
+# DTLVCD_153391 Number of predicted TMRs: 0
+DTLVCD_153391	signal	1	10				
+DTLVCD_153391	outside	11	45				
+//
+# DTLVCD_100180 Length: 49
+# DTLVCD_100180 Number of predicted TMRs: 0
+DTLVCD_100180	inside	1	49				
+//
+# DTLVCD_34295 Length: 32
+# DTLVCD_34295 Number of predicted TMRs: 0
+DTLVCD_34295	signal	1	30				
+DTLVCD_34295	outside	31	32				
+//
+# DTLVCD_167614 Length: 46
+# DTLVCD_167614 Number of predicted TMRs: 0
+DTLVCD_167614	inside	1	46				
+//
+# DTLVCD_42194 Length: 44
+# DTLVCD_42194 Number of predicted TMRs: 0
+DTLVCD_42194	signal	1	43				
+DTLVCD_42194	outside	44	44				
+//
+# DTLVCD_124473 Length: 50
+# DTLVCD_124473 Number of predicted TMRs: 0
+DTLVCD_124473	inside	1	50				
+//
+# DTLVCD_128755 Length: 31
+# DTLVCD_128755 Number of predicted TMRs: 0
+DTLVCD_128755	signal	1	17				
+DTLVCD_128755	outside	18	31				
+//
+# DTLVCD_8427 Length: 35
+# DTLVCD_8427 Number of predicted TMRs: 0
+DTLVCD_8427	inside	1	35				
+//
+# DTLVCD_132416 Length: 41
+# DTLVCD_132416 Number of predicted TMRs: 0
+DTLVCD_132416	inside	1	41				
+//
+# DTLVCD_54280 Length: 50
+# DTLVCD_54280 Number of predicted TMRs: 0
+DTLVCD_54280	inside	1	50				
+//
+# DTLVCD_163429 Length: 42
+# DTLVCD_163429 Number of predicted TMRs: 0
+DTLVCD_163429	signal	1	34				
+DTLVCD_163429	outside	35	42				
+//
+# DTLVCD_62117 Length: 45
+# DTLVCD_62117 Number of predicted TMRs: 0
+DTLVCD_62117	inside	1	45				
+//
+# DTLVCD_125303 Length: 42
+# DTLVCD_125303 Number of predicted TMRs: 0
+DTLVCD_125303	inside	1	42				
+//
+# DTLVCD_137187 Length: 42
+# DTLVCD_137187 Number of predicted TMRs: 0
+DTLVCD_137187	inside	1	42				
+//
+# DTLVCD_104022 Length: 36
+# DTLVCD_104022 Number of predicted TMRs: 0
+DTLVCD_104022	inside	1	36				
+//
+# DTLVCD_69525 Length: 50
+# DTLVCD_69525 Number of predicted TMRs: 0
+DTLVCD_69525	inside	1	50				
+//
+# DTLVCD_75266 Length: 45
+# DTLVCD_75266 Number of predicted TMRs: 0
+DTLVCD_75266	signal	1	37				
+DTLVCD_75266	outside	38	45				
+//
+# DTLVCD_80875 Length: 50
+# DTLVCD_80875 Number of predicted TMRs: 0
+DTLVCD_80875	inside	1	50				
+//
+# DTLVCD_88991 Length: 39
+# DTLVCD_88991 Number of predicted TMRs: 0
+DTLVCD_88991	inside	1	39				
+//
+# DTLVCD_138341 Length: 38
+# DTLVCD_138341 Number of predicted TMRs: 0
+DTLVCD_138341	signal	1	33				
+DTLVCD_138341	outside	34	38				
+//
+# DTLVCD_104099 Length: 42
+# DTLVCD_104099 Number of predicted TMRs: 0
+DTLVCD_104099	signal	1	34				
+DTLVCD_104099	outside	35	42				
+//
+# DTLVCD_135645 Length: 45
+# DTLVCD_135645 Number of predicted TMRs: 0
+DTLVCD_135645	signal	1	44				
+DTLVCD_135645	outside	45	45				
+//
+# DTLVCD_135309 Length: 46
+# DTLVCD_135309 Number of predicted TMRs: 0
+DTLVCD_135309	inside	1	46				
+//
+# DTLVCD_138076 Length: 37
+# DTLVCD_138076 Number of predicted TMRs: 0
+DTLVCD_138076	signal	1	36				
+DTLVCD_138076	outside	37	37				
+//
+# DTLVCD_14654 Length: 43
+# DTLVCD_14654 Number of predicted TMRs: 0
+DTLVCD_14654	signal	1	35				
+DTLVCD_14654	outside	36	43				
+//
+# DTLVCD_36647 Length: 49
+# DTLVCD_36647 Number of predicted TMRs: 0
+DTLVCD_36647	inside	1	49				
+//
+# DTLVCD_98903 Length: 44
+# DTLVCD_98903 Number of predicted TMRs: 0
+DTLVCD_98903	inside	1	44				
+//
+# DTLVCD_82579 Length: 38
+# DTLVCD_82579 Number of predicted TMRs: 0
+DTLVCD_82579	signal	1	10				
+DTLVCD_82579	outside	11	38				
+//
+# DTLVCD_106141 Length: 42
+# DTLVCD_106141 Number of predicted TMRs: 0
+DTLVCD_106141	inside	1	42				
+//
+# DTLVCD_134183 Length: 44
+# DTLVCD_134183 Number of predicted TMRs: 0
+DTLVCD_134183	inside	1	44				
+//
+# DTLVCD_144627 Length: 42
+# DTLVCD_144627 Number of predicted TMRs: 0
+DTLVCD_144627	inside	1	42				
+//
+# DTLVCD_27716 Length: 40
+# DTLVCD_27716 Number of predicted TMRs: 0
+DTLVCD_27716	signal	1	39				
+DTLVCD_27716	outside	40	40				
+//
+# DTLVCD_104070 Length: 49
+# DTLVCD_104070 Number of predicted TMRs: 0
+DTLVCD_104070	outside	1	49				
+//
+# DTLVCD_79266 Length: 48
+# DTLVCD_79266 Number of predicted TMRs: 0
+DTLVCD_79266	signal	1	47				
+DTLVCD_79266	outside	48	48				
+//
+# DTLVCD_133382 Length: 50
+# DTLVCD_133382 Number of predicted TMRs: 0
+DTLVCD_133382	inside	1	50				
+//
+# DTLVCD_4569 Length: 38
+# DTLVCD_4569 Number of predicted TMRs: 0
+DTLVCD_4569	signal	1	37				
+DTLVCD_4569	outside	38	38				
+//
+# DTLVCD_125064 Length: 50
+# DTLVCD_125064 Number of predicted TMRs: 0
+DTLVCD_125064	signal	1	49				
+DTLVCD_125064	outside	50	50				
+//
+# DTLVCD_68891 Length: 45
+# DTLVCD_68891 Number of predicted TMRs: 0
+DTLVCD_68891	outside	1	45				
+//
+# DTLVCD_146640 Length: 41
+# DTLVCD_146640 Number of predicted TMRs: 0
+DTLVCD_146640	inside	1	41				
+//
+# DTLVCD_146631 Length: 41
+# DTLVCD_146631 Number of predicted TMRs: 0
+DTLVCD_146631	inside	1	41				
+//
+# DTLVCD_97344 Length: 32
+# DTLVCD_97344 Number of predicted TMRs: 0
+DTLVCD_97344	signal	1	23				
+DTLVCD_97344	outside	24	32				
+//
+# DTLVCD_71799 Length: 41
+# DTLVCD_71799 Number of predicted TMRs: 0
+DTLVCD_71799	signal	1	39				
+DTLVCD_71799	outside	40	41				
+//
+# DTLVCD_65386 Length: 44
+# DTLVCD_65386 Number of predicted TMRs: 0
+DTLVCD_65386	inside	1	44				
+//
+# DTLVCD_121021 Length: 38
+# DTLVCD_121021 Number of predicted TMRs: 0
+DTLVCD_121021	signal	1	31				
+DTLVCD_121021	outside	32	38				
+//
+# DTLVCD_49580 Length: 36
+# DTLVCD_49580 Number of predicted TMRs: 0
+DTLVCD_49580	inside	1	36				
+//
+# DTLVCD_122439 Length: 48
+# DTLVCD_122439 Number of predicted TMRs: 0
+DTLVCD_122439	signal	1	46				
+DTLVCD_122439	outside	47	48				
+//
+# DTLVCD_168352 Length: 42
+# DTLVCD_168352 Number of predicted TMRs: 0
+DTLVCD_168352	inside	1	42				
+//
+# DTLVCD_47516 Length: 39
+# DTLVCD_47516 Number of predicted TMRs: 0
+DTLVCD_47516	signal	1	37				
+DTLVCD_47516	outside	38	39				
+//
+# DTLVCD_109000 Length: 50
+# DTLVCD_109000 Number of predicted TMRs: 0
+DTLVCD_109000	signal	1	34				
+DTLVCD_109000	outside	35	50				
+//
+# DTLVCD_163860 Length: 48
+# DTLVCD_163860 Number of predicted TMRs: 0
+DTLVCD_163860	signal	1	36				
+DTLVCD_163860	outside	37	48				
+//
+# DTLVCD_81588 Length: 47
+# DTLVCD_81588 Number of predicted TMRs: 0
+DTLVCD_81588	signal	1	12				
+DTLVCD_81588	outside	13	47				
+//
+# DTLVCD_104620 Length: 30
+# DTLVCD_104620 Number of predicted TMRs: 0
+DTLVCD_104620	inside	1	30				
+//
+# DTLVCD_35086 Length: 39
+# DTLVCD_35086 Number of predicted TMRs: 0
+DTLVCD_35086	inside	1	39				
+//
+# DTLVCD_122104 Length: 40
+# DTLVCD_122104 Number of predicted TMRs: 0
+DTLVCD_122104	inside	1	40				
+//
+# DTLVCD_49969 Length: 42
+# DTLVCD_49969 Number of predicted TMRs: 0
+DTLVCD_49969	signal	1	41				
+DTLVCD_49969	outside	42	42				
+//
+# DTLVCD_94341 Length: 32
+# DTLVCD_94341 Number of predicted TMRs: 0
+DTLVCD_94341	inside	1	32				
+//
+# DTLVCD_159607 Length: 48
+# DTLVCD_159607 Number of predicted TMRs: 0
+DTLVCD_159607	inside	1	48				
+//
+# DTLVCD_30355 Length: 33
+# DTLVCD_30355 Number of predicted TMRs: 0
+DTLVCD_30355	signal	1	17				
+DTLVCD_30355	outside	18	33				
+//
+# DTLVCD_116717 Length: 45
+# DTLVCD_116717 Number of predicted TMRs: 0
+DTLVCD_116717	inside	1	45				
+//
+# DTLVCD_96547 Length: 42
+# DTLVCD_96547 Number of predicted TMRs: 0
+DTLVCD_96547	inside	1	42				
+//
+# DTLVCD_477 Length: 45
+# DTLVCD_477 Number of predicted TMRs: 0
+DTLVCD_477	inside	1	45				
+//
+# DTLVCD_78166 Length: 43
+# DTLVCD_78166 Number of predicted TMRs: 0
+DTLVCD_78166	signal	1	22				
+DTLVCD_78166	outside	23	43				
+//
+# DTLVCD_57731 Length: 44
+# DTLVCD_57731 Number of predicted TMRs: 0
+DTLVCD_57731	signal	1	38				
+DTLVCD_57731	outside	39	44				
+//
+# DTLVCD_105650 Length: 41
+# DTLVCD_105650 Number of predicted TMRs: 0
+DTLVCD_105650	signal	1	39				
+DTLVCD_105650	outside	40	41				
+//
+# DTLVCD_144457 Length: 48
+# DTLVCD_144457 Number of predicted TMRs: 0
+DTLVCD_144457	inside	1	48				
+//
+# DTLVCD_70574 Length: 42
+# DTLVCD_70574 Number of predicted TMRs: 0
+DTLVCD_70574	inside	1	42				
+//
+# DTLVCD_128470 Length: 41
+# DTLVCD_128470 Number of predicted TMRs: 0
+DTLVCD_128470	signal	1	39				
+DTLVCD_128470	outside	40	41				
+//
+# DTLVCD_69618 Length: 49
+# DTLVCD_69618 Number of predicted TMRs: 0
+DTLVCD_69618	inside	1	49				
+//
+# DTLVCD_113139 Length: 49
+# DTLVCD_113139 Number of predicted TMRs: 0
+DTLVCD_113139	inside	1	49				
+//
+# DTLVCD_148930 Length: 48
+# DTLVCD_148930 Number of predicted TMRs: 0
+DTLVCD_148930	inside	1	48				
+//
+# DTLVCD_34890 Length: 45
+# DTLVCD_34890 Number of predicted TMRs: 0
+DTLVCD_34890	signal	1	21				
+DTLVCD_34890	outside	22	45				
+//
+# DTLVCD_91350 Length: 46
+# DTLVCD_91350 Number of predicted TMRs: 0
+DTLVCD_91350	inside	1	46				
+//
+# DTLVCD_161832 Length: 41
+# DTLVCD_161832 Number of predicted TMRs: 0
+DTLVCD_161832	inside	1	41				
+//
+# DTLVCD_14389 Length: 39
+# DTLVCD_14389 Number of predicted TMRs: 0
+DTLVCD_14389	inside	1	39				
+//
+# DTLVCD_130879 Length: 45
+# DTLVCD_130879 Number of predicted TMRs: 0
+DTLVCD_130879	inside	1	45				
+//
+# DTLVCD_104607 Length: 41
+# DTLVCD_104607 Number of predicted TMRs: 0
+DTLVCD_104607	inside	1	41				
+//
+# DTLVCD_69092 Length: 42
+# DTLVCD_69092 Number of predicted TMRs: 0
+DTLVCD_69092	signal	1	34				
+DTLVCD_69092	outside	35	42				
+//
+# DTLVCD_162456 Length: 43
+# DTLVCD_162456 Number of predicted TMRs: 0
+DTLVCD_162456	inside	1	43				
+//
+# DTLVCD_148944 Length: 48
+# DTLVCD_148944 Number of predicted TMRs: 0
+DTLVCD_148944	signal	1	24				
+DTLVCD_148944	outside	25	48				
+//
+# DTLVCD_87956 Length: 33
+# DTLVCD_87956 Number of predicted TMRs: 0
+DTLVCD_87956	inside	1	33				
+//
+# DTLVCD_75311 Length: 37
+# DTLVCD_75311 Number of predicted TMRs: 0
+DTLVCD_75311	inside	1	37				
+//
+# DTLVCD_74609 Length: 41
+# DTLVCD_74609 Number of predicted TMRs: 0
+DTLVCD_74609	inside	1	41				
+//
+# DTLVCD_168163 Length: 36
+# DTLVCD_168163 Number of predicted TMRs: 0
+DTLVCD_168163	inside	1	36				
+//
+# DTLVCD_3670 Length: 43
+# DTLVCD_3670 Number of predicted TMRs: 0
+DTLVCD_3670	inside	1	43				
+//
+# DTLVCD_8949 Length: 46
+# DTLVCD_8949 Number of predicted TMRs: 0
+DTLVCD_8949	inside	1	46				
+//
+# DTLVCD_146160 Length: 46
+# DTLVCD_146160 Number of predicted TMRs: 0
+DTLVCD_146160	signal	1	45				
+DTLVCD_146160	outside	46	46				
+//
+# DTLVCD_23979 Length: 50
+# DTLVCD_23979 Number of predicted TMRs: 0
+DTLVCD_23979	inside	1	50				
+//
+# DTLVCD_34411 Length: 48
+# DTLVCD_34411 Number of predicted TMRs: 0
+DTLVCD_34411	inside	1	48				
+//
+# DTLVCD_60363 Length: 50
+# DTLVCD_60363 Number of predicted TMRs: 0
+DTLVCD_60363	inside	1	50				
+//
+# DTLVCD_40146 Length: 43
+# DTLVCD_40146 Number of predicted TMRs: 0
+DTLVCD_40146	inside	1	43				
+//
+# DTLVCD_34268 Length: 49
+# DTLVCD_34268 Number of predicted TMRs: 0
+DTLVCD_34268	inside	1	49				
+//
+# DTLVCD_4674 Length: 32
+# DTLVCD_4674 Number of predicted TMRs: 0
+DTLVCD_4674	inside	1	32				
+//
+# DTLVCD_146218 Length: 43
+# DTLVCD_146218 Number of predicted TMRs: 0
+DTLVCD_146218	outside	1	43				
+//
+# DTLVCD_31838 Length: 50
+# DTLVCD_31838 Number of predicted TMRs: 0
+DTLVCD_31838	inside	1	50				
+//
+# DTLVCD_99750 Length: 46
+# DTLVCD_99750 Number of predicted TMRs: 0
+DTLVCD_99750	signal	1	34				
+DTLVCD_99750	outside	35	46				
+//
+# DTLVCD_164167 Length: 48
+# DTLVCD_164167 Number of predicted TMRs: 0
+DTLVCD_164167	inside	1	48				
+//
+# DTLVCD_148106 Length: 50
+# DTLVCD_148106 Number of predicted TMRs: 0
+DTLVCD_148106	inside	1	50				
+//
+# DTLVCD_162690 Length: 40
+# DTLVCD_162690 Number of predicted TMRs: 0
+DTLVCD_162690	signal	1	31				
+DTLVCD_162690	outside	32	40				
+//
+# DTLVCD_106250 Length: 39
+# DTLVCD_106250 Number of predicted TMRs: 0
+DTLVCD_106250	signal	1	15				
+DTLVCD_106250	outside	16	39				
+//
+# DTLVCD_148120 Length: 50
+# DTLVCD_148120 Number of predicted TMRs: 0
+DTLVCD_148120	inside	1	50				
+//
+# DTLVCD_105184 Length: 50
+# DTLVCD_105184 Number of predicted TMRs: 0
+DTLVCD_105184	inside	1	50				
+//
+# DTLVCD_166731 Length: 44
+# DTLVCD_166731 Number of predicted TMRs: 0
+DTLVCD_166731	inside	1	44				
+//
+# DTLVCD_64861 Length: 46
+# DTLVCD_64861 Number of predicted TMRs: 0
+DTLVCD_64861	inside	1	46				
+//
+# DTLVCD_136950 Length: 45
+# DTLVCD_136950 Number of predicted TMRs: 0
+DTLVCD_136950	inside	1	45				
+//
+# DTLVCD_170563 Length: 45
+# DTLVCD_170563 Number of predicted TMRs: 0
+DTLVCD_170563	inside	1	45				
+//
+# DTLVCD_110693 Length: 46
+# DTLVCD_110693 Number of predicted TMRs: 0
+DTLVCD_110693	signal	1	17				
+DTLVCD_110693	outside	18	46				
+//
+# DTLVCD_12165 Length: 50
+# DTLVCD_12165 Number of predicted TMRs: 0
+DTLVCD_12165	inside	1	50				
+//
+# DTLVCD_148164 Length: 48
+# DTLVCD_148164 Number of predicted TMRs: 0
+DTLVCD_148164	signal	1	26				
+DTLVCD_148164	outside	27	48				
+//
+# DTLVCD_9093 Length: 45
+# DTLVCD_9093 Number of predicted TMRs: 0
+DTLVCD_9093	signal	1	34				
+DTLVCD_9093	outside	35	45				
+//
+# DTLVCD_14028 Length: 27
+# DTLVCD_14028 Number of predicted TMRs: 0
+DTLVCD_14028	inside	1	27				
+//
+# DTLVCD_131510 Length: 42
+# DTLVCD_131510 Number of predicted TMRs: 0
+DTLVCD_131510	inside	1	42				
+//
+# DTLVCD_18667 Length: 46
+# DTLVCD_18667 Number of predicted TMRs: 0
+DTLVCD_18667	signal	1	35				
+DTLVCD_18667	outside	36	46				
+//
+# DTLVCD_83953 Length: 50
+# DTLVCD_83953 Number of predicted TMRs: 0
+DTLVCD_83953	inside	1	50				
+//
+# DTLVCD_51165 Length: 49
+# DTLVCD_51165 Number of predicted TMRs: 0
+DTLVCD_51165	inside	1	49				
+//
+# DTLVCD_10412 Length: 50
+# DTLVCD_10412 Number of predicted TMRs: 0
+DTLVCD_10412	inside	1	50				
+//
+# DTLVCD_29648 Length: 47
+# DTLVCD_29648 Number of predicted TMRs: 0
+DTLVCD_29648	inside	1	47				
+//
+# DTLVCD_18840 Length: 38
+# DTLVCD_18840 Number of predicted TMRs: 0
+DTLVCD_18840	signal	1	35				
+DTLVCD_18840	outside	36	38				
+//
+# DTLVCD_45738 Length: 47
+# DTLVCD_45738 Number of predicted TMRs: 0
+DTLVCD_45738	inside	1	47				
+//
+# DTLVCD_124135 Length: 49
+# DTLVCD_124135 Number of predicted TMRs: 0
+DTLVCD_124135	inside	1	49				
+//
+# DTLVCD_32108 Length: 49
+# DTLVCD_32108 Number of predicted TMRs: 0
+DTLVCD_32108	inside	1	49				
+//
+# DTLVCD_135934 Length: 49
+# DTLVCD_135934 Number of predicted TMRs: 0
+DTLVCD_135934	inside	1	49				
+//
+# DTLVCD_82667 Length: 45
+# DTLVCD_82667 Number of predicted TMRs: 0
+DTLVCD_82667	inside	1	45				
+//
+# DTLVCD_137219 Length: 46
+# DTLVCD_137219 Number of predicted TMRs: 0
+DTLVCD_137219	inside	1	46				
+//
+# DTLVCD_134567 Length: 43
+# DTLVCD_134567 Number of predicted TMRs: 0
+DTLVCD_134567	inside	1	43				
+//
+# DTLVCD_2312 Length: 50
+# DTLVCD_2312 Number of predicted TMRs: 0
+DTLVCD_2312	inside	1	50				
+//
+# DTLVCD_44994 Length: 49
+# DTLVCD_44994 Number of predicted TMRs: 0
+DTLVCD_44994	inside	1	49				
+//
+# DTLVCD_130866 Length: 43
+# DTLVCD_130866 Number of predicted TMRs: 0
+DTLVCD_130866	signal	1	22				
+DTLVCD_130866	outside	23	43				
+//
+# DTLVCD_66920 Length: 42
+# DTLVCD_66920 Number of predicted TMRs: 0
+DTLVCD_66920	inside	1	42				
+//
+# DTLVCD_4036 Length: 44
+# DTLVCD_4036 Number of predicted TMRs: 0
+DTLVCD_4036	inside	1	44				
+//
+# DTLVCD_52577 Length: 39
+# DTLVCD_52577 Number of predicted TMRs: 0
+DTLVCD_52577	inside	1	39				
+//
+# DTLVCD_26991 Length: 48
+# DTLVCD_26991 Number of predicted TMRs: 0
+DTLVCD_26991	inside	1	48				
+//
+# DTLVCD_5705 Length: 45
+# DTLVCD_5705 Number of predicted TMRs: 0
+DTLVCD_5705	inside	1	45				
+//
+# DTLVCD_41927 Length: 42
+# DTLVCD_41927 Number of predicted TMRs: 0
+DTLVCD_41927	signal	1	18				
+DTLVCD_41927	outside	19	42				
+//
+# DTLVCD_71147 Length: 39
+# DTLVCD_71147 Number of predicted TMRs: 0
+DTLVCD_71147	inside	1	39				
+//
+# DTLVCD_142691 Length: 39
+# DTLVCD_142691 Number of predicted TMRs: 0
+DTLVCD_142691	inside	1	39				
+//
+# DTLVCD_78645 Length: 31
+# DTLVCD_78645 Number of predicted TMRs: 0
+DTLVCD_78645	inside	1	31				
+//
+# DTLVCD_32710 Length: 49
+# DTLVCD_32710 Number of predicted TMRs: 0
+DTLVCD_32710	inside	1	49				
+//
+# DTLVCD_165552 Length: 32
+# DTLVCD_165552 Number of predicted TMRs: 0
+DTLVCD_165552	inside	1	32				
+//
+# DTLVCD_143235 Length: 50
+# DTLVCD_143235 Number of predicted TMRs: 0
+DTLVCD_143235	inside	1	50				
+//
+# DTLVCD_112129 Length: 42
+# DTLVCD_112129 Number of predicted TMRs: 0
+DTLVCD_112129	inside	1	42				
+//
+# DTLVCD_90360 Length: 50
+# DTLVCD_90360 Number of predicted TMRs: 0
+DTLVCD_90360	inside	1	50				
+//
+# DTLVCD_86602 Length: 41
+# DTLVCD_86602 Number of predicted TMRs: 0
+DTLVCD_86602	inside	1	41				
+//
+# DTLVCD_142492 Length: 35
+# DTLVCD_142492 Number of predicted TMRs: 0
+DTLVCD_142492	signal	1	31				
+DTLVCD_142492	outside	32	35				
+//
+# DTLVCD_121365 Length: 28
+# DTLVCD_121365 Number of predicted TMRs: 0
+DTLVCD_121365	signal	1	27				
+DTLVCD_121365	outside	28	28				
+//
+# DTLVCD_36371 Length: 36
+# DTLVCD_36371 Number of predicted TMRs: 0
+DTLVCD_36371	inside	1	36				
+//
+# DTLVCD_151997 Length: 44
+# DTLVCD_151997 Number of predicted TMRs: 0
+DTLVCD_151997	inside	1	44				
+//
+# DTLVCD_98408 Length: 50
+# DTLVCD_98408 Number of predicted TMRs: 0
+DTLVCD_98408	signal	1	35				
+DTLVCD_98408	outside	36	50				
+//
+# DTLVCD_136494 Length: 45
+# DTLVCD_136494 Number of predicted TMRs: 0
+DTLVCD_136494	signal	1	10				
+DTLVCD_136494	outside	11	45				
+//
+# DTLVCD_115596 Length: 35
+# DTLVCD_115596 Number of predicted TMRs: 0
+DTLVCD_115596	signal	1	34				
+DTLVCD_115596	outside	35	35				
+//
+# DTLVCD_33869 Length: 35
+# DTLVCD_33869 Number of predicted TMRs: 0
+DTLVCD_33869	inside	1	35				
+//
+# DTLVCD_162282 Length: 44
+# DTLVCD_162282 Number of predicted TMRs: 0
+DTLVCD_162282	inside	1	44				
+//
+# DTLVCD_79848 Length: 50
+# DTLVCD_79848 Number of predicted TMRs: 0
+DTLVCD_79848	signal	1	49				
+DTLVCD_79848	outside	50	50				
+//
+# DTLVCD_109470 Length: 43
+# DTLVCD_109470 Number of predicted TMRs: 0
+DTLVCD_109470	inside	1	43				
+//
+# DTLVCD_128058 Length: 50
+# DTLVCD_128058 Number of predicted TMRs: 0
+DTLVCD_128058	inside	1	50				
+//
+# DTLVCD_149632 Length: 40
+# DTLVCD_149632 Number of predicted TMRs: 0
+DTLVCD_149632	inside	1	40				
+//
+# DTLVCD_81684 Length: 40
+# DTLVCD_81684 Number of predicted TMRs: 0
+DTLVCD_81684	outside	1	40				
+//
+# DTLVCD_81474 Length: 41
+# DTLVCD_81474 Number of predicted TMRs: 0
+DTLVCD_81474	inside	1	41				
+//
+# DTLVCD_19555 Length: 49
+# DTLVCD_19555 Number of predicted TMRs: 0
+DTLVCD_19555	inside	1	49				
+//
+# DTLVCD_41158 Length: 49
+# DTLVCD_41158 Number of predicted TMRs: 0
+DTLVCD_41158	inside	1	49				
+//
+# DTLVCD_16544 Length: 39
+# DTLVCD_16544 Number of predicted TMRs: 0
+DTLVCD_16544	inside	1	39				
+//
+# DTLVCD_65621 Length: 41
+# DTLVCD_65621 Number of predicted TMRs: 0
+DTLVCD_65621	signal	1	20				
+DTLVCD_65621	outside	21	41				
+//
+# DTLVCD_126181 Length: 41
+# DTLVCD_126181 Number of predicted TMRs: 0
+DTLVCD_126181	signal	1	39				
+DTLVCD_126181	outside	40	41				
+//
+# DTLVCD_133716 Length: 47
+# DTLVCD_133716 Number of predicted TMRs: 0
+DTLVCD_133716	signal	1	46				
+DTLVCD_133716	outside	47	47				
+//
+# DTLVCD_39541 Length: 46
+# DTLVCD_39541 Number of predicted TMRs: 0
+DTLVCD_39541	signal	1	44				
+DTLVCD_39541	outside	45	46				
+//
+# DTLVCD_126657 Length: 39
+# DTLVCD_126657 Number of predicted TMRs: 0
+DTLVCD_126657	inside	1	39				
+//
+# DTLVCD_166058 Length: 47
+# DTLVCD_166058 Number of predicted TMRs: 0
+DTLVCD_166058	inside	1	47				
+//
+# DTLVCD_86835 Length: 47
+# DTLVCD_86835 Number of predicted TMRs: 0
+DTLVCD_86835	inside	1	47				
+//
+# DTLVCD_146592 Length: 47
+# DTLVCD_146592 Number of predicted TMRs: 0
+DTLVCD_146592	signal	1	35				
+DTLVCD_146592	outside	36	47				
+//
+# DTLVCD_25863 Length: 32
+# DTLVCD_25863 Number of predicted TMRs: 0
+DTLVCD_25863	inside	1	32				
+//
+# DTLVCD_144994 Length: 35
+# DTLVCD_144994 Number of predicted TMRs: 0
+DTLVCD_144994	signal	1	12				
+DTLVCD_144994	outside	13	35				
+//
+# DTLVCD_118157 Length: 43
+# DTLVCD_118157 Number of predicted TMRs: 0
+DTLVCD_118157	signal	1	35				
+DTLVCD_118157	outside	36	43				
+//
+# DTLVCD_49525 Length: 39
+# DTLVCD_49525 Number of predicted TMRs: 0
+DTLVCD_49525	inside	1	39				
+//
+# DTLVCD_114145 Length: 45
+# DTLVCD_114145 Number of predicted TMRs: 0
+DTLVCD_114145	signal	1	40				
+DTLVCD_114145	outside	41	45				
+//
+# DTLVCD_9395 Length: 47
+# DTLVCD_9395 Number of predicted TMRs: 0
+DTLVCD_9395	inside	1	47				
+//
+# DTLVCD_92266 Length: 49
+# DTLVCD_92266 Number of predicted TMRs: 0
+DTLVCD_92266	inside	1	49				
+//
+# DTLVCD_155070 Length: 29
+# DTLVCD_155070 Number of predicted TMRs: 0
+DTLVCD_155070	inside	1	29				
+//
+# DTLVCD_5718 Length: 46
+# DTLVCD_5718 Number of predicted TMRs: 0
+DTLVCD_5718	inside	1	46				
+//
+# DTLVCD_89888 Length: 36
+# DTLVCD_89888 Number of predicted TMRs: 0
+DTLVCD_89888	signal	1	34				
+DTLVCD_89888	outside	35	36				
+//
+# DTLVCD_22319 Length: 38
+# DTLVCD_22319 Number of predicted TMRs: 0
+DTLVCD_22319	signal	1	15				
+DTLVCD_22319	outside	16	38				
+//
+# DTLVCD_57353 Length: 48
+# DTLVCD_57353 Number of predicted TMRs: 0
+DTLVCD_57353	inside	1	48				
+//
+# DTLVCD_151161 Length: 43
+# DTLVCD_151161 Number of predicted TMRs: 0
+DTLVCD_151161	signal	1	42				
+DTLVCD_151161	outside	43	43				
+//
+# DTLVCD_111029 Length: 40
+# DTLVCD_111029 Number of predicted TMRs: 0
+DTLVCD_111029	signal	1	38				
+DTLVCD_111029	outside	39	40				
+//
+# DTLVCD_149399 Length: 50
+# DTLVCD_149399 Number of predicted TMRs: 0
+DTLVCD_149399	inside	1	50				
+//
+# DTLVCD_26352 Length: 49
+# DTLVCD_26352 Number of predicted TMRs: 0
+DTLVCD_26352	signal	1	12				
+DTLVCD_26352	outside	13	49				
+//
+# DTLVCD_9391 Length: 41
+# DTLVCD_9391 Number of predicted TMRs: 0
+DTLVCD_9391	signal	1	40				
+DTLVCD_9391	outside	41	41				
+//
+# DTLVCD_9386 Length: 50
+# DTLVCD_9386 Number of predicted TMRs: 0
+DTLVCD_9386	inside	1	50				
+//
+# DTLVCD_21899 Length: 34
+# DTLVCD_21899 Number of predicted TMRs: 0
+DTLVCD_21899	inside	1	34				
+//
+# DTLVCD_21001 Length: 43
+# DTLVCD_21001 Number of predicted TMRs: 0
+DTLVCD_21001	inside	1	43				
+//
+# DTLVCD_17660 Length: 49
+# DTLVCD_17660 Number of predicted TMRs: 0
+DTLVCD_17660	signal	1	23				
+DTLVCD_17660	outside	24	49				
+//
+# DTLVCD_136546 Length: 50
+# DTLVCD_136546 Number of predicted TMRs: 0
+DTLVCD_136546	inside	1	50				
+//
+# DTLVCD_165558 Length: 50
+# DTLVCD_165558 Number of predicted TMRs: 0
+DTLVCD_165558	signal	1	49				
+DTLVCD_165558	outside	50	50				
+//
+# DTLVCD_85736 Length: 50
+# DTLVCD_85736 Number of predicted TMRs: 0
+DTLVCD_85736	inside	1	50				
+//
+# DTLVCD_125120 Length: 43
+# DTLVCD_125120 Number of predicted TMRs: 0
+DTLVCD_125120	inside	1	43				
+//
+# DTLVCD_14918 Length: 47
+# DTLVCD_14918 Number of predicted TMRs: 0
+DTLVCD_14918	inside	1	47				
+//
+# DTLVCD_92972 Length: 46
+# DTLVCD_92972 Number of predicted TMRs: 0
+DTLVCD_92972	signal	1	44				
+DTLVCD_92972	outside	45	46				
+//
+# DTLVCD_143895 Length: 50
+# DTLVCD_143895 Number of predicted TMRs: 0
+DTLVCD_143895	inside	1	50				
+//
+# DTLVCD_118302 Length: 32
+# DTLVCD_118302 Number of predicted TMRs: 0
+DTLVCD_118302	signal	1	26				
+DTLVCD_118302	outside	27	32				
+//
+# DTLVCD_164714 Length: 48
+# DTLVCD_164714 Number of predicted TMRs: 0
+DTLVCD_164714	outside	1	48				
+//
+# DTLVCD_168390 Length: 50
+# DTLVCD_168390 Number of predicted TMRs: 0
+DTLVCD_168390	inside	1	50				
+//
+# DTLVCD_25109 Length: 46
+# DTLVCD_25109 Number of predicted TMRs: 0
+DTLVCD_25109	inside	1	46				
+//
+# DTLVCD_15513 Length: 47
+# DTLVCD_15513 Number of predicted TMRs: 0
+DTLVCD_15513	inside	1	47				
+//
+# DTLVCD_35137 Length: 50
+# DTLVCD_35137 Number of predicted TMRs: 0
+DTLVCD_35137	signal	1	42				
+DTLVCD_35137	outside	43	50				
+//
+# DTLVCD_133806 Length: 41
+# DTLVCD_133806 Number of predicted TMRs: 0
+DTLVCD_133806	inside	1	41				
+//
+# DTLVCD_148539 Length: 41
+# DTLVCD_148539 Number of predicted TMRs: 0
+DTLVCD_148539	inside	1	41				
+//
+# DTLVCD_5929 Length: 40
+# DTLVCD_5929 Number of predicted TMRs: 0
+DTLVCD_5929	inside	1	40				
+//
+# DTLVCD_147500 Length: 46
+# DTLVCD_147500 Number of predicted TMRs: 0
+DTLVCD_147500	inside	1	46				
+//
+# DTLVCD_25728 Length: 41
+# DTLVCD_25728 Number of predicted TMRs: 0
+DTLVCD_25728	signal	1	26				
+DTLVCD_25728	outside	27	41				
+//
+# DTLVCD_61407 Length: 46
+# DTLVCD_61407 Number of predicted TMRs: 0
+DTLVCD_61407	inside	1	46				
+//
+# DTLVCD_55993 Length: 43
+# DTLVCD_55993 Number of predicted TMRs: 0
+DTLVCD_55993	signal	1	14				
+DTLVCD_55993	outside	15	43				
+//
+# DTLVCD_104982 Length: 48
+# DTLVCD_104982 Number of predicted TMRs: 0
+DTLVCD_104982	signal	1	35				
+DTLVCD_104982	outside	36	48				
+//
+# DTLVCD_105905 Length: 41
+# DTLVCD_105905 Number of predicted TMRs: 0
+DTLVCD_105905	signal	1	25				
+DTLVCD_105905	outside	26	41				
+//
+# DTLVCD_77136 Length: 44
+# DTLVCD_77136 Number of predicted TMRs: 0
+DTLVCD_77136	inside	1	44				
+//
+# DTLVCD_43751 Length: 37
+# DTLVCD_43751 Number of predicted TMRs: 0
+DTLVCD_43751	signal	1	34				
+DTLVCD_43751	outside	35	37				
+//
+# DTLVCD_67919 Length: 45
+# DTLVCD_67919 Number of predicted TMRs: 0
+DTLVCD_67919	signal	1	10				
+DTLVCD_67919	outside	11	45				
+//
+# DTLVCD_28006 Length: 49
+# DTLVCD_28006 Number of predicted TMRs: 0
+DTLVCD_28006	inside	1	49				
+//
+# DTLVCD_122291 Length: 44
+# DTLVCD_122291 Number of predicted TMRs: 0
+DTLVCD_122291	signal	1	40				
+DTLVCD_122291	outside	41	44				
+//
+# DTLVCD_139538 Length: 40
+# DTLVCD_139538 Number of predicted TMRs: 0
+DTLVCD_139538	signal	1	39				
+DTLVCD_139538	outside	40	40				
+//
+# DTLVCD_30533 Length: 46
+# DTLVCD_30533 Number of predicted TMRs: 0
+DTLVCD_30533	signal	1	45				
+DTLVCD_30533	outside	46	46				
+//
+# DTLVCD_120228 Length: 49
+# DTLVCD_120228 Number of predicted TMRs: 0
+DTLVCD_120228	inside	1	49				
+//
+# DTLVCD_162393 Length: 44
+# DTLVCD_162393 Number of predicted TMRs: 0
+DTLVCD_162393	inside	1	44				
+//
+# DTLVCD_94643 Length: 40
+# DTLVCD_94643 Number of predicted TMRs: 0
+DTLVCD_94643	inside	1	40				
+//
+# DTLVCD_44054 Length: 46
+# DTLVCD_44054 Number of predicted TMRs: 0
+DTLVCD_44054	inside	1	46				
+//
+# DTLVCD_84147 Length: 40
+# DTLVCD_84147 Number of predicted TMRs: 0
+DTLVCD_84147	signal	1	17				
+DTLVCD_84147	outside	18	40				
+//
+# DTLVCD_111906 Length: 42
+# DTLVCD_111906 Number of predicted TMRs: 0
+DTLVCD_111906	inside	1	42				
+//
+# DTLVCD_115980 Length: 30
+# DTLVCD_115980 Number of predicted TMRs: 0
+DTLVCD_115980	signal	1	22				
+DTLVCD_115980	outside	23	30				
+//
+# DTLVCD_89964 Length: 50
+# DTLVCD_89964 Number of predicted TMRs: 0
+DTLVCD_89964	inside	1	50				
+//
+# DTLVCD_151131 Length: 47
+# DTLVCD_151131 Number of predicted TMRs: 0
+DTLVCD_151131	inside	1	47				
+//
+# DTLVCD_94271 Length: 46
+# DTLVCD_94271 Number of predicted TMRs: 0
+DTLVCD_94271	inside	1	46				
+//
+# DTLVCD_100068 Length: 48
+# DTLVCD_100068 Number of predicted TMRs: 0
+DTLVCD_100068	inside	1	48				
+//
+# DTLVCD_5606 Length: 44
+# DTLVCD_5606 Number of predicted TMRs: 0
+DTLVCD_5606	inside	1	44				
+//
+# DTLVCD_28854 Length: 42
+# DTLVCD_28854 Number of predicted TMRs: 0
+DTLVCD_28854	inside	1	42				
+//
+# DTLVCD_90891 Length: 48
+# DTLVCD_90891 Number of predicted TMRs: 0
+DTLVCD_90891	inside	1	48				
+//
+# DTLVCD_94237 Length: 44
+# DTLVCD_94237 Number of predicted TMRs: 0
+DTLVCD_94237	signal	1	42				
+DTLVCD_94237	outside	43	44				
+//
+# DTLVCD_151977 Length: 49
+# DTLVCD_151977 Number of predicted TMRs: 0
+DTLVCD_151977	inside	1	49				
+//
+# DTLVCD_134235 Length: 38
+# DTLVCD_134235 Number of predicted TMRs: 0
+DTLVCD_134235	inside	1	38				
+//
+# DTLVCD_127398 Length: 49
+# DTLVCD_127398 Number of predicted TMRs: 0
+DTLVCD_127398	outside	1	49				
+//
+# DTLVCD_130156 Length: 49
+# DTLVCD_130156 Number of predicted TMRs: 0
+DTLVCD_130156	outside	1	49				
+//
+# DTLVCD_68799 Length: 38
+# DTLVCD_68799 Number of predicted TMRs: 0
+DTLVCD_68799	signal	1	22				
+DTLVCD_68799	outside	23	38				
+//
+# DTLVCD_2711 Length: 42
+# DTLVCD_2711 Number of predicted TMRs: 0
+DTLVCD_2711	signal	1	22				
+DTLVCD_2711	outside	23	42				
+//
+# DTLVCD_48915 Length: 34
+# DTLVCD_48915 Number of predicted TMRs: 0
+DTLVCD_48915	inside	1	34				
+//
+# DTLVCD_47568 Length: 50
+# DTLVCD_47568 Number of predicted TMRs: 0
+DTLVCD_47568	inside	1	50				
+//
+# DTLVCD_147532 Length: 49
+# DTLVCD_147532 Number of predicted TMRs: 0
+DTLVCD_147532	inside	1	49				
+//
+# DTLVCD_161265 Length: 48
+# DTLVCD_161265 Number of predicted TMRs: 0
+DTLVCD_161265	inside	1	48				
+//
+# DTLVCD_169319 Length: 46
+# DTLVCD_169319 Number of predicted TMRs: 0
+DTLVCD_169319	inside	1	46				
+//
+# DTLVCD_139777 Length: 42
+# DTLVCD_139777 Number of predicted TMRs: 0
+DTLVCD_139777	inside	1	42				
+//
+# DTLVCD_68460 Length: 45
+# DTLVCD_68460 Number of predicted TMRs: 0
+DTLVCD_68460	signal	1	22				
+DTLVCD_68460	outside	23	45				
+//
+# DTLVCD_131565 Length: 47
+# DTLVCD_131565 Number of predicted TMRs: 0
+DTLVCD_131565	inside	1	47				
+//
+# DTLVCD_131058 Length: 47
+# DTLVCD_131058 Number of predicted TMRs: 0
+DTLVCD_131058	signal	1	14				
+DTLVCD_131058	outside	15	47				
+//
+# DTLVCD_2545 Length: 50
+# DTLVCD_2545 Number of predicted TMRs: 0
+DTLVCD_2545	inside	1	50				
+//
+# DTLVCD_127329 Length: 37
+# DTLVCD_127329 Number of predicted TMRs: 0
+DTLVCD_127329	signal	1	32				
+DTLVCD_127329	outside	33	37				
+//
+# DTLVCD_138337 Length: 50
+# DTLVCD_138337 Number of predicted TMRs: 0
+DTLVCD_138337	inside	1	50				
+//
+# DTLVCD_85760 Length: 36
+# DTLVCD_85760 Number of predicted TMRs: 0
+DTLVCD_85760	signal	1	14				
+DTLVCD_85760	outside	15	36				
+//
+# DTLVCD_93035 Length: 49
+# DTLVCD_93035 Number of predicted TMRs: 0
+DTLVCD_93035	inside	1	49				
+//
+# DTLVCD_105463 Length: 48
+# DTLVCD_105463 Number of predicted TMRs: 0
+DTLVCD_105463	inside	1	48				
+//
+# DTLVCD_135125 Length: 45
+# DTLVCD_135125 Number of predicted TMRs: 0
+DTLVCD_135125	signal	1	15				
+DTLVCD_135125	outside	16	45				
+//
+# DTLVCD_20793 Length: 46
+# DTLVCD_20793 Number of predicted TMRs: 0
+DTLVCD_20793	inside	1	46				
+//
+# DTLVCD_23706 Length: 35
+# DTLVCD_23706 Number of predicted TMRs: 0
+DTLVCD_23706	signal	1	10				
+DTLVCD_23706	outside	11	35				
+//
+# DTLVCD_25430 Length: 44
+# DTLVCD_25430 Number of predicted TMRs: 0
+DTLVCD_25430	inside	1	44				
+//
+# DTLVCD_60175 Length: 41
+# DTLVCD_60175 Number of predicted TMRs: 0
+DTLVCD_60175	signal	1	39				
+DTLVCD_60175	outside	40	41				
+//
+# DTLVCD_105128 Length: 46
+# DTLVCD_105128 Number of predicted TMRs: 0
+DTLVCD_105128	inside	1	46				
+//
+# DTLVCD_127578 Length: 32
+# DTLVCD_127578 Number of predicted TMRs: 0
+DTLVCD_127578	signal	1	29				
+DTLVCD_127578	outside	30	32				
+//
+# DTLVCD_167250 Length: 46
+# DTLVCD_167250 Number of predicted TMRs: 0
+DTLVCD_167250	inside	1	46				
+//
+# DTLVCD_131229 Length: 34
+# DTLVCD_131229 Number of predicted TMRs: 0
+DTLVCD_131229	signal	1	33				
+DTLVCD_131229	outside	34	34				
+//
+# DTLVCD_115969 Length: 47
+# DTLVCD_115969 Number of predicted TMRs: 0
+DTLVCD_115969	inside	1	47				
+//
+# DTLVCD_65179 Length: 49
+# DTLVCD_65179 Number of predicted TMRs: 0
+DTLVCD_65179	inside	1	49				
+//
+# DTLVCD_9366 Length: 43
+# DTLVCD_9366 Number of predicted TMRs: 0
+DTLVCD_9366	signal	1	42				
+DTLVCD_9366	outside	43	43				
+//
+# DTLVCD_6176 Length: 40
+# DTLVCD_6176 Number of predicted TMRs: 0
+DTLVCD_6176	inside	1	40				
+//
+# DTLVCD_56199 Length: 45
+# DTLVCD_56199 Number of predicted TMRs: 0
+DTLVCD_56199	signal	1	25				
+DTLVCD_56199	outside	26	45				
+//
+# DTLVCD_29579 Length: 39
+# DTLVCD_29579 Number of predicted TMRs: 0
+DTLVCD_29579	inside	1	39				
+//
+# DTLVCD_4543 Length: 49
+# DTLVCD_4543 Number of predicted TMRs: 0
+DTLVCD_4543	signal	1	33				
+DTLVCD_4543	outside	34	49				
+//
+# DTLVCD_44191 Length: 37
+# DTLVCD_44191 Number of predicted TMRs: 0
+DTLVCD_44191	signal	1	24				
+DTLVCD_44191	outside	25	37				
+//
+# DTLVCD_13944 Length: 49
+# DTLVCD_13944 Number of predicted TMRs: 0
+DTLVCD_13944	signal	1	47				
+DTLVCD_13944	outside	48	49				
+//
+# DTLVCD_95146 Length: 47
+# DTLVCD_95146 Number of predicted TMRs: 0
+DTLVCD_95146	inside	1	47				
+//
+# DTLVCD_33180 Length: 42
+# DTLVCD_33180 Number of predicted TMRs: 0
+DTLVCD_33180	signal	1	41				
+DTLVCD_33180	outside	42	42				
+//
+# DTLVCD_63330 Length: 41
+# DTLVCD_63330 Number of predicted TMRs: 0
+DTLVCD_63330	inside	1	41				
+//
+# DTLVCD_92668 Length: 42
+# DTLVCD_92668 Number of predicted TMRs: 0
+DTLVCD_92668	signal	1	27				
+DTLVCD_92668	outside	28	42				
+//
+# DTLVCD_134328 Length: 44
+# DTLVCD_134328 Number of predicted TMRs: 0
+DTLVCD_134328	inside	1	44				
+//
+# DTLVCD_104664 Length: 49
+# DTLVCD_104664 Number of predicted TMRs: 0
+DTLVCD_104664	inside	1	49				
+//
+# DTLVCD_167765 Length: 37
+# DTLVCD_167765 Number of predicted TMRs: 0
+DTLVCD_167765	signal	1	35				
+DTLVCD_167765	outside	36	37				
+//
+# DTLVCD_7408 Length: 49
+# DTLVCD_7408 Number of predicted TMRs: 0
+DTLVCD_7408	signal	1	10				
+DTLVCD_7408	outside	11	49				
+//
+# DTLVCD_98583 Length: 43
+# DTLVCD_98583 Number of predicted TMRs: 0
+DTLVCD_98583	inside	1	43				
+//
+# DTLVCD_55256 Length: 49
+# DTLVCD_55256 Number of predicted TMRs: 0
+DTLVCD_55256	inside	1	49				
+//
+# DTLVCD_56217 Length: 50
+# DTLVCD_56217 Number of predicted TMRs: 0
+DTLVCD_56217	inside	1	50				
+//
+# DTLVCD_144521 Length: 48
+# DTLVCD_144521 Number of predicted TMRs: 0
+DTLVCD_144521	outside	1	48				
+//
+# DTLVCD_81327 Length: 45
+# DTLVCD_81327 Number of predicted TMRs: 0
+DTLVCD_81327	inside	1	45				
+//
+# DTLVCD_98597 Length: 46
+# DTLVCD_98597 Number of predicted TMRs: 0
+DTLVCD_98597	inside	1	46				
+//
+# DTLVCD_96645 Length: 37
+# DTLVCD_96645 Number of predicted TMRs: 0
+DTLVCD_96645	signal	1	33				
+DTLVCD_96645	outside	34	37				
+//
+# DTLVCD_87498 Length: 48
+# DTLVCD_87498 Number of predicted TMRs: 0
+DTLVCD_87498	inside	1	48				
+//
+# DTLVCD_11889 Length: 46
+# DTLVCD_11889 Number of predicted TMRs: 0
+DTLVCD_11889	signal	1	41				
+DTLVCD_11889	outside	42	46				
+//
+# DTLVCD_151529 Length: 42
+# DTLVCD_151529 Number of predicted TMRs: 0
+DTLVCD_151529	signal	1	28				
+DTLVCD_151529	outside	29	42				
+//
+# DTLVCD_124699 Length: 47
+# DTLVCD_124699 Number of predicted TMRs: 0
+DTLVCD_124699	inside	1	47				
+//
+# DTLVCD_1103 Length: 42
+# DTLVCD_1103 Number of predicted TMRs: 0
+DTLVCD_1103	inside	1	42				
+//
+# DTLVCD_154089 Length: 47
+# DTLVCD_154089 Number of predicted TMRs: 0
+DTLVCD_154089	inside	1	47				
+//
+# DTLVCD_146650 Length: 47
+# DTLVCD_146650 Number of predicted TMRs: 0
+DTLVCD_146650	signal	1	46				
+DTLVCD_146650	outside	47	47				
+//
+# DTLVCD_96154 Length: 50
+# DTLVCD_96154 Number of predicted TMRs: 0
+DTLVCD_96154	signal	1	31				
+DTLVCD_96154	outside	32	50				
+//
+# DTLVCD_65441 Length: 37
+# DTLVCD_65441 Number of predicted TMRs: 0
+DTLVCD_65441	signal	1	21				
+DTLVCD_65441	outside	22	37				
+//
+# DTLVCD_45776 Length: 49
+# DTLVCD_45776 Number of predicted TMRs: 0
+DTLVCD_45776	inside	1	49				
+//
+# DTLVCD_82516 Length: 45
+# DTLVCD_82516 Number of predicted TMRs: 0
+DTLVCD_82516	inside	1	45				
+//
+# DTLVCD_78165 Length: 50
+# DTLVCD_78165 Number of predicted TMRs: 0
+DTLVCD_78165	signal	1	28				
+DTLVCD_78165	outside	29	50				
+//
+# DTLVCD_13359 Length: 47
+# DTLVCD_13359 Number of predicted TMRs: 0
+DTLVCD_13359	signal	1	13				
+DTLVCD_13359	outside	14	47				
+//
+# DTLVCD_67068 Length: 45
+# DTLVCD_67068 Number of predicted TMRs: 0
+DTLVCD_67068	inside	1	45				
+//
+# DTLVCD_4113 Length: 49
+# DTLVCD_4113 Number of predicted TMRs: 0
+DTLVCD_4113	inside	1	49				
+//
+# DTLVCD_139628 Length: 49
+# DTLVCD_139628 Number of predicted TMRs: 0
+DTLVCD_139628	signal	1	12				
+DTLVCD_139628	outside	13	49				
+//
+# DTLVCD_53049 Length: 45
+# DTLVCD_53049 Number of predicted TMRs: 0
+DTLVCD_53049	inside	1	45				
+//
+# DTLVCD_24475 Length: 45
+# DTLVCD_24475 Number of predicted TMRs: 0
+DTLVCD_24475	inside	1	45				
+//
+# DTLVCD_85878 Length: 48
+# DTLVCD_85878 Number of predicted TMRs: 0
+DTLVCD_85878	inside	1	48				
+//
+# DTLVCD_87546 Length: 44
+# DTLVCD_87546 Number of predicted TMRs: 0
+DTLVCD_87546	outside	1	44				
+//
+# DTLVCD_96459 Length: 49
+# DTLVCD_96459 Number of predicted TMRs: 0
+DTLVCD_96459	inside	1	49				
+//
+# DTLVCD_8845 Length: 49
+# DTLVCD_8845 Number of predicted TMRs: 0
+DTLVCD_8845	inside	1	49				
+//
+# DTLVCD_33914 Length: 39
+# DTLVCD_33914 Number of predicted TMRs: 0
+DTLVCD_33914	signal	1	12				
+DTLVCD_33914	outside	13	39				
+//
+# DTLVCD_142958 Length: 46
+# DTLVCD_142958 Number of predicted TMRs: 0
+DTLVCD_142958	inside	1	46				
+//
+# DTLVCD_31873 Length: 42
+# DTLVCD_31873 Number of predicted TMRs: 0
+DTLVCD_31873	inside	1	42				
+//
+# DTLVCD_164613 Length: 48
+# DTLVCD_164613 Number of predicted TMRs: 0
+DTLVCD_164613	inside	1	48				
+//
+# DTLVCD_95461 Length: 42
+# DTLVCD_95461 Number of predicted TMRs: 0
+DTLVCD_95461	inside	1	42				
+//
+# DTLVCD_105760 Length: 41
+# DTLVCD_105760 Number of predicted TMRs: 0
+DTLVCD_105760	signal	1	40				
+DTLVCD_105760	outside	41	41				
+//
+# DTLVCD_112357 Length: 50
+# DTLVCD_112357 Number of predicted TMRs: 0
+DTLVCD_112357	inside	1	50				
+//
+# DTLVCD_153055 Length: 41
+# DTLVCD_153055 Number of predicted TMRs: 0
+DTLVCD_153055	signal	1	40				
+DTLVCD_153055	outside	41	41				
+//
+# DTLVCD_165254 Length: 32
+# DTLVCD_165254 Number of predicted TMRs: 0
+DTLVCD_165254	signal	1	31				
+DTLVCD_165254	outside	32	32				
+//
+# DTLVCD_93229 Length: 32
+# DTLVCD_93229 Number of predicted TMRs: 0
+DTLVCD_93229	signal	1	31				
+DTLVCD_93229	outside	32	32				
+//
+# DTLVCD_98191 Length: 48
+# DTLVCD_98191 Number of predicted TMRs: 0
+DTLVCD_98191	inside	1	48				
+//
+# DTLVCD_34237 Length: 49
+# DTLVCD_34237 Number of predicted TMRs: 0
+DTLVCD_34237	signal	1	48				
+DTLVCD_34237	outside	49	49				
+//
+# DTLVCD_50745 Length: 40
+# DTLVCD_50745 Number of predicted TMRs: 0
+DTLVCD_50745	inside	1	40				
+//
+# DTLVCD_164161 Length: 47
+# DTLVCD_164161 Number of predicted TMRs: 0
+DTLVCD_164161	inside	1	47				
+//
+# DTLVCD_139498 Length: 44
+# DTLVCD_139498 Number of predicted TMRs: 0
+DTLVCD_139498	signal	1	43				
+DTLVCD_139498	outside	44	44				
+//
+# DTLVCD_2776 Length: 49
+# DTLVCD_2776 Number of predicted TMRs: 0
+DTLVCD_2776	inside	1	49				
+//
+# DTLVCD_84382 Length: 47
+# DTLVCD_84382 Number of predicted TMRs: 0
+DTLVCD_84382	inside	1	47				
+//
+# DTLVCD_85619 Length: 49
+# DTLVCD_85619 Number of predicted TMRs: 0
+DTLVCD_85619	inside	1	49				
+//
+# DTLVCD_24 Length: 44
+# DTLVCD_24 Number of predicted TMRs: 0
+DTLVCD_24	signal	1	35				
+DTLVCD_24	outside	36	44				
+//
+# DTLVCD_14236 Length: 46
+# DTLVCD_14236 Number of predicted TMRs: 0
+DTLVCD_14236	inside	1	46				
+//
+# DTLVCD_82045 Length: 50
+# DTLVCD_82045 Number of predicted TMRs: 0
+DTLVCD_82045	inside	1	50				
+//
+# DTLVCD_39433 Length: 41
+# DTLVCD_39433 Number of predicted TMRs: 0
+DTLVCD_39433	signal	1	13				
+DTLVCD_39433	outside	14	41				
+//
+# DTLVCD_22516 Length: 45
+# DTLVCD_22516 Number of predicted TMRs: 0
+DTLVCD_22516	signal	1	28				
+DTLVCD_22516	outside	29	45				
+//
+# DTLVCD_80209 Length: 49
+# DTLVCD_80209 Number of predicted TMRs: 0
+DTLVCD_80209	signal	1	32				
+DTLVCD_80209	outside	33	49				
+//
+# DTLVCD_158242 Length: 49
+# DTLVCD_158242 Number of predicted TMRs: 0
+DTLVCD_158242	signal	1	48				
+DTLVCD_158242	outside	49	49				
+//
+# DTLVCD_4331 Length: 35
+# DTLVCD_4331 Number of predicted TMRs: 0
+DTLVCD_4331	inside	1	35				
+//
+# DTLVCD_52132 Length: 29
+# DTLVCD_52132 Number of predicted TMRs: 0
+DTLVCD_52132	inside	1	29				
+//
+# DTLVCD_85147 Length: 50
+# DTLVCD_85147 Number of predicted TMRs: 0
+DTLVCD_85147	inside	1	50				
+//
+# DTLVCD_82416 Length: 44
+# DTLVCD_82416 Number of predicted TMRs: 0
+DTLVCD_82416	inside	1	44				
+//
+# DTLVCD_50404 Length: 47
+# DTLVCD_50404 Number of predicted TMRs: 0
+DTLVCD_50404	inside	1	47				
+//
+# DTLVCD_57158 Length: 50
+# DTLVCD_57158 Number of predicted TMRs: 0
+DTLVCD_57158	inside	1	50				
+//
+# DTLVCD_129673 Length: 44
+# DTLVCD_129673 Number of predicted TMRs: 0
+DTLVCD_129673	signal	1	30				
+DTLVCD_129673	outside	31	44				
+//
+# DTLVCD_144251 Length: 49
+# DTLVCD_144251 Number of predicted TMRs: 0
+DTLVCD_144251	inside	1	49				
+//
+# DTLVCD_148054 Length: 50
+# DTLVCD_148054 Number of predicted TMRs: 0
+DTLVCD_148054	signal	1	12				
+DTLVCD_148054	outside	13	50				
+//
+# DTLVCD_86290 Length: 48
+# DTLVCD_86290 Number of predicted TMRs: 0
+DTLVCD_86290	signal	1	12				
+DTLVCD_86290	outside	13	48				
+//
+# DTLVCD_10754 Length: 50
+# DTLVCD_10754 Number of predicted TMRs: 0
+DTLVCD_10754	inside	1	50				
+//
+# DTLVCD_69511 Length: 50
+# DTLVCD_69511 Number of predicted TMRs: 0
+DTLVCD_69511	inside	1	50				
+//
+# DTLVCD_109552 Length: 29
+# DTLVCD_109552 Number of predicted TMRs: 0
+DTLVCD_109552	signal	1	26				
+DTLVCD_109552	outside	27	29				
+//
+# DTLVCD_68663 Length: 48
+# DTLVCD_68663 Number of predicted TMRs: 0
+DTLVCD_68663	signal	1	35				
+DTLVCD_68663	outside	36	48				
+//
+# DTLVCD_19467 Length: 44
+# DTLVCD_19467 Number of predicted TMRs: 0
+DTLVCD_19467	signal	1	15				
+DTLVCD_19467	outside	16	44				
+//
+# DTLVCD_16292 Length: 49
+# DTLVCD_16292 Number of predicted TMRs: 0
+DTLVCD_16292	inside	1	49				
+//
+# DTLVCD_23950 Length: 49
+# DTLVCD_23950 Number of predicted TMRs: 0
+DTLVCD_23950	inside	1	49				
+//
+# DTLVCD_18940 Length: 40
+# DTLVCD_18940 Number of predicted TMRs: 0
+DTLVCD_18940	signal	1	39				
+DTLVCD_18940	outside	40	40				
+//
+# DTLVCD_144220 Length: 48
+# DTLVCD_144220 Number of predicted TMRs: 0
+DTLVCD_144220	inside	1	48				
+//
+# DTLVCD_83349 Length: 40
+# DTLVCD_83349 Number of predicted TMRs: 0
+DTLVCD_83349	inside	1	40				
+//
+# DTLVCD_13599 Length: 46
+# DTLVCD_13599 Number of predicted TMRs: 0
+DTLVCD_13599	inside	1	46				
+//
+# DTLVCD_31550 Length: 46
+# DTLVCD_31550 Number of predicted TMRs: 0
+DTLVCD_31550	inside	1	46				

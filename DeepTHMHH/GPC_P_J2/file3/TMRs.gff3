@@ -1,0 +1,2894 @@
+##gff-version 3
+# KOBLFH_51603 Length: 47
+# KOBLFH_51603 Number of predicted TMRs: 0
+KOBLFH_51603	inside	1	47				
+//
+# KOBLFH_52654 Length: 47
+# KOBLFH_52654 Number of predicted TMRs: 0
+KOBLFH_52654	inside	1	47				
+//
+# KOBLFH_52661 Length: 50
+# KOBLFH_52661 Number of predicted TMRs: 0
+KOBLFH_52661	inside	1	50				
+//
+# KOBLFH_111075 Length: 49
+# KOBLFH_111075 Number of predicted TMRs: 0
+KOBLFH_111075	inside	1	49				
+//
+# KOBLFH_121096 Length: 47
+# KOBLFH_121096 Number of predicted TMRs: 0
+KOBLFH_121096	inside	1	47				
+//
+# KOBLFH_50309 Length: 45
+# KOBLFH_50309 Number of predicted TMRs: 0
+KOBLFH_50309	inside	1	45				
+//
+# KOBLFH_17097 Length: 48
+# KOBLFH_17097 Number of predicted TMRs: 0
+KOBLFH_17097	inside	1	48				
+//
+# KOBLFH_14033 Length: 48
+# KOBLFH_14033 Number of predicted TMRs: 0
+KOBLFH_14033	inside	1	48				
+//
+# KOBLFH_131064 Length: 50
+# KOBLFH_131064 Number of predicted TMRs: 0
+KOBLFH_131064	inside	1	50				
+//
+# KOBLFH_49790 Length: 42
+# KOBLFH_49790 Number of predicted TMRs: 0
+KOBLFH_49790	inside	1	42				
+//
+# KOBLFH_45167 Length: 47
+# KOBLFH_45167 Number of predicted TMRs: 0
+KOBLFH_45167	inside	1	47				
+//
+# KOBLFH_141115 Length: 36
+# KOBLFH_141115 Number of predicted TMRs: 0
+KOBLFH_141115	inside	1	36				
+//
+# KOBLFH_11948 Length: 38
+# KOBLFH_11948 Number of predicted TMRs: 0
+KOBLFH_11948	signal	1	37				
+KOBLFH_11948	outside	38	38				
+//
+# KOBLFH_24265 Length: 48
+# KOBLFH_24265 Number of predicted TMRs: 0
+KOBLFH_24265	inside	1	48				
+//
+# KOBLFH_123898 Length: 43
+# KOBLFH_123898 Number of predicted TMRs: 0
+KOBLFH_123898	inside	1	43				
+//
+# KOBLFH_79209 Length: 50
+# KOBLFH_79209 Number of predicted TMRs: 0
+KOBLFH_79209	inside	1	50				
+//
+# KOBLFH_108530 Length: 42
+# KOBLFH_108530 Number of predicted TMRs: 0
+KOBLFH_108530	inside	1	42				
+//
+# KOBLFH_127938 Length: 37
+# KOBLFH_127938 Number of predicted TMRs: 0
+KOBLFH_127938	signal	1	28				
+KOBLFH_127938	outside	29	37				
+//
+# KOBLFH_33961 Length: 42
+# KOBLFH_33961 Number of predicted TMRs: 0
+KOBLFH_33961	signal	1	25				
+KOBLFH_33961	outside	26	42				
+//
+# KOBLFH_8194 Length: 50
+# KOBLFH_8194 Number of predicted TMRs: 0
+KOBLFH_8194	signal	1	28				
+KOBLFH_8194	outside	29	50				
+//
+# KOBLFH_39385 Length: 50
+# KOBLFH_39385 Number of predicted TMRs: 0
+KOBLFH_39385	signal	1	29				
+KOBLFH_39385	outside	30	50				
+//
+# KOBLFH_69111 Length: 42
+# KOBLFH_69111 Number of predicted TMRs: 0
+KOBLFH_69111	inside	1	42				
+//
+# KOBLFH_36052 Length: 38
+# KOBLFH_36052 Number of predicted TMRs: 0
+KOBLFH_36052	inside	1	38				
+//
+# KOBLFH_493 Length: 44
+# KOBLFH_493 Number of predicted TMRs: 0
+KOBLFH_493	inside	1	44				
+//
+# KOBLFH_138783 Length: 50
+# KOBLFH_138783 Number of predicted TMRs: 0
+KOBLFH_138783	signal	1	22				
+KOBLFH_138783	outside	23	50				
+//
+# KOBLFH_140486 Length: 50
+# KOBLFH_140486 Number of predicted TMRs: 0
+KOBLFH_140486	signal	1	47				
+KOBLFH_140486	outside	48	50				
+//
+# KOBLFH_46313 Length: 41
+# KOBLFH_46313 Number of predicted TMRs: 0
+KOBLFH_46313	inside	1	41				
+//
+# KOBLFH_40054 Length: 49
+# KOBLFH_40054 Number of predicted TMRs: 0
+KOBLFH_40054	inside	1	49				
+//
+# KOBLFH_35899 Length: 42
+# KOBLFH_35899 Number of predicted TMRs: 0
+KOBLFH_35899	inside	1	42				
+//
+# KOBLFH_126794 Length: 46
+# KOBLFH_126794 Number of predicted TMRs: 0
+KOBLFH_126794	inside	1	46				
+//
+# KOBLFH_133614 Length: 50
+# KOBLFH_133614 Number of predicted TMRs: 0
+KOBLFH_133614	inside	1	50				
+//
+# KOBLFH_108906 Length: 47
+# KOBLFH_108906 Number of predicted TMRs: 0
+KOBLFH_108906	inside	1	47				
+//
+# KOBLFH_60326 Length: 50
+# KOBLFH_60326 Number of predicted TMRs: 0
+KOBLFH_60326	signal	1	47				
+KOBLFH_60326	outside	48	50				
+//
+# KOBLFH_206 Length: 34
+# KOBLFH_206 Number of predicted TMRs: 0
+KOBLFH_206	outside	1	34				
+//
+# KOBLFH_91404 Length: 49
+# KOBLFH_91404 Number of predicted TMRs: 0
+KOBLFH_91404	signal	1	26				
+KOBLFH_91404	outside	27	49				
+//
+# KOBLFH_110581 Length: 50
+# KOBLFH_110581 Number of predicted TMRs: 0
+KOBLFH_110581	inside	1	50				
+//
+# KOBLFH_71246 Length: 47
+# KOBLFH_71246 Number of predicted TMRs: 0
+KOBLFH_71246	inside	1	47				
+//
+# KOBLFH_103701 Length: 41
+# KOBLFH_103701 Number of predicted TMRs: 0
+KOBLFH_103701	inside	1	41				
+//
+# KOBLFH_82255 Length: 47
+# KOBLFH_82255 Number of predicted TMRs: 0
+KOBLFH_82255	outside	1	47				
+//
+# KOBLFH_48830 Length: 46
+# KOBLFH_48830 Number of predicted TMRs: 0
+KOBLFH_48830	signal	1	11				
+KOBLFH_48830	outside	12	46				
+//
+# KOBLFH_133137 Length: 45
+# KOBLFH_133137 Number of predicted TMRs: 0
+KOBLFH_133137	inside	1	45				
+//
+# KOBLFH_86453 Length: 42
+# KOBLFH_86453 Number of predicted TMRs: 0
+KOBLFH_86453	outside	1	42				
+//
+# KOBLFH_87476 Length: 50
+# KOBLFH_87476 Number of predicted TMRs: 0
+KOBLFH_87476	signal	1	38				
+KOBLFH_87476	outside	39	50				
+//
+# KOBLFH_67055 Length: 44
+# KOBLFH_67055 Number of predicted TMRs: 0
+KOBLFH_67055	signal	1	21				
+KOBLFH_67055	outside	22	44				
+//
+# KOBLFH_169297 Length: 46
+# KOBLFH_169297 Number of predicted TMRs: 0
+KOBLFH_169297	inside	1	46				
+//
+# KOBLFH_68215 Length: 44
+# KOBLFH_68215 Number of predicted TMRs: 0
+KOBLFH_68215	inside	1	44				
+//
+# KOBLFH_129274 Length: 49
+# KOBLFH_129274 Number of predicted TMRs: 0
+KOBLFH_129274	inside	1	49				
+//
+# KOBLFH_169573 Length: 41
+# KOBLFH_169573 Number of predicted TMRs: 0
+KOBLFH_169573	inside	1	41				
+//
+# KOBLFH_115719 Length: 38
+# KOBLFH_115719 Number of predicted TMRs: 0
+KOBLFH_115719	signal	1	37				
+KOBLFH_115719	outside	38	38				
+//
+# KOBLFH_14500 Length: 48
+# KOBLFH_14500 Number of predicted TMRs: 0
+KOBLFH_14500	inside	1	48				
+//
+# KOBLFH_101500 Length: 50
+# KOBLFH_101500 Number of predicted TMRs: 0
+KOBLFH_101500	inside	1	50				
+//
+# KOBLFH_97438 Length: 47
+# KOBLFH_97438 Number of predicted TMRs: 0
+KOBLFH_97438	inside	1	47				
+//
+# KOBLFH_101362 Length: 47
+# KOBLFH_101362 Number of predicted TMRs: 0
+KOBLFH_101362	signal	1	14				
+KOBLFH_101362	outside	15	47				
+//
+# KOBLFH_54995 Length: 46
+# KOBLFH_54995 Number of predicted TMRs: 0
+KOBLFH_54995	inside	1	46				
+//
+# KOBLFH_55819 Length: 46
+# KOBLFH_55819 Number of predicted TMRs: 0
+KOBLFH_55819	inside	1	46				
+//
+# KOBLFH_8672 Length: 50
+# KOBLFH_8672 Number of predicted TMRs: 0
+KOBLFH_8672	inside	1	50				
+//
+# KOBLFH_47438 Length: 45
+# KOBLFH_47438 Number of predicted TMRs: 0
+KOBLFH_47438	signal	1	38				
+KOBLFH_47438	outside	39	45				
+//
+# KOBLFH_162560 Length: 48
+# KOBLFH_162560 Number of predicted TMRs: 0
+KOBLFH_162560	signal	1	25				
+KOBLFH_162560	outside	26	48				
+//
+# KOBLFH_100791 Length: 50
+# KOBLFH_100791 Number of predicted TMRs: 0
+KOBLFH_100791	inside	1	50				
+//
+# KOBLFH_100752 Length: 49
+# KOBLFH_100752 Number of predicted TMRs: 0
+KOBLFH_100752	inside	1	49				
+//
+# KOBLFH_120961 Length: 40
+# KOBLFH_120961 Number of predicted TMRs: 0
+KOBLFH_120961	inside	1	40				
+//
+# KOBLFH_13222 Length: 47
+# KOBLFH_13222 Number of predicted TMRs: 0
+KOBLFH_13222	inside	1	47				
+//
+# KOBLFH_78777 Length: 39
+# KOBLFH_78777 Number of predicted TMRs: 0
+KOBLFH_78777	inside	1	39				
+//
+# KOBLFH_91542 Length: 48
+# KOBLFH_91542 Number of predicted TMRs: 0
+KOBLFH_91542	inside	1	48				
+//
+# KOBLFH_100000 Length: 40
+# KOBLFH_100000 Number of predicted TMRs: 0
+KOBLFH_100000	signal	1	28				
+KOBLFH_100000	outside	29	40				
+//
+# KOBLFH_16096 Length: 43
+# KOBLFH_16096 Number of predicted TMRs: 0
+KOBLFH_16096	inside	1	43				
+//
+# KOBLFH_27340 Length: 50
+# KOBLFH_27340 Number of predicted TMRs: 0
+KOBLFH_27340	outside	1	50				
+//
+# KOBLFH_20682 Length: 48
+# KOBLFH_20682 Number of predicted TMRs: 0
+KOBLFH_20682	inside	1	48				
+//
+# KOBLFH_148545 Length: 50
+# KOBLFH_148545 Number of predicted TMRs: 0
+KOBLFH_148545	inside	1	50				
+//
+# KOBLFH_74713 Length: 47
+# KOBLFH_74713 Number of predicted TMRs: 0
+KOBLFH_74713	signal	1	12				
+KOBLFH_74713	outside	13	47				
+//
+# KOBLFH_171314 Length: 44
+# KOBLFH_171314 Number of predicted TMRs: 0
+KOBLFH_171314	inside	1	44				
+//
+# KOBLFH_61636 Length: 50
+# KOBLFH_61636 Number of predicted TMRs: 0
+KOBLFH_61636	signal	1	49				
+KOBLFH_61636	outside	50	50				
+//
+# KOBLFH_143410 Length: 40
+# KOBLFH_143410 Number of predicted TMRs: 0
+KOBLFH_143410	signal	1	33				
+KOBLFH_143410	outside	34	40				
+//
+# KOBLFH_59664 Length: 40
+# KOBLFH_59664 Number of predicted TMRs: 0
+KOBLFH_59664	signal	1	22				
+KOBLFH_59664	outside	23	40				
+//
+# KOBLFH_54832 Length: 40
+# KOBLFH_54832 Number of predicted TMRs: 0
+KOBLFH_54832	signal	1	11				
+KOBLFH_54832	outside	12	40				
+//
+# KOBLFH_149546 Length: 36
+# KOBLFH_149546 Number of predicted TMRs: 0
+KOBLFH_149546	signal	1	32				
+KOBLFH_149546	outside	33	36				
+//
+# KOBLFH_50090 Length: 45
+# KOBLFH_50090 Number of predicted TMRs: 0
+KOBLFH_50090	inside	1	45				
+//
+# KOBLFH_91078 Length: 48
+# KOBLFH_91078 Number of predicted TMRs: 0
+KOBLFH_91078	signal	1	44				
+KOBLFH_91078	outside	45	48				
+//
+# KOBLFH_19429 Length: 41
+# KOBLFH_19429 Number of predicted TMRs: 0
+KOBLFH_19429	inside	1	41				
+//
+# KOBLFH_3317 Length: 49
+# KOBLFH_3317 Number of predicted TMRs: 0
+KOBLFH_3317	inside	1	49				
+//
+# KOBLFH_16336 Length: 48
+# KOBLFH_16336 Number of predicted TMRs: 0
+KOBLFH_16336	inside	1	48				
+//
+# KOBLFH_29174 Length: 50
+# KOBLFH_29174 Number of predicted TMRs: 0
+KOBLFH_29174	inside	1	50				
+//
+# KOBLFH_41579 Length: 47
+# KOBLFH_41579 Number of predicted TMRs: 0
+KOBLFH_41579	inside	1	47				
+//
+# KOBLFH_130500 Length: 42
+# KOBLFH_130500 Number of predicted TMRs: 0
+KOBLFH_130500	inside	1	42				
+//
+# KOBLFH_32283 Length: 44
+# KOBLFH_32283 Number of predicted TMRs: 0
+KOBLFH_32283	inside	1	44				
+//
+# KOBLFH_57866 Length: 38
+# KOBLFH_57866 Number of predicted TMRs: 0
+KOBLFH_57866	inside	1	38				
+//
+# KOBLFH_151906 Length: 46
+# KOBLFH_151906 Number of predicted TMRs: 0
+KOBLFH_151906	inside	1	46				
+//
+# KOBLFH_111393 Length: 45
+# KOBLFH_111393 Number of predicted TMRs: 0
+KOBLFH_111393	signal	1	44				
+KOBLFH_111393	outside	45	45				
+//
+# KOBLFH_15260 Length: 45
+# KOBLFH_15260 Number of predicted TMRs: 0
+KOBLFH_15260	signal	1	37				
+KOBLFH_15260	outside	38	45				
+//
+# KOBLFH_113673 Length: 50
+# KOBLFH_113673 Number of predicted TMRs: 0
+KOBLFH_113673	signal	1	49				
+KOBLFH_113673	outside	50	50				
+//
+# KOBLFH_47976 Length: 49
+# KOBLFH_47976 Number of predicted TMRs: 0
+KOBLFH_47976	inside	1	49				
+//
+# KOBLFH_89647 Length: 47
+# KOBLFH_89647 Number of predicted TMRs: 0
+KOBLFH_89647	signal	1	35				
+KOBLFH_89647	outside	36	47				
+//
+# KOBLFH_128385 Length: 49
+# KOBLFH_128385 Number of predicted TMRs: 0
+KOBLFH_128385	signal	1	32				
+KOBLFH_128385	outside	33	49				
+//
+# KOBLFH_95024 Length: 47
+# KOBLFH_95024 Number of predicted TMRs: 0
+KOBLFH_95024	inside	1	47				
+//
+# KOBLFH_9197 Length: 50
+# KOBLFH_9197 Number of predicted TMRs: 0
+KOBLFH_9197	signal	1	49				
+KOBLFH_9197	outside	50	50				
+//
+# KOBLFH_169766 Length: 47
+# KOBLFH_169766 Number of predicted TMRs: 0
+KOBLFH_169766	signal	1	44				
+KOBLFH_169766	outside	45	47				
+//
+# KOBLFH_110399 Length: 43
+# KOBLFH_110399 Number of predicted TMRs: 0
+KOBLFH_110399	signal	1	42				
+KOBLFH_110399	outside	43	43				
+//
+# KOBLFH_6500 Length: 42
+# KOBLFH_6500 Number of predicted TMRs: 0
+KOBLFH_6500	inside	1	42				
+//
+# KOBLFH_122522 Length: 45
+# KOBLFH_122522 Number of predicted TMRs: 0
+KOBLFH_122522	inside	1	45				
+//
+# KOBLFH_121465 Length: 45
+# KOBLFH_121465 Number of predicted TMRs: 0
+KOBLFH_121465	signal	1	39				
+KOBLFH_121465	outside	40	45				
+//
+# KOBLFH_2002 Length: 49
+# KOBLFH_2002 Number of predicted TMRs: 0
+KOBLFH_2002	inside	1	49				
+//
+# KOBLFH_44602 Length: 48
+# KOBLFH_44602 Number of predicted TMRs: 0
+KOBLFH_44602	inside	1	48				
+//
+# KOBLFH_111233 Length: 42
+# KOBLFH_111233 Number of predicted TMRs: 0
+KOBLFH_111233	inside	1	42				
+//
+# KOBLFH_164314 Length: 38
+# KOBLFH_164314 Number of predicted TMRs: 0
+KOBLFH_164314	signal	1	33				
+KOBLFH_164314	outside	34	38				
+//
+# KOBLFH_14761 Length: 45
+# KOBLFH_14761 Number of predicted TMRs: 0
+KOBLFH_14761	inside	1	45				
+//
+# KOBLFH_106097 Length: 46
+# KOBLFH_106097 Number of predicted TMRs: 0
+KOBLFH_106097	inside	1	46				
+//
+# KOBLFH_128858 Length: 47
+# KOBLFH_128858 Number of predicted TMRs: 0
+KOBLFH_128858	inside	1	47				
+//
+# KOBLFH_37723 Length: 46
+# KOBLFH_37723 Number of predicted TMRs: 0
+KOBLFH_37723	inside	1	46				
+//
+# KOBLFH_71417 Length: 38
+# KOBLFH_71417 Number of predicted TMRs: 0
+KOBLFH_71417	signal	1	37				
+KOBLFH_71417	outside	38	38				
+//
+# KOBLFH_41968 Length: 41
+# KOBLFH_41968 Number of predicted TMRs: 0
+KOBLFH_41968	signal	1	12				
+KOBLFH_41968	outside	13	41				
+//
+# KOBLFH_111944 Length: 38
+# KOBLFH_111944 Number of predicted TMRs: 0
+KOBLFH_111944	signal	1	37				
+KOBLFH_111944	outside	38	38				
+//
+# KOBLFH_12968 Length: 46
+# KOBLFH_12968 Number of predicted TMRs: 0
+KOBLFH_12968	signal	1	43				
+KOBLFH_12968	outside	44	46				
+//
+# KOBLFH_115407 Length: 45
+# KOBLFH_115407 Number of predicted TMRs: 0
+KOBLFH_115407	signal	1	38				
+KOBLFH_115407	outside	39	45				
+//
+# KOBLFH_63638 Length: 50
+# KOBLFH_63638 Number of predicted TMRs: 0
+KOBLFH_63638	inside	1	50				
+//
+# KOBLFH_72516 Length: 49
+# KOBLFH_72516 Number of predicted TMRs: 0
+KOBLFH_72516	inside	1	49				
+//
+# KOBLFH_79593 Length: 46
+# KOBLFH_79593 Number of predicted TMRs: 0
+KOBLFH_79593	inside	1	46				
+//
+# KOBLFH_115143 Length: 49
+# KOBLFH_115143 Number of predicted TMRs: 0
+KOBLFH_115143	signal	1	10				
+KOBLFH_115143	outside	11	49				
+//
+# KOBLFH_124452 Length: 45
+# KOBLFH_124452 Number of predicted TMRs: 0
+KOBLFH_124452	signal	1	35				
+KOBLFH_124452	outside	36	45				
+//
+# KOBLFH_108015 Length: 49
+# KOBLFH_108015 Number of predicted TMRs: 0
+KOBLFH_108015	inside	1	49				
+//
+# KOBLFH_75039 Length: 47
+# KOBLFH_75039 Number of predicted TMRs: 0
+KOBLFH_75039	inside	1	47				
+//
+# KOBLFH_95919 Length: 49
+# KOBLFH_95919 Number of predicted TMRs: 0
+KOBLFH_95919	inside	1	49				
+//
+# KOBLFH_107691 Length: 49
+# KOBLFH_107691 Number of predicted TMRs: 0
+KOBLFH_107691	signal	1	11				
+KOBLFH_107691	outside	12	49				
+//
+# KOBLFH_141405 Length: 49
+# KOBLFH_141405 Number of predicted TMRs: 0
+KOBLFH_141405	inside	1	49				
+//
+# KOBLFH_85808 Length: 23
+# KOBLFH_85808 Number of predicted TMRs: 0
+KOBLFH_85808	inside	1	23				
+//
+# KOBLFH_8592 Length: 39
+# KOBLFH_8592 Number of predicted TMRs: 0
+KOBLFH_8592	signal	1	38				
+KOBLFH_8592	outside	39	39				
+//
+# KOBLFH_170409 Length: 35
+# KOBLFH_170409 Number of predicted TMRs: 0
+KOBLFH_170409	signal	1	32				
+KOBLFH_170409	outside	33	35				
+//
+# KOBLFH_43614 Length: 43
+# KOBLFH_43614 Number of predicted TMRs: 0
+KOBLFH_43614	signal	1	42				
+KOBLFH_43614	outside	43	43				
+//
+# KOBLFH_121138 Length: 50
+# KOBLFH_121138 Number of predicted TMRs: 0
+KOBLFH_121138	signal	1	15				
+KOBLFH_121138	outside	16	50				
+//
+# KOBLFH_113832 Length: 43
+# KOBLFH_113832 Number of predicted TMRs: 0
+KOBLFH_113832	inside	1	43				
+//
+# KOBLFH_64733 Length: 48
+# KOBLFH_64733 Number of predicted TMRs: 0
+KOBLFH_64733	inside	1	48				
+//
+# KOBLFH_48822 Length: 40
+# KOBLFH_48822 Number of predicted TMRs: 0
+KOBLFH_48822	signal	1	24				
+KOBLFH_48822	outside	25	40				
+//
+# KOBLFH_16227 Length: 42
+# KOBLFH_16227 Number of predicted TMRs: 0
+KOBLFH_16227	signal	1	29				
+KOBLFH_16227	outside	30	42				
+//
+# KOBLFH_4620 Length: 45
+# KOBLFH_4620 Number of predicted TMRs: 0
+KOBLFH_4620	inside	1	45				
+//
+# KOBLFH_64835 Length: 42
+# KOBLFH_64835 Number of predicted TMRs: 0
+KOBLFH_64835	inside	1	42				
+//
+# KOBLFH_7405 Length: 45
+# KOBLFH_7405 Number of predicted TMRs: 0
+KOBLFH_7405	inside	1	45				
+//
+# KOBLFH_119786 Length: 41
+# KOBLFH_119786 Number of predicted TMRs: 0
+KOBLFH_119786	signal	1	21				
+KOBLFH_119786	outside	22	41				
+//
+# KOBLFH_107698 Length: 47
+# KOBLFH_107698 Number of predicted TMRs: 0
+KOBLFH_107698	inside	1	47				
+//
+# KOBLFH_106658 Length: 42
+# KOBLFH_106658 Number of predicted TMRs: 0
+KOBLFH_106658	inside	1	42				
+//
+# KOBLFH_91928 Length: 50
+# KOBLFH_91928 Number of predicted TMRs: 0
+KOBLFH_91928	inside	1	50				
+//
+# KOBLFH_70040 Length: 47
+# KOBLFH_70040 Number of predicted TMRs: 0
+KOBLFH_70040	inside	1	47				
+//
+# KOBLFH_29030 Length: 46
+# KOBLFH_29030 Number of predicted TMRs: 0
+KOBLFH_29030	signal	1	45				
+KOBLFH_29030	outside	46	46				
+//
+# KOBLFH_169382 Length: 50
+# KOBLFH_169382 Number of predicted TMRs: 0
+KOBLFH_169382	inside	1	50				
+//
+# KOBLFH_13790 Length: 35
+# KOBLFH_13790 Number of predicted TMRs: 0
+KOBLFH_13790	inside	1	35				
+//
+# KOBLFH_21579 Length: 41
+# KOBLFH_21579 Number of predicted TMRs: 1
+KOBLFH_21579	signal	1	19				
+KOBLFH_21579	outside	20	20				
+KOBLFH_21579	TMhelix	21	40				
+KOBLFH_21579	inside	41	41				
+//
+# KOBLFH_96224 Length: 49
+# KOBLFH_96224 Number of predicted TMRs: 0
+KOBLFH_96224	inside	1	49				
+//
+# KOBLFH_9664 Length: 50
+# KOBLFH_9664 Number of predicted TMRs: 0
+KOBLFH_9664	inside	1	50				
+//
+# KOBLFH_167662 Length: 44
+# KOBLFH_167662 Number of predicted TMRs: 0
+KOBLFH_167662	signal	1	12				
+KOBLFH_167662	outside	13	44				
+//
+# KOBLFH_25888 Length: 45
+# KOBLFH_25888 Number of predicted TMRs: 1
+KOBLFH_25888	inside	1	24				
+KOBLFH_25888	TMhelix	25	43				
+KOBLFH_25888	outside	44	45				
+//
+# KOBLFH_125207 Length: 45
+# KOBLFH_125207 Number of predicted TMRs: 0
+KOBLFH_125207	inside	1	45				
+//
+# KOBLFH_17389 Length: 50
+# KOBLFH_17389 Number of predicted TMRs: 0
+KOBLFH_17389	signal	1	47				
+KOBLFH_17389	outside	48	50				
+//
+# KOBLFH_102577 Length: 49
+# KOBLFH_102577 Number of predicted TMRs: 0
+KOBLFH_102577	signal	1	44				
+KOBLFH_102577	outside	45	49				
+//
+# KOBLFH_95283 Length: 37
+# KOBLFH_95283 Number of predicted TMRs: 0
+KOBLFH_95283	signal	1	10				
+KOBLFH_95283	outside	11	37				
+//
+# KOBLFH_42841 Length: 42
+# KOBLFH_42841 Number of predicted TMRs: 0
+KOBLFH_42841	inside	1	42				
+//
+# KOBLFH_113510 Length: 45
+# KOBLFH_113510 Number of predicted TMRs: 0
+KOBLFH_113510	signal	1	15				
+KOBLFH_113510	outside	16	45				
+//
+# KOBLFH_43136 Length: 50
+# KOBLFH_43136 Number of predicted TMRs: 0
+KOBLFH_43136	inside	1	50				
+//
+# KOBLFH_146871 Length: 43
+# KOBLFH_146871 Number of predicted TMRs: 0
+KOBLFH_146871	signal	1	35				
+KOBLFH_146871	outside	36	43				
+//
+# KOBLFH_137875 Length: 45
+# KOBLFH_137875 Number of predicted TMRs: 0
+KOBLFH_137875	inside	1	45				
+//
+# KOBLFH_33601 Length: 48
+# KOBLFH_33601 Number of predicted TMRs: 0
+KOBLFH_33601	inside	1	48				
+//
+# KOBLFH_8942 Length: 49
+# KOBLFH_8942 Number of predicted TMRs: 0
+KOBLFH_8942	inside	1	49				
+//
+# KOBLFH_145039 Length: 45
+# KOBLFH_145039 Number of predicted TMRs: 0
+KOBLFH_145039	signal	1	18				
+KOBLFH_145039	outside	19	45				
+//
+# KOBLFH_84702 Length: 44
+# KOBLFH_84702 Number of predicted TMRs: 0
+KOBLFH_84702	inside	1	44				
+//
+# KOBLFH_157570 Length: 49
+# KOBLFH_157570 Number of predicted TMRs: 0
+KOBLFH_157570	outside	1	49				
+//
+# KOBLFH_17604 Length: 50
+# KOBLFH_17604 Number of predicted TMRs: 0
+KOBLFH_17604	inside	1	50				
+//
+# KOBLFH_56539 Length: 36
+# KOBLFH_56539 Number of predicted TMRs: 0
+KOBLFH_56539	inside	1	36				
+//
+# KOBLFH_149253 Length: 47
+# KOBLFH_149253 Number of predicted TMRs: 0
+KOBLFH_149253	inside	1	47				
+//
+# KOBLFH_108004 Length: 47
+# KOBLFH_108004 Number of predicted TMRs: 0
+KOBLFH_108004	inside	1	47				
+//
+# KOBLFH_163778 Length: 47
+# KOBLFH_163778 Number of predicted TMRs: 0
+KOBLFH_163778	signal	1	42				
+KOBLFH_163778	outside	43	47				
+//
+# KOBLFH_63327 Length: 40
+# KOBLFH_63327 Number of predicted TMRs: 0
+KOBLFH_63327	signal	1	36				
+KOBLFH_63327	outside	37	40				
+//
+# KOBLFH_166066 Length: 46
+# KOBLFH_166066 Number of predicted TMRs: 0
+KOBLFH_166066	inside	1	46				
+//
+# KOBLFH_14766 Length: 35
+# KOBLFH_14766 Number of predicted TMRs: 0
+KOBLFH_14766	inside	1	35				
+//
+# KOBLFH_11275 Length: 49
+# KOBLFH_11275 Number of predicted TMRs: 0
+KOBLFH_11275	signal	1	22				
+KOBLFH_11275	outside	23	49				
+//
+# KOBLFH_128379 Length: 44
+# KOBLFH_128379 Number of predicted TMRs: 0
+KOBLFH_128379	inside	1	44				
+//
+# KOBLFH_61638 Length: 46
+# KOBLFH_61638 Number of predicted TMRs: 0
+KOBLFH_61638	signal	1	43				
+KOBLFH_61638	outside	44	46				
+//
+# KOBLFH_67273 Length: 43
+# KOBLFH_67273 Number of predicted TMRs: 0
+KOBLFH_67273	inside	1	43				
+//
+# KOBLFH_81415 Length: 37
+# KOBLFH_81415 Number of predicted TMRs: 0
+KOBLFH_81415	inside	1	37				
+//
+# KOBLFH_42952 Length: 42
+# KOBLFH_42952 Number of predicted TMRs: 0
+KOBLFH_42952	inside	1	42				
+//
+# KOBLFH_171871 Length: 47
+# KOBLFH_171871 Number of predicted TMRs: 0
+KOBLFH_171871	inside	1	47				
+//
+# KOBLFH_282 Length: 50
+# KOBLFH_282 Number of predicted TMRs: 0
+KOBLFH_282	inside	1	50				
+//
+# KOBLFH_53722 Length: 50
+# KOBLFH_53722 Number of predicted TMRs: 0
+KOBLFH_53722	inside	1	50				
+//
+# KOBLFH_122576 Length: 38
+# KOBLFH_122576 Number of predicted TMRs: 0
+KOBLFH_122576	inside	1	38				
+//
+# KOBLFH_149506 Length: 48
+# KOBLFH_149506 Number of predicted TMRs: 0
+KOBLFH_149506	inside	1	48				
+//
+# KOBLFH_8505 Length: 38
+# KOBLFH_8505 Number of predicted TMRs: 0
+KOBLFH_8505	inside	1	38				
+//
+# KOBLFH_7036 Length: 50
+# KOBLFH_7036 Number of predicted TMRs: 0
+KOBLFH_7036	inside	1	50				
+//
+# KOBLFH_61043 Length: 43
+# KOBLFH_61043 Number of predicted TMRs: 0
+KOBLFH_61043	inside	1	43				
+//
+# KOBLFH_149051 Length: 49
+# KOBLFH_149051 Number of predicted TMRs: 0
+KOBLFH_149051	inside	1	49				
+//
+# KOBLFH_23782 Length: 47
+# KOBLFH_23782 Number of predicted TMRs: 0
+KOBLFH_23782	inside	1	47				
+//
+# KOBLFH_39718 Length: 49
+# KOBLFH_39718 Number of predicted TMRs: 0
+KOBLFH_39718	inside	1	49				
+//
+# KOBLFH_17293 Length: 29
+# KOBLFH_17293 Number of predicted TMRs: 0
+KOBLFH_17293	inside	1	29				
+//
+# KOBLFH_88413 Length: 40
+# KOBLFH_88413 Number of predicted TMRs: 0
+KOBLFH_88413	signal	1	38				
+KOBLFH_88413	outside	39	40				
+//
+# KOBLFH_171044 Length: 31
+# KOBLFH_171044 Number of predicted TMRs: 0
+KOBLFH_171044	signal	1	30				
+KOBLFH_171044	outside	31	31				
+//
+# KOBLFH_50093 Length: 39
+# KOBLFH_50093 Number of predicted TMRs: 0
+KOBLFH_50093	inside	1	39				
+//
+# KOBLFH_50086 Length: 40
+# KOBLFH_50086 Number of predicted TMRs: 0
+KOBLFH_50086	inside	1	40				
+//
+# KOBLFH_73700 Length: 43
+# KOBLFH_73700 Number of predicted TMRs: 0
+KOBLFH_73700	inside	1	43				
+//
+# KOBLFH_12840 Length: 46
+# KOBLFH_12840 Number of predicted TMRs: 0
+KOBLFH_12840	signal	1	34				
+KOBLFH_12840	outside	35	46				
+//
+# KOBLFH_82037 Length: 50
+# KOBLFH_82037 Number of predicted TMRs: 0
+KOBLFH_82037	inside	1	50				
+//
+# KOBLFH_33785 Length: 35
+# KOBLFH_33785 Number of predicted TMRs: 0
+KOBLFH_33785	signal	1	33				
+KOBLFH_33785	outside	34	35				
+//
+# KOBLFH_8689 Length: 46
+# KOBLFH_8689 Number of predicted TMRs: 0
+KOBLFH_8689	inside	1	46				
+//
+# KOBLFH_5602 Length: 47
+# KOBLFH_5602 Number of predicted TMRs: 0
+KOBLFH_5602	inside	1	47				
+//
+# KOBLFH_26829 Length: 49
+# KOBLFH_26829 Number of predicted TMRs: 0
+KOBLFH_26829	signal	1	48				
+KOBLFH_26829	outside	49	49				
+//
+# KOBLFH_7223 Length: 50
+# KOBLFH_7223 Number of predicted TMRs: 0
+KOBLFH_7223	inside	1	50				
+//
+# KOBLFH_169241 Length: 44
+# KOBLFH_169241 Number of predicted TMRs: 0
+KOBLFH_169241	inside	1	44				
+//
+# KOBLFH_143281 Length: 49
+# KOBLFH_143281 Number of predicted TMRs: 0
+KOBLFH_143281	signal	1	21				
+KOBLFH_143281	outside	22	49				
+//
+# KOBLFH_169408 Length: 47
+# KOBLFH_169408 Number of predicted TMRs: 0
+KOBLFH_169408	inside	1	47				
+//
+# KOBLFH_45461 Length: 34
+# KOBLFH_45461 Number of predicted TMRs: 0
+KOBLFH_45461	inside	1	34				
+//
+# KOBLFH_75516 Length: 34
+# KOBLFH_75516 Number of predicted TMRs: 0
+KOBLFH_75516	signal	1	24				
+KOBLFH_75516	outside	25	34				
+//
+# KOBLFH_17393 Length: 47
+# KOBLFH_17393 Number of predicted TMRs: 0
+KOBLFH_17393	inside	1	47				
+//
+# KOBLFH_83259 Length: 50
+# KOBLFH_83259 Number of predicted TMRs: 0
+KOBLFH_83259	inside	1	50				
+//
+# KOBLFH_50569 Length: 40
+# KOBLFH_50569 Number of predicted TMRs: 0
+KOBLFH_50569	inside	1	40				
+//
+# KOBLFH_109281 Length: 46
+# KOBLFH_109281 Number of predicted TMRs: 0
+KOBLFH_109281	signal	1	40				
+KOBLFH_109281	outside	41	46				
+//
+# KOBLFH_22724 Length: 40
+# KOBLFH_22724 Number of predicted TMRs: 0
+KOBLFH_22724	inside	1	40				
+//
+# KOBLFH_113954 Length: 43
+# KOBLFH_113954 Number of predicted TMRs: 0
+KOBLFH_113954	signal	1	42				
+KOBLFH_113954	outside	43	43				
+//
+# KOBLFH_7581 Length: 49
+# KOBLFH_7581 Number of predicted TMRs: 0
+KOBLFH_7581	inside	1	49				
+//
+# KOBLFH_5783 Length: 49
+# KOBLFH_5783 Number of predicted TMRs: 0
+KOBLFH_5783	inside	1	49				
+//
+# KOBLFH_24318 Length: 46
+# KOBLFH_24318 Number of predicted TMRs: 0
+KOBLFH_24318	inside	1	46				
+//
+# KOBLFH_145503 Length: 36
+# KOBLFH_145503 Number of predicted TMRs: 0
+KOBLFH_145503	inside	1	36				
+//
+# KOBLFH_96890 Length: 45
+# KOBLFH_96890 Number of predicted TMRs: 0
+KOBLFH_96890	signal	1	42				
+KOBLFH_96890	outside	43	45				
+//
+# KOBLFH_106856 Length: 43
+# KOBLFH_106856 Number of predicted TMRs: 0
+KOBLFH_106856	inside	1	43				
+//
+# KOBLFH_96398 Length: 41
+# KOBLFH_96398 Number of predicted TMRs: 0
+KOBLFH_96398	inside	1	41				
+//
+# KOBLFH_71258 Length: 47
+# KOBLFH_71258 Number of predicted TMRs: 0
+KOBLFH_71258	signal	1	46				
+KOBLFH_71258	outside	47	47				
+//
+# KOBLFH_89549 Length: 36
+# KOBLFH_89549 Number of predicted TMRs: 0
+KOBLFH_89549	signal	1	35				
+KOBLFH_89549	outside	36	36				
+//
+# KOBLFH_131566 Length: 45
+# KOBLFH_131566 Number of predicted TMRs: 0
+KOBLFH_131566	signal	1	10				
+KOBLFH_131566	outside	11	45				
+//
+# KOBLFH_121539 Length: 46
+# KOBLFH_121539 Number of predicted TMRs: 0
+KOBLFH_121539	inside	1	46				
+//
+# KOBLFH_94009 Length: 49
+# KOBLFH_94009 Number of predicted TMRs: 0
+KOBLFH_94009	signal	1	11				
+KOBLFH_94009	outside	12	49				
+//
+# KOBLFH_138889 Length: 42
+# KOBLFH_138889 Number of predicted TMRs: 0
+KOBLFH_138889	inside	1	42				
+//
+# KOBLFH_139930 Length: 42
+# KOBLFH_139930 Number of predicted TMRs: 0
+KOBLFH_139930	inside	1	42				
+//
+# KOBLFH_36317 Length: 31
+# KOBLFH_36317 Number of predicted TMRs: 0
+KOBLFH_36317	signal	1	29				
+KOBLFH_36317	outside	30	31				
+//
+# KOBLFH_172603 Length: 45
+# KOBLFH_172603 Number of predicted TMRs: 0
+KOBLFH_172603	inside	1	45				
+//
+# KOBLFH_29058 Length: 48
+# KOBLFH_29058 Number of predicted TMRs: 0
+KOBLFH_29058	inside	1	48				
+//
+# KOBLFH_147013 Length: 42
+# KOBLFH_147013 Number of predicted TMRs: 0
+KOBLFH_147013	signal	1	10				
+KOBLFH_147013	outside	11	42				
+//
+# KOBLFH_105631 Length: 33
+# KOBLFH_105631 Number of predicted TMRs: 0
+KOBLFH_105631	inside	1	33				
+//
+# KOBLFH_118782 Length: 42
+# KOBLFH_118782 Number of predicted TMRs: 0
+KOBLFH_118782	signal	1	40				
+KOBLFH_118782	outside	41	42				
+//
+# KOBLFH_56255 Length: 42
+# KOBLFH_56255 Number of predicted TMRs: 0
+KOBLFH_56255	signal	1	40				
+KOBLFH_56255	outside	41	42				
+//
+# KOBLFH_74087 Length: 45
+# KOBLFH_74087 Number of predicted TMRs: 0
+KOBLFH_74087	signal	1	16				
+KOBLFH_74087	outside	17	45				
+//
+# KOBLFH_153788 Length: 31
+# KOBLFH_153788 Number of predicted TMRs: 0
+KOBLFH_153788	signal	1	25				
+KOBLFH_153788	outside	26	31				
+//
+# KOBLFH_60040 Length: 46
+# KOBLFH_60040 Number of predicted TMRs: 0
+KOBLFH_60040	signal	1	41				
+KOBLFH_60040	outside	42	46				
+//
+# KOBLFH_93936 Length: 44
+# KOBLFH_93936 Number of predicted TMRs: 0
+KOBLFH_93936	signal	1	43				
+KOBLFH_93936	outside	44	44				
+//
+# KOBLFH_102618 Length: 36
+# KOBLFH_102618 Number of predicted TMRs: 0
+KOBLFH_102618	inside	1	36				
+//
+# KOBLFH_30131 Length: 48
+# KOBLFH_30131 Number of predicted TMRs: 0
+KOBLFH_30131	signal	1	47				
+KOBLFH_30131	outside	48	48				
+//
+# KOBLFH_42082 Length: 34
+# KOBLFH_42082 Number of predicted TMRs: 0
+KOBLFH_42082	signal	1	30				
+KOBLFH_42082	outside	31	34				
+//
+# KOBLFH_63117 Length: 43
+# KOBLFH_63117 Number of predicted TMRs: 0
+KOBLFH_63117	signal	1	23				
+KOBLFH_63117	outside	24	43				
+//
+# KOBLFH_31843 Length: 49
+# KOBLFH_31843 Number of predicted TMRs: 0
+KOBLFH_31843	inside	1	49				
+//
+# KOBLFH_110906 Length: 47
+# KOBLFH_110906 Number of predicted TMRs: 0
+KOBLFH_110906	inside	1	47				
+//
+# KOBLFH_61464 Length: 44
+# KOBLFH_61464 Number of predicted TMRs: 0
+KOBLFH_61464	signal	1	43				
+KOBLFH_61464	outside	44	44				
+//
+# KOBLFH_84102 Length: 37
+# KOBLFH_84102 Number of predicted TMRs: 0
+KOBLFH_84102	inside	1	37				
+//
+# KOBLFH_163530 Length: 45
+# KOBLFH_163530 Number of predicted TMRs: 0
+KOBLFH_163530	signal	1	32				
+KOBLFH_163530	outside	33	45				
+//
+# KOBLFH_76130 Length: 45
+# KOBLFH_76130 Number of predicted TMRs: 0
+KOBLFH_76130	inside	1	45				
+//
+# KOBLFH_48679 Length: 42
+# KOBLFH_48679 Number of predicted TMRs: 0
+KOBLFH_48679	inside	1	42				
+//
+# KOBLFH_158528 Length: 42
+# KOBLFH_158528 Number of predicted TMRs: 0
+KOBLFH_158528	inside	1	42				
+//
+# KOBLFH_64784 Length: 50
+# KOBLFH_64784 Number of predicted TMRs: 0
+KOBLFH_64784	signal	1	49				
+KOBLFH_64784	outside	50	50				
+//
+# KOBLFH_19203 Length: 43
+# KOBLFH_19203 Number of predicted TMRs: 0
+KOBLFH_19203	signal	1	42				
+KOBLFH_19203	outside	43	43				
+//
+# KOBLFH_171441 Length: 44
+# KOBLFH_171441 Number of predicted TMRs: 0
+KOBLFH_171441	inside	1	44				
+//
+# KOBLFH_53339 Length: 46
+# KOBLFH_53339 Number of predicted TMRs: 0
+KOBLFH_53339	inside	1	46				
+//
+# KOBLFH_57184 Length: 41
+# KOBLFH_57184 Number of predicted TMRs: 0
+KOBLFH_57184	signal	1	38				
+KOBLFH_57184	outside	39	41				
+//
+# KOBLFH_54955 Length: 41
+# KOBLFH_54955 Number of predicted TMRs: 0
+KOBLFH_54955	signal	1	38				
+KOBLFH_54955	outside	39	41				
+//
+# KOBLFH_74069 Length: 50
+# KOBLFH_74069 Number of predicted TMRs: 0
+KOBLFH_74069	inside	1	50				
+//
+# KOBLFH_45183 Length: 40
+# KOBLFH_45183 Number of predicted TMRs: 0
+KOBLFH_45183	signal	1	33				
+KOBLFH_45183	outside	34	40				
+//
+# KOBLFH_128645 Length: 44
+# KOBLFH_128645 Number of predicted TMRs: 0
+KOBLFH_128645	signal	1	36				
+KOBLFH_128645	outside	37	44				
+//
+# KOBLFH_166730 Length: 46
+# KOBLFH_166730 Number of predicted TMRs: 0
+KOBLFH_166730	signal	1	25				
+KOBLFH_166730	outside	26	46				
+//
+# KOBLFH_46511 Length: 43
+# KOBLFH_46511 Number of predicted TMRs: 0
+KOBLFH_46511	signal	1	42				
+KOBLFH_46511	outside	43	43				
+//
+# KOBLFH_164423 Length: 44
+# KOBLFH_164423 Number of predicted TMRs: 0
+KOBLFH_164423	signal	1	10				
+KOBLFH_164423	outside	11	44				
+//
+# KOBLFH_16516 Length: 45
+# KOBLFH_16516 Number of predicted TMRs: 0
+KOBLFH_16516	signal	1	28				
+KOBLFH_16516	outside	29	45				
+//
+# KOBLFH_161832 Length: 38
+# KOBLFH_161832 Number of predicted TMRs: 0
+KOBLFH_161832	signal	1	29				
+KOBLFH_161832	outside	30	38				
+//
+# KOBLFH_111201 Length: 42
+# KOBLFH_111201 Number of predicted TMRs: 0
+KOBLFH_111201	signal	1	11				
+KOBLFH_111201	outside	12	42				
+//
+# KOBLFH_43662 Length: 48
+# KOBLFH_43662 Number of predicted TMRs: 0
+KOBLFH_43662	signal	1	35				
+KOBLFH_43662	outside	36	48				
+//
+# KOBLFH_144177 Length: 45
+# KOBLFH_144177 Number of predicted TMRs: 0
+KOBLFH_144177	signal	1	44				
+KOBLFH_144177	outside	45	45				
+//
+# KOBLFH_117349 Length: 47
+# KOBLFH_117349 Number of predicted TMRs: 0
+KOBLFH_117349	inside	1	47				
+//
+# KOBLFH_26075 Length: 37
+# KOBLFH_26075 Number of predicted TMRs: 0
+KOBLFH_26075	signal	1	12				
+KOBLFH_26075	outside	13	37				
+//
+# KOBLFH_113123 Length: 40
+# KOBLFH_113123 Number of predicted TMRs: 0
+KOBLFH_113123	signal	1	10				
+KOBLFH_113123	outside	11	40				
+//
+# KOBLFH_170228 Length: 43
+# KOBLFH_170228 Number of predicted TMRs: 0
+KOBLFH_170228	signal	1	21				
+KOBLFH_170228	outside	22	43				
+//
+# KOBLFH_46506 Length: 46
+# KOBLFH_46506 Number of predicted TMRs: 0
+KOBLFH_46506	inside	1	46				
+//
+# KOBLFH_166439 Length: 37
+# KOBLFH_166439 Number of predicted TMRs: 0
+KOBLFH_166439	inside	1	37				
+//
+# KOBLFH_89000 Length: 42
+# KOBLFH_89000 Number of predicted TMRs: 0
+KOBLFH_89000	signal	1	40				
+KOBLFH_89000	outside	41	42				
+//
+# KOBLFH_111477 Length: 48
+# KOBLFH_111477 Number of predicted TMRs: 0
+KOBLFH_111477	inside	1	48				
+//
+# KOBLFH_171436 Length: 45
+# KOBLFH_171436 Number of predicted TMRs: 0
+KOBLFH_171436	inside	1	45				
+//
+# KOBLFH_94663 Length: 44
+# KOBLFH_94663 Number of predicted TMRs: 0
+KOBLFH_94663	signal	1	24				
+KOBLFH_94663	outside	25	44				
+//
+# KOBLFH_44485 Length: 43
+# KOBLFH_44485 Number of predicted TMRs: 0
+KOBLFH_44485	inside	1	43				
+//
+# KOBLFH_131938 Length: 44
+# KOBLFH_131938 Number of predicted TMRs: 0
+KOBLFH_131938	inside	1	44				
+//
+# KOBLFH_39626 Length: 46
+# KOBLFH_39626 Number of predicted TMRs: 0
+KOBLFH_39626	inside	1	46				
+//
+# KOBLFH_101933 Length: 30
+# KOBLFH_101933 Number of predicted TMRs: 0
+KOBLFH_101933	inside	1	30				
+//
+# KOBLFH_12841 Length: 47
+# KOBLFH_12841 Number of predicted TMRs: 0
+KOBLFH_12841	signal	1	46				
+KOBLFH_12841	outside	47	47				
+//
+# KOBLFH_13518 Length: 41
+# KOBLFH_13518 Number of predicted TMRs: 0
+KOBLFH_13518	inside	1	41				
+//
+# KOBLFH_29285 Length: 38
+# KOBLFH_29285 Number of predicted TMRs: 0
+KOBLFH_29285	inside	1	38				
+//
+# KOBLFH_125254 Length: 50
+# KOBLFH_125254 Number of predicted TMRs: 0
+KOBLFH_125254	inside	1	50				
+//
+# KOBLFH_138737 Length: 49
+# KOBLFH_138737 Number of predicted TMRs: 0
+KOBLFH_138737	signal	1	47				
+KOBLFH_138737	outside	48	49				
+//
+# KOBLFH_34000 Length: 49
+# KOBLFH_34000 Number of predicted TMRs: 0
+KOBLFH_34000	signal	1	11				
+KOBLFH_34000	outside	12	49				
+//
+# KOBLFH_103068 Length: 41
+# KOBLFH_103068 Number of predicted TMRs: 0
+KOBLFH_103068	signal	1	32				
+KOBLFH_103068	outside	33	41				
+//
+# KOBLFH_74330 Length: 35
+# KOBLFH_74330 Number of predicted TMRs: 0
+KOBLFH_74330	signal	1	34				
+KOBLFH_74330	outside	35	35				
+//
+# KOBLFH_5217 Length: 44
+# KOBLFH_5217 Number of predicted TMRs: 0
+KOBLFH_5217	inside	1	44				
+//
+# KOBLFH_125992 Length: 45
+# KOBLFH_125992 Number of predicted TMRs: 0
+KOBLFH_125992	inside	1	45				
+//
+# KOBLFH_143351 Length: 42
+# KOBLFH_143351 Number of predicted TMRs: 0
+KOBLFH_143351	signal	1	14				
+KOBLFH_143351	outside	15	42				
+//
+# KOBLFH_153786 Length: 48
+# KOBLFH_153786 Number of predicted TMRs: 0
+KOBLFH_153786	signal	1	47				
+KOBLFH_153786	outside	48	48				
+//
+# KOBLFH_78814 Length: 44
+# KOBLFH_78814 Number of predicted TMRs: 0
+KOBLFH_78814	signal	1	12				
+KOBLFH_78814	outside	13	44				
+//
+# KOBLFH_50833 Length: 49
+# KOBLFH_50833 Number of predicted TMRs: 0
+KOBLFH_50833	inside	1	49				
+//
+# KOBLFH_54609 Length: 48
+# KOBLFH_54609 Number of predicted TMRs: 0
+KOBLFH_54609	signal	1	15				
+KOBLFH_54609	outside	16	48				
+//
+# KOBLFH_22305 Length: 45
+# KOBLFH_22305 Number of predicted TMRs: 1
+KOBLFH_22305	inside	1	19				
+KOBLFH_22305	TMhelix	20	40				
+KOBLFH_22305	outside	41	45				
+//
+# KOBLFH_71388 Length: 45
+# KOBLFH_71388 Number of predicted TMRs: 0
+KOBLFH_71388	outside	1	45				
+//
+# KOBLFH_135266 Length: 50
+# KOBLFH_135266 Number of predicted TMRs: 0
+KOBLFH_135266	signal	1	47				
+KOBLFH_135266	outside	48	50				
+//
+# KOBLFH_167994 Length: 45
+# KOBLFH_167994 Number of predicted TMRs: 0
+KOBLFH_167994	signal	1	38				
+KOBLFH_167994	outside	39	45				
+//
+# KOBLFH_60130 Length: 36
+# KOBLFH_60130 Number of predicted TMRs: 0
+KOBLFH_60130	signal	1	12				
+KOBLFH_60130	outside	13	36				
+//
+# KOBLFH_153527 Length: 43
+# KOBLFH_153527 Number of predicted TMRs: 0
+KOBLFH_153527	outside	1	43				
+//
+# KOBLFH_98889 Length: 35
+# KOBLFH_98889 Number of predicted TMRs: 0
+KOBLFH_98889	inside	1	35				
+//
+# KOBLFH_32508 Length: 41
+# KOBLFH_32508 Number of predicted TMRs: 0
+KOBLFH_32508	signal	1	38				
+KOBLFH_32508	outside	39	41				
+//
+# KOBLFH_38720 Length: 47
+# KOBLFH_38720 Number of predicted TMRs: 0
+KOBLFH_38720	signal	1	44				
+KOBLFH_38720	outside	45	47				
+//
+# KOBLFH_117430 Length: 40
+# KOBLFH_117430 Number of predicted TMRs: 0
+KOBLFH_117430	signal	1	33				
+KOBLFH_117430	outside	34	40				
+//
+# KOBLFH_167492 Length: 36
+# KOBLFH_167492 Number of predicted TMRs: 0
+KOBLFH_167492	signal	1	22				
+KOBLFH_167492	outside	23	36				
+//
+# KOBLFH_166686 Length: 50
+# KOBLFH_166686 Number of predicted TMRs: 0
+KOBLFH_166686	inside	1	50				
+//
+# KOBLFH_147633 Length: 44
+# KOBLFH_147633 Number of predicted TMRs: 0
+KOBLFH_147633	inside	1	44				
+//
+# KOBLFH_121935 Length: 43
+# KOBLFH_121935 Number of predicted TMRs: 0
+KOBLFH_121935	inside	1	43				
+//
+# KOBLFH_46600 Length: 48
+# KOBLFH_46600 Number of predicted TMRs: 0
+KOBLFH_46600	signal	1	15				
+KOBLFH_46600	outside	16	48				
+//
+# KOBLFH_103693 Length: 49
+# KOBLFH_103693 Number of predicted TMRs: 0
+KOBLFH_103693	inside	1	49				
+//
+# KOBLFH_96329 Length: 44
+# KOBLFH_96329 Number of predicted TMRs: 0
+KOBLFH_96329	signal	1	19				
+KOBLFH_96329	outside	20	44				
+//
+# KOBLFH_107437 Length: 45
+# KOBLFH_107437 Number of predicted TMRs: 0
+KOBLFH_107437	inside	1	45				
+//
+# KOBLFH_115180 Length: 49
+# KOBLFH_115180 Number of predicted TMRs: 0
+KOBLFH_115180	inside	1	49				
+//
+# KOBLFH_41816 Length: 48
+# KOBLFH_41816 Number of predicted TMRs: 0
+KOBLFH_41816	inside	1	48				
+//
+# KOBLFH_81098 Length: 48
+# KOBLFH_81098 Number of predicted TMRs: 0
+KOBLFH_81098	inside	1	48				
+//
+# KOBLFH_16427 Length: 40
+# KOBLFH_16427 Number of predicted TMRs: 0
+KOBLFH_16427	inside	1	40				
+//
+# KOBLFH_64115 Length: 45
+# KOBLFH_64115 Number of predicted TMRs: 0
+KOBLFH_64115	inside	1	45				
+//
+# KOBLFH_4967 Length: 47
+# KOBLFH_4967 Number of predicted TMRs: 0
+KOBLFH_4967	signal	1	44				
+KOBLFH_4967	outside	45	47				
+//
+# KOBLFH_69982 Length: 47
+# KOBLFH_69982 Number of predicted TMRs: 0
+KOBLFH_69982	inside	1	47				
+//
+# KOBLFH_32372 Length: 48
+# KOBLFH_32372 Number of predicted TMRs: 0
+KOBLFH_32372	signal	1	33				
+KOBLFH_32372	outside	34	48				
+//
+# KOBLFH_49070 Length: 40
+# KOBLFH_49070 Number of predicted TMRs: 0
+KOBLFH_49070	inside	1	40				
+//
+# KOBLFH_119794 Length: 40
+# KOBLFH_119794 Number of predicted TMRs: 0
+KOBLFH_119794	inside	1	40				
+//
+# KOBLFH_58676 Length: 28
+# KOBLFH_58676 Number of predicted TMRs: 0
+KOBLFH_58676	inside	1	28				
+//
+# KOBLFH_89803 Length: 37
+# KOBLFH_89803 Number of predicted TMRs: 0
+KOBLFH_89803	inside	1	37				
+//
+# KOBLFH_63876 Length: 44
+# KOBLFH_63876 Number of predicted TMRs: 0
+KOBLFH_63876	signal	1	15				
+KOBLFH_63876	outside	16	44				
+//
+# KOBLFH_12721 Length: 47
+# KOBLFH_12721 Number of predicted TMRs: 0
+KOBLFH_12721	inside	1	47				
+//
+# KOBLFH_78902 Length: 42
+# KOBLFH_78902 Number of predicted TMRs: 0
+KOBLFH_78902	signal	1	31				
+KOBLFH_78902	outside	32	42				
+//
+# KOBLFH_98903 Length: 49
+# KOBLFH_98903 Number of predicted TMRs: 0
+KOBLFH_98903	signal	1	48				
+KOBLFH_98903	outside	49	49				
+//
+# KOBLFH_57614 Length: 49
+# KOBLFH_57614 Number of predicted TMRs: 0
+KOBLFH_57614	inside	1	49				
+//
+# KOBLFH_58127 Length: 40
+# KOBLFH_58127 Number of predicted TMRs: 0
+KOBLFH_58127	inside	1	40				
+//
+# KOBLFH_57155 Length: 49
+# KOBLFH_57155 Number of predicted TMRs: 0
+KOBLFH_57155	inside	1	49				
+//
+# KOBLFH_53671 Length: 28
+# KOBLFH_53671 Number of predicted TMRs: 0
+KOBLFH_53671	inside	1	28				
+//
+# KOBLFH_53680 Length: 29
+# KOBLFH_53680 Number of predicted TMRs: 0
+KOBLFH_53680	inside	1	29				
+//
+# KOBLFH_15547 Length: 35
+# KOBLFH_15547 Number of predicted TMRs: 0
+KOBLFH_15547	inside	1	35				
+//
+# KOBLFH_53269 Length: 50
+# KOBLFH_53269 Number of predicted TMRs: 0
+KOBLFH_53269	inside	1	50				
+//
+# KOBLFH_132172 Length: 46
+# KOBLFH_132172 Number of predicted TMRs: 0
+KOBLFH_132172	inside	1	46				
+//
+# KOBLFH_105720 Length: 44
+# KOBLFH_105720 Number of predicted TMRs: 0
+KOBLFH_105720	inside	1	44				
+//
+# KOBLFH_14100 Length: 42
+# KOBLFH_14100 Number of predicted TMRs: 0
+KOBLFH_14100	signal	1	10				
+KOBLFH_14100	outside	11	42				
+//
+# KOBLFH_77309 Length: 44
+# KOBLFH_77309 Number of predicted TMRs: 0
+KOBLFH_77309	inside	1	44				
+//
+# KOBLFH_99871 Length: 40
+# KOBLFH_99871 Number of predicted TMRs: 0
+KOBLFH_99871	inside	1	40				
+//
+# KOBLFH_92759 Length: 42
+# KOBLFH_92759 Number of predicted TMRs: 0
+KOBLFH_92759	inside	1	42				
+//
+# KOBLFH_61931 Length: 34
+# KOBLFH_61931 Number of predicted TMRs: 0
+KOBLFH_61931	inside	1	34				
+//
+# KOBLFH_5931 Length: 34
+# KOBLFH_5931 Number of predicted TMRs: 0
+KOBLFH_5931	signal	1	32				
+KOBLFH_5931	outside	33	34				
+//
+# KOBLFH_5948 Length: 35
+# KOBLFH_5948 Number of predicted TMRs: 0
+KOBLFH_5948	signal	1	28				
+KOBLFH_5948	outside	29	35				
+//
+# KOBLFH_81111 Length: 42
+# KOBLFH_81111 Number of predicted TMRs: 0
+KOBLFH_81111	signal	1	41				
+KOBLFH_81111	outside	42	42				
+//
+# KOBLFH_116898 Length: 42
+# KOBLFH_116898 Number of predicted TMRs: 0
+KOBLFH_116898	inside	1	42				
+//
+# KOBLFH_76872 Length: 49
+# KOBLFH_76872 Number of predicted TMRs: 0
+KOBLFH_76872	inside	1	49				
+//
+# KOBLFH_40266 Length: 46
+# KOBLFH_40266 Number of predicted TMRs: 0
+KOBLFH_40266	inside	1	46				
+//
+# KOBLFH_121533 Length: 41
+# KOBLFH_121533 Number of predicted TMRs: 0
+KOBLFH_121533	signal	1	10				
+KOBLFH_121533	outside	11	41				
+//
+# KOBLFH_8713 Length: 45
+# KOBLFH_8713 Number of predicted TMRs: 0
+KOBLFH_8713	inside	1	45				
+//
+# KOBLFH_66519 Length: 44
+# KOBLFH_66519 Number of predicted TMRs: 0
+KOBLFH_66519	signal	1	43				
+KOBLFH_66519	outside	44	44				
+//
+# KOBLFH_8573 Length: 42
+# KOBLFH_8573 Number of predicted TMRs: 0
+KOBLFH_8573	inside	1	42				
+//
+# KOBLFH_127069 Length: 42
+# KOBLFH_127069 Number of predicted TMRs: 0
+KOBLFH_127069	signal	1	10				
+KOBLFH_127069	outside	11	42				
+//
+# KOBLFH_26274 Length: 44
+# KOBLFH_26274 Number of predicted TMRs: 0
+KOBLFH_26274	signal	1	43				
+KOBLFH_26274	outside	44	44				
+//
+# KOBLFH_39144 Length: 45
+# KOBLFH_39144 Number of predicted TMRs: 0
+KOBLFH_39144	inside	1	45				
+//
+# KOBLFH_30744 Length: 50
+# KOBLFH_30744 Number of predicted TMRs: 0
+KOBLFH_30744	inside	1	50				
+//
+# KOBLFH_134671 Length: 50
+# KOBLFH_134671 Number of predicted TMRs: 0
+KOBLFH_134671	signal	1	32				
+KOBLFH_134671	outside	33	50				
+//
+# KOBLFH_39653 Length: 47
+# KOBLFH_39653 Number of predicted TMRs: 0
+KOBLFH_39653	inside	1	47				
+//
+# KOBLFH_121604 Length: 39
+# KOBLFH_121604 Number of predicted TMRs: 0
+KOBLFH_121604	inside	1	39				
+//
+# KOBLFH_21600 Length: 40
+# KOBLFH_21600 Number of predicted TMRs: 0
+KOBLFH_21600	signal	1	10				
+KOBLFH_21600	outside	11	40				
+//
+# KOBLFH_152912 Length: 40
+# KOBLFH_152912 Number of predicted TMRs: 0
+KOBLFH_152912	signal	1	33				
+KOBLFH_152912	outside	34	40				
+//
+# KOBLFH_103082 Length: 49
+# KOBLFH_103082 Number of predicted TMRs: 0
+KOBLFH_103082	signal	1	47				
+KOBLFH_103082	outside	48	49				
+//
+# KOBLFH_4774 Length: 42
+# KOBLFH_4774 Number of predicted TMRs: 0
+KOBLFH_4774	signal	1	35				
+KOBLFH_4774	outside	36	42				
+//
+# KOBLFH_96408 Length: 43
+# KOBLFH_96408 Number of predicted TMRs: 0
+KOBLFH_96408	inside	1	43				
+//
+# KOBLFH_95811 Length: 45
+# KOBLFH_95811 Number of predicted TMRs: 0
+KOBLFH_95811	inside	1	45				
+//
+# KOBLFH_66893 Length: 38
+# KOBLFH_66893 Number of predicted TMRs: 0
+KOBLFH_66893	inside	1	38				
+//
+# KOBLFH_78004 Length: 49
+# KOBLFH_78004 Number of predicted TMRs: 0
+KOBLFH_78004	inside	1	49				
+//
+# KOBLFH_101208 Length: 48
+# KOBLFH_101208 Number of predicted TMRs: 0
+KOBLFH_101208	inside	1	48				
+//
+# KOBLFH_70274 Length: 47
+# KOBLFH_70274 Number of predicted TMRs: 0
+KOBLFH_70274	inside	1	47				
+//
+# KOBLFH_30906 Length: 50
+# KOBLFH_30906 Number of predicted TMRs: 0
+KOBLFH_30906	signal	1	15				
+KOBLFH_30906	outside	16	50				
+//
+# KOBLFH_56371 Length: 50
+# KOBLFH_56371 Number of predicted TMRs: 0
+KOBLFH_56371	inside	1	50				
+//
+# KOBLFH_4700 Length: 49
+# KOBLFH_4700 Number of predicted TMRs: 0
+KOBLFH_4700	outside	1	49				
+//
+# KOBLFH_106898 Length: 44
+# KOBLFH_106898 Number of predicted TMRs: 0
+KOBLFH_106898	inside	1	44				
+//
+# KOBLFH_142979 Length: 48
+# KOBLFH_142979 Number of predicted TMRs: 0
+KOBLFH_142979	inside	1	48				
+//
+# KOBLFH_75907 Length: 49
+# KOBLFH_75907 Number of predicted TMRs: 0
+KOBLFH_75907	inside	1	49				
+//
+# KOBLFH_163432 Length: 49
+# KOBLFH_163432 Number of predicted TMRs: 0
+KOBLFH_163432	outside	1	49				
+//
+# KOBLFH_44537 Length: 44
+# KOBLFH_44537 Number of predicted TMRs: 0
+KOBLFH_44537	inside	1	44				
+//
+# KOBLFH_46974 Length: 49
+# KOBLFH_46974 Number of predicted TMRs: 0
+KOBLFH_46974	inside	1	49				
+//
+# KOBLFH_44631 Length: 40
+# KOBLFH_44631 Number of predicted TMRs: 0
+KOBLFH_44631	inside	1	40				
+//
+# KOBLFH_172771 Length: 48
+# KOBLFH_172771 Number of predicted TMRs: 0
+KOBLFH_172771	inside	1	48				
+//
+# KOBLFH_84307 Length: 48
+# KOBLFH_84307 Number of predicted TMRs: 0
+KOBLFH_84307	inside	1	48				
+//
+# KOBLFH_131501 Length: 42
+# KOBLFH_131501 Number of predicted TMRs: 0
+KOBLFH_131501	inside	1	42				
+//
+# KOBLFH_79600 Length: 43
+# KOBLFH_79600 Number of predicted TMRs: 0
+KOBLFH_79600	outside	1	43				
+//
+# KOBLFH_71114 Length: 26
+# KOBLFH_71114 Number of predicted TMRs: 0
+KOBLFH_71114	outside	1	26				
+//
+# KOBLFH_166597 Length: 46
+# KOBLFH_166597 Number of predicted TMRs: 0
+KOBLFH_166597	inside	1	46				
+//
+# KOBLFH_58624 Length: 46
+# KOBLFH_58624 Number of predicted TMRs: 0
+KOBLFH_58624	signal	1	32				
+KOBLFH_58624	outside	33	46				
+//
+# KOBLFH_21216 Length: 47
+# KOBLFH_21216 Number of predicted TMRs: 0
+KOBLFH_21216	inside	1	47				
+//
+# KOBLFH_129067 Length: 31
+# KOBLFH_129067 Number of predicted TMRs: 0
+KOBLFH_129067	inside	1	31				
+//
+# KOBLFH_136670 Length: 31
+# KOBLFH_136670 Number of predicted TMRs: 0
+KOBLFH_136670	signal	1	21				
+KOBLFH_136670	outside	22	31				
+//
+# KOBLFH_5173 Length: 49
+# KOBLFH_5173 Number of predicted TMRs: 0
+KOBLFH_5173	inside	1	49				
+//
+# KOBLFH_38616 Length: 43
+# KOBLFH_38616 Number of predicted TMRs: 0
+KOBLFH_38616	signal	1	42				
+KOBLFH_38616	outside	43	43				
+//
+# KOBLFH_70039 Length: 37
+# KOBLFH_70039 Number of predicted TMRs: 0
+KOBLFH_70039	inside	1	37				
+//
+# KOBLFH_90517 Length: 41
+# KOBLFH_90517 Number of predicted TMRs: 0
+KOBLFH_90517	signal	1	40				
+KOBLFH_90517	outside	41	41				
+//
+# KOBLFH_97317 Length: 46
+# KOBLFH_97317 Number of predicted TMRs: 0
+KOBLFH_97317	signal	1	12				
+KOBLFH_97317	outside	13	46				
+//
+# KOBLFH_9289 Length: 48
+# KOBLFH_9289 Number of predicted TMRs: 0
+KOBLFH_9289	signal	1	45				
+KOBLFH_9289	outside	46	48				
+//
+# KOBLFH_6664 Length: 36
+# KOBLFH_6664 Number of predicted TMRs: 0
+KOBLFH_6664	inside	1	36				
+//
+# KOBLFH_20323 Length: 45
+# KOBLFH_20323 Number of predicted TMRs: 0
+KOBLFH_20323	signal	1	44				
+KOBLFH_20323	outside	45	45				
+//
+# KOBLFH_22773 Length: 50
+# KOBLFH_22773 Number of predicted TMRs: 0
+KOBLFH_22773	signal	1	34				
+KOBLFH_22773	outside	35	50				
+//
+# KOBLFH_63043 Length: 47
+# KOBLFH_63043 Number of predicted TMRs: 0
+KOBLFH_63043	signal	1	22				
+KOBLFH_63043	outside	23	47				
+//
+# KOBLFH_43323 Length: 49
+# KOBLFH_43323 Number of predicted TMRs: 0
+KOBLFH_43323	signal	1	20				
+KOBLFH_43323	outside	21	49				
+//
+# KOBLFH_124301 Length: 39
+# KOBLFH_124301 Number of predicted TMRs: 0
+KOBLFH_124301	inside	1	39				
+//
+# KOBLFH_130463 Length: 50
+# KOBLFH_130463 Number of predicted TMRs: 0
+KOBLFH_130463	inside	1	50				
+//
+# KOBLFH_16426 Length: 42
+# KOBLFH_16426 Number of predicted TMRs: 0
+KOBLFH_16426	inside	1	42				
+//
+# KOBLFH_15563 Length: 43
+# KOBLFH_15563 Number of predicted TMRs: 0
+KOBLFH_15563	signal	1	11				
+KOBLFH_15563	outside	12	43				
+//
+# KOBLFH_172840 Length: 50
+# KOBLFH_172840 Number of predicted TMRs: 0
+KOBLFH_172840	inside	1	50				
+//
+# KOBLFH_86861 Length: 42
+# KOBLFH_86861 Number of predicted TMRs: 0
+KOBLFH_86861	signal	1	26				
+KOBLFH_86861	outside	27	42				
+//
+# KOBLFH_48174 Length: 49
+# KOBLFH_48174 Number of predicted TMRs: 0
+KOBLFH_48174	signal	1	40				
+KOBLFH_48174	outside	41	49				
+//
+# KOBLFH_5672 Length: 49
+# KOBLFH_5672 Number of predicted TMRs: 0
+KOBLFH_5672	inside	1	49				
+//
+# KOBLFH_168067 Length: 50
+# KOBLFH_168067 Number of predicted TMRs: 0
+KOBLFH_168067	signal	1	21				
+KOBLFH_168067	outside	22	50				
+//
+# KOBLFH_66235 Length: 36
+# KOBLFH_66235 Number of predicted TMRs: 0
+KOBLFH_66235	inside	1	36				
+//
+# KOBLFH_66241 Length: 43
+# KOBLFH_66241 Number of predicted TMRs: 0
+KOBLFH_66241	inside	1	43				
+//
+# KOBLFH_60437 Length: 47
+# KOBLFH_60437 Number of predicted TMRs: 0
+KOBLFH_60437	inside	1	47				
+//
+# KOBLFH_40006 Length: 41
+# KOBLFH_40006 Number of predicted TMRs: 0
+KOBLFH_40006	inside	1	41				
+//
+# KOBLFH_171850 Length: 46
+# KOBLFH_171850 Number of predicted TMRs: 0
+KOBLFH_171850	inside	1	46				
+//
+# KOBLFH_168649 Length: 40
+# KOBLFH_168649 Number of predicted TMRs: 0
+KOBLFH_168649	inside	1	40				
+//
+# KOBLFH_105876 Length: 46
+# KOBLFH_105876 Number of predicted TMRs: 0
+KOBLFH_105876	inside	1	46				
+//
+# KOBLFH_63994 Length: 44
+# KOBLFH_63994 Number of predicted TMRs: 0
+KOBLFH_63994	inside	1	44				
+//
+# KOBLFH_64883 Length: 41
+# KOBLFH_64883 Number of predicted TMRs: 0
+KOBLFH_64883	inside	1	41				
+//
+# KOBLFH_82454 Length: 38
+# KOBLFH_82454 Number of predicted TMRs: 0
+KOBLFH_82454	signal	1	36				
+KOBLFH_82454	outside	37	38				
+//
+# KOBLFH_19531 Length: 36
+# KOBLFH_19531 Number of predicted TMRs: 0
+KOBLFH_19531	inside	1	36				
+//
+# KOBLFH_21149 Length: 49
+# KOBLFH_21149 Number of predicted TMRs: 0
+KOBLFH_21149	signal	1	14				
+KOBLFH_21149	outside	15	49				
+//
+# KOBLFH_129736 Length: 48
+# KOBLFH_129736 Number of predicted TMRs: 0
+KOBLFH_129736	signal	1	38				
+KOBLFH_129736	outside	39	48				
+//
+# KOBLFH_60186 Length: 49
+# KOBLFH_60186 Number of predicted TMRs: 0
+KOBLFH_60186	inside	1	49				
+//
+# KOBLFH_103141 Length: 49
+# KOBLFH_103141 Number of predicted TMRs: 0
+KOBLFH_103141	signal	1	48				
+KOBLFH_103141	outside	49	49				
+//
+# KOBLFH_35542 Length: 43
+# KOBLFH_35542 Number of predicted TMRs: 0
+KOBLFH_35542	inside	1	43				
+//
+# KOBLFH_59401 Length: 50
+# KOBLFH_59401 Number of predicted TMRs: 0
+KOBLFH_59401	inside	1	50				
+//
+# KOBLFH_63209 Length: 50
+# KOBLFH_63209 Number of predicted TMRs: 0
+KOBLFH_63209	inside	1	50				
+//
+# KOBLFH_38657 Length: 38
+# KOBLFH_38657 Number of predicted TMRs: 0
+KOBLFH_38657	signal	1	15				
+KOBLFH_38657	outside	16	38				
+//
+# KOBLFH_151111 Length: 47
+# KOBLFH_151111 Number of predicted TMRs: 0
+KOBLFH_151111	signal	1	12				
+KOBLFH_151111	outside	13	47				
+//
+# KOBLFH_56868 Length: 49
+# KOBLFH_56868 Number of predicted TMRs: 0
+KOBLFH_56868	inside	1	49				
+//
+# KOBLFH_29073 Length: 42
+# KOBLFH_29073 Number of predicted TMRs: 0
+KOBLFH_29073	signal	1	41				
+KOBLFH_29073	outside	42	42				
+//
+# KOBLFH_87435 Length: 46
+# KOBLFH_87435 Number of predicted TMRs: 0
+KOBLFH_87435	inside	1	46				
+//
+# KOBLFH_116158 Length: 49
+# KOBLFH_116158 Number of predicted TMRs: 0
+KOBLFH_116158	inside	1	49				
+//
+# KOBLFH_141331 Length: 45
+# KOBLFH_141331 Number of predicted TMRs: 0
+KOBLFH_141331	signal	1	35				
+KOBLFH_141331	outside	36	45				
+//
+# KOBLFH_59639 Length: 48
+# KOBLFH_59639 Number of predicted TMRs: 0
+KOBLFH_59639	signal	1	10				
+KOBLFH_59639	outside	11	48				
+//
+# KOBLFH_91930 Length: 50
+# KOBLFH_91930 Number of predicted TMRs: 0
+KOBLFH_91930	signal	1	47				
+KOBLFH_91930	outside	48	50				
+//
+# KOBLFH_26856 Length: 45
+# KOBLFH_26856 Number of predicted TMRs: 0
+KOBLFH_26856	inside	1	45				
+//
+# KOBLFH_168438 Length: 46
+# KOBLFH_168438 Number of predicted TMRs: 0
+KOBLFH_168438	inside	1	46				
+//
+# KOBLFH_70680 Length: 49
+# KOBLFH_70680 Number of predicted TMRs: 0
+KOBLFH_70680	inside	1	49				
+//
+# KOBLFH_112517 Length: 50
+# KOBLFH_112517 Number of predicted TMRs: 0
+KOBLFH_112517	inside	1	50				
+//
+# KOBLFH_106263 Length: 41
+# KOBLFH_106263 Number of predicted TMRs: 0
+KOBLFH_106263	signal	1	22				
+KOBLFH_106263	outside	23	41				
+//
+# KOBLFH_171286 Length: 48
+# KOBLFH_171286 Number of predicted TMRs: 0
+KOBLFH_171286	inside	1	48				
+//
+# KOBLFH_165205 Length: 39
+# KOBLFH_165205 Number of predicted TMRs: 0
+KOBLFH_165205	signal	1	38				
+KOBLFH_165205	outside	39	39				
+//
+# KOBLFH_140341 Length: 43
+# KOBLFH_140341 Number of predicted TMRs: 0
+KOBLFH_140341	inside	1	43				
+//
+# KOBLFH_105274 Length: 46
+# KOBLFH_105274 Number of predicted TMRs: 0
+KOBLFH_105274	inside	1	46				
+//
+# KOBLFH_169156 Length: 49
+# KOBLFH_169156 Number of predicted TMRs: 0
+KOBLFH_169156	inside	1	49				
+//
+# KOBLFH_122792 Length: 45
+# KOBLFH_122792 Number of predicted TMRs: 0
+KOBLFH_122792	signal	1	30				
+KOBLFH_122792	outside	31	45				
+//
+# KOBLFH_23083 Length: 34
+# KOBLFH_23083 Number of predicted TMRs: 0
+KOBLFH_23083	signal	1	30				
+KOBLFH_23083	outside	31	34				
+//
+# KOBLFH_146989 Length: 37
+# KOBLFH_146989 Number of predicted TMRs: 0
+KOBLFH_146989	signal	1	11				
+KOBLFH_146989	outside	12	37				
+//
+# KOBLFH_12628 Length: 39
+# KOBLFH_12628 Number of predicted TMRs: 0
+KOBLFH_12628	signal	1	38				
+KOBLFH_12628	outside	39	39				
+//
+# KOBLFH_9171 Length: 47
+# KOBLFH_9171 Number of predicted TMRs: 0
+KOBLFH_9171	signal	1	46				
+KOBLFH_9171	outside	47	47				
+//
+# KOBLFH_145672 Length: 47
+# KOBLFH_145672 Number of predicted TMRs: 0
+KOBLFH_145672	signal	1	46				
+KOBLFH_145672	outside	47	47				
+//
+# KOBLFH_20884 Length: 49
+# KOBLFH_20884 Number of predicted TMRs: 0
+KOBLFH_20884	signal	1	48				
+KOBLFH_20884	outside	49	49				
+//
+# KOBLFH_7039 Length: 49
+# KOBLFH_7039 Number of predicted TMRs: 0
+KOBLFH_7039	inside	1	49				
+//
+# KOBLFH_101536 Length: 48
+# KOBLFH_101536 Number of predicted TMRs: 0
+KOBLFH_101536	inside	1	48				
+//
+# KOBLFH_61814 Length: 50
+# KOBLFH_61814 Number of predicted TMRs: 0
+KOBLFH_61814	inside	1	50				
+//
+# KOBLFH_128418 Length: 36
+# KOBLFH_128418 Number of predicted TMRs: 0
+KOBLFH_128418	inside	1	36				
+//
+# KOBLFH_64674 Length: 32
+# KOBLFH_64674 Number of predicted TMRs: 0
+KOBLFH_64674	inside	1	32				
+//
+# KOBLFH_126632 Length: 46
+# KOBLFH_126632 Number of predicted TMRs: 0
+KOBLFH_126632	signal	1	45				
+KOBLFH_126632	outside	46	46				
+//
+# KOBLFH_106132 Length: 44
+# KOBLFH_106132 Number of predicted TMRs: 0
+KOBLFH_106132	inside	1	44				
+//
+# KOBLFH_80038 Length: 35
+# KOBLFH_80038 Number of predicted TMRs: 0
+KOBLFH_80038	signal	1	26				
+KOBLFH_80038	outside	27	35				
+//
+# KOBLFH_100850 Length: 50
+# KOBLFH_100850 Number of predicted TMRs: 0
+KOBLFH_100850	inside	1	50				
+//
+# KOBLFH_95813 Length: 38
+# KOBLFH_95813 Number of predicted TMRs: 0
+KOBLFH_95813	inside	1	38				
+//
+# KOBLFH_141362 Length: 44
+# KOBLFH_141362 Number of predicted TMRs: 0
+KOBLFH_141362	inside	1	44				
+//
+# KOBLFH_5800 Length: 44
+# KOBLFH_5800 Number of predicted TMRs: 0
+KOBLFH_5800	inside	1	44				
+//
+# KOBLFH_70520 Length: 46
+# KOBLFH_70520 Number of predicted TMRs: 0
+KOBLFH_70520	inside	1	46				
+//
+# KOBLFH_76353 Length: 49
+# KOBLFH_76353 Number of predicted TMRs: 0
+KOBLFH_76353	inside	1	49				
+//
+# KOBLFH_32526 Length: 47
+# KOBLFH_32526 Number of predicted TMRs: 0
+KOBLFH_32526	signal	1	46				
+KOBLFH_32526	outside	47	47				
+//
+# KOBLFH_62901 Length: 48
+# KOBLFH_62901 Number of predicted TMRs: 0
+KOBLFH_62901	outside	1	48				
+//
+# KOBLFH_78272 Length: 36
+# KOBLFH_78272 Number of predicted TMRs: 0
+KOBLFH_78272	inside	1	36				
+//
+# KOBLFH_101209 Length: 49
+# KOBLFH_101209 Number of predicted TMRs: 0
+KOBLFH_101209	inside	1	49				
+//
+# KOBLFH_41684 Length: 40
+# KOBLFH_41684 Number of predicted TMRs: 0
+KOBLFH_41684	inside	1	40				
+//
+# KOBLFH_121154 Length: 49
+# KOBLFH_121154 Number of predicted TMRs: 0
+KOBLFH_121154	outside	1	49				
+//
+# KOBLFH_29434 Length: 43
+# KOBLFH_29434 Number of predicted TMRs: 0
+KOBLFH_29434	signal	1	42				
+KOBLFH_29434	outside	43	43				
+//
+# KOBLFH_154411 Length: 48
+# KOBLFH_154411 Number of predicted TMRs: 0
+KOBLFH_154411	inside	1	48				
+//
+# KOBLFH_40537 Length: 41
+# KOBLFH_40537 Number of predicted TMRs: 0
+KOBLFH_40537	inside	1	41				
+//
+# KOBLFH_104450 Length: 49
+# KOBLFH_104450 Number of predicted TMRs: 0
+KOBLFH_104450	outside	1	49				
+//
+# KOBLFH_163270 Length: 48
+# KOBLFH_163270 Number of predicted TMRs: 0
+KOBLFH_163270	inside	1	48				
+//
+# KOBLFH_133294 Length: 48
+# KOBLFH_133294 Number of predicted TMRs: 0
+KOBLFH_133294	inside	1	48				
+//
+# KOBLFH_163759 Length: 43
+# KOBLFH_163759 Number of predicted TMRs: 0
+KOBLFH_163759	signal	1	41				
+KOBLFH_163759	outside	42	43				
+//
+# KOBLFH_70745 Length: 45
+# KOBLFH_70745 Number of predicted TMRs: 0
+KOBLFH_70745	signal	1	33				
+KOBLFH_70745	outside	34	45				
+//
+# KOBLFH_17841 Length: 44
+# KOBLFH_17841 Number of predicted TMRs: 0
+KOBLFH_17841	inside	1	44				
+//
+# KOBLFH_122442 Length: 47
+# KOBLFH_122442 Number of predicted TMRs: 0
+KOBLFH_122442	signal	1	45				
+KOBLFH_122442	outside	46	47				
+//
+# KOBLFH_132127 Length: 48
+# KOBLFH_132127 Number of predicted TMRs: 0
+KOBLFH_132127	inside	1	48				
+//
+# KOBLFH_102532 Length: 46
+# KOBLFH_102532 Number of predicted TMRs: 0
+KOBLFH_102532	inside	1	46				
+//
+# KOBLFH_17649 Length: 44
+# KOBLFH_17649 Number of predicted TMRs: 0
+KOBLFH_17649	inside	1	44				
+//
+# KOBLFH_9154 Length: 44
+# KOBLFH_9154 Number of predicted TMRs: 0
+KOBLFH_9154	inside	1	44				
+//
+# KOBLFH_121155 Length: 45
+# KOBLFH_121155 Number of predicted TMRs: 0
+KOBLFH_121155	outside	1	45				
+//
+# KOBLFH_69652 Length: 39
+# KOBLFH_69652 Number of predicted TMRs: 0
+KOBLFH_69652	signal	1	31				
+KOBLFH_69652	outside	32	39				
+//
+# KOBLFH_95945 Length: 46
+# KOBLFH_95945 Number of predicted TMRs: 0
+KOBLFH_95945	inside	1	46				
+//
+# KOBLFH_102192 Length: 38
+# KOBLFH_102192 Number of predicted TMRs: 0
+KOBLFH_102192	signal	1	13				
+KOBLFH_102192	outside	14	38				
+//
+# KOBLFH_159721 Length: 50
+# KOBLFH_159721 Number of predicted TMRs: 0
+KOBLFH_159721	inside	1	50				
+//
+# KOBLFH_147814 Length: 48
+# KOBLFH_147814 Number of predicted TMRs: 0
+KOBLFH_147814	outside	1	48				
+//
+# KOBLFH_47060 Length: 50
+# KOBLFH_47060 Number of predicted TMRs: 0
+KOBLFH_47060	signal	1	11				
+KOBLFH_47060	outside	12	50				
+//
+# KOBLFH_85573 Length: 43
+# KOBLFH_85573 Number of predicted TMRs: 0
+KOBLFH_85573	signal	1	42				
+KOBLFH_85573	outside	43	43				
+//
+# KOBLFH_145099 Length: 46
+# KOBLFH_145099 Number of predicted TMRs: 0
+KOBLFH_145099	inside	1	46				
+//
+# KOBLFH_11827 Length: 39
+# KOBLFH_11827 Number of predicted TMRs: 0
+KOBLFH_11827	signal	1	21				
+KOBLFH_11827	outside	22	39				
+//
+# KOBLFH_132813 Length: 31
+# KOBLFH_132813 Number of predicted TMRs: 0
+KOBLFH_132813	signal	1	30				
+KOBLFH_132813	outside	31	31				
+//
+# KOBLFH_166038 Length: 38
+# KOBLFH_166038 Number of predicted TMRs: 0
+KOBLFH_166038	inside	1	38				
+//
+# KOBLFH_49798 Length: 46
+# KOBLFH_49798 Number of predicted TMRs: 0
+KOBLFH_49798	inside	1	46				
+//
+# KOBLFH_90914 Length: 49
+# KOBLFH_90914 Number of predicted TMRs: 0
+KOBLFH_90914	inside	1	49				
+//
+# KOBLFH_18334 Length: 40
+# KOBLFH_18334 Number of predicted TMRs: 0
+KOBLFH_18334	signal	1	38				
+KOBLFH_18334	outside	39	40				
+//
+# KOBLFH_166146 Length: 49
+# KOBLFH_166146 Number of predicted TMRs: 0
+KOBLFH_166146	inside	1	49				
+//
+# KOBLFH_47440 Length: 37
+# KOBLFH_47440 Number of predicted TMRs: 0
+KOBLFH_47440	signal	1	35				
+KOBLFH_47440	outside	36	37				
+//
+# KOBLFH_39942 Length: 35
+# KOBLFH_39942 Number of predicted TMRs: 0
+KOBLFH_39942	signal	1	15				
+KOBLFH_39942	outside	16	35				
+//
+# KOBLFH_29900 Length: 50
+# KOBLFH_29900 Number of predicted TMRs: 0
+KOBLFH_29900	inside	1	50				
+//
+# KOBLFH_109238 Length: 40
+# KOBLFH_109238 Number of predicted TMRs: 0
+KOBLFH_109238	signal	1	25				
+KOBLFH_109238	outside	26	40				
+//
+# KOBLFH_38334 Length: 47
+# KOBLFH_38334 Number of predicted TMRs: 0
+KOBLFH_38334	inside	1	47				
+//
+# KOBLFH_45788 Length: 46
+# KOBLFH_45788 Number of predicted TMRs: 0
+KOBLFH_45788	signal	1	10				
+KOBLFH_45788	outside	11	46				
+//
+# KOBLFH_89531 Length: 50
+# KOBLFH_89531 Number of predicted TMRs: 0
+KOBLFH_89531	signal	1	37				
+KOBLFH_89531	outside	38	50				
+//
+# KOBLFH_149054 Length: 38
+# KOBLFH_149054 Number of predicted TMRs: 0
+KOBLFH_149054	signal	1	30				
+KOBLFH_149054	outside	31	38				
+//
+# KOBLFH_37661 Length: 33
+# KOBLFH_37661 Number of predicted TMRs: 0
+KOBLFH_37661	signal	1	29				
+KOBLFH_37661	outside	30	33				
+//
+# KOBLFH_32510 Length: 46
+# KOBLFH_32510 Number of predicted TMRs: 0
+KOBLFH_32510	signal	1	18				
+KOBLFH_32510	outside	19	46				
+//
+# KOBLFH_71684 Length: 48
+# KOBLFH_71684 Number of predicted TMRs: 0
+KOBLFH_71684	signal	1	32				
+KOBLFH_71684	outside	33	48				
+//
+# KOBLFH_117193 Length: 45
+# KOBLFH_117193 Number of predicted TMRs: 0
+KOBLFH_117193	inside	1	45				
+//
+# KOBLFH_139524 Length: 47
+# KOBLFH_139524 Number of predicted TMRs: 0
+KOBLFH_139524	signal	1	21				
+KOBLFH_139524	outside	22	47				
+//
+# KOBLFH_33821 Length: 47
+# KOBLFH_33821 Number of predicted TMRs: 0
+KOBLFH_33821	inside	1	47				
+//
+# KOBLFH_13522 Length: 50
+# KOBLFH_13522 Number of predicted TMRs: 0
+KOBLFH_13522	inside	1	50				
+//
+# KOBLFH_105269 Length: 40
+# KOBLFH_105269 Number of predicted TMRs: 0
+KOBLFH_105269	inside	1	40				
+//
+# KOBLFH_128324 Length: 43
+# KOBLFH_128324 Number of predicted TMRs: 0
+KOBLFH_128324	signal	1	22				
+KOBLFH_128324	outside	23	43				
+//
+# KOBLFH_27325 Length: 44
+# KOBLFH_27325 Number of predicted TMRs: 0
+KOBLFH_27325	signal	1	43				
+KOBLFH_27325	outside	44	44				
+//
+# KOBLFH_58212 Length: 40
+# KOBLFH_58212 Number of predicted TMRs: 0
+KOBLFH_58212	signal	1	38				
+KOBLFH_58212	outside	39	40				
+//
+# KOBLFH_64980 Length: 44
+# KOBLFH_64980 Number of predicted TMRs: 0
+KOBLFH_64980	inside	1	44				
+//
+# KOBLFH_135393 Length: 44
+# KOBLFH_135393 Number of predicted TMRs: 0
+KOBLFH_135393	signal	1	11				
+KOBLFH_135393	outside	12	44				
+//
+# KOBLFH_80035 Length: 49
+# KOBLFH_80035 Number of predicted TMRs: 0
+KOBLFH_80035	signal	1	12				
+KOBLFH_80035	outside	13	49				
+//
+# KOBLFH_8822 Length: 47
+# KOBLFH_8822 Number of predicted TMRs: 0
+KOBLFH_8822	inside	1	47				
+//
+# KOBLFH_74112 Length: 35
+# KOBLFH_74112 Number of predicted TMRs: 0
+KOBLFH_74112	signal	1	34				
+KOBLFH_74112	outside	35	35				
+//
+# KOBLFH_62083 Length: 41
+# KOBLFH_62083 Number of predicted TMRs: 0
+KOBLFH_62083	inside	1	41				
+//
+# KOBLFH_148240 Length: 47
+# KOBLFH_148240 Number of predicted TMRs: 0
+KOBLFH_148240	signal	1	44				
+KOBLFH_148240	outside	45	47				
+//
+# KOBLFH_19643 Length: 40
+# KOBLFH_19643 Number of predicted TMRs: 0
+KOBLFH_19643	signal	1	39				
+KOBLFH_19643	outside	40	40				
+//
+# KOBLFH_81201 Length: 43
+# KOBLFH_81201 Number of predicted TMRs: 0
+KOBLFH_81201	inside	1	43				
+//
+# KOBLFH_154615 Length: 48
+# KOBLFH_154615 Number of predicted TMRs: 0
+KOBLFH_154615	inside	1	48				
+//
+# KOBLFH_34983 Length: 47
+# KOBLFH_34983 Number of predicted TMRs: 0
+KOBLFH_34983	inside	1	47				
+//
+# KOBLFH_58296 Length: 46
+# KOBLFH_58296 Number of predicted TMRs: 0
+KOBLFH_58296	signal	1	24				
+KOBLFH_58296	outside	25	46				
+//
+# KOBLFH_100385 Length: 34
+# KOBLFH_100385 Number of predicted TMRs: 0
+KOBLFH_100385	signal	1	32				
+KOBLFH_100385	outside	33	34				
+//
+# KOBLFH_43255 Length: 43
+# KOBLFH_43255 Number of predicted TMRs: 0
+KOBLFH_43255	signal	1	31				
+KOBLFH_43255	outside	32	43				
+//
+# KOBLFH_116883 Length: 39
+# KOBLFH_116883 Number of predicted TMRs: 0
+KOBLFH_116883	inside	1	39				
+//
+# KOBLFH_164552 Length: 47
+# KOBLFH_164552 Number of predicted TMRs: 0
+KOBLFH_164552	signal	1	17				
+KOBLFH_164552	outside	18	47				
+//
+# KOBLFH_148298 Length: 45
+# KOBLFH_148298 Number of predicted TMRs: 0
+KOBLFH_148298	inside	1	45				
+//
+# KOBLFH_42118 Length: 43
+# KOBLFH_42118 Number of predicted TMRs: 0
+KOBLFH_42118	inside	1	43				
+//
+# KOBLFH_145747 Length: 43
+# KOBLFH_145747 Number of predicted TMRs: 0
+KOBLFH_145747	inside	1	43				
+//
+# KOBLFH_157522 Length: 40
+# KOBLFH_157522 Number of predicted TMRs: 0
+KOBLFH_157522	signal	1	35				
+KOBLFH_157522	outside	36	40				
+//
+# KOBLFH_124064 Length: 48
+# KOBLFH_124064 Number of predicted TMRs: 0
+KOBLFH_124064	inside	1	48				
+//
+# KOBLFH_83835 Length: 50
+# KOBLFH_83835 Number of predicted TMRs: 0
+KOBLFH_83835	signal	1	11				
+KOBLFH_83835	outside	12	50				
+//
+# KOBLFH_157172 Length: 49
+# KOBLFH_157172 Number of predicted TMRs: 0
+KOBLFH_157172	inside	1	49				
+//
+# KOBLFH_125359 Length: 35
+# KOBLFH_125359 Number of predicted TMRs: 0
+KOBLFH_125359	signal	1	34				
+KOBLFH_125359	outside	35	35				
+//
+# KOBLFH_2436 Length: 50
+# KOBLFH_2436 Number of predicted TMRs: 0
+KOBLFH_2436	inside	1	50				
+//
+# KOBLFH_97542 Length: 50
+# KOBLFH_97542 Number of predicted TMRs: 0
+KOBLFH_97542	inside	1	50				
+//
+# KOBLFH_141419 Length: 50
+# KOBLFH_141419 Number of predicted TMRs: 0
+KOBLFH_141419	signal	1	43				
+KOBLFH_141419	outside	44	50				
+//
+# KOBLFH_15236 Length: 49
+# KOBLFH_15236 Number of predicted TMRs: 0
+KOBLFH_15236	inside	1	49				
+//
+# KOBLFH_164338 Length: 46
+# KOBLFH_164338 Number of predicted TMRs: 0
+KOBLFH_164338	inside	1	46				
+//
+# KOBLFH_86676 Length: 43
+# KOBLFH_86676 Number of predicted TMRs: 0
+KOBLFH_86676	inside	1	43				
+//
+# KOBLFH_153593 Length: 41
+# KOBLFH_153593 Number of predicted TMRs: 0
+KOBLFH_153593	signal	1	35				
+KOBLFH_153593	outside	36	41				
+//
+# KOBLFH_122173 Length: 36
+# KOBLFH_122173 Number of predicted TMRs: 0
+KOBLFH_122173	signal	1	13				
+KOBLFH_122173	outside	14	36				
+//
+# KOBLFH_146603 Length: 46
+# KOBLFH_146603 Number of predicted TMRs: 0
+KOBLFH_146603	inside	1	46				
+//
+# KOBLFH_128875 Length: 50
+# KOBLFH_128875 Number of predicted TMRs: 0
+KOBLFH_128875	signal	1	49				
+KOBLFH_128875	outside	50	50				
+//
+# KOBLFH_81071 Length: 47
+# KOBLFH_81071 Number of predicted TMRs: 0
+KOBLFH_81071	inside	1	47				
+//
+# KOBLFH_157207 Length: 47
+# KOBLFH_157207 Number of predicted TMRs: 0
+KOBLFH_157207	inside	1	47				
+//
+# KOBLFH_110535 Length: 49
+# KOBLFH_110535 Number of predicted TMRs: 0
+KOBLFH_110535	inside	1	49				
+//
+# KOBLFH_72994 Length: 50
+# KOBLFH_72994 Number of predicted TMRs: 0
+KOBLFH_72994	inside	1	50				
+//
+# KOBLFH_154716 Length: 39
+# KOBLFH_154716 Number of predicted TMRs: 0
+KOBLFH_154716	signal	1	38				
+KOBLFH_154716	outside	39	39				
+//
+# KOBLFH_28 Length: 36
+# KOBLFH_28 Number of predicted TMRs: 0
+KOBLFH_28	signal	1	32				
+KOBLFH_28	outside	33	36				
+//
+# KOBLFH_56763 Length: 47
+# KOBLFH_56763 Number of predicted TMRs: 0
+KOBLFH_56763	signal	1	45				
+KOBLFH_56763	outside	46	47				
+//
+# KOBLFH_2287 Length: 40
+# KOBLFH_2287 Number of predicted TMRs: 0
+KOBLFH_2287	signal	1	39				
+KOBLFH_2287	outside	40	40				
+//
+# KOBLFH_85200 Length: 49
+# KOBLFH_85200 Number of predicted TMRs: 0
+KOBLFH_85200	inside	1	49				
+//
+# KOBLFH_114695 Length: 44
+# KOBLFH_114695 Number of predicted TMRs: 0
+KOBLFH_114695	inside	1	44				
+//
+# KOBLFH_122811 Length: 47
+# KOBLFH_122811 Number of predicted TMRs: 0
+KOBLFH_122811	inside	1	47				
+//
+# KOBLFH_115704 Length: 35
+# KOBLFH_115704 Number of predicted TMRs: 0
+KOBLFH_115704	inside	1	35				
+//
+# KOBLFH_98585 Length: 40
+# KOBLFH_98585 Number of predicted TMRs: 0
+KOBLFH_98585	signal	1	39				
+KOBLFH_98585	periplasm	40	40				
+//
+# KOBLFH_147110 Length: 50
+# KOBLFH_147110 Number of predicted TMRs: 0
+KOBLFH_147110	inside	1	50				
+//
+# KOBLFH_79841 Length: 36
+# KOBLFH_79841 Number of predicted TMRs: 0
+KOBLFH_79841	signal	1	35				
+KOBLFH_79841	outside	36	36				
+//
+# KOBLFH_23447 Length: 49
+# KOBLFH_23447 Number of predicted TMRs: 1
+KOBLFH_23447	outside	1	9				
+KOBLFH_23447	TMhelix	10	30				
+KOBLFH_23447	inside	31	49				
+//
+# KOBLFH_100496 Length: 41
+# KOBLFH_100496 Number of predicted TMRs: 0
+KOBLFH_100496	inside	1	41				
+//
+# KOBLFH_13810 Length: 48
+# KOBLFH_13810 Number of predicted TMRs: 0
+KOBLFH_13810	inside	1	48				
+//
+# KOBLFH_86119 Length: 41
+# KOBLFH_86119 Number of predicted TMRs: 0
+KOBLFH_86119	inside	1	41				
+//
+# KOBLFH_23802 Length: 41
+# KOBLFH_23802 Number of predicted TMRs: 0
+KOBLFH_23802	inside	1	41				
+//
+# KOBLFH_17757 Length: 43
+# KOBLFH_17757 Number of predicted TMRs: 0
+KOBLFH_17757	signal	1	42				
+KOBLFH_17757	outside	43	43				
+//
+# KOBLFH_111917 Length: 30
+# KOBLFH_111917 Number of predicted TMRs: 0
+KOBLFH_111917	signal	1	29				
+KOBLFH_111917	outside	30	30				
+//
+# KOBLFH_116814 Length: 47
+# KOBLFH_116814 Number of predicted TMRs: 0
+KOBLFH_116814	inside	1	47				
+//
+# KOBLFH_24737 Length: 45
+# KOBLFH_24737 Number of predicted TMRs: 0
+KOBLFH_24737	signal	1	34				
+KOBLFH_24737	outside	35	45				
+//
+# KOBLFH_10032 Length: 50
+# KOBLFH_10032 Number of predicted TMRs: 0
+KOBLFH_10032	inside	1	50				
+//
+# KOBLFH_24493 Length: 39
+# KOBLFH_24493 Number of predicted TMRs: 0
+KOBLFH_24493	inside	1	39				
+//
+# KOBLFH_116647 Length: 38
+# KOBLFH_116647 Number of predicted TMRs: 0
+KOBLFH_116647	outside	1	38				
+//
+# KOBLFH_141577 Length: 50
+# KOBLFH_141577 Number of predicted TMRs: 0
+KOBLFH_141577	inside	1	50				
+//
+# KOBLFH_77882 Length: 50
+# KOBLFH_77882 Number of predicted TMRs: 0
+KOBLFH_77882	signal	1	43				
+KOBLFH_77882	outside	44	50				
+//
+# KOBLFH_63190 Length: 38
+# KOBLFH_63190 Number of predicted TMRs: 0
+KOBLFH_63190	signal	1	24				
+KOBLFH_63190	outside	25	38				
+//
+# KOBLFH_90529 Length: 39
+# KOBLFH_90529 Number of predicted TMRs: 0
+KOBLFH_90529	inside	1	39				
+//
+# KOBLFH_68435 Length: 50
+# KOBLFH_68435 Number of predicted TMRs: 0
+KOBLFH_68435	signal	1	24				
+KOBLFH_68435	outside	25	50				
+//
+# KOBLFH_28963 Length: 43
+# KOBLFH_28963 Number of predicted TMRs: 0
+KOBLFH_28963	inside	1	43				
+//
+# KOBLFH_145080 Length: 47
+# KOBLFH_145080 Number of predicted TMRs: 0
+KOBLFH_145080	inside	1	47				
+//
+# KOBLFH_33597 Length: 48
+# KOBLFH_33597 Number of predicted TMRs: 0
+KOBLFH_33597	signal	1	47				
+KOBLFH_33597	outside	48	48				
+//
+# KOBLFH_98816 Length: 37
+# KOBLFH_98816 Number of predicted TMRs: 0
+KOBLFH_98816	signal	1	20				
+KOBLFH_98816	outside	21	37				
+//
+# KOBLFH_68652 Length: 38
+# KOBLFH_68652 Number of predicted TMRs: 0
+KOBLFH_68652	signal	1	21				
+KOBLFH_68652	outside	22	38				
+//
+# KOBLFH_10013 Length: 48
+# KOBLFH_10013 Number of predicted TMRs: 0
+KOBLFH_10013	inside	1	48				
+//
+# KOBLFH_23781 Length: 48
+# KOBLFH_23781 Number of predicted TMRs: 0
+KOBLFH_23781	signal	1	20				
+KOBLFH_23781	outside	21	48				
+//
+# KOBLFH_165404 Length: 50
+# KOBLFH_165404 Number of predicted TMRs: 0
+KOBLFH_165404	inside	1	50				
+//
+# KOBLFH_75484 Length: 48
+# KOBLFH_75484 Number of predicted TMRs: 0
+KOBLFH_75484	signal	1	44				
+KOBLFH_75484	outside	45	48				
+//
+# KOBLFH_142767 Length: 44
+# KOBLFH_142767 Number of predicted TMRs: 0
+KOBLFH_142767	signal	1	42				
+KOBLFH_142767	outside	43	44				
+//
+# KOBLFH_144778 Length: 46
+# KOBLFH_144778 Number of predicted TMRs: 0
+KOBLFH_144778	signal	1	38				
+KOBLFH_144778	outside	39	46				
+//
+# KOBLFH_11169 Length: 45
+# KOBLFH_11169 Number of predicted TMRs: 0
+KOBLFH_11169	signal	1	40				
+KOBLFH_11169	outside	41	45				
+//
+# KOBLFH_153092 Length: 47
+# KOBLFH_153092 Number of predicted TMRs: 0
+KOBLFH_153092	outside	1	47				
+//
+# KOBLFH_169340 Length: 49
+# KOBLFH_169340 Number of predicted TMRs: 0
+KOBLFH_169340	signal	1	17				
+KOBLFH_169340	outside	18	49				
+//
+# KOBLFH_80210 Length: 34
+# KOBLFH_80210 Number of predicted TMRs: 0
+KOBLFH_80210	signal	1	33				
+KOBLFH_80210	outside	34	34				
+//
+# KOBLFH_82990 Length: 39
+# KOBLFH_82990 Number of predicted TMRs: 0
+KOBLFH_82990	signal	1	21				
+KOBLFH_82990	outside	22	39				
+//
+# KOBLFH_49536 Length: 42
+# KOBLFH_49536 Number of predicted TMRs: 0
+KOBLFH_49536	signal	1	39				
+KOBLFH_49536	outside	40	42				
+//
+# KOBLFH_15640 Length: 46
+# KOBLFH_15640 Number of predicted TMRs: 0
+KOBLFH_15640	signal	1	11				
+KOBLFH_15640	outside	12	46				
+//
+# KOBLFH_39645 Length: 49
+# KOBLFH_39645 Number of predicted TMRs: 0
+KOBLFH_39645	inside	1	49				
+//
+# KOBLFH_170012 Length: 46
+# KOBLFH_170012 Number of predicted TMRs: 0
+KOBLFH_170012	inside	1	46				
+//
+# KOBLFH_148546 Length: 50
+# KOBLFH_148546 Number of predicted TMRs: 0
+KOBLFH_148546	inside	1	50				
+//
+# KOBLFH_143278 Length: 48
+# KOBLFH_143278 Number of predicted TMRs: 0
+KOBLFH_143278	inside	1	48				
+//
+# KOBLFH_133326 Length: 50
+# KOBLFH_133326 Number of predicted TMRs: 0
+KOBLFH_133326	inside	1	50				
+//
+# KOBLFH_170905 Length: 43
+# KOBLFH_170905 Number of predicted TMRs: 0
+KOBLFH_170905	signal	1	42				
+KOBLFH_170905	outside	43	43				
+//
+# KOBLFH_10796 Length: 41
+# KOBLFH_10796 Number of predicted TMRs: 0
+KOBLFH_10796	inside	1	41				
+//
+# KOBLFH_33016 Length: 39
+# KOBLFH_33016 Number of predicted TMRs: 0
+KOBLFH_33016	inside	1	39				
+//
+# KOBLFH_18137 Length: 33
+# KOBLFH_18137 Number of predicted TMRs: 0
+KOBLFH_18137	signal	1	31				
+KOBLFH_18137	outside	32	33				
+//
+# KOBLFH_129017 Length: 45
+# KOBLFH_129017 Number of predicted TMRs: 0
+KOBLFH_129017	signal	1	11				
+KOBLFH_129017	outside	12	45				
+//
+# KOBLFH_137483 Length: 42
+# KOBLFH_137483 Number of predicted TMRs: 0
+KOBLFH_137483	inside	1	42				
+//
+# KOBLFH_128796 Length: 50
+# KOBLFH_128796 Number of predicted TMRs: 0
+KOBLFH_128796	signal	1	28				
+KOBLFH_128796	outside	29	50				
+//
+# KOBLFH_13420 Length: 50
+# KOBLFH_13420 Number of predicted TMRs: 0
+KOBLFH_13420	signal	1	21				
+KOBLFH_13420	outside	22	50				
+//
+# KOBLFH_113644 Length: 50
+# KOBLFH_113644 Number of predicted TMRs: 0
+KOBLFH_113644	inside	1	50				
+//
+# KOBLFH_32668 Length: 45
+# KOBLFH_32668 Number of predicted TMRs: 0
+KOBLFH_32668	signal	1	24				
+KOBLFH_32668	outside	25	45				
+//
+# KOBLFH_30498 Length: 49
+# KOBLFH_30498 Number of predicted TMRs: 0
+KOBLFH_30498	signal	1	40				
+KOBLFH_30498	outside	41	49				
+//
+# KOBLFH_133047 Length: 40
+# KOBLFH_133047 Number of predicted TMRs: 0
+KOBLFH_133047	signal	1	36				
+KOBLFH_133047	outside	37	40				
+//
+# KOBLFH_37254 Length: 45
+# KOBLFH_37254 Number of predicted TMRs: 0
+KOBLFH_37254	inside	1	45				
+//
+# KOBLFH_138001 Length: 45
+# KOBLFH_138001 Number of predicted TMRs: 0
+KOBLFH_138001	inside	1	45				
+//
+# KOBLFH_46274 Length: 50
+# KOBLFH_46274 Number of predicted TMRs: 0
+KOBLFH_46274	inside	1	50				
+//
+# KOBLFH_162874 Length: 37
+# KOBLFH_162874 Number of predicted TMRs: 0
+KOBLFH_162874	inside	1	37				
+//
+# KOBLFH_147181 Length: 49
+# KOBLFH_147181 Number of predicted TMRs: 0
+KOBLFH_147181	inside	1	49				
+//
+# KOBLFH_3521 Length: 48
+# KOBLFH_3521 Number of predicted TMRs: 0
+KOBLFH_3521	inside	1	48				
+//
+# KOBLFH_75724 Length: 40
+# KOBLFH_75724 Number of predicted TMRs: 0
+KOBLFH_75724	signal	1	34				
+KOBLFH_75724	outside	35	40				
+//
+# KOBLFH_66769 Length: 47
+# KOBLFH_66769 Number of predicted TMRs: 0
+KOBLFH_66769	signal	1	32				
+KOBLFH_66769	outside	33	47				
+//
+# KOBLFH_91461 Length: 36
+# KOBLFH_91461 Number of predicted TMRs: 0
+KOBLFH_91461	signal	1	23				
+KOBLFH_91461	outside	24	36				
+//
+# KOBLFH_150410 Length: 45
+# KOBLFH_150410 Number of predicted TMRs: 0
+KOBLFH_150410	inside	1	45				
+//
+# KOBLFH_116226 Length: 49
+# KOBLFH_116226 Number of predicted TMRs: 0
+KOBLFH_116226	inside	1	49				
+//
+# KOBLFH_64482 Length: 44
+# KOBLFH_64482 Number of predicted TMRs: 0
+KOBLFH_64482	inside	1	44				
+//
+# KOBLFH_164919 Length: 44
+# KOBLFH_164919 Number of predicted TMRs: 0
+KOBLFH_164919	inside	1	44				
+//
+# KOBLFH_42350 Length: 48
+# KOBLFH_42350 Number of predicted TMRs: 0
+KOBLFH_42350	inside	1	48				
+//
+# KOBLFH_41691 Length: 39
+# KOBLFH_41691 Number of predicted TMRs: 0
+KOBLFH_41691	signal	1	38				
+KOBLFH_41691	outside	39	39				
+//
+# KOBLFH_24315 Length: 44
+# KOBLFH_24315 Number of predicted TMRs: 0
+KOBLFH_24315	inside	1	44				
+//
+# KOBLFH_95688 Length: 46
+# KOBLFH_95688 Number of predicted TMRs: 0
+KOBLFH_95688	signal	1	25				
+KOBLFH_95688	outside	26	46				
+//
+# KOBLFH_87900 Length: 46
+# KOBLFH_87900 Number of predicted TMRs: 0
+KOBLFH_87900	inside	1	46				
+//
+# KOBLFH_36609 Length: 43
+# KOBLFH_36609 Number of predicted TMRs: 0
+KOBLFH_36609	signal	1	40				
+KOBLFH_36609	outside	41	43				
+//
+# KOBLFH_37160 Length: 45
+# KOBLFH_37160 Number of predicted TMRs: 0
+KOBLFH_37160	inside	1	45				
+//
+# KOBLFH_143755 Length: 43
+# KOBLFH_143755 Number of predicted TMRs: 0
+KOBLFH_143755	inside	1	43				
+//
+# KOBLFH_38149 Length: 48
+# KOBLFH_38149 Number of predicted TMRs: 0
+KOBLFH_38149	inside	1	48				
+//
+# KOBLFH_93875 Length: 36
+# KOBLFH_93875 Number of predicted TMRs: 0
+KOBLFH_93875	signal	1	33				
+KOBLFH_93875	outside	34	36				
+//
+# KOBLFH_40867 Length: 47
+# KOBLFH_40867 Number of predicted TMRs: 0
+KOBLFH_40867	inside	1	47				
+//
+# KOBLFH_125840 Length: 47
+# KOBLFH_125840 Number of predicted TMRs: 0
+KOBLFH_125840	inside	1	47				
+//
+# KOBLFH_42193 Length: 43
+# KOBLFH_42193 Number of predicted TMRs: 0
+KOBLFH_42193	signal	1	12				
+KOBLFH_42193	outside	13	43				
+//
+# KOBLFH_19842 Length: 39
+# KOBLFH_19842 Number of predicted TMRs: 0
+KOBLFH_19842	inside	1	39				
+//
+# KOBLFH_134059 Length: 46
+# KOBLFH_134059 Number of predicted TMRs: 0
+KOBLFH_134059	signal	1	40				
+KOBLFH_134059	outside	41	46				
+//
+# KOBLFH_34358 Length: 50
+# KOBLFH_34358 Number of predicted TMRs: 0
+KOBLFH_34358	signal	1	44				
+KOBLFH_34358	outside	45	50				
+//
+# KOBLFH_32234 Length: 50
+# KOBLFH_32234 Number of predicted TMRs: 0
+KOBLFH_32234	inside	1	50				
+//
+# KOBLFH_164978 Length: 38
+# KOBLFH_164978 Number of predicted TMRs: 0
+KOBLFH_164978	signal	1	37				
+KOBLFH_164978	outside	38	38				
+//
+# KOBLFH_117459 Length: 47
+# KOBLFH_117459 Number of predicted TMRs: 0
+KOBLFH_117459	signal	1	25				
+KOBLFH_117459	outside	26	47				

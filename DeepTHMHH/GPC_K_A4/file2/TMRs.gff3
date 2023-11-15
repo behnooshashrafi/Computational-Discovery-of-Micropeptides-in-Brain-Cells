@@ -1,0 +1,4354 @@
+##gff-version 3
+# RXXXRC_55910 Length: 46
+# RXXXRC_55910 Number of predicted TMRs: 1
+RXXXRC_55910	signal	1	10				
+RXXXRC_55910	outside	11	11				
+RXXXRC_55910	TMhelix	12	32				
+RXXXRC_55910	inside	33	46				
+//
+# RXXXRC_94521 Length: 41
+# RXXXRC_94521 Number of predicted TMRs: 0
+RXXXRC_94521	inside	1	41				
+//
+# RXXXRC_100392 Length: 46
+# RXXXRC_100392 Number of predicted TMRs: 0
+RXXXRC_100392	inside	1	46				
+//
+# RXXXRC_18187 Length: 37
+# RXXXRC_18187 Number of predicted TMRs: 0
+RXXXRC_18187	signal	1	34				
+RXXXRC_18187	outside	35	37				
+//
+# RXXXRC_138279 Length: 39
+# RXXXRC_138279 Number of predicted TMRs: 0
+RXXXRC_138279	signal	1	19				
+RXXXRC_138279	outside	20	39				
+//
+# RXXXRC_166431 Length: 37
+# RXXXRC_166431 Number of predicted TMRs: 0
+RXXXRC_166431	signal	1	11				
+RXXXRC_166431	outside	12	37				
+//
+# RXXXRC_141907 Length: 50
+# RXXXRC_141907 Number of predicted TMRs: 0
+RXXXRC_141907	outside	1	50				
+//
+# RXXXRC_140924 Length: 39
+# RXXXRC_140924 Number of predicted TMRs: 0
+RXXXRC_140924	signal	1	38				
+RXXXRC_140924	outside	39	39				
+//
+# RXXXRC_89674 Length: 42
+# RXXXRC_89674 Number of predicted TMRs: 0
+RXXXRC_89674	inside	1	42				
+//
+# RXXXRC_102398 Length: 47
+# RXXXRC_102398 Number of predicted TMRs: 0
+RXXXRC_102398	signal	1	46				
+RXXXRC_102398	outside	47	47				
+//
+# RXXXRC_12883 Length: 49
+# RXXXRC_12883 Number of predicted TMRs: 0
+RXXXRC_12883	inside	1	49				
+//
+# RXXXRC_91531 Length: 47
+# RXXXRC_91531 Number of predicted TMRs: 0
+RXXXRC_91531	inside	1	47				
+//
+# RXXXRC_126919 Length: 45
+# RXXXRC_126919 Number of predicted TMRs: 0
+RXXXRC_126919	signal	1	41				
+RXXXRC_126919	outside	42	45				
+//
+# RXXXRC_53641 Length: 47
+# RXXXRC_53641 Number of predicted TMRs: 0
+RXXXRC_53641	signal	1	18				
+RXXXRC_53641	outside	19	47				
+//
+# RXXXRC_17892 Length: 37
+# RXXXRC_17892 Number of predicted TMRs: 0
+RXXXRC_17892	inside	1	37				
+//
+# RXXXRC_173094 Length: 47
+# RXXXRC_173094 Number of predicted TMRs: 0
+RXXXRC_173094	signal	1	14				
+RXXXRC_173094	outside	15	47				
+//
+# RXXXRC_61647 Length: 44
+# RXXXRC_61647 Number of predicted TMRs: 0
+RXXXRC_61647	inside	1	44				
+//
+# RXXXRC_88061 Length: 45
+# RXXXRC_88061 Number of predicted TMRs: 0
+RXXXRC_88061	inside	1	45				
+//
+# RXXXRC_88621 Length: 45
+# RXXXRC_88621 Number of predicted TMRs: 0
+RXXXRC_88621	inside	1	45				
+//
+# RXXXRC_51834 Length: 50
+# RXXXRC_51834 Number of predicted TMRs: 0
+RXXXRC_51834	inside	1	50				
+//
+# RXXXRC_119266 Length: 43
+# RXXXRC_119266 Number of predicted TMRs: 0
+RXXXRC_119266	signal	1	42				
+RXXXRC_119266	outside	43	43				
+//
+# RXXXRC_141899 Length: 41
+# RXXXRC_141899 Number of predicted TMRs: 0
+RXXXRC_141899	inside	1	41				
+//
+# RXXXRC_145414 Length: 45
+# RXXXRC_145414 Number of predicted TMRs: 0
+RXXXRC_145414	inside	1	45				
+//
+# RXXXRC_4833 Length: 46
+# RXXXRC_4833 Number of predicted TMRs: 0
+RXXXRC_4833	inside	1	46				
+//
+# RXXXRC_165703 Length: 39
+# RXXXRC_165703 Number of predicted TMRs: 0
+RXXXRC_165703	inside	1	39				
+//
+# RXXXRC_144205 Length: 39
+# RXXXRC_144205 Number of predicted TMRs: 0
+RXXXRC_144205	inside	1	39				
+//
+# RXXXRC_93995 Length: 34
+# RXXXRC_93995 Number of predicted TMRs: 0
+RXXXRC_93995	inside	1	34				
+//
+# RXXXRC_138511 Length: 47
+# RXXXRC_138511 Number of predicted TMRs: 0
+RXXXRC_138511	inside	1	47				
+//
+# RXXXRC_13358 Length: 46
+# RXXXRC_13358 Number of predicted TMRs: 0
+RXXXRC_13358	signal	1	26				
+RXXXRC_13358	outside	27	46				
+//
+# RXXXRC_25491 Length: 47
+# RXXXRC_25491 Number of predicted TMRs: 0
+RXXXRC_25491	inside	1	47				
+//
+# RXXXRC_38887 Length: 46
+# RXXXRC_38887 Number of predicted TMRs: 0
+RXXXRC_38887	signal	1	23				
+RXXXRC_38887	outside	24	46				
+//
+# RXXXRC_169358 Length: 37
+# RXXXRC_169358 Number of predicted TMRs: 0
+RXXXRC_169358	signal	1	13				
+RXXXRC_169358	outside	14	37				
+//
+# RXXXRC_36519 Length: 49
+# RXXXRC_36519 Number of predicted TMRs: 0
+RXXXRC_36519	signal	1	13				
+RXXXRC_36519	outside	14	49				
+//
+# RXXXRC_113825 Length: 49
+# RXXXRC_113825 Number of predicted TMRs: 0
+RXXXRC_113825	signal	1	14				
+RXXXRC_113825	outside	15	49				
+//
+# RXXXRC_19263 Length: 45
+# RXXXRC_19263 Number of predicted TMRs: 0
+RXXXRC_19263	inside	1	45				
+//
+# RXXXRC_25298 Length: 37
+# RXXXRC_25298 Number of predicted TMRs: 0
+RXXXRC_25298	signal	1	35				
+RXXXRC_25298	outside	36	37				
+//
+# RXXXRC_53329 Length: 42
+# RXXXRC_53329 Number of predicted TMRs: 0
+RXXXRC_53329	signal	1	22				
+RXXXRC_53329	outside	23	42				
+//
+# RXXXRC_120724 Length: 34
+# RXXXRC_120724 Number of predicted TMRs: 0
+RXXXRC_120724	signal	1	19				
+RXXXRC_120724	outside	20	34				
+//
+# RXXXRC_93000 Length: 47
+# RXXXRC_93000 Number of predicted TMRs: 0
+RXXXRC_93000	inside	1	47				
+//
+# RXXXRC_144813 Length: 49
+# RXXXRC_144813 Number of predicted TMRs: 0
+RXXXRC_144813	inside	1	49				
+//
+# RXXXRC_19242 Length: 41
+# RXXXRC_19242 Number of predicted TMRs: 0
+RXXXRC_19242	signal	1	30				
+RXXXRC_19242	outside	31	41				
+//
+# RXXXRC_21925 Length: 49
+# RXXXRC_21925 Number of predicted TMRs: 0
+RXXXRC_21925	signal	1	47				
+RXXXRC_21925	outside	48	49				
+//
+# RXXXRC_8037 Length: 47
+# RXXXRC_8037 Number of predicted TMRs: 0
+RXXXRC_8037	outside	1	47				
+//
+# RXXXRC_127951 Length: 36
+# RXXXRC_127951 Number of predicted TMRs: 0
+RXXXRC_127951	inside	1	36				
+//
+# RXXXRC_143137 Length: 48
+# RXXXRC_143137 Number of predicted TMRs: 0
+RXXXRC_143137	inside	1	48				
+//
+# RXXXRC_110542 Length: 39
+# RXXXRC_110542 Number of predicted TMRs: 0
+RXXXRC_110542	signal	1	11				
+RXXXRC_110542	outside	12	39				
+//
+# RXXXRC_159929 Length: 39
+# RXXXRC_159929 Number of predicted TMRs: 0
+RXXXRC_159929	signal	1	38				
+RXXXRC_159929	outside	39	39				
+//
+# RXXXRC_20556 Length: 50
+# RXXXRC_20556 Number of predicted TMRs: 0
+RXXXRC_20556	inside	1	50				
+//
+# RXXXRC_85958 Length: 48
+# RXXXRC_85958 Number of predicted TMRs: 0
+RXXXRC_85958	signal	1	47				
+RXXXRC_85958	outside	48	48				
+//
+# RXXXRC_18925 Length: 45
+# RXXXRC_18925 Number of predicted TMRs: 0
+RXXXRC_18925	inside	1	45				
+//
+# RXXXRC_166668 Length: 44
+# RXXXRC_166668 Number of predicted TMRs: 0
+RXXXRC_166668	signal	1	21				
+RXXXRC_166668	outside	22	44				
+//
+# RXXXRC_692 Length: 45
+# RXXXRC_692 Number of predicted TMRs: 0
+RXXXRC_692	inside	1	45				
+//
+# RXXXRC_144819 Length: 49
+# RXXXRC_144819 Number of predicted TMRs: 0
+RXXXRC_144819	inside	1	49				
+//
+# RXXXRC_24167 Length: 50
+# RXXXRC_24167 Number of predicted TMRs: 0
+RXXXRC_24167	inside	1	50				
+//
+# RXXXRC_145053 Length: 45
+# RXXXRC_145053 Number of predicted TMRs: 0
+RXXXRC_145053	signal	1	20				
+RXXXRC_145053	outside	21	45				
+//
+# RXXXRC_65015 Length: 43
+# RXXXRC_65015 Number of predicted TMRs: 0
+RXXXRC_65015	inside	1	43				
+//
+# RXXXRC_83312 Length: 46
+# RXXXRC_83312 Number of predicted TMRs: 0
+RXXXRC_83312	signal	1	45				
+RXXXRC_83312	outside	46	46				
+//
+# RXXXRC_17386 Length: 46
+# RXXXRC_17386 Number of predicted TMRs: 0
+RXXXRC_17386	signal	1	45				
+RXXXRC_17386	outside	46	46				
+//
+# RXXXRC_121726 Length: 50
+# RXXXRC_121726 Number of predicted TMRs: 0
+RXXXRC_121726	signal	1	48				
+RXXXRC_121726	outside	49	50				
+//
+# RXXXRC_139452 Length: 47
+# RXXXRC_139452 Number of predicted TMRs: 0
+RXXXRC_139452	signal	1	45				
+RXXXRC_139452	outside	46	47				
+//
+# RXXXRC_140596 Length: 42
+# RXXXRC_140596 Number of predicted TMRs: 0
+RXXXRC_140596	inside	1	42				
+//
+# RXXXRC_163284 Length: 41
+# RXXXRC_163284 Number of predicted TMRs: 0
+RXXXRC_163284	inside	1	41				
+//
+# RXXXRC_167204 Length: 44
+# RXXXRC_167204 Number of predicted TMRs: 0
+RXXXRC_167204	inside	1	44				
+//
+# RXXXRC_100034 Length: 50
+# RXXXRC_100034 Number of predicted TMRs: 0
+RXXXRC_100034	signal	1	17				
+RXXXRC_100034	outside	18	50				
+//
+# RXXXRC_32702 Length: 36
+# RXXXRC_32702 Number of predicted TMRs: 0
+RXXXRC_32702	inside	1	36				
+//
+# RXXXRC_100448 Length: 48
+# RXXXRC_100448 Number of predicted TMRs: 0
+RXXXRC_100448	inside	1	48				
+//
+# RXXXRC_38769 Length: 47
+# RXXXRC_38769 Number of predicted TMRs: 0
+RXXXRC_38769	signal	1	35				
+RXXXRC_38769	outside	36	47				
+//
+# RXXXRC_13247 Length: 48
+# RXXXRC_13247 Number of predicted TMRs: 0
+RXXXRC_13247	inside	1	48				
+//
+# RXXXRC_19110 Length: 40
+# RXXXRC_19110 Number of predicted TMRs: 0
+RXXXRC_19110	signal	1	39				
+RXXXRC_19110	outside	40	40				
+//
+# RXXXRC_31523 Length: 42
+# RXXXRC_31523 Number of predicted TMRs: 0
+RXXXRC_31523	signal	1	35				
+RXXXRC_31523	outside	36	42				
+//
+# RXXXRC_141849 Length: 50
+# RXXXRC_141849 Number of predicted TMRs: 0
+RXXXRC_141849	inside	1	50				
+//
+# RXXXRC_165070 Length: 37
+# RXXXRC_165070 Number of predicted TMRs: 0
+RXXXRC_165070	signal	1	35				
+RXXXRC_165070	outside	36	37				
+//
+# RXXXRC_142913 Length: 46
+# RXXXRC_142913 Number of predicted TMRs: 0
+RXXXRC_142913	inside	1	46				
+//
+# RXXXRC_126781 Length: 46
+# RXXXRC_126781 Number of predicted TMRs: 0
+RXXXRC_126781	inside	1	46				
+//
+# RXXXRC_121577 Length: 39
+# RXXXRC_121577 Number of predicted TMRs: 0
+RXXXRC_121577	inside	1	39				
+//
+# RXXXRC_148099 Length: 36
+# RXXXRC_148099 Number of predicted TMRs: 0
+RXXXRC_148099	inside	1	36				
+//
+# RXXXRC_124522 Length: 48
+# RXXXRC_124522 Number of predicted TMRs: 0
+RXXXRC_124522	signal	1	46				
+RXXXRC_124522	outside	47	48				
+//
+# RXXXRC_6326 Length: 48
+# RXXXRC_6326 Number of predicted TMRs: 0
+RXXXRC_6326	inside	1	48				
+//
+# RXXXRC_2818 Length: 36
+# RXXXRC_2818 Number of predicted TMRs: 0
+RXXXRC_2818	signal	1	34				
+RXXXRC_2818	outside	35	36				
+//
+# RXXXRC_101066 Length: 24
+# RXXXRC_101066 Number of predicted TMRs: 0
+RXXXRC_101066	inside	1	24				
+//
+# RXXXRC_112431 Length: 33
+# RXXXRC_112431 Number of predicted TMRs: 0
+RXXXRC_112431	signal	1	32				
+RXXXRC_112431	outside	33	33				
+//
+# RXXXRC_110306 Length: 44
+# RXXXRC_110306 Number of predicted TMRs: 0
+RXXXRC_110306	inside	1	44				
+//
+# RXXXRC_148116 Length: 40
+# RXXXRC_148116 Number of predicted TMRs: 0
+RXXXRC_148116	signal	1	39				
+RXXXRC_148116	outside	40	40				
+//
+# RXXXRC_29376 Length: 47
+# RXXXRC_29376 Number of predicted TMRs: 0
+RXXXRC_29376	signal	1	10				
+RXXXRC_29376	outside	11	47				
+//
+# RXXXRC_74800 Length: 42
+# RXXXRC_74800 Number of predicted TMRs: 0
+RXXXRC_74800	inside	1	42				
+//
+# RXXXRC_104166 Length: 45
+# RXXXRC_104166 Number of predicted TMRs: 0
+RXXXRC_104166	signal	1	17				
+RXXXRC_104166	outside	18	45				
+//
+# RXXXRC_82106 Length: 44
+# RXXXRC_82106 Number of predicted TMRs: 0
+RXXXRC_82106	signal	1	10				
+RXXXRC_82106	outside	11	44				
+//
+# RXXXRC_41074 Length: 42
+# RXXXRC_41074 Number of predicted TMRs: 0
+RXXXRC_41074	inside	1	42				
+//
+# RXXXRC_133272 Length: 48
+# RXXXRC_133272 Number of predicted TMRs: 0
+RXXXRC_133272	inside	1	48				
+//
+# RXXXRC_42386 Length: 45
+# RXXXRC_42386 Number of predicted TMRs: 0
+RXXXRC_42386	inside	1	45				
+//
+# RXXXRC_115323 Length: 39
+# RXXXRC_115323 Number of predicted TMRs: 0
+RXXXRC_115323	inside	1	39				
+//
+# RXXXRC_37388 Length: 43
+# RXXXRC_37388 Number of predicted TMRs: 0
+RXXXRC_37388	inside	1	43				
+//
+# RXXXRC_123059 Length: 44
+# RXXXRC_123059 Number of predicted TMRs: 0
+RXXXRC_123059	inside	1	44				
+//
+# RXXXRC_75348 Length: 49
+# RXXXRC_75348 Number of predicted TMRs: 0
+RXXXRC_75348	inside	1	49				
+//
+# RXXXRC_140975 Length: 48
+# RXXXRC_140975 Number of predicted TMRs: 0
+RXXXRC_140975	signal	1	47				
+RXXXRC_140975	outside	48	48				
+//
+# RXXXRC_35168 Length: 45
+# RXXXRC_35168 Number of predicted TMRs: 0
+RXXXRC_35168	inside	1	45				
+//
+# RXXXRC_37643 Length: 49
+# RXXXRC_37643 Number of predicted TMRs: 0
+RXXXRC_37643	inside	1	49				
+//
+# RXXXRC_84252 Length: 42
+# RXXXRC_84252 Number of predicted TMRs: 0
+RXXXRC_84252	signal	1	26				
+RXXXRC_84252	outside	27	42				
+//
+# RXXXRC_119170 Length: 50
+# RXXXRC_119170 Number of predicted TMRs: 0
+RXXXRC_119170	inside	1	50				
+//
+# RXXXRC_16561 Length: 48
+# RXXXRC_16561 Number of predicted TMRs: 0
+RXXXRC_16561	inside	1	48				
+//
+# RXXXRC_137264 Length: 44
+# RXXXRC_137264 Number of predicted TMRs: 0
+RXXXRC_137264	signal	1	29				
+RXXXRC_137264	outside	30	44				
+//
+# RXXXRC_1202 Length: 48
+# RXXXRC_1202 Number of predicted TMRs: 0
+RXXXRC_1202	inside	1	48				
+//
+# RXXXRC_62689 Length: 32
+# RXXXRC_62689 Number of predicted TMRs: 0
+RXXXRC_62689	signal	1	31				
+RXXXRC_62689	outside	32	32				
+//
+# RXXXRC_149776 Length: 46
+# RXXXRC_149776 Number of predicted TMRs: 0
+RXXXRC_149776	inside	1	46				
+//
+# RXXXRC_87420 Length: 50
+# RXXXRC_87420 Number of predicted TMRs: 0
+RXXXRC_87420	signal	1	45				
+RXXXRC_87420	outside	46	50				
+//
+# RXXXRC_110195 Length: 43
+# RXXXRC_110195 Number of predicted TMRs: 0
+RXXXRC_110195	inside	1	43				
+//
+# RXXXRC_10147 Length: 40
+# RXXXRC_10147 Number of predicted TMRs: 0
+RXXXRC_10147	inside	1	40				
+//
+# RXXXRC_33176 Length: 44
+# RXXXRC_33176 Number of predicted TMRs: 0
+RXXXRC_33176	signal	1	37				
+RXXXRC_33176	outside	38	44				
+//
+# RXXXRC_17604 Length: 44
+# RXXXRC_17604 Number of predicted TMRs: 0
+RXXXRC_17604	inside	1	44				
+//
+# RXXXRC_69072 Length: 48
+# RXXXRC_69072 Number of predicted TMRs: 0
+RXXXRC_69072	inside	1	48				
+//
+# RXXXRC_147599 Length: 37
+# RXXXRC_147599 Number of predicted TMRs: 0
+RXXXRC_147599	signal	1	36				
+RXXXRC_147599	outside	37	37				
+//
+# RXXXRC_48029 Length: 38
+# RXXXRC_48029 Number of predicted TMRs: 0
+RXXXRC_48029	inside	1	38				
+//
+# RXXXRC_146570 Length: 50
+# RXXXRC_146570 Number of predicted TMRs: 0
+RXXXRC_146570	inside	1	50				
+//
+# RXXXRC_54837 Length: 45
+# RXXXRC_54837 Number of predicted TMRs: 0
+RXXXRC_54837	inside	1	45				
+//
+# RXXXRC_128886 Length: 44
+# RXXXRC_128886 Number of predicted TMRs: 0
+RXXXRC_128886	inside	1	44				
+//
+# RXXXRC_103192 Length: 47
+# RXXXRC_103192 Number of predicted TMRs: 0
+RXXXRC_103192	inside	1	47				
+//
+# RXXXRC_7995 Length: 34
+# RXXXRC_7995 Number of predicted TMRs: 0
+RXXXRC_7995	signal	1	15				
+RXXXRC_7995	outside	16	34				
+//
+# RXXXRC_127537 Length: 48
+# RXXXRC_127537 Number of predicted TMRs: 0
+RXXXRC_127537	signal	1	10				
+RXXXRC_127537	outside	11	48				
+//
+# RXXXRC_65499 Length: 43
+# RXXXRC_65499 Number of predicted TMRs: 0
+RXXXRC_65499	signal	1	39				
+RXXXRC_65499	outside	40	43				
+//
+# RXXXRC_96844 Length: 43
+# RXXXRC_96844 Number of predicted TMRs: 0
+RXXXRC_96844	inside	1	43				
+//
+# RXXXRC_142215 Length: 43
+# RXXXRC_142215 Number of predicted TMRs: 0
+RXXXRC_142215	inside	1	43				
+//
+# RXXXRC_162692 Length: 45
+# RXXXRC_162692 Number of predicted TMRs: 0
+RXXXRC_162692	inside	1	45				
+//
+# RXXXRC_118897 Length: 50
+# RXXXRC_118897 Number of predicted TMRs: 0
+RXXXRC_118897	outside	1	50				
+//
+# RXXXRC_172946 Length: 46
+# RXXXRC_172946 Number of predicted TMRs: 0
+RXXXRC_172946	inside	1	46				
+//
+# RXXXRC_142291 Length: 44
+# RXXXRC_142291 Number of predicted TMRs: 0
+RXXXRC_142291	inside	1	44				
+//
+# RXXXRC_170502 Length: 40
+# RXXXRC_170502 Number of predicted TMRs: 0
+RXXXRC_170502	inside	1	40				
+//
+# RXXXRC_47590 Length: 49
+# RXXXRC_47590 Number of predicted TMRs: 0
+RXXXRC_47590	signal	1	23				
+RXXXRC_47590	outside	24	49				
+//
+# RXXXRC_130220 Length: 44
+# RXXXRC_130220 Number of predicted TMRs: 0
+RXXXRC_130220	signal	1	42				
+RXXXRC_130220	outside	43	44				
+//
+# RXXXRC_95722 Length: 28
+# RXXXRC_95722 Number of predicted TMRs: 0
+RXXXRC_95722	inside	1	28				
+//
+# RXXXRC_116524 Length: 28
+# RXXXRC_116524 Number of predicted TMRs: 0
+RXXXRC_116524	signal	1	26				
+RXXXRC_116524	outside	27	28				
+//
+# RXXXRC_112034 Length: 47
+# RXXXRC_112034 Number of predicted TMRs: 0
+RXXXRC_112034	signal	1	25				
+RXXXRC_112034	outside	26	47				
+//
+# RXXXRC_161700 Length: 37
+# RXXXRC_161700 Number of predicted TMRs: 0
+RXXXRC_161700	inside	1	37				
+//
+# RXXXRC_17544 Length: 41
+# RXXXRC_17544 Number of predicted TMRs: 0
+RXXXRC_17544	signal	1	22				
+RXXXRC_17544	outside	23	41				
+//
+# RXXXRC_99305 Length: 45
+# RXXXRC_99305 Number of predicted TMRs: 0
+RXXXRC_99305	inside	1	45				
+//
+# RXXXRC_107508 Length: 35
+# RXXXRC_107508 Number of predicted TMRs: 0
+RXXXRC_107508	outside	1	35				
+//
+# RXXXRC_20890 Length: 41
+# RXXXRC_20890 Number of predicted TMRs: 0
+RXXXRC_20890	signal	1	28				
+RXXXRC_20890	outside	29	41				
+//
+# RXXXRC_113018 Length: 46
+# RXXXRC_113018 Number of predicted TMRs: 0
+RXXXRC_113018	inside	1	46				
+//
+# RXXXRC_12005 Length: 35
+# RXXXRC_12005 Number of predicted TMRs: 0
+RXXXRC_12005	inside	1	35				
+//
+# RXXXRC_22747 Length: 49
+# RXXXRC_22747 Number of predicted TMRs: 0
+RXXXRC_22747	inside	1	49				
+//
+# RXXXRC_158793 Length: 48
+# RXXXRC_158793 Number of predicted TMRs: 0
+RXXXRC_158793	inside	1	48				
+//
+# RXXXRC_21653 Length: 46
+# RXXXRC_21653 Number of predicted TMRs: 0
+RXXXRC_21653	inside	1	46				
+//
+# RXXXRC_55714 Length: 41
+# RXXXRC_55714 Number of predicted TMRs: 0
+RXXXRC_55714	signal	1	32				
+RXXXRC_55714	outside	33	41				
+//
+# RXXXRC_90364 Length: 39
+# RXXXRC_90364 Number of predicted TMRs: 0
+RXXXRC_90364	inside	1	39				
+//
+# RXXXRC_110990 Length: 44
+# RXXXRC_110990 Number of predicted TMRs: 0
+RXXXRC_110990	inside	1	44				
+//
+# RXXXRC_124680 Length: 38
+# RXXXRC_124680 Number of predicted TMRs: 0
+RXXXRC_124680	signal	1	32				
+RXXXRC_124680	outside	33	38				
+//
+# RXXXRC_99595 Length: 47
+# RXXXRC_99595 Number of predicted TMRs: 0
+RXXXRC_99595	inside	1	47				
+//
+# RXXXRC_158460 Length: 49
+# RXXXRC_158460 Number of predicted TMRs: 0
+RXXXRC_158460	inside	1	49				
+//
+# RXXXRC_100252 Length: 34
+# RXXXRC_100252 Number of predicted TMRs: 0
+RXXXRC_100252	outside	1	34				
+//
+# RXXXRC_109842 Length: 48
+# RXXXRC_109842 Number of predicted TMRs: 0
+RXXXRC_109842	signal	1	21				
+RXXXRC_109842	outside	22	48				
+//
+# RXXXRC_57619 Length: 47
+# RXXXRC_57619 Number of predicted TMRs: 0
+RXXXRC_57619	inside	1	47				
+//
+# RXXXRC_142627 Length: 49
+# RXXXRC_142627 Number of predicted TMRs: 0
+RXXXRC_142627	inside	1	49				
+//
+# RXXXRC_50054 Length: 49
+# RXXXRC_50054 Number of predicted TMRs: 0
+RXXXRC_50054	inside	1	49				
+//
+# RXXXRC_21054 Length: 44
+# RXXXRC_21054 Number of predicted TMRs: 0
+RXXXRC_21054	inside	1	44				
+//
+# RXXXRC_143511 Length: 43
+# RXXXRC_143511 Number of predicted TMRs: 0
+RXXXRC_143511	signal	1	11				
+RXXXRC_143511	outside	12	43				
+//
+# RXXXRC_98481 Length: 46
+# RXXXRC_98481 Number of predicted TMRs: 0
+RXXXRC_98481	inside	1	46				
+//
+# RXXXRC_41517 Length: 49
+# RXXXRC_41517 Number of predicted TMRs: 0
+RXXXRC_41517	signal	1	26				
+RXXXRC_41517	outside	27	49				
+//
+# RXXXRC_143122 Length: 49
+# RXXXRC_143122 Number of predicted TMRs: 0
+RXXXRC_143122	signal	1	29				
+RXXXRC_143122	outside	30	49				
+//
+# RXXXRC_106878 Length: 47
+# RXXXRC_106878 Number of predicted TMRs: 0
+RXXXRC_106878	inside	1	47				
+//
+# RXXXRC_14946 Length: 33
+# RXXXRC_14946 Number of predicted TMRs: 0
+RXXXRC_14946	inside	1	33				
+//
+# RXXXRC_171990 Length: 32
+# RXXXRC_171990 Number of predicted TMRs: 0
+RXXXRC_171990	inside	1	32				
+//
+# RXXXRC_92968 Length: 33
+# RXXXRC_92968 Number of predicted TMRs: 0
+RXXXRC_92968	inside	1	33				
+//
+# RXXXRC_8397 Length: 44
+# RXXXRC_8397 Number of predicted TMRs: 0
+RXXXRC_8397	inside	1	44				
+//
+# RXXXRC_12137 Length: 47
+# RXXXRC_12137 Number of predicted TMRs: 0
+RXXXRC_12137	inside	1	47				
+//
+# RXXXRC_107626 Length: 44
+# RXXXRC_107626 Number of predicted TMRs: 0
+RXXXRC_107626	inside	1	44				
+//
+# RXXXRC_74602 Length: 39
+# RXXXRC_74602 Number of predicted TMRs: 0
+RXXXRC_74602	inside	1	39				
+//
+# RXXXRC_171213 Length: 47
+# RXXXRC_171213 Number of predicted TMRs: 0
+RXXXRC_171213	signal	1	43				
+RXXXRC_171213	outside	44	47				
+//
+# RXXXRC_123690 Length: 47
+# RXXXRC_123690 Number of predicted TMRs: 0
+RXXXRC_123690	inside	1	47				
+//
+# RXXXRC_17064 Length: 49
+# RXXXRC_17064 Number of predicted TMRs: 0
+RXXXRC_17064	inside	1	49				
+//
+# RXXXRC_122830 Length: 47
+# RXXXRC_122830 Number of predicted TMRs: 0
+RXXXRC_122830	inside	1	47				
+//
+# RXXXRC_123525 Length: 48
+# RXXXRC_123525 Number of predicted TMRs: 0
+RXXXRC_123525	signal	1	20				
+RXXXRC_123525	outside	21	48				
+//
+# RXXXRC_104921 Length: 49
+# RXXXRC_104921 Number of predicted TMRs: 0
+RXXXRC_104921	inside	1	49				
+//
+# RXXXRC_9547 Length: 40
+# RXXXRC_9547 Number of predicted TMRs: 0
+RXXXRC_9547	signal	1	22				
+RXXXRC_9547	outside	23	40				
+//
+# RXXXRC_141939 Length: 47
+# RXXXRC_141939 Number of predicted TMRs: 0
+RXXXRC_141939	signal	1	12				
+RXXXRC_141939	outside	13	47				
+//
+# RXXXRC_134334 Length: 36
+# RXXXRC_134334 Number of predicted TMRs: 0
+RXXXRC_134334	inside	1	36				
+//
+# RXXXRC_165263 Length: 50
+# RXXXRC_165263 Number of predicted TMRs: 0
+RXXXRC_165263	signal	1	33				
+RXXXRC_165263	outside	34	50				
+//
+# RXXXRC_10466 Length: 49
+# RXXXRC_10466 Number of predicted TMRs: 0
+RXXXRC_10466	inside	1	49				
+//
+# RXXXRC_163302 Length: 39
+# RXXXRC_163302 Number of predicted TMRs: 0
+RXXXRC_163302	inside	1	39				
+//
+# RXXXRC_72896 Length: 46
+# RXXXRC_72896 Number of predicted TMRs: 0
+RXXXRC_72896	inside	1	46				
+//
+# RXXXRC_83640 Length: 39
+# RXXXRC_83640 Number of predicted TMRs: 0
+RXXXRC_83640	inside	1	39				
+//
+# RXXXRC_40754 Length: 44
+# RXXXRC_40754 Number of predicted TMRs: 0
+RXXXRC_40754	inside	1	44				
+//
+# RXXXRC_29810 Length: 42
+# RXXXRC_29810 Number of predicted TMRs: 0
+RXXXRC_29810	inside	1	42				
+//
+# RXXXRC_26402 Length: 44
+# RXXXRC_26402 Number of predicted TMRs: 0
+RXXXRC_26402	outside	1	44				
+//
+# RXXXRC_138507 Length: 45
+# RXXXRC_138507 Number of predicted TMRs: 0
+RXXXRC_138507	signal	1	43				
+RXXXRC_138507	outside	44	45				
+//
+# RXXXRC_149683 Length: 42
+# RXXXRC_149683 Number of predicted TMRs: 0
+RXXXRC_149683	inside	1	42				
+//
+# RXXXRC_117884 Length: 50
+# RXXXRC_117884 Number of predicted TMRs: 0
+RXXXRC_117884	signal	1	46				
+RXXXRC_117884	outside	47	50				
+//
+# RXXXRC_149872 Length: 47
+# RXXXRC_149872 Number of predicted TMRs: 0
+RXXXRC_149872	signal	1	43				
+RXXXRC_149872	outside	44	47				
+//
+# RXXXRC_123428 Length: 38
+# RXXXRC_123428 Number of predicted TMRs: 0
+RXXXRC_123428	inside	1	38				
+//
+# RXXXRC_8057 Length: 27
+# RXXXRC_8057 Number of predicted TMRs: 0
+RXXXRC_8057	signal	1	26				
+RXXXRC_8057	outside	27	27				
+//
+# RXXXRC_131931 Length: 50
+# RXXXRC_131931 Number of predicted TMRs: 0
+RXXXRC_131931	signal	1	49				
+RXXXRC_131931	outside	50	50				
+//
+# RXXXRC_144405 Length: 49
+# RXXXRC_144405 Number of predicted TMRs: 0
+RXXXRC_144405	inside	1	49				
+//
+# RXXXRC_110913 Length: 30
+# RXXXRC_110913 Number of predicted TMRs: 0
+RXXXRC_110913	inside	1	30				
+//
+# RXXXRC_28131 Length: 48
+# RXXXRC_28131 Number of predicted TMRs: 0
+RXXXRC_28131	inside	1	48				
+//
+# RXXXRC_60430 Length: 42
+# RXXXRC_60430 Number of predicted TMRs: 0
+RXXXRC_60430	inside	1	42				
+//
+# RXXXRC_36920 Length: 38
+# RXXXRC_36920 Number of predicted TMRs: 0
+RXXXRC_36920	signal	1	11				
+RXXXRC_36920	outside	12	38				
+//
+# RXXXRC_100600 Length: 38
+# RXXXRC_100600 Number of predicted TMRs: 0
+RXXXRC_100600	inside	1	38				
+//
+# RXXXRC_3115 Length: 38
+# RXXXRC_3115 Number of predicted TMRs: 0
+RXXXRC_3115	inside	1	38				
+//
+# RXXXRC_126360 Length: 41
+# RXXXRC_126360 Number of predicted TMRs: 0
+RXXXRC_126360	inside	1	41				
+//
+# RXXXRC_134013 Length: 50
+# RXXXRC_134013 Number of predicted TMRs: 0
+RXXXRC_134013	signal	1	47				
+RXXXRC_134013	outside	48	50				
+//
+# RXXXRC_36714 Length: 35
+# RXXXRC_36714 Number of predicted TMRs: 0
+RXXXRC_36714	inside	1	35				
+//
+# RXXXRC_10163 Length: 48
+# RXXXRC_10163 Number of predicted TMRs: 0
+RXXXRC_10163	inside	1	48				
+//
+# RXXXRC_119822 Length: 47
+# RXXXRC_119822 Number of predicted TMRs: 0
+RXXXRC_119822	inside	1	47				
+//
+# RXXXRC_134989 Length: 47
+# RXXXRC_134989 Number of predicted TMRs: 0
+RXXXRC_134989	inside	1	47				
+//
+# RXXXRC_85263 Length: 37
+# RXXXRC_85263 Number of predicted TMRs: 0
+RXXXRC_85263	signal	1	35				
+RXXXRC_85263	outside	36	37				
+//
+# RXXXRC_8495 Length: 49
+# RXXXRC_8495 Number of predicted TMRs: 0
+RXXXRC_8495	inside	1	49				
+//
+# RXXXRC_170087 Length: 42
+# RXXXRC_170087 Number of predicted TMRs: 0
+RXXXRC_170087	signal	1	23				
+RXXXRC_170087	outside	24	42				
+//
+# RXXXRC_121532 Length: 46
+# RXXXRC_121532 Number of predicted TMRs: 0
+RXXXRC_121532	inside	1	46				
+//
+# RXXXRC_23549 Length: 45
+# RXXXRC_23549 Number of predicted TMRs: 0
+RXXXRC_23549	inside	1	45				
+//
+# RXXXRC_170166 Length: 48
+# RXXXRC_170166 Number of predicted TMRs: 0
+RXXXRC_170166	inside	1	48				
+//
+# RXXXRC_132357 Length: 39
+# RXXXRC_132357 Number of predicted TMRs: 0
+RXXXRC_132357	inside	1	39				
+//
+# RXXXRC_67022 Length: 41
+# RXXXRC_67022 Number of predicted TMRs: 0
+RXXXRC_67022	inside	1	41				
+//
+# RXXXRC_16452 Length: 43
+# RXXXRC_16452 Number of predicted TMRs: 0
+RXXXRC_16452	inside	1	43				
+//
+# RXXXRC_153481 Length: 50
+# RXXXRC_153481 Number of predicted TMRs: 0
+RXXXRC_153481	inside	1	50				
+//
+# RXXXRC_12134 Length: 43
+# RXXXRC_12134 Number of predicted TMRs: 0
+RXXXRC_12134	signal	1	30				
+RXXXRC_12134	outside	31	43				
+//
+# RXXXRC_135931 Length: 47
+# RXXXRC_135931 Number of predicted TMRs: 0
+RXXXRC_135931	inside	1	47				
+//
+# RXXXRC_31489 Length: 41
+# RXXXRC_31489 Number of predicted TMRs: 0
+RXXXRC_31489	signal	1	10				
+RXXXRC_31489	outside	11	41				
+//
+# RXXXRC_44465 Length: 45
+# RXXXRC_44465 Number of predicted TMRs: 0
+RXXXRC_44465	inside	1	45				
+//
+# RXXXRC_37518 Length: 49
+# RXXXRC_37518 Number of predicted TMRs: 0
+RXXXRC_37518	inside	1	49				
+//
+# RXXXRC_88568 Length: 47
+# RXXXRC_88568 Number of predicted TMRs: 0
+RXXXRC_88568	signal	1	20				
+RXXXRC_88568	outside	21	47				
+//
+# RXXXRC_55336 Length: 44
+# RXXXRC_55336 Number of predicted TMRs: 0
+RXXXRC_55336	signal	1	10				
+RXXXRC_55336	outside	11	44				
+//
+# RXXXRC_106019 Length: 48
+# RXXXRC_106019 Number of predicted TMRs: 0
+RXXXRC_106019	inside	1	48				
+//
+# RXXXRC_36479 Length: 45
+# RXXXRC_36479 Number of predicted TMRs: 0
+RXXXRC_36479	inside	1	45				
+//
+# RXXXRC_111135 Length: 49
+# RXXXRC_111135 Number of predicted TMRs: 0
+RXXXRC_111135	inside	1	49				
+//
+# RXXXRC_29474 Length: 45
+# RXXXRC_29474 Number of predicted TMRs: 0
+RXXXRC_29474	inside	1	45				
+//
+# RXXXRC_76425 Length: 42
+# RXXXRC_76425 Number of predicted TMRs: 0
+RXXXRC_76425	inside	1	42				
+//
+# RXXXRC_106265 Length: 50
+# RXXXRC_106265 Number of predicted TMRs: 0
+RXXXRC_106265	inside	1	50				
+//
+# RXXXRC_144309 Length: 42
+# RXXXRC_144309 Number of predicted TMRs: 0
+RXXXRC_144309	inside	1	42				
+//
+# RXXXRC_147763 Length: 45
+# RXXXRC_147763 Number of predicted TMRs: 0
+RXXXRC_147763	inside	1	45				
+//
+# RXXXRC_116046 Length: 45
+# RXXXRC_116046 Number of predicted TMRs: 0
+RXXXRC_116046	inside	1	45				
+//
+# RXXXRC_172195 Length: 43
+# RXXXRC_172195 Number of predicted TMRs: 0
+RXXXRC_172195	signal	1	27				
+RXXXRC_172195	outside	28	43				
+//
+# RXXXRC_46444 Length: 50
+# RXXXRC_46444 Number of predicted TMRs: 0
+RXXXRC_46444	inside	1	50				
+//
+# RXXXRC_119044 Length: 49
+# RXXXRC_119044 Number of predicted TMRs: 0
+RXXXRC_119044	inside	1	49				
+//
+# RXXXRC_114243 Length: 46
+# RXXXRC_114243 Number of predicted TMRs: 0
+RXXXRC_114243	inside	1	46				
+//
+# RXXXRC_12867 Length: 28
+# RXXXRC_12867 Number of predicted TMRs: 0
+RXXXRC_12867	outside	1	28				
+//
+# RXXXRC_72493 Length: 46
+# RXXXRC_72493 Number of predicted TMRs: 0
+RXXXRC_72493	signal	1	37				
+RXXXRC_72493	outside	38	46				
+//
+# RXXXRC_145281 Length: 49
+# RXXXRC_145281 Number of predicted TMRs: 0
+RXXXRC_145281	inside	1	49				
+//
+# RXXXRC_168783 Length: 43
+# RXXXRC_168783 Number of predicted TMRs: 0
+RXXXRC_168783	inside	1	43				
+//
+# RXXXRC_16541 Length: 41
+# RXXXRC_16541 Number of predicted TMRs: 0
+RXXXRC_16541	inside	1	41				
+//
+# RXXXRC_5 Length: 48
+# RXXXRC_5 Number of predicted TMRs: 0
+RXXXRC_5	inside	1	48				
+//
+# RXXXRC_35879 Length: 40
+# RXXXRC_35879 Number of predicted TMRs: 0
+RXXXRC_35879	signal	1	35				
+RXXXRC_35879	outside	36	40				
+//
+# RXXXRC_94695 Length: 47
+# RXXXRC_94695 Number of predicted TMRs: 0
+RXXXRC_94695	inside	1	47				
+//
+# RXXXRC_121813 Length: 46
+# RXXXRC_121813 Number of predicted TMRs: 0
+RXXXRC_121813	signal	1	45				
+RXXXRC_121813	outside	46	46				
+//
+# RXXXRC_59333 Length: 47
+# RXXXRC_59333 Number of predicted TMRs: 0
+RXXXRC_59333	inside	1	47				
+//
+# RXXXRC_65299 Length: 40
+# RXXXRC_65299 Number of predicted TMRs: 0
+RXXXRC_65299	inside	1	40				
+//
+# RXXXRC_20246 Length: 41
+# RXXXRC_20246 Number of predicted TMRs: 0
+RXXXRC_20246	inside	1	41				
+//
+# RXXXRC_32238 Length: 46
+# RXXXRC_32238 Number of predicted TMRs: 0
+RXXXRC_32238	inside	1	46				
+//
+# RXXXRC_25906 Length: 38
+# RXXXRC_25906 Number of predicted TMRs: 0
+RXXXRC_25906	signal	1	32				
+RXXXRC_25906	outside	33	38				
+//
+# RXXXRC_83809 Length: 49
+# RXXXRC_83809 Number of predicted TMRs: 0
+RXXXRC_83809	inside	1	49				
+//
+# RXXXRC_36510 Length: 49
+# RXXXRC_36510 Number of predicted TMRs: 0
+RXXXRC_36510	inside	1	49				
+//
+# RXXXRC_82146 Length: 37
+# RXXXRC_82146 Number of predicted TMRs: 0
+RXXXRC_82146	signal	1	19				
+RXXXRC_82146	outside	20	37				
+//
+# RXXXRC_18534 Length: 38
+# RXXXRC_18534 Number of predicted TMRs: 0
+RXXXRC_18534	inside	1	38				
+//
+# RXXXRC_91945 Length: 48
+# RXXXRC_91945 Number of predicted TMRs: 0
+RXXXRC_91945	signal	1	29				
+RXXXRC_91945	outside	30	48				
+//
+# RXXXRC_67809 Length: 42
+# RXXXRC_67809 Number of predicted TMRs: 0
+RXXXRC_67809	inside	1	42				
+//
+# RXXXRC_170310 Length: 47
+# RXXXRC_170310 Number of predicted TMRs: 0
+RXXXRC_170310	inside	1	47				
+//
+# RXXXRC_68990 Length: 45
+# RXXXRC_68990 Number of predicted TMRs: 0
+RXXXRC_68990	inside	1	45				
+//
+# RXXXRC_125884 Length: 50
+# RXXXRC_125884 Number of predicted TMRs: 0
+RXXXRC_125884	signal	1	48				
+RXXXRC_125884	outside	49	50				
+//
+# RXXXRC_102192 Length: 46
+# RXXXRC_102192 Number of predicted TMRs: 0
+RXXXRC_102192	inside	1	46				
+//
+# RXXXRC_87089 Length: 39
+# RXXXRC_87089 Number of predicted TMRs: 0
+RXXXRC_87089	inside	1	39				
+//
+# RXXXRC_95162 Length: 40
+# RXXXRC_95162 Number of predicted TMRs: 0
+RXXXRC_95162	signal	1	32				
+RXXXRC_95162	outside	33	40				
+//
+# RXXXRC_134333 Length: 48
+# RXXXRC_134333 Number of predicted TMRs: 0
+RXXXRC_134333	signal	1	44				
+RXXXRC_134333	outside	45	48				
+//
+# RXXXRC_18773 Length: 43
+# RXXXRC_18773 Number of predicted TMRs: 0
+RXXXRC_18773	outside	1	43				
+//
+# RXXXRC_121235 Length: 39
+# RXXXRC_121235 Number of predicted TMRs: 0
+RXXXRC_121235	signal	1	26				
+RXXXRC_121235	outside	27	39				
+//
+# RXXXRC_8063 Length: 49
+# RXXXRC_8063 Number of predicted TMRs: 0
+RXXXRC_8063	signal	1	44				
+RXXXRC_8063	outside	45	49				
+//
+# RXXXRC_89556 Length: 34
+# RXXXRC_89556 Number of predicted TMRs: 0
+RXXXRC_89556	inside	1	34				
+//
+# RXXXRC_73715 Length: 46
+# RXXXRC_73715 Number of predicted TMRs: 0
+RXXXRC_73715	inside	1	46				
+//
+# RXXXRC_10027 Length: 40
+# RXXXRC_10027 Number of predicted TMRs: 0
+RXXXRC_10027	signal	1	34				
+RXXXRC_10027	outside	35	40				
+//
+# RXXXRC_138448 Length: 39
+# RXXXRC_138448 Number of predicted TMRs: 0
+RXXXRC_138448	inside	1	39				
+//
+# RXXXRC_99490 Length: 48
+# RXXXRC_99490 Number of predicted TMRs: 0
+RXXXRC_99490	inside	1	48				
+//
+# RXXXRC_133769 Length: 44
+# RXXXRC_133769 Number of predicted TMRs: 0
+RXXXRC_133769	inside	1	44				
+//
+# RXXXRC_124936 Length: 42
+# RXXXRC_124936 Number of predicted TMRs: 0
+RXXXRC_124936	inside	1	42				
+//
+# RXXXRC_144810 Length: 34
+# RXXXRC_144810 Number of predicted TMRs: 0
+RXXXRC_144810	signal	1	14				
+RXXXRC_144810	outside	15	34				
+//
+# RXXXRC_63053 Length: 39
+# RXXXRC_63053 Number of predicted TMRs: 0
+RXXXRC_63053	inside	1	39				
+//
+# RXXXRC_143709 Length: 44
+# RXXXRC_143709 Number of predicted TMRs: 0
+RXXXRC_143709	inside	1	44				
+//
+# RXXXRC_57618 Length: 48
+# RXXXRC_57618 Number of predicted TMRs: 0
+RXXXRC_57618	inside	1	48				
+//
+# RXXXRC_34961 Length: 49
+# RXXXRC_34961 Number of predicted TMRs: 0
+RXXXRC_34961	signal	1	28				
+RXXXRC_34961	outside	29	49				
+//
+# RXXXRC_100984 Length: 46
+# RXXXRC_100984 Number of predicted TMRs: 0
+RXXXRC_100984	signal	1	43				
+RXXXRC_100984	outside	44	46				
+//
+# RXXXRC_121674 Length: 36
+# RXXXRC_121674 Number of predicted TMRs: 0
+RXXXRC_121674	signal	1	25				
+RXXXRC_121674	outside	26	36				
+//
+# RXXXRC_138534 Length: 49
+# RXXXRC_138534 Number of predicted TMRs: 0
+RXXXRC_138534	inside	1	49				
+//
+# RXXXRC_169483 Length: 47
+# RXXXRC_169483 Number of predicted TMRs: 0
+RXXXRC_169483	signal	1	45				
+RXXXRC_169483	outside	46	47				
+//
+# RXXXRC_13235 Length: 49
+# RXXXRC_13235 Number of predicted TMRs: 0
+RXXXRC_13235	signal	1	40				
+RXXXRC_13235	outside	41	49				
+//
+# RXXXRC_20609 Length: 48
+# RXXXRC_20609 Number of predicted TMRs: 0
+RXXXRC_20609	inside	1	48				
+//
+# RXXXRC_128516 Length: 48
+# RXXXRC_128516 Number of predicted TMRs: 0
+RXXXRC_128516	inside	1	48				
+//
+# RXXXRC_59039 Length: 49
+# RXXXRC_59039 Number of predicted TMRs: 0
+RXXXRC_59039	inside	1	49				
+//
+# RXXXRC_89403 Length: 48
+# RXXXRC_89403 Number of predicted TMRs: 0
+RXXXRC_89403	signal	1	25				
+RXXXRC_89403	outside	26	48				
+//
+# RXXXRC_97619 Length: 47
+# RXXXRC_97619 Number of predicted TMRs: 0
+RXXXRC_97619	inside	1	47				
+//
+# RXXXRC_134962 Length: 46
+# RXXXRC_134962 Number of predicted TMRs: 0
+RXXXRC_134962	inside	1	46				
+//
+# RXXXRC_99514 Length: 41
+# RXXXRC_99514 Number of predicted TMRs: 0
+RXXXRC_99514	inside	1	41				
+//
+# RXXXRC_39128 Length: 44
+# RXXXRC_39128 Number of predicted TMRs: 1
+RXXXRC_39128	inside	1	15				
+RXXXRC_39128	TMhelix	16	36				
+RXXXRC_39128	outside	37	44				
+//
+# RXXXRC_100799 Length: 49
+# RXXXRC_100799 Number of predicted TMRs: 0
+RXXXRC_100799	signal	1	37				
+RXXXRC_100799	outside	38	49				
+//
+# RXXXRC_717 Length: 45
+# RXXXRC_717 Number of predicted TMRs: 0
+RXXXRC_717	inside	1	45				
+//
+# RXXXRC_144491 Length: 46
+# RXXXRC_144491 Number of predicted TMRs: 0
+RXXXRC_144491	inside	1	46				
+//
+# RXXXRC_15832 Length: 31
+# RXXXRC_15832 Number of predicted TMRs: 0
+RXXXRC_15832	signal	1	19				
+RXXXRC_15832	outside	20	31				
+//
+# RXXXRC_99786 Length: 48
+# RXXXRC_99786 Number of predicted TMRs: 0
+RXXXRC_99786	inside	1	48				
+//
+# RXXXRC_116313 Length: 46
+# RXXXRC_116313 Number of predicted TMRs: 0
+RXXXRC_116313	inside	1	46				
+//
+# RXXXRC_108084 Length: 46
+# RXXXRC_108084 Number of predicted TMRs: 0
+RXXXRC_108084	inside	1	46				
+//
+# RXXXRC_5837 Length: 50
+# RXXXRC_5837 Number of predicted TMRs: 0
+RXXXRC_5837	inside	1	50				
+//
+# RXXXRC_24438 Length: 37
+# RXXXRC_24438 Number of predicted TMRs: 0
+RXXXRC_24438	inside	1	37				
+//
+# RXXXRC_126076 Length: 50
+# RXXXRC_126076 Number of predicted TMRs: 0
+RXXXRC_126076	signal	1	35				
+RXXXRC_126076	outside	36	50				
+//
+# RXXXRC_145681 Length: 50
+# RXXXRC_145681 Number of predicted TMRs: 0
+RXXXRC_145681	inside	1	50				
+//
+# RXXXRC_122214 Length: 42
+# RXXXRC_122214 Number of predicted TMRs: 0
+RXXXRC_122214	signal	1	24				
+RXXXRC_122214	outside	25	42				
+//
+# RXXXRC_72419 Length: 40
+# RXXXRC_72419 Number of predicted TMRs: 0
+RXXXRC_72419	inside	1	40				
+//
+# RXXXRC_61248 Length: 50
+# RXXXRC_61248 Number of predicted TMRs: 0
+RXXXRC_61248	inside	1	50				
+//
+# RXXXRC_36804 Length: 39
+# RXXXRC_36804 Number of predicted TMRs: 0
+RXXXRC_36804	inside	1	39				
+//
+# RXXXRC_129080 Length: 37
+# RXXXRC_129080 Number of predicted TMRs: 0
+RXXXRC_129080	inside	1	37				
+//
+# RXXXRC_72211 Length: 49
+# RXXXRC_72211 Number of predicted TMRs: 0
+RXXXRC_72211	inside	1	49				
+//
+# RXXXRC_93968 Length: 43
+# RXXXRC_93968 Number of predicted TMRs: 0
+RXXXRC_93968	signal	1	41				
+RXXXRC_93968	outside	42	43				
+//
+# RXXXRC_18982 Length: 42
+# RXXXRC_18982 Number of predicted TMRs: 0
+RXXXRC_18982	inside	1	42				
+//
+# RXXXRC_158175 Length: 44
+# RXXXRC_158175 Number of predicted TMRs: 1
+RXXXRC_158175	outside	1	8				
+RXXXRC_158175	TMhelix	9	29				
+RXXXRC_158175	inside	30	44				
+//
+# RXXXRC_30562 Length: 47
+# RXXXRC_30562 Number of predicted TMRs: 0
+RXXXRC_30562	signal	1	10				
+RXXXRC_30562	outside	11	47				
+//
+# RXXXRC_124294 Length: 47
+# RXXXRC_124294 Number of predicted TMRs: 0
+RXXXRC_124294	inside	1	47				
+//
+# RXXXRC_12215 Length: 43
+# RXXXRC_12215 Number of predicted TMRs: 0
+RXXXRC_12215	inside	1	43				
+//
+# RXXXRC_17531 Length: 48
+# RXXXRC_17531 Number of predicted TMRs: 0
+RXXXRC_17531	signal	1	45				
+RXXXRC_17531	outside	46	48				
+//
+# RXXXRC_88468 Length: 47
+# RXXXRC_88468 Number of predicted TMRs: 0
+RXXXRC_88468	inside	1	47				
+//
+# RXXXRC_163070 Length: 42
+# RXXXRC_163070 Number of predicted TMRs: 0
+RXXXRC_163070	inside	1	42				
+//
+# RXXXRC_120289 Length: 37
+# RXXXRC_120289 Number of predicted TMRs: 0
+RXXXRC_120289	signal	1	25				
+RXXXRC_120289	outside	26	37				
+//
+# RXXXRC_131168 Length: 44
+# RXXXRC_131168 Number of predicted TMRs: 0
+RXXXRC_131168	signal	1	10				
+RXXXRC_131168	outside	11	44				
+//
+# RXXXRC_169440 Length: 50
+# RXXXRC_169440 Number of predicted TMRs: 0
+RXXXRC_169440	inside	1	50				
+//
+# RXXXRC_66784 Length: 50
+# RXXXRC_66784 Number of predicted TMRs: 0
+RXXXRC_66784	inside	1	50				
+//
+# RXXXRC_41818 Length: 50
+# RXXXRC_41818 Number of predicted TMRs: 0
+RXXXRC_41818	inside	1	50				
+//
+# RXXXRC_149413 Length: 50
+# RXXXRC_149413 Number of predicted TMRs: 0
+RXXXRC_149413	inside	1	50				
+//
+# RXXXRC_38901 Length: 32
+# RXXXRC_38901 Number of predicted TMRs: 0
+RXXXRC_38901	signal	1	31				
+RXXXRC_38901	outside	32	32				
+//
+# RXXXRC_123795 Length: 50
+# RXXXRC_123795 Number of predicted TMRs: 0
+RXXXRC_123795	inside	1	50				
+//
+# RXXXRC_134043 Length: 48
+# RXXXRC_134043 Number of predicted TMRs: 0
+RXXXRC_134043	inside	1	48				
+//
+# RXXXRC_171928 Length: 50
+# RXXXRC_171928 Number of predicted TMRs: 0
+RXXXRC_171928	inside	1	50				
+//
+# RXXXRC_169963 Length: 50
+# RXXXRC_169963 Number of predicted TMRs: 0
+RXXXRC_169963	inside	1	50				
+//
+# RXXXRC_173172 Length: 49
+# RXXXRC_173172 Number of predicted TMRs: 0
+RXXXRC_173172	inside	1	49				
+//
+# RXXXRC_144404 Length: 48
+# RXXXRC_144404 Number of predicted TMRs: 0
+RXXXRC_144404	inside	1	48				
+//
+# RXXXRC_44439 Length: 43
+# RXXXRC_44439 Number of predicted TMRs: 0
+RXXXRC_44439	signal	1	12				
+RXXXRC_44439	outside	13	43				
+//
+# RXXXRC_145701 Length: 47
+# RXXXRC_145701 Number of predicted TMRs: 0
+RXXXRC_145701	signal	1	10				
+RXXXRC_145701	outside	11	47				
+//
+# RXXXRC_132794 Length: 50
+# RXXXRC_132794 Number of predicted TMRs: 0
+RXXXRC_132794	inside	1	50				
+//
+# RXXXRC_114633 Length: 43
+# RXXXRC_114633 Number of predicted TMRs: 0
+RXXXRC_114633	signal	1	28				
+RXXXRC_114633	outside	29	43				
+//
+# RXXXRC_163400 Length: 50
+# RXXXRC_163400 Number of predicted TMRs: 0
+RXXXRC_163400	signal	1	19				
+RXXXRC_163400	outside	20	50				
+//
+# RXXXRC_60195 Length: 47
+# RXXXRC_60195 Number of predicted TMRs: 0
+RXXXRC_60195	inside	1	47				
+//
+# RXXXRC_143573 Length: 48
+# RXXXRC_143573 Number of predicted TMRs: 0
+RXXXRC_143573	signal	1	46				
+RXXXRC_143573	outside	47	48				
+//
+# RXXXRC_62857 Length: 48
+# RXXXRC_62857 Number of predicted TMRs: 0
+RXXXRC_62857	signal	1	38				
+RXXXRC_62857	outside	39	48				
+//
+# RXXXRC_8860 Length: 48
+# RXXXRC_8860 Number of predicted TMRs: 0
+RXXXRC_8860	inside	1	48				
+//
+# RXXXRC_138376 Length: 36
+# RXXXRC_138376 Number of predicted TMRs: 0
+RXXXRC_138376	inside	1	36				
+//
+# RXXXRC_134541 Length: 48
+# RXXXRC_134541 Number of predicted TMRs: 0
+RXXXRC_134541	inside	1	48				
+//
+# RXXXRC_10096 Length: 47
+# RXXXRC_10096 Number of predicted TMRs: 0
+RXXXRC_10096	signal	1	46				
+RXXXRC_10096	outside	47	47				
+//
+# RXXXRC_41193 Length: 47
+# RXXXRC_41193 Number of predicted TMRs: 0
+RXXXRC_41193	signal	1	13				
+RXXXRC_41193	outside	14	47				
+//
+# RXXXRC_169518 Length: 41
+# RXXXRC_169518 Number of predicted TMRs: 0
+RXXXRC_169518	signal	1	21				
+RXXXRC_169518	outside	22	41				
+//
+# RXXXRC_132679 Length: 50
+# RXXXRC_132679 Number of predicted TMRs: 0
+RXXXRC_132679	inside	1	50				
+//
+# RXXXRC_86745 Length: 50
+# RXXXRC_86745 Number of predicted TMRs: 0
+RXXXRC_86745	inside	1	50				
+//
+# RXXXRC_166028 Length: 50
+# RXXXRC_166028 Number of predicted TMRs: 0
+RXXXRC_166028	inside	1	50				
+//
+# RXXXRC_171665 Length: 50
+# RXXXRC_171665 Number of predicted TMRs: 0
+RXXXRC_171665	inside	1	50				
+//
+# RXXXRC_124207 Length: 48
+# RXXXRC_124207 Number of predicted TMRs: 0
+RXXXRC_124207	inside	1	48				
+//
+# RXXXRC_154222 Length: 31
+# RXXXRC_154222 Number of predicted TMRs: 0
+RXXXRC_154222	signal	1	25				
+RXXXRC_154222	outside	26	31				
+//
+# RXXXRC_88137 Length: 49
+# RXXXRC_88137 Number of predicted TMRs: 0
+RXXXRC_88137	signal	1	12				
+RXXXRC_88137	outside	13	49				
+//
+# RXXXRC_82909 Length: 50
+# RXXXRC_82909 Number of predicted TMRs: 0
+RXXXRC_82909	inside	1	50				
+//
+# RXXXRC_11595 Length: 39
+# RXXXRC_11595 Number of predicted TMRs: 0
+RXXXRC_11595	signal	1	38				
+RXXXRC_11595	outside	39	39				
+//
+# RXXXRC_114857 Length: 44
+# RXXXRC_114857 Number of predicted TMRs: 0
+RXXXRC_114857	inside	1	44				
+//
+# RXXXRC_70734 Length: 40
+# RXXXRC_70734 Number of predicted TMRs: 0
+RXXXRC_70734	inside	1	40				
+//
+# RXXXRC_4867 Length: 47
+# RXXXRC_4867 Number of predicted TMRs: 0
+RXXXRC_4867	inside	1	47				
+//
+# RXXXRC_47839 Length: 50
+# RXXXRC_47839 Number of predicted TMRs: 0
+RXXXRC_47839	inside	1	50				
+//
+# RXXXRC_138808 Length: 43
+# RXXXRC_138808 Number of predicted TMRs: 0
+RXXXRC_138808	outside	1	43				
+//
+# RXXXRC_149380 Length: 41
+# RXXXRC_149380 Number of predicted TMRs: 0
+RXXXRC_149380	signal	1	29				
+RXXXRC_149380	outside	30	41				
+//
+# RXXXRC_168066 Length: 46
+# RXXXRC_168066 Number of predicted TMRs: 0
+RXXXRC_168066	signal	1	35				
+RXXXRC_168066	outside	36	46				
+//
+# RXXXRC_33639 Length: 49
+# RXXXRC_33639 Number of predicted TMRs: 0
+RXXXRC_33639	signal	1	46				
+RXXXRC_33639	outside	47	49				
+//
+# RXXXRC_168669 Length: 41
+# RXXXRC_168669 Number of predicted TMRs: 0
+RXXXRC_168669	inside	1	41				
+//
+# RXXXRC_75854 Length: 44
+# RXXXRC_75854 Number of predicted TMRs: 0
+RXXXRC_75854	inside	1	44				
+//
+# RXXXRC_102164 Length: 48
+# RXXXRC_102164 Number of predicted TMRs: 0
+RXXXRC_102164	inside	1	48				
+//
+# RXXXRC_23239 Length: 46
+# RXXXRC_23239 Number of predicted TMRs: 0
+RXXXRC_23239	inside	1	46				
+//
+# RXXXRC_78057 Length: 43
+# RXXXRC_78057 Number of predicted TMRs: 0
+RXXXRC_78057	signal	1	27				
+RXXXRC_78057	outside	28	43				
+//
+# RXXXRC_139734 Length: 43
+# RXXXRC_139734 Number of predicted TMRs: 0
+RXXXRC_139734	signal	1	22				
+RXXXRC_139734	outside	23	43				
+//
+# RXXXRC_147083 Length: 45
+# RXXXRC_147083 Number of predicted TMRs: 0
+RXXXRC_147083	inside	1	45				
+//
+# RXXXRC_80198 Length: 47
+# RXXXRC_80198 Number of predicted TMRs: 0
+RXXXRC_80198	inside	1	47				
+//
+# RXXXRC_31311 Length: 43
+# RXXXRC_31311 Number of predicted TMRs: 0
+RXXXRC_31311	outside	1	43				
+//
+# RXXXRC_98456 Length: 49
+# RXXXRC_98456 Number of predicted TMRs: 0
+RXXXRC_98456	signal	1	10				
+RXXXRC_98456	outside	11	49				
+//
+# RXXXRC_91908 Length: 50
+# RXXXRC_91908 Number of predicted TMRs: 0
+RXXXRC_91908	inside	1	50				
+//
+# RXXXRC_166048 Length: 47
+# RXXXRC_166048 Number of predicted TMRs: 0
+RXXXRC_166048	signal	1	45				
+RXXXRC_166048	outside	46	47				
+//
+# RXXXRC_8825 Length: 44
+# RXXXRC_8825 Number of predicted TMRs: 0
+RXXXRC_8825	inside	1	44				
+//
+# RXXXRC_131944 Length: 50
+# RXXXRC_131944 Number of predicted TMRs: 0
+RXXXRC_131944	inside	1	50				
+//
+# RXXXRC_100101 Length: 46
+# RXXXRC_100101 Number of predicted TMRs: 0
+RXXXRC_100101	inside	1	46				
+//
+# RXXXRC_17269 Length: 48
+# RXXXRC_17269 Number of predicted TMRs: 0
+RXXXRC_17269	inside	1	48				
+//
+# RXXXRC_93929 Length: 50
+# RXXXRC_93929 Number of predicted TMRs: 0
+RXXXRC_93929	inside	1	50				
+//
+# RXXXRC_74775 Length: 47
+# RXXXRC_74775 Number of predicted TMRs: 0
+RXXXRC_74775	inside	1	47				
+//
+# RXXXRC_83136 Length: 50
+# RXXXRC_83136 Number of predicted TMRs: 0
+RXXXRC_83136	inside	1	50				
+//
+# RXXXRC_127061 Length: 35
+# RXXXRC_127061 Number of predicted TMRs: 0
+RXXXRC_127061	signal	1	34				
+RXXXRC_127061	outside	35	35				
+//
+# RXXXRC_156390 Length: 45
+# RXXXRC_156390 Number of predicted TMRs: 0
+RXXXRC_156390	signal	1	44				
+RXXXRC_156390	outside	45	45				
+//
+# RXXXRC_38306 Length: 33
+# RXXXRC_38306 Number of predicted TMRs: 0
+RXXXRC_38306	inside	1	33				
+//
+# RXXXRC_147300 Length: 47
+# RXXXRC_147300 Number of predicted TMRs: 0
+RXXXRC_147300	signal	1	10				
+RXXXRC_147300	outside	11	47				
+//
+# RXXXRC_132393 Length: 46
+# RXXXRC_132393 Number of predicted TMRs: 0
+RXXXRC_132393	signal	1	44				
+RXXXRC_132393	outside	45	46				
+//
+# RXXXRC_126120 Length: 48
+# RXXXRC_126120 Number of predicted TMRs: 0
+RXXXRC_126120	inside	1	48				
+//
+# RXXXRC_152621 Length: 42
+# RXXXRC_152621 Number of predicted TMRs: 0
+RXXXRC_152621	inside	1	42				
+//
+# RXXXRC_149234 Length: 47
+# RXXXRC_149234 Number of predicted TMRs: 0
+RXXXRC_149234	inside	1	47				
+//
+# RXXXRC_26691 Length: 40
+# RXXXRC_26691 Number of predicted TMRs: 0
+RXXXRC_26691	inside	1	40				
+//
+# RXXXRC_18242 Length: 37
+# RXXXRC_18242 Number of predicted TMRs: 0
+RXXXRC_18242	signal	1	24				
+RXXXRC_18242	outside	25	37				
+//
+# RXXXRC_27026 Length: 42
+# RXXXRC_27026 Number of predicted TMRs: 0
+RXXXRC_27026	signal	1	10				
+RXXXRC_27026	outside	11	42				
+//
+# RXXXRC_49326 Length: 40
+# RXXXRC_49326 Number of predicted TMRs: 0
+RXXXRC_49326	signal	1	18				
+RXXXRC_49326	outside	19	40				
+//
+# RXXXRC_138539 Length: 48
+# RXXXRC_138539 Number of predicted TMRs: 0
+RXXXRC_138539	inside	1	48				
+//
+# RXXXRC_95385 Length: 46
+# RXXXRC_95385 Number of predicted TMRs: 0
+RXXXRC_95385	signal	1	45				
+RXXXRC_95385	outside	46	46				
+//
+# RXXXRC_137058 Length: 41
+# RXXXRC_137058 Number of predicted TMRs: 0
+RXXXRC_137058	signal	1	10				
+RXXXRC_137058	outside	11	41				
+//
+# RXXXRC_52614 Length: 43
+# RXXXRC_52614 Number of predicted TMRs: 0
+RXXXRC_52614	inside	1	43				
+//
+# RXXXRC_75313 Length: 38
+# RXXXRC_75313 Number of predicted TMRs: 0
+RXXXRC_75313	inside	1	38				
+//
+# RXXXRC_151546 Length: 48
+# RXXXRC_151546 Number of predicted TMRs: 0
+RXXXRC_151546	inside	1	48				
+//
+# RXXXRC_93811 Length: 50
+# RXXXRC_93811 Number of predicted TMRs: 0
+RXXXRC_93811	inside	1	50				
+//
+# RXXXRC_86160 Length: 47
+# RXXXRC_86160 Number of predicted TMRs: 0
+RXXXRC_86160	signal	1	40				
+RXXXRC_86160	outside	41	47				
+//
+# RXXXRC_102449 Length: 50
+# RXXXRC_102449 Number of predicted TMRs: 0
+RXXXRC_102449	signal	1	21				
+RXXXRC_102449	outside	22	50				
+//
+# RXXXRC_78643 Length: 45
+# RXXXRC_78643 Number of predicted TMRs: 0
+RXXXRC_78643	inside	1	45				
+//
+# RXXXRC_83380 Length: 42
+# RXXXRC_83380 Number of predicted TMRs: 0
+RXXXRC_83380	inside	1	42				
+//
+# RXXXRC_149952 Length: 45
+# RXXXRC_149952 Number of predicted TMRs: 0
+RXXXRC_149952	outside	1	45				
+//
+# RXXXRC_10986 Length: 43
+# RXXXRC_10986 Number of predicted TMRs: 0
+RXXXRC_10986	signal	1	19				
+RXXXRC_10986	outside	20	43				
+//
+# RXXXRC_76115 Length: 50
+# RXXXRC_76115 Number of predicted TMRs: 0
+RXXXRC_76115	inside	1	50				
+//
+# RXXXRC_67418 Length: 48
+# RXXXRC_67418 Number of predicted TMRs: 0
+RXXXRC_67418	inside	1	48				
+//
+# RXXXRC_42858 Length: 46
+# RXXXRC_42858 Number of predicted TMRs: 0
+RXXXRC_42858	inside	1	46				
+//
+# RXXXRC_3104 Length: 47
+# RXXXRC_3104 Number of predicted TMRs: 0
+RXXXRC_3104	inside	1	47				
+//
+# RXXXRC_164818 Length: 40
+# RXXXRC_164818 Number of predicted TMRs: 0
+RXXXRC_164818	inside	1	40				
+//
+# RXXXRC_87720 Length: 43
+# RXXXRC_87720 Number of predicted TMRs: 0
+RXXXRC_87720	inside	1	43				
+//
+# RXXXRC_4709 Length: 43
+# RXXXRC_4709 Number of predicted TMRs: 0
+RXXXRC_4709	inside	1	43				
+//
+# RXXXRC_166112 Length: 37
+# RXXXRC_166112 Number of predicted TMRs: 0
+RXXXRC_166112	signal	1	35				
+RXXXRC_166112	outside	36	37				
+//
+# RXXXRC_16259 Length: 50
+# RXXXRC_16259 Number of predicted TMRs: 0
+RXXXRC_16259	inside	1	50				
+//
+# RXXXRC_90259 Length: 40
+# RXXXRC_90259 Number of predicted TMRs: 0
+RXXXRC_90259	inside	1	40				
+//
+# RXXXRC_80089 Length: 49
+# RXXXRC_80089 Number of predicted TMRs: 0
+RXXXRC_80089	signal	1	47				
+RXXXRC_80089	outside	48	49				
+//
+# RXXXRC_72885 Length: 46
+# RXXXRC_72885 Number of predicted TMRs: 0
+RXXXRC_72885	signal	1	28				
+RXXXRC_72885	outside	29	46				
+//
+# RXXXRC_128972 Length: 46
+# RXXXRC_128972 Number of predicted TMRs: 0
+RXXXRC_128972	inside	1	46				
+//
+# RXXXRC_125325 Length: 49
+# RXXXRC_125325 Number of predicted TMRs: 0
+RXXXRC_125325	inside	1	49				
+//
+# RXXXRC_118595 Length: 50
+# RXXXRC_118595 Number of predicted TMRs: 0
+RXXXRC_118595	inside	1	50				
+//
+# RXXXRC_44102 Length: 47
+# RXXXRC_44102 Number of predicted TMRs: 0
+RXXXRC_44102	inside	1	47				
+//
+# RXXXRC_73663 Length: 38
+# RXXXRC_73663 Number of predicted TMRs: 0
+RXXXRC_73663	signal	1	37				
+RXXXRC_73663	outside	38	38				
+//
+# RXXXRC_45182 Length: 45
+# RXXXRC_45182 Number of predicted TMRs: 0
+RXXXRC_45182	inside	1	45				
+//
+# RXXXRC_57831 Length: 46
+# RXXXRC_57831 Number of predicted TMRs: 0
+RXXXRC_57831	inside	1	46				
+//
+# RXXXRC_18661 Length: 45
+# RXXXRC_18661 Number of predicted TMRs: 0
+RXXXRC_18661	signal	1	24				
+RXXXRC_18661	outside	25	45				
+//
+# RXXXRC_13885 Length: 46
+# RXXXRC_13885 Number of predicted TMRs: 0
+RXXXRC_13885	inside	1	46				
+//
+# RXXXRC_38885 Length: 49
+# RXXXRC_38885 Number of predicted TMRs: 0
+RXXXRC_38885	inside	1	49				
+//
+# RXXXRC_117902 Length: 44
+# RXXXRC_117902 Number of predicted TMRs: 0
+RXXXRC_117902	inside	1	44				
+//
+# RXXXRC_147342 Length: 48
+# RXXXRC_147342 Number of predicted TMRs: 0
+RXXXRC_147342	outside	1	48				
+//
+# RXXXRC_98722 Length: 36
+# RXXXRC_98722 Number of predicted TMRs: 0
+RXXXRC_98722	inside	1	36				
+//
+# RXXXRC_97545 Length: 37
+# RXXXRC_97545 Number of predicted TMRs: 0
+RXXXRC_97545	inside	1	37				
+//
+# RXXXRC_43579 Length: 47
+# RXXXRC_43579 Number of predicted TMRs: 0
+RXXXRC_43579	inside	1	47				
+//
+# RXXXRC_148321 Length: 49
+# RXXXRC_148321 Number of predicted TMRs: 0
+RXXXRC_148321	inside	1	49				
+//
+# RXXXRC_114619 Length: 40
+# RXXXRC_114619 Number of predicted TMRs: 0
+RXXXRC_114619	signal	1	39				
+RXXXRC_114619	outside	40	40				
+//
+# RXXXRC_57686 Length: 43
+# RXXXRC_57686 Number of predicted TMRs: 0
+RXXXRC_57686	inside	1	43				
+//
+# RXXXRC_97136 Length: 50
+# RXXXRC_97136 Number of predicted TMRs: 0
+RXXXRC_97136	inside	1	50				
+//
+# RXXXRC_79848 Length: 48
+# RXXXRC_79848 Number of predicted TMRs: 0
+RXXXRC_79848	inside	1	48				
+//
+# RXXXRC_150058 Length: 47
+# RXXXRC_150058 Number of predicted TMRs: 0
+RXXXRC_150058	inside	1	47				
+//
+# RXXXRC_152903 Length: 46
+# RXXXRC_152903 Number of predicted TMRs: 0
+RXXXRC_152903	inside	1	46				
+//
+# RXXXRC_48829 Length: 48
+# RXXXRC_48829 Number of predicted TMRs: 0
+RXXXRC_48829	inside	1	48				
+//
+# RXXXRC_6897 Length: 47
+# RXXXRC_6897 Number of predicted TMRs: 0
+RXXXRC_6897	inside	1	47				
+//
+# RXXXRC_157989 Length: 50
+# RXXXRC_157989 Number of predicted TMRs: 0
+RXXXRC_157989	inside	1	50				
+//
+# RXXXRC_84894 Length: 37
+# RXXXRC_84894 Number of predicted TMRs: 0
+RXXXRC_84894	signal	1	34				
+RXXXRC_84894	outside	35	37				
+//
+# RXXXRC_10169 Length: 39
+# RXXXRC_10169 Number of predicted TMRs: 0
+RXXXRC_10169	signal	1	38				
+RXXXRC_10169	outside	39	39				
+//
+# RXXXRC_16922 Length: 50
+# RXXXRC_16922 Number of predicted TMRs: 0
+RXXXRC_16922	inside	1	50				
+//
+# RXXXRC_36746 Length: 42
+# RXXXRC_36746 Number of predicted TMRs: 0
+RXXXRC_36746	signal	1	35				
+RXXXRC_36746	outside	36	42				
+//
+# RXXXRC_153891 Length: 49
+# RXXXRC_153891 Number of predicted TMRs: 0
+RXXXRC_153891	inside	1	49				
+//
+# RXXXRC_27136 Length: 48
+# RXXXRC_27136 Number of predicted TMRs: 0
+RXXXRC_27136	inside	1	48				
+//
+# RXXXRC_62915 Length: 50
+# RXXXRC_62915 Number of predicted TMRs: 0
+RXXXRC_62915	inside	1	50				
+//
+# RXXXRC_112385 Length: 50
+# RXXXRC_112385 Number of predicted TMRs: 0
+RXXXRC_112385	inside	1	50				
+//
+# RXXXRC_3420 Length: 45
+# RXXXRC_3420 Number of predicted TMRs: 0
+RXXXRC_3420	inside	1	45				
+//
+# RXXXRC_101561 Length: 48
+# RXXXRC_101561 Number of predicted TMRs: 0
+RXXXRC_101561	signal	1	44				
+RXXXRC_101561	outside	45	48				
+//
+# RXXXRC_63693 Length: 41
+# RXXXRC_63693 Number of predicted TMRs: 0
+RXXXRC_63693	signal	1	40				
+RXXXRC_63693	outside	41	41				
+//
+# RXXXRC_6562 Length: 48
+# RXXXRC_6562 Number of predicted TMRs: 0
+RXXXRC_6562	signal	1	46				
+RXXXRC_6562	outside	47	48				
+//
+# RXXXRC_132924 Length: 49
+# RXXXRC_132924 Number of predicted TMRs: 0
+RXXXRC_132924	inside	1	49				
+//
+# RXXXRC_84871 Length: 50
+# RXXXRC_84871 Number of predicted TMRs: 0
+RXXXRC_84871	signal	1	12				
+RXXXRC_84871	outside	13	50				
+//
+# RXXXRC_118446 Length: 44
+# RXXXRC_118446 Number of predicted TMRs: 0
+RXXXRC_118446	inside	1	44				
+//
+# RXXXRC_132064 Length: 49
+# RXXXRC_132064 Number of predicted TMRs: 0
+RXXXRC_132064	inside	1	49				
+//
+# RXXXRC_94257 Length: 43
+# RXXXRC_94257 Number of predicted TMRs: 0
+RXXXRC_94257	inside	1	43				
+//
+# RXXXRC_84458 Length: 43
+# RXXXRC_84458 Number of predicted TMRs: 0
+RXXXRC_84458	inside	1	43				
+//
+# RXXXRC_47535 Length: 48
+# RXXXRC_47535 Number of predicted TMRs: 0
+RXXXRC_47535	inside	1	48				
+//
+# RXXXRC_27164 Length: 47
+# RXXXRC_27164 Number of predicted TMRs: 0
+RXXXRC_27164	signal	1	41				
+RXXXRC_27164	outside	42	47				
+//
+# RXXXRC_106886 Length: 48
+# RXXXRC_106886 Number of predicted TMRs: 0
+RXXXRC_106886	inside	1	48				
+//
+# RXXXRC_124237 Length: 50
+# RXXXRC_124237 Number of predicted TMRs: 0
+RXXXRC_124237	inside	1	50				
+//
+# RXXXRC_124624 Length: 50
+# RXXXRC_124624 Number of predicted TMRs: 0
+RXXXRC_124624	inside	1	50				
+//
+# RXXXRC_60547 Length: 33
+# RXXXRC_60547 Number of predicted TMRs: 0
+RXXXRC_60547	signal	1	25				
+RXXXRC_60547	outside	26	33				
+//
+# RXXXRC_87441 Length: 40
+# RXXXRC_87441 Number of predicted TMRs: 0
+RXXXRC_87441	signal	1	38				
+RXXXRC_87441	outside	39	40				
+//
+# RXXXRC_34578 Length: 45
+# RXXXRC_34578 Number of predicted TMRs: 0
+RXXXRC_34578	inside	1	45				
+//
+# RXXXRC_66134 Length: 33
+# RXXXRC_66134 Number of predicted TMRs: 0
+RXXXRC_66134	signal	1	14				
+RXXXRC_66134	outside	15	33				
+//
+# RXXXRC_132803 Length: 39
+# RXXXRC_132803 Number of predicted TMRs: 0
+RXXXRC_132803	signal	1	38				
+RXXXRC_132803	outside	39	39				
+//
+# RXXXRC_38519 Length: 48
+# RXXXRC_38519 Number of predicted TMRs: 0
+RXXXRC_38519	signal	1	40				
+RXXXRC_38519	outside	41	48				
+//
+# RXXXRC_172215 Length: 50
+# RXXXRC_172215 Number of predicted TMRs: 0
+RXXXRC_172215	inside	1	50				
+//
+# RXXXRC_10612 Length: 48
+# RXXXRC_10612 Number of predicted TMRs: 0
+RXXXRC_10612	signal	1	46				
+RXXXRC_10612	outside	47	48				
+//
+# RXXXRC_19037 Length: 45
+# RXXXRC_19037 Number of predicted TMRs: 0
+RXXXRC_19037	signal	1	44				
+RXXXRC_19037	outside	45	45				
+//
+# RXXXRC_29877 Length: 36
+# RXXXRC_29877 Number of predicted TMRs: 0
+RXXXRC_29877	inside	1	36				
+//
+# RXXXRC_141569 Length: 48
+# RXXXRC_141569 Number of predicted TMRs: 0
+RXXXRC_141569	inside	1	48				
+//
+# RXXXRC_141565 Length: 48
+# RXXXRC_141565 Number of predicted TMRs: 0
+RXXXRC_141565	inside	1	48				
+//
+# RXXXRC_102572 Length: 49
+# RXXXRC_102572 Number of predicted TMRs: 0
+RXXXRC_102572	inside	1	49				
+//
+# RXXXRC_27025 Length: 48
+# RXXXRC_27025 Number of predicted TMRs: 0
+RXXXRC_27025	inside	1	48				
+//
+# RXXXRC_126511 Length: 49
+# RXXXRC_126511 Number of predicted TMRs: 0
+RXXXRC_126511	inside	1	49				
+//
+# RXXXRC_93179 Length: 48
+# RXXXRC_93179 Number of predicted TMRs: 0
+RXXXRC_93179	inside	1	48				
+//
+# RXXXRC_133008 Length: 45
+# RXXXRC_133008 Number of predicted TMRs: 0
+RXXXRC_133008	signal	1	16				
+RXXXRC_133008	outside	17	45				
+//
+# RXXXRC_102550 Length: 48
+# RXXXRC_102550 Number of predicted TMRs: 0
+RXXXRC_102550	inside	1	48				
+//
+# RXXXRC_75189 Length: 45
+# RXXXRC_75189 Number of predicted TMRs: 0
+RXXXRC_75189	inside	1	45				
+//
+# RXXXRC_9120 Length: 46
+# RXXXRC_9120 Number of predicted TMRs: 0
+RXXXRC_9120	inside	1	46				
+//
+# RXXXRC_19052 Length: 46
+# RXXXRC_19052 Number of predicted TMRs: 0
+RXXXRC_19052	inside	1	46				
+//
+# RXXXRC_74120 Length: 41
+# RXXXRC_74120 Number of predicted TMRs: 0
+RXXXRC_74120	inside	1	41				
+//
+# RXXXRC_6266 Length: 49
+# RXXXRC_6266 Number of predicted TMRs: 0
+RXXXRC_6266	inside	1	49				
+//
+# RXXXRC_2513 Length: 49
+# RXXXRC_2513 Number of predicted TMRs: 0
+RXXXRC_2513	inside	1	49				
+//
+# RXXXRC_2549 Length: 47
+# RXXXRC_2549 Number of predicted TMRs: 0
+RXXXRC_2549	inside	1	47				
+//
+# RXXXRC_94352 Length: 43
+# RXXXRC_94352 Number of predicted TMRs: 0
+RXXXRC_94352	signal	1	19				
+RXXXRC_94352	outside	20	43				
+//
+# RXXXRC_161007 Length: 50
+# RXXXRC_161007 Number of predicted TMRs: 0
+RXXXRC_161007	signal	1	49				
+RXXXRC_161007	outside	50	50				
+//
+# RXXXRC_130372 Length: 50
+# RXXXRC_130372 Number of predicted TMRs: 0
+RXXXRC_130372	inside	1	50				
+//
+# RXXXRC_13174 Length: 46
+# RXXXRC_13174 Number of predicted TMRs: 0
+RXXXRC_13174	inside	1	46				
+//
+# RXXXRC_101128 Length: 48
+# RXXXRC_101128 Number of predicted TMRs: 0
+RXXXRC_101128	outside	1	48				
+//
+# RXXXRC_114409 Length: 43
+# RXXXRC_114409 Number of predicted TMRs: 0
+RXXXRC_114409	signal	1	42				
+RXXXRC_114409	outside	43	43				
+//
+# RXXXRC_18993 Length: 49
+# RXXXRC_18993 Number of predicted TMRs: 0
+RXXXRC_18993	inside	1	49				
+//
+# RXXXRC_9706 Length: 45
+# RXXXRC_9706 Number of predicted TMRs: 0
+RXXXRC_9706	inside	1	45				
+//
+# RXXXRC_141617 Length: 48
+# RXXXRC_141617 Number of predicted TMRs: 0
+RXXXRC_141617	inside	1	48				
+//
+# RXXXRC_50769 Length: 50
+# RXXXRC_50769 Number of predicted TMRs: 0
+RXXXRC_50769	inside	1	50				
+//
+# RXXXRC_115002 Length: 48
+# RXXXRC_115002 Number of predicted TMRs: 0
+RXXXRC_115002	inside	1	48				
+//
+# RXXXRC_19041 Length: 45
+# RXXXRC_19041 Number of predicted TMRs: 0
+RXXXRC_19041	inside	1	45				
+//
+# RXXXRC_169845 Length: 50
+# RXXXRC_169845 Number of predicted TMRs: 0
+RXXXRC_169845	inside	1	50				
+//
+# RXXXRC_6877 Length: 49
+# RXXXRC_6877 Number of predicted TMRs: 0
+RXXXRC_6877	signal	1	32				
+RXXXRC_6877	outside	33	49				
+//
+# RXXXRC_35417 Length: 49
+# RXXXRC_35417 Number of predicted TMRs: 0
+RXXXRC_35417	signal	1	47				
+RXXXRC_35417	outside	48	49				
+//
+# RXXXRC_8423 Length: 48
+# RXXXRC_8423 Number of predicted TMRs: 0
+RXXXRC_8423	inside	1	48				
+//
+# RXXXRC_65295 Length: 26
+# RXXXRC_65295 Number of predicted TMRs: 0
+RXXXRC_65295	inside	1	26				
+//
+# RXXXRC_96692 Length: 27
+# RXXXRC_96692 Number of predicted TMRs: 0
+RXXXRC_96692	inside	1	27				
+//
+# RXXXRC_89896 Length: 48
+# RXXXRC_89896 Number of predicted TMRs: 0
+RXXXRC_89896	inside	1	48				
+//
+# RXXXRC_150057 Length: 47
+# RXXXRC_150057 Number of predicted TMRs: 0
+RXXXRC_150057	inside	1	47				
+//
+# RXXXRC_131579 Length: 40
+# RXXXRC_131579 Number of predicted TMRs: 0
+RXXXRC_131579	signal	1	39				
+RXXXRC_131579	outside	40	40				
+//
+# RXXXRC_60611 Length: 46
+# RXXXRC_60611 Number of predicted TMRs: 0
+RXXXRC_60611	inside	1	46				
+//
+# RXXXRC_36666 Length: 47
+# RXXXRC_36666 Number of predicted TMRs: 0
+RXXXRC_36666	inside	1	47				
+//
+# RXXXRC_80346 Length: 50
+# RXXXRC_80346 Number of predicted TMRs: 0
+RXXXRC_80346	inside	1	50				
+//
+# RXXXRC_133822 Length: 39
+# RXXXRC_133822 Number of predicted TMRs: 0
+RXXXRC_133822	inside	1	39				
+//
+# RXXXRC_119895 Length: 43
+# RXXXRC_119895 Number of predicted TMRs: 0
+RXXXRC_119895	signal	1	18				
+RXXXRC_119895	outside	19	43				
+//
+# RXXXRC_123641 Length: 43
+# RXXXRC_123641 Number of predicted TMRs: 0
+RXXXRC_123641	signal	1	20				
+RXXXRC_123641	outside	21	43				
+//
+# RXXXRC_135593 Length: 38
+# RXXXRC_135593 Number of predicted TMRs: 0
+RXXXRC_135593	inside	1	38				
+//
+# RXXXRC_10912 Length: 50
+# RXXXRC_10912 Number of predicted TMRs: 0
+RXXXRC_10912	inside	1	50				
+//
+# RXXXRC_20522 Length: 49
+# RXXXRC_20522 Number of predicted TMRs: 0
+RXXXRC_20522	inside	1	49				
+//
+# RXXXRC_92673 Length: 39
+# RXXXRC_92673 Number of predicted TMRs: 0
+RXXXRC_92673	outside	1	39				
+//
+# RXXXRC_128211 Length: 50
+# RXXXRC_128211 Number of predicted TMRs: 0
+RXXXRC_128211	inside	1	50				
+//
+# RXXXRC_10715 Length: 47
+# RXXXRC_10715 Number of predicted TMRs: 0
+RXXXRC_10715	inside	1	47				
+//
+# RXXXRC_32217 Length: 45
+# RXXXRC_32217 Number of predicted TMRs: 0
+RXXXRC_32217	signal	1	25				
+RXXXRC_32217	outside	26	45				
+//
+# RXXXRC_52351 Length: 50
+# RXXXRC_52351 Number of predicted TMRs: 0
+RXXXRC_52351	inside	1	50				
+//
+# RXXXRC_90490 Length: 48
+# RXXXRC_90490 Number of predicted TMRs: 0
+RXXXRC_90490	signal	1	24				
+RXXXRC_90490	outside	25	48				
+//
+# RXXXRC_137685 Length: 40
+# RXXXRC_137685 Number of predicted TMRs: 0
+RXXXRC_137685	inside	1	40				
+//
+# RXXXRC_115058 Length: 45
+# RXXXRC_115058 Number of predicted TMRs: 0
+RXXXRC_115058	inside	1	45				
+//
+# RXXXRC_107106 Length: 46
+# RXXXRC_107106 Number of predicted TMRs: 0
+RXXXRC_107106	inside	1	46				
+//
+# RXXXRC_169325 Length: 47
+# RXXXRC_169325 Number of predicted TMRs: 0
+RXXXRC_169325	inside	1	47				
+//
+# RXXXRC_143472 Length: 44
+# RXXXRC_143472 Number of predicted TMRs: 0
+RXXXRC_143472	inside	1	44				
+//
+# RXXXRC_3485 Length: 46
+# RXXXRC_3485 Number of predicted TMRs: 0
+RXXXRC_3485	inside	1	46				
+//
+# RXXXRC_172934 Length: 50
+# RXXXRC_172934 Number of predicted TMRs: 0
+RXXXRC_172934	inside	1	50				
+//
+# RXXXRC_47387 Length: 31
+# RXXXRC_47387 Number of predicted TMRs: 0
+RXXXRC_47387	signal	1	30				
+RXXXRC_47387	outside	31	31				
+//
+# RXXXRC_43592 Length: 44
+# RXXXRC_43592 Number of predicted TMRs: 0
+RXXXRC_43592	inside	1	44				
+//
+# RXXXRC_170255 Length: 49
+# RXXXRC_170255 Number of predicted TMRs: 0
+RXXXRC_170255	inside	1	49				
+//
+# RXXXRC_118215 Length: 45
+# RXXXRC_118215 Number of predicted TMRs: 0
+RXXXRC_118215	inside	1	45				
+//
+# RXXXRC_140690 Length: 45
+# RXXXRC_140690 Number of predicted TMRs: 0
+RXXXRC_140690	inside	1	45				
+//
+# RXXXRC_171978 Length: 49
+# RXXXRC_171978 Number of predicted TMRs: 0
+RXXXRC_171978	signal	1	47				
+RXXXRC_171978	outside	48	49				
+//
+# RXXXRC_123147 Length: 50
+# RXXXRC_123147 Number of predicted TMRs: 0
+RXXXRC_123147	inside	1	50				
+//
+# RXXXRC_169001 Length: 50
+# RXXXRC_169001 Number of predicted TMRs: 0
+RXXXRC_169001	signal	1	17				
+RXXXRC_169001	outside	18	50				
+//
+# RXXXRC_12272 Length: 49
+# RXXXRC_12272 Number of predicted TMRs: 0
+RXXXRC_12272	inside	1	49				
+//
+# RXXXRC_90766 Length: 44
+# RXXXRC_90766 Number of predicted TMRs: 0
+RXXXRC_90766	signal	1	10				
+RXXXRC_90766	outside	11	44				
+//
+# RXXXRC_90407 Length: 42
+# RXXXRC_90407 Number of predicted TMRs: 0
+RXXXRC_90407	inside	1	42				
+//
+# RXXXRC_124626 Length: 45
+# RXXXRC_124626 Number of predicted TMRs: 0
+RXXXRC_124626	inside	1	45				
+//
+# RXXXRC_86577 Length: 50
+# RXXXRC_86577 Number of predicted TMRs: 0
+RXXXRC_86577	inside	1	50				
+//
+# RXXXRC_163209 Length: 40
+# RXXXRC_163209 Number of predicted TMRs: 0
+RXXXRC_163209	inside	1	40				
+//
+# RXXXRC_100473 Length: 47
+# RXXXRC_100473 Number of predicted TMRs: 0
+RXXXRC_100473	inside	1	47				
+//
+# RXXXRC_35419 Length: 49
+# RXXXRC_35419 Number of predicted TMRs: 0
+RXXXRC_35419	inside	1	49				
+//
+# RXXXRC_173460 Length: 43
+# RXXXRC_173460 Number of predicted TMRs: 0
+RXXXRC_173460	signal	1	15				
+RXXXRC_173460	outside	16	43				
+//
+# RXXXRC_112691 Length: 39
+# RXXXRC_112691 Number of predicted TMRs: 0
+RXXXRC_112691	signal	1	29				
+RXXXRC_112691	outside	30	39				
+//
+# RXXXRC_56462 Length: 45
+# RXXXRC_56462 Number of predicted TMRs: 0
+RXXXRC_56462	signal	1	12				
+RXXXRC_56462	outside	13	45				
+//
+# RXXXRC_60612 Length: 50
+# RXXXRC_60612 Number of predicted TMRs: 0
+RXXXRC_60612	inside	1	50				
+//
+# RXXXRC_147119 Length: 50
+# RXXXRC_147119 Number of predicted TMRs: 0
+RXXXRC_147119	inside	1	50				
+//
+# RXXXRC_127469 Length: 39
+# RXXXRC_127469 Number of predicted TMRs: 0
+RXXXRC_127469	outside	1	39				
+//
+# RXXXRC_55182 Length: 46
+# RXXXRC_55182 Number of predicted TMRs: 0
+RXXXRC_55182	inside	1	46				
+//
+# RXXXRC_162959 Length: 42
+# RXXXRC_162959 Number of predicted TMRs: 1
+RXXXRC_162959	outside	1	11				
+RXXXRC_162959	TMhelix	12	28				
+RXXXRC_162959	inside	29	42				
+//
+# RXXXRC_3710 Length: 46
+# RXXXRC_3710 Number of predicted TMRs: 0
+RXXXRC_3710	signal	1	45				
+RXXXRC_3710	outside	46	46				
+//
+# RXXXRC_17001 Length: 45
+# RXXXRC_17001 Number of predicted TMRs: 0
+RXXXRC_17001	signal	1	40				
+RXXXRC_17001	outside	41	45				
+//
+# RXXXRC_97128 Length: 41
+# RXXXRC_97128 Number of predicted TMRs: 0
+RXXXRC_97128	inside	1	41				
+//
+# RXXXRC_6985 Length: 49
+# RXXXRC_6985 Number of predicted TMRs: 0
+RXXXRC_6985	signal	1	44				
+RXXXRC_6985	outside	45	49				
+//
+# RXXXRC_130909 Length: 47
+# RXXXRC_130909 Number of predicted TMRs: 0
+RXXXRC_130909	inside	1	47				
+//
+# RXXXRC_31623 Length: 49
+# RXXXRC_31623 Number of predicted TMRs: 0
+RXXXRC_31623	inside	1	49				
+//
+# RXXXRC_143988 Length: 38
+# RXXXRC_143988 Number of predicted TMRs: 0
+RXXXRC_143988	signal	1	37				
+RXXXRC_143988	outside	38	38				
+//
+# RXXXRC_160388 Length: 43
+# RXXXRC_160388 Number of predicted TMRs: 0
+RXXXRC_160388	outside	1	43				
+//
+# RXXXRC_80205 Length: 46
+# RXXXRC_80205 Number of predicted TMRs: 0
+RXXXRC_80205	inside	1	46				
+//
+# RXXXRC_113176 Length: 46
+# RXXXRC_113176 Number of predicted TMRs: 0
+RXXXRC_113176	inside	1	46				
+//
+# RXXXRC_46635 Length: 40
+# RXXXRC_46635 Number of predicted TMRs: 0
+RXXXRC_46635	inside	1	40				
+//
+# RXXXRC_22910 Length: 43
+# RXXXRC_22910 Number of predicted TMRs: 0
+RXXXRC_22910	signal	1	41				
+RXXXRC_22910	outside	42	43				
+//
+# RXXXRC_151177 Length: 41
+# RXXXRC_151177 Number of predicted TMRs: 0
+RXXXRC_151177	signal	1	40				
+RXXXRC_151177	outside	41	41				
+//
+# RXXXRC_118364 Length: 46
+# RXXXRC_118364 Number of predicted TMRs: 0
+RXXXRC_118364	inside	1	46				
+//
+# RXXXRC_82249 Length: 48
+# RXXXRC_82249 Number of predicted TMRs: 0
+RXXXRC_82249	signal	1	20				
+RXXXRC_82249	outside	21	48				
+//
+# RXXXRC_37585 Length: 50
+# RXXXRC_37585 Number of predicted TMRs: 0
+RXXXRC_37585	inside	1	50				
+//
+# RXXXRC_172861 Length: 39
+# RXXXRC_172861 Number of predicted TMRs: 0
+RXXXRC_172861	signal	1	35				
+RXXXRC_172861	outside	36	39				
+//
+# RXXXRC_16374 Length: 48
+# RXXXRC_16374 Number of predicted TMRs: 0
+RXXXRC_16374	inside	1	48				
+//
+# RXXXRC_44508 Length: 36
+# RXXXRC_44508 Number of predicted TMRs: 0
+RXXXRC_44508	inside	1	36				
+//
+# RXXXRC_136253 Length: 34
+# RXXXRC_136253 Number of predicted TMRs: 0
+RXXXRC_136253	inside	1	34				
+//
+# RXXXRC_61243 Length: 46
+# RXXXRC_61243 Number of predicted TMRs: 0
+RXXXRC_61243	signal	1	38				
+RXXXRC_61243	outside	39	46				
+//
+# RXXXRC_112777 Length: 48
+# RXXXRC_112777 Number of predicted TMRs: 0
+RXXXRC_112777	signal	1	10				
+RXXXRC_112777	outside	11	48				
+//
+# RXXXRC_49861 Length: 46
+# RXXXRC_49861 Number of predicted TMRs: 0
+RXXXRC_49861	signal	1	28				
+RXXXRC_49861	outside	29	46				
+//
+# RXXXRC_99169 Length: 46
+# RXXXRC_99169 Number of predicted TMRs: 0
+RXXXRC_99169	inside	1	46				
+//
+# RXXXRC_63023 Length: 41
+# RXXXRC_63023 Number of predicted TMRs: 0
+RXXXRC_63023	inside	1	41				
+//
+# RXXXRC_21821 Length: 36
+# RXXXRC_21821 Number of predicted TMRs: 0
+RXXXRC_21821	signal	1	35				
+RXXXRC_21821	outside	36	36				
+//
+# RXXXRC_168352 Length: 50
+# RXXXRC_168352 Number of predicted TMRs: 0
+RXXXRC_168352	inside	1	50				
+//
+# RXXXRC_165049 Length: 50
+# RXXXRC_165049 Number of predicted TMRs: 0
+RXXXRC_165049	inside	1	50				
+//
+# RXXXRC_69067 Length: 45
+# RXXXRC_69067 Number of predicted TMRs: 0
+RXXXRC_69067	signal	1	44				
+RXXXRC_69067	outside	45	45				
+//
+# RXXXRC_29078 Length: 47
+# RXXXRC_29078 Number of predicted TMRs: 0
+RXXXRC_29078	signal	1	12				
+RXXXRC_29078	outside	13	47				
+//
+# RXXXRC_51000 Length: 37
+# RXXXRC_51000 Number of predicted TMRs: 0
+RXXXRC_51000	signal	1	24				
+RXXXRC_51000	outside	25	37				
+//
+# RXXXRC_143029 Length: 33
+# RXXXRC_143029 Number of predicted TMRs: 0
+RXXXRC_143029	outside	1	33				
+//
+# RXXXRC_88007 Length: 45
+# RXXXRC_88007 Number of predicted TMRs: 0
+RXXXRC_88007	inside	1	45				
+//
+# RXXXRC_22670 Length: 45
+# RXXXRC_22670 Number of predicted TMRs: 0
+RXXXRC_22670	signal	1	42				
+RXXXRC_22670	outside	43	45				
+//
+# RXXXRC_127916 Length: 49
+# RXXXRC_127916 Number of predicted TMRs: 0
+RXXXRC_127916	signal	1	11				
+RXXXRC_127916	outside	12	49				
+//
+# RXXXRC_145933 Length: 45
+# RXXXRC_145933 Number of predicted TMRs: 0
+RXXXRC_145933	signal	1	44				
+RXXXRC_145933	outside	45	45				
+//
+# RXXXRC_8464 Length: 47
+# RXXXRC_8464 Number of predicted TMRs: 0
+RXXXRC_8464	signal	1	41				
+RXXXRC_8464	outside	42	47				
+//
+# RXXXRC_135047 Length: 43
+# RXXXRC_135047 Number of predicted TMRs: 0
+RXXXRC_135047	inside	1	43				
+//
+# RXXXRC_15691 Length: 47
+# RXXXRC_15691 Number of predicted TMRs: 0
+RXXXRC_15691	inside	1	47				
+//
+# RXXXRC_173173 Length: 50
+# RXXXRC_173173 Number of predicted TMRs: 0
+RXXXRC_173173	outside	1	50				
+//
+# RXXXRC_93261 Length: 36
+# RXXXRC_93261 Number of predicted TMRs: 0
+RXXXRC_93261	signal	1	31				
+RXXXRC_93261	outside	32	36				
+//
+# RXXXRC_46057 Length: 43
+# RXXXRC_46057 Number of predicted TMRs: 0
+RXXXRC_46057	inside	1	43				
+//
+# RXXXRC_1222 Length: 39
+# RXXXRC_1222 Number of predicted TMRs: 0
+RXXXRC_1222	inside	1	39				
+//
+# RXXXRC_107004 Length: 45
+# RXXXRC_107004 Number of predicted TMRs: 0
+RXXXRC_107004	signal	1	44				
+RXXXRC_107004	outside	45	45				
+//
+# RXXXRC_122396 Length: 43
+# RXXXRC_122396 Number of predicted TMRs: 0
+RXXXRC_122396	inside	1	43				
+//
+# RXXXRC_37888 Length: 49
+# RXXXRC_37888 Number of predicted TMRs: 0
+RXXXRC_37888	inside	1	49				
+//
+# RXXXRC_53582 Length: 48
+# RXXXRC_53582 Number of predicted TMRs: 0
+RXXXRC_53582	inside	1	48				
+//
+# RXXXRC_53579 Length: 48
+# RXXXRC_53579 Number of predicted TMRs: 0
+RXXXRC_53579	outside	1	48				
+//
+# RXXXRC_107417 Length: 45
+# RXXXRC_107417 Number of predicted TMRs: 0
+RXXXRC_107417	signal	1	20				
+RXXXRC_107417	outside	21	45				
+//
+# RXXXRC_158394 Length: 49
+# RXXXRC_158394 Number of predicted TMRs: 1
+RXXXRC_158394	inside	1	21				
+RXXXRC_158394	TMhelix	22	42				
+RXXXRC_158394	outside	43	49				
+//
+# RXXXRC_44535 Length: 47
+# RXXXRC_44535 Number of predicted TMRs: 0
+RXXXRC_44535	signal	1	10				
+RXXXRC_44535	outside	11	47				
+//
+# RXXXRC_45104 Length: 45
+# RXXXRC_45104 Number of predicted TMRs: 0
+RXXXRC_45104	inside	1	45				
+//
+# RXXXRC_65162 Length: 36
+# RXXXRC_65162 Number of predicted TMRs: 0
+RXXXRC_65162	inside	1	36				
+//
+# RXXXRC_85095 Length: 46
+# RXXXRC_85095 Number of predicted TMRs: 0
+RXXXRC_85095	outside	1	46				
+//
+# RXXXRC_122207 Length: 47
+# RXXXRC_122207 Number of predicted TMRs: 0
+RXXXRC_122207	inside	1	47				
+//
+# RXXXRC_35372 Length: 49
+# RXXXRC_35372 Number of predicted TMRs: 0
+RXXXRC_35372	inside	1	49				
+//
+# RXXXRC_90848 Length: 49
+# RXXXRC_90848 Number of predicted TMRs: 0
+RXXXRC_90848	signal	1	23				
+RXXXRC_90848	outside	24	49				
+//
+# RXXXRC_48805 Length: 32
+# RXXXRC_48805 Number of predicted TMRs: 0
+RXXXRC_48805	inside	1	32				
+//
+# RXXXRC_101839 Length: 46
+# RXXXRC_101839 Number of predicted TMRs: 0
+RXXXRC_101839	inside	1	46				
+//
+# RXXXRC_10362 Length: 30
+# RXXXRC_10362 Number of predicted TMRs: 0
+RXXXRC_10362	signal	1	29				
+RXXXRC_10362	outside	30	30				
+//
+# RXXXRC_64630 Length: 45
+# RXXXRC_64630 Number of predicted TMRs: 0
+RXXXRC_64630	inside	1	45				
+//
+# RXXXRC_55056 Length: 46
+# RXXXRC_55056 Number of predicted TMRs: 0
+RXXXRC_55056	signal	1	13				
+RXXXRC_55056	outside	14	46				
+//
+# RXXXRC_29154 Length: 43
+# RXXXRC_29154 Number of predicted TMRs: 0
+RXXXRC_29154	inside	1	43				
+//
+# RXXXRC_62075 Length: 35
+# RXXXRC_62075 Number of predicted TMRs: 0
+RXXXRC_62075	inside	1	35				
+//
+# RXXXRC_91910 Length: 50
+# RXXXRC_91910 Number of predicted TMRs: 0
+RXXXRC_91910	signal	1	18				
+RXXXRC_91910	outside	19	50				
+//
+# RXXXRC_81482 Length: 39
+# RXXXRC_81482 Number of predicted TMRs: 0
+RXXXRC_81482	inside	1	39				
+//
+# RXXXRC_7449 Length: 48
+# RXXXRC_7449 Number of predicted TMRs: 0
+RXXXRC_7449	inside	1	48				
+//
+# RXXXRC_22969 Length: 44
+# RXXXRC_22969 Number of predicted TMRs: 0
+RXXXRC_22969	inside	1	44				
+//
+# RXXXRC_142907 Length: 47
+# RXXXRC_142907 Number of predicted TMRs: 0
+RXXXRC_142907	inside	1	47				
+//
+# RXXXRC_94023 Length: 48
+# RXXXRC_94023 Number of predicted TMRs: 0
+RXXXRC_94023	outside	1	48				
+//
+# RXXXRC_136254 Length: 46
+# RXXXRC_136254 Number of predicted TMRs: 0
+RXXXRC_136254	inside	1	46				
+//
+# RXXXRC_93099 Length: 43
+# RXXXRC_93099 Number of predicted TMRs: 0
+RXXXRC_93099	inside	1	43				
+//
+# RXXXRC_89653 Length: 50
+# RXXXRC_89653 Number of predicted TMRs: 0
+RXXXRC_89653	inside	1	50				
+//
+# RXXXRC_128921 Length: 34
+# RXXXRC_128921 Number of predicted TMRs: 0
+RXXXRC_128921	outside	1	34				
+//
+# RXXXRC_39338 Length: 48
+# RXXXRC_39338 Number of predicted TMRs: 0
+RXXXRC_39338	inside	1	48				
+//
+# RXXXRC_99787 Length: 44
+# RXXXRC_99787 Number of predicted TMRs: 0
+RXXXRC_99787	inside	1	44				
+//
+# RXXXRC_39059 Length: 50
+# RXXXRC_39059 Number of predicted TMRs: 0
+RXXXRC_39059	inside	1	50				
+//
+# RXXXRC_30304 Length: 50
+# RXXXRC_30304 Number of predicted TMRs: 0
+RXXXRC_30304	inside	1	50				
+//
+# RXXXRC_134465 Length: 41
+# RXXXRC_134465 Number of predicted TMRs: 0
+RXXXRC_134465	signal	1	32				
+RXXXRC_134465	outside	33	41				
+//
+# RXXXRC_80054 Length: 42
+# RXXXRC_80054 Number of predicted TMRs: 0
+RXXXRC_80054	inside	1	42				
+//
+# RXXXRC_171575 Length: 48
+# RXXXRC_171575 Number of predicted TMRs: 0
+RXXXRC_171575	signal	1	44				
+RXXXRC_171575	outside	45	48				
+//
+# RXXXRC_65664 Length: 50
+# RXXXRC_65664 Number of predicted TMRs: 0
+RXXXRC_65664	inside	1	50				
+//
+# RXXXRC_148098 Length: 42
+# RXXXRC_148098 Number of predicted TMRs: 0
+RXXXRC_148098	signal	1	27				
+RXXXRC_148098	outside	28	42				
+//
+# RXXXRC_111095 Length: 45
+# RXXXRC_111095 Number of predicted TMRs: 0
+RXXXRC_111095	signal	1	43				
+RXXXRC_111095	outside	44	45				
+//
+# RXXXRC_10080 Length: 33
+# RXXXRC_10080 Number of predicted TMRs: 0
+RXXXRC_10080	signal	1	15				
+RXXXRC_10080	outside	16	33				
+//
+# RXXXRC_81026 Length: 44
+# RXXXRC_81026 Number of predicted TMRs: 0
+RXXXRC_81026	inside	1	44				
+//
+# RXXXRC_121125 Length: 50
+# RXXXRC_121125 Number of predicted TMRs: 0
+RXXXRC_121125	inside	1	50				
+//
+# RXXXRC_103277 Length: 44
+# RXXXRC_103277 Number of predicted TMRs: 0
+RXXXRC_103277	inside	1	44				
+//
+# RXXXRC_12945 Length: 48
+# RXXXRC_12945 Number of predicted TMRs: 0
+RXXXRC_12945	inside	1	48				
+//
+# RXXXRC_13332 Length: 49
+# RXXXRC_13332 Number of predicted TMRs: 0
+RXXXRC_13332	inside	1	49				
+//
+# RXXXRC_156364 Length: 48
+# RXXXRC_156364 Number of predicted TMRs: 0
+RXXXRC_156364	inside	1	48				
+//
+# RXXXRC_99111 Length: 49
+# RXXXRC_99111 Number of predicted TMRs: 0
+RXXXRC_99111	outside	1	49				
+//
+# RXXXRC_81812 Length: 47
+# RXXXRC_81812 Number of predicted TMRs: 0
+RXXXRC_81812	inside	1	47				
+//
+# RXXXRC_114452 Length: 40
+# RXXXRC_114452 Number of predicted TMRs: 0
+RXXXRC_114452	inside	1	40				
+//
+# RXXXRC_58101 Length: 50
+# RXXXRC_58101 Number of predicted TMRs: 0
+RXXXRC_58101	signal	1	29				
+RXXXRC_58101	outside	30	50				
+//
+# RXXXRC_76335 Length: 40
+# RXXXRC_76335 Number of predicted TMRs: 0
+RXXXRC_76335	signal	1	26				
+RXXXRC_76335	outside	27	40				
+//
+# RXXXRC_97057 Length: 41
+# RXXXRC_97057 Number of predicted TMRs: 0
+RXXXRC_97057	signal	1	28				
+RXXXRC_97057	outside	29	41				
+//
+# RXXXRC_2944 Length: 50
+# RXXXRC_2944 Number of predicted TMRs: 0
+RXXXRC_2944	signal	1	13				
+RXXXRC_2944	outside	14	50				
+//
+# RXXXRC_150000 Length: 47
+# RXXXRC_150000 Number of predicted TMRs: 0
+RXXXRC_150000	signal	1	27				
+RXXXRC_150000	outside	28	47				
+//
+# RXXXRC_156760 Length: 47
+# RXXXRC_156760 Number of predicted TMRs: 0
+RXXXRC_156760	signal	1	38				
+RXXXRC_156760	outside	39	47				
+//
+# RXXXRC_67048 Length: 47
+# RXXXRC_67048 Number of predicted TMRs: 0
+RXXXRC_67048	signal	1	38				
+RXXXRC_67048	outside	39	47				
+//
+# RXXXRC_81885 Length: 46
+# RXXXRC_81885 Number of predicted TMRs: 0
+RXXXRC_81885	signal	1	15				
+RXXXRC_81885	outside	16	46				
+//
+# RXXXRC_166368 Length: 46
+# RXXXRC_166368 Number of predicted TMRs: 0
+RXXXRC_166368	inside	1	46				
+//
+# RXXXRC_144239 Length: 46
+# RXXXRC_144239 Number of predicted TMRs: 0
+RXXXRC_144239	signal	1	45				
+RXXXRC_144239	outside	46	46				
+//
+# RXXXRC_150094 Length: 46
+# RXXXRC_150094 Number of predicted TMRs: 0
+RXXXRC_150094	inside	1	46				
+//
+# RXXXRC_16889 Length: 37
+# RXXXRC_16889 Number of predicted TMRs: 0
+RXXXRC_16889	signal	1	12				
+RXXXRC_16889	outside	13	37				
+//
+# RXXXRC_4941 Length: 50
+# RXXXRC_4941 Number of predicted TMRs: 0
+RXXXRC_4941	inside	1	50				
+//
+# RXXXRC_20524 Length: 48
+# RXXXRC_20524 Number of predicted TMRs: 0
+RXXXRC_20524	inside	1	48				
+//
+# RXXXRC_122447 Length: 49
+# RXXXRC_122447 Number of predicted TMRs: 0
+RXXXRC_122447	inside	1	49				
+//
+# RXXXRC_88292 Length: 49
+# RXXXRC_88292 Number of predicted TMRs: 0
+RXXXRC_88292	inside	1	49				
+//
+# RXXXRC_121621 Length: 50
+# RXXXRC_121621 Number of predicted TMRs: 0
+RXXXRC_121621	signal	1	26				
+RXXXRC_121621	outside	27	50				
+//
+# RXXXRC_1754 Length: 25
+# RXXXRC_1754 Number of predicted TMRs: 0
+RXXXRC_1754	inside	1	25				
+//
+# RXXXRC_37758 Length: 44
+# RXXXRC_37758 Number of predicted TMRs: 0
+RXXXRC_37758	inside	1	44				
+//
+# RXXXRC_55890 Length: 50
+# RXXXRC_55890 Number of predicted TMRs: 0
+RXXXRC_55890	signal	1	10				
+RXXXRC_55890	outside	11	50				
+//
+# RXXXRC_148673 Length: 45
+# RXXXRC_148673 Number of predicted TMRs: 0
+RXXXRC_148673	inside	1	45				
+//
+# RXXXRC_137104 Length: 34
+# RXXXRC_137104 Number of predicted TMRs: 0
+RXXXRC_137104	inside	1	34				
+//
+# RXXXRC_99569 Length: 31
+# RXXXRC_99569 Number of predicted TMRs: 0
+RXXXRC_99569	signal	1	21				
+RXXXRC_99569	outside	22	31				
+//
+# RXXXRC_110423 Length: 49
+# RXXXRC_110423 Number of predicted TMRs: 0
+RXXXRC_110423	inside	1	49				
+//
+# RXXXRC_135710 Length: 48
+# RXXXRC_135710 Number of predicted TMRs: 0
+RXXXRC_135710	signal	1	47				
+RXXXRC_135710	outside	48	48				
+//
+# RXXXRC_6183 Length: 43
+# RXXXRC_6183 Number of predicted TMRs: 0
+RXXXRC_6183	inside	1	43				
+//
+# RXXXRC_111277 Length: 45
+# RXXXRC_111277 Number of predicted TMRs: 0
+RXXXRC_111277	outside	1	45				
+//
+# RXXXRC_29798 Length: 47
+# RXXXRC_29798 Number of predicted TMRs: 0
+RXXXRC_29798	inside	1	47				
+//
+# RXXXRC_42264 Length: 44
+# RXXXRC_42264 Number of predicted TMRs: 0
+RXXXRC_42264	inside	1	44				
+//
+# RXXXRC_112183 Length: 39
+# RXXXRC_112183 Number of predicted TMRs: 0
+RXXXRC_112183	signal	1	38				
+RXXXRC_112183	outside	39	39				
+//
+# RXXXRC_28670 Length: 30
+# RXXXRC_28670 Number of predicted TMRs: 0
+RXXXRC_28670	signal	1	29				
+RXXXRC_28670	outside	30	30				
+//
+# RXXXRC_107437 Length: 42
+# RXXXRC_107437 Number of predicted TMRs: 0
+RXXXRC_107437	inside	1	42				
+//
+# RXXXRC_35321 Length: 40
+# RXXXRC_35321 Number of predicted TMRs: 0
+RXXXRC_35321	inside	1	40				
+//
+# RXXXRC_130067 Length: 48
+# RXXXRC_130067 Number of predicted TMRs: 0
+RXXXRC_130067	inside	1	48				
+//
+# RXXXRC_142632 Length: 47
+# RXXXRC_142632 Number of predicted TMRs: 0
+RXXXRC_142632	signal	1	10				
+RXXXRC_142632	outside	11	47				
+//
+# RXXXRC_120468 Length: 47
+# RXXXRC_120468 Number of predicted TMRs: 0
+RXXXRC_120468	inside	1	47				
+//
+# RXXXRC_96033 Length: 48
+# RXXXRC_96033 Number of predicted TMRs: 0
+RXXXRC_96033	signal	1	17				
+RXXXRC_96033	outside	18	48				
+//
+# RXXXRC_99153 Length: 46
+# RXXXRC_99153 Number of predicted TMRs: 0
+RXXXRC_99153	inside	1	46				
+//
+# RXXXRC_39225 Length: 50
+# RXXXRC_39225 Number of predicted TMRs: 0
+RXXXRC_39225	inside	1	50				
+//
+# RXXXRC_52477 Length: 49
+# RXXXRC_52477 Number of predicted TMRs: 0
+RXXXRC_52477	inside	1	49				
+//
+# RXXXRC_139102 Length: 47
+# RXXXRC_139102 Number of predicted TMRs: 0
+RXXXRC_139102	signal	1	39				
+RXXXRC_139102	outside	40	47				
+//
+# RXXXRC_143507 Length: 49
+# RXXXRC_143507 Number of predicted TMRs: 0
+RXXXRC_143507	inside	1	49				
+//
+# RXXXRC_116924 Length: 49
+# RXXXRC_116924 Number of predicted TMRs: 0
+RXXXRC_116924	inside	1	49				
+//
+# RXXXRC_16066 Length: 38
+# RXXXRC_16066 Number of predicted TMRs: 0
+RXXXRC_16066	inside	1	38				
+//
+# RXXXRC_125576 Length: 46
+# RXXXRC_125576 Number of predicted TMRs: 0
+RXXXRC_125576	signal	1	15				
+RXXXRC_125576	outside	16	46				
+//
+# RXXXRC_46242 Length: 43
+# RXXXRC_46242 Number of predicted TMRs: 0
+RXXXRC_46242	signal	1	26				
+RXXXRC_46242	outside	27	43				
+//
+# RXXXRC_55869 Length: 31
+# RXXXRC_55869 Number of predicted TMRs: 0
+RXXXRC_55869	signal	1	30				
+RXXXRC_55869	outside	31	31				
+//
+# RXXXRC_121436 Length: 45
+# RXXXRC_121436 Number of predicted TMRs: 0
+RXXXRC_121436	signal	1	25				
+RXXXRC_121436	outside	26	45				
+//
+# RXXXRC_72375 Length: 44
+# RXXXRC_72375 Number of predicted TMRs: 0
+RXXXRC_72375	inside	1	44				
+//
+# RXXXRC_19189 Length: 28
+# RXXXRC_19189 Number of predicted TMRs: 0
+RXXXRC_19189	signal	1	25				
+RXXXRC_19189	outside	26	28				
+//
+# RXXXRC_109052 Length: 42
+# RXXXRC_109052 Number of predicted TMRs: 0
+RXXXRC_109052	signal	1	37				
+RXXXRC_109052	outside	38	42				
+//
+# RXXXRC_119054 Length: 37
+# RXXXRC_119054 Number of predicted TMRs: 0
+RXXXRC_119054	signal	1	16				
+RXXXRC_119054	outside	17	37				
+//
+# RXXXRC_47694 Length: 42
+# RXXXRC_47694 Number of predicted TMRs: 0
+RXXXRC_47694	signal	1	13				
+RXXXRC_47694	outside	14	42				
+//
+# RXXXRC_71273 Length: 38
+# RXXXRC_71273 Number of predicted TMRs: 0
+RXXXRC_71273	inside	1	38				
+//
+# RXXXRC_6230 Length: 39
+# RXXXRC_6230 Number of predicted TMRs: 0
+RXXXRC_6230	inside	1	39				
+//
+# RXXXRC_132093 Length: 50
+# RXXXRC_132093 Number of predicted TMRs: 0
+RXXXRC_132093	inside	1	50				
+//
+# RXXXRC_73774 Length: 33
+# RXXXRC_73774 Number of predicted TMRs: 0
+RXXXRC_73774	signal	1	21				
+RXXXRC_73774	outside	22	33				
+//
+# RXXXRC_105784 Length: 49
+# RXXXRC_105784 Number of predicted TMRs: 0
+RXXXRC_105784	inside	1	49				
+//
+# RXXXRC_172000 Length: 48
+# RXXXRC_172000 Number of predicted TMRs: 0
+RXXXRC_172000	inside	1	48				
+//
+# RXXXRC_60257 Length: 50
+# RXXXRC_60257 Number of predicted TMRs: 0
+RXXXRC_60257	inside	1	50				
+//
+# RXXXRC_52917 Length: 39
+# RXXXRC_52917 Number of predicted TMRs: 0
+RXXXRC_52917	outside	1	39				
+//
+# RXXXRC_18077 Length: 44
+# RXXXRC_18077 Number of predicted TMRs: 0
+RXXXRC_18077	inside	1	44				
+//
+# RXXXRC_165113 Length: 43
+# RXXXRC_165113 Number of predicted TMRs: 0
+RXXXRC_165113	signal	1	10				
+RXXXRC_165113	outside	11	43				
+//
+# RXXXRC_21696 Length: 49
+# RXXXRC_21696 Number of predicted TMRs: 0
+RXXXRC_21696	inside	1	49				
+//
+# RXXXRC_42978 Length: 41
+# RXXXRC_42978 Number of predicted TMRs: 0
+RXXXRC_42978	signal	1	35				
+RXXXRC_42978	outside	36	41				
+//
+# RXXXRC_103405 Length: 48
+# RXXXRC_103405 Number of predicted TMRs: 0
+RXXXRC_103405	signal	1	27				
+RXXXRC_103405	outside	28	48				
+//
+# RXXXRC_1600 Length: 48
+# RXXXRC_1600 Number of predicted TMRs: 0
+RXXXRC_1600	signal	1	39				
+RXXXRC_1600	outside	40	48				
+//
+# RXXXRC_168334 Length: 36
+# RXXXRC_168334 Number of predicted TMRs: 0
+RXXXRC_168334	signal	1	35				
+RXXXRC_168334	outside	36	36				
+//
+# RXXXRC_130748 Length: 38
+# RXXXRC_130748 Number of predicted TMRs: 0
+RXXXRC_130748	inside	1	38				
+//
+# RXXXRC_50266 Length: 38
+# RXXXRC_50266 Number of predicted TMRs: 0
+RXXXRC_50266	inside	1	38				
+//
+# RXXXRC_41947 Length: 43
+# RXXXRC_41947 Number of predicted TMRs: 0
+RXXXRC_41947	inside	1	43				
+//
+# RXXXRC_125252 Length: 48
+# RXXXRC_125252 Number of predicted TMRs: 0
+RXXXRC_125252	inside	1	48				
+//
+# RXXXRC_15885 Length: 45
+# RXXXRC_15885 Number of predicted TMRs: 0
+RXXXRC_15885	inside	1	45				
+//
+# RXXXRC_107398 Length: 36
+# RXXXRC_107398 Number of predicted TMRs: 0
+RXXXRC_107398	inside	1	36				
+//
+# RXXXRC_148303 Length: 46
+# RXXXRC_148303 Number of predicted TMRs: 0
+RXXXRC_148303	signal	1	44				
+RXXXRC_148303	outside	45	46				
+//
+# RXXXRC_71906 Length: 48
+# RXXXRC_71906 Number of predicted TMRs: 0
+RXXXRC_71906	inside	1	48				
+//
+# RXXXRC_82421 Length: 45
+# RXXXRC_82421 Number of predicted TMRs: 0
+RXXXRC_82421	signal	1	44				
+RXXXRC_82421	outside	45	45				
+//
+# RXXXRC_19769 Length: 47
+# RXXXRC_19769 Number of predicted TMRs: 0
+RXXXRC_19769	inside	1	47				
+//
+# RXXXRC_53583 Length: 48
+# RXXXRC_53583 Number of predicted TMRs: 0
+RXXXRC_53583	inside	1	48				
+//
+# RXXXRC_55343 Length: 42
+# RXXXRC_55343 Number of predicted TMRs: 0
+RXXXRC_55343	signal	1	40				
+RXXXRC_55343	outside	41	42				
+//
+# RXXXRC_78747 Length: 49
+# RXXXRC_78747 Number of predicted TMRs: 0
+RXXXRC_78747	inside	1	49				
+//
+# RXXXRC_104477 Length: 40
+# RXXXRC_104477 Number of predicted TMRs: 0
+RXXXRC_104477	inside	1	40				
+//
+# RXXXRC_34716 Length: 50
+# RXXXRC_34716 Number of predicted TMRs: 0
+RXXXRC_34716	inside	1	50				
+//
+# RXXXRC_11045 Length: 39
+# RXXXRC_11045 Number of predicted TMRs: 0
+RXXXRC_11045	signal	1	38				
+RXXXRC_11045	outside	39	39				
+//
+# RXXXRC_123689 Length: 43
+# RXXXRC_123689 Number of predicted TMRs: 0
+RXXXRC_123689	inside	1	43				
+//
+# RXXXRC_17543 Length: 40
+# RXXXRC_17543 Number of predicted TMRs: 0
+RXXXRC_17543	signal	1	30				
+RXXXRC_17543	outside	31	40				
+//
+# RXXXRC_48151 Length: 48
+# RXXXRC_48151 Number of predicted TMRs: 0
+RXXXRC_48151	inside	1	48				
+//
+# RXXXRC_71572 Length: 41
+# RXXXRC_71572 Number of predicted TMRs: 0
+RXXXRC_71572	inside	1	41				
+//
+# RXXXRC_75776 Length: 42
+# RXXXRC_75776 Number of predicted TMRs: 0
+RXXXRC_75776	inside	1	42				
+//
+# RXXXRC_19500 Length: 46
+# RXXXRC_19500 Number of predicted TMRs: 0
+RXXXRC_19500	inside	1	46				
+//
+# RXXXRC_139099 Length: 48
+# RXXXRC_139099 Number of predicted TMRs: 0
+RXXXRC_139099	outside	1	48				
+//
+# RXXXRC_140502 Length: 47
+# RXXXRC_140502 Number of predicted TMRs: 0
+RXXXRC_140502	inside	1	47				
+//
+# RXXXRC_170293 Length: 39
+# RXXXRC_170293 Number of predicted TMRs: 0
+RXXXRC_170293	inside	1	39				
+//
+# RXXXRC_40488 Length: 46
+# RXXXRC_40488 Number of predicted TMRs: 0
+RXXXRC_40488	signal	1	27				
+RXXXRC_40488	outside	28	46				
+//
+# RXXXRC_116722 Length: 40
+# RXXXRC_116722 Number of predicted TMRs: 0
+RXXXRC_116722	signal	1	15				
+RXXXRC_116722	outside	16	40				
+//
+# RXXXRC_169239 Length: 50
+# RXXXRC_169239 Number of predicted TMRs: 0
+RXXXRC_169239	inside	1	50				
+//
+# RXXXRC_82048 Length: 49
+# RXXXRC_82048 Number of predicted TMRs: 0
+RXXXRC_82048	inside	1	49				
+//
+# RXXXRC_27256 Length: 43
+# RXXXRC_27256 Number of predicted TMRs: 0
+RXXXRC_27256	inside	1	43				
+//
+# RXXXRC_15766 Length: 47
+# RXXXRC_15766 Number of predicted TMRs: 0
+RXXXRC_15766	outside	1	47				
+//
+# RXXXRC_143383 Length: 45
+# RXXXRC_143383 Number of predicted TMRs: 0
+RXXXRC_143383	inside	1	45				
+//
+# RXXXRC_71993 Length: 45
+# RXXXRC_71993 Number of predicted TMRs: 0
+RXXXRC_71993	signal	1	43				
+RXXXRC_71993	outside	44	45				
+//
+# RXXXRC_7986 Length: 38
+# RXXXRC_7986 Number of predicted TMRs: 0
+RXXXRC_7986	inside	1	38				
+//
+# RXXXRC_44282 Length: 40
+# RXXXRC_44282 Number of predicted TMRs: 0
+RXXXRC_44282	inside	1	40				
+//
+# RXXXRC_33342 Length: 46
+# RXXXRC_33342 Number of predicted TMRs: 0
+RXXXRC_33342	signal	1	37				
+RXXXRC_33342	outside	38	46				
+//
+# RXXXRC_48542 Length: 47
+# RXXXRC_48542 Number of predicted TMRs: 0
+RXXXRC_48542	inside	1	47				
+//
+# RXXXRC_150087 Length: 46
+# RXXXRC_150087 Number of predicted TMRs: 0
+RXXXRC_150087	inside	1	46				
+//
+# RXXXRC_54277 Length: 50
+# RXXXRC_54277 Number of predicted TMRs: 0
+RXXXRC_54277	inside	1	50				
+//
+# RXXXRC_157570 Length: 44
+# RXXXRC_157570 Number of predicted TMRs: 0
+RXXXRC_157570	signal	1	39				
+RXXXRC_157570	outside	40	44				
+//
+# RXXXRC_121586 Length: 47
+# RXXXRC_121586 Number of predicted TMRs: 0
+RXXXRC_121586	inside	1	47				
+//
+# RXXXRC_26046 Length: 34
+# RXXXRC_26046 Number of predicted TMRs: 0
+RXXXRC_26046	inside	1	34				
+//
+# RXXXRC_164344 Length: 49
+# RXXXRC_164344 Number of predicted TMRs: 0
+RXXXRC_164344	signal	1	44				
+RXXXRC_164344	outside	45	49				
+//
+# RXXXRC_153515 Length: 37
+# RXXXRC_153515 Number of predicted TMRs: 0
+RXXXRC_153515	signal	1	13				
+RXXXRC_153515	outside	14	37				
+//
+# RXXXRC_123622 Length: 48
+# RXXXRC_123622 Number of predicted TMRs: 0
+RXXXRC_123622	inside	1	48				
+//
+# RXXXRC_26563 Length: 41
+# RXXXRC_26563 Number of predicted TMRs: 0
+RXXXRC_26563	inside	1	41				
+//
+# RXXXRC_57887 Length: 45
+# RXXXRC_57887 Number of predicted TMRs: 0
+RXXXRC_57887	inside	1	45				
+//
+# RXXXRC_12188 Length: 43
+# RXXXRC_12188 Number of predicted TMRs: 0
+RXXXRC_12188	inside	1	43				
+//
+# RXXXRC_21387 Length: 48
+# RXXXRC_21387 Number of predicted TMRs: 0
+RXXXRC_21387	signal	1	45				
+RXXXRC_21387	outside	46	48				
+//
+# RXXXRC_121932 Length: 41
+# RXXXRC_121932 Number of predicted TMRs: 0
+RXXXRC_121932	inside	1	41				
+//
+# RXXXRC_20775 Length: 38
+# RXXXRC_20775 Number of predicted TMRs: 0
+RXXXRC_20775	signal	1	37				
+RXXXRC_20775	outside	38	38				
+//
+# RXXXRC_169176 Length: 35
+# RXXXRC_169176 Number of predicted TMRs: 0
+RXXXRC_169176	inside	1	35				
+//
+# RXXXRC_38194 Length: 40
+# RXXXRC_38194 Number of predicted TMRs: 0
+RXXXRC_38194	signal	1	35				
+RXXXRC_38194	outside	36	40				
+//
+# RXXXRC_57373 Length: 49
+# RXXXRC_57373 Number of predicted TMRs: 0
+RXXXRC_57373	inside	1	49				
+//
+# RXXXRC_80699 Length: 48
+# RXXXRC_80699 Number of predicted TMRs: 0
+RXXXRC_80699	inside	1	48				
+//
+# RXXXRC_86526 Length: 47
+# RXXXRC_86526 Number of predicted TMRs: 0
+RXXXRC_86526	outside	1	47				
+//
+# RXXXRC_87913 Length: 48
+# RXXXRC_87913 Number of predicted TMRs: 0
+RXXXRC_87913	inside	1	48				
+//
+# RXXXRC_9385 Length: 39
+# RXXXRC_9385 Number of predicted TMRs: 0
+RXXXRC_9385	signal	1	38				
+RXXXRC_9385	outside	39	39				
+//
+# RXXXRC_122923 Length: 42
+# RXXXRC_122923 Number of predicted TMRs: 0
+RXXXRC_122923	inside	1	42				
+//
+# RXXXRC_93738 Length: 49
+# RXXXRC_93738 Number of predicted TMRs: 0
+RXXXRC_93738	signal	1	27				
+RXXXRC_93738	outside	28	49				
+//
+# RXXXRC_36326 Length: 42
+# RXXXRC_36326 Number of predicted TMRs: 0
+RXXXRC_36326	inside	1	42				
+//
+# RXXXRC_163670 Length: 49
+# RXXXRC_163670 Number of predicted TMRs: 0
+RXXXRC_163670	inside	1	49				
+//
+# RXXXRC_49109 Length: 50
+# RXXXRC_49109 Number of predicted TMRs: 0
+RXXXRC_49109	signal	1	23				
+RXXXRC_49109	outside	24	50				
+//
+# RXXXRC_25031 Length: 41
+# RXXXRC_25031 Number of predicted TMRs: 0
+RXXXRC_25031	inside	1	41				
+//
+# RXXXRC_145457 Length: 49
+# RXXXRC_145457 Number of predicted TMRs: 0
+RXXXRC_145457	inside	1	49				
+//
+# RXXXRC_74066 Length: 49
+# RXXXRC_74066 Number of predicted TMRs: 0
+RXXXRC_74066	inside	1	49				
+//
+# RXXXRC_18099 Length: 49
+# RXXXRC_18099 Number of predicted TMRs: 0
+RXXXRC_18099	inside	1	49				
+//
+# RXXXRC_171292 Length: 47
+# RXXXRC_171292 Number of predicted TMRs: 0
+RXXXRC_171292	signal	1	46				
+RXXXRC_171292	periplasm	47	47				
+//
+# RXXXRC_26058 Length: 46
+# RXXXRC_26058 Number of predicted TMRs: 0
+RXXXRC_26058	inside	1	46				
+//
+# RXXXRC_152117 Length: 47
+# RXXXRC_152117 Number of predicted TMRs: 0
+RXXXRC_152117	signal	1	22				
+RXXXRC_152117	outside	23	47				
+//
+# RXXXRC_139191 Length: 44
+# RXXXRC_139191 Number of predicted TMRs: 0
+RXXXRC_139191	signal	1	37				
+RXXXRC_139191	outside	38	44				
+//
+# RXXXRC_12737 Length: 38
+# RXXXRC_12737 Number of predicted TMRs: 0
+RXXXRC_12737	outside	1	38				
+//
+# RXXXRC_46782 Length: 48
+# RXXXRC_46782 Number of predicted TMRs: 0
+RXXXRC_46782	inside	1	48				
+//
+# RXXXRC_16058 Length: 41
+# RXXXRC_16058 Number of predicted TMRs: 0
+RXXXRC_16058	signal	1	39				
+RXXXRC_16058	outside	40	41				
+//
+# RXXXRC_49705 Length: 43
+# RXXXRC_49705 Number of predicted TMRs: 0
+RXXXRC_49705	inside	1	43				
+//
+# RXXXRC_167041 Length: 39
+# RXXXRC_167041 Number of predicted TMRs: 0
+RXXXRC_167041	outside	1	39				
+//
+# RXXXRC_87051 Length: 46
+# RXXXRC_87051 Number of predicted TMRs: 0
+RXXXRC_87051	signal	1	18				
+RXXXRC_87051	outside	19	46				
+//
+# RXXXRC_145354 Length: 49
+# RXXXRC_145354 Number of predicted TMRs: 0
+RXXXRC_145354	inside	1	49				
+//
+# RXXXRC_75706 Length: 36
+# RXXXRC_75706 Number of predicted TMRs: 0
+RXXXRC_75706	inside	1	36				
+//
+# RXXXRC_46121 Length: 50
+# RXXXRC_46121 Number of predicted TMRs: 0
+RXXXRC_46121	signal	1	48				
+RXXXRC_46121	outside	49	50				
+//
+# RXXXRC_138374 Length: 48
+# RXXXRC_138374 Number of predicted TMRs: 0
+RXXXRC_138374	outside	1	48				
+//
+# RXXXRC_120464 Length: 50
+# RXXXRC_120464 Number of predicted TMRs: 0
+RXXXRC_120464	inside	1	50				
+//
+# RXXXRC_120278 Length: 48
+# RXXXRC_120278 Number of predicted TMRs: 0
+RXXXRC_120278	inside	1	48				
+//
+# RXXXRC_92793 Length: 48
+# RXXXRC_92793 Number of predicted TMRs: 0
+RXXXRC_92793	inside	1	48				
+//
+# RXXXRC_72192 Length: 37
+# RXXXRC_72192 Number of predicted TMRs: 0
+RXXXRC_72192	signal	1	15				
+RXXXRC_72192	outside	16	37				
+//
+# RXXXRC_1391 Length: 49
+# RXXXRC_1391 Number of predicted TMRs: 0
+RXXXRC_1391	signal	1	13				
+RXXXRC_1391	outside	14	49				
+//
+# RXXXRC_129457 Length: 38
+# RXXXRC_129457 Number of predicted TMRs: 0
+RXXXRC_129457	signal	1	36				
+RXXXRC_129457	outside	37	38				
+//
+# RXXXRC_99087 Length: 50
+# RXXXRC_99087 Number of predicted TMRs: 0
+RXXXRC_99087	signal	1	35				
+RXXXRC_99087	outside	36	50				
+//
+# RXXXRC_39884 Length: 49
+# RXXXRC_39884 Number of predicted TMRs: 0
+RXXXRC_39884	inside	1	49				
+//
+# RXXXRC_61925 Length: 44
+# RXXXRC_61925 Number of predicted TMRs: 0
+RXXXRC_61925	signal	1	43				
+RXXXRC_61925	outside	44	44				
+//
+# RXXXRC_142429 Length: 33
+# RXXXRC_142429 Number of predicted TMRs: 0
+RXXXRC_142429	signal	1	21				
+RXXXRC_142429	outside	22	33				
+//
+# RXXXRC_143290 Length: 36
+# RXXXRC_143290 Number of predicted TMRs: 0
+RXXXRC_143290	inside	1	36				
+//
+# RXXXRC_2399 Length: 38
+# RXXXRC_2399 Number of predicted TMRs: 0
+RXXXRC_2399	signal	1	35				
+RXXXRC_2399	outside	36	38				
+//
+# RXXXRC_12257 Length: 49
+# RXXXRC_12257 Number of predicted TMRs: 0
+RXXXRC_12257	outside	1	49				
+//
+# RXXXRC_113784 Length: 47
+# RXXXRC_113784 Number of predicted TMRs: 0
+RXXXRC_113784	inside	1	47				
+//
+# RXXXRC_124170 Length: 37
+# RXXXRC_124170 Number of predicted TMRs: 0
+RXXXRC_124170	inside	1	37				
+//
+# RXXXRC_110602 Length: 50
+# RXXXRC_110602 Number of predicted TMRs: 0
+RXXXRC_110602	signal	1	43				
+RXXXRC_110602	outside	44	50				
+//
+# RXXXRC_100159 Length: 43
+# RXXXRC_100159 Number of predicted TMRs: 0
+RXXXRC_100159	inside	1	43				
+//
+# RXXXRC_50477 Length: 46
+# RXXXRC_50477 Number of predicted TMRs: 0
+RXXXRC_50477	inside	1	46				
+//
+# RXXXRC_64988 Length: 46
+# RXXXRC_64988 Number of predicted TMRs: 0
+RXXXRC_64988	signal	1	25				
+RXXXRC_64988	outside	26	46				
+//
+# RXXXRC_60975 Length: 48
+# RXXXRC_60975 Number of predicted TMRs: 0
+RXXXRC_60975	inside	1	48				
+//
+# RXXXRC_25935 Length: 35
+# RXXXRC_25935 Number of predicted TMRs: 0
+RXXXRC_25935	inside	1	35				
+//
+# RXXXRC_153467 Length: 47
+# RXXXRC_153467 Number of predicted TMRs: 0
+RXXXRC_153467	inside	1	47				
+//
+# RXXXRC_165203 Length: 38
+# RXXXRC_165203 Number of predicted TMRs: 0
+RXXXRC_165203	inside	1	38				
+//
+# RXXXRC_118299 Length: 45
+# RXXXRC_118299 Number of predicted TMRs: 0
+RXXXRC_118299	inside	1	45				
+//
+# RXXXRC_90752 Length: 49
+# RXXXRC_90752 Number of predicted TMRs: 0
+RXXXRC_90752	inside	1	49				
+//
+# RXXXRC_55822 Length: 46
+# RXXXRC_55822 Number of predicted TMRs: 0
+RXXXRC_55822	inside	1	46				
+//
+# RXXXRC_53814 Length: 42
+# RXXXRC_53814 Number of predicted TMRs: 0
+RXXXRC_53814	inside	1	42				
+//
+# RXXXRC_53818 Length: 44
+# RXXXRC_53818 Number of predicted TMRs: 0
+RXXXRC_53818	inside	1	44				
+//
+# RXXXRC_137037 Length: 48
+# RXXXRC_137037 Number of predicted TMRs: 0
+RXXXRC_137037	inside	1	48				
+//
+# RXXXRC_70053 Length: 39
+# RXXXRC_70053 Number of predicted TMRs: 0
+RXXXRC_70053	inside	1	39				
+//
+# RXXXRC_146655 Length: 32
+# RXXXRC_146655 Number of predicted TMRs: 0
+RXXXRC_146655	inside	1	32				
+//
+# RXXXRC_90315 Length: 39
+# RXXXRC_90315 Number of predicted TMRs: 0
+RXXXRC_90315	signal	1	26				
+RXXXRC_90315	outside	27	39				
+//
+# RXXXRC_71714 Length: 47
+# RXXXRC_71714 Number of predicted TMRs: 0
+RXXXRC_71714	signal	1	19				
+RXXXRC_71714	outside	20	47				
+//
+# RXXXRC_65098 Length: 45
+# RXXXRC_65098 Number of predicted TMRs: 0
+RXXXRC_65098	inside	1	45				
+//
+# RXXXRC_42591 Length: 49
+# RXXXRC_42591 Number of predicted TMRs: 0
+RXXXRC_42591	inside	1	49				
+//
+# RXXXRC_145030 Length: 45
+# RXXXRC_145030 Number of predicted TMRs: 0
+RXXXRC_145030	outside	1	45				
+//
+# RXXXRC_103145 Length: 43
+# RXXXRC_103145 Number of predicted TMRs: 0
+RXXXRC_103145	inside	1	43				
+//
+# RXXXRC_106425 Length: 37
+# RXXXRC_106425 Number of predicted TMRs: 0
+RXXXRC_106425	outside	1	37				
+//
+# RXXXRC_42260 Length: 43
+# RXXXRC_42260 Number of predicted TMRs: 0
+RXXXRC_42260	inside	1	43				
+//
+# RXXXRC_23036 Length: 50
+# RXXXRC_23036 Number of predicted TMRs: 0
+RXXXRC_23036	inside	1	50				
+//
+# RXXXRC_56874 Length: 50
+# RXXXRC_56874 Number of predicted TMRs: 0
+RXXXRC_56874	inside	1	50				
+//
+# RXXXRC_19038 Length: 45
+# RXXXRC_19038 Number of predicted TMRs: 0
+RXXXRC_19038	inside	1	45				
+//
+# RXXXRC_121792 Length: 37
+# RXXXRC_121792 Number of predicted TMRs: 0
+RXXXRC_121792	signal	1	35				
+RXXXRC_121792	outside	36	37				
+//
+# RXXXRC_88813 Length: 47
+# RXXXRC_88813 Number of predicted TMRs: 0
+RXXXRC_88813	signal	1	46				
+RXXXRC_88813	outside	47	47				
+//
+# RXXXRC_162909 Length: 40
+# RXXXRC_162909 Number of predicted TMRs: 0
+RXXXRC_162909	signal	1	31				
+RXXXRC_162909	outside	32	40				
+//
+# RXXXRC_55308 Length: 46
+# RXXXRC_55308 Number of predicted TMRs: 0
+RXXXRC_55308	inside	1	46				
+//
+# RXXXRC_127664 Length: 38
+# RXXXRC_127664 Number of predicted TMRs: 0
+RXXXRC_127664	inside	1	38				
+//
+# RXXXRC_19843 Length: 40
+# RXXXRC_19843 Number of predicted TMRs: 0
+RXXXRC_19843	signal	1	32				
+RXXXRC_19843	outside	33	40				
+//
+# RXXXRC_90918 Length: 50
+# RXXXRC_90918 Number of predicted TMRs: 0
+RXXXRC_90918	inside	1	50				
+//
+# RXXXRC_169985 Length: 41
+# RXXXRC_169985 Number of predicted TMRs: 0
+RXXXRC_169985	inside	1	41				
+//
+# RXXXRC_165627 Length: 45
+# RXXXRC_165627 Number of predicted TMRs: 0
+RXXXRC_165627	inside	1	45				
+//
+# RXXXRC_163403 Length: 37
+# RXXXRC_163403 Number of predicted TMRs: 0
+RXXXRC_163403	inside	1	37				
+//
+# RXXXRC_168011 Length: 44
+# RXXXRC_168011 Number of predicted TMRs: 0
+RXXXRC_168011	inside	1	44				
+//
+# RXXXRC_29860 Length: 47
+# RXXXRC_29860 Number of predicted TMRs: 0
+RXXXRC_29860	inside	1	47				
+//
+# RXXXRC_106277 Length: 31
+# RXXXRC_106277 Number of predicted TMRs: 0
+RXXXRC_106277	inside	1	31				
+//
+# RXXXRC_169983 Length: 36
+# RXXXRC_169983 Number of predicted TMRs: 0
+RXXXRC_169983	outside	1	36				
+//
+# RXXXRC_29589 Length: 47
+# RXXXRC_29589 Number of predicted TMRs: 0
+RXXXRC_29589	inside	1	47				
+//
+# RXXXRC_119441 Length: 40
+# RXXXRC_119441 Number of predicted TMRs: 0
+RXXXRC_119441	signal	1	24				
+RXXXRC_119441	outside	25	40				
+//
+# RXXXRC_166192 Length: 50
+# RXXXRC_166192 Number of predicted TMRs: 0
+RXXXRC_166192	inside	1	50				
+//
+# RXXXRC_23625 Length: 45
+# RXXXRC_23625 Number of predicted TMRs: 0
+RXXXRC_23625	signal	1	22				
+RXXXRC_23625	outside	23	45				
+//
+# RXXXRC_127390 Length: 48
+# RXXXRC_127390 Number of predicted TMRs: 0
+RXXXRC_127390	inside	1	48				
+//
+# RXXXRC_7061 Length: 49
+# RXXXRC_7061 Number of predicted TMRs: 0
+RXXXRC_7061	inside	1	49				
+//
+# RXXXRC_11943 Length: 44
+# RXXXRC_11943 Number of predicted TMRs: 0
+RXXXRC_11943	signal	1	26				
+RXXXRC_11943	outside	27	44				
+//
+# RXXXRC_109470 Length: 48
+# RXXXRC_109470 Number of predicted TMRs: 0
+RXXXRC_109470	inside	1	48				
+//
+# RXXXRC_8700 Length: 46
+# RXXXRC_8700 Number of predicted TMRs: 0
+RXXXRC_8700	inside	1	46				
+//
+# RXXXRC_126912 Length: 47
+# RXXXRC_126912 Number of predicted TMRs: 0
+RXXXRC_126912	inside	1	47				
+//
+# RXXXRC_172517 Length: 44
+# RXXXRC_172517 Number of predicted TMRs: 1
+RXXXRC_172517	outside	1	18				
+RXXXRC_172517	TMhelix	19	29				
+RXXXRC_172517	inside	30	44				
+//
+# RXXXRC_93681 Length: 44
+# RXXXRC_93681 Number of predicted TMRs: 0
+RXXXRC_93681	signal	1	37				
+RXXXRC_93681	outside	38	44				
+//
+# RXXXRC_152243 Length: 44
+# RXXXRC_152243 Number of predicted TMRs: 0
+RXXXRC_152243	inside	1	44				
+//
+# RXXXRC_80355 Length: 34
+# RXXXRC_80355 Number of predicted TMRs: 0
+RXXXRC_80355	inside	1	34				
+//
+# RXXXRC_77350 Length: 45
+# RXXXRC_77350 Number of predicted TMRs: 0
+RXXXRC_77350	inside	1	45				
+//
+# RXXXRC_62584 Length: 48
+# RXXXRC_62584 Number of predicted TMRs: 0
+RXXXRC_62584	inside	1	48				
+//
+# RXXXRC_44503 Length: 38
+# RXXXRC_44503 Number of predicted TMRs: 0
+RXXXRC_44503	inside	1	38				
+//
+# RXXXRC_171769 Length: 42
+# RXXXRC_171769 Number of predicted TMRs: 0
+RXXXRC_171769	signal	1	23				
+RXXXRC_171769	outside	24	42				
+//
+# RXXXRC_132751 Length: 48
+# RXXXRC_132751 Number of predicted TMRs: 0
+RXXXRC_132751	signal	1	40				
+RXXXRC_132751	outside	41	48				
+//
+# RXXXRC_137635 Length: 48
+# RXXXRC_137635 Number of predicted TMRs: 0
+RXXXRC_137635	signal	1	35				
+RXXXRC_137635	outside	36	48				
+//
+# RXXXRC_11147 Length: 45
+# RXXXRC_11147 Number of predicted TMRs: 0
+RXXXRC_11147	signal	1	44				
+RXXXRC_11147	outside	45	45				
+//
+# RXXXRC_33155 Length: 40
+# RXXXRC_33155 Number of predicted TMRs: 0
+RXXXRC_33155	inside	1	40				
+//
+# RXXXRC_12658 Length: 38
+# RXXXRC_12658 Number of predicted TMRs: 0
+RXXXRC_12658	inside	1	38				
+//
+# RXXXRC_119859 Length: 49
+# RXXXRC_119859 Number of predicted TMRs: 0
+RXXXRC_119859	inside	1	49				
+//
+# RXXXRC_144720 Length: 46
+# RXXXRC_144720 Number of predicted TMRs: 0
+RXXXRC_144720	signal	1	18				
+RXXXRC_144720	outside	19	46				
+//
+# RXXXRC_93364 Length: 48
+# RXXXRC_93364 Number of predicted TMRs: 0
+RXXXRC_93364	inside	1	48				
+//
+# RXXXRC_88737 Length: 46
+# RXXXRC_88737 Number of predicted TMRs: 0
+RXXXRC_88737	inside	1	46				
+//
+# RXXXRC_37501 Length: 50
+# RXXXRC_37501 Number of predicted TMRs: 0
+RXXXRC_37501	inside	1	50				
+//
+# RXXXRC_42249 Length: 46
+# RXXXRC_42249 Number of predicted TMRs: 0
+RXXXRC_42249	signal	1	15				
+RXXXRC_42249	outside	16	46				
+//
+# RXXXRC_8672 Length: 46
+# RXXXRC_8672 Number of predicted TMRs: 0
+RXXXRC_8672	signal	1	37				
+RXXXRC_8672	outside	38	46				
+//
+# RXXXRC_126858 Length: 44
+# RXXXRC_126858 Number of predicted TMRs: 0
+RXXXRC_126858	signal	1	41				
+RXXXRC_126858	outside	42	44				
+//
+# RXXXRC_9718 Length: 49
+# RXXXRC_9718 Number of predicted TMRs: 0
+RXXXRC_9718	signal	1	48				
+RXXXRC_9718	outside	49	49				
+//
+# RXXXRC_37014 Length: 39
+# RXXXRC_37014 Number of predicted TMRs: 0
+RXXXRC_37014	signal	1	37				
+RXXXRC_37014	outside	38	39				
+//
+# RXXXRC_21774 Length: 43
+# RXXXRC_21774 Number of predicted TMRs: 0
+RXXXRC_21774	inside	1	43				
+//
+# RXXXRC_21789 Length: 47
+# RXXXRC_21789 Number of predicted TMRs: 0
+RXXXRC_21789	inside	1	47				
+//
+# RXXXRC_53240 Length: 49
+# RXXXRC_53240 Number of predicted TMRs: 0
+RXXXRC_53240	inside	1	49				
+//
+# RXXXRC_134240 Length: 45
+# RXXXRC_134240 Number of predicted TMRs: 0
+RXXXRC_134240	inside	1	45				
+//
+# RXXXRC_110322 Length: 38
+# RXXXRC_110322 Number of predicted TMRs: 0
+RXXXRC_110322	inside	1	38				
+//
+# RXXXRC_86391 Length: 50
+# RXXXRC_86391 Number of predicted TMRs: 0
+RXXXRC_86391	inside	1	50				
+//
+# RXXXRC_12419 Length: 50
+# RXXXRC_12419 Number of predicted TMRs: 0
+RXXXRC_12419	inside	1	50				
+//
+# RXXXRC_90743 Length: 30
+# RXXXRC_90743 Number of predicted TMRs: 0
+RXXXRC_90743	signal	1	18				
+RXXXRC_90743	outside	19	30				
+//
+# RXXXRC_60917 Length: 44
+# RXXXRC_60917 Number of predicted TMRs: 0
+RXXXRC_60917	inside	1	44				
+//
+# RXXXRC_24541 Length: 44
+# RXXXRC_24541 Number of predicted TMRs: 0
+RXXXRC_24541	inside	1	44				
+//
+# RXXXRC_117190 Length: 50
+# RXXXRC_117190 Number of predicted TMRs: 0
+RXXXRC_117190	inside	1	50				
+//
+# RXXXRC_143627 Length: 50
+# RXXXRC_143627 Number of predicted TMRs: 0
+RXXXRC_143627	inside	1	50				
+//
+# RXXXRC_96685 Length: 47
+# RXXXRC_96685 Number of predicted TMRs: 0
+RXXXRC_96685	inside	1	47				
+//
+# RXXXRC_115583 Length: 39
+# RXXXRC_115583 Number of predicted TMRs: 0
+RXXXRC_115583	inside	1	39				
+//
+# RXXXRC_102805 Length: 46
+# RXXXRC_102805 Number of predicted TMRs: 0
+RXXXRC_102805	inside	1	46				
+//
+# RXXXRC_168839 Length: 31
+# RXXXRC_168839 Number of predicted TMRs: 0
+RXXXRC_168839	signal	1	30				
+RXXXRC_168839	outside	31	31				
+//
+# RXXXRC_168571 Length: 50
+# RXXXRC_168571 Number of predicted TMRs: 0
+RXXXRC_168571	inside	1	50				
+//
+# RXXXRC_71359 Length: 49
+# RXXXRC_71359 Number of predicted TMRs: 0
+RXXXRC_71359	signal	1	48				
+RXXXRC_71359	outside	49	49				
+//
+# RXXXRC_151544 Length: 33
+# RXXXRC_151544 Number of predicted TMRs: 0
+RXXXRC_151544	inside	1	33				
+//
+# RXXXRC_75946 Length: 46
+# RXXXRC_75946 Number of predicted TMRs: 0
+RXXXRC_75946	signal	1	39				
+RXXXRC_75946	outside	40	46				
+//
+# RXXXRC_118044 Length: 46
+# RXXXRC_118044 Number of predicted TMRs: 0
+RXXXRC_118044	inside	1	46				
+//
+# RXXXRC_116119 Length: 48
+# RXXXRC_116119 Number of predicted TMRs: 0
+RXXXRC_116119	signal	1	13				
+RXXXRC_116119	outside	14	48				
+//
+# RXXXRC_28960 Length: 50
+# RXXXRC_28960 Number of predicted TMRs: 0
+RXXXRC_28960	inside	1	50				
+//
+# RXXXRC_28221 Length: 50
+# RXXXRC_28221 Number of predicted TMRs: 0
+RXXXRC_28221	signal	1	49				
+RXXXRC_28221	outside	50	50				
+//
+# RXXXRC_138965 Length: 44
+# RXXXRC_138965 Number of predicted TMRs: 0
+RXXXRC_138965	inside	1	44				
+//
+# RXXXRC_114135 Length: 47
+# RXXXRC_114135 Number of predicted TMRs: 0
+RXXXRC_114135	inside	1	47				
+//
+# RXXXRC_85003 Length: 44
+# RXXXRC_85003 Number of predicted TMRs: 0
+RXXXRC_85003	inside	1	44				
+//
+# RXXXRC_127476 Length: 40
+# RXXXRC_127476 Number of predicted TMRs: 0
+RXXXRC_127476	signal	1	25				
+RXXXRC_127476	outside	26	40				
+//
+# RXXXRC_82252 Length: 39
+# RXXXRC_82252 Number of predicted TMRs: 0
+RXXXRC_82252	inside	1	39				
+//
+# RXXXRC_30910 Length: 48
+# RXXXRC_30910 Number of predicted TMRs: 0
+RXXXRC_30910	inside	1	48				
+//
+# RXXXRC_133289 Length: 41
+# RXXXRC_133289 Number of predicted TMRs: 0
+RXXXRC_133289	inside	1	41				
+//
+# RXXXRC_139829 Length: 49
+# RXXXRC_139829 Number of predicted TMRs: 0
+RXXXRC_139829	signal	1	44				
+RXXXRC_139829	outside	45	49				
+//
+# RXXXRC_157396 Length: 45
+# RXXXRC_157396 Number of predicted TMRs: 0
+RXXXRC_157396	inside	1	45				
+//
+# RXXXRC_80882 Length: 41
+# RXXXRC_80882 Number of predicted TMRs: 0
+RXXXRC_80882	signal	1	39				
+RXXXRC_80882	outside	40	41				
+//
+# RXXXRC_32976 Length: 48
+# RXXXRC_32976 Number of predicted TMRs: 0
+RXXXRC_32976	signal	1	21				
+RXXXRC_32976	outside	22	48				
+//
+# RXXXRC_54687 Length: 48
+# RXXXRC_54687 Number of predicted TMRs: 0
+RXXXRC_54687	inside	1	48				
+//
+# RXXXRC_62121 Length: 47
+# RXXXRC_62121 Number of predicted TMRs: 0
+RXXXRC_62121	inside	1	47				
+//
+# RXXXRC_5094 Length: 48
+# RXXXRC_5094 Number of predicted TMRs: 0
+RXXXRC_5094	signal	1	47				
+RXXXRC_5094	outside	48	48				
+//
+# RXXXRC_34025 Length: 44
+# RXXXRC_34025 Number of predicted TMRs: 0
+RXXXRC_34025	signal	1	43				
+RXXXRC_34025	outside	44	44				
+//
+# RXXXRC_152553 Length: 47
+# RXXXRC_152553 Number of predicted TMRs: 0
+RXXXRC_152553	inside	1	47				
+//
+# RXXXRC_32587 Length: 42
+# RXXXRC_32587 Number of predicted TMRs: 0
+RXXXRC_32587	inside	1	42				
+//
+# RXXXRC_37187 Length: 33
+# RXXXRC_37187 Number of predicted TMRs: 0
+RXXXRC_37187	signal	1	24				
+RXXXRC_37187	outside	25	33				
+//
+# RXXXRC_27001 Length: 38
+# RXXXRC_27001 Number of predicted TMRs: 0
+RXXXRC_27001	signal	1	23				
+RXXXRC_27001	outside	24	38				
+//
+# RXXXRC_96931 Length: 41
+# RXXXRC_96931 Number of predicted TMRs: 0
+RXXXRC_96931	signal	1	40				
+RXXXRC_96931	outside	41	41				
+//
+# RXXXRC_168388 Length: 41
+# RXXXRC_168388 Number of predicted TMRs: 0
+RXXXRC_168388	signal	1	39				
+RXXXRC_168388	outside	40	41				
+//
+# RXXXRC_169430 Length: 46
+# RXXXRC_169430 Number of predicted TMRs: 0
+RXXXRC_169430	inside	1	46				
+//
+# RXXXRC_99542 Length: 44
+# RXXXRC_99542 Number of predicted TMRs: 0
+RXXXRC_99542	signal	1	43				
+RXXXRC_99542	outside	44	44				
+//
+# RXXXRC_133390 Length: 48
+# RXXXRC_133390 Number of predicted TMRs: 0
+RXXXRC_133390	inside	1	48				
+//
+# RXXXRC_170177 Length: 43
+# RXXXRC_170177 Number of predicted TMRs: 0
+RXXXRC_170177	signal	1	27				
+RXXXRC_170177	outside	28	43				
+//
+# RXXXRC_55388 Length: 36
+# RXXXRC_55388 Number of predicted TMRs: 0
+RXXXRC_55388	signal	1	34				
+RXXXRC_55388	outside	35	36				
+//
+# RXXXRC_133728 Length: 39
+# RXXXRC_133728 Number of predicted TMRs: 0
+RXXXRC_133728	inside	1	39				
+//
+# RXXXRC_2094 Length: 44
+# RXXXRC_2094 Number of predicted TMRs: 0
+RXXXRC_2094	signal	1	43				
+RXXXRC_2094	outside	44	44				
+//
+# RXXXRC_83970 Length: 41
+# RXXXRC_83970 Number of predicted TMRs: 0
+RXXXRC_83970	signal	1	24				
+RXXXRC_83970	outside	25	41				
+//
+# RXXXRC_94633 Length: 49
+# RXXXRC_94633 Number of predicted TMRs: 0
+RXXXRC_94633	inside	1	49				
+//
+# RXXXRC_130848 Length: 50
+# RXXXRC_130848 Number of predicted TMRs: 0
+RXXXRC_130848	signal	1	49				
+RXXXRC_130848	outside	50	50				
+//
+# RXXXRC_130644 Length: 46
+# RXXXRC_130644 Number of predicted TMRs: 0
+RXXXRC_130644	inside	1	46				
+//
+# RXXXRC_10529 Length: 46
+# RXXXRC_10529 Number of predicted TMRs: 0
+RXXXRC_10529	inside	1	46				
+//
+# RXXXRC_31071 Length: 49
+# RXXXRC_31071 Number of predicted TMRs: 0
+RXXXRC_31071	inside	1	49				
+//
+# RXXXRC_86942 Length: 47
+# RXXXRC_86942 Number of predicted TMRs: 0
+RXXXRC_86942	inside	1	47				
+//
+# RXXXRC_45551 Length: 41
+# RXXXRC_45551 Number of predicted TMRs: 1
+RXXXRC_45551	outside	1	2				
+RXXXRC_45551	TMhelix	3	23				
+RXXXRC_45551	inside	24	41				
+//
+# RXXXRC_139944 Length: 43
+# RXXXRC_139944 Number of predicted TMRs: 0
+RXXXRC_139944	inside	1	43				
+//
+# RXXXRC_140007 Length: 44
+# RXXXRC_140007 Number of predicted TMRs: 0
+RXXXRC_140007	inside	1	44				
+//
+# RXXXRC_84625 Length: 45
+# RXXXRC_84625 Number of predicted TMRs: 0
+RXXXRC_84625	signal	1	20				
+RXXXRC_84625	outside	21	45				
+//
+# RXXXRC_5060 Length: 46
+# RXXXRC_5060 Number of predicted TMRs: 0
+RXXXRC_5060	inside	1	46				
+//
+# RXXXRC_80474 Length: 48
+# RXXXRC_80474 Number of predicted TMRs: 0
+RXXXRC_80474	inside	1	48				
+//
+# RXXXRC_68418 Length: 47
+# RXXXRC_68418 Number of predicted TMRs: 0
+RXXXRC_68418	inside	1	47				
+//
+# RXXXRC_154059 Length: 47
+# RXXXRC_154059 Number of predicted TMRs: 0
+RXXXRC_154059	inside	1	47				
+//
+# RXXXRC_144684 Length: 46
+# RXXXRC_144684 Number of predicted TMRs: 0
+RXXXRC_144684	signal	1	45				
+RXXXRC_144684	outside	46	46				
+//
+# RXXXRC_117022 Length: 41
+# RXXXRC_117022 Number of predicted TMRs: 0
+RXXXRC_117022	inside	1	41				
+//
+# RXXXRC_159064 Length: 49
+# RXXXRC_159064 Number of predicted TMRs: 0
+RXXXRC_159064	inside	1	49				
+//
+# RXXXRC_147333 Length: 39
+# RXXXRC_147333 Number of predicted TMRs: 0
+RXXXRC_147333	signal	1	32				
+RXXXRC_147333	outside	33	39				
+//
+# RXXXRC_15782 Length: 46
+# RXXXRC_15782 Number of predicted TMRs: 0
+RXXXRC_15782	inside	1	46				
+//
+# RXXXRC_164695 Length: 50
+# RXXXRC_164695 Number of predicted TMRs: 0
+RXXXRC_164695	inside	1	50				
+//
+# RXXXRC_162449 Length: 39
+# RXXXRC_162449 Number of predicted TMRs: 0
+RXXXRC_162449	inside	1	39				
+//
+# RXXXRC_22930 Length: 47
+# RXXXRC_22930 Number of predicted TMRs: 0
+RXXXRC_22930	inside	1	47				
+//
+# RXXXRC_9310 Length: 44
+# RXXXRC_9310 Number of predicted TMRs: 0
+RXXXRC_9310	signal	1	22				
+RXXXRC_9310	outside	23	44				
+//
+# RXXXRC_102307 Length: 50
+# RXXXRC_102307 Number of predicted TMRs: 0
+RXXXRC_102307	inside	1	50				
+//
+# RXXXRC_54828 Length: 50
+# RXXXRC_54828 Number of predicted TMRs: 0
+RXXXRC_54828	inside	1	50				
+//
+# RXXXRC_172026 Length: 45
+# RXXXRC_172026 Number of predicted TMRs: 0
+RXXXRC_172026	inside	1	45				
+//
+# RXXXRC_17292 Length: 43
+# RXXXRC_17292 Number of predicted TMRs: 0
+RXXXRC_17292	inside	1	43				
+//
+# RXXXRC_170147 Length: 49
+# RXXXRC_170147 Number of predicted TMRs: 0
+RXXXRC_170147	inside	1	49				
+//
+# RXXXRC_75516 Length: 48
+# RXXXRC_75516 Number of predicted TMRs: 0
+RXXXRC_75516	signal	1	47				
+RXXXRC_75516	outside	48	48				
+//
+# RXXXRC_129933 Length: 39
+# RXXXRC_129933 Number of predicted TMRs: 0
+RXXXRC_129933	signal	1	37				
+RXXXRC_129933	outside	38	39				
+//
+# RXXXRC_165469 Length: 42
+# RXXXRC_165469 Number of predicted TMRs: 0
+RXXXRC_165469	inside	1	42				
+//
+# RXXXRC_131716 Length: 45
+# RXXXRC_131716 Number of predicted TMRs: 0
+RXXXRC_131716	signal	1	44				
+RXXXRC_131716	outside	45	45				
+//
+# RXXXRC_8376 Length: 49
+# RXXXRC_8376 Number of predicted TMRs: 0
+RXXXRC_8376	signal	1	40				
+RXXXRC_8376	outside	41	49				
+//
+# RXXXRC_95026 Length: 39
+# RXXXRC_95026 Number of predicted TMRs: 0
+RXXXRC_95026	inside	1	39				
+//
+# RXXXRC_39803 Length: 41
+# RXXXRC_39803 Number of predicted TMRs: 0
+RXXXRC_39803	inside	1	41				
+//
+# RXXXRC_25467 Length: 46
+# RXXXRC_25467 Number of predicted TMRs: 0
+RXXXRC_25467	signal	1	15				
+RXXXRC_25467	outside	16	46				
+//
+# RXXXRC_3981 Length: 40
+# RXXXRC_3981 Number of predicted TMRs: 0
+RXXXRC_3981	signal	1	39				
+RXXXRC_3981	outside	40	40				
+//
+# RXXXRC_136765 Length: 43
+# RXXXRC_136765 Number of predicted TMRs: 0
+RXXXRC_136765	signal	1	24				
+RXXXRC_136765	outside	25	43				
+//
+# RXXXRC_75733 Length: 48
+# RXXXRC_75733 Number of predicted TMRs: 0
+RXXXRC_75733	inside	1	48				
+//
+# RXXXRC_87193 Length: 42
+# RXXXRC_87193 Number of predicted TMRs: 0
+RXXXRC_87193	inside	1	42				
+//
+# RXXXRC_151133 Length: 50
+# RXXXRC_151133 Number of predicted TMRs: 0
+RXXXRC_151133	inside	1	50				
+//
+# RXXXRC_113937 Length: 40
+# RXXXRC_113937 Number of predicted TMRs: 0
+RXXXRC_113937	signal	1	20				
+RXXXRC_113937	outside	21	40				
+//
+# RXXXRC_45107 Length: 42
+# RXXXRC_45107 Number of predicted TMRs: 0
+RXXXRC_45107	signal	1	10				
+RXXXRC_45107	outside	11	42				
+//
+# RXXXRC_172629 Length: 45
+# RXXXRC_172629 Number of predicted TMRs: 0
+RXXXRC_172629	inside	1	45				
+//
+# RXXXRC_23015 Length: 43
+# RXXXRC_23015 Number of predicted TMRs: 0
+RXXXRC_23015	inside	1	43				
+//
+# RXXXRC_61296 Length: 44
+# RXXXRC_61296 Number of predicted TMRs: 0
+RXXXRC_61296	inside	1	44				
+//
+# RXXXRC_10902 Length: 49
+# RXXXRC_10902 Number of predicted TMRs: 0
+RXXXRC_10902	inside	1	49				
+//
+# RXXXRC_74439 Length: 42
+# RXXXRC_74439 Number of predicted TMRs: 0
+RXXXRC_74439	inside	1	42				
+//
+# RXXXRC_8899 Length: 49
+# RXXXRC_8899 Number of predicted TMRs: 0
+RXXXRC_8899	inside	1	49				
+//
+# RXXXRC_143646 Length: 48
+# RXXXRC_143646 Number of predicted TMRs: 0
+RXXXRC_143646	signal	1	38				
+RXXXRC_143646	outside	39	48				
+//
+# RXXXRC_22876 Length: 47
+# RXXXRC_22876 Number of predicted TMRs: 0
+RXXXRC_22876	inside	1	47				
+//
+# RXXXRC_80118 Length: 44
+# RXXXRC_80118 Number of predicted TMRs: 0
+RXXXRC_80118	inside	1	44				
+//
+# RXXXRC_105539 Length: 47
+# RXXXRC_105539 Number of predicted TMRs: 0
+RXXXRC_105539	signal	1	23				
+RXXXRC_105539	outside	24	47				
+//
+# RXXXRC_171333 Length: 50
+# RXXXRC_171333 Number of predicted TMRs: 0
+RXXXRC_171333	signal	1	40				
+RXXXRC_171333	outside	41	50				
+//
+# RXXXRC_96288 Length: 43
+# RXXXRC_96288 Number of predicted TMRs: 0
+RXXXRC_96288	inside	1	43				
+//
+# RXXXRC_143299 Length: 45
+# RXXXRC_143299 Number of predicted TMRs: 0
+RXXXRC_143299	signal	1	42				
+RXXXRC_143299	outside	43	45				
+//
+# RXXXRC_138328 Length: 50
+# RXXXRC_138328 Number of predicted TMRs: 0
+RXXXRC_138328	inside	1	50				
+//
+# RXXXRC_12937 Length: 41
+# RXXXRC_12937 Number of predicted TMRs: 0
+RXXXRC_12937	inside	1	41				
+//
+# RXXXRC_60031 Length: 49
+# RXXXRC_60031 Number of predicted TMRs: 0
+RXXXRC_60031	inside	1	49				
+//
+# RXXXRC_97143 Length: 37
+# RXXXRC_97143 Number of predicted TMRs: 0
+RXXXRC_97143	signal	1	36				
+RXXXRC_97143	outside	37	37				
+//
+# RXXXRC_173345 Length: 50
+# RXXXRC_173345 Number of predicted TMRs: 0
+RXXXRC_173345	signal	1	39				
+RXXXRC_173345	outside	40	50				
+//
+# RXXXRC_21247 Length: 49
+# RXXXRC_21247 Number of predicted TMRs: 0
+RXXXRC_21247	inside	1	49				

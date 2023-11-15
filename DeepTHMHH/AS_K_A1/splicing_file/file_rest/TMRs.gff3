@@ -1,0 +1,2949 @@
+##gff-version 3
+# OIIEFL_53639 Length: 44
+# OIIEFL_53639 Number of predicted TMRs: 0
+OIIEFL_53639	inside	1	44				
+//
+# OIIEFL_33119 Length: 50
+# OIIEFL_33119 Number of predicted TMRs: 0
+OIIEFL_33119	inside	1	50				
+//
+# OIIEFL_44550 Length: 50
+# OIIEFL_44550 Number of predicted TMRs: 0
+OIIEFL_44550	inside	1	50				
+//
+# OIIEFL_166334 Length: 50
+# OIIEFL_166334 Number of predicted TMRs: 0
+OIIEFL_166334	outside	1	50				
+//
+# OIIEFL_53882 Length: 50
+# OIIEFL_53882 Number of predicted TMRs: 0
+OIIEFL_53882	inside	1	50				
+//
+# OIIEFL_28660 Length: 50
+# OIIEFL_28660 Number of predicted TMRs: 0
+OIIEFL_28660	inside	1	50				
+//
+# OIIEFL_117245 Length: 50
+# OIIEFL_117245 Number of predicted TMRs: 0
+OIIEFL_117245	outside	1	50				
+//
+# OIIEFL_30903 Length: 50
+# OIIEFL_30903 Number of predicted TMRs: 0
+OIIEFL_30903	inside	1	50				
+//
+# OIIEFL_5935 Length: 50
+# OIIEFL_5935 Number of predicted TMRs: 0
+OIIEFL_5935	outside	1	50				
+//
+# OIIEFL_32819 Length: 50
+# OIIEFL_32819 Number of predicted TMRs: 0
+OIIEFL_32819	outside	1	50				
+//
+# OIIEFL_168920 Length: 46
+# OIIEFL_168920 Number of predicted TMRs: 0
+OIIEFL_168920	inside	1	46				
+//
+# OIIEFL_97435 Length: 46
+# OIIEFL_97435 Number of predicted TMRs: 0
+OIIEFL_97435	inside	1	46				
+//
+# OIIEFL_97334 Length: 50
+# OIIEFL_97334 Number of predicted TMRs: 0
+OIIEFL_97334	outside	1	50				
+//
+# OIIEFL_122121 Length: 50
+# OIIEFL_122121 Number of predicted TMRs: 0
+OIIEFL_122121	inside	1	50				
+//
+# OIIEFL_9138 Length: 46
+# OIIEFL_9138 Number of predicted TMRs: 0
+OIIEFL_9138	inside	1	46				
+//
+# OIIEFL_14048 Length: 50
+# OIIEFL_14048 Number of predicted TMRs: 0
+OIIEFL_14048	outside	1	50				
+//
+# OIIEFL_22877 Length: 34
+# OIIEFL_22877 Number of predicted TMRs: 0
+OIIEFL_22877	signal	1	20				
+OIIEFL_22877	outside	21	34				
+//
+# OIIEFL_115852 Length: 44
+# OIIEFL_115852 Number of predicted TMRs: 0
+OIIEFL_115852	inside	1	44				
+//
+# OIIEFL_44264 Length: 47
+# OIIEFL_44264 Number of predicted TMRs: 0
+OIIEFL_44264	inside	1	47				
+//
+# OIIEFL_27580 Length: 40
+# OIIEFL_27580 Number of predicted TMRs: 0
+OIIEFL_27580	inside	1	40				
+//
+# OIIEFL_128012 Length: 43
+# OIIEFL_128012 Number of predicted TMRs: 0
+OIIEFL_128012	inside	1	43				
+//
+# OIIEFL_114378 Length: 48
+# OIIEFL_114378 Number of predicted TMRs: 0
+OIIEFL_114378	inside	1	48				
+//
+# OIIEFL_149349 Length: 38
+# OIIEFL_149349 Number of predicted TMRs: 0
+OIIEFL_149349	inside	1	38				
+//
+# OIIEFL_148969 Length: 38
+# OIIEFL_148969 Number of predicted TMRs: 0
+OIIEFL_148969	inside	1	38				
+//
+# OIIEFL_40166 Length: 50
+# OIIEFL_40166 Number of predicted TMRs: 0
+OIIEFL_40166	inside	1	50				
+//
+# OIIEFL_54894 Length: 44
+# OIIEFL_54894 Number of predicted TMRs: 0
+OIIEFL_54894	inside	1	44				
+//
+# OIIEFL_16176 Length: 47
+# OIIEFL_16176 Number of predicted TMRs: 1
+OIIEFL_16176	inside	1	6				
+OIIEFL_16176	TMhelix	7	27				
+OIIEFL_16176	outside	28	47				
+//
+# OIIEFL_87391 Length: 50
+# OIIEFL_87391 Number of predicted TMRs: 0
+OIIEFL_87391	inside	1	50				
+//
+# OIIEFL_95769 Length: 46
+# OIIEFL_95769 Number of predicted TMRs: 0
+OIIEFL_95769	inside	1	46				
+//
+# OIIEFL_147507 Length: 47
+# OIIEFL_147507 Number of predicted TMRs: 0
+OIIEFL_147507	inside	1	47				
+//
+# OIIEFL_92472 Length: 40
+# OIIEFL_92472 Number of predicted TMRs: 0
+OIIEFL_92472	signal	1	25				
+OIIEFL_92472	outside	26	40				
+//
+# OIIEFL_46272 Length: 46
+# OIIEFL_46272 Number of predicted TMRs: 0
+OIIEFL_46272	signal	1	11				
+OIIEFL_46272	outside	12	46				
+//
+# OIIEFL_150056 Length: 47
+# OIIEFL_150056 Number of predicted TMRs: 0
+OIIEFL_150056	inside	1	47				
+//
+# OIIEFL_147472 Length: 44
+# OIIEFL_147472 Number of predicted TMRs: 0
+OIIEFL_147472	outside	1	44				
+//
+# OIIEFL_129814 Length: 41
+# OIIEFL_129814 Number of predicted TMRs: 0
+OIIEFL_129814	signal	1	22				
+OIIEFL_129814	outside	23	41				
+//
+# OIIEFL_127997 Length: 48
+# OIIEFL_127997 Number of predicted TMRs: 0
+OIIEFL_127997	inside	1	48				
+//
+# OIIEFL_131944 Length: 48
+# OIIEFL_131944 Number of predicted TMRs: 0
+OIIEFL_131944	inside	1	48				
+//
+# OIIEFL_91783 Length: 47
+# OIIEFL_91783 Number of predicted TMRs: 0
+OIIEFL_91783	signal	1	45				
+OIIEFL_91783	outside	46	47				
+//
+# OIIEFL_76117 Length: 49
+# OIIEFL_76117 Number of predicted TMRs: 0
+OIIEFL_76117	inside	1	49				
+//
+# OIIEFL_171688 Length: 36
+# OIIEFL_171688 Number of predicted TMRs: 0
+OIIEFL_171688	signal	1	28				
+OIIEFL_171688	outside	29	36				
+//
+# OIIEFL_26420 Length: 47
+# OIIEFL_26420 Number of predicted TMRs: 0
+OIIEFL_26420	inside	1	47				
+//
+# OIIEFL_73565 Length: 42
+# OIIEFL_73565 Number of predicted TMRs: 0
+OIIEFL_73565	signal	1	38				
+OIIEFL_73565	outside	39	42				
+//
+# OIIEFL_49372 Length: 45
+# OIIEFL_49372 Number of predicted TMRs: 0
+OIIEFL_49372	signal	1	44				
+OIIEFL_49372	outside	45	45				
+//
+# OIIEFL_141344 Length: 43
+# OIIEFL_141344 Number of predicted TMRs: 0
+OIIEFL_141344	inside	1	43				
+//
+# OIIEFL_59585 Length: 41
+# OIIEFL_59585 Number of predicted TMRs: 0
+OIIEFL_59585	inside	1	41				
+//
+# OIIEFL_69827 Length: 49
+# OIIEFL_69827 Number of predicted TMRs: 0
+OIIEFL_69827	inside	1	49				
+//
+# OIIEFL_75502 Length: 50
+# OIIEFL_75502 Number of predicted TMRs: 0
+OIIEFL_75502	inside	1	50				
+//
+# OIIEFL_78804 Length: 49
+# OIIEFL_78804 Number of predicted TMRs: 0
+OIIEFL_78804	inside	1	49				
+//
+# OIIEFL_51845 Length: 47
+# OIIEFL_51845 Number of predicted TMRs: 0
+OIIEFL_51845	inside	1	47				
+//
+# OIIEFL_41855 Length: 47
+# OIIEFL_41855 Number of predicted TMRs: 0
+OIIEFL_41855	inside	1	47				
+//
+# OIIEFL_52823 Length: 47
+# OIIEFL_52823 Number of predicted TMRs: 0
+OIIEFL_52823	inside	1	47				
+//
+# OIIEFL_111389 Length: 49
+# OIIEFL_111389 Number of predicted TMRs: 0
+OIIEFL_111389	inside	1	49				
+//
+# OIIEFL_121631 Length: 47
+# OIIEFL_121631 Number of predicted TMRs: 0
+OIIEFL_121631	inside	1	47				
+//
+# OIIEFL_50506 Length: 45
+# OIIEFL_50506 Number of predicted TMRs: 0
+OIIEFL_50506	inside	1	45				
+//
+# OIIEFL_131552 Length: 50
+# OIIEFL_131552 Number of predicted TMRs: 0
+OIIEFL_131552	inside	1	50				
+//
+# OIIEFL_50043 Length: 42
+# OIIEFL_50043 Number of predicted TMRs: 0
+OIIEFL_50043	inside	1	42				
+//
+# OIIEFL_45326 Length: 47
+# OIIEFL_45326 Number of predicted TMRs: 0
+OIIEFL_45326	inside	1	47				
+//
+# OIIEFL_142141 Length: 36
+# OIIEFL_142141 Number of predicted TMRs: 0
+OIIEFL_142141	inside	1	36				
+//
+# OIIEFL_11995 Length: 38
+# OIIEFL_11995 Number of predicted TMRs: 0
+OIIEFL_11995	signal	1	37				
+OIIEFL_11995	outside	38	38				
+//
+# OIIEFL_124492 Length: 43
+# OIIEFL_124492 Number of predicted TMRs: 0
+OIIEFL_124492	inside	1	43				
+//
+# OIIEFL_108751 Length: 42
+# OIIEFL_108751 Number of predicted TMRs: 0
+OIIEFL_108751	inside	1	42				
+//
+# OIIEFL_128501 Length: 37
+# OIIEFL_128501 Number of predicted TMRs: 0
+OIIEFL_128501	signal	1	28				
+OIIEFL_128501	outside	29	37				
+//
+# OIIEFL_96265 Length: 48
+# OIIEFL_96265 Number of predicted TMRs: 0
+OIIEFL_96265	inside	1	48				
+//
+# OIIEFL_39570 Length: 50
+# OIIEFL_39570 Number of predicted TMRs: 0
+OIIEFL_39570	signal	1	29				
+OIIEFL_39570	outside	30	50				
+//
+# OIIEFL_69042 Length: 42
+# OIIEFL_69042 Number of predicted TMRs: 0
+OIIEFL_69042	inside	1	42				
+//
+# OIIEFL_36281 Length: 38
+# OIIEFL_36281 Number of predicted TMRs: 0
+OIIEFL_36281	inside	1	38				
+//
+# OIIEFL_139754 Length: 50
+# OIIEFL_139754 Number of predicted TMRs: 0
+OIIEFL_139754	signal	1	22				
+OIIEFL_139754	outside	23	50				
+//
+# OIIEFL_139934 Length: 50
+# OIIEFL_139934 Number of predicted TMRs: 0
+OIIEFL_139934	signal	1	47				
+OIIEFL_139934	outside	48	50				
+//
+# OIIEFL_46468 Length: 41
+# OIIEFL_46468 Number of predicted TMRs: 0
+OIIEFL_46468	inside	1	41				
+//
+# OIIEFL_40242 Length: 49
+# OIIEFL_40242 Number of predicted TMRs: 0
+OIIEFL_40242	inside	1	49				
+//
+# OIIEFL_127386 Length: 46
+# OIIEFL_127386 Number of predicted TMRs: 0
+OIIEFL_127386	inside	1	46				
+//
+# OIIEFL_134103 Length: 50
+# OIIEFL_134103 Number of predicted TMRs: 0
+OIIEFL_134103	inside	1	50				
+//
+# OIIEFL_109107 Length: 47
+# OIIEFL_109107 Number of predicted TMRs: 0
+OIIEFL_109107	inside	1	47				
+//
+# OIIEFL_60569 Length: 50
+# OIIEFL_60569 Number of predicted TMRs: 0
+OIIEFL_60569	signal	1	47				
+OIIEFL_60569	outside	48	50				
+//
+# OIIEFL_40975 Length: 48
+# OIIEFL_40975 Number of predicted TMRs: 0
+OIIEFL_40975	inside	1	48				
+//
+# OIIEFL_179 Length: 34
+# OIIEFL_179 Number of predicted TMRs: 0
+OIIEFL_179	outside	1	34				
+//
+# OIIEFL_91678 Length: 49
+# OIIEFL_91678 Number of predicted TMRs: 0
+OIIEFL_91678	signal	1	26				
+OIIEFL_91678	outside	27	49				
+//
+# OIIEFL_110815 Length: 50
+# OIIEFL_110815 Number of predicted TMRs: 0
+OIIEFL_110815	inside	1	50				
+//
+# OIIEFL_71263 Length: 47
+# OIIEFL_71263 Number of predicted TMRs: 0
+OIIEFL_71263	inside	1	47				
+//
+# OIIEFL_103904 Length: 41
+# OIIEFL_103904 Number of predicted TMRs: 0
+OIIEFL_103904	inside	1	41				
+//
+# OIIEFL_82485 Length: 47
+# OIIEFL_82485 Number of predicted TMRs: 0
+OIIEFL_82485	outside	1	47				
+//
+# OIIEFL_49060 Length: 46
+# OIIEFL_49060 Number of predicted TMRs: 0
+OIIEFL_49060	signal	1	11				
+OIIEFL_49060	outside	12	46				
+//
+# OIIEFL_84468 Length: 39
+# OIIEFL_84468 Number of predicted TMRs: 0
+OIIEFL_84468	inside	1	39				
+//
+# OIIEFL_15443 Length: 49
+# OIIEFL_15443 Number of predicted TMRs: 0
+OIIEFL_15443	inside	1	49				
+//
+# OIIEFL_133643 Length: 45
+# OIIEFL_133643 Number of predicted TMRs: 0
+OIIEFL_133643	inside	1	45				
+//
+# OIIEFL_86615 Length: 42
+# OIIEFL_86615 Number of predicted TMRs: 0
+OIIEFL_86615	outside	1	42				
+//
+# OIIEFL_61606 Length: 49
+# OIIEFL_61606 Number of predicted TMRs: 0
+OIIEFL_61606	inside	1	49				
+//
+# OIIEFL_87648 Length: 50
+# OIIEFL_87648 Number of predicted TMRs: 0
+OIIEFL_87648	signal	1	38				
+OIIEFL_87648	outside	39	50				
+//
+# OIIEFL_68295 Length: 44
+# OIIEFL_68295 Number of predicted TMRs: 0
+OIIEFL_68295	inside	1	44				
+//
+# OIIEFL_159422 Length: 49
+# OIIEFL_159422 Number of predicted TMRs: 0
+OIIEFL_159422	inside	1	49				
+//
+# OIIEFL_169652 Length: 41
+# OIIEFL_169652 Number of predicted TMRs: 0
+OIIEFL_169652	inside	1	41				
+//
+# OIIEFL_116041 Length: 38
+# OIIEFL_116041 Number of predicted TMRs: 0
+OIIEFL_116041	signal	1	37				
+OIIEFL_116041	outside	38	38				
+//
+# OIIEFL_14624 Length: 48
+# OIIEFL_14624 Number of predicted TMRs: 0
+OIIEFL_14624	inside	1	48				
+//
+# OIIEFL_101669 Length: 50
+# OIIEFL_101669 Number of predicted TMRs: 0
+OIIEFL_101669	inside	1	50				
+//
+# OIIEFL_93952 Length: 47
+# OIIEFL_93952 Number of predicted TMRs: 0
+OIIEFL_93952	inside	1	47				
+//
+# OIIEFL_162970 Length: 50
+# OIIEFL_162970 Number of predicted TMRs: 0
+OIIEFL_162970	signal	1	49				
+OIIEFL_162970	outside	50	50				
+//
+# OIIEFL_101489 Length: 47
+# OIIEFL_101489 Number of predicted TMRs: 0
+OIIEFL_101489	signal	1	14				
+OIIEFL_101489	outside	15	47				
+//
+# OIIEFL_54357 Length: 46
+# OIIEFL_54357 Number of predicted TMRs: 0
+OIIEFL_54357	inside	1	46				
+//
+# OIIEFL_55557 Length: 46
+# OIIEFL_55557 Number of predicted TMRs: 0
+OIIEFL_55557	inside	1	46				
+//
+# OIIEFL_47548 Length: 45
+# OIIEFL_47548 Number of predicted TMRs: 0
+OIIEFL_47548	signal	1	38				
+OIIEFL_47548	outside	39	45				
+//
+# OIIEFL_162815 Length: 48
+# OIIEFL_162815 Number of predicted TMRs: 0
+OIIEFL_162815	signal	1	25				
+OIIEFL_162815	outside	26	48				
+//
+# OIIEFL_100967 Length: 50
+# OIIEFL_100967 Number of predicted TMRs: 0
+OIIEFL_100967	inside	1	50				
+//
+# OIIEFL_100993 Length: 44
+# OIIEFL_100993 Number of predicted TMRs: 0
+OIIEFL_100993	inside	1	44				
+//
+# OIIEFL_100953 Length: 49
+# OIIEFL_100953 Number of predicted TMRs: 0
+OIIEFL_100953	inside	1	49				
+//
+# OIIEFL_121515 Length: 40
+# OIIEFL_121515 Number of predicted TMRs: 0
+OIIEFL_121515	inside	1	40				
+//
+# OIIEFL_13299 Length: 47
+# OIIEFL_13299 Number of predicted TMRs: 0
+OIIEFL_13299	inside	1	47				
+//
+# OIIEFL_78905 Length: 39
+# OIIEFL_78905 Number of predicted TMRs: 0
+OIIEFL_78905	inside	1	39				
+//
+# OIIEFL_91888 Length: 48
+# OIIEFL_91888 Number of predicted TMRs: 0
+OIIEFL_91888	inside	1	48				
+//
+# OIIEFL_96398 Length: 40
+# OIIEFL_96398 Number of predicted TMRs: 0
+OIIEFL_96398	signal	1	28				
+OIIEFL_96398	outside	29	40				
+//
+# OIIEFL_27548 Length: 50
+# OIIEFL_27548 Number of predicted TMRs: 0
+OIIEFL_27548	outside	1	50				
+//
+# OIIEFL_20991 Length: 48
+# OIIEFL_20991 Number of predicted TMRs: 0
+OIIEFL_20991	inside	1	48				
+//
+# OIIEFL_148892 Length: 50
+# OIIEFL_148892 Number of predicted TMRs: 0
+OIIEFL_148892	inside	1	50				
+//
+# OIIEFL_169961 Length: 50
+# OIIEFL_169961 Number of predicted TMRs: 0
+OIIEFL_169961	signal	1	49				
+OIIEFL_169961	outside	50	50				
+//
+# OIIEFL_123321 Length: 47
+# OIIEFL_123321 Number of predicted TMRs: 0
+OIIEFL_123321	inside	1	47				
+//
+# OIIEFL_34051 Length: 41
+# OIIEFL_34051 Number of predicted TMRs: 0
+OIIEFL_34051	signal	1	36				
+OIIEFL_34051	outside	37	41				
+//
+# OIIEFL_59892 Length: 40
+# OIIEFL_59892 Number of predicted TMRs: 0
+OIIEFL_59892	signal	1	22				
+OIIEFL_59892	outside	23	40				
+//
+# OIIEFL_149903 Length: 36
+# OIIEFL_149903 Number of predicted TMRs: 0
+OIIEFL_149903	signal	1	32				
+OIIEFL_149903	outside	33	36				
+//
+# OIIEFL_16591 Length: 48
+# OIIEFL_16591 Number of predicted TMRs: 0
+OIIEFL_16591	inside	1	48				
+//
+# OIIEFL_140538 Length: 50
+# OIIEFL_140538 Number of predicted TMRs: 0
+OIIEFL_140538	inside	1	50				
+//
+# OIIEFL_130993 Length: 42
+# OIIEFL_130993 Number of predicted TMRs: 0
+OIIEFL_130993	inside	1	42				
+//
+# OIIEFL_58060 Length: 38
+# OIIEFL_58060 Number of predicted TMRs: 0
+OIIEFL_58060	inside	1	38				
+//
+# OIIEFL_152148 Length: 46
+# OIIEFL_152148 Number of predicted TMRs: 0
+OIIEFL_152148	inside	1	46				
+//
+# OIIEFL_15453 Length: 45
+# OIIEFL_15453 Number of predicted TMRs: 0
+OIIEFL_15453	signal	1	37				
+OIIEFL_15453	outside	38	45				
+//
+# OIIEFL_113978 Length: 50
+# OIIEFL_113978 Number of predicted TMRs: 0
+OIIEFL_113978	signal	1	49				
+OIIEFL_113978	outside	50	50				
+//
+# OIIEFL_27648 Length: 46
+# OIIEFL_27648 Number of predicted TMRs: 0
+OIIEFL_27648	signal	1	38				
+OIIEFL_27648	outside	39	46				
+//
+# OIIEFL_48140 Length: 49
+# OIIEFL_48140 Number of predicted TMRs: 0
+OIIEFL_48140	inside	1	49				
+//
+# OIIEFL_89885 Length: 47
+# OIIEFL_89885 Number of predicted TMRs: 0
+OIIEFL_89885	signal	1	35				
+OIIEFL_89885	outside	36	47				
+//
+# OIIEFL_120678 Length: 37
+# OIIEFL_120678 Number of predicted TMRs: 0
+OIIEFL_120678	inside	1	37				
+//
+# OIIEFL_129447 Length: 49
+# OIIEFL_129447 Number of predicted TMRs: 0
+OIIEFL_129447	signal	1	32				
+OIIEFL_129447	outside	33	49				
+//
+# OIIEFL_9249 Length: 50
+# OIIEFL_9249 Number of predicted TMRs: 0
+OIIEFL_9249	signal	1	49				
+OIIEFL_9249	outside	50	50				
+//
+# OIIEFL_110643 Length: 43
+# OIIEFL_110643 Number of predicted TMRs: 0
+OIIEFL_110643	signal	1	42				
+OIIEFL_110643	outside	43	43				
+//
+# OIIEFL_123094 Length: 45
+# OIIEFL_123094 Number of predicted TMRs: 0
+OIIEFL_123094	inside	1	45				
+//
+# OIIEFL_37016 Length: 48
+# OIIEFL_37016 Number of predicted TMRs: 0
+OIIEFL_37016	outside	1	48				
+//
+# OIIEFL_121973 Length: 45
+# OIIEFL_121973 Number of predicted TMRs: 0
+OIIEFL_121973	signal	1	39				
+OIIEFL_121973	outside	40	45				
+//
+# OIIEFL_104897 Length: 38
+# OIIEFL_104897 Number of predicted TMRs: 0
+OIIEFL_104897	signal	1	14				
+OIIEFL_104897	outside	15	38				
+//
+# OIIEFL_1971 Length: 49
+# OIIEFL_1971 Number of predicted TMRs: 0
+OIIEFL_1971	inside	1	49				
+//
+# OIIEFL_44757 Length: 48
+# OIIEFL_44757 Number of predicted TMRs: 0
+OIIEFL_44757	inside	1	48				
+//
+# OIIEFL_147442 Length: 31
+# OIIEFL_147442 Number of predicted TMRs: 0
+OIIEFL_147442	inside	1	31				
+//
+# OIIEFL_111445 Length: 42
+# OIIEFL_111445 Number of predicted TMRs: 0
+OIIEFL_111445	inside	1	42				
+//
+# OIIEFL_106361 Length: 46
+# OIIEFL_106361 Number of predicted TMRs: 0
+OIIEFL_106361	inside	1	46				
+//
+# OIIEFL_129925 Length: 47
+# OIIEFL_129925 Number of predicted TMRs: 0
+OIIEFL_129925	inside	1	47				
+//
+# OIIEFL_14769 Length: 45
+# OIIEFL_14769 Number of predicted TMRs: 0
+OIIEFL_14769	signal	1	32				
+OIIEFL_14769	outside	33	45				
+//
+# OIIEFL_71442 Length: 38
+# OIIEFL_71442 Number of predicted TMRs: 0
+OIIEFL_71442	signal	1	37				
+OIIEFL_71442	outside	38	38				
+//
+# OIIEFL_42193 Length: 41
+# OIIEFL_42193 Number of predicted TMRs: 0
+OIIEFL_42193	signal	1	12				
+OIIEFL_42193	outside	13	41				
+//
+# OIIEFL_112149 Length: 38
+# OIIEFL_112149 Number of predicted TMRs: 0
+OIIEFL_112149	signal	1	37				
+OIIEFL_112149	outside	38	38				
+//
+# OIIEFL_115715 Length: 45
+# OIIEFL_115715 Number of predicted TMRs: 0
+OIIEFL_115715	signal	1	38				
+OIIEFL_115715	outside	39	45				
+//
+# OIIEFL_123892 Length: 40
+# OIIEFL_123892 Number of predicted TMRs: 0
+OIIEFL_123892	inside	1	40				
+//
+# OIIEFL_147078 Length: 42
+# OIIEFL_147078 Number of predicted TMRs: 0
+OIIEFL_147078	inside	1	42				
+//
+# OIIEFL_72593 Length: 49
+# OIIEFL_72593 Number of predicted TMRs: 0
+OIIEFL_72593	inside	1	49				
+//
+# OIIEFL_79731 Length: 46
+# OIIEFL_79731 Number of predicted TMRs: 0
+OIIEFL_79731	inside	1	46				
+//
+# OIIEFL_115418 Length: 49
+# OIIEFL_115418 Number of predicted TMRs: 0
+OIIEFL_115418	signal	1	10				
+OIIEFL_115418	outside	11	49				
+//
+# OIIEFL_108235 Length: 49
+# OIIEFL_108235 Number of predicted TMRs: 0
+OIIEFL_108235	inside	1	49				
+//
+# OIIEFL_28155 Length: 40
+# OIIEFL_28155 Number of predicted TMRs: 0
+OIIEFL_28155	signal	1	32				
+OIIEFL_28155	outside	33	40				
+//
+# OIIEFL_172224 Length: 50
+# OIIEFL_172224 Number of predicted TMRs: 0
+OIIEFL_172224	inside	1	50				
+//
+# OIIEFL_97076 Length: 48
+# OIIEFL_97076 Number of predicted TMRs: 0
+OIIEFL_97076	signal	1	47				
+OIIEFL_97076	periplasm	48	48				
+//
+# OIIEFL_75195 Length: 47
+# OIIEFL_75195 Number of predicted TMRs: 0
+OIIEFL_75195	inside	1	47				
+//
+# OIIEFL_107858 Length: 49
+# OIIEFL_107858 Number of predicted TMRs: 0
+OIIEFL_107858	signal	1	11				
+OIIEFL_107858	outside	12	49				
+//
+# OIIEFL_86108 Length: 23
+# OIIEFL_86108 Number of predicted TMRs: 0
+OIIEFL_86108	inside	1	23				
+//
+# OIIEFL_8615 Length: 39
+# OIIEFL_8615 Number of predicted TMRs: 0
+OIIEFL_8615	signal	1	38				
+OIIEFL_8615	outside	39	39				
+//
+# OIIEFL_170508 Length: 35
+# OIIEFL_170508 Number of predicted TMRs: 0
+OIIEFL_170508	signal	1	32				
+OIIEFL_170508	outside	33	35				
+//
+# OIIEFL_43538 Length: 43
+# OIIEFL_43538 Number of predicted TMRs: 0
+OIIEFL_43538	signal	1	42				
+OIIEFL_43538	outside	43	43				
+//
+# OIIEFL_121675 Length: 50
+# OIIEFL_121675 Number of predicted TMRs: 0
+OIIEFL_121675	signal	1	15				
+OIIEFL_121675	outside	16	50				
+//
+# OIIEFL_18355 Length: 42
+# OIIEFL_18355 Number of predicted TMRs: 0
+OIIEFL_18355	signal	1	41				
+OIIEFL_18355	outside	42	42				
+//
+# OIIEFL_114122 Length: 43
+# OIIEFL_114122 Number of predicted TMRs: 0
+OIIEFL_114122	inside	1	43				
+//
+# OIIEFL_48168 Length: 40
+# OIIEFL_48168 Number of predicted TMRs: 0
+OIIEFL_48168	signal	1	24				
+OIIEFL_48168	outside	25	40				
+//
+# OIIEFL_16475 Length: 42
+# OIIEFL_16475 Number of predicted TMRs: 0
+OIIEFL_16475	signal	1	29				
+OIIEFL_16475	outside	30	42				
+//
+# OIIEFL_4632 Length: 45
+# OIIEFL_4632 Number of predicted TMRs: 0
+OIIEFL_4632	inside	1	45				
+//
+# OIIEFL_7353 Length: 45
+# OIIEFL_7353 Number of predicted TMRs: 0
+OIIEFL_7353	inside	1	45				
+//
+# OIIEFL_40392 Length: 37
+# OIIEFL_40392 Number of predicted TMRs: 0
+OIIEFL_40392	signal	1	36				
+OIIEFL_40392	outside	37	37				
+//
+# OIIEFL_120226 Length: 41
+# OIIEFL_120226 Number of predicted TMRs: 0
+OIIEFL_120226	signal	1	21				
+OIIEFL_120226	outside	22	41				
+//
+# OIIEFL_107865 Length: 47
+# OIIEFL_107865 Number of predicted TMRs: 0
+OIIEFL_107865	inside	1	47				
+//
+# OIIEFL_106901 Length: 42
+# OIIEFL_106901 Number of predicted TMRs: 0
+OIIEFL_106901	inside	1	42				
+//
+# OIIEFL_92206 Length: 50
+# OIIEFL_92206 Number of predicted TMRs: 0
+OIIEFL_92206	inside	1	50				
+//
+# OIIEFL_152200 Length: 49
+# OIIEFL_152200 Number of predicted TMRs: 0
+OIIEFL_152200	inside	1	49				
+//
+# OIIEFL_14026 Length: 35
+# OIIEFL_14026 Number of predicted TMRs: 0
+OIIEFL_14026	inside	1	35				
+//
+# OIIEFL_21848 Length: 41
+# OIIEFL_21848 Number of predicted TMRs: 1
+OIIEFL_21848	signal	1	19				
+OIIEFL_21848	outside	20	20				
+OIIEFL_21848	TMhelix	21	40				
+OIIEFL_21848	inside	41	41				
+//
+# OIIEFL_9639 Length: 50
+# OIIEFL_9639 Number of predicted TMRs: 0
+OIIEFL_9639	inside	1	50				
+//
+# OIIEFL_167806 Length: 44
+# OIIEFL_167806 Number of predicted TMRs: 0
+OIIEFL_167806	signal	1	12				
+OIIEFL_167806	outside	13	44				
+//
+# OIIEFL_125831 Length: 45
+# OIIEFL_125831 Number of predicted TMRs: 0
+OIIEFL_125831	inside	1	45				
+//
+# OIIEFL_17679 Length: 50
+# OIIEFL_17679 Number of predicted TMRs: 0
+OIIEFL_17679	signal	1	47				
+OIIEFL_17679	outside	48	50				
+//
+# OIIEFL_98675 Length: 37
+# OIIEFL_98675 Number of predicted TMRs: 0
+OIIEFL_98675	signal	1	10				
+OIIEFL_98675	outside	11	37				
+//
+# OIIEFL_28898 Length: 50
+# OIIEFL_28898 Number of predicted TMRs: 0
+OIIEFL_28898	signal	1	32				
+OIIEFL_28898	outside	33	50				
+//
+# OIIEFL_143683 Length: 37
+# OIIEFL_143683 Number of predicted TMRs: 0
+OIIEFL_143683	inside	1	37				
+//
+# OIIEFL_149620 Length: 40
+# OIIEFL_149620 Number of predicted TMRs: 0
+OIIEFL_149620	inside	1	40				
+//
+# OIIEFL_42982 Length: 42
+# OIIEFL_42982 Number of predicted TMRs: 0
+OIIEFL_42982	inside	1	42				
+//
+# OIIEFL_113810 Length: 45
+# OIIEFL_113810 Number of predicted TMRs: 0
+OIIEFL_113810	signal	1	15				
+OIIEFL_113810	outside	16	45				
+//
+# OIIEFL_43320 Length: 50
+# OIIEFL_43320 Number of predicted TMRs: 0
+OIIEFL_43320	inside	1	50				
+//
+# OIIEFL_58366 Length: 37
+# OIIEFL_58366 Number of predicted TMRs: 0
+OIIEFL_58366	signal	1	35				
+OIIEFL_58366	outside	36	37				
+//
+# OIIEFL_9206 Length: 34
+# OIIEFL_9206 Number of predicted TMRs: 0
+OIIEFL_9206	signal	1	33				
+OIIEFL_9206	outside	34	34				
+//
+# OIIEFL_8982 Length: 49
+# OIIEFL_8982 Number of predicted TMRs: 0
+OIIEFL_8982	inside	1	49				
+//
+# OIIEFL_145414 Length: 45
+# OIIEFL_145414 Number of predicted TMRs: 0
+OIIEFL_145414	signal	1	18				
+OIIEFL_145414	outside	19	45				
+//
+# OIIEFL_84924 Length: 44
+# OIIEFL_84924 Number of predicted TMRs: 0
+OIIEFL_84924	inside	1	44				
+//
+# OIIEFL_149649 Length: 47
+# OIIEFL_149649 Number of predicted TMRs: 0
+OIIEFL_149649	inside	1	47				
+//
+# OIIEFL_41146 Length: 50
+# OIIEFL_41146 Number of predicted TMRs: 0
+OIIEFL_41146	inside	1	50				
+//
+# OIIEFL_63649 Length: 40
+# OIIEFL_63649 Number of predicted TMRs: 0
+OIIEFL_63649	signal	1	36				
+OIIEFL_63649	outside	37	40				
+//
+# OIIEFL_166676 Length: 46
+# OIIEFL_166676 Number of predicted TMRs: 0
+OIIEFL_166676	inside	1	46				
+//
+# OIIEFL_9351 Length: 46
+# OIIEFL_9351 Number of predicted TMRs: 0
+OIIEFL_9351	inside	1	46				
+//
+# OIIEFL_125629 Length: 41
+# OIIEFL_125629 Number of predicted TMRs: 0
+OIIEFL_125629	inside	1	41				
+//
+# OIIEFL_130005 Length: 44
+# OIIEFL_130005 Number of predicted TMRs: 0
+OIIEFL_130005	inside	1	44				
+//
+# OIIEFL_169963 Length: 46
+# OIIEFL_169963 Number of predicted TMRs: 0
+OIIEFL_169963	signal	1	43				
+OIIEFL_169963	outside	44	46				
+//
+# OIIEFL_67478 Length: 43
+# OIIEFL_67478 Number of predicted TMRs: 0
+OIIEFL_67478	inside	1	43				
+//
+# OIIEFL_81623 Length: 37
+# OIIEFL_81623 Number of predicted TMRs: 0
+OIIEFL_81623	inside	1	37				
+//
+# OIIEFL_43153 Length: 42
+# OIIEFL_43153 Number of predicted TMRs: 0
+OIIEFL_43153	inside	1	42				
+//
+# OIIEFL_121000 Length: 47
+# OIIEFL_121000 Number of predicted TMRs: 0
+OIIEFL_121000	inside	1	47				
+//
+# OIIEFL_53967 Length: 50
+# OIIEFL_53967 Number of predicted TMRs: 0
+OIIEFL_53967	inside	1	50				
+//
+# OIIEFL_123160 Length: 38
+# OIIEFL_123160 Number of predicted TMRs: 0
+OIIEFL_123160	inside	1	38				
+//
+# OIIEFL_20946 Length: 37
+# OIIEFL_20946 Number of predicted TMRs: 0
+OIIEFL_20946	inside	1	37				
+//
+# OIIEFL_149853 Length: 48
+# OIIEFL_149853 Number of predicted TMRs: 0
+OIIEFL_149853	inside	1	48				
+//
+# OIIEFL_7000 Length: 50
+# OIIEFL_7000 Number of predicted TMRs: 0
+OIIEFL_7000	inside	1	50				
+//
+# OIIEFL_61257 Length: 43
+# OIIEFL_61257 Number of predicted TMRs: 0
+OIIEFL_61257	inside	1	43				
+//
+# OIIEFL_149386 Length: 49
+# OIIEFL_149386 Number of predicted TMRs: 0
+OIIEFL_149386	inside	1	49				
+//
+# OIIEFL_23951 Length: 47
+# OIIEFL_23951 Number of predicted TMRs: 0
+OIIEFL_23951	inside	1	47				
+//
+# OIIEFL_88598 Length: 40
+# OIIEFL_88598 Number of predicted TMRs: 0
+OIIEFL_88598	signal	1	38				
+OIIEFL_88598	outside	39	40				
+//
+# OIIEFL_73655 Length: 43
+# OIIEFL_73655 Number of predicted TMRs: 0
+OIIEFL_73655	inside	1	43				
+//
+# OIIEFL_169301 Length: 38
+# OIIEFL_169301 Number of predicted TMRs: 0
+OIIEFL_169301	inside	1	38				
+//
+# OIIEFL_93305 Length: 42
+# OIIEFL_93305 Number of predicted TMRs: 0
+OIIEFL_93305	inside	1	42				
+//
+# OIIEFL_5684 Length: 47
+# OIIEFL_5684 Number of predicted TMRs: 0
+OIIEFL_5684	inside	1	47				
+//
+# OIIEFL_131646 Length: 43
+# OIIEFL_131646 Number of predicted TMRs: 0
+OIIEFL_131646	inside	1	43				
+//
+# OIIEFL_14733 Length: 45
+# OIIEFL_14733 Number of predicted TMRs: 0
+OIIEFL_14733	inside	1	45				
+//
+# OIIEFL_129941 Length: 45
+# OIIEFL_129941 Number of predicted TMRs: 0
+OIIEFL_129941	inside	1	45				
+//
+# OIIEFL_166313 Length: 49
+# OIIEFL_166313 Number of predicted TMRs: 0
+OIIEFL_166313	inside	1	49				
+//
+# OIIEFL_75848 Length: 46
+# OIIEFL_75848 Number of predicted TMRs: 0
+OIIEFL_75848	inside	1	46				
+//
+# OIIEFL_143639 Length: 49
+# OIIEFL_143639 Number of predicted TMRs: 0
+OIIEFL_143639	signal	1	21				
+OIIEFL_143639	outside	22	49				
+//
+# OIIEFL_169486 Length: 47
+# OIIEFL_169486 Number of predicted TMRs: 0
+OIIEFL_169486	inside	1	47				
+//
+# OIIEFL_75662 Length: 34
+# OIIEFL_75662 Number of predicted TMRs: 0
+OIIEFL_75662	signal	1	24				
+OIIEFL_75662	outside	25	34				
+//
+# OIIEFL_41740 Length: 45
+# OIIEFL_41740 Number of predicted TMRs: 0
+OIIEFL_41740	inside	1	45				
+//
+# OIIEFL_50815 Length: 40
+# OIIEFL_50815 Number of predicted TMRs: 0
+OIIEFL_50815	inside	1	40				
+//
+# OIIEFL_114258 Length: 43
+# OIIEFL_114258 Number of predicted TMRs: 0
+OIIEFL_114258	signal	1	42				
+OIIEFL_114258	outside	43	43				
+//
+# OIIEFL_7571 Length: 49
+# OIIEFL_7571 Number of predicted TMRs: 0
+OIIEFL_7571	inside	1	49				
+//
+# OIIEFL_24482 Length: 46
+# OIIEFL_24482 Number of predicted TMRs: 0
+OIIEFL_24482	inside	1	46				
+//
+# OIIEFL_145912 Length: 36
+# OIIEFL_145912 Number of predicted TMRs: 0
+OIIEFL_145912	inside	1	36				
+//
+# OIIEFL_100222 Length: 45
+# OIIEFL_100222 Number of predicted TMRs: 0
+OIIEFL_100222	signal	1	42				
+OIIEFL_100222	outside	43	45				
+//
+# OIIEFL_107082 Length: 43
+# OIIEFL_107082 Number of predicted TMRs: 0
+OIIEFL_107082	inside	1	43				
+//
+# OIIEFL_99723 Length: 41
+# OIIEFL_99723 Number of predicted TMRs: 0
+OIIEFL_99723	inside	1	41				
+//
+# OIIEFL_71271 Length: 47
+# OIIEFL_71271 Number of predicted TMRs: 0
+OIIEFL_71271	signal	1	46				
+OIIEFL_71271	outside	47	47				
+//
+# OIIEFL_132076 Length: 45
+# OIIEFL_132076 Number of predicted TMRs: 0
+OIIEFL_132076	signal	1	10				
+OIIEFL_132076	outside	11	45				
+//
+# OIIEFL_122055 Length: 46
+# OIIEFL_122055 Number of predicted TMRs: 0
+OIIEFL_122055	inside	1	46				
+//
+# OIIEFL_97432 Length: 49
+# OIIEFL_97432 Number of predicted TMRs: 0
+OIIEFL_97432	signal	1	11				
+OIIEFL_97432	outside	12	49				
+//
+# OIIEFL_86313 Length: 37
+# OIIEFL_86313 Number of predicted TMRs: 0
+OIIEFL_86313	inside	1	37				
+//
+# OIIEFL_139891 Length: 42
+# OIIEFL_139891 Number of predicted TMRs: 0
+OIIEFL_139891	inside	1	42				
+//
+# OIIEFL_36558 Length: 31
+# OIIEFL_36558 Number of predicted TMRs: 0
+OIIEFL_36558	signal	1	29				
+OIIEFL_36558	outside	30	31				
+//
+# OIIEFL_90703 Length: 49
+# OIIEFL_90703 Number of predicted TMRs: 0
+OIIEFL_90703	inside	1	49				
+//
+# OIIEFL_135969 Length: 45
+# OIIEFL_135969 Number of predicted TMRs: 0
+OIIEFL_135969	inside	1	45				
+//
+# OIIEFL_110488 Length: 49
+# OIIEFL_110488 Number of predicted TMRs: 0
+OIIEFL_110488	signal	1	48				
+OIIEFL_110488	outside	49	49				
+//
+# OIIEFL_83631 Length: 39
+# OIIEFL_83631 Number of predicted TMRs: 0
+OIIEFL_83631	signal	1	35				
+OIIEFL_83631	outside	36	39				
+//
+# OIIEFL_29225 Length: 48
+# OIIEFL_29225 Number of predicted TMRs: 0
+OIIEFL_29225	inside	1	48				
+//
+# OIIEFL_147367 Length: 42
+# OIIEFL_147367 Number of predicted TMRs: 0
+OIIEFL_147367	signal	1	10				
+OIIEFL_147367	outside	11	42				
+//
+# OIIEFL_105893 Length: 33
+# OIIEFL_105893 Number of predicted TMRs: 0
+OIIEFL_105893	inside	1	33				
+//
+# OIIEFL_119202 Length: 42
+# OIIEFL_119202 Number of predicted TMRs: 0
+OIIEFL_119202	signal	1	40				
+OIIEFL_119202	outside	41	42				
+//
+# OIIEFL_56582 Length: 42
+# OIIEFL_56582 Number of predicted TMRs: 0
+OIIEFL_56582	signal	1	40				
+OIIEFL_56582	outside	41	42				
+//
+# OIIEFL_74212 Length: 45
+# OIIEFL_74212 Number of predicted TMRs: 0
+OIIEFL_74212	signal	1	16				
+OIIEFL_74212	outside	17	45				
+//
+# OIIEFL_154156 Length: 31
+# OIIEFL_154156 Number of predicted TMRs: 0
+OIIEFL_154156	signal	1	25				
+OIIEFL_154156	outside	26	31				
+//
+# OIIEFL_60273 Length: 46
+# OIIEFL_60273 Number of predicted TMRs: 0
+OIIEFL_60273	signal	1	41				
+OIIEFL_60273	outside	42	46				
+//
+# OIIEFL_99218 Length: 44
+# OIIEFL_99218 Number of predicted TMRs: 0
+OIIEFL_99218	signal	1	43				
+OIIEFL_99218	outside	44	44				
+//
+# OIIEFL_42303 Length: 34
+# OIIEFL_42303 Number of predicted TMRs: 0
+OIIEFL_42303	signal	1	30				
+OIIEFL_42303	outside	31	34				
+//
+# OIIEFL_63378 Length: 43
+# OIIEFL_63378 Number of predicted TMRs: 0
+OIIEFL_63378	signal	1	23				
+OIIEFL_63378	outside	24	43				
+//
+# OIIEFL_32099 Length: 49
+# OIIEFL_32099 Number of predicted TMRs: 0
+OIIEFL_32099	inside	1	49				
+//
+# OIIEFL_111150 Length: 47
+# OIIEFL_111150 Number of predicted TMRs: 0
+OIIEFL_111150	inside	1	47				
+//
+# OIIEFL_120829 Length: 46
+# OIIEFL_120829 Number of predicted TMRs: 0
+OIIEFL_120829	inside	1	46				
+//
+# OIIEFL_61739 Length: 44
+# OIIEFL_61739 Number of predicted TMRs: 0
+OIIEFL_61739	signal	1	43				
+OIIEFL_61739	outside	44	44				
+//
+# OIIEFL_84329 Length: 37
+# OIIEFL_84329 Number of predicted TMRs: 0
+OIIEFL_84329	inside	1	37				
+//
+# OIIEFL_58235 Length: 48
+# OIIEFL_58235 Number of predicted TMRs: 0
+OIIEFL_58235	signal	1	13				
+OIIEFL_58235	outside	14	48				
+//
+# OIIEFL_163786 Length: 45
+# OIIEFL_163786 Number of predicted TMRs: 0
+OIIEFL_163786	signal	1	32				
+OIIEFL_163786	outside	33	45				
+//
+# OIIEFL_76282 Length: 45
+# OIIEFL_76282 Number of predicted TMRs: 0
+OIIEFL_76282	inside	1	45				
+//
+# OIIEFL_48924 Length: 42
+# OIIEFL_48924 Number of predicted TMRs: 0
+OIIEFL_48924	inside	1	42				
+//
+# OIIEFL_48166 Length: 42
+# OIIEFL_48166 Number of predicted TMRs: 0
+OIIEFL_48166	signal	1	40				
+OIIEFL_48166	outside	41	42				
+//
+# OIIEFL_158835 Length: 42
+# OIIEFL_158835 Number of predicted TMRs: 0
+OIIEFL_158835	inside	1	42				
+//
+# OIIEFL_127600 Length: 46
+# OIIEFL_127600 Number of predicted TMRs: 0
+OIIEFL_127600	inside	1	46				
+//
+# OIIEFL_127603 Length: 44
+# OIIEFL_127603 Number of predicted TMRs: 0
+OIIEFL_127603	inside	1	44				
+//
+# OIIEFL_53504 Length: 46
+# OIIEFL_53504 Number of predicted TMRs: 0
+OIIEFL_53504	inside	1	46				
+//
+# OIIEFL_54338 Length: 41
+# OIIEFL_54338 Number of predicted TMRs: 0
+OIIEFL_54338	signal	1	38				
+OIIEFL_54338	outside	39	41				
+//
+# OIIEFL_74208 Length: 50
+# OIIEFL_74208 Number of predicted TMRs: 0
+OIIEFL_74208	inside	1	50				
+//
+# OIIEFL_45336 Length: 40
+# OIIEFL_45336 Number of predicted TMRs: 0
+OIIEFL_45336	signal	1	33				
+OIIEFL_45336	outside	34	40				
+//
+# OIIEFL_128755 Length: 44
+# OIIEFL_128755 Number of predicted TMRs: 0
+OIIEFL_128755	signal	1	36				
+OIIEFL_128755	outside	37	44				
+//
+# OIIEFL_153476 Length: 44
+# OIIEFL_153476 Number of predicted TMRs: 0
+OIIEFL_153476	signal	1	10				
+OIIEFL_153476	outside	11	44				
+//
+# OIIEFL_167363 Length: 46
+# OIIEFL_167363 Number of predicted TMRs: 0
+OIIEFL_167363	signal	1	25				
+OIIEFL_167363	outside	26	46				
+//
+# OIIEFL_46707 Length: 43
+# OIIEFL_46707 Number of predicted TMRs: 0
+OIIEFL_46707	signal	1	42				
+OIIEFL_46707	outside	43	43				
+//
+# OIIEFL_164623 Length: 44
+# OIIEFL_164623 Number of predicted TMRs: 0
+OIIEFL_164623	signal	1	10				
+OIIEFL_164623	outside	11	44				
+//
+# OIIEFL_119750 Length: 44
+# OIIEFL_119750 Number of predicted TMRs: 0
+OIIEFL_119750	inside	1	44				
+//
+# OIIEFL_16825 Length: 45
+# OIIEFL_16825 Number of predicted TMRs: 0
+OIIEFL_16825	signal	1	28				
+OIIEFL_16825	outside	29	45				
+//
+# OIIEFL_111414 Length: 42
+# OIIEFL_111414 Number of predicted TMRs: 0
+OIIEFL_111414	signal	1	11				
+OIIEFL_111414	outside	12	42				
+//
+# OIIEFL_43809 Length: 48
+# OIIEFL_43809 Number of predicted TMRs: 0
+OIIEFL_43809	signal	1	35				
+OIIEFL_43809	outside	36	48				
+//
+# OIIEFL_144506 Length: 45
+# OIIEFL_144506 Number of predicted TMRs: 0
+OIIEFL_144506	signal	1	44				
+OIIEFL_144506	outside	45	45				
+//
+# OIIEFL_117881 Length: 47
+# OIIEFL_117881 Number of predicted TMRs: 0
+OIIEFL_117881	inside	1	47				
+//
+# OIIEFL_26441 Length: 37
+# OIIEFL_26441 Number of predicted TMRs: 0
+OIIEFL_26441	signal	1	12				
+OIIEFL_26441	outside	13	37				
+//
+# OIIEFL_113456 Length: 40
+# OIIEFL_113456 Number of predicted TMRs: 0
+OIIEFL_113456	signal	1	10				
+OIIEFL_113456	outside	11	40				
+//
+# OIIEFL_40976 Length: 50
+# OIIEFL_40976 Number of predicted TMRs: 0
+OIIEFL_40976	inside	1	50				
+//
+# OIIEFL_46673 Length: 46
+# OIIEFL_46673 Number of predicted TMRs: 0
+OIIEFL_46673	inside	1	46				
+//
+# OIIEFL_167103 Length: 37
+# OIIEFL_167103 Number of predicted TMRs: 0
+OIIEFL_167103	inside	1	37				
+//
+# OIIEFL_88880 Length: 47
+# OIIEFL_88880 Number of predicted TMRs: 0
+OIIEFL_88880	signal	1	45				
+OIIEFL_88880	outside	46	47				
+//
+# OIIEFL_89211 Length: 42
+# OIIEFL_89211 Number of predicted TMRs: 0
+OIIEFL_89211	signal	1	40				
+OIIEFL_89211	outside	41	42				
+//
+# OIIEFL_111775 Length: 48
+# OIIEFL_111775 Number of predicted TMRs: 0
+OIIEFL_111775	inside	1	48				
+//
+# OIIEFL_171664 Length: 45
+# OIIEFL_171664 Number of predicted TMRs: 0
+OIIEFL_171664	inside	1	45				
+//
+# OIIEFL_17895 Length: 45
+# OIIEFL_17895 Number of predicted TMRs: 0
+OIIEFL_17895	signal	1	32				
+OIIEFL_17895	outside	33	45				
+//
+# OIIEFL_44616 Length: 43
+# OIIEFL_44616 Number of predicted TMRs: 0
+OIIEFL_44616	inside	1	43				
+//
+# OIIEFL_132411 Length: 44
+# OIIEFL_132411 Number of predicted TMRs: 0
+OIIEFL_132411	inside	1	44				
+//
+# OIIEFL_39761 Length: 46
+# OIIEFL_39761 Number of predicted TMRs: 0
+OIIEFL_39761	inside	1	46				
+//
+# OIIEFL_12916 Length: 47
+# OIIEFL_12916 Number of predicted TMRs: 0
+OIIEFL_12916	signal	1	46				
+OIIEFL_12916	outside	47	47				
+//
+# OIIEFL_29550 Length: 38
+# OIIEFL_29550 Number of predicted TMRs: 0
+OIIEFL_29550	inside	1	38				
+//
+# OIIEFL_134332 Length: 40
+# OIIEFL_134332 Number of predicted TMRs: 0
+OIIEFL_134332	inside	1	40				
+//
+# OIIEFL_125856 Length: 50
+# OIIEFL_125856 Number of predicted TMRs: 0
+OIIEFL_125856	inside	1	50				
+//
+# OIIEFL_139680 Length: 49
+# OIIEFL_139680 Number of predicted TMRs: 0
+OIIEFL_139680	signal	1	47				
+OIIEFL_139680	outside	48	49				
+//
+# OIIEFL_34231 Length: 49
+# OIIEFL_34231 Number of predicted TMRs: 0
+OIIEFL_34231	signal	1	11				
+OIIEFL_34231	outside	12	49				
+//
+# OIIEFL_46553 Length: 47
+# OIIEFL_46553 Number of predicted TMRs: 0
+OIIEFL_46553	signal	1	28				
+OIIEFL_46553	outside	29	47				
+//
+# OIIEFL_130958 Length: 43
+# OIIEFL_130958 Number of predicted TMRs: 0
+OIIEFL_130958	signal	1	16				
+OIIEFL_130958	outside	17	43				
+//
+# OIIEFL_171576 Length: 41
+# OIIEFL_171576 Number of predicted TMRs: 0
+OIIEFL_171576	signal	1	32				
+OIIEFL_171576	outside	33	41				
+//
+# OIIEFL_151275 Length: 39
+# OIIEFL_151275 Number of predicted TMRs: 0
+OIIEFL_151275	inside	1	39				
+//
+# OIIEFL_74497 Length: 35
+# OIIEFL_74497 Number of predicted TMRs: 0
+OIIEFL_74497	signal	1	34				
+OIIEFL_74497	outside	35	35				
+//
+# OIIEFL_5183 Length: 44
+# OIIEFL_5183 Number of predicted TMRs: 0
+OIIEFL_5183	inside	1	44				
+//
+# OIIEFL_43515 Length: 45
+# OIIEFL_43515 Number of predicted TMRs: 0
+OIIEFL_43515	inside	1	45				
+//
+# OIIEFL_126559 Length: 45
+# OIIEFL_126559 Number of predicted TMRs: 0
+OIIEFL_126559	inside	1	45				
+//
+# OIIEFL_9650 Length: 42
+# OIIEFL_9650 Number of predicted TMRs: 0
+OIIEFL_9650	signal	1	41				
+OIIEFL_9650	outside	42	42				
+//
+# OIIEFL_143713 Length: 42
+# OIIEFL_143713 Number of predicted TMRs: 0
+OIIEFL_143713	signal	1	14				
+OIIEFL_143713	outside	15	42				
+//
+# OIIEFL_154154 Length: 48
+# OIIEFL_154154 Number of predicted TMRs: 0
+OIIEFL_154154	signal	1	47				
+OIIEFL_154154	outside	48	48				
+//
+# OIIEFL_139323 Length: 46
+# OIIEFL_139323 Number of predicted TMRs: 0
+OIIEFL_139323	signal	1	20				
+OIIEFL_139323	outside	21	46				
+//
+# OIIEFL_78996 Length: 44
+# OIIEFL_78996 Number of predicted TMRs: 0
+OIIEFL_78996	signal	1	12				
+OIIEFL_78996	outside	13	44				
+//
+# OIIEFL_51059 Length: 49
+# OIIEFL_51059 Number of predicted TMRs: 0
+OIIEFL_51059	inside	1	49				
+//
+# OIIEFL_56071 Length: 48
+# OIIEFL_56071 Number of predicted TMRs: 0
+OIIEFL_56071	signal	1	15				
+OIIEFL_56071	outside	16	48				
+//
+# OIIEFL_170261 Length: 45
+# OIIEFL_170261 Number of predicted TMRs: 0
+OIIEFL_170261	outside	1	45				
+//
+# OIIEFL_135915 Length: 50
+# OIIEFL_135915 Number of predicted TMRs: 0
+OIIEFL_135915	signal	1	47				
+OIIEFL_135915	outside	48	50				
+//
+# OIIEFL_147516 Length: 48
+# OIIEFL_147516 Number of predicted TMRs: 0
+OIIEFL_147516	signal	1	14				
+OIIEFL_147516	outside	15	48				
+//
+# OIIEFL_169763 Length: 50
+# OIIEFL_169763 Number of predicted TMRs: 0
+OIIEFL_169763	inside	1	50				
+//
+# OIIEFL_173035 Length: 43
+# OIIEFL_173035 Number of predicted TMRs: 0
+OIIEFL_173035	outside	1	43				
+//
+# OIIEFL_32036 Length: 45
+# OIIEFL_32036 Number of predicted TMRs: 0
+OIIEFL_32036	signal	1	26				
+OIIEFL_32036	outside	27	45				
+//
+# OIIEFL_61052 Length: 47
+# OIIEFL_61052 Number of predicted TMRs: 0
+OIIEFL_61052	inside	1	47				
+//
+# OIIEFL_95367 Length: 35
+# OIIEFL_95367 Number of predicted TMRs: 0
+OIIEFL_95367	inside	1	35				
+//
+# OIIEFL_5899 Length: 43
+# OIIEFL_5899 Number of predicted TMRs: 0
+OIIEFL_5899	signal	1	11				
+OIIEFL_5899	outside	12	43				
+//
+# OIIEFL_38867 Length: 47
+# OIIEFL_38867 Number of predicted TMRs: 0
+OIIEFL_38867	signal	1	44				
+OIIEFL_38867	outside	45	47				
+//
+# OIIEFL_117829 Length: 40
+# OIIEFL_117829 Number of predicted TMRs: 0
+OIIEFL_117829	signal	1	33				
+OIIEFL_117829	outside	34	40				
+//
+# OIIEFL_167733 Length: 36
+# OIIEFL_167733 Number of predicted TMRs: 0
+OIIEFL_167733	signal	1	22				
+OIIEFL_167733	outside	23	36				
+//
+# OIIEFL_167350 Length: 50
+# OIIEFL_167350 Number of predicted TMRs: 0
+OIIEFL_167350	inside	1	50				
+//
+# OIIEFL_122472 Length: 43
+# OIIEFL_122472 Number of predicted TMRs: 0
+OIIEFL_122472	inside	1	43				
+//
+# OIIEFL_46741 Length: 48
+# OIIEFL_46741 Number of predicted TMRs: 0
+OIIEFL_46741	signal	1	15				
+OIIEFL_46741	outside	16	48				
+//
+# OIIEFL_103861 Length: 49
+# OIIEFL_103861 Number of predicted TMRs: 0
+OIIEFL_103861	inside	1	49				
+//
+# OIIEFL_97619 Length: 44
+# OIIEFL_97619 Number of predicted TMRs: 0
+OIIEFL_97619	signal	1	19				
+OIIEFL_97619	outside	20	44				
+//
+# OIIEFL_107590 Length: 45
+# OIIEFL_107590 Number of predicted TMRs: 0
+OIIEFL_107590	inside	1	45				
+//
+# OIIEFL_42025 Length: 48
+# OIIEFL_42025 Number of predicted TMRs: 0
+OIIEFL_42025	inside	1	48				
+//
+# OIIEFL_81312 Length: 48
+# OIIEFL_81312 Number of predicted TMRs: 0
+OIIEFL_81312	inside	1	48				
+//
+# OIIEFL_16672 Length: 40
+# OIIEFL_16672 Number of predicted TMRs: 0
+OIIEFL_16672	inside	1	40				
+//
+# OIIEFL_64184 Length: 45
+# OIIEFL_64184 Number of predicted TMRs: 0
+OIIEFL_64184	inside	1	45				
+//
+# OIIEFL_4982 Length: 47
+# OIIEFL_4982 Number of predicted TMRs: 0
+OIIEFL_4982	signal	1	44				
+OIIEFL_4982	outside	45	47				
+//
+# OIIEFL_70070 Length: 47
+# OIIEFL_70070 Number of predicted TMRs: 0
+OIIEFL_70070	inside	1	47				
+//
+# OIIEFL_33627 Length: 42
+# OIIEFL_33627 Number of predicted TMRs: 0
+OIIEFL_33627	signal	1	34				
+OIIEFL_33627	outside	35	42				
+//
+# OIIEFL_102551 Length: 41
+# OIIEFL_102551 Number of predicted TMRs: 0
+OIIEFL_102551	signal	1	20				
+OIIEFL_102551	outside	21	41				
+//
+# OIIEFL_120305 Length: 47
+# OIIEFL_120305 Number of predicted TMRs: 0
+OIIEFL_120305	signal	1	43				
+OIIEFL_120305	outside	44	47				
+//
+# OIIEFL_49290 Length: 40
+# OIIEFL_49290 Number of predicted TMRs: 0
+OIIEFL_49290	inside	1	40				
+//
+# OIIEFL_120235 Length: 40
+# OIIEFL_120235 Number of predicted TMRs: 0
+OIIEFL_120235	inside	1	40				
+//
+# OIIEFL_58904 Length: 28
+# OIIEFL_58904 Number of predicted TMRs: 0
+OIIEFL_58904	inside	1	28				
+//
+# OIIEFL_90017 Length: 37
+# OIIEFL_90017 Number of predicted TMRs: 0
+OIIEFL_90017	inside	1	37				
+//
+# OIIEFL_64232 Length: 44
+# OIIEFL_64232 Number of predicted TMRs: 0
+OIIEFL_64232	signal	1	15				
+OIIEFL_64232	outside	16	44				
+//
+# OIIEFL_12788 Length: 47
+# OIIEFL_12788 Number of predicted TMRs: 0
+OIIEFL_12788	inside	1	47				
+//
+# OIIEFL_79099 Length: 42
+# OIIEFL_79099 Number of predicted TMRs: 0
+OIIEFL_79099	signal	1	31				
+OIIEFL_79099	outside	32	42				
+//
+# OIIEFL_105005 Length: 47
+# OIIEFL_105005 Number of predicted TMRs: 0
+OIIEFL_105005	inside	1	47				
+//
+# OIIEFL_57793 Length: 49
+# OIIEFL_57793 Number of predicted TMRs: 0
+OIIEFL_57793	inside	1	49				
+//
+# OIIEFL_58462 Length: 40
+# OIIEFL_58462 Number of predicted TMRs: 0
+OIIEFL_58462	inside	1	40				
+//
+# OIIEFL_53902 Length: 29
+# OIIEFL_53902 Number of predicted TMRs: 0
+OIIEFL_53902	inside	1	29				
+//
+# OIIEFL_53910 Length: 29
+# OIIEFL_53910 Number of predicted TMRs: 0
+OIIEFL_53910	inside	1	29				
+//
+# OIIEFL_15761 Length: 35
+# OIIEFL_15761 Number of predicted TMRs: 0
+OIIEFL_15761	inside	1	35				
+//
+# OIIEFL_53453 Length: 50
+# OIIEFL_53453 Number of predicted TMRs: 0
+OIIEFL_53453	inside	1	50				
+//
+# OIIEFL_132655 Length: 46
+# OIIEFL_132655 Number of predicted TMRs: 0
+OIIEFL_132655	inside	1	46				
+//
+# OIIEFL_105961 Length: 44
+# OIIEFL_105961 Number of predicted TMRs: 0
+OIIEFL_105961	inside	1	44				
+//
+# OIIEFL_14204 Length: 42
+# OIIEFL_14204 Number of predicted TMRs: 0
+OIIEFL_14204	signal	1	10				
+OIIEFL_14204	outside	11	42				
+//
+# OIIEFL_16762 Length: 43
+# OIIEFL_16762 Number of predicted TMRs: 0
+OIIEFL_16762	inside	1	43				
+//
+# OIIEFL_84735 Length: 43
+# OIIEFL_84735 Number of predicted TMRs: 0
+OIIEFL_84735	inside	1	43				
+//
+# OIIEFL_77437 Length: 44
+# OIIEFL_77437 Number of predicted TMRs: 0
+OIIEFL_77437	inside	1	44				
+//
+# OIIEFL_92946 Length: 42
+# OIIEFL_92946 Number of predicted TMRs: 0
+OIIEFL_92946	inside	1	42				
+//
+# OIIEFL_8564 Length: 45
+# OIIEFL_8564 Number of predicted TMRs: 0
+OIIEFL_8564	signal	1	20				
+OIIEFL_8564	outside	21	45				
+//
+# OIIEFL_80434 Length: 43
+# OIIEFL_80434 Number of predicted TMRs: 0
+OIIEFL_80434	inside	1	43				
+//
+# OIIEFL_117342 Length: 42
+# OIIEFL_117342 Number of predicted TMRs: 0
+OIIEFL_117342	inside	1	42				
+//
+# OIIEFL_150953 Length: 46
+# OIIEFL_150953 Number of predicted TMRs: 0
+OIIEFL_150953	inside	1	46				
+//
+# OIIEFL_77073 Length: 49
+# OIIEFL_77073 Number of predicted TMRs: 0
+OIIEFL_77073	inside	1	49				
+//
+# OIIEFL_40416 Length: 46
+# OIIEFL_40416 Number of predicted TMRs: 0
+OIIEFL_40416	inside	1	46				
+//
+# OIIEFL_66763 Length: 44
+# OIIEFL_66763 Number of predicted TMRs: 0
+OIIEFL_66763	signal	1	43				
+OIIEFL_66763	outside	44	44				
+//
+# OIIEFL_127670 Length: 42
+# OIIEFL_127670 Number of predicted TMRs: 0
+OIIEFL_127670	signal	1	10				
+OIIEFL_127670	outside	11	42				
+//
+# OIIEFL_26318 Length: 44
+# OIIEFL_26318 Number of predicted TMRs: 0
+OIIEFL_26318	signal	1	43				
+OIIEFL_26318	outside	44	44				
+//
+# OIIEFL_39346 Length: 45
+# OIIEFL_39346 Number of predicted TMRs: 0
+OIIEFL_39346	inside	1	45				
+//
+# OIIEFL_31064 Length: 50
+# OIIEFL_31064 Number of predicted TMRs: 0
+OIIEFL_31064	inside	1	50				
+//
+# OIIEFL_135089 Length: 50
+# OIIEFL_135089 Number of predicted TMRs: 0
+OIIEFL_135089	signal	1	32				
+OIIEFL_135089	outside	33	50				
+//
+# OIIEFL_97927 Length: 40
+# OIIEFL_97927 Number of predicted TMRs: 0
+OIIEFL_97927	inside	1	40				
+//
+# OIIEFL_122131 Length: 39
+# OIIEFL_122131 Number of predicted TMRs: 0
+OIIEFL_122131	inside	1	39				
+//
+# OIIEFL_74780 Length: 43
+# OIIEFL_74780 Number of predicted TMRs: 0
+OIIEFL_74780	signal	1	17				
+OIIEFL_74780	outside	18	43				
+//
+# OIIEFL_38633 Length: 43
+# OIIEFL_38633 Number of predicted TMRs: 0
+OIIEFL_38633	outside	1	43				
+//
+# OIIEFL_9498 Length: 44
+# OIIEFL_9498 Number of predicted TMRs: 0
+OIIEFL_9498	inside	1	44				
+//
+# OIIEFL_99136 Length: 45
+# OIIEFL_99136 Number of predicted TMRs: 0
+OIIEFL_99136	inside	1	45				
+//
+# OIIEFL_67127 Length: 38
+# OIIEFL_67127 Number of predicted TMRs: 0
+OIIEFL_67127	inside	1	38				
+//
+# OIIEFL_98952 Length: 48
+# OIIEFL_98952 Number of predicted TMRs: 0
+OIIEFL_98952	inside	1	48				
+//
+# OIIEFL_78131 Length: 49
+# OIIEFL_78131 Number of predicted TMRs: 0
+OIIEFL_78131	inside	1	49				
+//
+# OIIEFL_98118 Length: 49
+# OIIEFL_98118 Number of predicted TMRs: 0
+OIIEFL_98118	inside	1	49				
+//
+# OIIEFL_101231 Length: 48
+# OIIEFL_101231 Number of predicted TMRs: 0
+OIIEFL_101231	inside	1	48				
+//
+# OIIEFL_70356 Length: 47
+# OIIEFL_70356 Number of predicted TMRs: 0
+OIIEFL_70356	inside	1	47				
+//
+# OIIEFL_31155 Length: 50
+# OIIEFL_31155 Number of predicted TMRs: 0
+OIIEFL_31155	signal	1	15				
+OIIEFL_31155	outside	16	50				
+//
+# OIIEFL_56706 Length: 50
+# OIIEFL_56706 Number of predicted TMRs: 0
+OIIEFL_56706	inside	1	50				
+//
+# OIIEFL_4703 Length: 49
+# OIIEFL_4703 Number of predicted TMRs: 0
+OIIEFL_4703	outside	1	49				
+//
+# OIIEFL_107108 Length: 44
+# OIIEFL_107108 Number of predicted TMRs: 0
+OIIEFL_107108	inside	1	44				
+//
+# OIIEFL_139586 Length: 48
+# OIIEFL_139586 Number of predicted TMRs: 0
+OIIEFL_139586	inside	1	48				
+//
+# OIIEFL_142909 Length: 34
+# OIIEFL_142909 Number of predicted TMRs: 0
+OIIEFL_142909	inside	1	34				
+//
+# OIIEFL_76098 Length: 49
+# OIIEFL_76098 Number of predicted TMRs: 0
+OIIEFL_76098	inside	1	49				
+//
+# OIIEFL_5158 Length: 50
+# OIIEFL_5158 Number of predicted TMRs: 1
+OIIEFL_5158	inside	1	1				
+OIIEFL_5158	TMhelix	2	18				
+OIIEFL_5158	outside	19	50				
+//
+# OIIEFL_163689 Length: 49
+# OIIEFL_163689 Number of predicted TMRs: 0
+OIIEFL_163689	outside	1	49				
+//
+# OIIEFL_44677 Length: 44
+# OIIEFL_44677 Number of predicted TMRs: 0
+OIIEFL_44677	inside	1	44				
+//
+# OIIEFL_24305 Length: 38
+# OIIEFL_24305 Number of predicted TMRs: 0
+OIIEFL_24305	inside	1	38				
+//
+# OIIEFL_47119 Length: 49
+# OIIEFL_47119 Number of predicted TMRs: 0
+OIIEFL_47119	inside	1	49				
+//
+# OIIEFL_24922 Length: 50
+# OIIEFL_24922 Number of predicted TMRs: 0
+OIIEFL_24922	signal	1	10				
+OIIEFL_24922	outside	11	50				
+//
+# OIIEFL_44776 Length: 40
+# OIIEFL_44776 Number of predicted TMRs: 0
+OIIEFL_44776	inside	1	40				
+//
+# OIIEFL_132723 Length: 50
+# OIIEFL_132723 Number of predicted TMRs: 0
+OIIEFL_132723	inside	1	50				
+//
+# OIIEFL_67206 Length: 43
+# OIIEFL_67206 Number of predicted TMRs: 0
+OIIEFL_67206	signal	1	21				
+OIIEFL_67206	outside	22	43				
+//
+# OIIEFL_143719 Length: 48
+# OIIEFL_143719 Number of predicted TMRs: 0
+OIIEFL_143719	inside	1	48				
+//
+# OIIEFL_84545 Length: 48
+# OIIEFL_84545 Number of predicted TMRs: 0
+OIIEFL_84545	inside	1	48				
+//
+# OIIEFL_57333 Length: 45
+# OIIEFL_57333 Number of predicted TMRs: 0
+OIIEFL_57333	inside	1	45				
+//
+# OIIEFL_132002 Length: 42
+# OIIEFL_132002 Number of predicted TMRs: 0
+OIIEFL_132002	inside	1	42				
+//
+# OIIEFL_79738 Length: 43
+# OIIEFL_79738 Number of predicted TMRs: 0
+OIIEFL_79738	outside	1	43				
+//
+# OIIEFL_166333 Length: 43
+# OIIEFL_166333 Number of predicted TMRs: 0
+OIIEFL_166333	signal	1	42				
+OIIEFL_166333	outside	43	43				
+//
+# OIIEFL_167215 Length: 46
+# OIIEFL_167215 Number of predicted TMRs: 0
+OIIEFL_167215	inside	1	46				
+//
+# OIIEFL_58825 Length: 46
+# OIIEFL_58825 Number of predicted TMRs: 0
+OIIEFL_58825	signal	1	32				
+OIIEFL_58825	outside	33	46				
+//
+# OIIEFL_130124 Length: 31
+# OIIEFL_130124 Number of predicted TMRs: 0
+OIIEFL_130124	inside	1	31				
+//
+# OIIEFL_137040 Length: 31
+# OIIEFL_137040 Number of predicted TMRs: 0
+OIIEFL_137040	signal	1	21				
+OIIEFL_137040	outside	22	31				
+//
+# OIIEFL_20069 Length: 47
+# OIIEFL_20069 Number of predicted TMRs: 0
+OIIEFL_20069	inside	1	47				
+//
+# OIIEFL_90743 Length: 41
+# OIIEFL_90743 Number of predicted TMRs: 0
+OIIEFL_90743	signal	1	40				
+OIIEFL_90743	outside	41	41				
+//
+# OIIEFL_93866 Length: 46
+# OIIEFL_93866 Number of predicted TMRs: 0
+OIIEFL_93866	signal	1	12				
+OIIEFL_93866	outside	13	46				
+//
+# OIIEFL_90439 Length: 35
+# OIIEFL_90439 Number of predicted TMRs: 0
+OIIEFL_90439	signal	1	31				
+OIIEFL_90439	outside	32	35				
+//
+# OIIEFL_87170 Length: 46
+# OIIEFL_87170 Number of predicted TMRs: 0
+OIIEFL_87170	inside	1	46				
+//
+# OIIEFL_6643 Length: 36
+# OIIEFL_6643 Number of predicted TMRs: 0
+OIIEFL_6643	inside	1	36				
+//
+# OIIEFL_75860 Length: 41
+# OIIEFL_75860 Number of predicted TMRs: 0
+OIIEFL_75860	inside	1	41				
+//
+# OIIEFL_63285 Length: 47
+# OIIEFL_63285 Number of predicted TMRs: 0
+OIIEFL_63285	signal	1	22				
+OIIEFL_63285	outside	23	47				
+//
+# OIIEFL_43548 Length: 49
+# OIIEFL_43548 Number of predicted TMRs: 0
+OIIEFL_43548	signal	1	20				
+OIIEFL_43548	outside	21	49				
+//
+# OIIEFL_131002 Length: 50
+# OIIEFL_131002 Number of predicted TMRs: 0
+OIIEFL_131002	inside	1	50				
+//
+# OIIEFL_16671 Length: 42
+# OIIEFL_16671 Number of predicted TMRs: 0
+OIIEFL_16671	inside	1	42				
+//
+# OIIEFL_145702 Length: 50
+# OIIEFL_145702 Number of predicted TMRs: 0
+OIIEFL_145702	inside	1	50				
+//
+# OIIEFL_87049 Length: 42
+# OIIEFL_87049 Number of predicted TMRs: 0
+OIIEFL_87049	signal	1	26				
+OIIEFL_87049	outside	27	42				
+//
+# OIIEFL_48363 Length: 49
+# OIIEFL_48363 Number of predicted TMRs: 0
+OIIEFL_48363	signal	1	40				
+OIIEFL_48363	outside	41	49				
+//
+# OIIEFL_168306 Length: 50
+# OIIEFL_168306 Number of predicted TMRs: 0
+OIIEFL_168306	signal	1	21				
+OIIEFL_168306	outside	22	50				
+//
+# OIIEFL_134855 Length: 47
+# OIIEFL_134855 Number of predicted TMRs: 0
+OIIEFL_134855	inside	1	47				
+//
+# OIIEFL_21483 Length: 49
+# OIIEFL_21483 Number of predicted TMRs: 0
+OIIEFL_21483	inside	1	49				
+//
+# OIIEFL_66484 Length: 43
+# OIIEFL_66484 Number of predicted TMRs: 0
+OIIEFL_66484	inside	1	43				
+//
+# OIIEFL_40198 Length: 41
+# OIIEFL_40198 Number of predicted TMRs: 0
+OIIEFL_40198	inside	1	41				
+//
+# OIIEFL_12703 Length: 40
+# OIIEFL_12703 Number of predicted TMRs: 0
+OIIEFL_12703	inside	1	40				
+//
+# OIIEFL_106133 Length: 46
+# OIIEFL_106133 Number of predicted TMRs: 0
+OIIEFL_106133	inside	1	46				
+//
+# OIIEFL_65163 Length: 41
+# OIIEFL_65163 Number of predicted TMRs: 0
+OIIEFL_65163	inside	1	41				
+//
+# OIIEFL_82639 Length: 38
+# OIIEFL_82639 Number of predicted TMRs: 0
+OIIEFL_82639	signal	1	36				
+OIIEFL_82639	outside	37	38				
+//
+# OIIEFL_137581 Length: 40
+# OIIEFL_137581 Number of predicted TMRs: 0
+OIIEFL_137581	inside	1	40				
+//
+# OIIEFL_98119 Length: 45
+# OIIEFL_98119 Number of predicted TMRs: 0
+OIIEFL_98119	inside	1	45				
+//
+# OIIEFL_21415 Length: 49
+# OIIEFL_21415 Number of predicted TMRs: 0
+OIIEFL_21415	signal	1	14				
+OIIEFL_21415	outside	15	49				
+//
+# OIIEFL_129003 Length: 48
+# OIIEFL_129003 Number of predicted TMRs: 0
+OIIEFL_129003	signal	1	38				
+OIIEFL_129003	outside	39	48				
+//
+# OIIEFL_60429 Length: 49
+# OIIEFL_60429 Number of predicted TMRs: 0
+OIIEFL_60429	inside	1	49				
+//
+# OIIEFL_103334 Length: 49
+# OIIEFL_103334 Number of predicted TMRs: 0
+OIIEFL_103334	signal	1	48				
+OIIEFL_103334	outside	49	49				
+//
+# OIIEFL_35783 Length: 43
+# OIIEFL_35783 Number of predicted TMRs: 0
+OIIEFL_35783	inside	1	43				
+//
+# OIIEFL_59577 Length: 50
+# OIIEFL_59577 Number of predicted TMRs: 0
+OIIEFL_59577	inside	1	50				
+//
+# OIIEFL_63510 Length: 50
+# OIIEFL_63510 Number of predicted TMRs: 0
+OIIEFL_63510	inside	1	50				
+//
+# OIIEFL_57137 Length: 49
+# OIIEFL_57137 Number of predicted TMRs: 0
+OIIEFL_57137	inside	1	49				
+//
+# OIIEFL_29261 Length: 42
+# OIIEFL_29261 Number of predicted TMRs: 0
+OIIEFL_29261	signal	1	41				
+OIIEFL_29261	outside	42	42				
+//
+# OIIEFL_65687 Length: 49
+# OIIEFL_65687 Number of predicted TMRs: 0
+OIIEFL_65687	signal	1	24				
+OIIEFL_65687	outside	25	49				
+//
+# OIIEFL_26744 Length: 45
+# OIIEFL_26744 Number of predicted TMRs: 0
+OIIEFL_26744	inside	1	45				
+//
+# OIIEFL_142393 Length: 45
+# OIIEFL_142393 Number of predicted TMRs: 0
+OIIEFL_142393	signal	1	35				
+OIIEFL_142393	outside	36	45				
+//
+# OIIEFL_167818 Length: 47
+# OIIEFL_167818 Number of predicted TMRs: 0
+OIIEFL_167818	signal	1	10				
+OIIEFL_167818	outside	11	47				
+//
+# OIIEFL_59856 Length: 48
+# OIIEFL_59856 Number of predicted TMRs: 0
+OIIEFL_59856	signal	1	10				
+OIIEFL_59856	outside	11	48				
+//
+# OIIEFL_92208 Length: 50
+# OIIEFL_92208 Number of predicted TMRs: 0
+OIIEFL_92208	signal	1	47				
+OIIEFL_92208	outside	48	50				
+//
+# OIIEFL_27041 Length: 45
+# OIIEFL_27041 Number of predicted TMRs: 0
+OIIEFL_27041	inside	1	45				
+//
+# OIIEFL_116197 Length: 48
+# OIIEFL_116197 Number of predicted TMRs: 0
+OIIEFL_116197	inside	1	48				
+//
+# OIIEFL_70703 Length: 49
+# OIIEFL_70703 Number of predicted TMRs: 0
+OIIEFL_70703	inside	1	49				
+//
+# OIIEFL_112826 Length: 50
+# OIIEFL_112826 Number of predicted TMRs: 0
+OIIEFL_112826	inside	1	50				
+//
+# OIIEFL_106515 Length: 41
+# OIIEFL_106515 Number of predicted TMRs: 0
+OIIEFL_106515	signal	1	22				
+OIIEFL_106515	outside	23	41				
+//
+# OIIEFL_62087 Length: 47
+# OIIEFL_62087 Number of predicted TMRs: 0
+OIIEFL_62087	signal	1	41				
+OIIEFL_62087	outside	42	47				
+//
+# OIIEFL_100529 Length: 48
+# OIIEFL_100529 Number of predicted TMRs: 0
+OIIEFL_100529	inside	1	48				
+//
+# OIIEFL_32650 Length: 43
+# OIIEFL_32650 Number of predicted TMRs: 0
+OIIEFL_32650	inside	1	43				
+//
+# OIIEFL_165755 Length: 39
+# OIIEFL_165755 Number of predicted TMRs: 0
+OIIEFL_165755	signal	1	38				
+OIIEFL_165755	outside	39	39				
+//
+# OIIEFL_108400 Length: 46
+# OIIEFL_108400 Number of predicted TMRs: 0
+OIIEFL_108400	inside	1	46				
+//
+# OIIEFL_105624 Length: 46
+# OIIEFL_105624 Number of predicted TMRs: 0
+OIIEFL_105624	inside	1	46				
+//
+# OIIEFL_23268 Length: 34
+# OIIEFL_23268 Number of predicted TMRs: 0
+OIIEFL_23268	signal	1	30				
+OIIEFL_23268	outside	31	34				
+//
+# OIIEFL_147340 Length: 37
+# OIIEFL_147340 Number of predicted TMRs: 0
+OIIEFL_147340	signal	1	11				
+OIIEFL_147340	outside	12	37				
+//
+# OIIEFL_12689 Length: 39
+# OIIEFL_12689 Number of predicted TMRs: 0
+OIIEFL_12689	signal	1	38				
+OIIEFL_12689	outside	39	39				
+//
+# OIIEFL_9211 Length: 47
+# OIIEFL_9211 Number of predicted TMRs: 0
+OIIEFL_9211	signal	1	46				
+OIIEFL_9211	outside	47	47				
+//
+# OIIEFL_146065 Length: 47
+# OIIEFL_146065 Number of predicted TMRs: 0
+OIIEFL_146065	signal	1	46				
+OIIEFL_146065	outside	47	47				
+//
+# OIIEFL_21158 Length: 49
+# OIIEFL_21158 Number of predicted TMRs: 0
+OIIEFL_21158	signal	1	48				
+OIIEFL_21158	outside	49	49				
+//
+# OIIEFL_118896 Length: 48
+# OIIEFL_118896 Number of predicted TMRs: 0
+OIIEFL_118896	inside	1	48				
+//
+# OIIEFL_7004 Length: 49
+# OIIEFL_7004 Number of predicted TMRs: 0
+OIIEFL_7004	inside	1	49				
+//
+# OIIEFL_101764 Length: 48
+# OIIEFL_101764 Number of predicted TMRs: 0
+OIIEFL_101764	inside	1	48				
+//
+# OIIEFL_62071 Length: 50
+# OIIEFL_62071 Number of predicted TMRs: 0
+OIIEFL_62071	inside	1	50				
+//
+# OIIEFL_127149 Length: 46
+# OIIEFL_127149 Number of predicted TMRs: 0
+OIIEFL_127149	signal	1	45				
+OIIEFL_127149	outside	46	46				
+//
+# OIIEFL_38469 Length: 44
+# OIIEFL_38469 Number of predicted TMRs: 0
+OIIEFL_38469	signal	1	43				
+OIIEFL_38469	outside	44	44				
+//
+# OIIEFL_106364 Length: 44
+# OIIEFL_106364 Number of predicted TMRs: 0
+OIIEFL_106364	inside	1	44				
+//
+# OIIEFL_80232 Length: 35
+# OIIEFL_80232 Number of predicted TMRs: 0
+OIIEFL_80232	signal	1	26				
+OIIEFL_80232	outside	27	35				
+//
+# OIIEFL_100947 Length: 50
+# OIIEFL_100947 Number of predicted TMRs: 0
+OIIEFL_100947	inside	1	50				
+//
+# OIIEFL_99138 Length: 38
+# OIIEFL_99138 Number of predicted TMRs: 0
+OIIEFL_99138	inside	1	38				
+//
+# OIIEFL_142371 Length: 44
+# OIIEFL_142371 Number of predicted TMRs: 0
+OIIEFL_142371	inside	1	44				
+//
+# OIIEFL_70572 Length: 46
+# OIIEFL_70572 Number of predicted TMRs: 0
+OIIEFL_70572	inside	1	46				
+//
+# OIIEFL_76510 Length: 49
+# OIIEFL_76510 Number of predicted TMRs: 0
+OIIEFL_76510	inside	1	49				
+//
+# OIIEFL_169813 Length: 36
+# OIIEFL_169813 Number of predicted TMRs: 0
+OIIEFL_169813	signal	1	29				
+OIIEFL_169813	outside	30	36				
+//
+# OIIEFL_33243 Length: 47
+# OIIEFL_33243 Number of predicted TMRs: 0
+OIIEFL_33243	signal	1	46				
+OIIEFL_33243	outside	47	47				
+//
+# OIIEFL_101232 Length: 49
+# OIIEFL_101232 Number of predicted TMRs: 0
+OIIEFL_101232	inside	1	49				
+//
+# OIIEFL_121683 Length: 49
+# OIIEFL_121683 Number of predicted TMRs: 0
+OIIEFL_121683	outside	1	49				
+//
+# OIIEFL_29657 Length: 40
+# OIIEFL_29657 Number of predicted TMRs: 0
+OIIEFL_29657	inside	1	40				
+//
+# OIIEFL_29659 Length: 43
+# OIIEFL_29659 Number of predicted TMRs: 0
+OIIEFL_29659	signal	1	42				
+OIIEFL_29659	outside	43	43				
+//
+# OIIEFL_154765 Length: 48
+# OIIEFL_154765 Number of predicted TMRs: 0
+OIIEFL_154765	inside	1	48				
+//
+# OIIEFL_104629 Length: 49
+# OIIEFL_104629 Number of predicted TMRs: 0
+OIIEFL_104629	outside	1	49				
+//
+# OIIEFL_163547 Length: 48
+# OIIEFL_163547 Number of predicted TMRs: 0
+OIIEFL_163547	inside	1	48				
+//
+# OIIEFL_91255 Length: 44
+# OIIEFL_91255 Number of predicted TMRs: 0
+OIIEFL_91255	inside	1	44				
+//
+# OIIEFL_133792 Length: 48
+# OIIEFL_133792 Number of predicted TMRs: 0
+OIIEFL_133792	inside	1	48				
+//
+# OIIEFL_70786 Length: 45
+# OIIEFL_70786 Number of predicted TMRs: 0
+OIIEFL_70786	signal	1	33				
+OIIEFL_70786	outside	34	45				
+//
+# OIIEFL_18127 Length: 44
+# OIIEFL_18127 Number of predicted TMRs: 0
+OIIEFL_18127	inside	1	44				
+//
+# OIIEFL_123017 Length: 47
+# OIIEFL_123017 Number of predicted TMRs: 0
+OIIEFL_123017	signal	1	45				
+OIIEFL_123017	outside	46	47				
+//
+# OIIEFL_8402 Length: 46
+# OIIEFL_8402 Number of predicted TMRs: 0
+OIIEFL_8402	inside	1	46				
+//
+# OIIEFL_132605 Length: 48
+# OIIEFL_132605 Number of predicted TMRs: 0
+OIIEFL_132605	inside	1	48				
+//
+# OIIEFL_102745 Length: 46
+# OIIEFL_102745 Number of predicted TMRs: 0
+OIIEFL_102745	inside	1	46				
+//
+# OIIEFL_17934 Length: 44
+# OIIEFL_17934 Number of predicted TMRs: 0
+OIIEFL_17934	inside	1	44				
+//
+# OIIEFL_9203 Length: 44
+# OIIEFL_9203 Number of predicted TMRs: 0
+OIIEFL_9203	inside	1	44				
+//
+# OIIEFL_121684 Length: 45
+# OIIEFL_121684 Number of predicted TMRs: 0
+OIIEFL_121684	outside	1	45				
+//
+# OIIEFL_99273 Length: 46
+# OIIEFL_99273 Number of predicted TMRs: 0
+OIIEFL_99273	inside	1	46				
+//
+# OIIEFL_102219 Length: 38
+# OIIEFL_102219 Number of predicted TMRs: 0
+OIIEFL_102219	signal	1	13				
+OIIEFL_102219	outside	14	38				
+//
+# OIIEFL_97862 Length: 42
+# OIIEFL_97862 Number of predicted TMRs: 0
+OIIEFL_97862	signal	1	41				
+OIIEFL_97862	outside	42	42				
+//
+# OIIEFL_161734 Length: 50
+# OIIEFL_161734 Number of predicted TMRs: 0
+OIIEFL_161734	inside	1	50				
+//
+# OIIEFL_148162 Length: 48
+# OIIEFL_148162 Number of predicted TMRs: 0
+OIIEFL_148162	outside	1	48				
+//
+# OIIEFL_47178 Length: 50
+# OIIEFL_47178 Number of predicted TMRs: 0
+OIIEFL_47178	signal	1	11				
+OIIEFL_47178	outside	12	50				
+//
+# OIIEFL_85730 Length: 43
+# OIIEFL_85730 Number of predicted TMRs: 0
+OIIEFL_85730	signal	1	42				
+OIIEFL_85730	outside	43	43				
+//
+# OIIEFL_145548 Length: 46
+# OIIEFL_145548 Number of predicted TMRs: 0
+OIIEFL_145548	inside	1	46				
+//
+# OIIEFL_68201 Length: 44
+# OIIEFL_68201 Number of predicted TMRs: 0
+OIIEFL_68201	inside	1	44				
+//
+# OIIEFL_11896 Length: 39
+# OIIEFL_11896 Number of predicted TMRs: 0
+OIIEFL_11896	signal	1	21				
+OIIEFL_11896	outside	22	39				
+//
+# OIIEFL_133296 Length: 31
+# OIIEFL_133296 Number of predicted TMRs: 0
+OIIEFL_133296	signal	1	30				
+OIIEFL_133296	outside	31	31				
+//
+# OIIEFL_166621 Length: 38
+# OIIEFL_166621 Number of predicted TMRs: 0
+OIIEFL_166621	inside	1	38				
+//
+# OIIEFL_50017 Length: 46
+# OIIEFL_50017 Number of predicted TMRs: 0
+OIIEFL_50017	inside	1	46				
+//
+# OIIEFL_91154 Length: 49
+# OIIEFL_91154 Number of predicted TMRs: 0
+OIIEFL_91154	inside	1	49				
+//
+# OIIEFL_18606 Length: 40
+# OIIEFL_18606 Number of predicted TMRs: 0
+OIIEFL_18606	signal	1	38				
+OIIEFL_18606	outside	39	40				
+//
+# OIIEFL_166767 Length: 49
+# OIIEFL_166767 Number of predicted TMRs: 0
+OIIEFL_166767	inside	1	49				
+//
+# OIIEFL_47550 Length: 37
+# OIIEFL_47550 Number of predicted TMRs: 0
+OIIEFL_47550	signal	1	35				
+OIIEFL_47550	outside	36	37				
+//
+# OIIEFL_40126 Length: 35
+# OIIEFL_40126 Number of predicted TMRs: 0
+OIIEFL_40126	signal	1	15				
+OIIEFL_40126	outside	16	35				
+//
+# OIIEFL_30159 Length: 50
+# OIIEFL_30159 Number of predicted TMRs: 0
+OIIEFL_30159	inside	1	50				
+//
+# OIIEFL_99472 Length: 43
+# OIIEFL_99472 Number of predicted TMRs: 0
+OIIEFL_99472	signal	1	42				
+OIIEFL_99472	outside	43	43				
+//
+# OIIEFL_109431 Length: 40
+# OIIEFL_109431 Number of predicted TMRs: 0
+OIIEFL_109431	signal	1	25				
+OIIEFL_109431	outside	26	40				
+//
+# OIIEFL_38667 Length: 47
+# OIIEFL_38667 Number of predicted TMRs: 0
+OIIEFL_38667	inside	1	47				
+//
+# OIIEFL_45935 Length: 46
+# OIIEFL_45935 Number of predicted TMRs: 0
+OIIEFL_45935	signal	1	10				
+OIIEFL_45935	outside	11	46				
+//
+# OIIEFL_81813 Length: 44
+# OIIEFL_81813 Number of predicted TMRs: 0
+OIIEFL_81813	inside	1	44				
+//
+# OIIEFL_89732 Length: 50
+# OIIEFL_89732 Number of predicted TMRs: 0
+OIIEFL_89732	signal	1	37				
+OIIEFL_89732	outside	38	50				
+//
+# OIIEFL_149433 Length: 38
+# OIIEFL_149433 Number of predicted TMRs: 0
+OIIEFL_149433	signal	1	30				
+OIIEFL_149433	outside	31	38				
+//
+# OIIEFL_117654 Length: 45
+# OIIEFL_117654 Number of predicted TMRs: 0
+OIIEFL_117654	inside	1	45				
+//
+# OIIEFL_140691 Length: 47
+# OIIEFL_140691 Number of predicted TMRs: 0
+OIIEFL_140691	signal	1	21				
+OIIEFL_140691	outside	22	47				
+//
+# OIIEFL_34070 Length: 47
+# OIIEFL_34070 Number of predicted TMRs: 0
+OIIEFL_34070	inside	1	47				
+//
+# OIIEFL_13619 Length: 50
+# OIIEFL_13619 Number of predicted TMRs: 0
+OIIEFL_13619	inside	1	50				
+//
+# OIIEFL_105652 Length: 40
+# OIIEFL_105652 Number of predicted TMRs: 0
+OIIEFL_105652	inside	1	40				
+//
+# OIIEFL_129395 Length: 43
+# OIIEFL_129395 Number of predicted TMRs: 0
+OIIEFL_129395	signal	1	22				
+OIIEFL_129395	outside	23	43				
+//
+# OIIEFL_65193 Length: 44
+# OIIEFL_65193 Number of predicted TMRs: 0
+OIIEFL_65193	inside	1	44				
+//
+# OIIEFL_81489 Length: 40
+# OIIEFL_81489 Number of predicted TMRs: 0
+OIIEFL_81489	inside	1	40				
+//
+# OIIEFL_144955 Length: 47
+# OIIEFL_144955 Number of predicted TMRs: 0
+OIIEFL_144955	inside	1	47				
+//
+# OIIEFL_80214 Length: 49
+# OIIEFL_80214 Number of predicted TMRs: 0
+OIIEFL_80214	signal	1	12				
+OIIEFL_80214	outside	13	49				
+//
+# OIIEFL_8852 Length: 47
+# OIIEFL_8852 Number of predicted TMRs: 0
+OIIEFL_8852	inside	1	47				
+//
+# OIIEFL_132647 Length: 45
+# OIIEFL_132647 Number of predicted TMRs: 0
+OIIEFL_132647	inside	1	45				
+//
+# OIIEFL_74281 Length: 35
+# OIIEFL_74281 Number of predicted TMRs: 0
+OIIEFL_74281	signal	1	34				
+OIIEFL_74281	outside	35	35				
+//
+# OIIEFL_49016 Length: 46
+# OIIEFL_49016 Number of predicted TMRs: 0
+OIIEFL_49016	signal	1	45				
+OIIEFL_49016	outside	46	46				
+//
+# OIIEFL_148599 Length: 47
+# OIIEFL_148599 Number of predicted TMRs: 0
+OIIEFL_148599	signal	1	44				
+OIIEFL_148599	outside	45	47				
+//
+# OIIEFL_19898 Length: 40
+# OIIEFL_19898 Number of predicted TMRs: 0
+OIIEFL_19898	signal	1	39				
+OIIEFL_19898	outside	40	40				
+//
+# OIIEFL_37013 Length: 49
+# OIIEFL_37013 Number of predicted TMRs: 0
+OIIEFL_37013	inside	1	49				
+//
+# OIIEFL_81439 Length: 43
+# OIIEFL_81439 Number of predicted TMRs: 0
+OIIEFL_81439	inside	1	43				
+//
+# OIIEFL_87125 Length: 48
+# OIIEFL_87125 Number of predicted TMRs: 0
+OIIEFL_87125	inside	1	48				
+//
+# OIIEFL_58356 Length: 46
+# OIIEFL_58356 Number of predicted TMRs: 0
+OIIEFL_58356	signal	1	24				
+OIIEFL_58356	outside	25	46				
+//
+# OIIEFL_100599 Length: 34
+# OIIEFL_100599 Number of predicted TMRs: 0
+OIIEFL_100599	signal	1	32				
+OIIEFL_100599	outside	33	34				
+//
+# OIIEFL_43468 Length: 43
+# OIIEFL_43468 Number of predicted TMRs: 0
+OIIEFL_43468	signal	1	31				
+OIIEFL_43468	outside	32	43				
+//
+# OIIEFL_132915 Length: 46
+# OIIEFL_132915 Number of predicted TMRs: 0
+OIIEFL_132915	signal	1	38				
+OIIEFL_132915	outside	39	46				
+//
+# OIIEFL_164792 Length: 47
+# OIIEFL_164792 Number of predicted TMRs: 0
+OIIEFL_164792	signal	1	17				
+OIIEFL_164792	outside	18	47				
+//
+# OIIEFL_163420 Length: 48
+# OIIEFL_163420 Number of predicted TMRs: 0
+OIIEFL_163420	inside	1	48				
+//
+# OIIEFL_148647 Length: 45
+# OIIEFL_148647 Number of predicted TMRs: 0
+OIIEFL_148647	inside	1	45				
+//
+# OIIEFL_163037 Length: 36
+# OIIEFL_163037 Number of predicted TMRs: 0
+OIIEFL_163037	inside	1	36				
+//
+# OIIEFL_163027 Length: 36
+# OIIEFL_163027 Number of predicted TMRs: 0
+OIIEFL_163027	inside	1	36				
+//
+# OIIEFL_42336 Length: 43
+# OIIEFL_42336 Number of predicted TMRs: 0
+OIIEFL_42336	inside	1	43				
+//
+# OIIEFL_105199 Length: 40
+# OIIEFL_105199 Number of predicted TMRs: 0
+OIIEFL_105199	signal	1	35				
+OIIEFL_105199	outside	36	40				
+//
+# OIIEFL_124635 Length: 48
+# OIIEFL_124635 Number of predicted TMRs: 0
+OIIEFL_124635	inside	1	48				
+//
+# OIIEFL_62784 Length: 45
+# OIIEFL_62784 Number of predicted TMRs: 0
+OIIEFL_62784	inside	1	45				
+//
+# OIIEFL_94046 Length: 50
+# OIIEFL_94046 Number of predicted TMRs: 0
+OIIEFL_94046	inside	1	50				
+//
+# OIIEFL_142427 Length: 50
+# OIIEFL_142427 Number of predicted TMRs: 0
+OIIEFL_142427	signal	1	43				
+OIIEFL_142427	outside	44	50				
+//
+# OIIEFL_164574 Length: 46
+# OIIEFL_164574 Number of predicted TMRs: 0
+OIIEFL_164574	inside	1	46				
+//
+# OIIEFL_86832 Length: 43
+# OIIEFL_86832 Number of predicted TMRs: 0
+OIIEFL_86832	inside	1	43				
+//
+# OIIEFL_153985 Length: 41
+# OIIEFL_153985 Number of predicted TMRs: 0
+OIIEFL_153985	signal	1	35				
+OIIEFL_153985	outside	36	41				
+//
+# OIIEFL_147088 Length: 46
+# OIIEFL_147088 Number of predicted TMRs: 0
+OIIEFL_147088	inside	1	46				
+//
+# OIIEFL_108788 Length: 39
+# OIIEFL_108788 Number of predicted TMRs: 0
+OIIEFL_108788	signal	1	38				
+OIIEFL_108788	outside	39	39				
+//
+# OIIEFL_129948 Length: 50
+# OIIEFL_129948 Number of predicted TMRs: 0
+OIIEFL_129948	signal	1	49				
+OIIEFL_129948	outside	50	50				
+//
+# OIIEFL_81349 Length: 47
+# OIIEFL_81349 Number of predicted TMRs: 0
+OIIEFL_81349	inside	1	47				
+//
+# OIIEFL_157512 Length: 47
+# OIIEFL_157512 Number of predicted TMRs: 0
+OIIEFL_157512	inside	1	47				
+//
+# OIIEFL_81487 Length: 39
+# OIIEFL_81487 Number of predicted TMRs: 0
+OIIEFL_81487	inside	1	39				
+//
+# OIIEFL_129413 Length: 42
+# OIIEFL_129413 Number of predicted TMRs: 0
+OIIEFL_129413	signal	1	10				
+OIIEFL_129413	outside	11	42				
+//
+# OIIEFL_73032 Length: 50
+# OIIEFL_73032 Number of predicted TMRs: 0
+OIIEFL_73032	inside	1	50				
+//
+# OIIEFL_155078 Length: 39
+# OIIEFL_155078 Number of predicted TMRs: 0
+OIIEFL_155078	signal	1	38				
+OIIEFL_155078	outside	39	39				
+//
+# OIIEFL_115 Length: 36
+# OIIEFL_115 Number of predicted TMRs: 0
+OIIEFL_115	signal	1	32				
+OIIEFL_115	outside	33	36				
+//
+# OIIEFL_145640 Length: 39
+# OIIEFL_145640 Number of predicted TMRs: 0
+OIIEFL_145640	outside	1	39				
+//
+# OIIEFL_85393 Length: 49
+# OIIEFL_85393 Number of predicted TMRs: 0
+OIIEFL_85393	inside	1	49				
+//
+# OIIEFL_115037 Length: 44
+# OIIEFL_115037 Number of predicted TMRs: 0
+OIIEFL_115037	inside	1	44				
+//
+# OIIEFL_123409 Length: 47
+# OIIEFL_123409 Number of predicted TMRs: 0
+OIIEFL_123409	inside	1	47				
+//
+# OIIEFL_116502 Length: 36
+# OIIEFL_116502 Number of predicted TMRs: 0
+OIIEFL_116502	signal	1	35				
+OIIEFL_116502	outside	36	36				
+//
+# OIIEFL_95004 Length: 40
+# OIIEFL_95004 Number of predicted TMRs: 0
+OIIEFL_95004	signal	1	39				
+OIIEFL_95004	periplasm	40	40				
+//
+# OIIEFL_147461 Length: 50
+# OIIEFL_147461 Number of predicted TMRs: 0
+OIIEFL_147461	inside	1	50				
+//
+# OIIEFL_79991 Length: 36
+# OIIEFL_79991 Number of predicted TMRs: 0
+OIIEFL_79991	signal	1	35				
+OIIEFL_79991	outside	36	36				
+//
+# OIIEFL_23594 Length: 49
+# OIIEFL_23594 Number of predicted TMRs: 1
+OIIEFL_23594	outside	1	9				
+OIIEFL_23594	TMhelix	10	30				
+OIIEFL_23594	inside	31	49				
+//
+# OIIEFL_100646 Length: 41
+# OIIEFL_100646 Number of predicted TMRs: 0
+OIIEFL_100646	inside	1	41				
+//
+# OIIEFL_13907 Length: 48
+# OIIEFL_13907 Number of predicted TMRs: 0
+OIIEFL_13907	inside	1	48				
+//
+# OIIEFL_18966 Length: 48
+# OIIEFL_18966 Number of predicted TMRs: 0
+OIIEFL_18966	inside	1	48				
+//
+# OIIEFL_18034 Length: 43
+# OIIEFL_18034 Number of predicted TMRs: 0
+OIIEFL_18034	signal	1	42				
+OIIEFL_18034	outside	43	43				
+//
+# OIIEFL_121679 Length: 44
+# OIIEFL_121679 Number of predicted TMRs: 0
+OIIEFL_121679	inside	1	44				
+//
+# OIIEFL_112125 Length: 30
+# OIIEFL_112125 Number of predicted TMRs: 0
+OIIEFL_112125	signal	1	29				
+OIIEFL_112125	outside	30	30				
+//
+# OIIEFL_117262 Length: 47
+# OIIEFL_117262 Number of predicted TMRs: 0
+OIIEFL_117262	inside	1	47				
+//
+# OIIEFL_24915 Length: 45
+# OIIEFL_24915 Number of predicted TMRs: 0
+OIIEFL_24915	signal	1	34				
+OIIEFL_24915	outside	35	45				
+//
+# OIIEFL_137781 Length: 41
+# OIIEFL_137781 Number of predicted TMRs: 0
+OIIEFL_137781	signal	1	25				
+OIIEFL_137781	outside	26	41				
+//
+# OIIEFL_24676 Length: 39
+# OIIEFL_24676 Number of predicted TMRs: 0
+OIIEFL_24676	inside	1	39				
+//
+# OIIEFL_120748 Length: 37
+# OIIEFL_120748 Number of predicted TMRs: 0
+OIIEFL_120748	inside	1	37				
+//
+# OIIEFL_117069 Length: 38
+# OIIEFL_117069 Number of predicted TMRs: 0
+OIIEFL_117069	outside	1	38				
+//
+# OIIEFL_78026 Length: 50
+# OIIEFL_78026 Number of predicted TMRs: 0
+OIIEFL_78026	signal	1	43				
+OIIEFL_78026	outside	44	50				
+//
+# OIIEFL_63416 Length: 38
+# OIIEFL_63416 Number of predicted TMRs: 0
+OIIEFL_63416	signal	1	24				
+OIIEFL_63416	outside	25	38				
+//
+# OIIEFL_51046 Length: 50
+# OIIEFL_51046 Number of predicted TMRs: 0
+OIIEFL_51046	signal	1	28				
+OIIEFL_51046	outside	29	50				
+//
+# OIIEFL_145465 Length: 47
+# OIIEFL_145465 Number of predicted TMRs: 0
+OIIEFL_145465	inside	1	47				
+//
+# OIIEFL_133812 Length: 49
+# OIIEFL_133812 Number of predicted TMRs: 0
+OIIEFL_133812	signal	1	11				
+OIIEFL_133812	outside	12	49				
+//
+# OIIEFL_33852 Length: 48
+# OIIEFL_33852 Number of predicted TMRs: 0
+OIIEFL_33852	signal	1	47				
+OIIEFL_33852	outside	48	48				
+//
+# OIIEFL_68722 Length: 38
+# OIIEFL_68722 Number of predicted TMRs: 0
+OIIEFL_68722	signal	1	21				
+OIIEFL_68722	outside	22	38				
+//
+# OIIEFL_10051 Length: 48
+# OIIEFL_10051 Number of predicted TMRs: 0
+OIIEFL_10051	inside	1	48				
+//
+# OIIEFL_23950 Length: 48
+# OIIEFL_23950 Number of predicted TMRs: 0
+OIIEFL_23950	signal	1	20				
+OIIEFL_23950	outside	21	48				
+//
+# OIIEFL_85178 Length: 35
+# OIIEFL_85178 Number of predicted TMRs: 0
+OIIEFL_85178	signal	1	12				
+OIIEFL_85178	outside	13	35				
+//
+# OIIEFL_165943 Length: 50
+# OIIEFL_165943 Number of predicted TMRs: 0
+OIIEFL_165943	inside	1	50				
+//
+# OIIEFL_98633 Length: 33
+# OIIEFL_98633 Number of predicted TMRs: 0
+OIIEFL_98633	inside	1	33				
+//
+# OIIEFL_75648 Length: 48
+# OIIEFL_75648 Number of predicted TMRs: 0
+OIIEFL_75648	signal	1	44				
+OIIEFL_75648	outside	45	48				
+//
+# OIIEFL_5388 Length: 41
+# OIIEFL_5388 Number of predicted TMRs: 0
+OIIEFL_5388	inside	1	41				
+//
+# OIIEFL_139343 Length: 44
+# OIIEFL_139343 Number of predicted TMRs: 0
+OIIEFL_139343	signal	1	42				
+OIIEFL_139343	outside	43	44				
+//
+# OIIEFL_145139 Length: 46
+# OIIEFL_145139 Number of predicted TMRs: 0
+OIIEFL_145139	signal	1	38				
+OIIEFL_145139	outside	39	46				
+//
+# OIIEFL_11346 Length: 45
+# OIIEFL_11346 Number of predicted TMRs: 0
+OIIEFL_11346	signal	1	40				
+OIIEFL_11346	outside	41	45				
+//
+# OIIEFL_153383 Length: 47
+# OIIEFL_153383 Number of predicted TMRs: 0
+OIIEFL_153383	outside	1	47				
+//
+# OIIEFL_115651 Length: 45
+# OIIEFL_115651 Number of predicted TMRs: 0
+OIIEFL_115651	inside	1	45				
+//
+# OIIEFL_33614 Length: 49
+# OIIEFL_33614 Number of predicted TMRs: 0
+OIIEFL_33614	signal	1	17				
+OIIEFL_33614	outside	18	49				
+//
+# OIIEFL_80409 Length: 34
+# OIIEFL_80409 Number of predicted TMRs: 0
+OIIEFL_80409	signal	1	33				
+OIIEFL_80409	outside	34	34				
+//
+# OIIEFL_83222 Length: 39
+# OIIEFL_83222 Number of predicted TMRs: 0
+OIIEFL_83222	signal	1	21				
+OIIEFL_83222	outside	22	39				
+//
+# OIIEFL_49760 Length: 42
+# OIIEFL_49760 Number of predicted TMRs: 0
+OIIEFL_49760	signal	1	39				
+OIIEFL_49760	outside	40	42				
+//
+# OIIEFL_15890 Length: 46
+# OIIEFL_15890 Number of predicted TMRs: 0
+OIIEFL_15890	signal	1	11				
+OIIEFL_15890	outside	12	46				
+//
+# OIIEFL_39855 Length: 49
+# OIIEFL_39855 Number of predicted TMRs: 0
+OIIEFL_39855	inside	1	49				
+//
+# OIIEFL_148893 Length: 50
+# OIIEFL_148893 Number of predicted TMRs: 0
+OIIEFL_148893	inside	1	50				
+//
+# OIIEFL_173621 Length: 43
+# OIIEFL_173621 Number of predicted TMRs: 0
+OIIEFL_173621	signal	1	42				
+OIIEFL_173621	outside	43	43				
+//
+# OIIEFL_32979 Length: 39
+# OIIEFL_32979 Number of predicted TMRs: 0
+OIIEFL_32979	inside	1	39				
+//
+# OIIEFL_18404 Length: 33
+# OIIEFL_18404 Number of predicted TMRs: 0
+OIIEFL_18404	signal	1	31				
+OIIEFL_18404	outside	32	33				
+//
+# OIIEFL_137768 Length: 42
+# OIIEFL_137768 Number of predicted TMRs: 0
+OIIEFL_137768	inside	1	42				
+//
+# OIIEFL_113945 Length: 50
+# OIIEFL_113945 Number of predicted TMRs: 0
+OIIEFL_113945	inside	1	50				
+//
+# OIIEFL_33470 Length: 45
+# OIIEFL_33470 Number of predicted TMRs: 0
+OIIEFL_33470	signal	1	24				
+OIIEFL_33470	outside	25	45				
+//
+# OIIEFL_30745 Length: 49
+# OIIEFL_30745 Number of predicted TMRs: 0
+OIIEFL_30745	signal	1	40				
+OIIEFL_30745	outside	41	49				
+//
+# OIIEFL_37427 Length: 45
+# OIIEFL_37427 Number of predicted TMRs: 0
+OIIEFL_37427	inside	1	45				
+//
+# OIIEFL_46431 Length: 50
+# OIIEFL_46431 Number of predicted TMRs: 0
+OIIEFL_46431	inside	1	50				
+//
+# OIIEFL_37138 Length: 46
+# OIIEFL_37138 Number of predicted TMRs: 0
+OIIEFL_37138	inside	1	46				
+//
+# OIIEFL_163080 Length: 37
+# OIIEFL_163080 Number of predicted TMRs: 0
+OIIEFL_163080	inside	1	37				
+//
+# OIIEFL_147533 Length: 49
+# OIIEFL_147533 Number of predicted TMRs: 0
+OIIEFL_147533	inside	1	49				
+//
+# OIIEFL_2606 Length: 46
+# OIIEFL_2606 Number of predicted TMRs: 0
+OIIEFL_2606	outside	1	46				
+//
+# OIIEFL_20950 Length: 50
+# OIIEFL_20950 Number of predicted TMRs: 0
+OIIEFL_20950	inside	1	50				
+//
+# OIIEFL_3567 Length: 48
+# OIIEFL_3567 Number of predicted TMRs: 0
+OIIEFL_3567	inside	1	48				
+//
+# OIIEFL_75857 Length: 40
+# OIIEFL_75857 Number of predicted TMRs: 0
+OIIEFL_75857	signal	1	34				
+OIIEFL_75857	outside	35	40				
+//
+# OIIEFL_70266 Length: 41
+# OIIEFL_70266 Number of predicted TMRs: 0
+OIIEFL_70266	inside	1	41				
+//
+# OIIEFL_67037 Length: 47
+# OIIEFL_67037 Number of predicted TMRs: 0
+OIIEFL_67037	signal	1	32				
+OIIEFL_67037	outside	33	47				
+//
+# OIIEFL_91736 Length: 36
+# OIIEFL_91736 Number of predicted TMRs: 0
+OIIEFL_91736	signal	1	23				
+OIIEFL_91736	outside	24	36				
+//
+# OIIEFL_116630 Length: 49
+# OIIEFL_116630 Number of predicted TMRs: 0
+OIIEFL_116630	inside	1	49				
+//
+# OIIEFL_64686 Length: 44
+# OIIEFL_64686 Number of predicted TMRs: 0
+OIIEFL_64686	inside	1	44				
+//
+# OIIEFL_147392 Length: 34
+# OIIEFL_147392 Number of predicted TMRs: 0
+OIIEFL_147392	signal	1	26				
+OIIEFL_147392	outside	27	34				
+//
+# OIIEFL_165124 Length: 44
+# OIIEFL_165124 Number of predicted TMRs: 0
+OIIEFL_165124	inside	1	44				
+//
+# OIIEFL_169658 Length: 41
+# OIIEFL_169658 Number of predicted TMRs: 0
+OIIEFL_169658	inside	1	41				
+//
+# OIIEFL_41856 Length: 39
+# OIIEFL_41856 Number of predicted TMRs: 0
+OIIEFL_41856	signal	1	38				
+OIIEFL_41856	outside	39	39				
+//
+# OIIEFL_24473 Length: 44
+# OIIEFL_24473 Number of predicted TMRs: 0
+OIIEFL_24473	inside	1	44				
+//
+# OIIEFL_99014 Length: 46
+# OIIEFL_99014 Number of predicted TMRs: 0
+OIIEFL_99014	signal	1	25				
+OIIEFL_99014	outside	26	46				
+//
+# OIIEFL_88089 Length: 46
+# OIIEFL_88089 Number of predicted TMRs: 0
+OIIEFL_88089	inside	1	46				
+//
+# OIIEFL_37336 Length: 45
+# OIIEFL_37336 Number of predicted TMRs: 0
+OIIEFL_37336	inside	1	45				
+//
+# OIIEFL_144076 Length: 43
+# OIIEFL_144076 Number of predicted TMRs: 0
+OIIEFL_144076	inside	1	43				
+//
+# OIIEFL_38331 Length: 48
+# OIIEFL_38331 Number of predicted TMRs: 0
+OIIEFL_38331	inside	1	48				
+//
+# OIIEFL_170482 Length: 48
+# OIIEFL_170482 Number of predicted TMRs: 0
+OIIEFL_170482	inside	1	48				
+//
+# OIIEFL_169583 Length: 47
+# OIIEFL_169583 Number of predicted TMRs: 0
+OIIEFL_169583	inside	1	47				
+//
+# OIIEFL_129309 Length: 41
+# OIIEFL_129309 Number of predicted TMRs: 0
+OIIEFL_129309	inside	1	41				
+//
+# OIIEFL_117792 Length: 48
+# OIIEFL_117792 Number of predicted TMRs: 0
+OIIEFL_117792	signal	1	46				
+OIIEFL_117792	outside	47	48				
+//
+# OIIEFL_126439 Length: 47
+# OIIEFL_126439 Number of predicted TMRs: 0
+OIIEFL_126439	inside	1	47				
+//
+# OIIEFL_87271 Length: 34
+# OIIEFL_87271 Number of predicted TMRs: 0
+OIIEFL_87271	signal	1	20				
+OIIEFL_87271	outside	21	34				
+//
+# OIIEFL_134498 Length: 46
+# OIIEFL_134498 Number of predicted TMRs: 0
+OIIEFL_134498	signal	1	40				
+OIIEFL_134498	outside	41	46				
+//
+# OIIEFL_168628 Length: 44
+# OIIEFL_168628 Number of predicted TMRs: 0
+OIIEFL_168628	signal	1	34				
+OIIEFL_168628	outside	35	44				
+//
+# OIIEFL_34351 Length: 50
+# OIIEFL_34351 Number of predicted TMRs: 0
+OIIEFL_34351	signal	1	44				
+OIIEFL_34351	outside	45	50				
+//
+# OIIEFL_32461 Length: 50
+# OIIEFL_32461 Number of predicted TMRs: 0
+OIIEFL_32461	inside	1	50				
+//
+# OIIEFL_33196 Length: 41
+# OIIEFL_33196 Number of predicted TMRs: 0
+OIIEFL_33196	signal	1	13				
+OIIEFL_33196	outside	14	41				
+//
+# OIIEFL_165635 Length: 47
+# OIIEFL_165635 Number of predicted TMRs: 0
+OIIEFL_165635	signal	1	30				
+OIIEFL_165635	outside	31	47				
+//
+# OIIEFL_32980 Length: 43
+# OIIEFL_32980 Number of predicted TMRs: 0
+OIIEFL_32980	inside	1	43				
+//
+# OIIEFL_117858 Length: 47
+# OIIEFL_117858 Number of predicted TMRs: 0
+OIIEFL_117858	signal	1	25				
+OIIEFL_117858	outside	26	47				

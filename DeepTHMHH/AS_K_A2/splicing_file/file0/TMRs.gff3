@@ -1,0 +1,4432 @@
+##gff-version 3
+# LCADAF_169975 Length: 49
+# LCADAF_169975 Number of predicted TMRs: 0
+LCADAF_169975	inside	1	49				
+//
+# LCADAF_7281 Length: 43
+# LCADAF_7281 Number of predicted TMRs: 0
+LCADAF_7281	signal	1	10				
+LCADAF_7281	outside	11	43				
+//
+# LCADAF_91510 Length: 49
+# LCADAF_91510 Number of predicted TMRs: 0
+LCADAF_91510	signal	1	45				
+LCADAF_91510	outside	46	49				
+//
+# LCADAF_123513 Length: 44
+# LCADAF_123513 Number of predicted TMRs: 0
+LCADAF_123513	inside	1	44				
+//
+# LCADAF_159006 Length: 47
+# LCADAF_159006 Number of predicted TMRs: 0
+LCADAF_159006	inside	1	47				
+//
+# LCADAF_93425 Length: 44
+# LCADAF_93425 Number of predicted TMRs: 0
+LCADAF_93425	signal	1	43				
+LCADAF_93425	outside	44	44				
+//
+# LCADAF_81066 Length: 44
+# LCADAF_81066 Number of predicted TMRs: 0
+LCADAF_81066	inside	1	44				
+//
+# LCADAF_125521 Length: 46
+# LCADAF_125521 Number of predicted TMRs: 0
+LCADAF_125521	inside	1	46				
+//
+# LCADAF_75972 Length: 38
+# LCADAF_75972 Number of predicted TMRs: 0
+LCADAF_75972	inside	1	38				
+//
+# LCADAF_143872 Length: 45
+# LCADAF_143872 Number of predicted TMRs: 0
+LCADAF_143872	signal	1	39				
+LCADAF_143872	outside	40	45				
+//
+# LCADAF_16912 Length: 49
+# LCADAF_16912 Number of predicted TMRs: 0
+LCADAF_16912	signal	1	45				
+LCADAF_16912	outside	46	49				
+//
+# LCADAF_69279 Length: 50
+# LCADAF_69279 Number of predicted TMRs: 0
+LCADAF_69279	signal	1	44				
+LCADAF_69279	outside	45	50				
+//
+# LCADAF_104019 Length: 49
+# LCADAF_104019 Number of predicted TMRs: 0
+LCADAF_104019	signal	1	20				
+LCADAF_104019	outside	21	49				
+//
+# LCADAF_105072 Length: 42
+# LCADAF_105072 Number of predicted TMRs: 0
+LCADAF_105072	signal	1	12				
+LCADAF_105072	outside	13	42				
+//
+# LCADAF_81903 Length: 47
+# LCADAF_81903 Number of predicted TMRs: 0
+LCADAF_81903	inside	1	47				
+//
+# LCADAF_96294 Length: 45
+# LCADAF_96294 Number of predicted TMRs: 0
+LCADAF_96294	signal	1	10				
+LCADAF_96294	outside	11	45				
+//
+# LCADAF_105561 Length: 43
+# LCADAF_105561 Number of predicted TMRs: 0
+LCADAF_105561	inside	1	43				
+//
+# LCADAF_158472 Length: 46
+# LCADAF_158472 Number of predicted TMRs: 0
+LCADAF_158472	inside	1	46				
+//
+# LCADAF_127648 Length: 38
+# LCADAF_127648 Number of predicted TMRs: 0
+LCADAF_127648	inside	1	38				
+//
+# LCADAF_119175 Length: 47
+# LCADAF_119175 Number of predicted TMRs: 0
+LCADAF_119175	outside	1	47				
+//
+# LCADAF_66378 Length: 45
+# LCADAF_66378 Number of predicted TMRs: 0
+LCADAF_66378	inside	1	45				
+//
+# LCADAF_28208 Length: 38
+# LCADAF_28208 Number of predicted TMRs: 0
+LCADAF_28208	outside	1	38				
+//
+# LCADAF_63330 Length: 49
+# LCADAF_63330 Number of predicted TMRs: 0
+LCADAF_63330	signal	1	19				
+LCADAF_63330	outside	20	49				
+//
+# LCADAF_131367 Length: 38
+# LCADAF_131367 Number of predicted TMRs: 0
+LCADAF_131367	signal	1	37				
+LCADAF_131367	outside	38	38				
+//
+# LCADAF_43537 Length: 47
+# LCADAF_43537 Number of predicted TMRs: 0
+LCADAF_43537	inside	1	47				
+//
+# LCADAF_45179 Length: 44
+# LCADAF_45179 Number of predicted TMRs: 0
+LCADAF_45179	signal	1	40				
+LCADAF_45179	outside	41	44				
+//
+# LCADAF_12703 Length: 47
+# LCADAF_12703 Number of predicted TMRs: 0
+LCADAF_12703	signal	1	14				
+LCADAF_12703	outside	15	47				
+//
+# LCADAF_44134 Length: 43
+# LCADAF_44134 Number of predicted TMRs: 0
+LCADAF_44134	inside	1	43				
+//
+# LCADAF_90686 Length: 50
+# LCADAF_90686 Number of predicted TMRs: 0
+LCADAF_90686	inside	1	50				
+//
+# LCADAF_139923 Length: 49
+# LCADAF_139923 Number of predicted TMRs: 0
+LCADAF_139923	inside	1	49				
+//
+# LCADAF_33527 Length: 44
+# LCADAF_33527 Number of predicted TMRs: 0
+LCADAF_33527	signal	1	40				
+LCADAF_33527	outside	41	44				
+//
+# LCADAF_51302 Length: 46
+# LCADAF_51302 Number of predicted TMRs: 0
+LCADAF_51302	inside	1	46				
+//
+# LCADAF_22609 Length: 50
+# LCADAF_22609 Number of predicted TMRs: 0
+LCADAF_22609	signal	1	30				
+LCADAF_22609	outside	31	50				
+//
+# LCADAF_111306 Length: 42
+# LCADAF_111306 Number of predicted TMRs: 0
+LCADAF_111306	inside	1	42				
+//
+# LCADAF_119187 Length: 43
+# LCADAF_119187 Number of predicted TMRs: 0
+LCADAF_119187	signal	1	26				
+LCADAF_119187	outside	27	43				
+//
+# LCADAF_88663 Length: 44
+# LCADAF_88663 Number of predicted TMRs: 0
+LCADAF_88663	signal	1	43				
+LCADAF_88663	outside	44	44				
+//
+# LCADAF_30766 Length: 40
+# LCADAF_30766 Number of predicted TMRs: 0
+LCADAF_30766	inside	1	40				
+//
+# LCADAF_9094 Length: 47
+# LCADAF_9094 Number of predicted TMRs: 0
+LCADAF_9094	inside	1	47				
+//
+# LCADAF_66440 Length: 35
+# LCADAF_66440 Number of predicted TMRs: 0
+LCADAF_66440	signal	1	16				
+LCADAF_66440	outside	17	35				
+//
+# LCADAF_43592 Length: 49
+# LCADAF_43592 Number of predicted TMRs: 0
+LCADAF_43592	inside	1	49				
+//
+# LCADAF_170631 Length: 43
+# LCADAF_170631 Number of predicted TMRs: 0
+LCADAF_170631	inside	1	43				
+//
+# LCADAF_151249 Length: 43
+# LCADAF_151249 Number of predicted TMRs: 0
+LCADAF_151249	inside	1	43				
+//
+# LCADAF_54451 Length: 48
+# LCADAF_54451 Number of predicted TMRs: 0
+LCADAF_54451	signal	1	45				
+LCADAF_54451	outside	46	48				
+//
+# LCADAF_153306 Length: 49
+# LCADAF_153306 Number of predicted TMRs: 0
+LCADAF_153306	outside	1	49				
+//
+# LCADAF_127448 Length: 44
+# LCADAF_127448 Number of predicted TMRs: 0
+LCADAF_127448	inside	1	44				
+//
+# LCADAF_139779 Length: 32
+# LCADAF_139779 Number of predicted TMRs: 0
+LCADAF_139779	signal	1	12				
+LCADAF_139779	outside	13	32				
+//
+# LCADAF_141186 Length: 33
+# LCADAF_141186 Number of predicted TMRs: 0
+LCADAF_141186	signal	1	12				
+LCADAF_141186	outside	13	33				
+//
+# LCADAF_141520 Length: 43
+# LCADAF_141520 Number of predicted TMRs: 0
+LCADAF_141520	signal	1	12				
+LCADAF_141520	outside	13	43				
+//
+# LCADAF_141194 Length: 43
+# LCADAF_141194 Number of predicted TMRs: 0
+LCADAF_141194	signal	1	12				
+LCADAF_141194	outside	13	43				
+//
+# LCADAF_171990 Length: 43
+# LCADAF_171990 Number of predicted TMRs: 0
+LCADAF_171990	inside	1	43				
+//
+# LCADAF_164975 Length: 44
+# LCADAF_164975 Number of predicted TMRs: 0
+LCADAF_164975	signal	1	43				
+LCADAF_164975	outside	44	44				
+//
+# LCADAF_84474 Length: 45
+# LCADAF_84474 Number of predicted TMRs: 0
+LCADAF_84474	inside	1	45				
+//
+# LCADAF_43640 Length: 38
+# LCADAF_43640 Number of predicted TMRs: 0
+LCADAF_43640	signal	1	14				
+LCADAF_43640	outside	15	38				
+//
+# LCADAF_55510 Length: 47
+# LCADAF_55510 Number of predicted TMRs: 0
+LCADAF_55510	inside	1	47				
+//
+# LCADAF_85107 Length: 49
+# LCADAF_85107 Number of predicted TMRs: 0
+LCADAF_85107	inside	1	49				
+//
+# LCADAF_116097 Length: 50
+# LCADAF_116097 Number of predicted TMRs: 0
+LCADAF_116097	signal	1	11				
+LCADAF_116097	outside	12	50				
+//
+# LCADAF_14729 Length: 46
+# LCADAF_14729 Number of predicted TMRs: 0
+LCADAF_14729	inside	1	46				
+//
+# LCADAF_145896 Length: 42
+# LCADAF_145896 Number of predicted TMRs: 0
+LCADAF_145896	inside	1	42				
+//
+# LCADAF_124213 Length: 47
+# LCADAF_124213 Number of predicted TMRs: 0
+LCADAF_124213	signal	1	10				
+LCADAF_124213	outside	11	47				
+//
+# LCADAF_93951 Length: 50
+# LCADAF_93951 Number of predicted TMRs: 0
+LCADAF_93951	inside	1	50				
+//
+# LCADAF_86654 Length: 47
+# LCADAF_86654 Number of predicted TMRs: 0
+LCADAF_86654	inside	1	47				
+//
+# LCADAF_133086 Length: 47
+# LCADAF_133086 Number of predicted TMRs: 0
+LCADAF_133086	inside	1	47				
+//
+# LCADAF_2237 Length: 48
+# LCADAF_2237 Number of predicted TMRs: 0
+LCADAF_2237	inside	1	48				
+//
+# LCADAF_93666 Length: 42
+# LCADAF_93666 Number of predicted TMRs: 0
+LCADAF_93666	inside	1	42				
+//
+# LCADAF_13169 Length: 41
+# LCADAF_13169 Number of predicted TMRs: 0
+LCADAF_13169	signal	1	10				
+LCADAF_13169	outside	11	41				
+//
+# LCADAF_70069 Length: 45
+# LCADAF_70069 Number of predicted TMRs: 0
+LCADAF_70069	inside	1	45				
+//
+# LCADAF_36664 Length: 47
+# LCADAF_36664 Number of predicted TMRs: 0
+LCADAF_36664	outside	1	47				
+//
+# LCADAF_76035 Length: 42
+# LCADAF_76035 Number of predicted TMRs: 0
+LCADAF_76035	inside	1	42				
+//
+# LCADAF_105531 Length: 44
+# LCADAF_105531 Number of predicted TMRs: 0
+LCADAF_105531	inside	1	44				
+//
+# LCADAF_86290 Length: 46
+# LCADAF_86290 Number of predicted TMRs: 0
+LCADAF_86290	signal	1	29				
+LCADAF_86290	outside	30	46				
+//
+# LCADAF_75100 Length: 47
+# LCADAF_75100 Number of predicted TMRs: 0
+LCADAF_75100	inside	1	47				
+//
+# LCADAF_157514 Length: 47
+# LCADAF_157514 Number of predicted TMRs: 0
+LCADAF_157514	outside	1	47				
+//
+# LCADAF_145032 Length: 38
+# LCADAF_145032 Number of predicted TMRs: 0
+LCADAF_145032	inside	1	38				
+//
+# LCADAF_163571 Length: 43
+# LCADAF_163571 Number of predicted TMRs: 0
+LCADAF_163571	inside	1	43				
+//
+# LCADAF_117499 Length: 42
+# LCADAF_117499 Number of predicted TMRs: 0
+LCADAF_117499	signal	1	23				
+LCADAF_117499	outside	24	42				
+//
+# LCADAF_10905 Length: 45
+# LCADAF_10905 Number of predicted TMRs: 0
+LCADAF_10905	signal	1	21				
+LCADAF_10905	outside	22	45				
+//
+# LCADAF_59855 Length: 48
+# LCADAF_59855 Number of predicted TMRs: 0
+LCADAF_59855	inside	1	48				
+//
+# LCADAF_98603 Length: 44
+# LCADAF_98603 Number of predicted TMRs: 0
+LCADAF_98603	signal	1	41				
+LCADAF_98603	outside	42	44				
+//
+# LCADAF_166508 Length: 46
+# LCADAF_166508 Number of predicted TMRs: 0
+LCADAF_166508	signal	1	37				
+LCADAF_166508	outside	38	46				
+//
+# LCADAF_102597 Length: 36
+# LCADAF_102597 Number of predicted TMRs: 0
+LCADAF_102597	signal	1	34				
+LCADAF_102597	outside	35	36				
+//
+# LCADAF_2639 Length: 49
+# LCADAF_2639 Number of predicted TMRs: 0
+LCADAF_2639	signal	1	48				
+LCADAF_2639	outside	49	49				
+//
+# LCADAF_71557 Length: 49
+# LCADAF_71557 Number of predicted TMRs: 0
+LCADAF_71557	inside	1	49				
+//
+# LCADAF_6504 Length: 50
+# LCADAF_6504 Number of predicted TMRs: 0
+LCADAF_6504	inside	1	50				
+//
+# LCADAF_34730 Length: 48
+# LCADAF_34730 Number of predicted TMRs: 0
+LCADAF_34730	signal	1	47				
+LCADAF_34730	outside	48	48				
+//
+# LCADAF_117684 Length: 50
+# LCADAF_117684 Number of predicted TMRs: 0
+LCADAF_117684	outside	1	50				
+//
+# LCADAF_9376 Length: 42
+# LCADAF_9376 Number of predicted TMRs: 0
+LCADAF_9376	inside	1	42				
+//
+# LCADAF_147024 Length: 37
+# LCADAF_147024 Number of predicted TMRs: 0
+LCADAF_147024	inside	1	37				
+//
+# LCADAF_28594 Length: 39
+# LCADAF_28594 Number of predicted TMRs: 0
+LCADAF_28594	signal	1	38				
+LCADAF_28594	outside	39	39				
+//
+# LCADAF_171013 Length: 50
+# LCADAF_171013 Number of predicted TMRs: 0
+LCADAF_171013	inside	1	50				
+//
+# LCADAF_66390 Length: 39
+# LCADAF_66390 Number of predicted TMRs: 0
+LCADAF_66390	inside	1	39				
+//
+# LCADAF_136063 Length: 50
+# LCADAF_136063 Number of predicted TMRs: 0
+LCADAF_136063	inside	1	50				
+//
+# LCADAF_164023 Length: 42
+# LCADAF_164023 Number of predicted TMRs: 0
+LCADAF_164023	inside	1	42				
+//
+# LCADAF_91129 Length: 46
+# LCADAF_91129 Number of predicted TMRs: 0
+LCADAF_91129	signal	1	37				
+LCADAF_91129	outside	38	46				
+//
+# LCADAF_95784 Length: 33
+# LCADAF_95784 Number of predicted TMRs: 0
+LCADAF_95784	signal	1	32				
+LCADAF_95784	outside	33	33				
+//
+# LCADAF_44268 Length: 47
+# LCADAF_44268 Number of predicted TMRs: 0
+LCADAF_44268	signal	1	32				
+LCADAF_44268	outside	33	47				
+//
+# LCADAF_77883 Length: 45
+# LCADAF_77883 Number of predicted TMRs: 0
+LCADAF_77883	signal	1	17				
+LCADAF_77883	outside	18	45				
+//
+# LCADAF_102260 Length: 45
+# LCADAF_102260 Number of predicted TMRs: 0
+LCADAF_102260	inside	1	45				
+//
+# LCADAF_145595 Length: 40
+# LCADAF_145595 Number of predicted TMRs: 0
+LCADAF_145595	inside	1	40				
+//
+# LCADAF_99818 Length: 39
+# LCADAF_99818 Number of predicted TMRs: 0
+LCADAF_99818	signal	1	35				
+LCADAF_99818	outside	36	39				
+//
+# LCADAF_19462 Length: 44
+# LCADAF_19462 Number of predicted TMRs: 0
+LCADAF_19462	inside	1	44				
+//
+# LCADAF_11837 Length: 46
+# LCADAF_11837 Number of predicted TMRs: 0
+LCADAF_11837	inside	1	46				
+//
+# LCADAF_25887 Length: 50
+# LCADAF_25887 Number of predicted TMRs: 0
+LCADAF_25887	inside	1	50				
+//
+# LCADAF_134784 Length: 39
+# LCADAF_134784 Number of predicted TMRs: 0
+LCADAF_134784	inside	1	39				
+//
+# LCADAF_61044 Length: 38
+# LCADAF_61044 Number of predicted TMRs: 0
+LCADAF_61044	signal	1	35				
+LCADAF_61044	outside	36	38				
+//
+# LCADAF_76200 Length: 37
+# LCADAF_76200 Number of predicted TMRs: 0
+LCADAF_76200	signal	1	34				
+LCADAF_76200	outside	35	37				
+//
+# LCADAF_77218 Length: 46
+# LCADAF_77218 Number of predicted TMRs: 0
+LCADAF_77218	signal	1	42				
+LCADAF_77218	outside	43	46				
+//
+# LCADAF_16281 Length: 46
+# LCADAF_16281 Number of predicted TMRs: 0
+LCADAF_16281	signal	1	39				
+LCADAF_16281	outside	40	46				
+//
+# LCADAF_79084 Length: 49
+# LCADAF_79084 Number of predicted TMRs: 0
+LCADAF_79084	outside	1	49				
+//
+# LCADAF_32795 Length: 46
+# LCADAF_32795 Number of predicted TMRs: 0
+LCADAF_32795	inside	1	46				
+//
+# LCADAF_166170 Length: 48
+# LCADAF_166170 Number of predicted TMRs: 0
+LCADAF_166170	signal	1	44				
+LCADAF_166170	outside	45	48				
+//
+# LCADAF_69211 Length: 50
+# LCADAF_69211 Number of predicted TMRs: 0
+LCADAF_69211	inside	1	50				
+//
+# LCADAF_66407 Length: 40
+# LCADAF_66407 Number of predicted TMRs: 0
+LCADAF_66407	signal	1	20				
+LCADAF_66407	outside	21	40				
+//
+# LCADAF_63531 Length: 29
+# LCADAF_63531 Number of predicted TMRs: 0
+LCADAF_63531	inside	1	29				
+//
+# LCADAF_104664 Length: 31
+# LCADAF_104664 Number of predicted TMRs: 0
+LCADAF_104664	inside	1	31				
+//
+# LCADAF_40662 Length: 50
+# LCADAF_40662 Number of predicted TMRs: 0
+LCADAF_40662	inside	1	50				
+//
+# LCADAF_2875 Length: 40
+# LCADAF_2875 Number of predicted TMRs: 0
+LCADAF_2875	inside	1	40				
+//
+# LCADAF_169497 Length: 40
+# LCADAF_169497 Number of predicted TMRs: 0
+LCADAF_169497	signal	1	21				
+LCADAF_169497	outside	22	40				
+//
+# LCADAF_76249 Length: 49
+# LCADAF_76249 Number of predicted TMRs: 0
+LCADAF_76249	inside	1	49				
+//
+# LCADAF_125983 Length: 42
+# LCADAF_125983 Number of predicted TMRs: 0
+LCADAF_125983	signal	1	25				
+LCADAF_125983	outside	26	42				
+//
+# LCADAF_20081 Length: 49
+# LCADAF_20081 Number of predicted TMRs: 0
+LCADAF_20081	inside	1	49				
+//
+# LCADAF_84974 Length: 44
+# LCADAF_84974 Number of predicted TMRs: 0
+LCADAF_84974	signal	1	43				
+LCADAF_84974	outside	44	44				
+//
+# LCADAF_65350 Length: 50
+# LCADAF_65350 Number of predicted TMRs: 0
+LCADAF_65350	signal	1	33				
+LCADAF_65350	outside	34	50				
+//
+# LCADAF_112152 Length: 35
+# LCADAF_112152 Number of predicted TMRs: 0
+LCADAF_112152	signal	1	11				
+LCADAF_112152	outside	12	35				
+//
+# LCADAF_9122 Length: 44
+# LCADAF_9122 Number of predicted TMRs: 0
+LCADAF_9122	signal	1	40				
+LCADAF_9122	outside	41	44				
+//
+# LCADAF_78628 Length: 43
+# LCADAF_78628 Number of predicted TMRs: 0
+LCADAF_78628	inside	1	43				
+//
+# LCADAF_27071 Length: 48
+# LCADAF_27071 Number of predicted TMRs: 0
+LCADAF_27071	inside	1	48				
+//
+# LCADAF_165872 Length: 46
+# LCADAF_165872 Number of predicted TMRs: 0
+LCADAF_165872	signal	1	45				
+LCADAF_165872	outside	46	46				
+//
+# LCADAF_101696 Length: 50
+# LCADAF_101696 Number of predicted TMRs: 0
+LCADAF_101696	inside	1	50				
+//
+# LCADAF_56566 Length: 36
+# LCADAF_56566 Number of predicted TMRs: 0
+LCADAF_56566	signal	1	24				
+LCADAF_56566	outside	25	36				
+//
+# LCADAF_107197 Length: 50
+# LCADAF_107197 Number of predicted TMRs: 0
+LCADAF_107197	outside	1	50				
+//
+# LCADAF_68688 Length: 50
+# LCADAF_68688 Number of predicted TMRs: 0
+LCADAF_68688	inside	1	50				
+//
+# LCADAF_146339 Length: 49
+# LCADAF_146339 Number of predicted TMRs: 0
+LCADAF_146339	inside	1	49				
+//
+# LCADAF_73023 Length: 46
+# LCADAF_73023 Number of predicted TMRs: 0
+LCADAF_73023	inside	1	46				
+//
+# LCADAF_102250 Length: 37
+# LCADAF_102250 Number of predicted TMRs: 0
+LCADAF_102250	signal	1	26				
+LCADAF_102250	outside	27	37				
+//
+# LCADAF_72940 Length: 36
+# LCADAF_72940 Number of predicted TMRs: 0
+LCADAF_72940	inside	1	36				
+//
+# LCADAF_107492 Length: 48
+# LCADAF_107492 Number of predicted TMRs: 0
+LCADAF_107492	inside	1	48				
+//
+# LCADAF_10000 Length: 47
+# LCADAF_10000 Number of predicted TMRs: 0
+LCADAF_10000	outside	1	47				
+//
+# LCADAF_27472 Length: 49
+# LCADAF_27472 Number of predicted TMRs: 0
+LCADAF_27472	signal	1	44				
+LCADAF_27472	outside	45	49				
+//
+# LCADAF_75224 Length: 48
+# LCADAF_75224 Number of predicted TMRs: 0
+LCADAF_75224	inside	1	48				
+//
+# LCADAF_78394 Length: 50
+# LCADAF_78394 Number of predicted TMRs: 0
+LCADAF_78394	inside	1	50				
+//
+# LCADAF_106185 Length: 47
+# LCADAF_106185 Number of predicted TMRs: 0
+LCADAF_106185	signal	1	44				
+LCADAF_106185	outside	45	47				
+//
+# LCADAF_13431 Length: 50
+# LCADAF_13431 Number of predicted TMRs: 0
+LCADAF_13431	inside	1	50				
+//
+# LCADAF_145452 Length: 42
+# LCADAF_145452 Number of predicted TMRs: 0
+LCADAF_145452	signal	1	40				
+LCADAF_145452	outside	41	42				
+//
+# LCADAF_125024 Length: 43
+# LCADAF_125024 Number of predicted TMRs: 0
+LCADAF_125024	signal	1	10				
+LCADAF_125024	outside	11	43				
+//
+# LCADAF_77484 Length: 33
+# LCADAF_77484 Number of predicted TMRs: 0
+LCADAF_77484	inside	1	33				
+//
+# LCADAF_67590 Length: 42
+# LCADAF_67590 Number of predicted TMRs: 0
+LCADAF_67590	signal	1	28				
+LCADAF_67590	outside	29	42				
+//
+# LCADAF_85816 Length: 38
+# LCADAF_85816 Number of predicted TMRs: 0
+LCADAF_85816	signal	1	22				
+LCADAF_85816	outside	23	38				
+//
+# LCADAF_143004 Length: 43
+# LCADAF_143004 Number of predicted TMRs: 0
+LCADAF_143004	signal	1	32				
+LCADAF_143004	outside	33	43				
+//
+# LCADAF_6943 Length: 47
+# LCADAF_6943 Number of predicted TMRs: 0
+LCADAF_6943	signal	1	10				
+LCADAF_6943	outside	11	47				
+//
+# LCADAF_3708 Length: 48
+# LCADAF_3708 Number of predicted TMRs: 0
+LCADAF_3708	inside	1	48				
+//
+# LCADAF_156738 Length: 50
+# LCADAF_156738 Number of predicted TMRs: 0
+LCADAF_156738	inside	1	50				
+//
+# LCADAF_147984 Length: 41
+# LCADAF_147984 Number of predicted TMRs: 0
+LCADAF_147984	inside	1	41				
+//
+# LCADAF_85397 Length: 40
+# LCADAF_85397 Number of predicted TMRs: 0
+LCADAF_85397	signal	1	35				
+LCADAF_85397	outside	36	40				
+//
+# LCADAF_11307 Length: 49
+# LCADAF_11307 Number of predicted TMRs: 0
+LCADAF_11307	inside	1	49				
+//
+# LCADAF_67145 Length: 49
+# LCADAF_67145 Number of predicted TMRs: 0
+LCADAF_67145	inside	1	49				
+//
+# LCADAF_90459 Length: 49
+# LCADAF_90459 Number of predicted TMRs: 0
+LCADAF_90459	signal	1	35				
+LCADAF_90459	outside	36	49				
+//
+# LCADAF_117676 Length: 41
+# LCADAF_117676 Number of predicted TMRs: 0
+LCADAF_117676	inside	1	41				
+//
+# LCADAF_135774 Length: 42
+# LCADAF_135774 Number of predicted TMRs: 0
+LCADAF_135774	signal	1	35				
+LCADAF_135774	outside	36	42				
+//
+# LCADAF_63268 Length: 43
+# LCADAF_63268 Number of predicted TMRs: 0
+LCADAF_63268	inside	1	43				
+//
+# LCADAF_73480 Length: 50
+# LCADAF_73480 Number of predicted TMRs: 0
+LCADAF_73480	inside	1	50				
+//
+# LCADAF_63739 Length: 42
+# LCADAF_63739 Number of predicted TMRs: 0
+LCADAF_63739	inside	1	42				
+//
+# LCADAF_90144 Length: 44
+# LCADAF_90144 Number of predicted TMRs: 0
+LCADAF_90144	inside	1	44				
+//
+# LCADAF_19271 Length: 47
+# LCADAF_19271 Number of predicted TMRs: 0
+LCADAF_19271	inside	1	47				
+//
+# LCADAF_128776 Length: 48
+# LCADAF_128776 Number of predicted TMRs: 0
+LCADAF_128776	signal	1	10				
+LCADAF_128776	outside	11	48				
+//
+# LCADAF_17775 Length: 39
+# LCADAF_17775 Number of predicted TMRs: 0
+LCADAF_17775	inside	1	39				
+//
+# LCADAF_72253 Length: 42
+# LCADAF_72253 Number of predicted TMRs: 0
+LCADAF_72253	signal	1	10				
+LCADAF_72253	outside	11	42				
+//
+# LCADAF_127880 Length: 47
+# LCADAF_127880 Number of predicted TMRs: 0
+LCADAF_127880	signal	1	46				
+LCADAF_127880	outside	47	47				
+//
+# LCADAF_14634 Length: 46
+# LCADAF_14634 Number of predicted TMRs: 0
+LCADAF_14634	inside	1	46				
+//
+# LCADAF_88427 Length: 45
+# LCADAF_88427 Number of predicted TMRs: 0
+LCADAF_88427	outside	1	45				
+//
+# LCADAF_106162 Length: 41
+# LCADAF_106162 Number of predicted TMRs: 0
+LCADAF_106162	inside	1	41				
+//
+# LCADAF_85977 Length: 43
+# LCADAF_85977 Number of predicted TMRs: 0
+LCADAF_85977	inside	1	43				
+//
+# LCADAF_24270 Length: 43
+# LCADAF_24270 Number of predicted TMRs: 0
+LCADAF_24270	signal	1	39				
+LCADAF_24270	outside	40	43				
+//
+# LCADAF_145225 Length: 50
+# LCADAF_145225 Number of predicted TMRs: 0
+LCADAF_145225	signal	1	34				
+LCADAF_145225	outside	35	50				
+//
+# LCADAF_111146 Length: 45
+# LCADAF_111146 Number of predicted TMRs: 0
+LCADAF_111146	inside	1	45				
+//
+# LCADAF_166550 Length: 46
+# LCADAF_166550 Number of predicted TMRs: 0
+LCADAF_166550	signal	1	44				
+LCADAF_166550	outside	45	46				
+//
+# LCADAF_123019 Length: 49
+# LCADAF_123019 Number of predicted TMRs: 0
+LCADAF_123019	inside	1	49				
+//
+# LCADAF_107452 Length: 50
+# LCADAF_107452 Number of predicted TMRs: 0
+LCADAF_107452	inside	1	50				
+//
+# LCADAF_87549 Length: 48
+# LCADAF_87549 Number of predicted TMRs: 0
+LCADAF_87549	inside	1	48				
+//
+# LCADAF_79633 Length: 47
+# LCADAF_79633 Number of predicted TMRs: 0
+LCADAF_79633	inside	1	47				
+//
+# LCADAF_22214 Length: 38
+# LCADAF_22214 Number of predicted TMRs: 0
+LCADAF_22214	signal	1	36				
+LCADAF_22214	outside	37	38				
+//
+# LCADAF_172667 Length: 48
+# LCADAF_172667 Number of predicted TMRs: 0
+LCADAF_172667	inside	1	48				
+//
+# LCADAF_8038 Length: 42
+# LCADAF_8038 Number of predicted TMRs: 0
+LCADAF_8038	inside	1	42				
+//
+# LCADAF_120561 Length: 48
+# LCADAF_120561 Number of predicted TMRs: 0
+LCADAF_120561	inside	1	48				
+//
+# LCADAF_61135 Length: 48
+# LCADAF_61135 Number of predicted TMRs: 0
+LCADAF_61135	inside	1	48				
+//
+# LCADAF_12044 Length: 48
+# LCADAF_12044 Number of predicted TMRs: 0
+LCADAF_12044	signal	1	17				
+LCADAF_12044	outside	18	48				
+//
+# LCADAF_47170 Length: 42
+# LCADAF_47170 Number of predicted TMRs: 0
+LCADAF_47170	inside	1	42				
+//
+# LCADAF_172305 Length: 50
+# LCADAF_172305 Number of predicted TMRs: 0
+LCADAF_172305	signal	1	10				
+LCADAF_172305	outside	11	50				
+//
+# LCADAF_55901 Length: 37
+# LCADAF_55901 Number of predicted TMRs: 0
+LCADAF_55901	signal	1	34				
+LCADAF_55901	outside	35	37				
+//
+# LCADAF_41628 Length: 49
+# LCADAF_41628 Number of predicted TMRs: 0
+LCADAF_41628	inside	1	49				
+//
+# LCADAF_110861 Length: 46
+# LCADAF_110861 Number of predicted TMRs: 0
+LCADAF_110861	inside	1	46				
+//
+# LCADAF_138719 Length: 49
+# LCADAF_138719 Number of predicted TMRs: 0
+LCADAF_138719	inside	1	49				
+//
+# LCADAF_82810 Length: 37
+# LCADAF_82810 Number of predicted TMRs: 0
+LCADAF_82810	inside	1	37				
+//
+# LCADAF_22709 Length: 37
+# LCADAF_22709 Number of predicted TMRs: 0
+LCADAF_22709	signal	1	29				
+LCADAF_22709	outside	30	37				
+//
+# LCADAF_80637 Length: 50
+# LCADAF_80637 Number of predicted TMRs: 0
+LCADAF_80637	signal	1	41				
+LCADAF_80637	outside	42	50				
+//
+# LCADAF_14981 Length: 42
+# LCADAF_14981 Number of predicted TMRs: 0
+LCADAF_14981	inside	1	42				
+//
+# LCADAF_39732 Length: 45
+# LCADAF_39732 Number of predicted TMRs: 0
+LCADAF_39732	inside	1	45				
+//
+# LCADAF_9392 Length: 45
+# LCADAF_9392 Number of predicted TMRs: 0
+LCADAF_9392	signal	1	44				
+LCADAF_9392	outside	45	45				
+//
+# LCADAF_29691 Length: 45
+# LCADAF_29691 Number of predicted TMRs: 0
+LCADAF_29691	signal	1	44				
+LCADAF_29691	outside	45	45				
+//
+# LCADAF_80959 Length: 46
+# LCADAF_80959 Number of predicted TMRs: 0
+LCADAF_80959	signal	1	45				
+LCADAF_80959	outside	46	46				
+//
+# LCADAF_134353 Length: 48
+# LCADAF_134353 Number of predicted TMRs: 0
+LCADAF_134353	inside	1	48				
+//
+# LCADAF_83657 Length: 41
+# LCADAF_83657 Number of predicted TMRs: 0
+LCADAF_83657	signal	1	40				
+LCADAF_83657	outside	41	41				
+//
+# LCADAF_164403 Length: 46
+# LCADAF_164403 Number of predicted TMRs: 0
+LCADAF_164403	signal	1	45				
+LCADAF_164403	outside	46	46				
+//
+# LCADAF_83897 Length: 47
+# LCADAF_83897 Number of predicted TMRs: 0
+LCADAF_83897	signal	1	46				
+LCADAF_83897	outside	47	47				
+//
+# LCADAF_151057 Length: 48
+# LCADAF_151057 Number of predicted TMRs: 0
+LCADAF_151057	signal	1	14				
+LCADAF_151057	outside	15	48				
+//
+# LCADAF_28014 Length: 45
+# LCADAF_28014 Number of predicted TMRs: 0
+LCADAF_28014	signal	1	43				
+LCADAF_28014	outside	44	45				
+//
+# LCADAF_123520 Length: 48
+# LCADAF_123520 Number of predicted TMRs: 0
+LCADAF_123520	inside	1	48				
+//
+# LCADAF_29095 Length: 49
+# LCADAF_29095 Number of predicted TMRs: 0
+LCADAF_29095	inside	1	49				
+//
+# LCADAF_43963 Length: 42
+# LCADAF_43963 Number of predicted TMRs: 0
+LCADAF_43963	inside	1	42				
+//
+# LCADAF_17948 Length: 44
+# LCADAF_17948 Number of predicted TMRs: 0
+LCADAF_17948	inside	1	44				
+//
+# LCADAF_136518 Length: 37
+# LCADAF_136518 Number of predicted TMRs: 0
+LCADAF_136518	inside	1	37				
+//
+# LCADAF_170294 Length: 47
+# LCADAF_170294 Number of predicted TMRs: 0
+LCADAF_170294	inside	1	47				
+//
+# LCADAF_23799 Length: 48
+# LCADAF_23799 Number of predicted TMRs: 0
+LCADAF_23799	inside	1	48				
+//
+# LCADAF_24603 Length: 45
+# LCADAF_24603 Number of predicted TMRs: 0
+LCADAF_24603	inside	1	45				
+//
+# LCADAF_108385 Length: 38
+# LCADAF_108385 Number of predicted TMRs: 0
+LCADAF_108385	signal	1	37				
+LCADAF_108385	outside	38	38				
+//
+# LCADAF_86376 Length: 40
+# LCADAF_86376 Number of predicted TMRs: 0
+LCADAF_86376	signal	1	18				
+LCADAF_86376	outside	19	40				
+//
+# LCADAF_36758 Length: 42
+# LCADAF_36758 Number of predicted TMRs: 0
+LCADAF_36758	inside	1	42				
+//
+# LCADAF_59863 Length: 49
+# LCADAF_59863 Number of predicted TMRs: 0
+LCADAF_59863	inside	1	49				
+//
+# LCADAF_46370 Length: 50
+# LCADAF_46370 Number of predicted TMRs: 0
+LCADAF_46370	inside	1	50				
+//
+# LCADAF_119741 Length: 49
+# LCADAF_119741 Number of predicted TMRs: 0
+LCADAF_119741	inside	1	49				
+//
+# LCADAF_133197 Length: 46
+# LCADAF_133197 Number of predicted TMRs: 0
+LCADAF_133197	inside	1	46				
+//
+# LCADAF_63142 Length: 50
+# LCADAF_63142 Number of predicted TMRs: 0
+LCADAF_63142	inside	1	50				
+//
+# LCADAF_43552 Length: 47
+# LCADAF_43552 Number of predicted TMRs: 0
+LCADAF_43552	signal	1	45				
+LCADAF_43552	outside	46	47				
+//
+# LCADAF_75031 Length: 32
+# LCADAF_75031 Number of predicted TMRs: 0
+LCADAF_75031	inside	1	32				
+//
+# LCADAF_137661 Length: 50
+# LCADAF_137661 Number of predicted TMRs: 0
+LCADAF_137661	inside	1	50				
+//
+# LCADAF_132821 Length: 47
+# LCADAF_132821 Number of predicted TMRs: 0
+LCADAF_132821	inside	1	47				
+//
+# LCADAF_67870 Length: 46
+# LCADAF_67870 Number of predicted TMRs: 0
+LCADAF_67870	signal	1	45				
+LCADAF_67870	outside	46	46				
+//
+# LCADAF_164826 Length: 42
+# LCADAF_164826 Number of predicted TMRs: 0
+LCADAF_164826	signal	1	40				
+LCADAF_164826	outside	41	42				
+//
+# LCADAF_22792 Length: 49
+# LCADAF_22792 Number of predicted TMRs: 0
+LCADAF_22792	inside	1	49				
+//
+# LCADAF_51529 Length: 41
+# LCADAF_51529 Number of predicted TMRs: 0
+LCADAF_51529	inside	1	41				
+//
+# LCADAF_56879 Length: 45
+# LCADAF_56879 Number of predicted TMRs: 0
+LCADAF_56879	inside	1	45				
+//
+# LCADAF_137228 Length: 50
+# LCADAF_137228 Number of predicted TMRs: 0
+LCADAF_137228	inside	1	50				
+//
+# LCADAF_173715 Length: 50
+# LCADAF_173715 Number of predicted TMRs: 0
+LCADAF_173715	inside	1	50				
+//
+# LCADAF_138368 Length: 50
+# LCADAF_138368 Number of predicted TMRs: 0
+LCADAF_138368	signal	1	47				
+LCADAF_138368	outside	48	50				
+//
+# LCADAF_171361 Length: 44
+# LCADAF_171361 Number of predicted TMRs: 0
+LCADAF_171361	signal	1	29				
+LCADAF_171361	outside	30	44				
+//
+# LCADAF_49971 Length: 40
+# LCADAF_49971 Number of predicted TMRs: 0
+LCADAF_49971	inside	1	40				
+//
+# LCADAF_56880 Length: 42
+# LCADAF_56880 Number of predicted TMRs: 0
+LCADAF_56880	signal	1	41				
+LCADAF_56880	outside	42	42				
+//
+# LCADAF_43520 Length: 50
+# LCADAF_43520 Number of predicted TMRs: 0
+LCADAF_43520	inside	1	50				
+//
+# LCADAF_158086 Length: 48
+# LCADAF_158086 Number of predicted TMRs: 0
+LCADAF_158086	inside	1	48				
+//
+# LCADAF_75618 Length: 47
+# LCADAF_75618 Number of predicted TMRs: 0
+LCADAF_75618	outside	1	47				
+//
+# LCADAF_4083 Length: 44
+# LCADAF_4083 Number of predicted TMRs: 0
+LCADAF_4083	inside	1	44				
+//
+# LCADAF_12261 Length: 50
+# LCADAF_12261 Number of predicted TMRs: 0
+LCADAF_12261	inside	1	50				
+//
+# LCADAF_123410 Length: 50
+# LCADAF_123410 Number of predicted TMRs: 0
+LCADAF_123410	inside	1	50				
+//
+# LCADAF_17774 Length: 49
+# LCADAF_17774 Number of predicted TMRs: 0
+LCADAF_17774	inside	1	49				
+//
+# LCADAF_25179 Length: 38
+# LCADAF_25179 Number of predicted TMRs: 0
+LCADAF_25179	signal	1	27				
+LCADAF_25179	outside	28	38				
+//
+# LCADAF_102045 Length: 43
+# LCADAF_102045 Number of predicted TMRs: 0
+LCADAF_102045	inside	1	43				
+//
+# LCADAF_65453 Length: 44
+# LCADAF_65453 Number of predicted TMRs: 0
+LCADAF_65453	signal	1	37				
+LCADAF_65453	outside	38	44				
+//
+# LCADAF_26427 Length: 47
+# LCADAF_26427 Number of predicted TMRs: 0
+LCADAF_26427	signal	1	15				
+LCADAF_26427	outside	16	47				
+//
+# LCADAF_77608 Length: 35
+# LCADAF_77608 Number of predicted TMRs: 0
+LCADAF_77608	inside	1	35				
+//
+# LCADAF_80957 Length: 45
+# LCADAF_80957 Number of predicted TMRs: 0
+LCADAF_80957	inside	1	45				
+//
+# LCADAF_129784 Length: 49
+# LCADAF_129784 Number of predicted TMRs: 0
+LCADAF_129784	inside	1	49				
+//
+# LCADAF_146590 Length: 41
+# LCADAF_146590 Number of predicted TMRs: 0
+LCADAF_146590	signal	1	39				
+LCADAF_146590	outside	40	41				
+//
+# LCADAF_125893 Length: 42
+# LCADAF_125893 Number of predicted TMRs: 0
+LCADAF_125893	inside	1	42				
+//
+# LCADAF_91089 Length: 50
+# LCADAF_91089 Number of predicted TMRs: 0
+LCADAF_91089	inside	1	50				
+//
+# LCADAF_128985 Length: 50
+# LCADAF_128985 Number of predicted TMRs: 0
+LCADAF_128985	inside	1	50				
+//
+# LCADAF_29729 Length: 49
+# LCADAF_29729 Number of predicted TMRs: 0
+LCADAF_29729	inside	1	49				
+//
+# LCADAF_157189 Length: 46
+# LCADAF_157189 Number of predicted TMRs: 0
+LCADAF_157189	signal	1	45				
+LCADAF_157189	outside	46	46				
+//
+# LCADAF_26430 Length: 39
+# LCADAF_26430 Number of predicted TMRs: 0
+LCADAF_26430	signal	1	38				
+LCADAF_26430	outside	39	39				
+//
+# LCADAF_102214 Length: 44
+# LCADAF_102214 Number of predicted TMRs: 0
+LCADAF_102214	inside	1	44				
+//
+# LCADAF_81588 Length: 45
+# LCADAF_81588 Number of predicted TMRs: 0
+LCADAF_81588	inside	1	45				
+//
+# LCADAF_51253 Length: 50
+# LCADAF_51253 Number of predicted TMRs: 0
+LCADAF_51253	inside	1	50				
+//
+# LCADAF_26669 Length: 44
+# LCADAF_26669 Number of predicted TMRs: 0
+LCADAF_26669	signal	1	43				
+LCADAF_26669	outside	44	44				
+//
+# LCADAF_60225 Length: 38
+# LCADAF_60225 Number of predicted TMRs: 0
+LCADAF_60225	signal	1	10				
+LCADAF_60225	outside	11	38				
+//
+# LCADAF_120563 Length: 34
+# LCADAF_120563 Number of predicted TMRs: 0
+LCADAF_120563	inside	1	34				
+//
+# LCADAF_116802 Length: 50
+# LCADAF_116802 Number of predicted TMRs: 0
+LCADAF_116802	signal	1	49				
+LCADAF_116802	outside	50	50				
+//
+# LCADAF_3582 Length: 46
+# LCADAF_3582 Number of predicted TMRs: 0
+LCADAF_3582	inside	1	46				
+//
+# LCADAF_13168 Length: 38
+# LCADAF_13168 Number of predicted TMRs: 0
+LCADAF_13168	signal	1	26				
+LCADAF_13168	outside	27	38				
+//
+# LCADAF_143844 Length: 49
+# LCADAF_143844 Number of predicted TMRs: 0
+LCADAF_143844	inside	1	49				
+//
+# LCADAF_53618 Length: 35
+# LCADAF_53618 Number of predicted TMRs: 0
+LCADAF_53618	signal	1	34				
+LCADAF_53618	outside	35	35				
+//
+# LCADAF_21922 Length: 47
+# LCADAF_21922 Number of predicted TMRs: 0
+LCADAF_21922	signal	1	44				
+LCADAF_21922	outside	45	47				
+//
+# LCADAF_169655 Length: 43
+# LCADAF_169655 Number of predicted TMRs: 0
+LCADAF_169655	signal	1	42				
+LCADAF_169655	outside	43	43				
+//
+# LCADAF_124344 Length: 43
+# LCADAF_124344 Number of predicted TMRs: 0
+LCADAF_124344	signal	1	36				
+LCADAF_124344	outside	37	43				
+//
+# LCADAF_151756 Length: 46
+# LCADAF_151756 Number of predicted TMRs: 0
+LCADAF_151756	inside	1	46				
+//
+# LCADAF_44923 Length: 49
+# LCADAF_44923 Number of predicted TMRs: 0
+LCADAF_44923	inside	1	49				
+//
+# LCADAF_4092 Length: 39
+# LCADAF_4092 Number of predicted TMRs: 0
+LCADAF_4092	signal	1	37				
+LCADAF_4092	outside	38	39				
+//
+# LCADAF_46058 Length: 45
+# LCADAF_46058 Number of predicted TMRs: 0
+LCADAF_46058	signal	1	17				
+LCADAF_46058	outside	18	45				
+//
+# LCADAF_101033 Length: 37
+# LCADAF_101033 Number of predicted TMRs: 0
+LCADAF_101033	signal	1	25				
+LCADAF_101033	outside	26	37				
+//
+# LCADAF_80558 Length: 49
+# LCADAF_80558 Number of predicted TMRs: 0
+LCADAF_80558	signal	1	48				
+LCADAF_80558	outside	49	49				
+//
+# LCADAF_119837 Length: 34
+# LCADAF_119837 Number of predicted TMRs: 0
+LCADAF_119837	inside	1	34				
+//
+# LCADAF_50168 Length: 39
+# LCADAF_50168 Number of predicted TMRs: 0
+LCADAF_50168	inside	1	39				
+//
+# LCADAF_133713 Length: 45
+# LCADAF_133713 Number of predicted TMRs: 0
+LCADAF_133713	inside	1	45				
+//
+# LCADAF_16887 Length: 47
+# LCADAF_16887 Number of predicted TMRs: 0
+LCADAF_16887	inside	1	47				
+//
+# LCADAF_31873 Length: 48
+# LCADAF_31873 Number of predicted TMRs: 0
+LCADAF_31873	signal	1	21				
+LCADAF_31873	outside	22	48				
+//
+# LCADAF_50078 Length: 48
+# LCADAF_50078 Number of predicted TMRs: 0
+LCADAF_50078	inside	1	48				
+//
+# LCADAF_6767 Length: 43
+# LCADAF_6767 Number of predicted TMRs: 0
+LCADAF_6767	inside	1	43				
+//
+# LCADAF_21751 Length: 42
+# LCADAF_21751 Number of predicted TMRs: 0
+LCADAF_21751	inside	1	42				
+//
+# LCADAF_80382 Length: 44
+# LCADAF_80382 Number of predicted TMRs: 0
+LCADAF_80382	signal	1	32				
+LCADAF_80382	outside	33	44				
+//
+# LCADAF_80392 Length: 49
+# LCADAF_80392 Number of predicted TMRs: 1
+LCADAF_80392	outside	1	4				
+LCADAF_80392	TMhelix	5	19				
+LCADAF_80392	inside	20	49				
+//
+# LCADAF_88113 Length: 39
+# LCADAF_88113 Number of predicted TMRs: 0
+LCADAF_88113	inside	1	39				
+//
+# LCADAF_147869 Length: 46
+# LCADAF_147869 Number of predicted TMRs: 0
+LCADAF_147869	inside	1	46				
+//
+# LCADAF_120921 Length: 50
+# LCADAF_120921 Number of predicted TMRs: 0
+LCADAF_120921	inside	1	50				
+//
+# LCADAF_79005 Length: 49
+# LCADAF_79005 Number of predicted TMRs: 0
+LCADAF_79005	signal	1	47				
+LCADAF_79005	outside	48	49				
+//
+# LCADAF_139424 Length: 46
+# LCADAF_139424 Number of predicted TMRs: 0
+LCADAF_139424	inside	1	46				
+//
+# LCADAF_74922 Length: 42
+# LCADAF_74922 Number of predicted TMRs: 0
+LCADAF_74922	signal	1	38				
+LCADAF_74922	outside	39	42				
+//
+# LCADAF_59744 Length: 44
+# LCADAF_59744 Number of predicted TMRs: 0
+LCADAF_59744	inside	1	44				
+//
+# LCADAF_6769 Length: 48
+# LCADAF_6769 Number of predicted TMRs: 0
+LCADAF_6769	inside	1	48				
+//
+# LCADAF_88808 Length: 40
+# LCADAF_88808 Number of predicted TMRs: 0
+LCADAF_88808	signal	1	38				
+LCADAF_88808	outside	39	40				
+//
+# LCADAF_148265 Length: 45
+# LCADAF_148265 Number of predicted TMRs: 0
+LCADAF_148265	inside	1	45				
+//
+# LCADAF_164734 Length: 50
+# LCADAF_164734 Number of predicted TMRs: 0
+LCADAF_164734	signal	1	30				
+LCADAF_164734	outside	31	50				
+//
+# LCADAF_120045 Length: 44
+# LCADAF_120045 Number of predicted TMRs: 0
+LCADAF_120045	inside	1	44				
+//
+# LCADAF_127749 Length: 42
+# LCADAF_127749 Number of predicted TMRs: 0
+LCADAF_127749	signal	1	39				
+LCADAF_127749	outside	40	42				
+//
+# LCADAF_57792 Length: 50
+# LCADAF_57792 Number of predicted TMRs: 0
+LCADAF_57792	inside	1	50				
+//
+# LCADAF_15689 Length: 48
+# LCADAF_15689 Number of predicted TMRs: 0
+LCADAF_15689	inside	1	48				
+//
+# LCADAF_117435 Length: 41
+# LCADAF_117435 Number of predicted TMRs: 0
+LCADAF_117435	inside	1	41				
+//
+# LCADAF_171182 Length: 48
+# LCADAF_171182 Number of predicted TMRs: 0
+LCADAF_171182	inside	1	48				
+//
+# LCADAF_140841 Length: 46
+# LCADAF_140841 Number of predicted TMRs: 0
+LCADAF_140841	inside	1	46				
+//
+# LCADAF_46004 Length: 45
+# LCADAF_46004 Number of predicted TMRs: 0
+LCADAF_46004	inside	1	45				
+//
+# LCADAF_95523 Length: 42
+# LCADAF_95523 Number of predicted TMRs: 0
+LCADAF_95523	inside	1	42				
+//
+# LCADAF_95141 Length: 46
+# LCADAF_95141 Number of predicted TMRs: 0
+LCADAF_95141	signal	1	39				
+LCADAF_95141	outside	40	46				
+//
+# LCADAF_20047 Length: 48
+# LCADAF_20047 Number of predicted TMRs: 0
+LCADAF_20047	signal	1	28				
+LCADAF_20047	outside	29	48				
+//
+# LCADAF_170346 Length: 45
+# LCADAF_170346 Number of predicted TMRs: 0
+LCADAF_170346	inside	1	45				
+//
+# LCADAF_15329 Length: 48
+# LCADAF_15329 Number of predicted TMRs: 0
+LCADAF_15329	inside	1	48				
+//
+# LCADAF_65805 Length: 48
+# LCADAF_65805 Number of predicted TMRs: 0
+LCADAF_65805	inside	1	48				
+//
+# LCADAF_69488 Length: 45
+# LCADAF_69488 Number of predicted TMRs: 0
+LCADAF_69488	inside	1	45				
+//
+# LCADAF_124116 Length: 45
+# LCADAF_124116 Number of predicted TMRs: 0
+LCADAF_124116	signal	1	41				
+LCADAF_124116	outside	42	45				
+//
+# LCADAF_115118 Length: 32
+# LCADAF_115118 Number of predicted TMRs: 0
+LCADAF_115118	signal	1	31				
+LCADAF_115118	outside	32	32				
+//
+# LCADAF_31916 Length: 49
+# LCADAF_31916 Number of predicted TMRs: 0
+LCADAF_31916	inside	1	49				
+//
+# LCADAF_19564 Length: 40
+# LCADAF_19564 Number of predicted TMRs: 0
+LCADAF_19564	signal	1	34				
+LCADAF_19564	outside	35	40				
+//
+# LCADAF_144152 Length: 41
+# LCADAF_144152 Number of predicted TMRs: 0
+LCADAF_144152	signal	1	38				
+LCADAF_144152	outside	39	41				
+//
+# LCADAF_23916 Length: 50
+# LCADAF_23916 Number of predicted TMRs: 0
+LCADAF_23916	inside	1	50				
+//
+# LCADAF_148179 Length: 50
+# LCADAF_148179 Number of predicted TMRs: 0
+LCADAF_148179	signal	1	49				
+LCADAF_148179	periplasm	50	50				
+//
+# LCADAF_132654 Length: 44
+# LCADAF_132654 Number of predicted TMRs: 0
+LCADAF_132654	inside	1	44				
+//
+# LCADAF_48365 Length: 50
+# LCADAF_48365 Number of predicted TMRs: 0
+LCADAF_48365	inside	1	50				
+//
+# LCADAF_32203 Length: 35
+# LCADAF_32203 Number of predicted TMRs: 0
+LCADAF_32203	signal	1	22				
+LCADAF_32203	outside	23	35				
+//
+# LCADAF_145703 Length: 38
+# LCADAF_145703 Number of predicted TMRs: 0
+LCADAF_145703	signal	1	33				
+LCADAF_145703	outside	34	38				
+//
+# LCADAF_36133 Length: 47
+# LCADAF_36133 Number of predicted TMRs: 0
+LCADAF_36133	inside	1	47				
+//
+# LCADAF_130344 Length: 36
+# LCADAF_130344 Number of predicted TMRs: 0
+LCADAF_130344	signal	1	18				
+LCADAF_130344	outside	19	36				
+//
+# LCADAF_106110 Length: 36
+# LCADAF_106110 Number of predicted TMRs: 0
+LCADAF_106110	inside	1	36				
+//
+# LCADAF_33732 Length: 50
+# LCADAF_33732 Number of predicted TMRs: 0
+LCADAF_33732	inside	1	50				
+//
+# LCADAF_30553 Length: 37
+# LCADAF_30553 Number of predicted TMRs: 0
+LCADAF_30553	signal	1	22				
+LCADAF_30553	outside	23	37				
+//
+# LCADAF_970 Length: 43
+# LCADAF_970 Number of predicted TMRs: 0
+LCADAF_970	inside	1	43				
+//
+# LCADAF_92701 Length: 46
+# LCADAF_92701 Number of predicted TMRs: 0
+LCADAF_92701	inside	1	46				
+//
+# LCADAF_87799 Length: 43
+# LCADAF_87799 Number of predicted TMRs: 0
+LCADAF_87799	inside	1	43				
+//
+# LCADAF_81634 Length: 49
+# LCADAF_81634 Number of predicted TMRs: 0
+LCADAF_81634	signal	1	32				
+LCADAF_81634	outside	33	49				
+//
+# LCADAF_34251 Length: 45
+# LCADAF_34251 Number of predicted TMRs: 0
+LCADAF_34251	inside	1	45				
+//
+# LCADAF_116210 Length: 46
+# LCADAF_116210 Number of predicted TMRs: 0
+LCADAF_116210	inside	1	46				
+//
+# LCADAF_148996 Length: 49
+# LCADAF_148996 Number of predicted TMRs: 1
+LCADAF_148996	inside	1	26				
+LCADAF_148996	TMhelix	27	46				
+LCADAF_148996	outside	47	49				
+//
+# LCADAF_21900 Length: 49
+# LCADAF_21900 Number of predicted TMRs: 0
+LCADAF_21900	signal	1	47				
+LCADAF_21900	outside	48	49				
+//
+# LCADAF_169209 Length: 46
+# LCADAF_169209 Number of predicted TMRs: 0
+LCADAF_169209	inside	1	46				
+//
+# LCADAF_167059 Length: 47
+# LCADAF_167059 Number of predicted TMRs: 0
+LCADAF_167059	inside	1	47				
+//
+# LCADAF_110701 Length: 49
+# LCADAF_110701 Number of predicted TMRs: 0
+LCADAF_110701	signal	1	47				
+LCADAF_110701	outside	48	49				
+//
+# LCADAF_129247 Length: 42
+# LCADAF_129247 Number of predicted TMRs: 0
+LCADAF_129247	inside	1	42				
+//
+# LCADAF_7050 Length: 39
+# LCADAF_7050 Number of predicted TMRs: 0
+LCADAF_7050	inside	1	39				
+//
+# LCADAF_171091 Length: 40
+# LCADAF_171091 Number of predicted TMRs: 0
+LCADAF_171091	signal	1	24				
+LCADAF_171091	outside	25	40				
+//
+# LCADAF_94743 Length: 30
+# LCADAF_94743 Number of predicted TMRs: 0
+LCADAF_94743	signal	1	24				
+LCADAF_94743	outside	25	30				
+//
+# LCADAF_144314 Length: 42
+# LCADAF_144314 Number of predicted TMRs: 0
+LCADAF_144314	inside	1	42				
+//
+# LCADAF_16401 Length: 49
+# LCADAF_16401 Number of predicted TMRs: 0
+LCADAF_16401	inside	1	49				
+//
+# LCADAF_150296 Length: 43
+# LCADAF_150296 Number of predicted TMRs: 0
+LCADAF_150296	inside	1	43				
+//
+# LCADAF_31821 Length: 40
+# LCADAF_31821 Number of predicted TMRs: 0
+LCADAF_31821	signal	1	39				
+LCADAF_31821	outside	40	40				
+//
+# LCADAF_122618 Length: 33
+# LCADAF_122618 Number of predicted TMRs: 0
+LCADAF_122618	signal	1	30				
+LCADAF_122618	outside	31	33				
+//
+# LCADAF_102237 Length: 43
+# LCADAF_102237 Number of predicted TMRs: 0
+LCADAF_102237	inside	1	43				
+//
+# LCADAF_76264 Length: 47
+# LCADAF_76264 Number of predicted TMRs: 0
+LCADAF_76264	signal	1	46				
+LCADAF_76264	outside	47	47				
+//
+# LCADAF_43156 Length: 46
+# LCADAF_43156 Number of predicted TMRs: 1
+LCADAF_43156	signal	1	10				
+LCADAF_43156	outside	11	11				
+LCADAF_43156	TMhelix	12	25				
+LCADAF_43156	inside	26	46				
+//
+# LCADAF_2088 Length: 50
+# LCADAF_2088 Number of predicted TMRs: 0
+LCADAF_2088	inside	1	50				
+//
+# LCADAF_32446 Length: 44
+# LCADAF_32446 Number of predicted TMRs: 0
+LCADAF_32446	inside	1	44				
+//
+# LCADAF_172078 Length: 48
+# LCADAF_172078 Number of predicted TMRs: 0
+LCADAF_172078	outside	1	48				
+//
+# LCADAF_166062 Length: 45
+# LCADAF_166062 Number of predicted TMRs: 0
+LCADAF_166062	outside	1	45				
+//
+# LCADAF_23781 Length: 42
+# LCADAF_23781 Number of predicted TMRs: 0
+LCADAF_23781	inside	1	42				
+//
+# LCADAF_41602 Length: 39
+# LCADAF_41602 Number of predicted TMRs: 0
+LCADAF_41602	signal	1	35				
+LCADAF_41602	outside	36	39				
+//
+# LCADAF_166169 Length: 42
+# LCADAF_166169 Number of predicted TMRs: 0
+LCADAF_166169	inside	1	42				
+//
+# LCADAF_35526 Length: 46
+# LCADAF_35526 Number of predicted TMRs: 0
+LCADAF_35526	inside	1	46				
+//
+# LCADAF_22622 Length: 49
+# LCADAF_22622 Number of predicted TMRs: 1
+LCADAF_22622	inside	1	5				
+LCADAF_22622	TMhelix	6	20				
+LCADAF_22622	outside	21	49				
+//
+# LCADAF_124265 Length: 38
+# LCADAF_124265 Number of predicted TMRs: 0
+LCADAF_124265	inside	1	38				
+//
+# LCADAF_84775 Length: 48
+# LCADAF_84775 Number of predicted TMRs: 0
+LCADAF_84775	signal	1	17				
+LCADAF_84775	outside	18	48				
+//
+# LCADAF_131923 Length: 46
+# LCADAF_131923 Number of predicted TMRs: 0
+LCADAF_131923	signal	1	31				
+LCADAF_131923	outside	32	46				
+//
+# LCADAF_132611 Length: 44
+# LCADAF_132611 Number of predicted TMRs: 0
+LCADAF_132611	inside	1	44				
+//
+# LCADAF_96088 Length: 49
+# LCADAF_96088 Number of predicted TMRs: 0
+LCADAF_96088	signal	1	33				
+LCADAF_96088	outside	34	49				
+//
+# LCADAF_59914 Length: 41
+# LCADAF_59914 Number of predicted TMRs: 0
+LCADAF_59914	signal	1	13				
+LCADAF_59914	outside	14	41				
+//
+# LCADAF_8279 Length: 40
+# LCADAF_8279 Number of predicted TMRs: 0
+LCADAF_8279	inside	1	40				
+//
+# LCADAF_43416 Length: 40
+# LCADAF_43416 Number of predicted TMRs: 0
+LCADAF_43416	inside	1	40				
+//
+# LCADAF_151629 Length: 49
+# LCADAF_151629 Number of predicted TMRs: 0
+LCADAF_151629	signal	1	18				
+LCADAF_151629	outside	19	49				
+//
+# LCADAF_118883 Length: 47
+# LCADAF_118883 Number of predicted TMRs: 0
+LCADAF_118883	inside	1	47				
+//
+# LCADAF_24375 Length: 40
+# LCADAF_24375 Number of predicted TMRs: 0
+LCADAF_24375	signal	1	31				
+LCADAF_24375	outside	32	40				
+//
+# LCADAF_158388 Length: 49
+# LCADAF_158388 Number of predicted TMRs: 0
+LCADAF_158388	inside	1	49				
+//
+# LCADAF_121944 Length: 43
+# LCADAF_121944 Number of predicted TMRs: 0
+LCADAF_121944	signal	1	23				
+LCADAF_121944	outside	24	43				
+//
+# LCADAF_132955 Length: 41
+# LCADAF_132955 Number of predicted TMRs: 0
+LCADAF_132955	signal	1	13				
+LCADAF_132955	outside	14	41				
+//
+# LCADAF_149004 Length: 46
+# LCADAF_149004 Number of predicted TMRs: 0
+LCADAF_149004	inside	1	46				
+//
+# LCADAF_130131 Length: 49
+# LCADAF_130131 Number of predicted TMRs: 0
+LCADAF_130131	inside	1	49				
+//
+# LCADAF_159031 Length: 44
+# LCADAF_159031 Number of predicted TMRs: 0
+LCADAF_159031	inside	1	44				
+//
+# LCADAF_32748 Length: 45
+# LCADAF_32748 Number of predicted TMRs: 0
+LCADAF_32748	signal	1	41				
+LCADAF_32748	outside	42	45				
+//
+# LCADAF_66100 Length: 45
+# LCADAF_66100 Number of predicted TMRs: 0
+LCADAF_66100	inside	1	45				
+//
+# LCADAF_137276 Length: 43
+# LCADAF_137276 Number of predicted TMRs: 0
+LCADAF_137276	signal	1	32				
+LCADAF_137276	outside	33	43				
+//
+# LCADAF_49463 Length: 40
+# LCADAF_49463 Number of predicted TMRs: 0
+LCADAF_49463	signal	1	12				
+LCADAF_49463	outside	13	40				
+//
+# LCADAF_33924 Length: 50
+# LCADAF_33924 Number of predicted TMRs: 0
+LCADAF_33924	inside	1	50				
+//
+# LCADAF_69894 Length: 48
+# LCADAF_69894 Number of predicted TMRs: 0
+LCADAF_69894	outside	1	48				
+//
+# LCADAF_122811 Length: 39
+# LCADAF_122811 Number of predicted TMRs: 0
+LCADAF_122811	inside	1	39				
+//
+# LCADAF_137757 Length: 40
+# LCADAF_137757 Number of predicted TMRs: 0
+LCADAF_137757	signal	1	39				
+LCADAF_137757	outside	40	40				
+//
+# LCADAF_105392 Length: 47
+# LCADAF_105392 Number of predicted TMRs: 0
+LCADAF_105392	signal	1	21				
+LCADAF_105392	outside	22	47				
+//
+# LCADAF_122019 Length: 45
+# LCADAF_122019 Number of predicted TMRs: 0
+LCADAF_122019	inside	1	45				
+//
+# LCADAF_95521 Length: 48
+# LCADAF_95521 Number of predicted TMRs: 0
+LCADAF_95521	inside	1	48				
+//
+# LCADAF_62604 Length: 45
+# LCADAF_62604 Number of predicted TMRs: 0
+LCADAF_62604	inside	1	45				
+//
+# LCADAF_21107 Length: 49
+# LCADAF_21107 Number of predicted TMRs: 0
+LCADAF_21107	inside	1	49				
+//
+# LCADAF_129361 Length: 38
+# LCADAF_129361 Number of predicted TMRs: 0
+LCADAF_129361	signal	1	37				
+LCADAF_129361	outside	38	38				
+//
+# LCADAF_7252 Length: 47
+# LCADAF_7252 Number of predicted TMRs: 0
+LCADAF_7252	inside	1	47				
+//
+# LCADAF_124921 Length: 50
+# LCADAF_124921 Number of predicted TMRs: 0
+LCADAF_124921	inside	1	50				
+//
+# LCADAF_173736 Length: 48
+# LCADAF_173736 Number of predicted TMRs: 0
+LCADAF_173736	inside	1	48				
+//
+# LCADAF_48478 Length: 49
+# LCADAF_48478 Number of predicted TMRs: 0
+LCADAF_48478	inside	1	49				
+//
+# LCADAF_31823 Length: 49
+# LCADAF_31823 Number of predicted TMRs: 0
+LCADAF_31823	signal	1	26				
+LCADAF_31823	outside	27	49				
+//
+# LCADAF_42978 Length: 49
+# LCADAF_42978 Number of predicted TMRs: 0
+LCADAF_42978	inside	1	49				
+//
+# LCADAF_110773 Length: 49
+# LCADAF_110773 Number of predicted TMRs: 0
+LCADAF_110773	inside	1	49				
+//
+# LCADAF_21986 Length: 44
+# LCADAF_21986 Number of predicted TMRs: 0
+LCADAF_21986	inside	1	44				
+//
+# LCADAF_117984 Length: 40
+# LCADAF_117984 Number of predicted TMRs: 0
+LCADAF_117984	signal	1	37				
+LCADAF_117984	outside	38	40				
+//
+# LCADAF_158051 Length: 42
+# LCADAF_158051 Number of predicted TMRs: 0
+LCADAF_158051	signal	1	41				
+LCADAF_158051	periplasm	42	42				
+//
+# LCADAF_50433 Length: 48
+# LCADAF_50433 Number of predicted TMRs: 0
+LCADAF_50433	signal	1	20				
+LCADAF_50433	outside	21	48				
+//
+# LCADAF_29182 Length: 44
+# LCADAF_29182 Number of predicted TMRs: 0
+LCADAF_29182	signal	1	24				
+LCADAF_29182	outside	25	44				
+//
+# LCADAF_88621 Length: 45
+# LCADAF_88621 Number of predicted TMRs: 0
+LCADAF_88621	signal	1	29				
+LCADAF_88621	outside	30	45				
+//
+# LCADAF_158112 Length: 50
+# LCADAF_158112 Number of predicted TMRs: 0
+LCADAF_158112	inside	1	50				
+//
+# LCADAF_9446 Length: 38
+# LCADAF_9446 Number of predicted TMRs: 0
+LCADAF_9446	signal	1	37				
+LCADAF_9446	outside	38	38				
+//
+# LCADAF_148292 Length: 41
+# LCADAF_148292 Number of predicted TMRs: 0
+LCADAF_148292	signal	1	38				
+LCADAF_148292	outside	39	41				
+//
+# LCADAF_120668 Length: 47
+# LCADAF_120668 Number of predicted TMRs: 0
+LCADAF_120668	signal	1	35				
+LCADAF_120668	outside	36	47				
+//
+# LCADAF_24098 Length: 40
+# LCADAF_24098 Number of predicted TMRs: 0
+LCADAF_24098	signal	1	38				
+LCADAF_24098	outside	39	40				
+//
+# LCADAF_16716 Length: 39
+# LCADAF_16716 Number of predicted TMRs: 0
+LCADAF_16716	outside	1	39				
+//
+# LCADAF_110498 Length: 43
+# LCADAF_110498 Number of predicted TMRs: 0
+LCADAF_110498	inside	1	43				
+//
+# LCADAF_145717 Length: 44
+# LCADAF_145717 Number of predicted TMRs: 0
+LCADAF_145717	signal	1	33				
+LCADAF_145717	outside	34	44				
+//
+# LCADAF_120498 Length: 43
+# LCADAF_120498 Number of predicted TMRs: 0
+LCADAF_120498	signal	1	37				
+LCADAF_120498	outside	38	43				
+//
+# LCADAF_149431 Length: 49
+# LCADAF_149431 Number of predicted TMRs: 0
+LCADAF_149431	inside	1	49				
+//
+# LCADAF_139843 Length: 42
+# LCADAF_139843 Number of predicted TMRs: 0
+LCADAF_139843	signal	1	40				
+LCADAF_139843	outside	41	42				
+//
+# LCADAF_68280 Length: 49
+# LCADAF_68280 Number of predicted TMRs: 0
+LCADAF_68280	inside	1	49				
+//
+# LCADAF_66109 Length: 48
+# LCADAF_66109 Number of predicted TMRs: 0
+LCADAF_66109	inside	1	48				
+//
+# LCADAF_129212 Length: 40
+# LCADAF_129212 Number of predicted TMRs: 0
+LCADAF_129212	signal	1	10				
+LCADAF_129212	outside	11	40				
+//
+# LCADAF_14721 Length: 47
+# LCADAF_14721 Number of predicted TMRs: 0
+LCADAF_14721	signal	1	19				
+LCADAF_14721	outside	20	47				
+//
+# LCADAF_20252 Length: 45
+# LCADAF_20252 Number of predicted TMRs: 0
+LCADAF_20252	inside	1	45				
+//
+# LCADAF_136646 Length: 50
+# LCADAF_136646 Number of predicted TMRs: 0
+LCADAF_136646	inside	1	50				
+//
+# LCADAF_118748 Length: 49
+# LCADAF_118748 Number of predicted TMRs: 0
+LCADAF_118748	inside	1	49				
+//
+# LCADAF_79848 Length: 48
+# LCADAF_79848 Number of predicted TMRs: 0
+LCADAF_79848	inside	1	48				
+//
+# LCADAF_79852 Length: 45
+# LCADAF_79852 Number of predicted TMRs: 0
+LCADAF_79852	inside	1	45				
+//
+# LCADAF_56964 Length: 37
+# LCADAF_56964 Number of predicted TMRs: 0
+LCADAF_56964	signal	1	12				
+LCADAF_56964	outside	13	37				
+//
+# LCADAF_124174 Length: 39
+# LCADAF_124174 Number of predicted TMRs: 0
+LCADAF_124174	inside	1	39				
+//
+# LCADAF_126120 Length: 39
+# LCADAF_126120 Number of predicted TMRs: 0
+LCADAF_126120	outside	1	39				
+//
+# LCADAF_58148 Length: 39
+# LCADAF_58148 Number of predicted TMRs: 0
+LCADAF_58148	inside	1	39				
+//
+# LCADAF_140361 Length: 47
+# LCADAF_140361 Number of predicted TMRs: 0
+LCADAF_140361	inside	1	47				
+//
+# LCADAF_96723 Length: 44
+# LCADAF_96723 Number of predicted TMRs: 0
+LCADAF_96723	outside	1	44				
+//
+# LCADAF_41517 Length: 28
+# LCADAF_41517 Number of predicted TMRs: 0
+LCADAF_41517	inside	1	28				
+//
+# LCADAF_15812 Length: 48
+# LCADAF_15812 Number of predicted TMRs: 0
+LCADAF_15812	signal	1	10				
+LCADAF_15812	outside	11	48				
+//
+# LCADAF_148290 Length: 35
+# LCADAF_148290 Number of predicted TMRs: 0
+LCADAF_148290	inside	1	35				
+//
+# LCADAF_100687 Length: 37
+# LCADAF_100687 Number of predicted TMRs: 0
+LCADAF_100687	inside	1	37				
+//
+# LCADAF_8084 Length: 48
+# LCADAF_8084 Number of predicted TMRs: 0
+LCADAF_8084	inside	1	48				
+//
+# LCADAF_163697 Length: 45
+# LCADAF_163697 Number of predicted TMRs: 0
+LCADAF_163697	outside	1	45				
+//
+# LCADAF_15651 Length: 47
+# LCADAF_15651 Number of predicted TMRs: 0
+LCADAF_15651	inside	1	47				
+//
+# LCADAF_15096 Length: 43
+# LCADAF_15096 Number of predicted TMRs: 0
+LCADAF_15096	inside	1	43				
+//
+# LCADAF_37338 Length: 45
+# LCADAF_37338 Number of predicted TMRs: 0
+LCADAF_37338	signal	1	23				
+LCADAF_37338	outside	24	45				
+//
+# LCADAF_15391 Length: 49
+# LCADAF_15391 Number of predicted TMRs: 0
+LCADAF_15391	inside	1	49				
+//
+# LCADAF_122608 Length: 37
+# LCADAF_122608 Number of predicted TMRs: 0
+LCADAF_122608	signal	1	25				
+LCADAF_122608	outside	26	37				
+//
+# LCADAF_137604 Length: 39
+# LCADAF_137604 Number of predicted TMRs: 0
+LCADAF_137604	signal	1	10				
+LCADAF_137604	outside	11	39				
+//
+# LCADAF_37330 Length: 39
+# LCADAF_37330 Number of predicted TMRs: 0
+LCADAF_37330	signal	1	35				
+LCADAF_37330	outside	36	39				
+//
+# LCADAF_83426 Length: 49
+# LCADAF_83426 Number of predicted TMRs: 0
+LCADAF_83426	inside	1	49				
+//
+# LCADAF_83398 Length: 46
+# LCADAF_83398 Number of predicted TMRs: 0
+LCADAF_83398	inside	1	46				
+//
+# LCADAF_20172 Length: 42
+# LCADAF_20172 Number of predicted TMRs: 0
+LCADAF_20172	signal	1	29				
+LCADAF_20172	outside	30	42				
+//
+# LCADAF_22665 Length: 30
+# LCADAF_22665 Number of predicted TMRs: 0
+LCADAF_22665	signal	1	29				
+LCADAF_22665	outside	30	30				
+//
+# LCADAF_72206 Length: 49
+# LCADAF_72206 Number of predicted TMRs: 0
+LCADAF_72206	signal	1	10				
+LCADAF_72206	outside	11	49				
+//
+# LCADAF_5230 Length: 46
+# LCADAF_5230 Number of predicted TMRs: 0
+LCADAF_5230	inside	1	46				
+//
+# LCADAF_96693 Length: 43
+# LCADAF_96693 Number of predicted TMRs: 0
+LCADAF_96693	signal	1	37				
+LCADAF_96693	outside	38	43				
+//
+# LCADAF_4623 Length: 39
+# LCADAF_4623 Number of predicted TMRs: 0
+LCADAF_4623	inside	1	39				
+//
+# LCADAF_76358 Length: 50
+# LCADAF_76358 Number of predicted TMRs: 0
+LCADAF_76358	signal	1	43				
+LCADAF_76358	outside	44	50				
+//
+# LCADAF_172921 Length: 49
+# LCADAF_172921 Number of predicted TMRs: 0
+LCADAF_172921	inside	1	49				
+//
+# LCADAF_114972 Length: 48
+# LCADAF_114972 Number of predicted TMRs: 0
+LCADAF_114972	inside	1	48				
+//
+# LCADAF_31722 Length: 30
+# LCADAF_31722 Number of predicted TMRs: 0
+LCADAF_31722	signal	1	29				
+LCADAF_31722	outside	30	30				
+//
+# LCADAF_3757 Length: 47
+# LCADAF_3757 Number of predicted TMRs: 0
+LCADAF_3757	inside	1	47				
+//
+# LCADAF_23258 Length: 50
+# LCADAF_23258 Number of predicted TMRs: 0
+LCADAF_23258	inside	1	50				
+//
+# LCADAF_120339 Length: 36
+# LCADAF_120339 Number of predicted TMRs: 0
+LCADAF_120339	inside	1	36				
+//
+# LCADAF_43595 Length: 37
+# LCADAF_43595 Number of predicted TMRs: 0
+LCADAF_43595	inside	1	37				
+//
+# LCADAF_21716 Length: 48
+# LCADAF_21716 Number of predicted TMRs: 0
+LCADAF_21716	signal	1	24				
+LCADAF_21716	outside	25	48				
+//
+# LCADAF_115549 Length: 50
+# LCADAF_115549 Number of predicted TMRs: 0
+LCADAF_115549	signal	1	40				
+LCADAF_115549	outside	41	50				
+//
+# LCADAF_11327 Length: 47
+# LCADAF_11327 Number of predicted TMRs: 0
+LCADAF_11327	inside	1	47				
+//
+# LCADAF_20262 Length: 41
+# LCADAF_20262 Number of predicted TMRs: 0
+LCADAF_20262	inside	1	41				
+//
+# LCADAF_33834 Length: 44
+# LCADAF_33834 Number of predicted TMRs: 0
+LCADAF_33834	inside	1	44				
+//
+# LCADAF_105996 Length: 32
+# LCADAF_105996 Number of predicted TMRs: 0
+LCADAF_105996	inside	1	32				
+//
+# LCADAF_74205 Length: 41
+# LCADAF_74205 Number of predicted TMRs: 0
+LCADAF_74205	signal	1	24				
+LCADAF_74205	outside	25	41				
+//
+# LCADAF_65046 Length: 48
+# LCADAF_65046 Number of predicted TMRs: 0
+LCADAF_65046	inside	1	48				
+//
+# LCADAF_95490 Length: 48
+# LCADAF_95490 Number of predicted TMRs: 0
+LCADAF_95490	inside	1	48				
+//
+# LCADAF_90395 Length: 44
+# LCADAF_90395 Number of predicted TMRs: 0
+LCADAF_90395	inside	1	44				
+//
+# LCADAF_114405 Length: 37
+# LCADAF_114405 Number of predicted TMRs: 0
+LCADAF_114405	inside	1	37				
+//
+# LCADAF_69732 Length: 40
+# LCADAF_69732 Number of predicted TMRs: 0
+LCADAF_69732	inside	1	40				
+//
+# LCADAF_96725 Length: 50
+# LCADAF_96725 Number of predicted TMRs: 0
+LCADAF_96725	inside	1	50				
+//
+# LCADAF_145613 Length: 38
+# LCADAF_145613 Number of predicted TMRs: 0
+LCADAF_145613	signal	1	37				
+LCADAF_145613	outside	38	38				
+//
+# LCADAF_24766 Length: 44
+# LCADAF_24766 Number of predicted TMRs: 0
+LCADAF_24766	inside	1	44				
+//
+# LCADAF_87071 Length: 43
+# LCADAF_87071 Number of predicted TMRs: 0
+LCADAF_87071	signal	1	42				
+LCADAF_87071	outside	43	43				
+//
+# LCADAF_46795 Length: 50
+# LCADAF_46795 Number of predicted TMRs: 0
+LCADAF_46795	inside	1	50				
+//
+# LCADAF_164520 Length: 42
+# LCADAF_164520 Number of predicted TMRs: 0
+LCADAF_164520	inside	1	42				
+//
+# LCADAF_149355 Length: 46
+# LCADAF_149355 Number of predicted TMRs: 0
+LCADAF_149355	signal	1	29				
+LCADAF_149355	outside	30	46				
+//
+# LCADAF_115364 Length: 45
+# LCADAF_115364 Number of predicted TMRs: 0
+LCADAF_115364	inside	1	45				
+//
+# LCADAF_145322 Length: 43
+# LCADAF_145322 Number of predicted TMRs: 0
+LCADAF_145322	inside	1	43				
+//
+# LCADAF_151632 Length: 38
+# LCADAF_151632 Number of predicted TMRs: 0
+LCADAF_151632	inside	1	38				
+//
+# LCADAF_115126 Length: 50
+# LCADAF_115126 Number of predicted TMRs: 0
+LCADAF_115126	inside	1	50				
+//
+# LCADAF_56732 Length: 47
+# LCADAF_56732 Number of predicted TMRs: 0
+LCADAF_56732	inside	1	47				
+//
+# LCADAF_58106 Length: 28
+# LCADAF_58106 Number of predicted TMRs: 0
+LCADAF_58106	inside	1	28				
+//
+# LCADAF_30886 Length: 36
+# LCADAF_30886 Number of predicted TMRs: 0
+LCADAF_30886	inside	1	36				
+//
+# LCADAF_145979 Length: 43
+# LCADAF_145979 Number of predicted TMRs: 0
+LCADAF_145979	inside	1	43				
+//
+# LCADAF_171031 Length: 48
+# LCADAF_171031 Number of predicted TMRs: 0
+LCADAF_171031	signal	1	23				
+LCADAF_171031	outside	24	48				
+//
+# LCADAF_22363 Length: 40
+# LCADAF_22363 Number of predicted TMRs: 0
+LCADAF_22363	inside	1	40				
+//
+# LCADAF_91462 Length: 47
+# LCADAF_91462 Number of predicted TMRs: 0
+LCADAF_91462	inside	1	47				
+//
+# LCADAF_141805 Length: 50
+# LCADAF_141805 Number of predicted TMRs: 0
+LCADAF_141805	inside	1	50				
+//
+# LCADAF_34927 Length: 43
+# LCADAF_34927 Number of predicted TMRs: 0
+LCADAF_34927	inside	1	43				
+//
+# LCADAF_172595 Length: 46
+# LCADAF_172595 Number of predicted TMRs: 0
+LCADAF_172595	inside	1	46				
+//
+# LCADAF_94900 Length: 50
+# LCADAF_94900 Number of predicted TMRs: 0
+LCADAF_94900	inside	1	50				
+//
+# LCADAF_100791 Length: 43
+# LCADAF_100791 Number of predicted TMRs: 0
+LCADAF_100791	inside	1	43				
+//
+# LCADAF_16590 Length: 37
+# LCADAF_16590 Number of predicted TMRs: 0
+LCADAF_16590	signal	1	32				
+LCADAF_16590	outside	33	37				
+//
+# LCADAF_172783 Length: 49
+# LCADAF_172783 Number of predicted TMRs: 0
+LCADAF_172783	inside	1	49				
+//
+# LCADAF_19632 Length: 49
+# LCADAF_19632 Number of predicted TMRs: 0
+LCADAF_19632	inside	1	49				
+//
+# LCADAF_89338 Length: 48
+# LCADAF_89338 Number of predicted TMRs: 0
+LCADAF_89338	inside	1	48				
+//
+# LCADAF_17221 Length: 44
+# LCADAF_17221 Number of predicted TMRs: 0
+LCADAF_17221	signal	1	35				
+LCADAF_17221	outside	36	44				
+//
+# LCADAF_164602 Length: 46
+# LCADAF_164602 Number of predicted TMRs: 0
+LCADAF_164602	signal	1	11				
+LCADAF_164602	outside	12	46				
+//
+# LCADAF_41316 Length: 46
+# LCADAF_41316 Number of predicted TMRs: 0
+LCADAF_41316	signal	1	45				
+LCADAF_41316	outside	46	46				
+//
+# LCADAF_92646 Length: 50
+# LCADAF_92646 Number of predicted TMRs: 0
+LCADAF_92646	inside	1	50				
+//
+# LCADAF_74623 Length: 50
+# LCADAF_74623 Number of predicted TMRs: 0
+LCADAF_74623	inside	1	50				
+//
+# LCADAF_135770 Length: 48
+# LCADAF_135770 Number of predicted TMRs: 0
+LCADAF_135770	signal	1	47				
+LCADAF_135770	outside	48	48				
+//
+# LCADAF_33144 Length: 44
+# LCADAF_33144 Number of predicted TMRs: 0
+LCADAF_33144	signal	1	15				
+LCADAF_33144	outside	16	44				
+//
+# LCADAF_33208 Length: 44
+# LCADAF_33208 Number of predicted TMRs: 0
+LCADAF_33208	signal	1	42				
+LCADAF_33208	outside	43	44				
+//
+# LCADAF_6138 Length: 45
+# LCADAF_6138 Number of predicted TMRs: 0
+LCADAF_6138	signal	1	25				
+LCADAF_6138	outside	26	45				
+//
+# LCADAF_9471 Length: 44
+# LCADAF_9471 Number of predicted TMRs: 0
+LCADAF_9471	signal	1	43				
+LCADAF_9471	outside	44	44				
+//
+# LCADAF_110172 Length: 49
+# LCADAF_110172 Number of predicted TMRs: 0
+LCADAF_110172	inside	1	49				
+//
+# LCADAF_103334 Length: 39
+# LCADAF_103334 Number of predicted TMRs: 0
+LCADAF_103334	signal	1	37				
+LCADAF_103334	outside	38	39				
+//
+# LCADAF_55 Length: 43
+# LCADAF_55 Number of predicted TMRs: 0
+LCADAF_55	inside	1	43				
+//
+# LCADAF_78128 Length: 47
+# LCADAF_78128 Number of predicted TMRs: 0
+LCADAF_78128	signal	1	44				
+LCADAF_78128	outside	45	47				
+//
+# LCADAF_19200 Length: 47
+# LCADAF_19200 Number of predicted TMRs: 0
+LCADAF_19200	inside	1	47				
+//
+# LCADAF_67350 Length: 49
+# LCADAF_67350 Number of predicted TMRs: 0
+LCADAF_67350	inside	1	49				
+//
+# LCADAF_172849 Length: 48
+# LCADAF_172849 Number of predicted TMRs: 0
+LCADAF_172849	signal	1	47				
+LCADAF_172849	outside	48	48				
+//
+# LCADAF_168023 Length: 33
+# LCADAF_168023 Number of predicted TMRs: 0
+LCADAF_168023	inside	1	33				
+//
+# LCADAF_52124 Length: 40
+# LCADAF_52124 Number of predicted TMRs: 0
+LCADAF_52124	inside	1	40				
+//
+# LCADAF_129488 Length: 43
+# LCADAF_129488 Number of predicted TMRs: 0
+LCADAF_129488	signal	1	42				
+LCADAF_129488	outside	43	43				
+//
+# LCADAF_85452 Length: 50
+# LCADAF_85452 Number of predicted TMRs: 0
+LCADAF_85452	inside	1	50				
+//
+# LCADAF_117786 Length: 35
+# LCADAF_117786 Number of predicted TMRs: 0
+LCADAF_117786	inside	1	35				
+//
+# LCADAF_166392 Length: 38
+# LCADAF_166392 Number of predicted TMRs: 0
+LCADAF_166392	signal	1	28				
+LCADAF_166392	outside	29	38				
+//
+# LCADAF_155845 Length: 50
+# LCADAF_155845 Number of predicted TMRs: 0
+LCADAF_155845	inside	1	50				
+//
+# LCADAF_84620 Length: 44
+# LCADAF_84620 Number of predicted TMRs: 0
+LCADAF_84620	signal	1	42				
+LCADAF_84620	outside	43	44				
+//
+# LCADAF_59827 Length: 43
+# LCADAF_59827 Number of predicted TMRs: 0
+LCADAF_59827	inside	1	43				
+//
+# LCADAF_119011 Length: 50
+# LCADAF_119011 Number of predicted TMRs: 0
+LCADAF_119011	signal	1	22				
+LCADAF_119011	outside	23	50				
+//
+# LCADAF_157971 Length: 36
+# LCADAF_157971 Number of predicted TMRs: 0
+LCADAF_157971	signal	1	10				
+LCADAF_157971	outside	11	36				
+//
+# LCADAF_64141 Length: 31
+# LCADAF_64141 Number of predicted TMRs: 0
+LCADAF_64141	inside	1	31				
+//
+# LCADAF_136614 Length: 45
+# LCADAF_136614 Number of predicted TMRs: 0
+LCADAF_136614	inside	1	45				
+//
+# LCADAF_116680 Length: 45
+# LCADAF_116680 Number of predicted TMRs: 0
+LCADAF_116680	inside	1	45				
+//
+# LCADAF_155941 Length: 44
+# LCADAF_155941 Number of predicted TMRs: 0
+LCADAF_155941	inside	1	44				
+//
+# LCADAF_38916 Length: 45
+# LCADAF_38916 Number of predicted TMRs: 0
+LCADAF_38916	signal	1	44				
+LCADAF_38916	outside	45	45				
+//
+# LCADAF_122084 Length: 49
+# LCADAF_122084 Number of predicted TMRs: 0
+LCADAF_122084	inside	1	49				
+//
+# LCADAF_143760 Length: 37
+# LCADAF_143760 Number of predicted TMRs: 0
+LCADAF_143760	inside	1	37				
+//
+# LCADAF_166597 Length: 44
+# LCADAF_166597 Number of predicted TMRs: 0
+LCADAF_166597	signal	1	42				
+LCADAF_166597	outside	43	44				
+//
+# LCADAF_96846 Length: 50
+# LCADAF_96846 Number of predicted TMRs: 0
+LCADAF_96846	inside	1	50				
+//
+# LCADAF_86662 Length: 42
+# LCADAF_86662 Number of predicted TMRs: 0
+LCADAF_86662	signal	1	35				
+LCADAF_86662	outside	36	42				
+//
+# LCADAF_28372 Length: 42
+# LCADAF_28372 Number of predicted TMRs: 0
+LCADAF_28372	signal	1	16				
+LCADAF_28372	outside	17	42				
+//
+# LCADAF_49041 Length: 46
+# LCADAF_49041 Number of predicted TMRs: 0
+LCADAF_49041	inside	1	46				
+//
+# LCADAF_148119 Length: 42
+# LCADAF_148119 Number of predicted TMRs: 0
+LCADAF_148119	inside	1	42				
+//
+# LCADAF_95699 Length: 48
+# LCADAF_95699 Number of predicted TMRs: 0
+LCADAF_95699	inside	1	48				
+//
+# LCADAF_111745 Length: 40
+# LCADAF_111745 Number of predicted TMRs: 0
+LCADAF_111745	inside	1	40				
+//
+# LCADAF_143045 Length: 50
+# LCADAF_143045 Number of predicted TMRs: 0
+LCADAF_143045	inside	1	50				
+//
+# LCADAF_140800 Length: 42
+# LCADAF_140800 Number of predicted TMRs: 0
+LCADAF_140800	signal	1	41				
+LCADAF_140800	outside	42	42				
+//
+# LCADAF_39016 Length: 49
+# LCADAF_39016 Number of predicted TMRs: 0
+LCADAF_39016	signal	1	47				
+LCADAF_39016	outside	48	49				
+//
+# LCADAF_50040 Length: 50
+# LCADAF_50040 Number of predicted TMRs: 0
+LCADAF_50040	inside	1	50				
+//
+# LCADAF_9724 Length: 48
+# LCADAF_9724 Number of predicted TMRs: 0
+LCADAF_9724	inside	1	48				
+//
+# LCADAF_15712 Length: 44
+# LCADAF_15712 Number of predicted TMRs: 0
+LCADAF_15712	inside	1	44				
+//
+# LCADAF_61773 Length: 44
+# LCADAF_61773 Number of predicted TMRs: 0
+LCADAF_61773	inside	1	44				
+//
+# LCADAF_83656 Length: 50
+# LCADAF_83656 Number of predicted TMRs: 0
+LCADAF_83656	inside	1	50				
+//
+# LCADAF_20402 Length: 50
+# LCADAF_20402 Number of predicted TMRs: 0
+LCADAF_20402	inside	1	50				
+//
+# LCADAF_148621 Length: 49
+# LCADAF_148621 Number of predicted TMRs: 0
+LCADAF_148621	inside	1	49				
+//
+# LCADAF_131141 Length: 44
+# LCADAF_131141 Number of predicted TMRs: 0
+LCADAF_131141	signal	1	43				
+LCADAF_131141	outside	44	44				
+//
+# LCADAF_58744 Length: 47
+# LCADAF_58744 Number of predicted TMRs: 0
+LCADAF_58744	inside	1	47				
+//
+# LCADAF_134822 Length: 50
+# LCADAF_134822 Number of predicted TMRs: 0
+LCADAF_134822	inside	1	50				
+//
+# LCADAF_158830 Length: 35
+# LCADAF_158830 Number of predicted TMRs: 0
+LCADAF_158830	signal	1	32				
+LCADAF_158830	outside	33	35				
+//
+# LCADAF_157690 Length: 41
+# LCADAF_157690 Number of predicted TMRs: 0
+LCADAF_157690	signal	1	35				
+LCADAF_157690	outside	36	41				
+//
+# LCADAF_80548 Length: 44
+# LCADAF_80548 Number of predicted TMRs: 0
+LCADAF_80548	inside	1	44				
+//
+# LCADAF_13282 Length: 42
+# LCADAF_13282 Number of predicted TMRs: 0
+LCADAF_13282	inside	1	42				
+//
+# LCADAF_50107 Length: 50
+# LCADAF_50107 Number of predicted TMRs: 0
+LCADAF_50107	inside	1	50				
+//
+# LCADAF_10159 Length: 42
+# LCADAF_10159 Number of predicted TMRs: 0
+LCADAF_10159	inside	1	42				
+//
+# LCADAF_65686 Length: 40
+# LCADAF_65686 Number of predicted TMRs: 0
+LCADAF_65686	signal	1	20				
+LCADAF_65686	outside	21	40				
+//
+# LCADAF_54384 Length: 39
+# LCADAF_54384 Number of predicted TMRs: 1
+LCADAF_54384	inside	1	14				
+LCADAF_54384	TMhelix	15	35				
+LCADAF_54384	outside	36	39				
+//
+# LCADAF_157275 Length: 42
+# LCADAF_157275 Number of predicted TMRs: 0
+LCADAF_157275	inside	1	42				
+//
+# LCADAF_55741 Length: 46
+# LCADAF_55741 Number of predicted TMRs: 0
+LCADAF_55741	inside	1	46				
+//
+# LCADAF_137829 Length: 42
+# LCADAF_137829 Number of predicted TMRs: 0
+LCADAF_137829	inside	1	42				
+//
+# LCADAF_122320 Length: 46
+# LCADAF_122320 Number of predicted TMRs: 0
+LCADAF_122320	inside	1	46				
+//
+# LCADAF_107144 Length: 36
+# LCADAF_107144 Number of predicted TMRs: 0
+LCADAF_107144	inside	1	36				
+//
+# LCADAF_88362 Length: 43
+# LCADAF_88362 Number of predicted TMRs: 0
+LCADAF_88362	inside	1	43				
+//
+# LCADAF_32684 Length: 50
+# LCADAF_32684 Number of predicted TMRs: 0
+LCADAF_32684	inside	1	50				
+//
+# LCADAF_94486 Length: 50
+# LCADAF_94486 Number of predicted TMRs: 0
+LCADAF_94486	inside	1	50				
+//
+# LCADAF_140827 Length: 42
+# LCADAF_140827 Number of predicted TMRs: 0
+LCADAF_140827	signal	1	35				
+LCADAF_140827	outside	36	42				
+//
+# LCADAF_89699 Length: 46
+# LCADAF_89699 Number of predicted TMRs: 0
+LCADAF_89699	inside	1	46				
+//
+# LCADAF_148087 Length: 34
+# LCADAF_148087 Number of predicted TMRs: 0
+LCADAF_148087	inside	1	34				
+//
+# LCADAF_100123 Length: 39
+# LCADAF_100123 Number of predicted TMRs: 0
+LCADAF_100123	inside	1	39				
+//
+# LCADAF_80911 Length: 44
+# LCADAF_80911 Number of predicted TMRs: 0
+LCADAF_80911	inside	1	44				
+//
+# LCADAF_33566 Length: 48
+# LCADAF_33566 Number of predicted TMRs: 0
+LCADAF_33566	inside	1	48				
+//
+# LCADAF_123913 Length: 45
+# LCADAF_123913 Number of predicted TMRs: 0
+LCADAF_123913	inside	1	45				
+//
+# LCADAF_37391 Length: 49
+# LCADAF_37391 Number of predicted TMRs: 0
+LCADAF_37391	signal	1	46				
+LCADAF_37391	outside	47	49				
+//
+# LCADAF_9356 Length: 47
+# LCADAF_9356 Number of predicted TMRs: 0
+LCADAF_9356	inside	1	47				
+//
+# LCADAF_125336 Length: 49
+# LCADAF_125336 Number of predicted TMRs: 0
+LCADAF_125336	inside	1	49				
+//
+# LCADAF_71027 Length: 50
+# LCADAF_71027 Number of predicted TMRs: 0
+LCADAF_71027	signal	1	15				
+LCADAF_71027	outside	16	50				
+//
+# LCADAF_29325 Length: 49
+# LCADAF_29325 Number of predicted TMRs: 0
+LCADAF_29325	inside	1	49				
+//
+# LCADAF_59790 Length: 49
+# LCADAF_59790 Number of predicted TMRs: 0
+LCADAF_59790	signal	1	42				
+LCADAF_59790	outside	43	49				
+//
+# LCADAF_142504 Length: 48
+# LCADAF_142504 Number of predicted TMRs: 0
+LCADAF_142504	inside	1	48				
+//
+# LCADAF_30127 Length: 34
+# LCADAF_30127 Number of predicted TMRs: 0
+LCADAF_30127	inside	1	34				
+//
+# LCADAF_89080 Length: 34
+# LCADAF_89080 Number of predicted TMRs: 0
+LCADAF_89080	signal	1	33				
+LCADAF_89080	outside	34	34				
+//
+# LCADAF_145219 Length: 50
+# LCADAF_145219 Number of predicted TMRs: 0
+LCADAF_145219	inside	1	50				
+//
+# LCADAF_143523 Length: 40
+# LCADAF_143523 Number of predicted TMRs: 0
+LCADAF_143523	inside	1	40				
+//
+# LCADAF_9875 Length: 47
+# LCADAF_9875 Number of predicted TMRs: 0
+LCADAF_9875	inside	1	47				
+//
+# LCADAF_40298 Length: 47
+# LCADAF_40298 Number of predicted TMRs: 0
+LCADAF_40298	inside	1	47				
+//
+# LCADAF_94171 Length: 39
+# LCADAF_94171 Number of predicted TMRs: 0
+LCADAF_94171	signal	1	28				
+LCADAF_94171	outside	29	39				
+//
+# LCADAF_22081 Length: 44
+# LCADAF_22081 Number of predicted TMRs: 0
+LCADAF_22081	signal	1	15				
+LCADAF_22081	outside	16	44				
+//
+# LCADAF_133646 Length: 42
+# LCADAF_133646 Number of predicted TMRs: 0
+LCADAF_133646	inside	1	42				
+//
+# LCADAF_46639 Length: 39
+# LCADAF_46639 Number of predicted TMRs: 0
+LCADAF_46639	inside	1	39				
+//
+# LCADAF_149298 Length: 46
+# LCADAF_149298 Number of predicted TMRs: 0
+LCADAF_149298	signal	1	37				
+LCADAF_149298	outside	38	46				
+//
+# LCADAF_21359 Length: 38
+# LCADAF_21359 Number of predicted TMRs: 0
+LCADAF_21359	signal	1	32				
+LCADAF_21359	outside	33	38				
+//
+# LCADAF_45764 Length: 32
+# LCADAF_45764 Number of predicted TMRs: 0
+LCADAF_45764	inside	1	32				
+//
+# LCADAF_83405 Length: 42
+# LCADAF_83405 Number of predicted TMRs: 0
+LCADAF_83405	inside	1	42				
+//
+# LCADAF_145353 Length: 45
+# LCADAF_145353 Number of predicted TMRs: 0
+LCADAF_145353	inside	1	45				
+//
+# LCADAF_152997 Length: 45
+# LCADAF_152997 Number of predicted TMRs: 0
+LCADAF_152997	inside	1	45				
+//
+# LCADAF_94988 Length: 43
+# LCADAF_94988 Number of predicted TMRs: 0
+LCADAF_94988	inside	1	43				
+//
+# LCADAF_41859 Length: 41
+# LCADAF_41859 Number of predicted TMRs: 0
+LCADAF_41859	signal	1	36				
+LCADAF_41859	outside	37	41				
+//
+# LCADAF_125818 Length: 42
+# LCADAF_125818 Number of predicted TMRs: 0
+LCADAF_125818	signal	1	40				
+LCADAF_125818	outside	41	42				
+//
+# LCADAF_137042 Length: 49
+# LCADAF_137042 Number of predicted TMRs: 0
+LCADAF_137042	signal	1	39				
+LCADAF_137042	outside	40	49				
+//
+# LCADAF_18062 Length: 43
+# LCADAF_18062 Number of predicted TMRs: 0
+LCADAF_18062	signal	1	40				
+LCADAF_18062	outside	41	43				
+//
+# LCADAF_145309 Length: 50
+# LCADAF_145309 Number of predicted TMRs: 0
+LCADAF_145309	inside	1	50				
+//
+# LCADAF_118051 Length: 45
+# LCADAF_118051 Number of predicted TMRs: 0
+LCADAF_118051	inside	1	45				
+//
+# LCADAF_167223 Length: 36
+# LCADAF_167223 Number of predicted TMRs: 0
+LCADAF_167223	outside	1	36				
+//
+# LCADAF_87146 Length: 40
+# LCADAF_87146 Number of predicted TMRs: 0
+LCADAF_87146	signal	1	10				
+LCADAF_87146	outside	11	40				
+//
+# LCADAF_4044 Length: 46
+# LCADAF_4044 Number of predicted TMRs: 0
+LCADAF_4044	inside	1	46				
+//
+# LCADAF_75359 Length: 50
+# LCADAF_75359 Number of predicted TMRs: 0
+LCADAF_75359	signal	1	49				
+LCADAF_75359	outside	50	50				
+//
+# LCADAF_89864 Length: 49
+# LCADAF_89864 Number of predicted TMRs: 0
+LCADAF_89864	inside	1	49				
+//
+# LCADAF_120551 Length: 40
+# LCADAF_120551 Number of predicted TMRs: 0
+LCADAF_120551	outside	1	40				
+//
+# LCADAF_96938 Length: 49
+# LCADAF_96938 Number of predicted TMRs: 0
+LCADAF_96938	inside	1	49				
+//
+# LCADAF_71651 Length: 46
+# LCADAF_71651 Number of predicted TMRs: 0
+LCADAF_71651	signal	1	11				
+LCADAF_71651	outside	12	46				
+//
+# LCADAF_173974 Length: 47
+# LCADAF_173974 Number of predicted TMRs: 0
+LCADAF_173974	signal	1	45				
+LCADAF_173974	outside	46	47				
+//
+# LCADAF_15610 Length: 50
+# LCADAF_15610 Number of predicted TMRs: 0
+LCADAF_15610	signal	1	18				
+LCADAF_15610	outside	19	50				
+//
+# LCADAF_104761 Length: 48
+# LCADAF_104761 Number of predicted TMRs: 0
+LCADAF_104761	signal	1	37				
+LCADAF_104761	outside	38	48				
+//
+# LCADAF_153810 Length: 45
+# LCADAF_153810 Number of predicted TMRs: 0
+LCADAF_153810	inside	1	45				
+//
+# LCADAF_59683 Length: 47
+# LCADAF_59683 Number of predicted TMRs: 0
+LCADAF_59683	signal	1	14				
+LCADAF_59683	outside	15	47				
+//
+# LCADAF_84773 Length: 43
+# LCADAF_84773 Number of predicted TMRs: 0
+LCADAF_84773	inside	1	43				
+//
+# LCADAF_6946 Length: 36
+# LCADAF_6946 Number of predicted TMRs: 0
+LCADAF_6946	signal	1	18				
+LCADAF_6946	outside	19	36				
+//
+# LCADAF_17763 Length: 37
+# LCADAF_17763 Number of predicted TMRs: 0
+LCADAF_17763	signal	1	35				
+LCADAF_17763	outside	36	37				
+//
+# LCADAF_9324 Length: 45
+# LCADAF_9324 Number of predicted TMRs: 0
+LCADAF_9324	inside	1	45				
+//
+# LCADAF_91142 Length: 50
+# LCADAF_91142 Number of predicted TMRs: 0
+LCADAF_91142	inside	1	50				
+//
+# LCADAF_80722 Length: 40
+# LCADAF_80722 Number of predicted TMRs: 0
+LCADAF_80722	signal	1	39				
+LCADAF_80722	outside	40	40				
+//
+# LCADAF_104189 Length: 49
+# LCADAF_104189 Number of predicted TMRs: 0
+LCADAF_104189	signal	1	24				
+LCADAF_104189	outside	25	49				
+//
+# LCADAF_60286 Length: 48
+# LCADAF_60286 Number of predicted TMRs: 0
+LCADAF_60286	signal	1	10				
+LCADAF_60286	outside	11	48				
+//
+# LCADAF_43178 Length: 40
+# LCADAF_43178 Number of predicted TMRs: 0
+LCADAF_43178	inside	1	40				
+//
+# LCADAF_40736 Length: 49
+# LCADAF_40736 Number of predicted TMRs: 0
+LCADAF_40736	inside	1	49				
+//
+# LCADAF_134992 Length: 45
+# LCADAF_134992 Number of predicted TMRs: 0
+LCADAF_134992	signal	1	35				
+LCADAF_134992	outside	36	45				
+//
+# LCADAF_144267 Length: 50
+# LCADAF_144267 Number of predicted TMRs: 0
+LCADAF_144267	inside	1	50				
+//
+# LCADAF_66968 Length: 49
+# LCADAF_66968 Number of predicted TMRs: 0
+LCADAF_66968	inside	1	49				
+//
+# LCADAF_125838 Length: 49
+# LCADAF_125838 Number of predicted TMRs: 0
+LCADAF_125838	inside	1	49				
+//
+# LCADAF_45828 Length: 48
+# LCADAF_45828 Number of predicted TMRs: 0
+LCADAF_45828	signal	1	13				
+LCADAF_45828	outside	14	48				
+//
+# LCADAF_75211 Length: 47
+# LCADAF_75211 Number of predicted TMRs: 0
+LCADAF_75211	inside	1	47				
+//
+# LCADAF_119248 Length: 46
+# LCADAF_119248 Number of predicted TMRs: 0
+LCADAF_119248	inside	1	46				
+//
+# LCADAF_12435 Length: 41
+# LCADAF_12435 Number of predicted TMRs: 0
+LCADAF_12435	inside	1	41				
+//
+# LCADAF_115245 Length: 45
+# LCADAF_115245 Number of predicted TMRs: 0
+LCADAF_115245	inside	1	45				
+//
+# LCADAF_170869 Length: 48
+# LCADAF_170869 Number of predicted TMRs: 0
+LCADAF_170869	signal	1	26				
+LCADAF_170869	outside	27	48				
+//
+# LCADAF_169662 Length: 40
+# LCADAF_169662 Number of predicted TMRs: 0
+LCADAF_169662	inside	1	40				
+//
+# LCADAF_108978 Length: 41
+# LCADAF_108978 Number of predicted TMRs: 0
+LCADAF_108978	signal	1	11				
+LCADAF_108978	outside	12	41				
+//
+# LCADAF_151335 Length: 41
+# LCADAF_151335 Number of predicted TMRs: 0
+LCADAF_151335	signal	1	24				
+LCADAF_151335	outside	25	41				
+//
+# LCADAF_136725 Length: 46
+# LCADAF_136725 Number of predicted TMRs: 0
+LCADAF_136725	inside	1	46				
+//
+# LCADAF_38061 Length: 46
+# LCADAF_38061 Number of predicted TMRs: 0
+LCADAF_38061	inside	1	46				
+//
+# LCADAF_99100 Length: 43
+# LCADAF_99100 Number of predicted TMRs: 0
+LCADAF_99100	signal	1	42				
+LCADAF_99100	outside	43	43				
+//
+# LCADAF_149449 Length: 43
+# LCADAF_149449 Number of predicted TMRs: 0
+LCADAF_149449	inside	1	43				
+//
+# LCADAF_64498 Length: 35
+# LCADAF_64498 Number of predicted TMRs: 0
+LCADAF_64498	inside	1	35				
+//
+# LCADAF_23887 Length: 46
+# LCADAF_23887 Number of predicted TMRs: 0
+LCADAF_23887	inside	1	46				
+//
+# LCADAF_35519 Length: 37
+# LCADAF_35519 Number of predicted TMRs: 0
+LCADAF_35519	inside	1	37				
+//
+# LCADAF_11305 Length: 39
+# LCADAF_11305 Number of predicted TMRs: 0
+LCADAF_11305	inside	1	39				
+//
+# LCADAF_29519 Length: 48
+# LCADAF_29519 Number of predicted TMRs: 0
+LCADAF_29519	inside	1	48				
+//
+# LCADAF_143704 Length: 48
+# LCADAF_143704 Number of predicted TMRs: 0
+LCADAF_143704	inside	1	48				
+//
+# LCADAF_95167 Length: 49
+# LCADAF_95167 Number of predicted TMRs: 0
+LCADAF_95167	inside	1	49				
+//
+# LCADAF_169207 Length: 49
+# LCADAF_169207 Number of predicted TMRs: 0
+LCADAF_169207	inside	1	49				
+//
+# LCADAF_169439 Length: 37
+# LCADAF_169439 Number of predicted TMRs: 0
+LCADAF_169439	inside	1	37				
+//
+# LCADAF_34893 Length: 37
+# LCADAF_34893 Number of predicted TMRs: 0
+LCADAF_34893	signal	1	32				
+LCADAF_34893	outside	33	37				
+//
+# LCADAF_139215 Length: 46
+# LCADAF_139215 Number of predicted TMRs: 0
+LCADAF_139215	signal	1	10				
+LCADAF_139215	outside	11	46				
+//
+# LCADAF_87153 Length: 40
+# LCADAF_87153 Number of predicted TMRs: 0
+LCADAF_87153	inside	1	40				
+//
+# LCADAF_136560 Length: 46
+# LCADAF_136560 Number of predicted TMRs: 0
+LCADAF_136560	inside	1	46				
+//
+# LCADAF_69406 Length: 43
+# LCADAF_69406 Number of predicted TMRs: 0
+LCADAF_69406	inside	1	43				
+//
+# LCADAF_150143 Length: 42
+# LCADAF_150143 Number of predicted TMRs: 0
+LCADAF_150143	signal	1	40				
+LCADAF_150143	outside	41	42				
+//
+# LCADAF_112581 Length: 38
+# LCADAF_112581 Number of predicted TMRs: 0
+LCADAF_112581	signal	1	36				
+LCADAF_112581	outside	37	38				
+//
+# LCADAF_138802 Length: 39
+# LCADAF_138802 Number of predicted TMRs: 0
+LCADAF_138802	inside	1	39				
+//
+# LCADAF_21754 Length: 43
+# LCADAF_21754 Number of predicted TMRs: 0
+LCADAF_21754	inside	1	43				
+//
+# LCADAF_129485 Length: 44
+# LCADAF_129485 Number of predicted TMRs: 0
+LCADAF_129485	inside	1	44				
+//
+# LCADAF_11497 Length: 48
+# LCADAF_11497 Number of predicted TMRs: 0
+LCADAF_11497	signal	1	47				
+LCADAF_11497	outside	48	48				
+//
+# LCADAF_16903 Length: 40
+# LCADAF_16903 Number of predicted TMRs: 0
+LCADAF_16903	signal	1	27				
+LCADAF_16903	outside	28	40				
+//
+# LCADAF_155346 Length: 41
+# LCADAF_155346 Number of predicted TMRs: 0
+LCADAF_155346	inside	1	41				
+//
+# LCADAF_144374 Length: 48
+# LCADAF_144374 Number of predicted TMRs: 0
+LCADAF_144374	signal	1	47				
+LCADAF_144374	outside	48	48				
+//
+# LCADAF_52729 Length: 45
+# LCADAF_52729 Number of predicted TMRs: 0
+LCADAF_52729	inside	1	45				
+//
+# LCADAF_114205 Length: 48
+# LCADAF_114205 Number of predicted TMRs: 0
+LCADAF_114205	inside	1	48				
+//
+# LCADAF_73304 Length: 50
+# LCADAF_73304 Number of predicted TMRs: 0
+LCADAF_73304	inside	1	50				
+//
+# LCADAF_51219 Length: 49
+# LCADAF_51219 Number of predicted TMRs: 0
+LCADAF_51219	signal	1	30				
+LCADAF_51219	outside	31	49				
+//
+# LCADAF_78793 Length: 41
+# LCADAF_78793 Number of predicted TMRs: 0
+LCADAF_78793	signal	1	40				
+LCADAF_78793	outside	41	41				
+//
+# LCADAF_149607 Length: 47
+# LCADAF_149607 Number of predicted TMRs: 0
+LCADAF_149607	signal	1	14				
+LCADAF_149607	outside	15	47				
+//
+# LCADAF_111076 Length: 36
+# LCADAF_111076 Number of predicted TMRs: 0
+LCADAF_111076	signal	1	12				
+LCADAF_111076	outside	13	36				
+//
+# LCADAF_82024 Length: 49
+# LCADAF_82024 Number of predicted TMRs: 0
+LCADAF_82024	inside	1	49				
+//
+# LCADAF_145606 Length: 42
+# LCADAF_145606 Number of predicted TMRs: 0
+LCADAF_145606	signal	1	32				
+LCADAF_145606	outside	33	42				
+//
+# LCADAF_39419 Length: 38
+# LCADAF_39419 Number of predicted TMRs: 0
+LCADAF_39419	signal	1	30				
+LCADAF_39419	outside	31	38				
+//
+# LCADAF_65334 Length: 48
+# LCADAF_65334 Number of predicted TMRs: 0
+LCADAF_65334	inside	1	48				
+//
+# LCADAF_45207 Length: 49
+# LCADAF_45207 Number of predicted TMRs: 0
+LCADAF_45207	signal	1	12				
+LCADAF_45207	outside	13	49				
+//
+# LCADAF_55477 Length: 43
+# LCADAF_55477 Number of predicted TMRs: 0
+LCADAF_55477	inside	1	43				
+//
+# LCADAF_28381 Length: 43
+# LCADAF_28381 Number of predicted TMRs: 0
+LCADAF_28381	inside	1	43				
+//
+# LCADAF_22260 Length: 34
+# LCADAF_22260 Number of predicted TMRs: 0
+LCADAF_22260	inside	1	34				
+//
+# LCADAF_86825 Length: 44
+# LCADAF_86825 Number of predicted TMRs: 0
+LCADAF_86825	signal	1	43				
+LCADAF_86825	outside	44	44				
+//
+# LCADAF_99321 Length: 46
+# LCADAF_99321 Number of predicted TMRs: 0
+LCADAF_99321	signal	1	12				
+LCADAF_99321	outside	13	46				
+//
+# LCADAF_115901 Length: 48
+# LCADAF_115901 Number of predicted TMRs: 0
+LCADAF_115901	signal	1	47				
+LCADAF_115901	outside	48	48				
+//
+# LCADAF_68778 Length: 47
+# LCADAF_68778 Number of predicted TMRs: 0
+LCADAF_68778	inside	1	47				
+//
+# LCADAF_150351 Length: 47
+# LCADAF_150351 Number of predicted TMRs: 0
+LCADAF_150351	signal	1	14				
+LCADAF_150351	outside	15	47				
+//
+# LCADAF_126329 Length: 46
+# LCADAF_126329 Number of predicted TMRs: 0
+LCADAF_126329	signal	1	43				
+LCADAF_126329	outside	44	46				
+//
+# LCADAF_113484 Length: 46
+# LCADAF_113484 Number of predicted TMRs: 0
+LCADAF_113484	signal	1	43				
+LCADAF_113484	outside	44	46				
+//
+# LCADAF_78430 Length: 50
+# LCADAF_78430 Number of predicted TMRs: 0
+LCADAF_78430	signal	1	49				
+LCADAF_78430	outside	50	50				
+//
+# LCADAF_49930 Length: 46
+# LCADAF_49930 Number of predicted TMRs: 0
+LCADAF_49930	signal	1	30				
+LCADAF_49930	outside	31	46				
+//
+# LCADAF_119648 Length: 50
+# LCADAF_119648 Number of predicted TMRs: 0
+LCADAF_119648	inside	1	50				
+//
+# LCADAF_57409 Length: 47
+# LCADAF_57409 Number of predicted TMRs: 0
+LCADAF_57409	inside	1	47				
+//
+# LCADAF_91747 Length: 48
+# LCADAF_91747 Number of predicted TMRs: 0
+LCADAF_91747	signal	1	44				
+LCADAF_91747	outside	45	48				
+//
+# LCADAF_73396 Length: 43
+# LCADAF_73396 Number of predicted TMRs: 0
+LCADAF_73396	signal	1	42				
+LCADAF_73396	outside	43	43				
+//
+# LCADAF_126556 Length: 43
+# LCADAF_126556 Number of predicted TMRs: 0
+LCADAF_126556	inside	1	43				
+//
+# LCADAF_144373 Length: 36
+# LCADAF_144373 Number of predicted TMRs: 1
+LCADAF_144373	inside	1	11				
+LCADAF_144373	TMhelix	12	28				
+LCADAF_144373	outside	29	36				
+//
+# LCADAF_94942 Length: 43
+# LCADAF_94942 Number of predicted TMRs: 0
+LCADAF_94942	signal	1	32				
+LCADAF_94942	outside	33	43				
+//
+# LCADAF_124171 Length: 45
+# LCADAF_124171 Number of predicted TMRs: 0
+LCADAF_124171	inside	1	45				
+//
+# LCADAF_23826 Length: 44
+# LCADAF_23826 Number of predicted TMRs: 0
+LCADAF_23826	signal	1	28				
+LCADAF_23826	outside	29	44				
+//
+# LCADAF_133441 Length: 26
+# LCADAF_133441 Number of predicted TMRs: 0
+LCADAF_133441	inside	1	26				
+//
+# LCADAF_41464 Length: 48
+# LCADAF_41464 Number of predicted TMRs: 0
+LCADAF_41464	inside	1	48				
+//
+# LCADAF_119113 Length: 47
+# LCADAF_119113 Number of predicted TMRs: 0
+LCADAF_119113	inside	1	47				
+//
+# LCADAF_100529 Length: 45
+# LCADAF_100529 Number of predicted TMRs: 0
+LCADAF_100529	signal	1	26				
+LCADAF_100529	outside	27	45				
+//
+# LCADAF_51706 Length: 45
+# LCADAF_51706 Number of predicted TMRs: 0
+LCADAF_51706	inside	1	45				
+//
+# LCADAF_41897 Length: 47
+# LCADAF_41897 Number of predicted TMRs: 0
+LCADAF_41897	signal	1	23				
+LCADAF_41897	outside	24	47				
+//
+# LCADAF_69870 Length: 34
+# LCADAF_69870 Number of predicted TMRs: 0
+LCADAF_69870	signal	1	23				
+LCADAF_69870	outside	24	34				
+//
+# LCADAF_164763 Length: 41
+# LCADAF_164763 Number of predicted TMRs: 0
+LCADAF_164763	signal	1	33				
+LCADAF_164763	outside	34	41				
+//
+# LCADAF_151376 Length: 49
+# LCADAF_151376 Number of predicted TMRs: 0
+LCADAF_151376	inside	1	49				
+//
+# LCADAF_170489 Length: 38
+# LCADAF_170489 Number of predicted TMRs: 0
+LCADAF_170489	signal	1	18				
+LCADAF_170489	outside	19	38				
+//
+# LCADAF_19244 Length: 49
+# LCADAF_19244 Number of predicted TMRs: 0
+LCADAF_19244	signal	1	12				
+LCADAF_19244	outside	13	49				
+//
+# LCADAF_66934 Length: 47
+# LCADAF_66934 Number of predicted TMRs: 1
+LCADAF_66934	inside	1	27				
+LCADAF_66934	TMhelix	28	41				
+LCADAF_66934	outside	42	47				
+//
+# LCADAF_106174 Length: 49
+# LCADAF_106174 Number of predicted TMRs: 0
+LCADAF_106174	inside	1	49				
+//
+# LCADAF_49783 Length: 48
+# LCADAF_49783 Number of predicted TMRs: 0
+LCADAF_49783	inside	1	48				
+//
+# LCADAF_129707 Length: 49
+# LCADAF_129707 Number of predicted TMRs: 0
+LCADAF_129707	inside	1	49				
+//
+# LCADAF_104391 Length: 40
+# LCADAF_104391 Number of predicted TMRs: 0
+LCADAF_104391	signal	1	28				
+LCADAF_104391	outside	29	40				
+//
+# LCADAF_12739 Length: 49
+# LCADAF_12739 Number of predicted TMRs: 0
+LCADAF_12739	signal	1	38				
+LCADAF_12739	outside	39	49				
+//
+# LCADAF_98799 Length: 49
+# LCADAF_98799 Number of predicted TMRs: 0
+LCADAF_98799	signal	1	10				
+LCADAF_98799	outside	11	49				
+//
+# LCADAF_65214 Length: 33
+# LCADAF_65214 Number of predicted TMRs: 0
+LCADAF_65214	signal	1	29				
+LCADAF_65214	outside	30	33				
+//
+# LCADAF_28334 Length: 28
+# LCADAF_28334 Number of predicted TMRs: 0
+LCADAF_28334	signal	1	25				
+LCADAF_28334	outside	26	28				
+//
+# LCADAF_146253 Length: 47
+# LCADAF_146253 Number of predicted TMRs: 0
+LCADAF_146253	inside	1	47				
+//
+# LCADAF_55617 Length: 45
+# LCADAF_55617 Number of predicted TMRs: 0
+LCADAF_55617	outside	1	45				
+//
+# LCADAF_23830 Length: 48
+# LCADAF_23830 Number of predicted TMRs: 0
+LCADAF_23830	inside	1	48				
+//
+# LCADAF_69564 Length: 46
+# LCADAF_69564 Number of predicted TMRs: 0
+LCADAF_69564	signal	1	45				
+LCADAF_69564	outside	46	46				
+//
+# LCADAF_15035 Length: 47
+# LCADAF_15035 Number of predicted TMRs: 0
+LCADAF_15035	signal	1	46				
+LCADAF_15035	outside	47	47				
+//
+# LCADAF_173544 Length: 45
+# LCADAF_173544 Number of predicted TMRs: 0
+LCADAF_173544	signal	1	34				
+LCADAF_173544	outside	35	45				
+//
+# LCADAF_140092 Length: 47
+# LCADAF_140092 Number of predicted TMRs: 0
+LCADAF_140092	signal	1	34				
+LCADAF_140092	outside	35	47				
+//
+# LCADAF_114632 Length: 47
+# LCADAF_114632 Number of predicted TMRs: 0
+LCADAF_114632	signal	1	14				
+LCADAF_114632	outside	15	47				
+//
+# LCADAF_24807 Length: 48
+# LCADAF_24807 Number of predicted TMRs: 0
+LCADAF_24807	signal	1	10				
+LCADAF_24807	outside	11	48				
+//
+# LCADAF_142589 Length: 37
+# LCADAF_142589 Number of predicted TMRs: 0
+LCADAF_142589	inside	1	37				
+//
+# LCADAF_18470 Length: 47
+# LCADAF_18470 Number of predicted TMRs: 0
+LCADAF_18470	inside	1	47				
+//
+# LCADAF_96721 Length: 37
+# LCADAF_96721 Number of predicted TMRs: 0
+LCADAF_96721	outside	1	37				
+//
+# LCADAF_30395 Length: 49
+# LCADAF_30395 Number of predicted TMRs: 0
+LCADAF_30395	inside	1	49				
+//
+# LCADAF_95782 Length: 37
+# LCADAF_95782 Number of predicted TMRs: 0
+LCADAF_95782	inside	1	37				
+//
+# LCADAF_30615 Length: 42
+# LCADAF_30615 Number of predicted TMRs: 0
+LCADAF_30615	signal	1	39				
+LCADAF_30615	outside	40	42				
+//
+# LCADAF_45018 Length: 49
+# LCADAF_45018 Number of predicted TMRs: 0
+LCADAF_45018	inside	1	49				
+//
+# LCADAF_139566 Length: 49
+# LCADAF_139566 Number of predicted TMRs: 0
+LCADAF_139566	inside	1	49				
+//
+# LCADAF_147922 Length: 40
+# LCADAF_147922 Number of predicted TMRs: 0
+LCADAF_147922	signal	1	14				
+LCADAF_147922	outside	15	40				
+//
+# LCADAF_167024 Length: 49
+# LCADAF_167024 Number of predicted TMRs: 0
+LCADAF_167024	inside	1	49				
+//
+# LCADAF_92284 Length: 46
+# LCADAF_92284 Number of predicted TMRs: 0
+LCADAF_92284	signal	1	23				
+LCADAF_92284	outside	24	46				
+//
+# LCADAF_48345 Length: 48
+# LCADAF_48345 Number of predicted TMRs: 0
+LCADAF_48345	inside	1	48				
+//
+# LCADAF_24052 Length: 48
+# LCADAF_24052 Number of predicted TMRs: 0
+LCADAF_24052	inside	1	48				
+//
+# LCADAF_78841 Length: 40
+# LCADAF_78841 Number of predicted TMRs: 0
+LCADAF_78841	signal	1	20				
+LCADAF_78841	outside	21	40				
+//
+# LCADAF_78837 Length: 41
+# LCADAF_78837 Number of predicted TMRs: 0
+LCADAF_78837	signal	1	21				
+LCADAF_78837	outside	22	41				
+//
+# LCADAF_152523 Length: 48
+# LCADAF_152523 Number of predicted TMRs: 0
+LCADAF_152523	outside	1	48				
+//
+# LCADAF_30053 Length: 41
+# LCADAF_30053 Number of predicted TMRs: 0
+LCADAF_30053	signal	1	14				
+LCADAF_30053	outside	15	41				
+//
+# LCADAF_93718 Length: 49
+# LCADAF_93718 Number of predicted TMRs: 0
+LCADAF_93718	inside	1	49				
+//
+# LCADAF_88973 Length: 45
+# LCADAF_88973 Number of predicted TMRs: 0
+LCADAF_88973	inside	1	45				
+//
+# LCADAF_74800 Length: 47
+# LCADAF_74800 Number of predicted TMRs: 0
+LCADAF_74800	inside	1	47				
+//
+# LCADAF_108406 Length: 48
+# LCADAF_108406 Number of predicted TMRs: 0
+LCADAF_108406	signal	1	29				
+LCADAF_108406	outside	30	48				
+//
+# LCADAF_74259 Length: 46
+# LCADAF_74259 Number of predicted TMRs: 0
+LCADAF_74259	inside	1	46				
+//
+# LCADAF_47835 Length: 50
+# LCADAF_47835 Number of predicted TMRs: 0
+LCADAF_47835	inside	1	50				
+//
+# LCADAF_145142 Length: 43
+# LCADAF_145142 Number of predicted TMRs: 0
+LCADAF_145142	inside	1	43				
+//
+# LCADAF_2410 Length: 43
+# LCADAF_2410 Number of predicted TMRs: 0
+LCADAF_2410	signal	1	42				
+LCADAF_2410	outside	43	43				
+//
+# LCADAF_141895 Length: 44
+# LCADAF_141895 Number of predicted TMRs: 0
+LCADAF_141895	inside	1	44				
+//
+# LCADAF_141608 Length: 42
+# LCADAF_141608 Number of predicted TMRs: 0
+LCADAF_141608	inside	1	42				
+//
+# LCADAF_95067 Length: 37
+# LCADAF_95067 Number of predicted TMRs: 0
+LCADAF_95067	inside	1	37				
+//
+# LCADAF_159595 Length: 50
+# LCADAF_159595 Number of predicted TMRs: 0
+LCADAF_159595	inside	1	50				
+//
+# LCADAF_148183 Length: 44
+# LCADAF_148183 Number of predicted TMRs: 0
+LCADAF_148183	signal	1	40				
+LCADAF_148183	outside	41	44				
+//
+# LCADAF_166097 Length: 44
+# LCADAF_166097 Number of predicted TMRs: 0
+LCADAF_166097	inside	1	44				
+//
+# LCADAF_137044 Length: 38
+# LCADAF_137044 Number of predicted TMRs: 0
+LCADAF_137044	inside	1	38				
+//
+# LCADAF_140696 Length: 46
+# LCADAF_140696 Number of predicted TMRs: 0
+LCADAF_140696	signal	1	45				
+LCADAF_140696	outside	46	46				
+//
+# LCADAF_37754 Length: 49
+# LCADAF_37754 Number of predicted TMRs: 0
+LCADAF_37754	signal	1	12				
+LCADAF_37754	outside	13	49				
+//
+# LCADAF_28397 Length: 49
+# LCADAF_28397 Number of predicted TMRs: 0
+LCADAF_28397	signal	1	14				
+LCADAF_28397	outside	15	49				
+//
+# LCADAF_74485 Length: 44
+# LCADAF_74485 Number of predicted TMRs: 0
+LCADAF_74485	signal	1	11				
+LCADAF_74485	outside	12	44				
+//
+# LCADAF_168185 Length: 43
+# LCADAF_168185 Number of predicted TMRs: 0
+LCADAF_168185	signal	1	35				
+LCADAF_168185	outside	36	43				
+//
+# LCADAF_33788 Length: 40
+# LCADAF_33788 Number of predicted TMRs: 0
+LCADAF_33788	signal	1	39				
+LCADAF_33788	outside	40	40				
+//
+# LCADAF_80344 Length: 39
+# LCADAF_80344 Number of predicted TMRs: 0
+LCADAF_80344	signal	1	38				
+LCADAF_80344	outside	39	39				
+//
+# LCADAF_49215 Length: 46
+# LCADAF_49215 Number of predicted TMRs: 0
+LCADAF_49215	signal	1	10				
+LCADAF_49215	outside	11	46				
+//
+# LCADAF_115972 Length: 49
+# LCADAF_115972 Number of predicted TMRs: 0
+LCADAF_115972	signal	1	47				
+LCADAF_115972	outside	48	49				
+//
+# LCADAF_10654 Length: 46
+# LCADAF_10654 Number of predicted TMRs: 0
+LCADAF_10654	inside	1	46				
+//
+# LCADAF_84017 Length: 33
+# LCADAF_84017 Number of predicted TMRs: 0
+LCADAF_84017	outside	1	33				
+//
+# LCADAF_59297 Length: 39
+# LCADAF_59297 Number of predicted TMRs: 0
+LCADAF_59297	signal	1	17				
+LCADAF_59297	outside	18	39				
+//
+# LCADAF_42065 Length: 50
+# LCADAF_42065 Number of predicted TMRs: 0
+LCADAF_42065	signal	1	44				
+LCADAF_42065	outside	45	50				
+//
+# LCADAF_104991 Length: 47
+# LCADAF_104991 Number of predicted TMRs: 0
+LCADAF_104991	signal	1	15				
+LCADAF_104991	outside	16	47				
+//
+# LCADAF_89391 Length: 49
+# LCADAF_89391 Number of predicted TMRs: 0
+LCADAF_89391	signal	1	37				
+LCADAF_89391	outside	38	49				
+//
+# LCADAF_96476 Length: 46
+# LCADAF_96476 Number of predicted TMRs: 0
+LCADAF_96476	signal	1	16				
+LCADAF_96476	outside	17	46				
+//
+# LCADAF_156734 Length: 44
+# LCADAF_156734 Number of predicted TMRs: 0
+LCADAF_156734	inside	1	44				
+//
+# LCADAF_93136 Length: 50
+# LCADAF_93136 Number of predicted TMRs: 0
+LCADAF_93136	signal	1	44				
+LCADAF_93136	outside	45	50				
+//
+# LCADAF_36547 Length: 49
+# LCADAF_36547 Number of predicted TMRs: 0
+LCADAF_36547	inside	1	49				
+//
+# LCADAF_58436 Length: 36
+# LCADAF_58436 Number of predicted TMRs: 0
+LCADAF_58436	signal	1	12				
+LCADAF_58436	outside	13	36				
+//
+# LCADAF_117488 Length: 48
+# LCADAF_117488 Number of predicted TMRs: 0
+LCADAF_117488	inside	1	48				
+//
+# LCADAF_57191 Length: 37
+# LCADAF_57191 Number of predicted TMRs: 0
+LCADAF_57191	signal	1	29				
+LCADAF_57191	outside	30	37				
+//
+# LCADAF_123992 Length: 40
+# LCADAF_123992 Number of predicted TMRs: 0
+LCADAF_123992	signal	1	27				
+LCADAF_123992	outside	28	40				
+//
+# LCADAF_89767 Length: 50
+# LCADAF_89767 Number of predicted TMRs: 0
+LCADAF_89767	signal	1	43				
+LCADAF_89767	outside	44	50				
+//
+# LCADAF_112030 Length: 35
+# LCADAF_112030 Number of predicted TMRs: 0
+LCADAF_112030	signal	1	34				
+LCADAF_112030	outside	35	35				
+//
+# LCADAF_123601 Length: 50
+# LCADAF_123601 Number of predicted TMRs: 0
+LCADAF_123601	inside	1	50				
+//
+# LCADAF_23404 Length: 46
+# LCADAF_23404 Number of predicted TMRs: 0
+LCADAF_23404	signal	1	18				
+LCADAF_23404	outside	19	46				
+//
+# LCADAF_15162 Length: 42
+# LCADAF_15162 Number of predicted TMRs: 0
+LCADAF_15162	signal	1	41				
+LCADAF_15162	outside	42	42				
+//
+# LCADAF_133540 Length: 42
+# LCADAF_133540 Number of predicted TMRs: 0
+LCADAF_133540	inside	1	42				
+//
+# LCADAF_171147 Length: 42
+# LCADAF_171147 Number of predicted TMRs: 0
+LCADAF_171147	inside	1	42				
+//
+# LCADAF_126129 Length: 42
+# LCADAF_126129 Number of predicted TMRs: 0
+LCADAF_126129	inside	1	42				
+//
+# LCADAF_145415 Length: 42
+# LCADAF_145415 Number of predicted TMRs: 0
+LCADAF_145415	signal	1	40				
+LCADAF_145415	outside	41	42				
+//
+# LCADAF_172653 Length: 42
+# LCADAF_172653 Number of predicted TMRs: 0
+LCADAF_172653	inside	1	42				
+//
+# LCADAF_171178 Length: 42
+# LCADAF_171178 Number of predicted TMRs: 0
+LCADAF_171178	inside	1	42				
+//
+# LCADAF_173938 Length: 42
+# LCADAF_173938 Number of predicted TMRs: 0
+LCADAF_173938	inside	1	42				
+//
+# LCADAF_172910 Length: 42
+# LCADAF_172910 Number of predicted TMRs: 0
+LCADAF_172910	inside	1	42				
+//
+# LCADAF_174127 Length: 42
+# LCADAF_174127 Number of predicted TMRs: 0
+LCADAF_174127	signal	1	41				
+LCADAF_174127	outside	42	42				
+//
+# LCADAF_114702 Length: 42
+# LCADAF_114702 Number of predicted TMRs: 0
+LCADAF_114702	inside	1	42				
+//
+# LCADAF_150581 Length: 42
+# LCADAF_150581 Number of predicted TMRs: 0
+LCADAF_150581	signal	1	41				
+LCADAF_150581	outside	42	42				
+//
+# LCADAF_172720 Length: 41
+# LCADAF_172720 Number of predicted TMRs: 0
+LCADAF_172720	signal	1	37				
+LCADAF_172720	outside	38	41				
+//
+# LCADAF_16726 Length: 42
+# LCADAF_16726 Number of predicted TMRs: 0
+LCADAF_16726	signal	1	40				
+LCADAF_16726	outside	41	42				
+//
+# LCADAF_139885 Length: 42
+# LCADAF_139885 Number of predicted TMRs: 0
+LCADAF_139885	inside	1	42				
+//
+# LCADAF_44634 Length: 42
+# LCADAF_44634 Number of predicted TMRs: 0
+LCADAF_44634	inside	1	42				
+//
+# LCADAF_119878 Length: 42
+# LCADAF_119878 Number of predicted TMRs: 0
+LCADAF_119878	signal	1	41				
+LCADAF_119878	outside	42	42				
+//
+# LCADAF_172091 Length: 42
+# LCADAF_172091 Number of predicted TMRs: 0
+LCADAF_172091	signal	1	41				
+LCADAF_172091	outside	42	42				
+//
+# LCADAF_126135 Length: 42
+# LCADAF_126135 Number of predicted TMRs: 0
+LCADAF_126135	inside	1	42				
+//
+# LCADAF_171161 Length: 42
+# LCADAF_171161 Number of predicted TMRs: 0
+LCADAF_171161	signal	1	41				
+LCADAF_171161	outside	42	42				
+//
+# LCADAF_129639 Length: 42
+# LCADAF_129639 Number of predicted TMRs: 0
+LCADAF_129639	signal	1	41				
+LCADAF_129639	outside	42	42				
+//
+# LCADAF_166631 Length: 42
+# LCADAF_166631 Number of predicted TMRs: 0
+LCADAF_166631	inside	1	42				
+//
+# LCADAF_95209 Length: 42
+# LCADAF_95209 Number of predicted TMRs: 0
+LCADAF_95209	inside	1	42				
+//
+# LCADAF_174005 Length: 42
+# LCADAF_174005 Number of predicted TMRs: 0
+LCADAF_174005	inside	1	42				
+//
+# LCADAF_172780 Length: 42
+# LCADAF_172780 Number of predicted TMRs: 0
+LCADAF_172780	signal	1	41				
+LCADAF_172780	outside	42	42				
+//
+# LCADAF_93771 Length: 42
+# LCADAF_93771 Number of predicted TMRs: 0
+LCADAF_93771	signal	1	41				
+LCADAF_93771	outside	42	42				
+//
+# LCADAF_167573 Length: 42
+# LCADAF_167573 Number of predicted TMRs: 0
+LCADAF_167573	signal	1	41				
+LCADAF_167573	outside	42	42				
+//
+# LCADAF_170217 Length: 44
+# LCADAF_170217 Number of predicted TMRs: 0
+LCADAF_170217	signal	1	32				
+LCADAF_170217	outside	33	44				
+//
+# LCADAF_173885 Length: 42
+# LCADAF_173885 Number of predicted TMRs: 0
+LCADAF_173885	signal	1	41				
+LCADAF_173885	outside	42	42				
+//
+# LCADAF_167292 Length: 42
+# LCADAF_167292 Number of predicted TMRs: 0
+LCADAF_167292	signal	1	41				
+LCADAF_167292	outside	42	42				
+//
+# LCADAF_91837 Length: 42
+# LCADAF_91837 Number of predicted TMRs: 0
+LCADAF_91837	signal	1	41				
+LCADAF_91837	outside	42	42				
+//
+# LCADAF_121299 Length: 44
+# LCADAF_121299 Number of predicted TMRs: 0
+LCADAF_121299	signal	1	32				
+LCADAF_121299	outside	33	44				
+//
+# LCADAF_23287 Length: 38
+# LCADAF_23287 Number of predicted TMRs: 0
+LCADAF_23287	signal	1	10				
+LCADAF_23287	outside	11	38				
+//
+# LCADAF_42190 Length: 45
+# LCADAF_42190 Number of predicted TMRs: 0
+LCADAF_42190	signal	1	29				
+LCADAF_42190	outside	30	45				
+//
+# LCADAF_141936 Length: 44
+# LCADAF_141936 Number of predicted TMRs: 0
+LCADAF_141936	inside	1	44				
+//
+# LCADAF_28552 Length: 44
+# LCADAF_28552 Number of predicted TMRs: 0
+LCADAF_28552	signal	1	35				
+LCADAF_28552	outside	36	44				
+//
+# LCADAF_129660 Length: 49
+# LCADAF_129660 Number of predicted TMRs: 0
+LCADAF_129660	inside	1	49				
+//
+# LCADAF_2903 Length: 44
+# LCADAF_2903 Number of predicted TMRs: 0
+LCADAF_2903	signal	1	31				
+LCADAF_2903	outside	32	44				
+//
+# LCADAF_126506 Length: 40
+# LCADAF_126506 Number of predicted TMRs: 0
+LCADAF_126506	inside	1	40				
+//
+# LCADAF_129155 Length: 50
+# LCADAF_129155 Number of predicted TMRs: 0
+LCADAF_129155	inside	1	50				
+//
+# LCADAF_136635 Length: 42
+# LCADAF_136635 Number of predicted TMRs: 0
+LCADAF_136635	signal	1	40				
+LCADAF_136635	outside	41	42				
+//
+# LCADAF_55110 Length: 44
+# LCADAF_55110 Number of predicted TMRs: 0
+LCADAF_55110	signal	1	34				
+LCADAF_55110	outside	35	44				
+//
+# LCADAF_2865 Length: 41
+# LCADAF_2865 Number of predicted TMRs: 0
+LCADAF_2865	signal	1	40				
+LCADAF_2865	outside	41	41				
+//
+# LCADAF_83988 Length: 38
+# LCADAF_83988 Number of predicted TMRs: 0
+LCADAF_83988	inside	1	38				
+//
+# LCADAF_117548 Length: 47
+# LCADAF_117548 Number of predicted TMRs: 0
+LCADAF_117548	signal	1	46				
+LCADAF_117548	outside	47	47				
+//
+# LCADAF_37816 Length: 46
+# LCADAF_37816 Number of predicted TMRs: 0
+LCADAF_37816	signal	1	10				
+LCADAF_37816	outside	11	46				
+//
+# LCADAF_146511 Length: 47
+# LCADAF_146511 Number of predicted TMRs: 0
+LCADAF_146511	inside	1	47				
+//
+# LCADAF_67509 Length: 35
+# LCADAF_67509 Number of predicted TMRs: 0
+LCADAF_67509	signal	1	20				
+LCADAF_67509	outside	21	35				
+//
+# LCADAF_55579 Length: 44
+# LCADAF_55579 Number of predicted TMRs: 0
+LCADAF_55579	signal	1	32				
+LCADAF_55579	outside	33	44				
+//
+# LCADAF_154414 Length: 50
+# LCADAF_154414 Number of predicted TMRs: 0
+LCADAF_154414	signal	1	38				
+LCADAF_154414	outside	39	50				
+//
+# LCADAF_98381 Length: 38
+# LCADAF_98381 Number of predicted TMRs: 0
+LCADAF_98381	inside	1	38				
+//
+# LCADAF_134268 Length: 44
+# LCADAF_134268 Number of predicted TMRs: 0
+LCADAF_134268	signal	1	10				
+LCADAF_134268	outside	11	44				
+//
+# LCADAF_95678 Length: 38
+# LCADAF_95678 Number of predicted TMRs: 0
+LCADAF_95678	outside	1	38				
+//
+# LCADAF_44458 Length: 45
+# LCADAF_44458 Number of predicted TMRs: 0
+LCADAF_44458	inside	1	45				
+//
+# LCADAF_14902 Length: 47
+# LCADAF_14902 Number of predicted TMRs: 0
+LCADAF_14902	signal	1	41				
+LCADAF_14902	outside	42	47				
+//
+# LCADAF_80245 Length: 49
+# LCADAF_80245 Number of predicted TMRs: 0
+LCADAF_80245	inside	1	49				
+//
+# LCADAF_94783 Length: 45
+# LCADAF_94783 Number of predicted TMRs: 0
+LCADAF_94783	inside	1	45				
+//
+# LCADAF_174079 Length: 41
+# LCADAF_174079 Number of predicted TMRs: 0
+LCADAF_174079	signal	1	40				
+LCADAF_174079	outside	41	41				
+//
+# LCADAF_174050 Length: 41
+# LCADAF_174050 Number of predicted TMRs: 0
+LCADAF_174050	inside	1	41				
+//
+# LCADAF_166814 Length: 43
+# LCADAF_166814 Number of predicted TMRs: 0
+LCADAF_166814	inside	1	43				
+//
+# LCADAF_159465 Length: 45
+# LCADAF_159465 Number of predicted TMRs: 0
+LCADAF_159465	signal	1	18				
+LCADAF_159465	outside	19	45				
+//
+# LCADAF_119553 Length: 48
+# LCADAF_119553 Number of predicted TMRs: 0
+LCADAF_119553	inside	1	48				
+//
+# LCADAF_139899 Length: 47
+# LCADAF_139899 Number of predicted TMRs: 0
+LCADAF_139899	inside	1	47				
+//
+# LCADAF_100452 Length: 37
+# LCADAF_100452 Number of predicted TMRs: 0
+LCADAF_100452	signal	1	35				
+LCADAF_100452	outside	36	37				
+//
+# LCADAF_75202 Length: 43
+# LCADAF_75202 Number of predicted TMRs: 0
+LCADAF_75202	signal	1	15				
+LCADAF_75202	outside	16	43				
+//
+# LCADAF_48169 Length: 49
+# LCADAF_48169 Number of predicted TMRs: 0
+LCADAF_48169	inside	1	49				
+//
+# LCADAF_18296 Length: 46
+# LCADAF_18296 Number of predicted TMRs: 0
+LCADAF_18296	signal	1	26				
+LCADAF_18296	outside	27	46				
+//
+# LCADAF_117162 Length: 41
+# LCADAF_117162 Number of predicted TMRs: 0
+LCADAF_117162	inside	1	41				
+//
+# LCADAF_69754 Length: 49
+# LCADAF_69754 Number of predicted TMRs: 0
+LCADAF_69754	inside	1	49				
+//
+# LCADAF_113505 Length: 47
+# LCADAF_113505 Number of predicted TMRs: 0
+LCADAF_113505	inside	1	47				
+//
+# LCADAF_8433 Length: 45
+# LCADAF_8433 Number of predicted TMRs: 0
+LCADAF_8433	signal	1	44				
+LCADAF_8433	outside	45	45				
+//
+# LCADAF_108822 Length: 49
+# LCADAF_108822 Number of predicted TMRs: 0
+LCADAF_108822	inside	1	49				
+//
+# LCADAF_67727 Length: 41
+# LCADAF_67727 Number of predicted TMRs: 0
+LCADAF_67727	inside	1	41				
+//
+# LCADAF_43531 Length: 40
+# LCADAF_43531 Number of predicted TMRs: 0
+LCADAF_43531	outside	1	40				
+//
+# LCADAF_170385 Length: 41
+# LCADAF_170385 Number of predicted TMRs: 0
+LCADAF_170385	inside	1	41				
+//
+# LCADAF_93985 Length: 39
+# LCADAF_93985 Number of predicted TMRs: 0
+LCADAF_93985	signal	1	10				
+LCADAF_93985	outside	11	39				
+//
+# LCADAF_21433 Length: 47
+# LCADAF_21433 Number of predicted TMRs: 0
+LCADAF_21433	signal	1	10				
+LCADAF_21433	outside	11	47				
+//
+# LCADAF_167287 Length: 42
+# LCADAF_167287 Number of predicted TMRs: 0
+LCADAF_167287	signal	1	15				
+LCADAF_167287	outside	16	42				
+//
+# LCADAF_73524 Length: 50
+# LCADAF_73524 Number of predicted TMRs: 0
+LCADAF_73524	inside	1	50				
+//
+# LCADAF_164743 Length: 49
+# LCADAF_164743 Number of predicted TMRs: 0
+LCADAF_164743	inside	1	49				
+//
+# LCADAF_41833 Length: 50
+# LCADAF_41833 Number of predicted TMRs: 0
+LCADAF_41833	outside	1	50				
+//
+# LCADAF_2252 Length: 46
+# LCADAF_2252 Number of predicted TMRs: 0
+LCADAF_2252	inside	1	46				
+//
+# LCADAF_115398 Length: 49
+# LCADAF_115398 Number of predicted TMRs: 0
+LCADAF_115398	inside	1	49				
+//
+# LCADAF_170076 Length: 41
+# LCADAF_170076 Number of predicted TMRs: 0
+LCADAF_170076	signal	1	32				
+LCADAF_170076	outside	33	41				
+//
+# LCADAF_17323 Length: 47
+# LCADAF_17323 Number of predicted TMRs: 0
+LCADAF_17323	signal	1	28				
+LCADAF_17323	outside	29	47				
+//
+# LCADAF_49815 Length: 41
+# LCADAF_49815 Number of predicted TMRs: 0
+LCADAF_49815	signal	1	36				
+LCADAF_49815	outside	37	41				
+//
+# LCADAF_120307 Length: 41
+# LCADAF_120307 Number of predicted TMRs: 0
+LCADAF_120307	signal	1	32				
+LCADAF_120307	outside	33	41				
+//
+# LCADAF_21209 Length: 48
+# LCADAF_21209 Number of predicted TMRs: 0
+LCADAF_21209	inside	1	48				
+//
+# LCADAF_107951 Length: 40
+# LCADAF_107951 Number of predicted TMRs: 0
+LCADAF_107951	signal	1	14				
+LCADAF_107951	outside	15	40				
+//
+# LCADAF_55941 Length: 46
+# LCADAF_55941 Number of predicted TMRs: 0
+LCADAF_55941	inside	1	46				
+//
+# LCADAF_55365 Length: 50
+# LCADAF_55365 Number of predicted TMRs: 0
+LCADAF_55365	signal	1	43				
+LCADAF_55365	outside	44	50				
+//
+# LCADAF_145350 Length: 50
+# LCADAF_145350 Number of predicted TMRs: 0
+LCADAF_145350	inside	1	50				
+//
+# LCADAF_91553 Length: 42
+# LCADAF_91553 Number of predicted TMRs: 0
+LCADAF_91553	signal	1	27				
+LCADAF_91553	outside	28	42				
+//
+# LCADAF_14763 Length: 47
+# LCADAF_14763 Number of predicted TMRs: 0
+LCADAF_14763	inside	1	47				
+//
+# LCADAF_129323 Length: 45
+# LCADAF_129323 Number of predicted TMRs: 0
+LCADAF_129323	inside	1	45				
+//
+# LCADAF_42765 Length: 50
+# LCADAF_42765 Number of predicted TMRs: 0
+LCADAF_42765	inside	1	50				
+//
+# LCADAF_70015 Length: 49
+# LCADAF_70015 Number of predicted TMRs: 0
+LCADAF_70015	signal	1	47				
+LCADAF_70015	outside	48	49				
+//
+# LCADAF_65387 Length: 37
+# LCADAF_65387 Number of predicted TMRs: 0
+LCADAF_65387	inside	1	37				
+//
+# LCADAF_170829 Length: 44
+# LCADAF_170829 Number of predicted TMRs: 0
+LCADAF_170829	inside	1	44				
+//
+# LCADAF_32190 Length: 46
+# LCADAF_32190 Number of predicted TMRs: 0
+LCADAF_32190	inside	1	46				
+//
+# LCADAF_82243 Length: 48
+# LCADAF_82243 Number of predicted TMRs: 0
+LCADAF_82243	inside	1	48				
+//
+# LCADAF_43183 Length: 50
+# LCADAF_43183 Number of predicted TMRs: 0
+LCADAF_43183	signal	1	12				
+LCADAF_43183	outside	13	50				
+//
+# LCADAF_107265 Length: 45
+# LCADAF_107265 Number of predicted TMRs: 0
+LCADAF_107265	inside	1	45				
+//
+# LCADAF_16314 Length: 39
+# LCADAF_16314 Number of predicted TMRs: 0
+LCADAF_16314	inside	1	39				
+//
+# LCADAF_22431 Length: 50
+# LCADAF_22431 Number of predicted TMRs: 0
+LCADAF_22431	outside	1	50				
+//
+# LCADAF_76329 Length: 50
+# LCADAF_76329 Number of predicted TMRs: 0
+LCADAF_76329	inside	1	50				
+//
+# LCADAF_2868 Length: 47
+# LCADAF_2868 Number of predicted TMRs: 0
+LCADAF_2868	inside	1	47				
+//
+# LCADAF_150 Length: 41
+# LCADAF_150 Number of predicted TMRs: 0
+LCADAF_150	signal	1	13				
+LCADAF_150	outside	14	41				
+//
+# LCADAF_51505 Length: 40
+# LCADAF_51505 Number of predicted TMRs: 0
+LCADAF_51505	inside	1	40				
+//
+# LCADAF_26319 Length: 42
+# LCADAF_26319 Number of predicted TMRs: 0
+LCADAF_26319	outside	1	42				
+//
+# LCADAF_106493 Length: 41
+# LCADAF_106493 Number of predicted TMRs: 0
+LCADAF_106493	signal	1	40				
+LCADAF_106493	outside	41	41				
+//
+# LCADAF_146065 Length: 37
+# LCADAF_146065 Number of predicted TMRs: 0
+LCADAF_146065	signal	1	30				
+LCADAF_146065	outside	31	37				
+//
+# LCADAF_130813 Length: 46
+# LCADAF_130813 Number of predicted TMRs: 0
+LCADAF_130813	inside	1	46				
+//
+# LCADAF_99883 Length: 50
+# LCADAF_99883 Number of predicted TMRs: 0
+LCADAF_99883	inside	1	50				
+//
+# LCADAF_143268 Length: 49
+# LCADAF_143268 Number of predicted TMRs: 0
+LCADAF_143268	outside	1	49				
+//
+# LCADAF_92516 Length: 42
+# LCADAF_92516 Number of predicted TMRs: 0
+LCADAF_92516	signal	1	16				
+LCADAF_92516	outside	17	42				
+//
+# LCADAF_154973 Length: 40
+# LCADAF_154973 Number of predicted TMRs: 0
+LCADAF_154973	signal	1	26				
+LCADAF_154973	outside	27	40				
+//
+# LCADAF_38462 Length: 49
+# LCADAF_38462 Number of predicted TMRs: 0
+LCADAF_38462	signal	1	23				
+LCADAF_38462	outside	24	49				
+//
+# LCADAF_104715 Length: 44
+# LCADAF_104715 Number of predicted TMRs: 0
+LCADAF_104715	inside	1	44				
+//
+# LCADAF_32984 Length: 44
+# LCADAF_32984 Number of predicted TMRs: 0
+LCADAF_32984	inside	1	44				
+//
+# LCADAF_169659 Length: 44
+# LCADAF_169659 Number of predicted TMRs: 0
+LCADAF_169659	signal	1	43				
+LCADAF_169659	outside	44	44				
+//
+# LCADAF_41223 Length: 44
+# LCADAF_41223 Number of predicted TMRs: 0
+LCADAF_41223	inside	1	44				
+//
+# LCADAF_84978 Length: 42
+# LCADAF_84978 Number of predicted TMRs: 0
+LCADAF_84978	signal	1	41				
+LCADAF_84978	outside	42	42				
+//
+# LCADAF_10674 Length: 47
+# LCADAF_10674 Number of predicted TMRs: 0
+LCADAF_10674	inside	1	47				
+//
+# LCADAF_75650 Length: 44
+# LCADAF_75650 Number of predicted TMRs: 0
+LCADAF_75650	inside	1	44				
+//
+# LCADAF_17834 Length: 49
+# LCADAF_17834 Number of predicted TMRs: 0
+LCADAF_17834	inside	1	49				
+//
+# LCADAF_7974 Length: 48
+# LCADAF_7974 Number of predicted TMRs: 0
+LCADAF_7974	inside	1	48				
+//
+# LCADAF_124156 Length: 40
+# LCADAF_124156 Number of predicted TMRs: 0
+LCADAF_124156	signal	1	39				
+LCADAF_124156	outside	40	40				
+//
+# LCADAF_137823 Length: 43
+# LCADAF_137823 Number of predicted TMRs: 0
+LCADAF_137823	signal	1	38				
+LCADAF_137823	outside	39	43				
+//
+# LCADAF_11061 Length: 48
+# LCADAF_11061 Number of predicted TMRs: 0
+LCADAF_11061	inside	1	48				
+//
+# LCADAF_102058 Length: 46
+# LCADAF_102058 Number of predicted TMRs: 0
+LCADAF_102058	inside	1	46				
+//
+# LCADAF_146099 Length: 44
+# LCADAF_146099 Number of predicted TMRs: 0
+LCADAF_146099	signal	1	32				
+LCADAF_146099	outside	33	44				
+//
+# LCADAF_30447 Length: 35
+# LCADAF_30447 Number of predicted TMRs: 0
+LCADAF_30447	inside	1	35				
+//
+# LCADAF_98483 Length: 45
+# LCADAF_98483 Number of predicted TMRs: 0
+LCADAF_98483	inside	1	45				
+//
+# LCADAF_46060 Length: 44
+# LCADAF_46060 Number of predicted TMRs: 0
+LCADAF_46060	signal	1	43				
+LCADAF_46060	outside	44	44				
+//
+# LCADAF_140121 Length: 49
+# LCADAF_140121 Number of predicted TMRs: 0
+LCADAF_140121	inside	1	49				
+//
+# LCADAF_135071 Length: 49
+# LCADAF_135071 Number of predicted TMRs: 0
+LCADAF_135071	signal	1	40				
+LCADAF_135071	outside	41	49				
+//
+# LCADAF_44593 Length: 40
+# LCADAF_44593 Number of predicted TMRs: 0
+LCADAF_44593	signal	1	10				
+LCADAF_44593	outside	11	40				
+//
+# LCADAF_173534 Length: 43
+# LCADAF_173534 Number of predicted TMRs: 0
+LCADAF_173534	inside	1	43				
+//
+# LCADAF_12680 Length: 45
+# LCADAF_12680 Number of predicted TMRs: 0
+LCADAF_12680	inside	1	45				
+//
+# LCADAF_70861 Length: 46
+# LCADAF_70861 Number of predicted TMRs: 0
+LCADAF_70861	signal	1	43				
+LCADAF_70861	outside	44	46				
+//
+# LCADAF_54882 Length: 49
+# LCADAF_54882 Number of predicted TMRs: 0
+LCADAF_54882	signal	1	22				
+LCADAF_54882	outside	23	49				
+//
+# LCADAF_27002 Length: 50
+# LCADAF_27002 Number of predicted TMRs: 0
+LCADAF_27002	inside	1	50				
+//
+# LCADAF_133647 Length: 46
+# LCADAF_133647 Number of predicted TMRs: 0
+LCADAF_133647	inside	1	46				
+//
+# LCADAF_131205 Length: 48
+# LCADAF_131205 Number of predicted TMRs: 0
+LCADAF_131205	inside	1	48				
+//
+# LCADAF_27194 Length: 45
+# LCADAF_27194 Number of predicted TMRs: 0
+LCADAF_27194	inside	1	45				
+//
+# LCADAF_46625 Length: 47
+# LCADAF_46625 Number of predicted TMRs: 0
+LCADAF_46625	signal	1	41				
+LCADAF_46625	outside	42	47				
+//
+# LCADAF_101233 Length: 46
+# LCADAF_101233 Number of predicted TMRs: 0
+LCADAF_101233	inside	1	46				
+//
+# LCADAF_59349 Length: 41
+# LCADAF_59349 Number of predicted TMRs: 0
+LCADAF_59349	inside	1	41				
+//
+# LCADAF_18569 Length: 37
+# LCADAF_18569 Number of predicted TMRs: 0
+LCADAF_18569	signal	1	34				
+LCADAF_18569	outside	35	37				
+//
+# LCADAF_139211 Length: 39
+# LCADAF_139211 Number of predicted TMRs: 0
+LCADAF_139211	signal	1	19				
+LCADAF_139211	outside	20	39				
+//
+# LCADAF_126917 Length: 47
+# LCADAF_126917 Number of predicted TMRs: 0
+LCADAF_126917	signal	1	41				
+LCADAF_126917	outside	42	47				
+//
+# LCADAF_167661 Length: 37
+# LCADAF_167661 Number of predicted TMRs: 0
+LCADAF_167661	signal	1	11				
+LCADAF_167661	outside	12	37				
+//
+# LCADAF_142865 Length: 50
+# LCADAF_142865 Number of predicted TMRs: 0
+LCADAF_142865	outside	1	50				
+//
+# LCADAF_140018 Length: 39
+# LCADAF_140018 Number of predicted TMRs: 0
+LCADAF_140018	signal	1	38				
+LCADAF_140018	outside	39	39				
+//
+# LCADAF_90348 Length: 42
+# LCADAF_90348 Number of predicted TMRs: 0
+LCADAF_90348	inside	1	42				
+//
+# LCADAF_116835 Length: 44
+# LCADAF_116835 Number of predicted TMRs: 0
+LCADAF_116835	signal	1	43				
+LCADAF_116835	outside	44	44				
+//
+# LCADAF_103093 Length: 47
+# LCADAF_103093 Number of predicted TMRs: 0
+LCADAF_103093	signal	1	46				
+LCADAF_103093	outside	47	47				
+//
+# LCADAF_13098 Length: 49
+# LCADAF_13098 Number of predicted TMRs: 0
+LCADAF_13098	inside	1	49				
+//
+# LCADAF_92363 Length: 47
+# LCADAF_92363 Number of predicted TMRs: 0
+LCADAF_92363	inside	1	47				
+//
+# LCADAF_127980 Length: 45
+# LCADAF_127980 Number of predicted TMRs: 0
+LCADAF_127980	signal	1	41				
+LCADAF_127980	outside	42	45				
+//
+# LCADAF_53914 Length: 47
+# LCADAF_53914 Number of predicted TMRs: 0
+LCADAF_53914	signal	1	18				
+LCADAF_53914	outside	19	47				
+//
+# LCADAF_174051 Length: 47
+# LCADAF_174051 Number of predicted TMRs: 0
+LCADAF_174051	signal	1	14				
+LCADAF_174051	outside	15	47				
+//
+# LCADAF_52137 Length: 50
+# LCADAF_52137 Number of predicted TMRs: 0
+LCADAF_52137	inside	1	50				
+//
+# LCADAF_125355 Length: 40
+# LCADAF_125355 Number of predicted TMRs: 0
+LCADAF_125355	signal	1	35				
+LCADAF_125355	outside	36	40				
+//
+# LCADAF_142858 Length: 41
+# LCADAF_142858 Number of predicted TMRs: 0
+LCADAF_142858	inside	1	41				
+//
+# LCADAF_81589 Length: 42
+# LCADAF_81589 Number of predicted TMRs: 0
+LCADAF_81589	signal	1	41				
+LCADAF_81589	outside	42	42				
+//
+# LCADAF_73743 Length: 50
+# LCADAF_73743 Number of predicted TMRs: 0
+LCADAF_73743	inside	1	50				
+//
+# LCADAF_4910 Length: 46
+# LCADAF_4910 Number of predicted TMRs: 0
+LCADAF_4910	inside	1	46				
+//
+# LCADAF_167032 Length: 39
+# LCADAF_167032 Number of predicted TMRs: 0
+LCADAF_167032	inside	1	39				
+//
+# LCADAF_145107 Length: 39
+# LCADAF_145107 Number of predicted TMRs: 0
+LCADAF_145107	inside	1	39				
+//
+# LCADAF_95129 Length: 34
+# LCADAF_95129 Number of predicted TMRs: 0
+LCADAF_95129	inside	1	34				
+//
+# LCADAF_139454 Length: 47
+# LCADAF_139454 Number of predicted TMRs: 0
+LCADAF_139454	inside	1	47				
+//
+# LCADAF_13737 Length: 46
+# LCADAF_13737 Number of predicted TMRs: 0
+LCADAF_13737	signal	1	26				
+LCADAF_13737	outside	27	46				
+//
+# LCADAF_25708 Length: 47
+# LCADAF_25708 Number of predicted TMRs: 0
+LCADAF_25708	inside	1	47				
+//
+# LCADAF_39494 Length: 46
+# LCADAF_39494 Number of predicted TMRs: 0
+LCADAF_39494	signal	1	23				
+LCADAF_39494	outside	24	46				
+//
+# LCADAF_136691 Length: 41
+# LCADAF_136691 Number of predicted TMRs: 0
+LCADAF_136691	inside	1	41				
+//
+# LCADAF_35358 Length: 37
+# LCADAF_35358 Number of predicted TMRs: 0
+LCADAF_35358	signal	1	13				
+LCADAF_35358	outside	14	37				
+//
+# LCADAF_37045 Length: 49
+# LCADAF_37045 Number of predicted TMRs: 0
+LCADAF_37045	signal	1	13				
+LCADAF_37045	outside	14	49				
+//
+# LCADAF_114785 Length: 49
+# LCADAF_114785 Number of predicted TMRs: 0
+LCADAF_114785	signal	1	14				
+LCADAF_114785	outside	15	49				
+//
+# LCADAF_19637 Length: 45
+# LCADAF_19637 Number of predicted TMRs: 0
+LCADAF_19637	inside	1	45				
+//
+# LCADAF_25554 Length: 37
+# LCADAF_25554 Number of predicted TMRs: 0
+LCADAF_25554	signal	1	35				
+LCADAF_25554	outside	36	37				
+//
+# LCADAF_146244 Length: 47
+# LCADAF_146244 Number of predicted TMRs: 0
+LCADAF_146244	inside	1	47				
+//
+# LCADAF_93824 Length: 47
+# LCADAF_93824 Number of predicted TMRs: 0
+LCADAF_93824	inside	1	47				
+//
+# LCADAF_145716 Length: 49
+# LCADAF_145716 Number of predicted TMRs: 0
+LCADAF_145716	inside	1	49				
+//
+# LCADAF_114694 Length: 48
+# LCADAF_114694 Number of predicted TMRs: 1
+LCADAF_114694	outside	1	14				
+LCADAF_114694	TMhelix	15	35				
+LCADAF_114694	inside	36	48				
+//
+# LCADAF_61250 Length: 49
+# LCADAF_61250 Number of predicted TMRs: 0
+LCADAF_61250	signal	1	19				
+LCADAF_61250	outside	20	49				
+//
+# LCADAF_22258 Length: 49
+# LCADAF_22258 Number of predicted TMRs: 0
+LCADAF_22258	signal	1	47				
+LCADAF_22258	outside	48	49				
+//
+# LCADAF_8170 Length: 47
+# LCADAF_8170 Number of predicted TMRs: 0
+LCADAF_8170	outside	1	47				
+//
+# LCADAF_144002 Length: 48
+# LCADAF_144002 Number of predicted TMRs: 0
+LCADAF_144002	inside	1	48				
+//
+# LCADAF_81532 Length: 48
+# LCADAF_81532 Number of predicted TMRs: 0
+LCADAF_81532	inside	1	48				
+//
+# LCADAF_160452 Length: 39
+# LCADAF_160452 Number of predicted TMRs: 0
+LCADAF_160452	signal	1	38				
+LCADAF_160452	outside	39	39				
+//
+# LCADAF_172348 Length: 43
+# LCADAF_172348 Number of predicted TMRs: 0
+LCADAF_172348	inside	1	43				
+//
+# LCADAF_12638 Length: 49
+# LCADAF_12638 Number of predicted TMRs: 0
+LCADAF_12638	inside	1	49				
+//
+# LCADAF_86651 Length: 48
+# LCADAF_86651 Number of predicted TMRs: 0
+LCADAF_86651	signal	1	47				
+LCADAF_86651	outside	48	48				
+//
+# LCADAF_167909 Length: 44
+# LCADAF_167909 Number of predicted TMRs: 0
+LCADAF_167909	signal	1	21				
+LCADAF_167909	outside	22	44				
+//
+# LCADAF_685 Length: 47
+# LCADAF_685 Number of predicted TMRs: 0
+LCADAF_685	inside	1	47				
+//
+# LCADAF_675 Length: 45
+# LCADAF_675 Number of predicted TMRs: 0
+LCADAF_675	inside	1	45				
+//
+# LCADAF_145722 Length: 49
+# LCADAF_145722 Number of predicted TMRs: 0
+LCADAF_145722	inside	1	49				
+//
+# LCADAF_145992 Length: 45
+# LCADAF_145992 Number of predicted TMRs: 0
+LCADAF_145992	signal	1	20				
+LCADAF_145992	outside	21	45				
+//
+# LCADAF_65338 Length: 43
+# LCADAF_65338 Number of predicted TMRs: 0
+LCADAF_65338	inside	1	43				
+//
+# LCADAF_17796 Length: 46
+# LCADAF_17796 Number of predicted TMRs: 0
+LCADAF_17796	signal	1	45				
+LCADAF_17796	outside	46	46				
+//
+# LCADAF_122777 Length: 50
+# LCADAF_122777 Number of predicted TMRs: 0
+LCADAF_122777	signal	1	48				
+LCADAF_122777	outside	49	50				
+//
+# LCADAF_140397 Length: 47
+# LCADAF_140397 Number of predicted TMRs: 0
+LCADAF_140397	signal	1	45				
+LCADAF_140397	outside	46	47				
+//
+# LCADAF_141584 Length: 42
+# LCADAF_141584 Number of predicted TMRs: 0
+LCADAF_141584	inside	1	42				
+//
+# LCADAF_164070 Length: 41
+# LCADAF_164070 Number of predicted TMRs: 0
+LCADAF_164070	inside	1	41				
+//
+# LCADAF_168439 Length: 44
+# LCADAF_168439 Number of predicted TMRs: 0
+LCADAF_168439	inside	1	44				
+//
+# LCADAF_100868 Length: 50
+# LCADAF_100868 Number of predicted TMRs: 0
+LCADAF_100868	signal	1	17				
+LCADAF_100868	outside	18	50				

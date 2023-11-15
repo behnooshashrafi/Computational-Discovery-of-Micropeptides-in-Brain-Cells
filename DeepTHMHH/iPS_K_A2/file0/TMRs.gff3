@@ -1,0 +1,4376 @@
+##gff-version 3
+# ZDNTKE_138975 Length: 50
+# ZDNTKE_138975 Number of predicted TMRs: 0
+ZDNTKE_138975	inside	1	50				
+//
+# ZDNTKE_58606 Length: 46
+# ZDNTKE_58606 Number of predicted TMRs: 0
+ZDNTKE_58606	inside	1	46				
+//
+# ZDNTKE_21089 Length: 30
+# ZDNTKE_21089 Number of predicted TMRs: 0
+ZDNTKE_21089	signal	1	28				
+ZDNTKE_21089	outside	29	30				
+//
+# ZDNTKE_37596 Length: 46
+# ZDNTKE_37596 Number of predicted TMRs: 0
+ZDNTKE_37596	inside	1	46				
+//
+# ZDNTKE_44163 Length: 40
+# ZDNTKE_44163 Number of predicted TMRs: 0
+ZDNTKE_44163	inside	1	40				
+//
+# ZDNTKE_34461 Length: 44
+# ZDNTKE_34461 Number of predicted TMRs: 0
+ZDNTKE_34461	inside	1	44				
+//
+# ZDNTKE_70767 Length: 44
+# ZDNTKE_70767 Number of predicted TMRs: 0
+ZDNTKE_70767	inside	1	44				
+//
+# ZDNTKE_14799 Length: 46
+# ZDNTKE_14799 Number of predicted TMRs: 0
+ZDNTKE_14799	signal	1	19				
+ZDNTKE_14799	outside	20	46				
+//
+# ZDNTKE_124793 Length: 47
+# ZDNTKE_124793 Number of predicted TMRs: 0
+ZDNTKE_124793	inside	1	47				
+//
+# ZDNTKE_92458 Length: 35
+# ZDNTKE_92458 Number of predicted TMRs: 0
+ZDNTKE_92458	inside	1	35				
+//
+# ZDNTKE_112735 Length: 39
+# ZDNTKE_112735 Number of predicted TMRs: 0
+ZDNTKE_112735	signal	1	38				
+ZDNTKE_112735	outside	39	39				
+//
+# ZDNTKE_101368 Length: 39
+# ZDNTKE_101368 Number of predicted TMRs: 0
+ZDNTKE_101368	signal	1	21				
+ZDNTKE_101368	outside	22	39				
+//
+# ZDNTKE_106869 Length: 46
+# ZDNTKE_106869 Number of predicted TMRs: 0
+ZDNTKE_106869	inside	1	46				
+//
+# ZDNTKE_56066 Length: 37
+# ZDNTKE_56066 Number of predicted TMRs: 0
+ZDNTKE_56066	signal	1	24				
+ZDNTKE_56066	outside	25	37				
+//
+# ZDNTKE_13959 Length: 49
+# ZDNTKE_13959 Number of predicted TMRs: 0
+ZDNTKE_13959	inside	1	49				
+//
+# ZDNTKE_100155 Length: 29
+# ZDNTKE_100155 Number of predicted TMRs: 0
+ZDNTKE_100155	inside	1	29				
+//
+# ZDNTKE_66597 Length: 38
+# ZDNTKE_66597 Number of predicted TMRs: 0
+ZDNTKE_66597	signal	1	15				
+ZDNTKE_66597	outside	16	38				
+//
+# ZDNTKE_45718 Length: 46
+# ZDNTKE_45718 Number of predicted TMRs: 0
+ZDNTKE_45718	signal	1	23				
+ZDNTKE_45718	outside	24	46				
+//
+# ZDNTKE_99339 Length: 45
+# ZDNTKE_99339 Number of predicted TMRs: 0
+ZDNTKE_99339	signal	1	33				
+ZDNTKE_99339	outside	34	45				
+//
+# ZDNTKE_126055 Length: 39
+# ZDNTKE_126055 Number of predicted TMRs: 0
+ZDNTKE_126055	inside	1	39				
+//
+# ZDNTKE_61155 Length: 36
+# ZDNTKE_61155 Number of predicted TMRs: 0
+ZDNTKE_61155	inside	1	36				
+//
+# ZDNTKE_139552 Length: 49
+# ZDNTKE_139552 Number of predicted TMRs: 0
+ZDNTKE_139552	inside	1	49				
+//
+# ZDNTKE_84194 Length: 48
+# ZDNTKE_84194 Number of predicted TMRs: 0
+ZDNTKE_84194	inside	1	48				
+//
+# ZDNTKE_59841 Length: 38
+# ZDNTKE_59841 Number of predicted TMRs: 0
+ZDNTKE_59841	inside	1	38				
+//
+# ZDNTKE_126993 Length: 45
+# ZDNTKE_126993 Number of predicted TMRs: 0
+ZDNTKE_126993	inside	1	45				
+//
+# ZDNTKE_22220 Length: 49
+# ZDNTKE_22220 Number of predicted TMRs: 0
+ZDNTKE_22220	inside	1	49				
+//
+# ZDNTKE_150735 Length: 46
+# ZDNTKE_150735 Number of predicted TMRs: 0
+ZDNTKE_150735	inside	1	46				
+//
+# ZDNTKE_135702 Length: 40
+# ZDNTKE_135702 Number of predicted TMRs: 0
+ZDNTKE_135702	inside	1	40				
+//
+# ZDNTKE_92584 Length: 48
+# ZDNTKE_92584 Number of predicted TMRs: 0
+ZDNTKE_92584	inside	1	48				
+//
+# ZDNTKE_130762 Length: 40
+# ZDNTKE_130762 Number of predicted TMRs: 0
+ZDNTKE_130762	inside	1	40				
+//
+# ZDNTKE_31323 Length: 39
+# ZDNTKE_31323 Number of predicted TMRs: 1
+ZDNTKE_31323	signal	1	13				
+ZDNTKE_31323	outside	14	14				
+ZDNTKE_31323	TMhelix	15	34				
+ZDNTKE_31323	inside	35	39				
+//
+# ZDNTKE_102640 Length: 42
+# ZDNTKE_102640 Number of predicted TMRs: 0
+ZDNTKE_102640	signal	1	29				
+ZDNTKE_102640	outside	30	42				
+//
+# ZDNTKE_52871 Length: 36
+# ZDNTKE_52871 Number of predicted TMRs: 0
+ZDNTKE_52871	inside	1	36				
+//
+# ZDNTKE_27814 Length: 31
+# ZDNTKE_27814 Number of predicted TMRs: 0
+ZDNTKE_27814	inside	1	31				
+//
+# ZDNTKE_167620 Length: 32
+# ZDNTKE_167620 Number of predicted TMRs: 0
+ZDNTKE_167620	inside	1	32				
+//
+# ZDNTKE_75446 Length: 44
+# ZDNTKE_75446 Number of predicted TMRs: 0
+ZDNTKE_75446	signal	1	18				
+ZDNTKE_75446	outside	19	44				
+//
+# ZDNTKE_67099 Length: 46
+# ZDNTKE_67099 Number of predicted TMRs: 0
+ZDNTKE_67099	inside	1	46				
+//
+# ZDNTKE_47899 Length: 34
+# ZDNTKE_47899 Number of predicted TMRs: 0
+ZDNTKE_47899	signal	1	30				
+ZDNTKE_47899	outside	31	34				
+//
+# ZDNTKE_9047 Length: 34
+# ZDNTKE_9047 Number of predicted TMRs: 0
+ZDNTKE_9047	signal	1	33				
+ZDNTKE_9047	outside	34	34				
+//
+# ZDNTKE_88587 Length: 48
+# ZDNTKE_88587 Number of predicted TMRs: 0
+ZDNTKE_88587	inside	1	48				
+//
+# ZDNTKE_5240 Length: 45
+# ZDNTKE_5240 Number of predicted TMRs: 0
+ZDNTKE_5240	signal	1	10				
+ZDNTKE_5240	outside	11	45				
+//
+# ZDNTKE_129059 Length: 44
+# ZDNTKE_129059 Number of predicted TMRs: 0
+ZDNTKE_129059	signal	1	20				
+ZDNTKE_129059	outside	21	44				
+//
+# ZDNTKE_164669 Length: 40
+# ZDNTKE_164669 Number of predicted TMRs: 0
+ZDNTKE_164669	inside	1	40				
+//
+# ZDNTKE_98285 Length: 47
+# ZDNTKE_98285 Number of predicted TMRs: 0
+ZDNTKE_98285	inside	1	47				
+//
+# ZDNTKE_98199 Length: 40
+# ZDNTKE_98199 Number of predicted TMRs: 0
+ZDNTKE_98199	inside	1	40				
+//
+# ZDNTKE_98306 Length: 31
+# ZDNTKE_98306 Number of predicted TMRs: 0
+ZDNTKE_98306	inside	1	31				
+//
+# ZDNTKE_113577 Length: 50
+# ZDNTKE_113577 Number of predicted TMRs: 0
+ZDNTKE_113577	inside	1	50				
+//
+# ZDNTKE_70987 Length: 42
+# ZDNTKE_70987 Number of predicted TMRs: 0
+ZDNTKE_70987	inside	1	42				
+//
+# ZDNTKE_115356 Length: 45
+# ZDNTKE_115356 Number of predicted TMRs: 0
+ZDNTKE_115356	inside	1	45				
+//
+# ZDNTKE_114923 Length: 49
+# ZDNTKE_114923 Number of predicted TMRs: 0
+ZDNTKE_114923	inside	1	49				
+//
+# ZDNTKE_76798 Length: 35
+# ZDNTKE_76798 Number of predicted TMRs: 0
+ZDNTKE_76798	inside	1	35				
+//
+# ZDNTKE_89630 Length: 44
+# ZDNTKE_89630 Number of predicted TMRs: 0
+ZDNTKE_89630	inside	1	44				
+//
+# ZDNTKE_36633 Length: 46
+# ZDNTKE_36633 Number of predicted TMRs: 0
+ZDNTKE_36633	inside	1	46				
+//
+# ZDNTKE_73325 Length: 49
+# ZDNTKE_73325 Number of predicted TMRs: 0
+ZDNTKE_73325	inside	1	49				
+//
+# ZDNTKE_8042 Length: 36
+# ZDNTKE_8042 Number of predicted TMRs: 0
+ZDNTKE_8042	inside	1	36				
+//
+# ZDNTKE_81076 Length: 38
+# ZDNTKE_81076 Number of predicted TMRs: 0
+ZDNTKE_81076	inside	1	38				
+//
+# ZDNTKE_27930 Length: 50
+# ZDNTKE_27930 Number of predicted TMRs: 0
+ZDNTKE_27930	signal	1	49				
+ZDNTKE_27930	outside	50	50				
+//
+# ZDNTKE_139723 Length: 49
+# ZDNTKE_139723 Number of predicted TMRs: 0
+ZDNTKE_139723	inside	1	49				
+//
+# ZDNTKE_73464 Length: 48
+# ZDNTKE_73464 Number of predicted TMRs: 0
+ZDNTKE_73464	inside	1	48				
+//
+# ZDNTKE_46301 Length: 46
+# ZDNTKE_46301 Number of predicted TMRs: 0
+ZDNTKE_46301	inside	1	46				
+//
+# ZDNTKE_92958 Length: 39
+# ZDNTKE_92958 Number of predicted TMRs: 0
+ZDNTKE_92958	inside	1	39				
+//
+# ZDNTKE_63962 Length: 43
+# ZDNTKE_63962 Number of predicted TMRs: 0
+ZDNTKE_63962	signal	1	18				
+ZDNTKE_63962	outside	19	43				
+//
+# ZDNTKE_145019 Length: 44
+# ZDNTKE_145019 Number of predicted TMRs: 0
+ZDNTKE_145019	inside	1	44				
+//
+# ZDNTKE_67951 Length: 28
+# ZDNTKE_67951 Number of predicted TMRs: 0
+ZDNTKE_67951	signal	1	27				
+ZDNTKE_67951	outside	28	28				
+//
+# ZDNTKE_7896 Length: 40
+# ZDNTKE_7896 Number of predicted TMRs: 0
+ZDNTKE_7896	signal	1	14				
+ZDNTKE_7896	outside	15	40				
+//
+# ZDNTKE_157315 Length: 39
+# ZDNTKE_157315 Number of predicted TMRs: 0
+ZDNTKE_157315	signal	1	35				
+ZDNTKE_157315	outside	36	39				
+//
+# ZDNTKE_68757 Length: 49
+# ZDNTKE_68757 Number of predicted TMRs: 0
+ZDNTKE_68757	inside	1	49				
+//
+# ZDNTKE_58453 Length: 50
+# ZDNTKE_58453 Number of predicted TMRs: 0
+ZDNTKE_58453	inside	1	50				
+//
+# ZDNTKE_56539 Length: 46
+# ZDNTKE_56539 Number of predicted TMRs: 0
+ZDNTKE_56539	inside	1	46				
+//
+# ZDNTKE_94130 Length: 45
+# ZDNTKE_94130 Number of predicted TMRs: 0
+ZDNTKE_94130	inside	1	45				
+//
+# ZDNTKE_30328 Length: 50
+# ZDNTKE_30328 Number of predicted TMRs: 0
+ZDNTKE_30328	inside	1	50				
+//
+# ZDNTKE_71104 Length: 40
+# ZDNTKE_71104 Number of predicted TMRs: 0
+ZDNTKE_71104	inside	1	40				
+//
+# ZDNTKE_148811 Length: 40
+# ZDNTKE_148811 Number of predicted TMRs: 0
+ZDNTKE_148811	signal	1	30				
+ZDNTKE_148811	outside	31	40				
+//
+# ZDNTKE_62084 Length: 42
+# ZDNTKE_62084 Number of predicted TMRs: 0
+ZDNTKE_62084	inside	1	42				
+//
+# ZDNTKE_62113 Length: 42
+# ZDNTKE_62113 Number of predicted TMRs: 0
+ZDNTKE_62113	inside	1	42				
+//
+# ZDNTKE_11247 Length: 45
+# ZDNTKE_11247 Number of predicted TMRs: 0
+ZDNTKE_11247	inside	1	45				
+//
+# ZDNTKE_8335 Length: 39
+# ZDNTKE_8335 Number of predicted TMRs: 0
+ZDNTKE_8335	signal	1	29				
+ZDNTKE_8335	outside	30	39				
+//
+# ZDNTKE_8341 Length: 40
+# ZDNTKE_8341 Number of predicted TMRs: 0
+ZDNTKE_8341	signal	1	29				
+ZDNTKE_8341	outside	30	40				
+//
+# ZDNTKE_8343 Length: 47
+# ZDNTKE_8343 Number of predicted TMRs: 0
+ZDNTKE_8343	inside	1	47				
+//
+# ZDNTKE_158654 Length: 47
+# ZDNTKE_158654 Number of predicted TMRs: 0
+ZDNTKE_158654	inside	1	47				
+//
+# ZDNTKE_5388 Length: 46
+# ZDNTKE_5388 Number of predicted TMRs: 0
+ZDNTKE_5388	inside	1	46				
+//
+# ZDNTKE_41238 Length: 47
+# ZDNTKE_41238 Number of predicted TMRs: 0
+ZDNTKE_41238	inside	1	47				
+//
+# ZDNTKE_10417 Length: 48
+# ZDNTKE_10417 Number of predicted TMRs: 0
+ZDNTKE_10417	inside	1	48				
+//
+# ZDNTKE_42160 Length: 50
+# ZDNTKE_42160 Number of predicted TMRs: 0
+ZDNTKE_42160	signal	1	47				
+ZDNTKE_42160	outside	48	50				
+//
+# ZDNTKE_167061 Length: 45
+# ZDNTKE_167061 Number of predicted TMRs: 0
+ZDNTKE_167061	inside	1	45				
+//
+# ZDNTKE_92779 Length: 49
+# ZDNTKE_92779 Number of predicted TMRs: 0
+ZDNTKE_92779	inside	1	49				
+//
+# ZDNTKE_76046 Length: 48
+# ZDNTKE_76046 Number of predicted TMRs: 0
+ZDNTKE_76046	signal	1	11				
+ZDNTKE_76046	outside	12	48				
+//
+# ZDNTKE_44338 Length: 42
+# ZDNTKE_44338 Number of predicted TMRs: 0
+ZDNTKE_44338	inside	1	42				
+//
+# ZDNTKE_84562 Length: 48
+# ZDNTKE_84562 Number of predicted TMRs: 0
+ZDNTKE_84562	inside	1	48				
+//
+# ZDNTKE_86613 Length: 47
+# ZDNTKE_86613 Number of predicted TMRs: 0
+ZDNTKE_86613	inside	1	47				
+//
+# ZDNTKE_135909 Length: 42
+# ZDNTKE_135909 Number of predicted TMRs: 0
+ZDNTKE_135909	inside	1	42				
+//
+# ZDNTKE_6735 Length: 43
+# ZDNTKE_6735 Number of predicted TMRs: 0
+ZDNTKE_6735	signal	1	42				
+ZDNTKE_6735	outside	43	43				
+//
+# ZDNTKE_145514 Length: 47
+# ZDNTKE_145514 Number of predicted TMRs: 0
+ZDNTKE_145514	inside	1	47				
+//
+# ZDNTKE_138927 Length: 42
+# ZDNTKE_138927 Number of predicted TMRs: 0
+ZDNTKE_138927	inside	1	42				
+//
+# ZDNTKE_87165 Length: 47
+# ZDNTKE_87165 Number of predicted TMRs: 0
+ZDNTKE_87165	inside	1	47				
+//
+# ZDNTKE_53790 Length: 48
+# ZDNTKE_53790 Number of predicted TMRs: 0
+ZDNTKE_53790	signal	1	15				
+ZDNTKE_53790	outside	16	48				
+//
+# ZDNTKE_88996 Length: 49
+# ZDNTKE_88996 Number of predicted TMRs: 0
+ZDNTKE_88996	inside	1	49				
+//
+# ZDNTKE_123560 Length: 43
+# ZDNTKE_123560 Number of predicted TMRs: 0
+ZDNTKE_123560	inside	1	43				
+//
+# ZDNTKE_42136 Length: 44
+# ZDNTKE_42136 Number of predicted TMRs: 0
+ZDNTKE_42136	signal	1	43				
+ZDNTKE_42136	outside	44	44				
+//
+# ZDNTKE_80612 Length: 46
+# ZDNTKE_80612 Number of predicted TMRs: 0
+ZDNTKE_80612	signal	1	44				
+ZDNTKE_80612	outside	45	46				
+//
+# ZDNTKE_30878 Length: 45
+# ZDNTKE_30878 Number of predicted TMRs: 0
+ZDNTKE_30878	inside	1	45				
+//
+# ZDNTKE_93163 Length: 46
+# ZDNTKE_93163 Number of predicted TMRs: 0
+ZDNTKE_93163	inside	1	46				
+//
+# ZDNTKE_149737 Length: 49
+# ZDNTKE_149737 Number of predicted TMRs: 0
+ZDNTKE_149737	inside	1	49				
+//
+# ZDNTKE_90183 Length: 45
+# ZDNTKE_90183 Number of predicted TMRs: 0
+ZDNTKE_90183	inside	1	45				
+//
+# ZDNTKE_27341 Length: 39
+# ZDNTKE_27341 Number of predicted TMRs: 0
+ZDNTKE_27341	signal	1	26				
+ZDNTKE_27341	outside	27	39				
+//
+# ZDNTKE_128211 Length: 46
+# ZDNTKE_128211 Number of predicted TMRs: 0
+ZDNTKE_128211	inside	1	46				
+//
+# ZDNTKE_22120 Length: 46
+# ZDNTKE_22120 Number of predicted TMRs: 0
+ZDNTKE_22120	signal	1	42				
+ZDNTKE_22120	outside	43	46				
+//
+# ZDNTKE_146149 Length: 49
+# ZDNTKE_146149 Number of predicted TMRs: 0
+ZDNTKE_146149	signal	1	34				
+ZDNTKE_146149	outside	35	49				
+//
+# ZDNTKE_27353 Length: 39
+# ZDNTKE_27353 Number of predicted TMRs: 0
+ZDNTKE_27353	inside	1	39				
+//
+# ZDNTKE_63415 Length: 46
+# ZDNTKE_63415 Number of predicted TMRs: 0
+ZDNTKE_63415	inside	1	46				
+//
+# ZDNTKE_77445 Length: 36
+# ZDNTKE_77445 Number of predicted TMRs: 0
+ZDNTKE_77445	signal	1	32				
+ZDNTKE_77445	outside	33	36				
+//
+# ZDNTKE_728 Length: 48
+# ZDNTKE_728 Number of predicted TMRs: 0
+ZDNTKE_728	signal	1	47				
+ZDNTKE_728	outside	48	48				
+//
+# ZDNTKE_36848 Length: 48
+# ZDNTKE_36848 Number of predicted TMRs: 0
+ZDNTKE_36848	signal	1	39				
+ZDNTKE_36848	outside	40	48				
+//
+# ZDNTKE_95494 Length: 46
+# ZDNTKE_95494 Number of predicted TMRs: 0
+ZDNTKE_95494	inside	1	46				
+//
+# ZDNTKE_121654 Length: 45
+# ZDNTKE_121654 Number of predicted TMRs: 0
+ZDNTKE_121654	signal	1	15				
+ZDNTKE_121654	outside	16	45				
+//
+# ZDNTKE_11915 Length: 44
+# ZDNTKE_11915 Number of predicted TMRs: 0
+ZDNTKE_11915	inside	1	44				
+//
+# ZDNTKE_159365 Length: 45
+# ZDNTKE_159365 Number of predicted TMRs: 0
+ZDNTKE_159365	signal	1	42				
+ZDNTKE_159365	outside	43	45				
+//
+# ZDNTKE_68640 Length: 50
+# ZDNTKE_68640 Number of predicted TMRs: 0
+ZDNTKE_68640	inside	1	50				
+//
+# ZDNTKE_61117 Length: 48
+# ZDNTKE_61117 Number of predicted TMRs: 0
+ZDNTKE_61117	inside	1	48				
+//
+# ZDNTKE_57244 Length: 47
+# ZDNTKE_57244 Number of predicted TMRs: 0
+ZDNTKE_57244	inside	1	47				
+//
+# ZDNTKE_110349 Length: 48
+# ZDNTKE_110349 Number of predicted TMRs: 0
+ZDNTKE_110349	inside	1	48				
+//
+# ZDNTKE_51441 Length: 41
+# ZDNTKE_51441 Number of predicted TMRs: 0
+ZDNTKE_51441	inside	1	41				
+//
+# ZDNTKE_51481 Length: 46
+# ZDNTKE_51481 Number of predicted TMRs: 0
+ZDNTKE_51481	inside	1	46				
+//
+# ZDNTKE_60208 Length: 39
+# ZDNTKE_60208 Number of predicted TMRs: 0
+ZDNTKE_60208	inside	1	39				
+//
+# ZDNTKE_825 Length: 48
+# ZDNTKE_825 Number of predicted TMRs: 0
+ZDNTKE_825	signal	1	33				
+ZDNTKE_825	outside	34	48				
+//
+# ZDNTKE_86767 Length: 48
+# ZDNTKE_86767 Number of predicted TMRs: 0
+ZDNTKE_86767	outside	1	48				
+//
+# ZDNTKE_46480 Length: 50
+# ZDNTKE_46480 Number of predicted TMRs: 0
+ZDNTKE_46480	signal	1	47				
+ZDNTKE_46480	outside	48	50				
+//
+# ZDNTKE_71175 Length: 46
+# ZDNTKE_71175 Number of predicted TMRs: 0
+ZDNTKE_71175	inside	1	46				
+//
+# ZDNTKE_102747 Length: 48
+# ZDNTKE_102747 Number of predicted TMRs: 0
+ZDNTKE_102747	outside	1	48				
+//
+# ZDNTKE_19252 Length: 47
+# ZDNTKE_19252 Number of predicted TMRs: 0
+ZDNTKE_19252	inside	1	47				
+//
+# ZDNTKE_165662 Length: 47
+# ZDNTKE_165662 Number of predicted TMRs: 0
+ZDNTKE_165662	inside	1	47				
+//
+# ZDNTKE_27052 Length: 47
+# ZDNTKE_27052 Number of predicted TMRs: 0
+ZDNTKE_27052	signal	1	45				
+ZDNTKE_27052	outside	46	47				
+//
+# ZDNTKE_30333 Length: 42
+# ZDNTKE_30333 Number of predicted TMRs: 0
+ZDNTKE_30333	signal	1	26				
+ZDNTKE_30333	outside	27	42				
+//
+# ZDNTKE_76505 Length: 33
+# ZDNTKE_76505 Number of predicted TMRs: 0
+ZDNTKE_76505	signal	1	32				
+ZDNTKE_76505	outside	33	33				
+//
+# ZDNTKE_7571 Length: 36
+# ZDNTKE_7571 Number of predicted TMRs: 1
+ZDNTKE_7571	inside	1	6				
+ZDNTKE_7571	TMhelix	7	23				
+ZDNTKE_7571	outside	24	36				
+//
+# ZDNTKE_146887 Length: 44
+# ZDNTKE_146887 Number of predicted TMRs: 0
+ZDNTKE_146887	signal	1	43				
+ZDNTKE_146887	outside	44	44				
+//
+# ZDNTKE_2489 Length: 41
+# ZDNTKE_2489 Number of predicted TMRs: 0
+ZDNTKE_2489	signal	1	21				
+ZDNTKE_2489	outside	22	41				
+//
+# ZDNTKE_116632 Length: 46
+# ZDNTKE_116632 Number of predicted TMRs: 0
+ZDNTKE_116632	inside	1	46				
+//
+# ZDNTKE_36372 Length: 50
+# ZDNTKE_36372 Number of predicted TMRs: 0
+ZDNTKE_36372	inside	1	50				
+//
+# ZDNTKE_25334 Length: 42
+# ZDNTKE_25334 Number of predicted TMRs: 0
+ZDNTKE_25334	signal	1	39				
+ZDNTKE_25334	outside	40	42				
+//
+# ZDNTKE_33487 Length: 49
+# ZDNTKE_33487 Number of predicted TMRs: 0
+ZDNTKE_33487	inside	1	49				
+//
+# ZDNTKE_115618 Length: 48
+# ZDNTKE_115618 Number of predicted TMRs: 0
+ZDNTKE_115618	inside	1	48				
+//
+# ZDNTKE_29753 Length: 41
+# ZDNTKE_29753 Number of predicted TMRs: 0
+ZDNTKE_29753	signal	1	24				
+ZDNTKE_29753	outside	25	41				
+//
+# ZDNTKE_65288 Length: 48
+# ZDNTKE_65288 Number of predicted TMRs: 0
+ZDNTKE_65288	inside	1	48				
+//
+# ZDNTKE_69837 Length: 37
+# ZDNTKE_69837 Number of predicted TMRs: 0
+ZDNTKE_69837	signal	1	33				
+ZDNTKE_69837	outside	34	37				
+//
+# ZDNTKE_128240 Length: 49
+# ZDNTKE_128240 Number of predicted TMRs: 0
+ZDNTKE_128240	inside	1	49				
+//
+# ZDNTKE_154777 Length: 49
+# ZDNTKE_154777 Number of predicted TMRs: 0
+ZDNTKE_154777	inside	1	49				
+//
+# ZDNTKE_71995 Length: 45
+# ZDNTKE_71995 Number of predicted TMRs: 0
+ZDNTKE_71995	signal	1	27				
+ZDNTKE_71995	outside	28	45				
+//
+# ZDNTKE_143108 Length: 50
+# ZDNTKE_143108 Number of predicted TMRs: 0
+ZDNTKE_143108	inside	1	50				
+//
+# ZDNTKE_126260 Length: 45
+# ZDNTKE_126260 Number of predicted TMRs: 0
+ZDNTKE_126260	inside	1	45				
+//
+# ZDNTKE_68372 Length: 43
+# ZDNTKE_68372 Number of predicted TMRs: 0
+ZDNTKE_68372	signal	1	41				
+ZDNTKE_68372	outside	42	43				
+//
+# ZDNTKE_60193 Length: 44
+# ZDNTKE_60193 Number of predicted TMRs: 0
+ZDNTKE_60193	inside	1	44				
+//
+# ZDNTKE_45027 Length: 50
+# ZDNTKE_45027 Number of predicted TMRs: 0
+ZDNTKE_45027	inside	1	50				
+//
+# ZDNTKE_69755 Length: 29
+# ZDNTKE_69755 Number of predicted TMRs: 0
+ZDNTKE_69755	inside	1	29				
+//
+# ZDNTKE_130061 Length: 46
+# ZDNTKE_130061 Number of predicted TMRs: 0
+ZDNTKE_130061	inside	1	46				
+//
+# ZDNTKE_51394 Length: 43
+# ZDNTKE_51394 Number of predicted TMRs: 0
+ZDNTKE_51394	inside	1	43				
+//
+# ZDNTKE_48036 Length: 48
+# ZDNTKE_48036 Number of predicted TMRs: 0
+ZDNTKE_48036	inside	1	48				
+//
+# ZDNTKE_18890 Length: 44
+# ZDNTKE_18890 Number of predicted TMRs: 0
+ZDNTKE_18890	inside	1	44				
+//
+# ZDNTKE_147445 Length: 40
+# ZDNTKE_147445 Number of predicted TMRs: 0
+ZDNTKE_147445	inside	1	40				
+//
+# ZDNTKE_129158 Length: 47
+# ZDNTKE_129158 Number of predicted TMRs: 0
+ZDNTKE_129158	inside	1	47				
+//
+# ZDNTKE_146896 Length: 45
+# ZDNTKE_146896 Number of predicted TMRs: 0
+ZDNTKE_146896	signal	1	39				
+ZDNTKE_146896	outside	40	45				
+//
+# ZDNTKE_36462 Length: 42
+# ZDNTKE_36462 Number of predicted TMRs: 0
+ZDNTKE_36462	signal	1	28				
+ZDNTKE_36462	outside	29	42				
+//
+# ZDNTKE_56967 Length: 33
+# ZDNTKE_56967 Number of predicted TMRs: 0
+ZDNTKE_56967	signal	1	30				
+ZDNTKE_56967	outside	31	33				
+//
+# ZDNTKE_58748 Length: 41
+# ZDNTKE_58748 Number of predicted TMRs: 0
+ZDNTKE_58748	signal	1	40				
+ZDNTKE_58748	outside	41	41				
+//
+# ZDNTKE_117960 Length: 49
+# ZDNTKE_117960 Number of predicted TMRs: 0
+ZDNTKE_117960	signal	1	26				
+ZDNTKE_117960	outside	27	49				
+//
+# ZDNTKE_75181 Length: 44
+# ZDNTKE_75181 Number of predicted TMRs: 0
+ZDNTKE_75181	signal	1	34				
+ZDNTKE_75181	outside	35	44				
+//
+# ZDNTKE_139799 Length: 48
+# ZDNTKE_139799 Number of predicted TMRs: 0
+ZDNTKE_139799	signal	1	10				
+ZDNTKE_139799	outside	11	48				
+//
+# ZDNTKE_104502 Length: 50
+# ZDNTKE_104502 Number of predicted TMRs: 0
+ZDNTKE_104502	inside	1	50				
+//
+# ZDNTKE_57182 Length: 45
+# ZDNTKE_57182 Number of predicted TMRs: 0
+ZDNTKE_57182	inside	1	45				
+//
+# ZDNTKE_70929 Length: 43
+# ZDNTKE_70929 Number of predicted TMRs: 0
+ZDNTKE_70929	signal	1	38				
+ZDNTKE_70929	outside	39	43				
+//
+# ZDNTKE_123511 Length: 33
+# ZDNTKE_123511 Number of predicted TMRs: 0
+ZDNTKE_123511	signal	1	12				
+ZDNTKE_123511	outside	13	33				
+//
+# ZDNTKE_163583 Length: 47
+# ZDNTKE_163583 Number of predicted TMRs: 0
+ZDNTKE_163583	signal	1	10				
+ZDNTKE_163583	outside	11	47				
+//
+# ZDNTKE_82121 Length: 48
+# ZDNTKE_82121 Number of predicted TMRs: 0
+ZDNTKE_82121	signal	1	38				
+ZDNTKE_82121	outside	39	48				
+//
+# ZDNTKE_61141 Length: 47
+# ZDNTKE_61141 Number of predicted TMRs: 0
+ZDNTKE_61141	inside	1	47				
+//
+# ZDNTKE_18434 Length: 41
+# ZDNTKE_18434 Number of predicted TMRs: 0
+ZDNTKE_18434	signal	1	10				
+ZDNTKE_18434	outside	11	41				
+//
+# ZDNTKE_63670 Length: 33
+# ZDNTKE_63670 Number of predicted TMRs: 0
+ZDNTKE_63670	signal	1	32				
+ZDNTKE_63670	outside	33	33				
+//
+# ZDNTKE_134531 Length: 48
+# ZDNTKE_134531 Number of predicted TMRs: 0
+ZDNTKE_134531	inside	1	48				
+//
+# ZDNTKE_81058 Length: 47
+# ZDNTKE_81058 Number of predicted TMRs: 0
+ZDNTKE_81058	signal	1	44				
+ZDNTKE_81058	outside	45	47				
+//
+# ZDNTKE_154497 Length: 45
+# ZDNTKE_154497 Number of predicted TMRs: 0
+ZDNTKE_154497	inside	1	45				
+//
+# ZDNTKE_155160 Length: 50
+# ZDNTKE_155160 Number of predicted TMRs: 0
+ZDNTKE_155160	inside	1	50				
+//
+# ZDNTKE_159211 Length: 50
+# ZDNTKE_159211 Number of predicted TMRs: 0
+ZDNTKE_159211	inside	1	50				
+//
+# ZDNTKE_109765 Length: 42
+# ZDNTKE_109765 Number of predicted TMRs: 0
+ZDNTKE_109765	signal	1	31				
+ZDNTKE_109765	outside	32	42				
+//
+# ZDNTKE_120358 Length: 47
+# ZDNTKE_120358 Number of predicted TMRs: 0
+ZDNTKE_120358	signal	1	12				
+ZDNTKE_120358	outside	13	47				
+//
+# ZDNTKE_33935 Length: 45
+# ZDNTKE_33935 Number of predicted TMRs: 0
+ZDNTKE_33935	signal	1	44				
+ZDNTKE_33935	outside	45	45				
+//
+# ZDNTKE_147908 Length: 47
+# ZDNTKE_147908 Number of predicted TMRs: 0
+ZDNTKE_147908	signal	1	29				
+ZDNTKE_147908	outside	30	47				
+//
+# ZDNTKE_96181 Length: 41
+# ZDNTKE_96181 Number of predicted TMRs: 0
+ZDNTKE_96181	signal	1	40				
+ZDNTKE_96181	outside	41	41				
+//
+# ZDNTKE_131692 Length: 35
+# ZDNTKE_131692 Number of predicted TMRs: 0
+ZDNTKE_131692	signal	1	34				
+ZDNTKE_131692	outside	35	35				
+//
+# ZDNTKE_50464 Length: 47
+# ZDNTKE_50464 Number of predicted TMRs: 0
+ZDNTKE_50464	signal	1	45				
+ZDNTKE_50464	outside	46	47				
+//
+# ZDNTKE_152711 Length: 44
+# ZDNTKE_152711 Number of predicted TMRs: 0
+ZDNTKE_152711	inside	1	44				
+//
+# ZDNTKE_137222 Length: 41
+# ZDNTKE_137222 Number of predicted TMRs: 0
+ZDNTKE_137222	signal	1	20				
+ZDNTKE_137222	outside	21	41				
+//
+# ZDNTKE_44448 Length: 48
+# ZDNTKE_44448 Number of predicted TMRs: 0
+ZDNTKE_44448	inside	1	48				
+//
+# ZDNTKE_129992 Length: 47
+# ZDNTKE_129992 Number of predicted TMRs: 1
+ZDNTKE_129992	signal	1	12				
+ZDNTKE_129992	outside	13	20				
+ZDNTKE_129992	TMhelix	21	36				
+ZDNTKE_129992	inside	37	47				
+//
+# ZDNTKE_141072 Length: 50
+# ZDNTKE_141072 Number of predicted TMRs: 0
+ZDNTKE_141072	inside	1	50				
+//
+# ZDNTKE_106938 Length: 47
+# ZDNTKE_106938 Number of predicted TMRs: 0
+ZDNTKE_106938	inside	1	47				
+//
+# ZDNTKE_88543 Length: 48
+# ZDNTKE_88543 Number of predicted TMRs: 0
+ZDNTKE_88543	signal	1	10				
+ZDNTKE_88543	outside	11	48				
+//
+# ZDNTKE_98316 Length: 47
+# ZDNTKE_98316 Number of predicted TMRs: 0
+ZDNTKE_98316	outside	1	47				
+//
+# ZDNTKE_143353 Length: 50
+# ZDNTKE_143353 Number of predicted TMRs: 0
+ZDNTKE_143353	inside	1	50				
+//
+# ZDNTKE_89585 Length: 44
+# ZDNTKE_89585 Number of predicted TMRs: 0
+ZDNTKE_89585	inside	1	44				
+//
+# ZDNTKE_119294 Length: 26
+# ZDNTKE_119294 Number of predicted TMRs: 0
+ZDNTKE_119294	inside	1	26				
+//
+# ZDNTKE_119291 Length: 26
+# ZDNTKE_119291 Number of predicted TMRs: 0
+ZDNTKE_119291	inside	1	26				
+//
+# ZDNTKE_119299 Length: 44
+# ZDNTKE_119299 Number of predicted TMRs: 0
+ZDNTKE_119299	inside	1	44				
+//
+# ZDNTKE_27142 Length: 45
+# ZDNTKE_27142 Number of predicted TMRs: 0
+ZDNTKE_27142	inside	1	45				
+//
+# ZDNTKE_164953 Length: 45
+# ZDNTKE_164953 Number of predicted TMRs: 0
+ZDNTKE_164953	inside	1	45				
+//
+# ZDNTKE_85217 Length: 38
+# ZDNTKE_85217 Number of predicted TMRs: 0
+ZDNTKE_85217	signal	1	35				
+ZDNTKE_85217	outside	36	38				
+//
+# ZDNTKE_11828 Length: 43
+# ZDNTKE_11828 Number of predicted TMRs: 0
+ZDNTKE_11828	inside	1	43				
+//
+# ZDNTKE_164483 Length: 45
+# ZDNTKE_164483 Number of predicted TMRs: 0
+ZDNTKE_164483	inside	1	45				
+//
+# ZDNTKE_14960 Length: 33
+# ZDNTKE_14960 Number of predicted TMRs: 0
+ZDNTKE_14960	inside	1	33				
+//
+# ZDNTKE_137370 Length: 46
+# ZDNTKE_137370 Number of predicted TMRs: 0
+ZDNTKE_137370	signal	1	22				
+ZDNTKE_137370	outside	23	46				
+//
+# ZDNTKE_73761 Length: 42
+# ZDNTKE_73761 Number of predicted TMRs: 0
+ZDNTKE_73761	inside	1	42				
+//
+# ZDNTKE_112161 Length: 49
+# ZDNTKE_112161 Number of predicted TMRs: 0
+ZDNTKE_112161	inside	1	49				
+//
+# ZDNTKE_122961 Length: 42
+# ZDNTKE_122961 Number of predicted TMRs: 0
+ZDNTKE_122961	signal	1	41				
+ZDNTKE_122961	outside	42	42				
+//
+# ZDNTKE_67989 Length: 43
+# ZDNTKE_67989 Number of predicted TMRs: 0
+ZDNTKE_67989	inside	1	43				
+//
+# ZDNTKE_85916 Length: 49
+# ZDNTKE_85916 Number of predicted TMRs: 0
+ZDNTKE_85916	signal	1	24				
+ZDNTKE_85916	outside	25	49				
+//
+# ZDNTKE_10073 Length: 42
+# ZDNTKE_10073 Number of predicted TMRs: 0
+ZDNTKE_10073	signal	1	11				
+ZDNTKE_10073	outside	12	42				
+//
+# ZDNTKE_46915 Length: 43
+# ZDNTKE_46915 Number of predicted TMRs: 0
+ZDNTKE_46915	inside	1	43				
+//
+# ZDNTKE_40694 Length: 34
+# ZDNTKE_40694 Number of predicted TMRs: 0
+ZDNTKE_40694	signal	1	33				
+ZDNTKE_40694	outside	34	34				
+//
+# ZDNTKE_5241 Length: 42
+# ZDNTKE_5241 Number of predicted TMRs: 0
+ZDNTKE_5241	inside	1	42				
+//
+# ZDNTKE_165713 Length: 46
+# ZDNTKE_165713 Number of predicted TMRs: 0
+ZDNTKE_165713	inside	1	46				
+//
+# ZDNTKE_40538 Length: 39
+# ZDNTKE_40538 Number of predicted TMRs: 0
+ZDNTKE_40538	signal	1	37				
+ZDNTKE_40538	outside	38	39				
+//
+# ZDNTKE_107449 Length: 48
+# ZDNTKE_107449 Number of predicted TMRs: 0
+ZDNTKE_107449	inside	1	48				
+//
+# ZDNTKE_68467 Length: 50
+# ZDNTKE_68467 Number of predicted TMRs: 0
+ZDNTKE_68467	signal	1	18				
+ZDNTKE_68467	outside	19	50				
+//
+# ZDNTKE_117299 Length: 42
+# ZDNTKE_117299 Number of predicted TMRs: 0
+ZDNTKE_117299	inside	1	42				
+//
+# ZDNTKE_135294 Length: 46
+# ZDNTKE_135294 Number of predicted TMRs: 0
+ZDNTKE_135294	inside	1	46				
+//
+# ZDNTKE_66746 Length: 50
+# ZDNTKE_66746 Number of predicted TMRs: 0
+ZDNTKE_66746	inside	1	50				
+//
+# ZDNTKE_53769 Length: 50
+# ZDNTKE_53769 Number of predicted TMRs: 0
+ZDNTKE_53769	inside	1	50				
+//
+# ZDNTKE_139057 Length: 40
+# ZDNTKE_139057 Number of predicted TMRs: 0
+ZDNTKE_139057	signal	1	39				
+ZDNTKE_139057	outside	40	40				
+//
+# ZDNTKE_24630 Length: 46
+# ZDNTKE_24630 Number of predicted TMRs: 0
+ZDNTKE_24630	inside	1	46				
+//
+# ZDNTKE_17078 Length: 50
+# ZDNTKE_17078 Number of predicted TMRs: 0
+ZDNTKE_17078	inside	1	50				
+//
+# ZDNTKE_41791 Length: 33
+# ZDNTKE_41791 Number of predicted TMRs: 0
+ZDNTKE_41791	inside	1	33				
+//
+# ZDNTKE_41636 Length: 43
+# ZDNTKE_41636 Number of predicted TMRs: 0
+ZDNTKE_41636	signal	1	21				
+ZDNTKE_41636	outside	22	43				
+//
+# ZDNTKE_142433 Length: 43
+# ZDNTKE_142433 Number of predicted TMRs: 0
+ZDNTKE_142433	inside	1	43				
+//
+# ZDNTKE_143644 Length: 49
+# ZDNTKE_143644 Number of predicted TMRs: 0
+ZDNTKE_143644	inside	1	49				
+//
+# ZDNTKE_17808 Length: 36
+# ZDNTKE_17808 Number of predicted TMRs: 0
+ZDNTKE_17808	inside	1	36				
+//
+# ZDNTKE_55235 Length: 37
+# ZDNTKE_55235 Number of predicted TMRs: 0
+ZDNTKE_55235	signal	1	29				
+ZDNTKE_55235	outside	30	37				
+//
+# ZDNTKE_102805 Length: 41
+# ZDNTKE_102805 Number of predicted TMRs: 0
+ZDNTKE_102805	inside	1	41				
+//
+# ZDNTKE_14698 Length: 46
+# ZDNTKE_14698 Number of predicted TMRs: 0
+ZDNTKE_14698	signal	1	42				
+ZDNTKE_14698	outside	43	46				
+//
+# ZDNTKE_34294 Length: 45
+# ZDNTKE_34294 Number of predicted TMRs: 0
+ZDNTKE_34294	signal	1	10				
+ZDNTKE_34294	outside	11	45				
+//
+# ZDNTKE_13882 Length: 44
+# ZDNTKE_13882 Number of predicted TMRs: 0
+ZDNTKE_13882	signal	1	10				
+ZDNTKE_13882	outside	11	44				
+//
+# ZDNTKE_117972 Length: 44
+# ZDNTKE_117972 Number of predicted TMRs: 0
+ZDNTKE_117972	inside	1	44				
+//
+# ZDNTKE_112623 Length: 46
+# ZDNTKE_112623 Number of predicted TMRs: 0
+ZDNTKE_112623	inside	1	46				
+//
+# ZDNTKE_66957 Length: 50
+# ZDNTKE_66957 Number of predicted TMRs: 0
+ZDNTKE_66957	inside	1	50				
+//
+# ZDNTKE_41483 Length: 44
+# ZDNTKE_41483 Number of predicted TMRs: 0
+ZDNTKE_41483	inside	1	44				
+//
+# ZDNTKE_87446 Length: 41
+# ZDNTKE_87446 Number of predicted TMRs: 0
+ZDNTKE_87446	inside	1	41				
+//
+# ZDNTKE_137116 Length: 47
+# ZDNTKE_137116 Number of predicted TMRs: 0
+ZDNTKE_137116	inside	1	47				
+//
+# ZDNTKE_109088 Length: 47
+# ZDNTKE_109088 Number of predicted TMRs: 0
+ZDNTKE_109088	inside	1	47				
+//
+# ZDNTKE_12293 Length: 38
+# ZDNTKE_12293 Number of predicted TMRs: 0
+ZDNTKE_12293	inside	1	38				
+//
+# ZDNTKE_14575 Length: 36
+# ZDNTKE_14575 Number of predicted TMRs: 0
+ZDNTKE_14575	inside	1	36				
+//
+# ZDNTKE_37002 Length: 50
+# ZDNTKE_37002 Number of predicted TMRs: 0
+ZDNTKE_37002	inside	1	50				
+//
+# ZDNTKE_37822 Length: 40
+# ZDNTKE_37822 Number of predicted TMRs: 0
+ZDNTKE_37822	signal	1	28				
+ZDNTKE_37822	outside	29	40				
+//
+# ZDNTKE_61750 Length: 41
+# ZDNTKE_61750 Number of predicted TMRs: 0
+ZDNTKE_61750	signal	1	40				
+ZDNTKE_61750	outside	41	41				
+//
+# ZDNTKE_130083 Length: 37
+# ZDNTKE_130083 Number of predicted TMRs: 0
+ZDNTKE_130083	inside	1	37				
+//
+# ZDNTKE_97478 Length: 42
+# ZDNTKE_97478 Number of predicted TMRs: 0
+ZDNTKE_97478	inside	1	42				
+//
+# ZDNTKE_3140 Length: 46
+# ZDNTKE_3140 Number of predicted TMRs: 0
+ZDNTKE_3140	inside	1	46				
+//
+# ZDNTKE_147578 Length: 47
+# ZDNTKE_147578 Number of predicted TMRs: 0
+ZDNTKE_147578	signal	1	30				
+ZDNTKE_147578	outside	31	47				
+//
+# ZDNTKE_66933 Length: 42
+# ZDNTKE_66933 Number of predicted TMRs: 0
+ZDNTKE_66933	inside	1	42				
+//
+# ZDNTKE_56976 Length: 48
+# ZDNTKE_56976 Number of predicted TMRs: 0
+ZDNTKE_56976	inside	1	48				
+//
+# ZDNTKE_89453 Length: 50
+# ZDNTKE_89453 Number of predicted TMRs: 0
+ZDNTKE_89453	signal	1	12				
+ZDNTKE_89453	outside	13	50				
+//
+# ZDNTKE_5043 Length: 48
+# ZDNTKE_5043 Number of predicted TMRs: 0
+ZDNTKE_5043	signal	1	37				
+ZDNTKE_5043	outside	38	48				
+//
+# ZDNTKE_116368 Length: 42
+# ZDNTKE_116368 Number of predicted TMRs: 0
+ZDNTKE_116368	inside	1	42				
+//
+# ZDNTKE_104447 Length: 45
+# ZDNTKE_104447 Number of predicted TMRs: 0
+ZDNTKE_104447	inside	1	45				
+//
+# ZDNTKE_29026 Length: 49
+# ZDNTKE_29026 Number of predicted TMRs: 0
+ZDNTKE_29026	signal	1	45				
+ZDNTKE_29026	outside	46	49				
+//
+# ZDNTKE_140985 Length: 49
+# ZDNTKE_140985 Number of predicted TMRs: 0
+ZDNTKE_140985	inside	1	49				
+//
+# ZDNTKE_123591 Length: 32
+# ZDNTKE_123591 Number of predicted TMRs: 0
+ZDNTKE_123591	inside	1	32				
+//
+# ZDNTKE_169796 Length: 35
+# ZDNTKE_169796 Number of predicted TMRs: 0
+ZDNTKE_169796	signal	1	32				
+ZDNTKE_169796	outside	33	35				
+//
+# ZDNTKE_97194 Length: 48
+# ZDNTKE_97194 Number of predicted TMRs: 0
+ZDNTKE_97194	inside	1	48				
+//
+# ZDNTKE_60627 Length: 48
+# ZDNTKE_60627 Number of predicted TMRs: 0
+ZDNTKE_60627	inside	1	48				
+//
+# ZDNTKE_155119 Length: 46
+# ZDNTKE_155119 Number of predicted TMRs: 0
+ZDNTKE_155119	signal	1	31				
+ZDNTKE_155119	outside	32	46				
+//
+# ZDNTKE_137418 Length: 50
+# ZDNTKE_137418 Number of predicted TMRs: 0
+ZDNTKE_137418	signal	1	31				
+ZDNTKE_137418	outside	32	50				
+//
+# ZDNTKE_27853 Length: 50
+# ZDNTKE_27853 Number of predicted TMRs: 0
+ZDNTKE_27853	inside	1	50				
+//
+# ZDNTKE_78954 Length: 32
+# ZDNTKE_78954 Number of predicted TMRs: 0
+ZDNTKE_78954	signal	1	30				
+ZDNTKE_78954	outside	31	32				
+//
+# ZDNTKE_59221 Length: 48
+# ZDNTKE_59221 Number of predicted TMRs: 0
+ZDNTKE_59221	inside	1	48				
+//
+# ZDNTKE_103375 Length: 44
+# ZDNTKE_103375 Number of predicted TMRs: 0
+ZDNTKE_103375	inside	1	44				
+//
+# ZDNTKE_144037 Length: 46
+# ZDNTKE_144037 Number of predicted TMRs: 0
+ZDNTKE_144037	inside	1	46				
+//
+# ZDNTKE_130621 Length: 46
+# ZDNTKE_130621 Number of predicted TMRs: 0
+ZDNTKE_130621	signal	1	44				
+ZDNTKE_130621	outside	45	46				
+//
+# ZDNTKE_41397 Length: 39
+# ZDNTKE_41397 Number of predicted TMRs: 0
+ZDNTKE_41397	inside	1	39				
+//
+# ZDNTKE_168425 Length: 44
+# ZDNTKE_168425 Number of predicted TMRs: 0
+ZDNTKE_168425	inside	1	44				
+//
+# ZDNTKE_167584 Length: 39
+# ZDNTKE_167584 Number of predicted TMRs: 0
+ZDNTKE_167584	inside	1	39				
+//
+# ZDNTKE_167551 Length: 50
+# ZDNTKE_167551 Number of predicted TMRs: 0
+ZDNTKE_167551	inside	1	50				
+//
+# ZDNTKE_44137 Length: 38
+# ZDNTKE_44137 Number of predicted TMRs: 0
+ZDNTKE_44137	inside	1	38				
+//
+# ZDNTKE_112653 Length: 48
+# ZDNTKE_112653 Number of predicted TMRs: 0
+ZDNTKE_112653	signal	1	46				
+ZDNTKE_112653	outside	47	48				
+//
+# ZDNTKE_107180 Length: 42
+# ZDNTKE_107180 Number of predicted TMRs: 0
+ZDNTKE_107180	inside	1	42				
+//
+# ZDNTKE_87281 Length: 42
+# ZDNTKE_87281 Number of predicted TMRs: 0
+ZDNTKE_87281	signal	1	31				
+ZDNTKE_87281	outside	32	42				
+//
+# ZDNTKE_152316 Length: 38
+# ZDNTKE_152316 Number of predicted TMRs: 0
+ZDNTKE_152316	signal	1	18				
+ZDNTKE_152316	outside	19	38				
+//
+# ZDNTKE_63660 Length: 50
+# ZDNTKE_63660 Number of predicted TMRs: 0
+ZDNTKE_63660	signal	1	31				
+ZDNTKE_63660	outside	32	50				
+//
+# ZDNTKE_37141 Length: 48
+# ZDNTKE_37141 Number of predicted TMRs: 0
+ZDNTKE_37141	signal	1	15				
+ZDNTKE_37141	outside	16	48				
+//
+# ZDNTKE_138286 Length: 49
+# ZDNTKE_138286 Number of predicted TMRs: 0
+ZDNTKE_138286	inside	1	49				
+//
+# ZDNTKE_125172 Length: 46
+# ZDNTKE_125172 Number of predicted TMRs: 0
+ZDNTKE_125172	inside	1	46				
+//
+# ZDNTKE_99931 Length: 48
+# ZDNTKE_99931 Number of predicted TMRs: 0
+ZDNTKE_99931	signal	1	47				
+ZDNTKE_99931	outside	48	48				
+//
+# ZDNTKE_107133 Length: 32
+# ZDNTKE_107133 Number of predicted TMRs: 0
+ZDNTKE_107133	inside	1	32				
+//
+# ZDNTKE_74445 Length: 40
+# ZDNTKE_74445 Number of predicted TMRs: 0
+ZDNTKE_74445	inside	1	40				
+//
+# ZDNTKE_116065 Length: 43
+# ZDNTKE_116065 Number of predicted TMRs: 0
+ZDNTKE_116065	signal	1	23				
+ZDNTKE_116065	outside	24	43				
+//
+# ZDNTKE_75111 Length: 44
+# ZDNTKE_75111 Number of predicted TMRs: 0
+ZDNTKE_75111	inside	1	44				
+//
+# ZDNTKE_51434 Length: 36
+# ZDNTKE_51434 Number of predicted TMRs: 0
+ZDNTKE_51434	signal	1	35				
+ZDNTKE_51434	outside	36	36				
+//
+# ZDNTKE_23516 Length: 43
+# ZDNTKE_23516 Number of predicted TMRs: 1
+ZDNTKE_23516	signal	1	12				
+ZDNTKE_23516	outside	13	13				
+ZDNTKE_23516	TMhelix	14	23				
+ZDNTKE_23516	inside	24	43				
+//
+# ZDNTKE_58632 Length: 38
+# ZDNTKE_58632 Number of predicted TMRs: 0
+ZDNTKE_58632	inside	1	38				
+//
+# ZDNTKE_21612 Length: 40
+# ZDNTKE_21612 Number of predicted TMRs: 0
+ZDNTKE_21612	inside	1	40				
+//
+# ZDNTKE_111995 Length: 48
+# ZDNTKE_111995 Number of predicted TMRs: 0
+ZDNTKE_111995	signal	1	13				
+ZDNTKE_111995	outside	14	48				
+//
+# ZDNTKE_162866 Length: 46
+# ZDNTKE_162866 Number of predicted TMRs: 0
+ZDNTKE_162866	signal	1	11				
+ZDNTKE_162866	outside	12	46				
+//
+# ZDNTKE_93647 Length: 50
+# ZDNTKE_93647 Number of predicted TMRs: 0
+ZDNTKE_93647	inside	1	50				
+//
+# ZDNTKE_98630 Length: 46
+# ZDNTKE_98630 Number of predicted TMRs: 0
+ZDNTKE_98630	signal	1	21				
+ZDNTKE_98630	outside	22	46				
+//
+# ZDNTKE_142803 Length: 37
+# ZDNTKE_142803 Number of predicted TMRs: 0
+ZDNTKE_142803	signal	1	32				
+ZDNTKE_142803	outside	33	37				
+//
+# ZDNTKE_104759 Length: 50
+# ZDNTKE_104759 Number of predicted TMRs: 0
+ZDNTKE_104759	inside	1	50				
+//
+# ZDNTKE_36751 Length: 47
+# ZDNTKE_36751 Number of predicted TMRs: 0
+ZDNTKE_36751	inside	1	47				
+//
+# ZDNTKE_58268 Length: 47
+# ZDNTKE_58268 Number of predicted TMRs: 0
+ZDNTKE_58268	signal	1	31				
+ZDNTKE_58268	outside	32	47				
+//
+# ZDNTKE_555 Length: 42
+# ZDNTKE_555 Number of predicted TMRs: 0
+ZDNTKE_555	inside	1	42				
+//
+# ZDNTKE_24614 Length: 50
+# ZDNTKE_24614 Number of predicted TMRs: 0
+ZDNTKE_24614	signal	1	15				
+ZDNTKE_24614	outside	16	50				
+//
+# ZDNTKE_171375 Length: 34
+# ZDNTKE_171375 Number of predicted TMRs: 0
+ZDNTKE_171375	inside	1	34				
+//
+# ZDNTKE_71861 Length: 43
+# ZDNTKE_71861 Number of predicted TMRs: 0
+ZDNTKE_71861	inside	1	43				
+//
+# ZDNTKE_39841 Length: 49
+# ZDNTKE_39841 Number of predicted TMRs: 0
+ZDNTKE_39841	inside	1	49				
+//
+# ZDNTKE_1357 Length: 47
+# ZDNTKE_1357 Number of predicted TMRs: 0
+ZDNTKE_1357	inside	1	47				
+//
+# ZDNTKE_45581 Length: 50
+# ZDNTKE_45581 Number of predicted TMRs: 0
+ZDNTKE_45581	inside	1	50				
+//
+# ZDNTKE_111874 Length: 36
+# ZDNTKE_111874 Number of predicted TMRs: 0
+ZDNTKE_111874	inside	1	36				
+//
+# ZDNTKE_42948 Length: 45
+# ZDNTKE_42948 Number of predicted TMRs: 0
+ZDNTKE_42948	outside	1	45				
+//
+# ZDNTKE_115205 Length: 48
+# ZDNTKE_115205 Number of predicted TMRs: 0
+ZDNTKE_115205	inside	1	48				
+//
+# ZDNTKE_18964 Length: 41
+# ZDNTKE_18964 Number of predicted TMRs: 0
+ZDNTKE_18964	signal	1	35				
+ZDNTKE_18964	outside	36	41				
+//
+# ZDNTKE_59492 Length: 48
+# ZDNTKE_59492 Number of predicted TMRs: 0
+ZDNTKE_59492	signal	1	27				
+ZDNTKE_59492	outside	28	48				
+//
+# ZDNTKE_144661 Length: 50
+# ZDNTKE_144661 Number of predicted TMRs: 0
+ZDNTKE_144661	inside	1	50				
+//
+# ZDNTKE_132136 Length: 39
+# ZDNTKE_132136 Number of predicted TMRs: 0
+ZDNTKE_132136	signal	1	26				
+ZDNTKE_132136	outside	27	39				
+//
+# ZDNTKE_33666 Length: 48
+# ZDNTKE_33666 Number of predicted TMRs: 0
+ZDNTKE_33666	signal	1	32				
+ZDNTKE_33666	outside	33	48				
+//
+# ZDNTKE_97461 Length: 43
+# ZDNTKE_97461 Number of predicted TMRs: 0
+ZDNTKE_97461	inside	1	43				
+//
+# ZDNTKE_90068 Length: 47
+# ZDNTKE_90068 Number of predicted TMRs: 0
+ZDNTKE_90068	signal	1	30				
+ZDNTKE_90068	outside	31	47				
+//
+# ZDNTKE_41162 Length: 46
+# ZDNTKE_41162 Number of predicted TMRs: 0
+ZDNTKE_41162	inside	1	46				
+//
+# ZDNTKE_86076 Length: 37
+# ZDNTKE_86076 Number of predicted TMRs: 0
+ZDNTKE_86076	signal	1	36				
+ZDNTKE_86076	outside	37	37				
+//
+# ZDNTKE_116255 Length: 48
+# ZDNTKE_116255 Number of predicted TMRs: 0
+ZDNTKE_116255	signal	1	20				
+ZDNTKE_116255	outside	21	48				
+//
+# ZDNTKE_133252 Length: 44
+# ZDNTKE_133252 Number of predicted TMRs: 0
+ZDNTKE_133252	inside	1	44				
+//
+# ZDNTKE_10184 Length: 50
+# ZDNTKE_10184 Number of predicted TMRs: 0
+ZDNTKE_10184	inside	1	50				
+//
+# ZDNTKE_96186 Length: 45
+# ZDNTKE_96186 Number of predicted TMRs: 0
+ZDNTKE_96186	signal	1	44				
+ZDNTKE_96186	outside	45	45				
+//
+# ZDNTKE_111431 Length: 46
+# ZDNTKE_111431 Number of predicted TMRs: 0
+ZDNTKE_111431	inside	1	46				
+//
+# ZDNTKE_91948 Length: 47
+# ZDNTKE_91948 Number of predicted TMRs: 0
+ZDNTKE_91948	signal	1	30				
+ZDNTKE_91948	outside	31	47				
+//
+# ZDNTKE_84098 Length: 47
+# ZDNTKE_84098 Number of predicted TMRs: 0
+ZDNTKE_84098	signal	1	15				
+ZDNTKE_84098	outside	16	47				
+//
+# ZDNTKE_114371 Length: 44
+# ZDNTKE_114371 Number of predicted TMRs: 0
+ZDNTKE_114371	inside	1	44				
+//
+# ZDNTKE_111813 Length: 44
+# ZDNTKE_111813 Number of predicted TMRs: 0
+ZDNTKE_111813	inside	1	44				
+//
+# ZDNTKE_34516 Length: 46
+# ZDNTKE_34516 Number of predicted TMRs: 0
+ZDNTKE_34516	inside	1	46				
+//
+# ZDNTKE_90476 Length: 49
+# ZDNTKE_90476 Number of predicted TMRs: 0
+ZDNTKE_90476	inside	1	49				
+//
+# ZDNTKE_113036 Length: 45
+# ZDNTKE_113036 Number of predicted TMRs: 0
+ZDNTKE_113036	inside	1	45				
+//
+# ZDNTKE_109462 Length: 50
+# ZDNTKE_109462 Number of predicted TMRs: 0
+ZDNTKE_109462	inside	1	50				
+//
+# ZDNTKE_138621 Length: 43
+# ZDNTKE_138621 Number of predicted TMRs: 0
+ZDNTKE_138621	signal	1	33				
+ZDNTKE_138621	outside	34	43				
+//
+# ZDNTKE_140319 Length: 38
+# ZDNTKE_140319 Number of predicted TMRs: 0
+ZDNTKE_140319	signal	1	37				
+ZDNTKE_140319	outside	38	38				
+//
+# ZDNTKE_128996 Length: 43
+# ZDNTKE_128996 Number of predicted TMRs: 0
+ZDNTKE_128996	inside	1	43				
+//
+# ZDNTKE_108919 Length: 48
+# ZDNTKE_108919 Number of predicted TMRs: 0
+ZDNTKE_108919	inside	1	48				
+//
+# ZDNTKE_139537 Length: 39
+# ZDNTKE_139537 Number of predicted TMRs: 0
+ZDNTKE_139537	inside	1	39				
+//
+# ZDNTKE_151740 Length: 40
+# ZDNTKE_151740 Number of predicted TMRs: 0
+ZDNTKE_151740	inside	1	40				
+//
+# ZDNTKE_133991 Length: 46
+# ZDNTKE_133991 Number of predicted TMRs: 0
+ZDNTKE_133991	signal	1	32				
+ZDNTKE_133991	outside	33	46				
+//
+# ZDNTKE_6289 Length: 43
+# ZDNTKE_6289 Number of predicted TMRs: 0
+ZDNTKE_6289	inside	1	43				
+//
+# ZDNTKE_139587 Length: 50
+# ZDNTKE_139587 Number of predicted TMRs: 0
+ZDNTKE_139587	inside	1	50				
+//
+# ZDNTKE_20797 Length: 45
+# ZDNTKE_20797 Number of predicted TMRs: 0
+ZDNTKE_20797	inside	1	45				
+//
+# ZDNTKE_135669 Length: 42
+# ZDNTKE_135669 Number of predicted TMRs: 0
+ZDNTKE_135669	signal	1	37				
+ZDNTKE_135669	outside	38	42				
+//
+# ZDNTKE_145033 Length: 39
+# ZDNTKE_145033 Number of predicted TMRs: 0
+ZDNTKE_145033	inside	1	39				
+//
+# ZDNTKE_168651 Length: 47
+# ZDNTKE_168651 Number of predicted TMRs: 0
+ZDNTKE_168651	inside	1	47				
+//
+# ZDNTKE_114276 Length: 47
+# ZDNTKE_114276 Number of predicted TMRs: 0
+ZDNTKE_114276	inside	1	47				
+//
+# ZDNTKE_1069 Length: 48
+# ZDNTKE_1069 Number of predicted TMRs: 0
+ZDNTKE_1069	signal	1	44				
+ZDNTKE_1069	outside	45	48				
+//
+# ZDNTKE_99574 Length: 47
+# ZDNTKE_99574 Number of predicted TMRs: 0
+ZDNTKE_99574	signal	1	46				
+ZDNTKE_99574	outside	47	47				
+//
+# ZDNTKE_171671 Length: 40
+# ZDNTKE_171671 Number of predicted TMRs: 0
+ZDNTKE_171671	signal	1	10				
+ZDNTKE_171671	outside	11	40				
+//
+# ZDNTKE_91232 Length: 42
+# ZDNTKE_91232 Number of predicted TMRs: 0
+ZDNTKE_91232	signal	1	32				
+ZDNTKE_91232	outside	33	42				
+//
+# ZDNTKE_24600 Length: 50
+# ZDNTKE_24600 Number of predicted TMRs: 0
+ZDNTKE_24600	inside	1	50				
+//
+# ZDNTKE_21761 Length: 47
+# ZDNTKE_21761 Number of predicted TMRs: 0
+ZDNTKE_21761	signal	1	10				
+ZDNTKE_21761	outside	11	47				
+//
+# ZDNTKE_96644 Length: 32
+# ZDNTKE_96644 Number of predicted TMRs: 0
+ZDNTKE_96644	signal	1	29				
+ZDNTKE_96644	outside	30	32				
+//
+# ZDNTKE_164444 Length: 45
+# ZDNTKE_164444 Number of predicted TMRs: 0
+ZDNTKE_164444	signal	1	20				
+ZDNTKE_164444	outside	21	45				
+//
+# ZDNTKE_12442 Length: 40
+# ZDNTKE_12442 Number of predicted TMRs: 0
+ZDNTKE_12442	signal	1	39				
+ZDNTKE_12442	outside	40	40				
+//
+# ZDNTKE_114308 Length: 43
+# ZDNTKE_114308 Number of predicted TMRs: 0
+ZDNTKE_114308	inside	1	43				
+//
+# ZDNTKE_27460 Length: 50
+# ZDNTKE_27460 Number of predicted TMRs: 0
+ZDNTKE_27460	signal	1	29				
+ZDNTKE_27460	outside	30	50				
+//
+# ZDNTKE_78582 Length: 39
+# ZDNTKE_78582 Number of predicted TMRs: 0
+ZDNTKE_78582	inside	1	39				
+//
+# ZDNTKE_24373 Length: 48
+# ZDNTKE_24373 Number of predicted TMRs: 0
+ZDNTKE_24373	inside	1	48				
+//
+# ZDNTKE_80495 Length: 35
+# ZDNTKE_80495 Number of predicted TMRs: 0
+ZDNTKE_80495	inside	1	35				
+//
+# ZDNTKE_60231 Length: 45
+# ZDNTKE_60231 Number of predicted TMRs: 0
+ZDNTKE_60231	signal	1	18				
+ZDNTKE_60231	outside	19	45				
+//
+# ZDNTKE_74807 Length: 50
+# ZDNTKE_74807 Number of predicted TMRs: 0
+ZDNTKE_74807	inside	1	50				
+//
+# ZDNTKE_106989 Length: 48
+# ZDNTKE_106989 Number of predicted TMRs: 0
+ZDNTKE_106989	inside	1	48				
+//
+# ZDNTKE_154685 Length: 40
+# ZDNTKE_154685 Number of predicted TMRs: 0
+ZDNTKE_154685	signal	1	20				
+ZDNTKE_154685	outside	21	40				
+//
+# ZDNTKE_24169 Length: 50
+# ZDNTKE_24169 Number of predicted TMRs: 0
+ZDNTKE_24169	inside	1	50				
+//
+# ZDNTKE_6101 Length: 28
+# ZDNTKE_6101 Number of predicted TMRs: 0
+ZDNTKE_6101	inside	1	28				
+//
+# ZDNTKE_4189 Length: 48
+# ZDNTKE_4189 Number of predicted TMRs: 0
+ZDNTKE_4189	inside	1	48				
+//
+# ZDNTKE_14485 Length: 48
+# ZDNTKE_14485 Number of predicted TMRs: 0
+ZDNTKE_14485	inside	1	48				
+//
+# ZDNTKE_16297 Length: 49
+# ZDNTKE_16297 Number of predicted TMRs: 0
+ZDNTKE_16297	inside	1	49				
+//
+# ZDNTKE_20025 Length: 48
+# ZDNTKE_20025 Number of predicted TMRs: 0
+ZDNTKE_20025	inside	1	48				
+//
+# ZDNTKE_75328 Length: 50
+# ZDNTKE_75328 Number of predicted TMRs: 0
+ZDNTKE_75328	inside	1	50				
+//
+# ZDNTKE_63296 Length: 33
+# ZDNTKE_63296 Number of predicted TMRs: 0
+ZDNTKE_63296	inside	1	33				
+//
+# ZDNTKE_89135 Length: 46
+# ZDNTKE_89135 Number of predicted TMRs: 0
+ZDNTKE_89135	inside	1	46				
+//
+# ZDNTKE_152115 Length: 46
+# ZDNTKE_152115 Number of predicted TMRs: 0
+ZDNTKE_152115	inside	1	46				
+//
+# ZDNTKE_33445 Length: 44
+# ZDNTKE_33445 Number of predicted TMRs: 0
+ZDNTKE_33445	inside	1	44				
+//
+# ZDNTKE_165555 Length: 38
+# ZDNTKE_165555 Number of predicted TMRs: 0
+ZDNTKE_165555	signal	1	28				
+ZDNTKE_165555	outside	29	38				
+//
+# ZDNTKE_144279 Length: 39
+# ZDNTKE_144279 Number of predicted TMRs: 0
+ZDNTKE_144279	inside	1	39				
+//
+# ZDNTKE_121058 Length: 49
+# ZDNTKE_121058 Number of predicted TMRs: 0
+ZDNTKE_121058	inside	1	49				
+//
+# ZDNTKE_96166 Length: 38
+# ZDNTKE_96166 Number of predicted TMRs: 0
+ZDNTKE_96166	signal	1	33				
+ZDNTKE_96166	outside	34	38				
+//
+# ZDNTKE_91338 Length: 48
+# ZDNTKE_91338 Number of predicted TMRs: 0
+ZDNTKE_91338	inside	1	48				
+//
+# ZDNTKE_98183 Length: 48
+# ZDNTKE_98183 Number of predicted TMRs: 0
+ZDNTKE_98183	outside	1	48				
+//
+# ZDNTKE_131816 Length: 43
+# ZDNTKE_131816 Number of predicted TMRs: 0
+ZDNTKE_131816	inside	1	43				
+//
+# ZDNTKE_162958 Length: 46
+# ZDNTKE_162958 Number of predicted TMRs: 0
+ZDNTKE_162958	signal	1	15				
+ZDNTKE_162958	outside	16	46				
+//
+# ZDNTKE_93731 Length: 49
+# ZDNTKE_93731 Number of predicted TMRs: 0
+ZDNTKE_93731	inside	1	49				
+//
+# ZDNTKE_142868 Length: 50
+# ZDNTKE_142868 Number of predicted TMRs: 0
+ZDNTKE_142868	inside	1	50				
+//
+# ZDNTKE_130923 Length: 49
+# ZDNTKE_130923 Number of predicted TMRs: 0
+ZDNTKE_130923	signal	1	20				
+ZDNTKE_130923	outside	21	49				
+//
+# ZDNTKE_145258 Length: 42
+# ZDNTKE_145258 Number of predicted TMRs: 0
+ZDNTKE_145258	inside	1	42				
+//
+# ZDNTKE_90692 Length: 44
+# ZDNTKE_90692 Number of predicted TMRs: 0
+ZDNTKE_90692	signal	1	43				
+ZDNTKE_90692	outside	44	44				
+//
+# ZDNTKE_52544 Length: 41
+# ZDNTKE_52544 Number of predicted TMRs: 0
+ZDNTKE_52544	signal	1	13				
+ZDNTKE_52544	outside	14	41				
+//
+# ZDNTKE_25014 Length: 48
+# ZDNTKE_25014 Number of predicted TMRs: 0
+ZDNTKE_25014	inside	1	48				
+//
+# ZDNTKE_99371 Length: 50
+# ZDNTKE_99371 Number of predicted TMRs: 0
+ZDNTKE_99371	inside	1	50				
+//
+# ZDNTKE_69563 Length: 46
+# ZDNTKE_69563 Number of predicted TMRs: 0
+ZDNTKE_69563	inside	1	46				
+//
+# ZDNTKE_61119 Length: 35
+# ZDNTKE_61119 Number of predicted TMRs: 0
+ZDNTKE_61119	signal	1	33				
+ZDNTKE_61119	outside	34	35				
+//
+# ZDNTKE_35606 Length: 42
+# ZDNTKE_35606 Number of predicted TMRs: 0
+ZDNTKE_35606	inside	1	42				
+//
+# ZDNTKE_104733 Length: 47
+# ZDNTKE_104733 Number of predicted TMRs: 0
+ZDNTKE_104733	inside	1	47				
+//
+# ZDNTKE_45960 Length: 46
+# ZDNTKE_45960 Number of predicted TMRs: 0
+ZDNTKE_45960	signal	1	13				
+ZDNTKE_45960	outside	14	46				
+//
+# ZDNTKE_15435 Length: 48
+# ZDNTKE_15435 Number of predicted TMRs: 0
+ZDNTKE_15435	inside	1	48				
+//
+# ZDNTKE_117188 Length: 45
+# ZDNTKE_117188 Number of predicted TMRs: 0
+ZDNTKE_117188	signal	1	33				
+ZDNTKE_117188	outside	34	45				
+//
+# ZDNTKE_152626 Length: 35
+# ZDNTKE_152626 Number of predicted TMRs: 0
+ZDNTKE_152626	inside	1	35				
+//
+# ZDNTKE_77967 Length: 50
+# ZDNTKE_77967 Number of predicted TMRs: 0
+ZDNTKE_77967	inside	1	50				
+//
+# ZDNTKE_5904 Length: 37
+# ZDNTKE_5904 Number of predicted TMRs: 0
+ZDNTKE_5904	inside	1	37				
+//
+# ZDNTKE_33631 Length: 39
+# ZDNTKE_33631 Number of predicted TMRs: 0
+ZDNTKE_33631	signal	1	38				
+ZDNTKE_33631	outside	39	39				
+//
+# ZDNTKE_64711 Length: 47
+# ZDNTKE_64711 Number of predicted TMRs: 0
+ZDNTKE_64711	inside	1	47				
+//
+# ZDNTKE_82954 Length: 44
+# ZDNTKE_82954 Number of predicted TMRs: 0
+ZDNTKE_82954	inside	1	44				
+//
+# ZDNTKE_139542 Length: 49
+# ZDNTKE_139542 Number of predicted TMRs: 0
+ZDNTKE_139542	signal	1	13				
+ZDNTKE_139542	outside	14	49				
+//
+# ZDNTKE_59879 Length: 41
+# ZDNTKE_59879 Number of predicted TMRs: 0
+ZDNTKE_59879	signal	1	40				
+ZDNTKE_59879	outside	41	41				
+//
+# ZDNTKE_99255 Length: 47
+# ZDNTKE_99255 Number of predicted TMRs: 0
+ZDNTKE_99255	inside	1	47				
+//
+# ZDNTKE_20792 Length: 46
+# ZDNTKE_20792 Number of predicted TMRs: 0
+ZDNTKE_20792	inside	1	46				
+//
+# ZDNTKE_74512 Length: 43
+# ZDNTKE_74512 Number of predicted TMRs: 0
+ZDNTKE_74512	signal	1	41				
+ZDNTKE_74512	outside	42	43				
+//
+# ZDNTKE_118737 Length: 50
+# ZDNTKE_118737 Number of predicted TMRs: 1
+ZDNTKE_118737	inside	1	28				
+ZDNTKE_118737	TMhelix	29	49				
+ZDNTKE_118737	outside	50	50				
+//
+# ZDNTKE_57830 Length: 36
+# ZDNTKE_57830 Number of predicted TMRs: 0
+ZDNTKE_57830	signal	1	35				
+ZDNTKE_57830	outside	36	36				
+//
+# ZDNTKE_16906 Length: 49
+# ZDNTKE_16906 Number of predicted TMRs: 0
+ZDNTKE_16906	signal	1	29				
+ZDNTKE_16906	outside	30	49				
+//
+# ZDNTKE_146198 Length: 37
+# ZDNTKE_146198 Number of predicted TMRs: 0
+ZDNTKE_146198	signal	1	33				
+ZDNTKE_146198	outside	34	37				
+//
+# ZDNTKE_28745 Length: 34
+# ZDNTKE_28745 Number of predicted TMRs: 0
+ZDNTKE_28745	signal	1	32				
+ZDNTKE_28745	outside	33	34				
+//
+# ZDNTKE_50488 Length: 40
+# ZDNTKE_50488 Number of predicted TMRs: 0
+ZDNTKE_50488	inside	1	40				
+//
+# ZDNTKE_170720 Length: 49
+# ZDNTKE_170720 Number of predicted TMRs: 0
+ZDNTKE_170720	inside	1	49				
+//
+# ZDNTKE_152467 Length: 32
+# ZDNTKE_152467 Number of predicted TMRs: 0
+ZDNTKE_152467	inside	1	32				
+//
+# ZDNTKE_81376 Length: 44
+# ZDNTKE_81376 Number of predicted TMRs: 0
+ZDNTKE_81376	signal	1	32				
+ZDNTKE_81376	outside	33	44				
+//
+# ZDNTKE_9704 Length: 48
+# ZDNTKE_9704 Number of predicted TMRs: 0
+ZDNTKE_9704	signal	1	47				
+ZDNTKE_9704	outside	48	48				
+//
+# ZDNTKE_165503 Length: 39
+# ZDNTKE_165503 Number of predicted TMRs: 0
+ZDNTKE_165503	inside	1	39				
+//
+# ZDNTKE_18792 Length: 30
+# ZDNTKE_18792 Number of predicted TMRs: 0
+ZDNTKE_18792	inside	1	30				
+//
+# ZDNTKE_99873 Length: 47
+# ZDNTKE_99873 Number of predicted TMRs: 0
+ZDNTKE_99873	inside	1	47				
+//
+# ZDNTKE_96321 Length: 47
+# ZDNTKE_96321 Number of predicted TMRs: 0
+ZDNTKE_96321	signal	1	40				
+ZDNTKE_96321	outside	41	47				
+//
+# ZDNTKE_113332 Length: 47
+# ZDNTKE_113332 Number of predicted TMRs: 0
+ZDNTKE_113332	signal	1	15				
+ZDNTKE_113332	outside	16	47				
+//
+# ZDNTKE_6917 Length: 45
+# ZDNTKE_6917 Number of predicted TMRs: 0
+ZDNTKE_6917	inside	1	45				
+//
+# ZDNTKE_62868 Length: 25
+# ZDNTKE_62868 Number of predicted TMRs: 0
+ZDNTKE_62868	inside	1	25				
+//
+# ZDNTKE_78196 Length: 35
+# ZDNTKE_78196 Number of predicted TMRs: 0
+ZDNTKE_78196	inside	1	35				
+//
+# ZDNTKE_49152 Length: 39
+# ZDNTKE_49152 Number of predicted TMRs: 0
+ZDNTKE_49152	signal	1	10				
+ZDNTKE_49152	outside	11	39				
+//
+# ZDNTKE_41496 Length: 48
+# ZDNTKE_41496 Number of predicted TMRs: 0
+ZDNTKE_41496	inside	1	48				
+//
+# ZDNTKE_70550 Length: 40
+# ZDNTKE_70550 Number of predicted TMRs: 0
+ZDNTKE_70550	inside	1	40				
+//
+# ZDNTKE_17141 Length: 44
+# ZDNTKE_17141 Number of predicted TMRs: 0
+ZDNTKE_17141	inside	1	44				
+//
+# ZDNTKE_17144 Length: 49
+# ZDNTKE_17144 Number of predicted TMRs: 0
+ZDNTKE_17144	inside	1	49				
+//
+# ZDNTKE_127014 Length: 43
+# ZDNTKE_127014 Number of predicted TMRs: 0
+ZDNTKE_127014	inside	1	43				
+//
+# ZDNTKE_117825 Length: 49
+# ZDNTKE_117825 Number of predicted TMRs: 0
+ZDNTKE_117825	inside	1	49				
+//
+# ZDNTKE_104979 Length: 49
+# ZDNTKE_104979 Number of predicted TMRs: 0
+ZDNTKE_104979	inside	1	49				
+//
+# ZDNTKE_37778 Length: 42
+# ZDNTKE_37778 Number of predicted TMRs: 0
+ZDNTKE_37778	signal	1	41				
+ZDNTKE_37778	outside	42	42				
+//
+# ZDNTKE_50676 Length: 50
+# ZDNTKE_50676 Number of predicted TMRs: 0
+ZDNTKE_50676	inside	1	50				
+//
+# ZDNTKE_134597 Length: 45
+# ZDNTKE_134597 Number of predicted TMRs: 0
+ZDNTKE_134597	signal	1	12				
+ZDNTKE_134597	outside	13	45				
+//
+# ZDNTKE_57260 Length: 43
+# ZDNTKE_57260 Number of predicted TMRs: 0
+ZDNTKE_57260	inside	1	43				
+//
+# ZDNTKE_8383 Length: 47
+# ZDNTKE_8383 Number of predicted TMRs: 0
+ZDNTKE_8383	inside	1	47				
+//
+# ZDNTKE_135610 Length: 44
+# ZDNTKE_135610 Number of predicted TMRs: 0
+ZDNTKE_135610	inside	1	44				
+//
+# ZDNTKE_133159 Length: 45
+# ZDNTKE_133159 Number of predicted TMRs: 0
+ZDNTKE_133159	signal	1	41				
+ZDNTKE_133159	outside	42	45				
+//
+# ZDNTKE_89519 Length: 32
+# ZDNTKE_89519 Number of predicted TMRs: 0
+ZDNTKE_89519	signal	1	31				
+ZDNTKE_89519	outside	32	32				
+//
+# ZDNTKE_26049 Length: 44
+# ZDNTKE_26049 Number of predicted TMRs: 0
+ZDNTKE_26049	signal	1	29				
+ZDNTKE_26049	outside	30	44				
+//
+# ZDNTKE_30235 Length: 49
+# ZDNTKE_30235 Number of predicted TMRs: 0
+ZDNTKE_30235	signal	1	11				
+ZDNTKE_30235	outside	12	49				
+//
+# ZDNTKE_9158 Length: 47
+# ZDNTKE_9158 Number of predicted TMRs: 0
+ZDNTKE_9158	inside	1	47				
+//
+# ZDNTKE_69898 Length: 49
+# ZDNTKE_69898 Number of predicted TMRs: 0
+ZDNTKE_69898	inside	1	49				
+//
+# ZDNTKE_26902 Length: 45
+# ZDNTKE_26902 Number of predicted TMRs: 0
+ZDNTKE_26902	inside	1	45				
+//
+# ZDNTKE_137858 Length: 47
+# ZDNTKE_137858 Number of predicted TMRs: 0
+ZDNTKE_137858	signal	1	43				
+ZDNTKE_137858	outside	44	47				
+//
+# ZDNTKE_137852 Length: 44
+# ZDNTKE_137852 Number of predicted TMRs: 0
+ZDNTKE_137852	signal	1	42				
+ZDNTKE_137852	outside	43	44				
+//
+# ZDNTKE_152977 Length: 44
+# ZDNTKE_152977 Number of predicted TMRs: 0
+ZDNTKE_152977	inside	1	44				
+//
+# ZDNTKE_42497 Length: 45
+# ZDNTKE_42497 Number of predicted TMRs: 0
+ZDNTKE_42497	signal	1	44				
+ZDNTKE_42497	outside	45	45				
+//
+# ZDNTKE_134750 Length: 30
+# ZDNTKE_134750 Number of predicted TMRs: 0
+ZDNTKE_134750	inside	1	30				
+//
+# ZDNTKE_19980 Length: 49
+# ZDNTKE_19980 Number of predicted TMRs: 0
+ZDNTKE_19980	inside	1	49				
+//
+# ZDNTKE_113328 Length: 49
+# ZDNTKE_113328 Number of predicted TMRs: 0
+ZDNTKE_113328	inside	1	49				
+//
+# ZDNTKE_135305 Length: 37
+# ZDNTKE_135305 Number of predicted TMRs: 0
+ZDNTKE_135305	signal	1	27				
+ZDNTKE_135305	outside	28	37				
+//
+# ZDNTKE_12774 Length: 43
+# ZDNTKE_12774 Number of predicted TMRs: 0
+ZDNTKE_12774	inside	1	43				
+//
+# ZDNTKE_110599 Length: 31
+# ZDNTKE_110599 Number of predicted TMRs: 0
+ZDNTKE_110599	inside	1	31				
+//
+# ZDNTKE_13003 Length: 47
+# ZDNTKE_13003 Number of predicted TMRs: 0
+ZDNTKE_13003	inside	1	47				
+//
+# ZDNTKE_76818 Length: 50
+# ZDNTKE_76818 Number of predicted TMRs: 0
+ZDNTKE_76818	inside	1	50				
+//
+# ZDNTKE_17267 Length: 36
+# ZDNTKE_17267 Number of predicted TMRs: 0
+ZDNTKE_17267	inside	1	36				
+//
+# ZDNTKE_171681 Length: 50
+# ZDNTKE_171681 Number of predicted TMRs: 0
+ZDNTKE_171681	inside	1	50				
+//
+# ZDNTKE_115069 Length: 40
+# ZDNTKE_115069 Number of predicted TMRs: 0
+ZDNTKE_115069	outside	1	40				
+//
+# ZDNTKE_168571 Length: 33
+# ZDNTKE_168571 Number of predicted TMRs: 0
+ZDNTKE_168571	inside	1	33				
+//
+# ZDNTKE_7930 Length: 47
+# ZDNTKE_7930 Number of predicted TMRs: 0
+ZDNTKE_7930	inside	1	47				
+//
+# ZDNTKE_104040 Length: 37
+# ZDNTKE_104040 Number of predicted TMRs: 0
+ZDNTKE_104040	inside	1	37				
+//
+# ZDNTKE_65214 Length: 44
+# ZDNTKE_65214 Number of predicted TMRs: 0
+ZDNTKE_65214	inside	1	44				
+//
+# ZDNTKE_70065 Length: 42
+# ZDNTKE_70065 Number of predicted TMRs: 0
+ZDNTKE_70065	inside	1	42				
+//
+# ZDNTKE_21997 Length: 29
+# ZDNTKE_21997 Number of predicted TMRs: 0
+ZDNTKE_21997	signal	1	23				
+ZDNTKE_21997	outside	24	29				
+//
+# ZDNTKE_75071 Length: 50
+# ZDNTKE_75071 Number of predicted TMRs: 0
+ZDNTKE_75071	inside	1	50				
+//
+# ZDNTKE_126955 Length: 35
+# ZDNTKE_126955 Number of predicted TMRs: 0
+ZDNTKE_126955	inside	1	35				
+//
+# ZDNTKE_121942 Length: 46
+# ZDNTKE_121942 Number of predicted TMRs: 0
+ZDNTKE_121942	inside	1	46				
+//
+# ZDNTKE_147354 Length: 46
+# ZDNTKE_147354 Number of predicted TMRs: 0
+ZDNTKE_147354	inside	1	46				
+//
+# ZDNTKE_70756 Length: 45
+# ZDNTKE_70756 Number of predicted TMRs: 0
+ZDNTKE_70756	inside	1	45				
+//
+# ZDNTKE_18896 Length: 40
+# ZDNTKE_18896 Number of predicted TMRs: 0
+ZDNTKE_18896	signal	1	27				
+ZDNTKE_18896	outside	28	40				
+//
+# ZDNTKE_44364 Length: 27
+# ZDNTKE_44364 Number of predicted TMRs: 0
+ZDNTKE_44364	signal	1	26				
+ZDNTKE_44364	outside	27	27				
+//
+# ZDNTKE_96837 Length: 39
+# ZDNTKE_96837 Number of predicted TMRs: 0
+ZDNTKE_96837	outside	1	39				
+//
+# ZDNTKE_49216 Length: 49
+# ZDNTKE_49216 Number of predicted TMRs: 0
+ZDNTKE_49216	signal	1	31				
+ZDNTKE_49216	outside	32	49				
+//
+# ZDNTKE_128290 Length: 49
+# ZDNTKE_128290 Number of predicted TMRs: 0
+ZDNTKE_128290	signal	1	34				
+ZDNTKE_128290	outside	35	49				
+//
+# ZDNTKE_101205 Length: 39
+# ZDNTKE_101205 Number of predicted TMRs: 0
+ZDNTKE_101205	signal	1	38				
+ZDNTKE_101205	outside	39	39				
+//
+# ZDNTKE_136273 Length: 44
+# ZDNTKE_136273 Number of predicted TMRs: 0
+ZDNTKE_136273	inside	1	44				
+//
+# ZDNTKE_90003 Length: 39
+# ZDNTKE_90003 Number of predicted TMRs: 0
+ZDNTKE_90003	signal	1	38				
+ZDNTKE_90003	outside	39	39				
+//
+# ZDNTKE_79959 Length: 50
+# ZDNTKE_79959 Number of predicted TMRs: 0
+ZDNTKE_79959	inside	1	50				
+//
+# ZDNTKE_146041 Length: 44
+# ZDNTKE_146041 Number of predicted TMRs: 0
+ZDNTKE_146041	inside	1	44				
+//
+# ZDNTKE_109060 Length: 44
+# ZDNTKE_109060 Number of predicted TMRs: 0
+ZDNTKE_109060	signal	1	12				
+ZDNTKE_109060	outside	13	44				
+//
+# ZDNTKE_80919 Length: 36
+# ZDNTKE_80919 Number of predicted TMRs: 0
+ZDNTKE_80919	inside	1	36				
+//
+# ZDNTKE_11050 Length: 33
+# ZDNTKE_11050 Number of predicted TMRs: 0
+ZDNTKE_11050	signal	1	30				
+ZDNTKE_11050	outside	31	33				
+//
+# ZDNTKE_45243 Length: 50
+# ZDNTKE_45243 Number of predicted TMRs: 0
+ZDNTKE_45243	inside	1	50				
+//
+# ZDNTKE_59126 Length: 49
+# ZDNTKE_59126 Number of predicted TMRs: 0
+ZDNTKE_59126	signal	1	48				
+ZDNTKE_59126	outside	49	49				
+//
+# ZDNTKE_52834 Length: 48
+# ZDNTKE_52834 Number of predicted TMRs: 0
+ZDNTKE_52834	inside	1	48				
+//
+# ZDNTKE_41842 Length: 41
+# ZDNTKE_41842 Number of predicted TMRs: 0
+ZDNTKE_41842	signal	1	39				
+ZDNTKE_41842	outside	40	41				
+//
+# ZDNTKE_3621 Length: 43
+# ZDNTKE_3621 Number of predicted TMRs: 0
+ZDNTKE_3621	inside	1	43				
+//
+# ZDNTKE_28677 Length: 43
+# ZDNTKE_28677 Number of predicted TMRs: 0
+ZDNTKE_28677	inside	1	43				
+//
+# ZDNTKE_154076 Length: 40
+# ZDNTKE_154076 Number of predicted TMRs: 0
+ZDNTKE_154076	inside	1	40				
+//
+# ZDNTKE_59406 Length: 48
+# ZDNTKE_59406 Number of predicted TMRs: 0
+ZDNTKE_59406	inside	1	48				
+//
+# ZDNTKE_100459 Length: 37
+# ZDNTKE_100459 Number of predicted TMRs: 0
+ZDNTKE_100459	inside	1	37				
+//
+# ZDNTKE_153563 Length: 39
+# ZDNTKE_153563 Number of predicted TMRs: 0
+ZDNTKE_153563	inside	1	39				
+//
+# ZDNTKE_123828 Length: 47
+# ZDNTKE_123828 Number of predicted TMRs: 0
+ZDNTKE_123828	inside	1	47				
+//
+# ZDNTKE_132751 Length: 40
+# ZDNTKE_132751 Number of predicted TMRs: 0
+ZDNTKE_132751	outside	1	40				
+//
+# ZDNTKE_172000 Length: 44
+# ZDNTKE_172000 Number of predicted TMRs: 0
+ZDNTKE_172000	inside	1	44				
+//
+# ZDNTKE_52072 Length: 34
+# ZDNTKE_52072 Number of predicted TMRs: 0
+ZDNTKE_52072	inside	1	34				
+//
+# ZDNTKE_61100 Length: 46
+# ZDNTKE_61100 Number of predicted TMRs: 0
+ZDNTKE_61100	outside	1	46				
+//
+# ZDNTKE_138580 Length: 36
+# ZDNTKE_138580 Number of predicted TMRs: 0
+ZDNTKE_138580	inside	1	36				
+//
+# ZDNTKE_69742 Length: 39
+# ZDNTKE_69742 Number of predicted TMRs: 0
+ZDNTKE_69742	outside	1	39				
+//
+# ZDNTKE_12503 Length: 44
+# ZDNTKE_12503 Number of predicted TMRs: 0
+ZDNTKE_12503	inside	1	44				
+//
+# ZDNTKE_67321 Length: 41
+# ZDNTKE_67321 Number of predicted TMRs: 0
+ZDNTKE_67321	inside	1	41				
+//
+# ZDNTKE_149531 Length: 49
+# ZDNTKE_149531 Number of predicted TMRs: 0
+ZDNTKE_149531	signal	1	47				
+ZDNTKE_149531	outside	48	49				
+//
+# ZDNTKE_27877 Length: 36
+# ZDNTKE_27877 Number of predicted TMRs: 0
+ZDNTKE_27877	signal	1	33				
+ZDNTKE_27877	outside	34	36				
+//
+# ZDNTKE_139563 Length: 44
+# ZDNTKE_139563 Number of predicted TMRs: 0
+ZDNTKE_139563	inside	1	44				
+//
+# ZDNTKE_100309 Length: 43
+# ZDNTKE_100309 Number of predicted TMRs: 0
+ZDNTKE_100309	inside	1	43				
+//
+# ZDNTKE_96779 Length: 37
+# ZDNTKE_96779 Number of predicted TMRs: 0
+ZDNTKE_96779	signal	1	30				
+ZDNTKE_96779	outside	31	37				
+//
+# ZDNTKE_120576 Length: 43
+# ZDNTKE_120576 Number of predicted TMRs: 0
+ZDNTKE_120576	signal	1	41				
+ZDNTKE_120576	outside	42	43				
+//
+# ZDNTKE_111084 Length: 50
+# ZDNTKE_111084 Number of predicted TMRs: 0
+ZDNTKE_111084	inside	1	50				
+//
+# ZDNTKE_112327 Length: 46
+# ZDNTKE_112327 Number of predicted TMRs: 0
+ZDNTKE_112327	inside	1	46				
+//
+# ZDNTKE_11242 Length: 44
+# ZDNTKE_11242 Number of predicted TMRs: 0
+ZDNTKE_11242	inside	1	44				
+//
+# ZDNTKE_122409 Length: 46
+# ZDNTKE_122409 Number of predicted TMRs: 0
+ZDNTKE_122409	inside	1	46				
+//
+# ZDNTKE_123273 Length: 42
+# ZDNTKE_123273 Number of predicted TMRs: 0
+ZDNTKE_123273	inside	1	42				
+//
+# ZDNTKE_21688 Length: 40
+# ZDNTKE_21688 Number of predicted TMRs: 0
+ZDNTKE_21688	inside	1	40				
+//
+# ZDNTKE_148430 Length: 50
+# ZDNTKE_148430 Number of predicted TMRs: 0
+ZDNTKE_148430	inside	1	50				
+//
+# ZDNTKE_37561 Length: 42
+# ZDNTKE_37561 Number of predicted TMRs: 0
+ZDNTKE_37561	inside	1	42				
+//
+# ZDNTKE_153436 Length: 42
+# ZDNTKE_153436 Number of predicted TMRs: 0
+ZDNTKE_153436	inside	1	42				
+//
+# ZDNTKE_17630 Length: 42
+# ZDNTKE_17630 Number of predicted TMRs: 0
+ZDNTKE_17630	inside	1	42				
+//
+# ZDNTKE_165402 Length: 48
+# ZDNTKE_165402 Number of predicted TMRs: 0
+ZDNTKE_165402	inside	1	48				
+//
+# ZDNTKE_76238 Length: 49
+# ZDNTKE_76238 Number of predicted TMRs: 0
+ZDNTKE_76238	signal	1	33				
+ZDNTKE_76238	outside	34	49				
+//
+# ZDNTKE_154040 Length: 43
+# ZDNTKE_154040 Number of predicted TMRs: 0
+ZDNTKE_154040	inside	1	43				
+//
+# ZDNTKE_34476 Length: 43
+# ZDNTKE_34476 Number of predicted TMRs: 0
+ZDNTKE_34476	signal	1	42				
+ZDNTKE_34476	outside	43	43				
+//
+# ZDNTKE_121657 Length: 46
+# ZDNTKE_121657 Number of predicted TMRs: 0
+ZDNTKE_121657	inside	1	46				
+//
+# ZDNTKE_63482 Length: 42
+# ZDNTKE_63482 Number of predicted TMRs: 0
+ZDNTKE_63482	signal	1	40				
+ZDNTKE_63482	outside	41	42				
+//
+# ZDNTKE_540 Length: 50
+# ZDNTKE_540 Number of predicted TMRs: 0
+ZDNTKE_540	inside	1	50				
+//
+# ZDNTKE_14691 Length: 40
+# ZDNTKE_14691 Number of predicted TMRs: 0
+ZDNTKE_14691	signal	1	39				
+ZDNTKE_14691	outside	40	40				
+//
+# ZDNTKE_34111 Length: 45
+# ZDNTKE_34111 Number of predicted TMRs: 0
+ZDNTKE_34111	inside	1	45				
+//
+# ZDNTKE_39192 Length: 44
+# ZDNTKE_39192 Number of predicted TMRs: 0
+ZDNTKE_39192	signal	1	39				
+ZDNTKE_39192	outside	40	44				
+//
+# ZDNTKE_50010 Length: 39
+# ZDNTKE_50010 Number of predicted TMRs: 0
+ZDNTKE_50010	signal	1	36				
+ZDNTKE_50010	outside	37	39				
+//
+# ZDNTKE_72200 Length: 40
+# ZDNTKE_72200 Number of predicted TMRs: 0
+ZDNTKE_72200	signal	1	39				
+ZDNTKE_72200	outside	40	40				
+//
+# ZDNTKE_133105 Length: 45
+# ZDNTKE_133105 Number of predicted TMRs: 0
+ZDNTKE_133105	inside	1	45				
+//
+# ZDNTKE_89631 Length: 49
+# ZDNTKE_89631 Number of predicted TMRs: 0
+ZDNTKE_89631	inside	1	49				
+//
+# ZDNTKE_78195 Length: 44
+# ZDNTKE_78195 Number of predicted TMRs: 0
+ZDNTKE_78195	inside	1	44				
+//
+# ZDNTKE_14236 Length: 47
+# ZDNTKE_14236 Number of predicted TMRs: 0
+ZDNTKE_14236	outside	1	47				
+//
+# ZDNTKE_59488 Length: 38
+# ZDNTKE_59488 Number of predicted TMRs: 0
+ZDNTKE_59488	outside	1	38				
+//
+# ZDNTKE_93361 Length: 33
+# ZDNTKE_93361 Number of predicted TMRs: 0
+ZDNTKE_93361	signal	1	32				
+ZDNTKE_93361	outside	33	33				
+//
+# ZDNTKE_149183 Length: 45
+# ZDNTKE_149183 Number of predicted TMRs: 0
+ZDNTKE_149183	inside	1	45				
+//
+# ZDNTKE_58819 Length: 46
+# ZDNTKE_58819 Number of predicted TMRs: 0
+ZDNTKE_58819	signal	1	26				
+ZDNTKE_58819	outside	27	46				
+//
+# ZDNTKE_91981 Length: 48
+# ZDNTKE_91981 Number of predicted TMRs: 0
+ZDNTKE_91981	inside	1	48				
+//
+# ZDNTKE_133919 Length: 39
+# ZDNTKE_133919 Number of predicted TMRs: 0
+ZDNTKE_133919	signal	1	33				
+ZDNTKE_133919	outside	34	39				
+//
+# ZDNTKE_135717 Length: 46
+# ZDNTKE_135717 Number of predicted TMRs: 0
+ZDNTKE_135717	signal	1	34				
+ZDNTKE_135717	outside	35	46				
+//
+# ZDNTKE_97186 Length: 47
+# ZDNTKE_97186 Number of predicted TMRs: 0
+ZDNTKE_97186	signal	1	34				
+ZDNTKE_97186	outside	35	47				
+//
+# ZDNTKE_4980 Length: 38
+# ZDNTKE_4980 Number of predicted TMRs: 0
+ZDNTKE_4980	signal	1	32				
+ZDNTKE_4980	outside	33	38				
+//
+# ZDNTKE_16542 Length: 31
+# ZDNTKE_16542 Number of predicted TMRs: 0
+ZDNTKE_16542	signal	1	28				
+ZDNTKE_16542	outside	29	31				
+//
+# ZDNTKE_8475 Length: 44
+# ZDNTKE_8475 Number of predicted TMRs: 0
+ZDNTKE_8475	inside	1	44				
+//
+# ZDNTKE_18169 Length: 48
+# ZDNTKE_18169 Number of predicted TMRs: 0
+ZDNTKE_18169	signal	1	34				
+ZDNTKE_18169	outside	35	48				
+//
+# ZDNTKE_21075 Length: 46
+# ZDNTKE_21075 Number of predicted TMRs: 0
+ZDNTKE_21075	inside	1	46				
+//
+# ZDNTKE_166755 Length: 46
+# ZDNTKE_166755 Number of predicted TMRs: 0
+ZDNTKE_166755	inside	1	46				
+//
+# ZDNTKE_75754 Length: 44
+# ZDNTKE_75754 Number of predicted TMRs: 0
+ZDNTKE_75754	inside	1	44				
+//
+# ZDNTKE_143064 Length: 48
+# ZDNTKE_143064 Number of predicted TMRs: 0
+ZDNTKE_143064	signal	1	39				
+ZDNTKE_143064	outside	40	48				
+//
+# ZDNTKE_52597 Length: 41
+# ZDNTKE_52597 Number of predicted TMRs: 0
+ZDNTKE_52597	signal	1	33				
+ZDNTKE_52597	outside	34	41				
+//
+# ZDNTKE_6952 Length: 41
+# ZDNTKE_6952 Number of predicted TMRs: 0
+ZDNTKE_6952	inside	1	41				
+//
+# ZDNTKE_104414 Length: 28
+# ZDNTKE_104414 Number of predicted TMRs: 0
+ZDNTKE_104414	signal	1	27				
+ZDNTKE_104414	outside	28	28				
+//
+# ZDNTKE_149439 Length: 45
+# ZDNTKE_149439 Number of predicted TMRs: 0
+ZDNTKE_149439	signal	1	43				
+ZDNTKE_149439	outside	44	45				
+//
+# ZDNTKE_77927 Length: 47
+# ZDNTKE_77927 Number of predicted TMRs: 0
+ZDNTKE_77927	inside	1	47				
+//
+# ZDNTKE_64869 Length: 48
+# ZDNTKE_64869 Number of predicted TMRs: 0
+ZDNTKE_64869	inside	1	48				
+//
+# ZDNTKE_140475 Length: 49
+# ZDNTKE_140475 Number of predicted TMRs: 0
+ZDNTKE_140475	inside	1	49				
+//
+# ZDNTKE_87220 Length: 49
+# ZDNTKE_87220 Number of predicted TMRs: 0
+ZDNTKE_87220	signal	1	12				
+ZDNTKE_87220	outside	13	49				
+//
+# ZDNTKE_132675 Length: 44
+# ZDNTKE_132675 Number of predicted TMRs: 0
+ZDNTKE_132675	inside	1	44				
+//
+# ZDNTKE_147565 Length: 45
+# ZDNTKE_147565 Number of predicted TMRs: 0
+ZDNTKE_147565	signal	1	16				
+ZDNTKE_147565	outside	17	45				
+//
+# ZDNTKE_80354 Length: 46
+# ZDNTKE_80354 Number of predicted TMRs: 0
+ZDNTKE_80354	inside	1	46				
+//
+# ZDNTKE_18107 Length: 48
+# ZDNTKE_18107 Number of predicted TMRs: 0
+ZDNTKE_18107	inside	1	48				
+//
+# ZDNTKE_60461 Length: 47
+# ZDNTKE_60461 Number of predicted TMRs: 0
+ZDNTKE_60461	signal	1	38				
+ZDNTKE_60461	outside	39	47				
+//
+# ZDNTKE_31472 Length: 36
+# ZDNTKE_31472 Number of predicted TMRs: 0
+ZDNTKE_31472	signal	1	35				
+ZDNTKE_31472	outside	36	36				
+//
+# ZDNTKE_362 Length: 36
+# ZDNTKE_362 Number of predicted TMRs: 0
+ZDNTKE_362	signal	1	35				
+ZDNTKE_362	outside	36	36				
+//
+# ZDNTKE_162665 Length: 39
+# ZDNTKE_162665 Number of predicted TMRs: 0
+ZDNTKE_162665	signal	1	38				
+ZDNTKE_162665	outside	39	39				
+//
+# ZDNTKE_157320 Length: 46
+# ZDNTKE_157320 Number of predicted TMRs: 0
+ZDNTKE_157320	inside	1	46				
+//
+# ZDNTKE_65542 Length: 40
+# ZDNTKE_65542 Number of predicted TMRs: 0
+ZDNTKE_65542	inside	1	40				
+//
+# ZDNTKE_162867 Length: 45
+# ZDNTKE_162867 Number of predicted TMRs: 0
+ZDNTKE_162867	signal	1	21				
+ZDNTKE_162867	outside	22	45				
+//
+# ZDNTKE_83925 Length: 39
+# ZDNTKE_83925 Number of predicted TMRs: 0
+ZDNTKE_83925	signal	1	32				
+ZDNTKE_83925	outside	33	39				
+//
+# ZDNTKE_66248 Length: 48
+# ZDNTKE_66248 Number of predicted TMRs: 0
+ZDNTKE_66248	signal	1	25				
+ZDNTKE_66248	outside	26	48				
+//
+# ZDNTKE_66240 Length: 47
+# ZDNTKE_66240 Number of predicted TMRs: 0
+ZDNTKE_66240	signal	1	25				
+ZDNTKE_66240	outside	26	47				
+//
+# ZDNTKE_171281 Length: 44
+# ZDNTKE_171281 Number of predicted TMRs: 0
+ZDNTKE_171281	inside	1	44				
+//
+# ZDNTKE_81143 Length: 48
+# ZDNTKE_81143 Number of predicted TMRs: 0
+ZDNTKE_81143	inside	1	48				
+//
+# ZDNTKE_81139 Length: 50
+# ZDNTKE_81139 Number of predicted TMRs: 0
+ZDNTKE_81139	inside	1	50				
+//
+# ZDNTKE_21090 Length: 47
+# ZDNTKE_21090 Number of predicted TMRs: 0
+ZDNTKE_21090	inside	1	47				
+//
+# ZDNTKE_14749 Length: 42
+# ZDNTKE_14749 Number of predicted TMRs: 0
+ZDNTKE_14749	signal	1	41				
+ZDNTKE_14749	outside	42	42				
+//
+# ZDNTKE_73726 Length: 44
+# ZDNTKE_73726 Number of predicted TMRs: 0
+ZDNTKE_73726	signal	1	13				
+ZDNTKE_73726	outside	14	44				
+//
+# ZDNTKE_19667 Length: 47
+# ZDNTKE_19667 Number of predicted TMRs: 0
+ZDNTKE_19667	inside	1	47				
+//
+# ZDNTKE_41746 Length: 41
+# ZDNTKE_41746 Number of predicted TMRs: 0
+ZDNTKE_41746	inside	1	41				
+//
+# ZDNTKE_169244 Length: 46
+# ZDNTKE_169244 Number of predicted TMRs: 0
+ZDNTKE_169244	inside	1	46				
+//
+# ZDNTKE_74809 Length: 29
+# ZDNTKE_74809 Number of predicted TMRs: 0
+ZDNTKE_74809	signal	1	28				
+ZDNTKE_74809	outside	29	29				
+//
+# ZDNTKE_70025 Length: 49
+# ZDNTKE_70025 Number of predicted TMRs: 0
+ZDNTKE_70025	inside	1	49				
+//
+# ZDNTKE_15047 Length: 38
+# ZDNTKE_15047 Number of predicted TMRs: 0
+ZDNTKE_15047	signal	1	34				
+ZDNTKE_15047	outside	35	38				
+//
+# ZDNTKE_6339 Length: 43
+# ZDNTKE_6339 Number of predicted TMRs: 0
+ZDNTKE_6339	inside	1	43				
+//
+# ZDNTKE_47452 Length: 45
+# ZDNTKE_47452 Number of predicted TMRs: 0
+ZDNTKE_47452	inside	1	45				
+//
+# ZDNTKE_34855 Length: 50
+# ZDNTKE_34855 Number of predicted TMRs: 0
+ZDNTKE_34855	inside	1	50				
+//
+# ZDNTKE_43539 Length: 42
+# ZDNTKE_43539 Number of predicted TMRs: 0
+ZDNTKE_43539	inside	1	42				
+//
+# ZDNTKE_43753 Length: 48
+# ZDNTKE_43753 Number of predicted TMRs: 0
+ZDNTKE_43753	outside	1	48				
+//
+# ZDNTKE_124990 Length: 47
+# ZDNTKE_124990 Number of predicted TMRs: 0
+ZDNTKE_124990	inside	1	47				
+//
+# ZDNTKE_141439 Length: 47
+# ZDNTKE_141439 Number of predicted TMRs: 0
+ZDNTKE_141439	signal	1	40				
+ZDNTKE_141439	outside	41	47				
+//
+# ZDNTKE_171035 Length: 49
+# ZDNTKE_171035 Number of predicted TMRs: 0
+ZDNTKE_171035	inside	1	49				
+//
+# ZDNTKE_84151 Length: 46
+# ZDNTKE_84151 Number of predicted TMRs: 0
+ZDNTKE_84151	inside	1	46				
+//
+# ZDNTKE_84401 Length: 47
+# ZDNTKE_84401 Number of predicted TMRs: 0
+ZDNTKE_84401	inside	1	47				
+//
+# ZDNTKE_54255 Length: 46
+# ZDNTKE_54255 Number of predicted TMRs: 0
+ZDNTKE_54255	inside	1	46				
+//
+# ZDNTKE_78669 Length: 35
+# ZDNTKE_78669 Number of predicted TMRs: 0
+ZDNTKE_78669	inside	1	35				
+//
+# ZDNTKE_41498 Length: 37
+# ZDNTKE_41498 Number of predicted TMRs: 0
+ZDNTKE_41498	signal	1	36				
+ZDNTKE_41498	outside	37	37				
+//
+# ZDNTKE_11328 Length: 48
+# ZDNTKE_11328 Number of predicted TMRs: 0
+ZDNTKE_11328	inside	1	48				
+//
+# ZDNTKE_124317 Length: 37
+# ZDNTKE_124317 Number of predicted TMRs: 0
+ZDNTKE_124317	inside	1	37				
+//
+# ZDNTKE_29131 Length: 39
+# ZDNTKE_29131 Number of predicted TMRs: 0
+ZDNTKE_29131	inside	1	39				
+//
+# ZDNTKE_10294 Length: 45
+# ZDNTKE_10294 Number of predicted TMRs: 0
+ZDNTKE_10294	inside	1	45				
+//
+# ZDNTKE_54082 Length: 43
+# ZDNTKE_54082 Number of predicted TMRs: 0
+ZDNTKE_54082	inside	1	43				
+//
+# ZDNTKE_126084 Length: 44
+# ZDNTKE_126084 Number of predicted TMRs: 0
+ZDNTKE_126084	inside	1	44				
+//
+# ZDNTKE_93556 Length: 45
+# ZDNTKE_93556 Number of predicted TMRs: 0
+ZDNTKE_93556	inside	1	45				
+//
+# ZDNTKE_96645 Length: 49
+# ZDNTKE_96645 Number of predicted TMRs: 0
+ZDNTKE_96645	inside	1	49				
+//
+# ZDNTKE_12418 Length: 40
+# ZDNTKE_12418 Number of predicted TMRs: 0
+ZDNTKE_12418	inside	1	40				
+//
+# ZDNTKE_1451 Length: 32
+# ZDNTKE_1451 Number of predicted TMRs: 0
+ZDNTKE_1451	inside	1	32				
+//
+# ZDNTKE_74821 Length: 45
+# ZDNTKE_74821 Number of predicted TMRs: 0
+ZDNTKE_74821	signal	1	10				
+ZDNTKE_74821	outside	11	45				
+//
+# ZDNTKE_147411 Length: 47
+# ZDNTKE_147411 Number of predicted TMRs: 0
+ZDNTKE_147411	inside	1	47				
+//
+# ZDNTKE_130981 Length: 50
+# ZDNTKE_130981 Number of predicted TMRs: 0
+ZDNTKE_130981	inside	1	50				
+//
+# ZDNTKE_17650 Length: 46
+# ZDNTKE_17650 Number of predicted TMRs: 0
+ZDNTKE_17650	inside	1	46				
+//
+# ZDNTKE_36438 Length: 43
+# ZDNTKE_36438 Number of predicted TMRs: 0
+ZDNTKE_36438	inside	1	43				
+//
+# ZDNTKE_112620 Length: 37
+# ZDNTKE_112620 Number of predicted TMRs: 0
+ZDNTKE_112620	inside	1	37				
+//
+# ZDNTKE_127603 Length: 49
+# ZDNTKE_127603 Number of predicted TMRs: 0
+ZDNTKE_127603	inside	1	49				
+//
+# ZDNTKE_3111 Length: 36
+# ZDNTKE_3111 Number of predicted TMRs: 0
+ZDNTKE_3111	signal	1	10				
+ZDNTKE_3111	outside	11	36				
+//
+# ZDNTKE_112446 Length: 50
+# ZDNTKE_112446 Number of predicted TMRs: 0
+ZDNTKE_112446	inside	1	50				
+//
+# ZDNTKE_2246 Length: 49
+# ZDNTKE_2246 Number of predicted TMRs: 0
+ZDNTKE_2246	inside	1	49				
+//
+# ZDNTKE_156139 Length: 48
+# ZDNTKE_156139 Number of predicted TMRs: 0
+ZDNTKE_156139	inside	1	48				
+//
+# ZDNTKE_137490 Length: 42
+# ZDNTKE_137490 Number of predicted TMRs: 0
+ZDNTKE_137490	inside	1	42				
+//
+# ZDNTKE_47438 Length: 48
+# ZDNTKE_47438 Number of predicted TMRs: 0
+ZDNTKE_47438	inside	1	48				
+//
+# ZDNTKE_18838 Length: 36
+# ZDNTKE_18838 Number of predicted TMRs: 0
+ZDNTKE_18838	inside	1	36				
+//
+# ZDNTKE_33005 Length: 42
+# ZDNTKE_33005 Number of predicted TMRs: 0
+ZDNTKE_33005	signal	1	31				
+ZDNTKE_33005	outside	32	42				
+//
+# ZDNTKE_45103 Length: 42
+# ZDNTKE_45103 Number of predicted TMRs: 0
+ZDNTKE_45103	signal	1	40				
+ZDNTKE_45103	outside	41	42				
+//
+# ZDNTKE_86714 Length: 44
+# ZDNTKE_86714 Number of predicted TMRs: 0
+ZDNTKE_86714	inside	1	44				
+//
+# ZDNTKE_23830 Length: 45
+# ZDNTKE_23830 Number of predicted TMRs: 0
+ZDNTKE_23830	inside	1	45				
+//
+# ZDNTKE_82725 Length: 39
+# ZDNTKE_82725 Number of predicted TMRs: 0
+ZDNTKE_82725	signal	1	38				
+ZDNTKE_82725	outside	39	39				
+//
+# ZDNTKE_117380 Length: 50
+# ZDNTKE_117380 Number of predicted TMRs: 0
+ZDNTKE_117380	inside	1	50				
+//
+# ZDNTKE_137142 Length: 47
+# ZDNTKE_137142 Number of predicted TMRs: 0
+ZDNTKE_137142	inside	1	47				
+//
+# ZDNTKE_142642 Length: 45
+# ZDNTKE_142642 Number of predicted TMRs: 0
+ZDNTKE_142642	inside	1	45				
+//
+# ZDNTKE_163098 Length: 45
+# ZDNTKE_163098 Number of predicted TMRs: 0
+ZDNTKE_163098	inside	1	45				
+//
+# ZDNTKE_143674 Length: 50
+# ZDNTKE_143674 Number of predicted TMRs: 0
+ZDNTKE_143674	signal	1	12				
+ZDNTKE_143674	outside	13	50				
+//
+# ZDNTKE_135804 Length: 48
+# ZDNTKE_135804 Number of predicted TMRs: 0
+ZDNTKE_135804	inside	1	48				
+//
+# ZDNTKE_120196 Length: 37
+# ZDNTKE_120196 Number of predicted TMRs: 0
+ZDNTKE_120196	signal	1	36				
+ZDNTKE_120196	outside	37	37				
+//
+# ZDNTKE_109858 Length: 45
+# ZDNTKE_109858 Number of predicted TMRs: 0
+ZDNTKE_109858	signal	1	21				
+ZDNTKE_109858	outside	22	45				
+//
+# ZDNTKE_32120 Length: 49
+# ZDNTKE_32120 Number of predicted TMRs: 0
+ZDNTKE_32120	outside	1	49				
+//
+# ZDNTKE_23443 Length: 38
+# ZDNTKE_23443 Number of predicted TMRs: 0
+ZDNTKE_23443	inside	1	38				
+//
+# ZDNTKE_91327 Length: 46
+# ZDNTKE_91327 Number of predicted TMRs: 0
+ZDNTKE_91327	signal	1	10				
+ZDNTKE_91327	outside	11	46				
+//
+# ZDNTKE_26508 Length: 45
+# ZDNTKE_26508 Number of predicted TMRs: 0
+ZDNTKE_26508	outside	1	45				
+//
+# ZDNTKE_31096 Length: 39
+# ZDNTKE_31096 Number of predicted TMRs: 0
+ZDNTKE_31096	signal	1	38				
+ZDNTKE_31096	outside	39	39				
+//
+# ZDNTKE_144725 Length: 39
+# ZDNTKE_144725 Number of predicted TMRs: 0
+ZDNTKE_144725	inside	1	39				
+//
+# ZDNTKE_128584 Length: 45
+# ZDNTKE_128584 Number of predicted TMRs: 0
+ZDNTKE_128584	inside	1	45				
+//
+# ZDNTKE_5158 Length: 38
+# ZDNTKE_5158 Number of predicted TMRs: 0
+ZDNTKE_5158	inside	1	38				
+//
+# ZDNTKE_49588 Length: 43
+# ZDNTKE_49588 Number of predicted TMRs: 0
+ZDNTKE_49588	inside	1	43				
+//
+# ZDNTKE_83297 Length: 46
+# ZDNTKE_83297 Number of predicted TMRs: 0
+ZDNTKE_83297	inside	1	46				
+//
+# ZDNTKE_93259 Length: 50
+# ZDNTKE_93259 Number of predicted TMRs: 0
+ZDNTKE_93259	signal	1	25				
+ZDNTKE_93259	outside	26	50				
+//
+# ZDNTKE_15978 Length: 47
+# ZDNTKE_15978 Number of predicted TMRs: 0
+ZDNTKE_15978	outside	1	47				
+//
+# ZDNTKE_79027 Length: 44
+# ZDNTKE_79027 Number of predicted TMRs: 0
+ZDNTKE_79027	signal	1	43				
+ZDNTKE_79027	outside	44	44				
+//
+# ZDNTKE_158713 Length: 46
+# ZDNTKE_158713 Number of predicted TMRs: 0
+ZDNTKE_158713	inside	1	46				
+//
+# ZDNTKE_126415 Length: 43
+# ZDNTKE_126415 Number of predicted TMRs: 0
+ZDNTKE_126415	inside	1	43				
+//
+# ZDNTKE_5181 Length: 48
+# ZDNTKE_5181 Number of predicted TMRs: 0
+ZDNTKE_5181	inside	1	48				
+//
+# ZDNTKE_66758 Length: 42
+# ZDNTKE_66758 Number of predicted TMRs: 0
+ZDNTKE_66758	signal	1	34				
+ZDNTKE_66758	outside	35	42				
+//
+# ZDNTKE_126570 Length: 50
+# ZDNTKE_126570 Number of predicted TMRs: 0
+ZDNTKE_126570	inside	1	50				
+//
+# ZDNTKE_132883 Length: 43
+# ZDNTKE_132883 Number of predicted TMRs: 0
+ZDNTKE_132883	signal	1	10				
+ZDNTKE_132883	outside	11	43				
+//
+# ZDNTKE_154906 Length: 45
+# ZDNTKE_154906 Number of predicted TMRs: 0
+ZDNTKE_154906	inside	1	45				
+//
+# ZDNTKE_43550 Length: 38
+# ZDNTKE_43550 Number of predicted TMRs: 0
+ZDNTKE_43550	inside	1	38				
+//
+# ZDNTKE_126826 Length: 50
+# ZDNTKE_126826 Number of predicted TMRs: 0
+ZDNTKE_126826	inside	1	50				
+//
+# ZDNTKE_48537 Length: 45
+# ZDNTKE_48537 Number of predicted TMRs: 0
+ZDNTKE_48537	inside	1	45				
+//
+# ZDNTKE_127864 Length: 44
+# ZDNTKE_127864 Number of predicted TMRs: 0
+ZDNTKE_127864	signal	1	43				
+ZDNTKE_127864	outside	44	44				
+//
+# ZDNTKE_135474 Length: 50
+# ZDNTKE_135474 Number of predicted TMRs: 0
+ZDNTKE_135474	inside	1	50				
+//
+# ZDNTKE_145569 Length: 48
+# ZDNTKE_145569 Number of predicted TMRs: 0
+ZDNTKE_145569	inside	1	48				
+//
+# ZDNTKE_98017 Length: 46
+# ZDNTKE_98017 Number of predicted TMRs: 1
+ZDNTKE_98017	outside	1	9				
+ZDNTKE_98017	TMhelix	10	25				
+ZDNTKE_98017	inside	26	46				
+//
+# ZDNTKE_32464 Length: 44
+# ZDNTKE_32464 Number of predicted TMRs: 0
+ZDNTKE_32464	inside	1	44				
+//
+# ZDNTKE_128323 Length: 45
+# ZDNTKE_128323 Number of predicted TMRs: 0
+ZDNTKE_128323	signal	1	10				
+ZDNTKE_128323	outside	11	45				
+//
+# ZDNTKE_155021 Length: 45
+# ZDNTKE_155021 Number of predicted TMRs: 0
+ZDNTKE_155021	signal	1	10				
+ZDNTKE_155021	outside	11	45				
+//
+# ZDNTKE_34765 Length: 32
+# ZDNTKE_34765 Number of predicted TMRs: 0
+ZDNTKE_34765	signal	1	30				
+ZDNTKE_34765	outside	31	32				
+//
+# ZDNTKE_52701 Length: 42
+# ZDNTKE_52701 Number of predicted TMRs: 0
+ZDNTKE_52701	signal	1	41				
+ZDNTKE_52701	outside	42	42				
+//
+# ZDNTKE_168966 Length: 46
+# ZDNTKE_168966 Number of predicted TMRs: 0
+ZDNTKE_168966	inside	1	46				
+//
+# ZDNTKE_126068 Length: 50
+# ZDNTKE_126068 Number of predicted TMRs: 0
+ZDNTKE_126068	inside	1	50				
+//
+# ZDNTKE_31729 Length: 43
+# ZDNTKE_31729 Number of predicted TMRs: 0
+ZDNTKE_31729	signal	1	32				
+ZDNTKE_31729	outside	33	43				
+//
+# ZDNTKE_130441 Length: 31
+# ZDNTKE_130441 Number of predicted TMRs: 0
+ZDNTKE_130441	signal	1	17				
+ZDNTKE_130441	outside	18	31				
+//
+# ZDNTKE_134128 Length: 41
+# ZDNTKE_134128 Number of predicted TMRs: 0
+ZDNTKE_134128	inside	1	41				
+//
+# ZDNTKE_134125 Length: 38
+# ZDNTKE_134125 Number of predicted TMRs: 0
+ZDNTKE_134125	inside	1	38				
+//
+# ZDNTKE_54168 Length: 50
+# ZDNTKE_54168 Number of predicted TMRs: 0
+ZDNTKE_54168	inside	1	50				
+//
+# ZDNTKE_107050 Length: 42
+# ZDNTKE_107050 Number of predicted TMRs: 0
+ZDNTKE_107050	signal	1	41				
+ZDNTKE_107050	outside	42	42				
+//
+# ZDNTKE_63062 Length: 45
+# ZDNTKE_63062 Number of predicted TMRs: 0
+ZDNTKE_63062	inside	1	45				
+//
+# ZDNTKE_126855 Length: 42
+# ZDNTKE_126855 Number of predicted TMRs: 0
+ZDNTKE_126855	inside	1	42				
+//
+# ZDNTKE_163363 Length: 42
+# ZDNTKE_163363 Number of predicted TMRs: 0
+ZDNTKE_163363	inside	1	42				
+//
+# ZDNTKE_138756 Length: 42
+# ZDNTKE_138756 Number of predicted TMRs: 0
+ZDNTKE_138756	inside	1	42				
+//
+# ZDNTKE_105424 Length: 36
+# ZDNTKE_105424 Number of predicted TMRs: 0
+ZDNTKE_105424	inside	1	36				
+//
+# ZDNTKE_76404 Length: 45
+# ZDNTKE_76404 Number of predicted TMRs: 0
+ZDNTKE_76404	signal	1	37				
+ZDNTKE_76404	outside	38	45				
+//
+# ZDNTKE_82117 Length: 50
+# ZDNTKE_82117 Number of predicted TMRs: 0
+ZDNTKE_82117	inside	1	50				
+//
+# ZDNTKE_90206 Length: 39
+# ZDNTKE_90206 Number of predicted TMRs: 0
+ZDNTKE_90206	inside	1	39				
+//
+# ZDNTKE_139914 Length: 38
+# ZDNTKE_139914 Number of predicted TMRs: 0
+ZDNTKE_139914	signal	1	33				
+ZDNTKE_139914	outside	34	38				
+//
+# ZDNTKE_105504 Length: 42
+# ZDNTKE_105504 Number of predicted TMRs: 0
+ZDNTKE_105504	signal	1	34				
+ZDNTKE_105504	outside	35	42				
+//
+# ZDNTKE_165954 Length: 37
+# ZDNTKE_165954 Number of predicted TMRs: 0
+ZDNTKE_165954	signal	1	36				
+ZDNTKE_165954	outside	37	37				
+//
+# ZDNTKE_137385 Length: 45
+# ZDNTKE_137385 Number of predicted TMRs: 0
+ZDNTKE_137385	signal	1	44				
+ZDNTKE_137385	outside	45	45				
+//
+# ZDNTKE_32088 Length: 47
+# ZDNTKE_32088 Number of predicted TMRs: 0
+ZDNTKE_32088	inside	1	47				
+//
+# ZDNTKE_139630 Length: 37
+# ZDNTKE_139630 Number of predicted TMRs: 0
+ZDNTKE_139630	signal	1	36				
+ZDNTKE_139630	outside	37	37				
+//
+# ZDNTKE_14992 Length: 43
+# ZDNTKE_14992 Number of predicted TMRs: 0
+ZDNTKE_14992	signal	1	35				
+ZDNTKE_14992	outside	36	43				
+//
+# ZDNTKE_74376 Length: 50
+# ZDNTKE_74376 Number of predicted TMRs: 0
+ZDNTKE_74376	inside	1	50				
+//
+# ZDNTKE_37175 Length: 49
+# ZDNTKE_37175 Number of predicted TMRs: 0
+ZDNTKE_37175	inside	1	49				
+//
+# ZDNTKE_83815 Length: 38
+# ZDNTKE_83815 Number of predicted TMRs: 0
+ZDNTKE_83815	signal	1	10				
+ZDNTKE_83815	outside	11	38				
+//
+# ZDNTKE_135882 Length: 44
+# ZDNTKE_135882 Number of predicted TMRs: 0
+ZDNTKE_135882	inside	1	44				
+//
+# ZDNTKE_146199 Length: 42
+# ZDNTKE_146199 Number of predicted TMRs: 0
+ZDNTKE_146199	inside	1	42				
+//
+# ZDNTKE_41272 Length: 41
+# ZDNTKE_41272 Number of predicted TMRs: 0
+ZDNTKE_41272	inside	1	41				
+//
+# ZDNTKE_28194 Length: 40
+# ZDNTKE_28194 Number of predicted TMRs: 0
+ZDNTKE_28194	signal	1	39				
+ZDNTKE_28194	outside	40	40				
+//
+# ZDNTKE_104879 Length: 40
+# ZDNTKE_104879 Number of predicted TMRs: 0
+ZDNTKE_104879	inside	1	40				
+//
+# ZDNTKE_135110 Length: 50
+# ZDNTKE_135110 Number of predicted TMRs: 0
+ZDNTKE_135110	inside	1	50				
+//
+# ZDNTKE_4609 Length: 38
+# ZDNTKE_4609 Number of predicted TMRs: 0
+ZDNTKE_4609	signal	1	37				
+ZDNTKE_4609	outside	38	38				
+//
+# ZDNTKE_126628 Length: 50
+# ZDNTKE_126628 Number of predicted TMRs: 0
+ZDNTKE_126628	signal	1	49				
+ZDNTKE_126628	outside	50	50				
+//
+# ZDNTKE_69905 Length: 45
+# ZDNTKE_69905 Number of predicted TMRs: 0
+ZDNTKE_69905	outside	1	45				
+//
+# ZDNTKE_148226 Length: 41
+# ZDNTKE_148226 Number of predicted TMRs: 0
+ZDNTKE_148226	inside	1	41				
+//
+# ZDNTKE_98601 Length: 32
+# ZDNTKE_98601 Number of predicted TMRs: 0
+ZDNTKE_98601	signal	1	23				
+ZDNTKE_98601	outside	24	32				
+//
+# ZDNTKE_138843 Length: 39
+# ZDNTKE_138843 Number of predicted TMRs: 0
+ZDNTKE_138843	signal	1	38				
+ZDNTKE_138843	outside	39	39				
+//
+# ZDNTKE_72768 Length: 41
+# ZDNTKE_72768 Number of predicted TMRs: 0
+ZDNTKE_72768	signal	1	39				
+ZDNTKE_72768	outside	40	41				
+//
+# ZDNTKE_52864 Length: 49
+# ZDNTKE_52864 Number of predicted TMRs: 0
+ZDNTKE_52864	signal	1	44				
+ZDNTKE_52864	outside	45	49				
+//
+# ZDNTKE_66315 Length: 44
+# ZDNTKE_66315 Number of predicted TMRs: 0
+ZDNTKE_66315	inside	1	44				
+//
+# ZDNTKE_69029 Length: 47
+# ZDNTKE_69029 Number of predicted TMRs: 0
+ZDNTKE_69029	inside	1	47				
+//
+# ZDNTKE_122525 Length: 38
+# ZDNTKE_122525 Number of predicted TMRs: 0
+ZDNTKE_122525	signal	1	31				
+ZDNTKE_122525	outside	32	38				
+//
+# ZDNTKE_50289 Length: 36
+# ZDNTKE_50289 Number of predicted TMRs: 0
+ZDNTKE_50289	inside	1	36				
+//
+# ZDNTKE_123999 Length: 48
+# ZDNTKE_123999 Number of predicted TMRs: 0
+ZDNTKE_123999	signal	1	46				
+ZDNTKE_123999	outside	47	48				
+//
+# ZDNTKE_98483 Length: 46
+# ZDNTKE_98483 Number of predicted TMRs: 0
+ZDNTKE_98483	inside	1	46				
+//
+# ZDNTKE_48177 Length: 39
+# ZDNTKE_48177 Number of predicted TMRs: 0
+ZDNTKE_48177	signal	1	37				
+ZDNTKE_48177	outside	38	39				
+//
+# ZDNTKE_73132 Length: 48
+# ZDNTKE_73132 Number of predicted TMRs: 0
+ZDNTKE_73132	outside	1	48				
+//
+# ZDNTKE_110447 Length: 50
+# ZDNTKE_110447 Number of predicted TMRs: 0
+ZDNTKE_110447	signal	1	34				
+ZDNTKE_110447	outside	35	50				
+//
+# ZDNTKE_165421 Length: 48
+# ZDNTKE_165421 Number of predicted TMRs: 0
+ZDNTKE_165421	signal	1	36				
+ZDNTKE_165421	outside	37	48				
+//
+# ZDNTKE_79864 Length: 50
+# ZDNTKE_79864 Number of predicted TMRs: 0
+ZDNTKE_79864	inside	1	50				
+//
+# ZDNTKE_143902 Length: 38
+# ZDNTKE_143902 Number of predicted TMRs: 0
+ZDNTKE_143902	signal	1	37				
+ZDNTKE_143902	outside	38	38				
+//
+# ZDNTKE_123653 Length: 40
+# ZDNTKE_123653 Number of predicted TMRs: 0
+ZDNTKE_123653	inside	1	40				
+//
+# ZDNTKE_50697 Length: 42
+# ZDNTKE_50697 Number of predicted TMRs: 0
+ZDNTKE_50697	signal	1	41				
+ZDNTKE_50697	outside	42	42				
+//
+# ZDNTKE_96845 Length: 32
+# ZDNTKE_96845 Number of predicted TMRs: 0
+ZDNTKE_96845	inside	1	32				
+//
+# ZDNTKE_95772 Length: 32
+# ZDNTKE_95772 Number of predicted TMRs: 0
+ZDNTKE_95772	inside	1	32				
+//
+# ZDNTKE_128367 Length: 48
+# ZDNTKE_128367 Number of predicted TMRs: 0
+ZDNTKE_128367	inside	1	48				
+//
+# ZDNTKE_74843 Length: 50
+# ZDNTKE_74843 Number of predicted TMRs: 0
+ZDNTKE_74843	inside	1	50				
+//
+# ZDNTKE_22903 Length: 47
+# ZDNTKE_22903 Number of predicted TMRs: 0
+ZDNTKE_22903	signal	1	46				
+ZDNTKE_22903	outside	47	47				
+//
+# ZDNTKE_126966 Length: 47
+# ZDNTKE_126966 Number of predicted TMRs: 0
+ZDNTKE_126966	inside	1	47				
+//
+# ZDNTKE_118244 Length: 45
+# ZDNTKE_118244 Number of predicted TMRs: 0
+ZDNTKE_118244	inside	1	45				
+//
+# ZDNTKE_97782 Length: 42
+# ZDNTKE_97782 Number of predicted TMRs: 0
+ZDNTKE_97782	inside	1	42				
+//
+# ZDNTKE_79331 Length: 43
+# ZDNTKE_79331 Number of predicted TMRs: 0
+ZDNTKE_79331	signal	1	22				
+ZDNTKE_79331	outside	23	43				
+//
+# ZDNTKE_58565 Length: 44
+# ZDNTKE_58565 Number of predicted TMRs: 0
+ZDNTKE_58565	signal	1	38				
+ZDNTKE_58565	outside	39	44				
+//
+# ZDNTKE_164361 Length: 42
+# ZDNTKE_164361 Number of predicted TMRs: 0
+ZDNTKE_164361	inside	1	42				
+//
+# ZDNTKE_107109 Length: 41
+# ZDNTKE_107109 Number of predicted TMRs: 0
+ZDNTKE_107109	signal	1	39				
+ZDNTKE_107109	outside	40	41				
+//
+# ZDNTKE_50783 Length: 50
+# ZDNTKE_50783 Number of predicted TMRs: 0
+ZDNTKE_50783	signal	1	40				
+ZDNTKE_50783	outside	41	50				
+//
+# ZDNTKE_51627 Length: 46
+# ZDNTKE_51627 Number of predicted TMRs: 0
+ZDNTKE_51627	inside	1	46				
+//
+# ZDNTKE_71652 Length: 42
+# ZDNTKE_71652 Number of predicted TMRs: 0
+ZDNTKE_71652	inside	1	42				
+//
+# ZDNTKE_128515 Length: 41
+# ZDNTKE_128515 Number of predicted TMRs: 0
+ZDNTKE_128515	signal	1	39				
+ZDNTKE_128515	outside	40	41				
+//
+# ZDNTKE_70612 Length: 49
+# ZDNTKE_70612 Number of predicted TMRs: 0
+ZDNTKE_70612	inside	1	49				
+//
+# ZDNTKE_35427 Length: 45
+# ZDNTKE_35427 Number of predicted TMRs: 0
+ZDNTKE_35427	signal	1	21				
+ZDNTKE_35427	outside	22	45				
+//
+# ZDNTKE_92632 Length: 46
+# ZDNTKE_92632 Number of predicted TMRs: 0
+ZDNTKE_92632	inside	1	46				
+//
+# ZDNTKE_39717 Length: 34
+# ZDNTKE_39717 Number of predicted TMRs: 0
+ZDNTKE_39717	signal	1	33				
+ZDNTKE_39717	outside	34	34				
+//
+# ZDNTKE_14697 Length: 39
+# ZDNTKE_14697 Number of predicted TMRs: 0
+ZDNTKE_14697	inside	1	39				
+//
+# ZDNTKE_132521 Length: 45
+# ZDNTKE_132521 Number of predicted TMRs: 0
+ZDNTKE_132521	inside	1	45				
+//
+# ZDNTKE_106047 Length: 41
+# ZDNTKE_106047 Number of predicted TMRs: 0
+ZDNTKE_106047	inside	1	41				
+//
+# ZDNTKE_70054 Length: 42
+# ZDNTKE_70054 Number of predicted TMRs: 0
+ZDNTKE_70054	signal	1	34				
+ZDNTKE_70054	outside	35	42				
+//
+# ZDNTKE_164375 Length: 43
+# ZDNTKE_164375 Number of predicted TMRs: 0
+ZDNTKE_164375	inside	1	43				
+//
+# ZDNTKE_16327 Length: 47
+# ZDNTKE_16327 Number of predicted TMRs: 0
+ZDNTKE_16327	signal	1	21				
+ZDNTKE_16327	outside	22	47				
+//
+# ZDNTKE_150559 Length: 48
+# ZDNTKE_150559 Number of predicted TMRs: 0
+ZDNTKE_150559	signal	1	24				
+ZDNTKE_150559	outside	25	48				
+//
+# ZDNTKE_89192 Length: 33
+# ZDNTKE_89192 Number of predicted TMRs: 0
+ZDNTKE_89192	inside	1	33				
+//
+# ZDNTKE_76458 Length: 37
+# ZDNTKE_76458 Number of predicted TMRs: 0
+ZDNTKE_76458	inside	1	37				
+//
+# ZDNTKE_75772 Length: 41
+# ZDNTKE_75772 Number of predicted TMRs: 0
+ZDNTKE_75772	inside	1	41				
+//
+# ZDNTKE_169480 Length: 36
+# ZDNTKE_169480 Number of predicted TMRs: 0
+ZDNTKE_169480	inside	1	36				
+//
+# ZDNTKE_3682 Length: 43
+# ZDNTKE_3682 Number of predicted TMRs: 0
+ZDNTKE_3682	inside	1	43				
+//
+# ZDNTKE_30823 Length: 45
+# ZDNTKE_30823 Number of predicted TMRs: 0
+ZDNTKE_30823	inside	1	45				
+//
+# ZDNTKE_9096 Length: 46
+# ZDNTKE_9096 Number of predicted TMRs: 0
+ZDNTKE_9096	inside	1	46				
+//
+# ZDNTKE_147783 Length: 46
+# ZDNTKE_147783 Number of predicted TMRs: 0
+ZDNTKE_147783	signal	1	45				
+ZDNTKE_147783	outside	46	46				
+//
+# ZDNTKE_34901 Length: 48
+# ZDNTKE_34901 Number of predicted TMRs: 0
+ZDNTKE_34901	inside	1	48				
+//
+# ZDNTKE_134032 Length: 46
+# ZDNTKE_134032 Number of predicted TMRs: 0
+ZDNTKE_134032	inside	1	46				
+//
+# ZDNTKE_34728 Length: 49
+# ZDNTKE_34728 Number of predicted TMRs: 0
+ZDNTKE_34728	inside	1	49				
+//
+# ZDNTKE_147852 Length: 43
+# ZDNTKE_147852 Number of predicted TMRs: 0
+ZDNTKE_147852	outside	1	43				
+//
+# ZDNTKE_132283 Length: 42
+# ZDNTKE_132283 Number of predicted TMRs: 0
+ZDNTKE_132283	signal	1	26				
+ZDNTKE_132283	outside	27	42				
+//
+# ZDNTKE_14639 Length: 49
+# ZDNTKE_14639 Number of predicted TMRs: 0
+ZDNTKE_14639	inside	1	49				
+//
+# ZDNTKE_16410 Length: 49
+# ZDNTKE_16410 Number of predicted TMRs: 0
+ZDNTKE_16410	inside	1	49				
+//
+# ZDNTKE_149721 Length: 50
+# ZDNTKE_149721 Number of predicted TMRs: 0
+ZDNTKE_149721	inside	1	50				
+//
+# ZDNTKE_164612 Length: 40
+# ZDNTKE_164612 Number of predicted TMRs: 0
+ZDNTKE_164612	signal	1	31				
+ZDNTKE_164612	outside	32	40				
+//
+# ZDNTKE_149283 Length: 40
+# ZDNTKE_149283 Number of predicted TMRs: 0
+ZDNTKE_149283	signal	1	38				
+ZDNTKE_149283	outside	39	40				
+//
+# ZDNTKE_106632 Length: 50
+# ZDNTKE_106632 Number of predicted TMRs: 0
+ZDNTKE_106632	inside	1	50				
+//
+# ZDNTKE_142411 Length: 45
+# ZDNTKE_142411 Number of predicted TMRs: 0
+ZDNTKE_142411	inside	1	45				
+//
+# ZDNTKE_64953 Length: 46
+# ZDNTKE_64953 Number of predicted TMRs: 0
+ZDNTKE_64953	inside	1	46				
+//
+# ZDNTKE_171979 Length: 45
+# ZDNTKE_171979 Number of predicted TMRs: 0
+ZDNTKE_171979	inside	1	45				
+//
+# ZDNTKE_112232 Length: 46
+# ZDNTKE_112232 Number of predicted TMRs: 0
+ZDNTKE_112232	signal	1	17				
+ZDNTKE_112232	outside	18	46				
+//
+# ZDNTKE_144987 Length: 50
+# ZDNTKE_144987 Number of predicted TMRs: 0
+ZDNTKE_144987	inside	1	50				
+//
+# ZDNTKE_149785 Length: 48
+# ZDNTKE_149785 Number of predicted TMRs: 0
+ZDNTKE_149785	signal	1	26				
+ZDNTKE_149785	outside	27	48				
+//
+# ZDNTKE_9266 Length: 45
+# ZDNTKE_9266 Number of predicted TMRs: 0
+ZDNTKE_9266	signal	1	34				
+ZDNTKE_9266	outside	35	45				
+//
+# ZDNTKE_14307 Length: 27
+# ZDNTKE_14307 Number of predicted TMRs: 0
+ZDNTKE_14307	inside	1	27				
+//
+# ZDNTKE_133170 Length: 42
+# ZDNTKE_133170 Number of predicted TMRs: 0
+ZDNTKE_133170	inside	1	42				
+//
+# ZDNTKE_19092 Length: 46
+# ZDNTKE_19092 Number of predicted TMRs: 0
+ZDNTKE_19092	signal	1	35				
+ZDNTKE_19092	outside	36	46				
+//
+# ZDNTKE_134158 Length: 43
+# ZDNTKE_134158 Number of predicted TMRs: 0
+ZDNTKE_134158	inside	1	43				
+//
+# ZDNTKE_51970 Length: 49
+# ZDNTKE_51970 Number of predicted TMRs: 0
+ZDNTKE_51970	inside	1	49				
+//
+# ZDNTKE_10639 Length: 50
+# ZDNTKE_10639 Number of predicted TMRs: 0
+ZDNTKE_10639	inside	1	50				
+//
+# ZDNTKE_171745 Length: 49
+# ZDNTKE_171745 Number of predicted TMRs: 0
+ZDNTKE_171745	inside	1	49				
+//
+# ZDNTKE_30083 Length: 47
+# ZDNTKE_30083 Number of predicted TMRs: 0
+ZDNTKE_30083	inside	1	47				
+//
+# ZDNTKE_19268 Length: 38
+# ZDNTKE_19268 Number of predicted TMRs: 0
+ZDNTKE_19268	signal	1	35				
+ZDNTKE_19268	outside	36	38				
+//
+# ZDNTKE_46365 Length: 47
+# ZDNTKE_46365 Number of predicted TMRs: 0
+ZDNTKE_46365	inside	1	47				
+//
+# ZDNTKE_125674 Length: 49
+# ZDNTKE_125674 Number of predicted TMRs: 0
+ZDNTKE_125674	inside	1	49				
+//
+# ZDNTKE_83914 Length: 45
+# ZDNTKE_83914 Number of predicted TMRs: 0
+ZDNTKE_83914	inside	1	45				
+//
+# ZDNTKE_140339 Length: 46
+# ZDNTKE_140339 Number of predicted TMRs: 0
+ZDNTKE_140339	inside	1	46				
+//
+# ZDNTKE_136304 Length: 43
+# ZDNTKE_136304 Number of predicted TMRs: 0
+ZDNTKE_136304	inside	1	43				
+//
+# ZDNTKE_2349 Length: 50
+# ZDNTKE_2349 Number of predicted TMRs: 0
+ZDNTKE_2349	inside	1	50				
+//
+# ZDNTKE_40336 Length: 33
+# ZDNTKE_40336 Number of predicted TMRs: 0
+ZDNTKE_40336	inside	1	33				
+//
+# ZDNTKE_70460 Length: 40
+# ZDNTKE_70460 Number of predicted TMRs: 0
+ZDNTKE_70460	inside	1	40				
+//
+# ZDNTKE_67453 Length: 46
+# ZDNTKE_67453 Number of predicted TMRs: 0
+ZDNTKE_67453	inside	1	46				
+//
+# ZDNTKE_27522 Length: 48
+# ZDNTKE_27522 Number of predicted TMRs: 0
+ZDNTKE_27522	inside	1	48				
+//
+# ZDNTKE_168563 Length: 43
+# ZDNTKE_168563 Number of predicted TMRs: 0
+ZDNTKE_168563	inside	1	43				
+//
+# ZDNTKE_5745 Length: 45
+# ZDNTKE_5745 Number of predicted TMRs: 0
+ZDNTKE_5745	inside	1	45				
+//
+# ZDNTKE_118785 Length: 49
+# ZDNTKE_118785 Number of predicted TMRs: 0
+ZDNTKE_118785	signal	1	47				
+ZDNTKE_118785	outside	48	49				
+//
+# ZDNTKE_42561 Length: 42
+# ZDNTKE_42561 Number of predicted TMRs: 0
+ZDNTKE_42561	signal	1	18				
+ZDNTKE_42561	outside	19	42				
+//
+# ZDNTKE_72322 Length: 39
+# ZDNTKE_72322 Number of predicted TMRs: 0
+ZDNTKE_72322	inside	1	39				
+//
+# ZDNTKE_144366 Length: 39
+# ZDNTKE_144366 Number of predicted TMRs: 0
+ZDNTKE_144366	inside	1	39				
+//
+# ZDNTKE_171755 Length: 50
+# ZDNTKE_171755 Number of predicted TMRs: 0
+ZDNTKE_171755	inside	1	50				
+//
+# ZDNTKE_79894 Length: 31
+# ZDNTKE_79894 Number of predicted TMRs: 0
+ZDNTKE_79894	inside	1	31				
+//
+# ZDNTKE_144875 Length: 50
+# ZDNTKE_144875 Number of predicted TMRs: 0
+ZDNTKE_144875	inside	1	50				
+//
+# ZDNTKE_113622 Length: 42
+# ZDNTKE_113622 Number of predicted TMRs: 0
+ZDNTKE_113622	inside	1	42				
+//
+# ZDNTKE_91630 Length: 50
+# ZDNTKE_91630 Number of predicted TMRs: 0
+ZDNTKE_91630	inside	1	50				
+//
+# ZDNTKE_87803 Length: 41
+# ZDNTKE_87803 Number of predicted TMRs: 0
+ZDNTKE_87803	inside	1	41				
+//
+# ZDNTKE_159678 Length: 40
+# ZDNTKE_159678 Number of predicted TMRs: 0
+ZDNTKE_159678	inside	1	40				
+//
+# ZDNTKE_116261 Length: 47
+# ZDNTKE_116261 Number of predicted TMRs: 0
+ZDNTKE_116261	inside	1	47				
+//
+# ZDNTKE_144140 Length: 35
+# ZDNTKE_144140 Number of predicted TMRs: 0
+ZDNTKE_144140	signal	1	31				
+ZDNTKE_144140	outside	32	35				
+//
+# ZDNTKE_111269 Length: 41
+# ZDNTKE_111269 Number of predicted TMRs: 0
+ZDNTKE_111269	inside	1	41				
+//
+# ZDNTKE_77259 Length: 42
+# ZDNTKE_77259 Number of predicted TMRs: 0
+ZDNTKE_77259	signal	1	24				
+ZDNTKE_77259	outside	25	42				
+//
+# ZDNTKE_117108 Length: 35
+# ZDNTKE_117108 Number of predicted TMRs: 0
+ZDNTKE_117108	signal	1	34				
+ZDNTKE_117108	outside	35	35				
+//
+# ZDNTKE_34345 Length: 35
+# ZDNTKE_34345 Number of predicted TMRs: 0
+ZDNTKE_34345	inside	1	35				
+//
+# ZDNTKE_143766 Length: 49
+# ZDNTKE_143766 Number of predicted TMRs: 0
+ZDNTKE_143766	inside	1	49				
+//
+# ZDNTKE_164186 Length: 44
+# ZDNTKE_164186 Number of predicted TMRs: 0
+ZDNTKE_164186	inside	1	44				
+//
+# ZDNTKE_46184 Length: 42
+# ZDNTKE_46184 Number of predicted TMRs: 0
+ZDNTKE_46184	signal	1	10				
+ZDNTKE_46184	outside	11	42				
+//
+# ZDNTKE_81031 Length: 50
+# ZDNTKE_81031 Number of predicted TMRs: 0
+ZDNTKE_81031	signal	1	49				
+ZDNTKE_81031	outside	50	50				
+//
+# ZDNTKE_35141 Length: 49
+# ZDNTKE_35141 Number of predicted TMRs: 0
+ZDNTKE_35141	inside	1	49				
+//
+# ZDNTKE_31167 Length: 41
+# ZDNTKE_31167 Number of predicted TMRs: 0
+ZDNTKE_31167	signal	1	38				
+ZDNTKE_31167	outside	39	41				
+//
+# ZDNTKE_110979 Length: 43
+# ZDNTKE_110979 Number of predicted TMRs: 0
+ZDNTKE_110979	inside	1	43				
+//
+# ZDNTKE_128393 Length: 50
+# ZDNTKE_128393 Number of predicted TMRs: 0
+ZDNTKE_128393	inside	1	50				
+//
+# ZDNTKE_137513 Length: 38
+# ZDNTKE_137513 Number of predicted TMRs: 0
+ZDNTKE_137513	inside	1	38				
+//
+# ZDNTKE_151271 Length: 40
+# ZDNTKE_151271 Number of predicted TMRs: 0
+ZDNTKE_151271	inside	1	40				
+//
+# ZDNTKE_11438 Length: 43
+# ZDNTKE_11438 Number of predicted TMRs: 0
+ZDNTKE_11438	inside	1	43				
+//
+# ZDNTKE_19988 Length: 49
+# ZDNTKE_19988 Number of predicted TMRs: 0
+ZDNTKE_19988	inside	1	49				
+//
+# ZDNTKE_41756 Length: 49
+# ZDNTKE_41756 Number of predicted TMRs: 0
+ZDNTKE_41756	inside	1	49				
+//
+# ZDNTKE_16903 Length: 39
+# ZDNTKE_16903 Number of predicted TMRs: 0
+ZDNTKE_16903	inside	1	39				
+//
+# ZDNTKE_66585 Length: 41
+# ZDNTKE_66585 Number of predicted TMRs: 0
+ZDNTKE_66585	signal	1	20				
+ZDNTKE_66585	outside	21	41				
+//
+# ZDNTKE_127751 Length: 41
+# ZDNTKE_127751 Number of predicted TMRs: 0
+ZDNTKE_127751	signal	1	39				
+ZDNTKE_127751	outside	40	41				
+//
+# ZDNTKE_121320 Length: 49
+# ZDNTKE_121320 Number of predicted TMRs: 1
+ZDNTKE_121320	signal	1	11				
+ZDNTKE_121320	outside	12	12				
+ZDNTKE_121320	TMhelix	13	23				
+ZDNTKE_121320	inside	24	49				
+//
+# ZDNTKE_135418 Length: 47
+# ZDNTKE_135418 Number of predicted TMRs: 0
+ZDNTKE_135418	signal	1	46				
+ZDNTKE_135418	outside	47	47				
+//
+# ZDNTKE_44521 Length: 47
+# ZDNTKE_44521 Number of predicted TMRs: 0
+ZDNTKE_44521	signal	1	14				
+ZDNTKE_44521	outside	15	47				
+//
+# ZDNTKE_128851 Length: 39
+# ZDNTKE_128851 Number of predicted TMRs: 0
+ZDNTKE_128851	inside	1	39				
+//
+# ZDNTKE_167524 Length: 47
+# ZDNTKE_167524 Number of predicted TMRs: 0
+ZDNTKE_167524	inside	1	47				
+//
+# ZDNTKE_88038 Length: 47
+# ZDNTKE_88038 Number of predicted TMRs: 0
+ZDNTKE_88038	inside	1	47				
+//
+# ZDNTKE_148196 Length: 47
+# ZDNTKE_148196 Number of predicted TMRs: 0
+ZDNTKE_148196	signal	1	35				
+ZDNTKE_148196	outside	36	47				
+//
+# ZDNTKE_82531 Length: 48
+# ZDNTKE_82531 Number of predicted TMRs: 0
+ZDNTKE_82531	signal	1	43				
+ZDNTKE_82531	outside	44	48				
+//
+# ZDNTKE_146629 Length: 35
+# ZDNTKE_146629 Number of predicted TMRs: 0
+ZDNTKE_146629	signal	1	12				
+ZDNTKE_146629	outside	13	35				
+//
+# ZDNTKE_50236 Length: 39
+# ZDNTKE_50236 Number of predicted TMRs: 0
+ZDNTKE_50236	inside	1	39				
+//
+# ZDNTKE_9596 Length: 47
+# ZDNTKE_9596 Number of predicted TMRs: 0
+ZDNTKE_9596	inside	1	47				
+//
+# ZDNTKE_93739 Length: 49
+# ZDNTKE_93739 Number of predicted TMRs: 0
+ZDNTKE_93739	inside	1	49				
+//
+# ZDNTKE_66960 Length: 29
+# ZDNTKE_66960 Number of predicted TMRs: 0
+ZDNTKE_66960	inside	1	29				
+//
+# ZDNTKE_156656 Length: 29
+# ZDNTKE_156656 Number of predicted TMRs: 0
+ZDNTKE_156656	inside	1	29				
+//
+# ZDNTKE_75186 Length: 42
+# ZDNTKE_75186 Number of predicted TMRs: 0
+ZDNTKE_75186	signal	1	23				
+ZDNTKE_75186	outside	24	42				
+//
+# ZDNTKE_164767 Length: 42
+# ZDNTKE_164767 Number of predicted TMRs: 0
+ZDNTKE_164767	inside	1	42				
+//
+# ZDNTKE_5755 Length: 46
+# ZDNTKE_5755 Number of predicted TMRs: 0
+ZDNTKE_5755	inside	1	46				
+//
+# ZDNTKE_91193 Length: 36
+# ZDNTKE_91193 Number of predicted TMRs: 0
+ZDNTKE_91193	signal	1	34				
+ZDNTKE_91193	outside	35	36				
+//
+# ZDNTKE_22879 Length: 38
+# ZDNTKE_22879 Number of predicted TMRs: 0
+ZDNTKE_22879	signal	1	15				
+ZDNTKE_22879	outside	16	38				
+//
+# ZDNTKE_171627 Length: 39
+# ZDNTKE_171627 Number of predicted TMRs: 0
+ZDNTKE_171627	signal	1	24				
+ZDNTKE_171627	outside	25	39				
+//
+# ZDNTKE_106326 Length: 36
+# ZDNTKE_106326 Number of predicted TMRs: 0
+ZDNTKE_106326	signal	1	29				
+ZDNTKE_106326	outside	30	36				
+//
+# ZDNTKE_152870 Length: 43
+# ZDNTKE_152870 Number of predicted TMRs: 0
+ZDNTKE_152870	signal	1	42				
+ZDNTKE_152870	outside	43	43				
+//
+# ZDNTKE_112580 Length: 40
+# ZDNTKE_112580 Number of predicted TMRs: 0
+ZDNTKE_112580	signal	1	38				
+ZDNTKE_112580	outside	39	40				
+//
+# ZDNTKE_171589 Length: 42
+# ZDNTKE_171589 Number of predicted TMRs: 0
+ZDNTKE_171589	signal	1	12				
+ZDNTKE_171589	outside	13	42				
+//
+# ZDNTKE_26813 Length: 49
+# ZDNTKE_26813 Number of predicted TMRs: 0
+ZDNTKE_26813	signal	1	12				
+ZDNTKE_26813	outside	13	49				
+//
+# ZDNTKE_9567 Length: 41
+# ZDNTKE_9567 Number of predicted TMRs: 0
+ZDNTKE_9567	signal	1	40				
+ZDNTKE_9567	outside	41	41				
+//
+# ZDNTKE_9577 Length: 50
+# ZDNTKE_9577 Number of predicted TMRs: 0
+ZDNTKE_9577	inside	1	50				
+//
+# ZDNTKE_138234 Length: 50
+# ZDNTKE_138234 Number of predicted TMRs: 0
+ZDNTKE_138234	inside	1	50				
+//
+# ZDNTKE_167057 Length: 50
+# ZDNTKE_167057 Number of predicted TMRs: 0
+ZDNTKE_167057	signal	1	49				
+ZDNTKE_167057	outside	50	50				
+//
+# ZDNTKE_86976 Length: 50
+# ZDNTKE_86976 Number of predicted TMRs: 0
+ZDNTKE_86976	inside	1	50				
+//
+# ZDNTKE_147577 Length: 49
+# ZDNTKE_147577 Number of predicted TMRs: 0
+ZDNTKE_147577	signal	1	48				
+ZDNTKE_147577	outside	49	49				
+//
+# ZDNTKE_126691 Length: 43
+# ZDNTKE_126691 Number of predicted TMRs: 0
+ZDNTKE_126691	inside	1	43				
+//
+# ZDNTKE_15255 Length: 47
+# ZDNTKE_15255 Number of predicted TMRs: 0
+ZDNTKE_15255	inside	1	47				
+//
+# ZDNTKE_33456 Length: 49
+# ZDNTKE_33456 Number of predicted TMRs: 0
+ZDNTKE_33456	inside	1	49				
+//
+# ZDNTKE_18307 Length: 50
+# ZDNTKE_18307 Number of predicted TMRs: 0
+ZDNTKE_18307	inside	1	50				
+//
+# ZDNTKE_145533 Length: 50
+# ZDNTKE_145533 Number of predicted TMRs: 0
+ZDNTKE_145533	inside	1	50				
+//
+# ZDNTKE_119850 Length: 32
+# ZDNTKE_119850 Number of predicted TMRs: 0
+ZDNTKE_119850	signal	1	26				
+ZDNTKE_119850	outside	27	32				
+//
+# ZDNTKE_166260 Length: 48
+# ZDNTKE_166260 Number of predicted TMRs: 0
+ZDNTKE_166260	outside	1	48				
+//
+# ZDNTKE_165282 Length: 48
+# ZDNTKE_165282 Number of predicted TMRs: 0
+ZDNTKE_165282	inside	1	48				
+//
+# ZDNTKE_169787 Length: 50
+# ZDNTKE_169787 Number of predicted TMRs: 0
+ZDNTKE_169787	inside	1	50				
+//
+# ZDNTKE_25505 Length: 46
+# ZDNTKE_25505 Number of predicted TMRs: 0
+ZDNTKE_25505	inside	1	46				
+//
+# ZDNTKE_155843 Length: 50
+# ZDNTKE_155843 Number of predicted TMRs: 0
+ZDNTKE_155843	signal	1	42				
+ZDNTKE_155843	outside	43	50				
+//
+# ZDNTKE_96964 Length: 50
+# ZDNTKE_96964 Number of predicted TMRs: 0
+ZDNTKE_96964	signal	1	42				
+ZDNTKE_96964	outside	43	50				
+//
+# ZDNTKE_135593 Length: 41
+# ZDNTKE_135593 Number of predicted TMRs: 0
+ZDNTKE_135593	inside	1	41				
+//
+# ZDNTKE_150172 Length: 41
+# ZDNTKE_150172 Number of predicted TMRs: 0
+ZDNTKE_150172	inside	1	41				
+//
+# ZDNTKE_5921 Length: 40
+# ZDNTKE_5921 Number of predicted TMRs: 0
+ZDNTKE_5921	inside	1	40				
+//
+# ZDNTKE_149109 Length: 46
+# ZDNTKE_149109 Number of predicted TMRs: 0
+ZDNTKE_149109	inside	1	46				
+//
+# ZDNTKE_26094 Length: 41
+# ZDNTKE_26094 Number of predicted TMRs: 0
+ZDNTKE_26094	signal	1	26				
+ZDNTKE_26094	outside	27	41				
+//
+# ZDNTKE_62117 Length: 46
+# ZDNTKE_62117 Number of predicted TMRs: 0
+ZDNTKE_62117	inside	1	46				
+//
+# ZDNTKE_57263 Length: 43
+# ZDNTKE_57263 Number of predicted TMRs: 0
+ZDNTKE_57263	signal	1	14				
+ZDNTKE_57263	outside	15	43				
+//
+# ZDNTKE_75281 Length: 43
+# ZDNTKE_75281 Number of predicted TMRs: 0
+ZDNTKE_75281	signal	1	38				
+ZDNTKE_75281	outside	39	43				
+//
+# ZDNTKE_107384 Length: 41
+# ZDNTKE_107384 Number of predicted TMRs: 0
+ZDNTKE_107384	signal	1	25				
+ZDNTKE_107384	outside	26	41				
+//
+# ZDNTKE_78299 Length: 44
+# ZDNTKE_78299 Number of predicted TMRs: 0
+ZDNTKE_78299	inside	1	44				
+//
+# ZDNTKE_68858 Length: 45
+# ZDNTKE_68858 Number of predicted TMRs: 0
+ZDNTKE_68858	signal	1	10				
+ZDNTKE_68858	outside	11	45				
+//
+# ZDNTKE_28528 Length: 49
+# ZDNTKE_28528 Number of predicted TMRs: 0
+ZDNTKE_28528	inside	1	49				
+//
+# ZDNTKE_35620 Length: 47
+# ZDNTKE_35620 Number of predicted TMRs: 0
+ZDNTKE_35620	signal	1	45				
+ZDNTKE_35620	periplasm	46	47				
+//
+# ZDNTKE_49338 Length: 41
+# ZDNTKE_49338 Number of predicted TMRs: 0
+ZDNTKE_49338	inside	1	41				
+//
+# ZDNTKE_124422 Length: 49
+# ZDNTKE_124422 Number of predicted TMRs: 0
+ZDNTKE_124422	inside	1	49				
+//
+# ZDNTKE_139019 Length: 40
+# ZDNTKE_139019 Number of predicted TMRs: 0
+ZDNTKE_139019	signal	1	39				
+ZDNTKE_139019	outside	40	40				
+//
+# ZDNTKE_30997 Length: 49
+# ZDNTKE_30997 Number of predicted TMRs: 0
+ZDNTKE_30997	signal	1	18				
+ZDNTKE_30997	outside	19	49				
+//
+# ZDNTKE_30992 Length: 46
+# ZDNTKE_30992 Number of predicted TMRs: 0
+ZDNTKE_30992	signal	1	45				
+ZDNTKE_30992	outside	46	46				
+//
+# ZDNTKE_121746 Length: 49
+# ZDNTKE_121746 Number of predicted TMRs: 0
+ZDNTKE_121746	inside	1	49				
+//
+# ZDNTKE_11256 Length: 47
+# ZDNTKE_11256 Number of predicted TMRs: 0
+ZDNTKE_11256	inside	1	47				
+//
+# ZDNTKE_20092 Length: 44
+# ZDNTKE_20092 Number of predicted TMRs: 0
+ZDNTKE_20092	signal	1	39				
+ZDNTKE_20092	outside	40	44				
+//
+# ZDNTKE_164225 Length: 44
+# ZDNTKE_164225 Number of predicted TMRs: 0
+ZDNTKE_164225	inside	1	44				
+//
+# ZDNTKE_42104 Length: 33
+# ZDNTKE_42104 Number of predicted TMRs: 0
+ZDNTKE_42104	inside	1	33				
+//
+# ZDNTKE_2759 Length: 50
+# ZDNTKE_2759 Number of predicted TMRs: 0
+ZDNTKE_2759	inside	1	50				
+//
+# ZDNTKE_85440 Length: 40
+# ZDNTKE_85440 Number of predicted TMRs: 0
+ZDNTKE_85440	signal	1	17				
+ZDNTKE_85440	outside	18	40				
+//
+# ZDNTKE_34902 Length: 45
+# ZDNTKE_34902 Number of predicted TMRs: 0
+ZDNTKE_34902	inside	1	45				
+//
+# ZDNTKE_139645 Length: 48
+# ZDNTKE_139645 Number of predicted TMRs: 0
+ZDNTKE_139645	inside	1	48				
+//
+# ZDNTKE_118866 Length: 47
+# ZDNTKE_118866 Number of predicted TMRs: 0
+ZDNTKE_118866	inside	1	47				
+//
+# ZDNTKE_95221 Length: 49
+# ZDNTKE_95221 Number of predicted TMRs: 0
+ZDNTKE_95221	inside	1	49				
+//
+# ZDNTKE_163227 Length: 45
+# ZDNTKE_163227 Number of predicted TMRs: 0
+ZDNTKE_163227	inside	1	45				
+//
+# ZDNTKE_117509 Length: 30
+# ZDNTKE_117509 Number of predicted TMRs: 0
+ZDNTKE_117509	signal	1	22				
+ZDNTKE_117509	outside	23	30				
+//
+# ZDNTKE_91264 Length: 50
+# ZDNTKE_91264 Number of predicted TMRs: 0
+ZDNTKE_91264	inside	1	50				
+//
+# ZDNTKE_152883 Length: 47
+# ZDNTKE_152883 Number of predicted TMRs: 0
+ZDNTKE_152883	inside	1	47				
+//
+# ZDNTKE_93937 Length: 46
+# ZDNTKE_93937 Number of predicted TMRs: 0
+ZDNTKE_93937	inside	1	46				
+//
+# ZDNTKE_120902 Length: 48
+# ZDNTKE_120902 Number of predicted TMRs: 0
+ZDNTKE_120902	inside	1	48				
+//
+# ZDNTKE_5696 Length: 44
+# ZDNTKE_5696 Number of predicted TMRs: 0
+ZDNTKE_5696	inside	1	44				
+//
+# ZDNTKE_100757 Length: 46
+# ZDNTKE_100757 Number of predicted TMRs: 0
+ZDNTKE_100757	inside	1	46				
+//
+# ZDNTKE_93896 Length: 44
+# ZDNTKE_93896 Number of predicted TMRs: 0
+ZDNTKE_93896	signal	1	42				
+ZDNTKE_93896	outside	43	44				
+//
+# ZDNTKE_129734 Length: 49
+# ZDNTKE_129734 Number of predicted TMRs: 0
+ZDNTKE_129734	outside	1	49				
+//
+# ZDNTKE_69759 Length: 38
+# ZDNTKE_69759 Number of predicted TMRs: 0
+ZDNTKE_69759	signal	1	22				
+ZDNTKE_69759	outside	23	38				
+//
+# ZDNTKE_2659 Length: 42
+# ZDNTKE_2659 Number of predicted TMRs: 0
+ZDNTKE_2659	signal	1	22				
+ZDNTKE_2659	outside	23	42				
+//
+# ZDNTKE_49564 Length: 34
+# ZDNTKE_49564 Number of predicted TMRs: 0
+ZDNTKE_49564	inside	1	34				
+//
+# ZDNTKE_48555 Length: 50
+# ZDNTKE_48555 Number of predicted TMRs: 0
+ZDNTKE_48555	inside	1	50				
+//
+# ZDNTKE_149174 Length: 49
+# ZDNTKE_149174 Number of predicted TMRs: 0
+ZDNTKE_149174	inside	1	49				
+//
+# ZDNTKE_162711 Length: 48
+# ZDNTKE_162711 Number of predicted TMRs: 0
+ZDNTKE_162711	inside	1	48				
+//
+# ZDNTKE_69392 Length: 45
+# ZDNTKE_69392 Number of predicted TMRs: 0
+ZDNTKE_69392	signal	1	22				
+ZDNTKE_69392	outside	23	45				
+//
+# ZDNTKE_133236 Length: 47
+# ZDNTKE_133236 Number of predicted TMRs: 0
+ZDNTKE_133236	inside	1	47				
+//
+# ZDNTKE_132704 Length: 47
+# ZDNTKE_132704 Number of predicted TMRs: 0
+ZDNTKE_132704	signal	1	14				
+ZDNTKE_132704	outside	15	47				
+//
+# ZDNTKE_2584 Length: 50
+# ZDNTKE_2584 Number of predicted TMRs: 0
+ZDNTKE_2584	inside	1	50				
+//
+# ZDNTKE_129065 Length: 37
+# ZDNTKE_129065 Number of predicted TMRs: 0
+ZDNTKE_129065	signal	1	32				
+ZDNTKE_129065	outside	33	37				
+//
+# ZDNTKE_139901 Length: 50
+# ZDNTKE_139901 Number of predicted TMRs: 0
+ZDNTKE_139901	inside	1	50				
+//
+# ZDNTKE_86999 Length: 36
+# ZDNTKE_86999 Number of predicted TMRs: 0
+ZDNTKE_86999	signal	1	14				
+ZDNTKE_86999	outside	15	36				
+//
+# ZDNTKE_94512 Length: 49
+# ZDNTKE_94512 Number of predicted TMRs: 0
+ZDNTKE_94512	inside	1	49				
+//
+# ZDNTKE_148405 Length: 43
+# ZDNTKE_148405 Number of predicted TMRs: 0
+ZDNTKE_148405	signal	1	15				
+ZDNTKE_148405	outside	16	43				
+//
+# ZDNTKE_136856 Length: 45
+# ZDNTKE_136856 Number of predicted TMRs: 0
+ZDNTKE_136856	signal	1	15				
+ZDNTKE_136856	outside	16	45				
+//
+# ZDNTKE_21168 Length: 46
+# ZDNTKE_21168 Number of predicted TMRs: 0
+ZDNTKE_21168	inside	1	46				
+//
+# ZDNTKE_25858 Length: 44
+# ZDNTKE_25858 Number of predicted TMRs: 0
+ZDNTKE_25858	inside	1	44				
+//
+# ZDNTKE_99164 Length: 50
+# ZDNTKE_99164 Number of predicted TMRs: 0
+ZDNTKE_99164	signal	1	24				
+ZDNTKE_99164	outside	25	50				
+//
+# ZDNTKE_61033 Length: 41
+# ZDNTKE_61033 Number of predicted TMRs: 0
+ZDNTKE_61033	signal	1	39				
+ZDNTKE_61033	outside	40	41				
+//
+# ZDNTKE_72786 Length: 34
+# ZDNTKE_72786 Number of predicted TMRs: 0
+ZDNTKE_72786	inside	1	34				
+//
+# ZDNTKE_106571 Length: 46
+# ZDNTKE_106571 Number of predicted TMRs: 0
+ZDNTKE_106571	inside	1	46				
+//
+# ZDNTKE_129879 Length: 32
+# ZDNTKE_129879 Number of predicted TMRs: 0
+ZDNTKE_129879	signal	1	29				
+ZDNTKE_129879	outside	30	32				
+//
+# ZDNTKE_168615 Length: 46
+# ZDNTKE_168615 Number of predicted TMRs: 0
+ZDNTKE_168615	inside	1	46				
+//
+# ZDNTKE_132888 Length: 35
+# ZDNTKE_132888 Number of predicted TMRs: 0
+ZDNTKE_132888	signal	1	32				
+ZDNTKE_132888	outside	33	35				
+//
+# ZDNTKE_123315 Length: 48
+# ZDNTKE_123315 Number of predicted TMRs: 0
+ZDNTKE_123315	inside	1	48				
+//
+# ZDNTKE_66086 Length: 49
+# ZDNTKE_66086 Number of predicted TMRs: 0
+ZDNTKE_66086	inside	1	49				
+//
+# ZDNTKE_9564 Length: 43
+# ZDNTKE_9564 Number of predicted TMRs: 0
+ZDNTKE_9564	signal	1	42				
+ZDNTKE_9564	outside	43	43				
+//
+# ZDNTKE_57450 Length: 45
+# ZDNTKE_57450 Number of predicted TMRs: 0
+ZDNTKE_57450	signal	1	25				
+ZDNTKE_57450	outside	26	45				
+//
+# ZDNTKE_4577 Length: 49
+# ZDNTKE_4577 Number of predicted TMRs: 0
+ZDNTKE_4577	signal	1	33				
+ZDNTKE_4577	outside	34	49				
+//
+# ZDNTKE_44889 Length: 37
+# ZDNTKE_44889 Number of predicted TMRs: 0
+ZDNTKE_44889	signal	1	24				
+ZDNTKE_44889	outside	25	37				
+//
+# ZDNTKE_76857 Length: 46
+# ZDNTKE_76857 Number of predicted TMRs: 0
+ZDNTKE_76857	outside	1	46				
+//
+# ZDNTKE_131700 Length: 50
+# ZDNTKE_131700 Number of predicted TMRs: 0
+ZDNTKE_131700	signal	1	15				
+ZDNTKE_131700	outside	16	50				
+//
+# ZDNTKE_14232 Length: 49
+# ZDNTKE_14232 Number of predicted TMRs: 0
+ZDNTKE_14232	signal	1	47				
+ZDNTKE_14232	outside	48	49				
+//
+# ZDNTKE_96593 Length: 47
+# ZDNTKE_96593 Number of predicted TMRs: 0
+ZDNTKE_96593	inside	1	47				
+//
+# ZDNTKE_33702 Length: 42
+# ZDNTKE_33702 Number of predicted TMRs: 0
+ZDNTKE_33702	signal	1	41				
+ZDNTKE_33702	outside	42	42				
+//
+# ZDNTKE_64213 Length: 41
+# ZDNTKE_64213 Number of predicted TMRs: 0
+ZDNTKE_64213	inside	1	41				
+//
+# ZDNTKE_154141 Length: 41
+# ZDNTKE_154141 Number of predicted TMRs: 0
+ZDNTKE_154141	signal	1	30				
+ZDNTKE_154141	outside	31	41				
+//
+# ZDNTKE_94182 Length: 42
+# ZDNTKE_94182 Number of predicted TMRs: 0
+ZDNTKE_94182	signal	1	27				
+ZDNTKE_94182	outside	28	42				
+//
+# ZDNTKE_136050 Length: 44
+# ZDNTKE_136050 Number of predicted TMRs: 0
+ZDNTKE_136050	inside	1	44				
+//
+# ZDNTKE_106120 Length: 49
+# ZDNTKE_106120 Number of predicted TMRs: 0
+ZDNTKE_106120	inside	1	49				
+//
+# ZDNTKE_28847 Length: 50
+# ZDNTKE_28847 Number of predicted TMRs: 0
+ZDNTKE_28847	inside	1	50				
+//
+# ZDNTKE_7483 Length: 49
+# ZDNTKE_7483 Number of predicted TMRs: 0
+ZDNTKE_7483	signal	1	10				
+ZDNTKE_7483	outside	11	49				
+//
+# ZDNTKE_78000 Length: 48
+# ZDNTKE_78000 Number of predicted TMRs: 0
+ZDNTKE_78000	outside	1	48				
+//
+# ZDNTKE_99910 Length: 43
+# ZDNTKE_99910 Number of predicted TMRs: 0
+ZDNTKE_99910	inside	1	43				
+//
+# ZDNTKE_56501 Length: 49
+# ZDNTKE_56501 Number of predicted TMRs: 0
+ZDNTKE_56501	inside	1	49				
+//
+# ZDNTKE_146066 Length: 48
+# ZDNTKE_146066 Number of predicted TMRs: 0
+ZDNTKE_146066	outside	1	48				
+//
+# ZDNTKE_82538 Length: 45
+# ZDNTKE_82538 Number of predicted TMRs: 0
+ZDNTKE_82538	inside	1	45				
+//
+# ZDNTKE_99917 Length: 46
+# ZDNTKE_99917 Number of predicted TMRs: 0
+ZDNTKE_99917	inside	1	46				
+//
+# ZDNTKE_97951 Length: 37
+# ZDNTKE_97951 Number of predicted TMRs: 0
+ZDNTKE_97951	signal	1	33				
+ZDNTKE_97951	outside	34	37				
+//
+# ZDNTKE_12227 Length: 46
+# ZDNTKE_12227 Number of predicted TMRs: 0
+ZDNTKE_12227	signal	1	41				
+ZDNTKE_12227	outside	42	46				
+//
+# ZDNTKE_153122 Length: 42
+# ZDNTKE_153122 Number of predicted TMRs: 0
+ZDNTKE_153122	signal	1	28				
+ZDNTKE_153122	outside	29	42				
+//
+# ZDNTKE_143694 Length: 46
+# ZDNTKE_143694 Number of predicted TMRs: 0
+ZDNTKE_143694	inside	1	46				
+//
+# ZDNTKE_126267 Length: 47
+# ZDNTKE_126267 Number of predicted TMRs: 0
+ZDNTKE_126267	inside	1	47				
+//
+# ZDNTKE_62047 Length: 48
+# ZDNTKE_62047 Number of predicted TMRs: 0
+ZDNTKE_62047	outside	1	48				
+//
+# ZDNTKE_61128 Length: 41
+# ZDNTKE_61128 Number of predicted TMRs: 0
+ZDNTKE_61128	inside	1	41				
+//
+# ZDNTKE_862 Length: 42
+# ZDNTKE_862 Number of predicted TMRs: 0
+ZDNTKE_862	inside	1	42				
+//
+# ZDNTKE_155734 Length: 47
+# ZDNTKE_155734 Number of predicted TMRs: 0
+ZDNTKE_155734	inside	1	47				
+//
+# ZDNTKE_148260 Length: 47
+# ZDNTKE_148260 Number of predicted TMRs: 0
+ZDNTKE_148260	signal	1	46				
+ZDNTKE_148260	outside	47	47				
+//
+# ZDNTKE_97422 Length: 50
+# ZDNTKE_97422 Number of predicted TMRs: 0
+ZDNTKE_97422	signal	1	31				
+ZDNTKE_97422	outside	32	50				
+//
+# ZDNTKE_134705 Length: 49
+# ZDNTKE_134705 Number of predicted TMRs: 0
+ZDNTKE_134705	signal	1	44				
+ZDNTKE_134705	outside	45	49				
+//
+# ZDNTKE_46382 Length: 49
+# ZDNTKE_46382 Number of predicted TMRs: 0
+ZDNTKE_46382	inside	1	49				
+//
+# ZDNTKE_83750 Length: 45
+# ZDNTKE_83750 Number of predicted TMRs: 0
+ZDNTKE_83750	inside	1	45				
+//
+# ZDNTKE_58977 Length: 42
+# ZDNTKE_58977 Number of predicted TMRs: 0
+ZDNTKE_58977	inside	1	42				
+//
+# ZDNTKE_79330 Length: 50
+# ZDNTKE_79330 Number of predicted TMRs: 0
+ZDNTKE_79330	signal	1	28				
+ZDNTKE_79330	outside	29	50				
+//
+# ZDNTKE_93244 Length: 42
+# ZDNTKE_93244 Number of predicted TMRs: 0
+ZDNTKE_93244	inside	1	42				
+//
+# ZDNTKE_13688 Length: 47
+# ZDNTKE_13688 Number of predicted TMRs: 0
+ZDNTKE_13688	signal	1	13				
+ZDNTKE_13688	outside	14	47				
+//
+# ZDNTKE_68002 Length: 45
+# ZDNTKE_68002 Number of predicted TMRs: 0
+ZDNTKE_68002	inside	1	45				
+//
+# ZDNTKE_139041 Length: 49
+# ZDNTKE_139041 Number of predicted TMRs: 0
+ZDNTKE_139041	signal	1	12				
+ZDNTKE_139041	outside	13	49				
+//
+# ZDNTKE_24850 Length: 45
+# ZDNTKE_24850 Number of predicted TMRs: 0
+ZDNTKE_24850	inside	1	45				
+//
+# ZDNTKE_87111 Length: 48
+# ZDNTKE_87111 Number of predicted TMRs: 0
+ZDNTKE_87111	inside	1	48				
+//
+# ZDNTKE_88743 Length: 44
+# ZDNTKE_88743 Number of predicted TMRs: 0
+ZDNTKE_88743	outside	1	44				
+//
+# ZDNTKE_97703 Length: 49
+# ZDNTKE_97703 Number of predicted TMRs: 0
+ZDNTKE_97703	inside	1	49				
+//
+# ZDNTKE_108168 Length: 49
+# ZDNTKE_108168 Number of predicted TMRs: 0
+ZDNTKE_108168	inside	1	49				
+//
+# ZDNTKE_8987 Length: 49
+# ZDNTKE_8987 Number of predicted TMRs: 0
+ZDNTKE_8987	inside	1	49				
+//
+# ZDNTKE_66378 Length: 50
+# ZDNTKE_66378 Number of predicted TMRs: 0
+ZDNTKE_66378	inside	1	50				
+//
+# ZDNTKE_107247 Length: 41
+# ZDNTKE_107247 Number of predicted TMRs: 0
+ZDNTKE_107247	signal	1	40				
+ZDNTKE_107247	outside	41	41				
+//
+# ZDNTKE_154708 Length: 41
+# ZDNTKE_154708 Number of predicted TMRs: 0
+ZDNTKE_154708	signal	1	40				
+ZDNTKE_154708	outside	41	41				
+//
+# ZDNTKE_166922 Length: 32
+# ZDNTKE_166922 Number of predicted TMRs: 0
+ZDNTKE_166922	signal	1	31				
+ZDNTKE_166922	outside	32	32				
+//
+# ZDNTKE_99515 Length: 48
+# ZDNTKE_99515 Number of predicted TMRs: 0
+ZDNTKE_99515	inside	1	48				
+//
+# ZDNTKE_94079 Length: 49
+# ZDNTKE_94079 Number of predicted TMRs: 0
+ZDNTKE_94079	inside	1	49				
+//
+# ZDNTKE_112837 Length: 50
+# ZDNTKE_112837 Number of predicted TMRs: 0
+ZDNTKE_112837	inside	1	50				
+//
+# ZDNTKE_156097 Length: 49
+# ZDNTKE_156097 Number of predicted TMRs: 0
+ZDNTKE_156097	inside	1	49				

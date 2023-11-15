@@ -1,0 +1,4362 @@
+##gff-version 3
+# VMDTQL_93203 Length: 39
+# VMDTQL_93203 Number of predicted TMRs: 0
+VMDTQL_93203	signal	1	10				
+VMDTQL_93203	outside	11	39				
+//
+# VMDTQL_137194 Length: 34
+# VMDTQL_137194 Number of predicted TMRs: 0
+VMDTQL_137194	signal	1	33				
+VMDTQL_137194	outside	34	34				
+//
+# VMDTQL_21267 Length: 47
+# VMDTQL_21267 Number of predicted TMRs: 0
+VMDTQL_21267	signal	1	10				
+VMDTQL_21267	outside	11	47				
+//
+# VMDTQL_73057 Length: 50
+# VMDTQL_73057 Number of predicted TMRs: 0
+VMDTQL_73057	inside	1	50				
+//
+# VMDTQL_163000 Length: 49
+# VMDTQL_163000 Number of predicted TMRs: 0
+VMDTQL_163000	inside	1	49				
+//
+# VMDTQL_41357 Length: 50
+# VMDTQL_41357 Number of predicted TMRs: 0
+VMDTQL_41357	outside	1	50				
+//
+# VMDTQL_121109 Length: 48
+# VMDTQL_121109 Number of predicted TMRs: 0
+VMDTQL_121109	inside	1	48				
+//
+# VMDTQL_171123 Length: 39
+# VMDTQL_171123 Number of predicted TMRs: 0
+VMDTQL_171123	outside	1	39				
+//
+# VMDTQL_114238 Length: 49
+# VMDTQL_114238 Number of predicted TMRs: 0
+VMDTQL_114238	inside	1	49				
+//
+# VMDTQL_168174 Length: 41
+# VMDTQL_168174 Number of predicted TMRs: 0
+VMDTQL_168174	signal	1	32				
+VMDTQL_168174	outside	33	41				
+//
+# VMDTQL_49686 Length: 41
+# VMDTQL_49686 Number of predicted TMRs: 0
+VMDTQL_49686	signal	1	36				
+VMDTQL_49686	outside	37	41				
+//
+# VMDTQL_118987 Length: 41
+# VMDTQL_118987 Number of predicted TMRs: 0
+VMDTQL_118987	signal	1	32				
+VMDTQL_118987	outside	33	41				
+//
+# VMDTQL_21033 Length: 48
+# VMDTQL_21033 Number of predicted TMRs: 0
+VMDTQL_21033	inside	1	48				
+//
+# VMDTQL_122667 Length: 41
+# VMDTQL_122667 Number of predicted TMRs: 0
+VMDTQL_122667	outside	1	41				
+//
+# VMDTQL_106777 Length: 40
+# VMDTQL_106777 Number of predicted TMRs: 0
+VMDTQL_106777	signal	1	14				
+VMDTQL_106777	outside	15	40				
+//
+# VMDTQL_21448 Length: 29
+# VMDTQL_21448 Number of predicted TMRs: 0
+VMDTQL_21448	signal	1	28				
+VMDTQL_21448	outside	29	29				
+//
+# VMDTQL_55727 Length: 50
+# VMDTQL_55727 Number of predicted TMRs: 0
+VMDTQL_55727	signal	1	43				
+VMDTQL_55727	outside	44	50				
+//
+# VMDTQL_90762 Length: 42
+# VMDTQL_90762 Number of predicted TMRs: 0
+VMDTQL_90762	signal	1	27				
+VMDTQL_90762	outside	28	42				
+//
+# VMDTQL_14603 Length: 47
+# VMDTQL_14603 Number of predicted TMRs: 0
+VMDTQL_14603	inside	1	47				
+//
+# VMDTQL_83875 Length: 42
+# VMDTQL_83875 Number of predicted TMRs: 0
+VMDTQL_83875	signal	1	18				
+VMDTQL_83875	outside	19	42				
+//
+# VMDTQL_42555 Length: 50
+# VMDTQL_42555 Number of predicted TMRs: 0
+VMDTQL_42555	inside	1	50				
+//
+# VMDTQL_65152 Length: 37
+# VMDTQL_65152 Number of predicted TMRs: 0
+VMDTQL_65152	inside	1	37				
+//
+# VMDTQL_388 Length: 41
+# VMDTQL_388 Number of predicted TMRs: 0
+VMDTQL_388	inside	1	41				
+//
+# VMDTQL_110786 Length: 49
+# VMDTQL_110786 Number of predicted TMRs: 0
+VMDTQL_110786	inside	1	49				
+//
+# VMDTQL_134472 Length: 47
+# VMDTQL_134472 Number of predicted TMRs: 0
+VMDTQL_134472	inside	1	47				
+//
+# VMDTQL_42837 Length: 50
+# VMDTQL_42837 Number of predicted TMRs: 0
+VMDTQL_42837	signal	1	12				
+VMDTQL_42837	outside	13	50				
+//
+# VMDTQL_16088 Length: 39
+# VMDTQL_16088 Number of predicted TMRs: 0
+VMDTQL_16088	inside	1	39				
+//
+# VMDTQL_161957 Length: 50
+# VMDTQL_161957 Number of predicted TMRs: 0
+VMDTQL_161957	inside	1	50				
+//
+# VMDTQL_22205 Length: 50
+# VMDTQL_22205 Number of predicted TMRs: 0
+VMDTQL_22205	outside	1	50				
+//
+# VMDTQL_2726 Length: 47
+# VMDTQL_2726 Number of predicted TMRs: 0
+VMDTQL_2726	inside	1	47				
+//
+# VMDTQL_51332 Length: 40
+# VMDTQL_51332 Number of predicted TMRs: 0
+VMDTQL_51332	inside	1	40				
+//
+# VMDTQL_26015 Length: 42
+# VMDTQL_26015 Number of predicted TMRs: 0
+VMDTQL_26015	outside	1	42				
+//
+# VMDTQL_105350 Length: 41
+# VMDTQL_105350 Number of predicted TMRs: 0
+VMDTQL_105350	signal	1	40				
+VMDTQL_105350	outside	41	41				
+//
+# VMDTQL_144093 Length: 37
+# VMDTQL_144093 Number of predicted TMRs: 0
+VMDTQL_144093	signal	1	30				
+VMDTQL_144093	outside	31	37				
+//
+# VMDTQL_99151 Length: 50
+# VMDTQL_99151 Number of predicted TMRs: 0
+VMDTQL_99151	inside	1	50				
+//
+# VMDTQL_15794 Length: 46
+# VMDTQL_15794 Number of predicted TMRs: 0
+VMDTQL_15794	signal	1	26				
+VMDTQL_15794	outside	27	46				
+//
+# VMDTQL_112385 Length: 41
+# VMDTQL_112385 Number of predicted TMRs: 0
+VMDTQL_112385	signal	1	29				
+VMDTQL_112385	outside	30	41				
+//
+# VMDTQL_44640 Length: 47
+# VMDTQL_44640 Number of predicted TMRs: 0
+VMDTQL_44640	signal	1	11				
+VMDTQL_44640	outside	12	47				
+//
+# VMDTQL_91704 Length: 42
+# VMDTQL_91704 Number of predicted TMRs: 0
+VMDTQL_91704	signal	1	16				
+VMDTQL_91704	outside	17	42				
+//
+# VMDTQL_135049 Length: 46
+# VMDTQL_135049 Number of predicted TMRs: 0
+VMDTQL_135049	signal	1	45				
+VMDTQL_135049	outside	46	46				
+//
+# VMDTQL_152884 Length: 40
+# VMDTQL_152884 Number of predicted TMRs: 0
+VMDTQL_152884	signal	1	26				
+VMDTQL_152884	outside	27	40				
+//
+# VMDTQL_38040 Length: 49
+# VMDTQL_38040 Number of predicted TMRs: 0
+VMDTQL_38040	signal	1	23				
+VMDTQL_38040	outside	24	49				
+//
+# VMDTQL_32689 Length: 44
+# VMDTQL_32689 Number of predicted TMRs: 0
+VMDTQL_32689	inside	1	44				
+//
+# VMDTQL_10666 Length: 44
+# VMDTQL_10666 Number of predicted TMRs: 0
+VMDTQL_10666	signal	1	43				
+VMDTQL_10666	outside	44	44				
+//
+# VMDTQL_40741 Length: 44
+# VMDTQL_40741 Number of predicted TMRs: 0
+VMDTQL_40741	inside	1	44				
+//
+# VMDTQL_6852 Length: 42
+# VMDTQL_6852 Number of predicted TMRs: 0
+VMDTQL_6852	signal	1	32				
+VMDTQL_6852	outside	33	42				
+//
+# VMDTQL_10584 Length: 47
+# VMDTQL_10584 Number of predicted TMRs: 0
+VMDTQL_10584	inside	1	47				
+//
+# VMDTQL_67860 Length: 50
+# VMDTQL_67860 Number of predicted TMRs: 0
+VMDTQL_67860	signal	1	11				
+VMDTQL_67860	outside	12	50				
+//
+# VMDTQL_77412 Length: 41
+# VMDTQL_77412 Number of predicted TMRs: 0
+VMDTQL_77412	inside	1	41				
+//
+# VMDTQL_92630 Length: 43
+# VMDTQL_92630 Number of predicted TMRs: 0
+VMDTQL_92630	signal	1	18				
+VMDTQL_92630	outside	19	43				
+//
+# VMDTQL_156976 Length: 46
+# VMDTQL_156976 Number of predicted TMRs: 0
+VMDTQL_156976	inside	1	46				
+//
+# VMDTQL_7920 Length: 48
+# VMDTQL_7920 Number of predicted TMRs: 0
+VMDTQL_7920	inside	1	48				
+//
+# VMDTQL_136205 Length: 43
+# VMDTQL_136205 Number of predicted TMRs: 0
+VMDTQL_136205	signal	1	38				
+VMDTQL_136205	outside	39	43				
+//
+# VMDTQL_11036 Length: 48
+# VMDTQL_11036 Number of predicted TMRs: 0
+VMDTQL_11036	inside	1	48				
+//
+# VMDTQL_101034 Length: 46
+# VMDTQL_101034 Number of predicted TMRs: 0
+VMDTQL_101034	inside	1	46				
+//
+# VMDTQL_144231 Length: 44
+# VMDTQL_144231 Number of predicted TMRs: 0
+VMDTQL_144231	signal	1	32				
+VMDTQL_144231	outside	33	44				
+//
+# VMDTQL_151351 Length: 49
+# VMDTQL_151351 Number of predicted TMRs: 0
+VMDTQL_151351	inside	1	49				
+//
+# VMDTQL_29990 Length: 35
+# VMDTQL_29990 Number of predicted TMRs: 0
+VMDTQL_29990	inside	1	35				
+//
+# VMDTQL_93998 Length: 45
+# VMDTQL_93998 Number of predicted TMRs: 0
+VMDTQL_93998	inside	1	45				
+//
+# VMDTQL_61163 Length: 35
+# VMDTQL_61163 Number of predicted TMRs: 0
+VMDTQL_61163	inside	1	35				
+//
+# VMDTQL_45836 Length: 44
+# VMDTQL_45836 Number of predicted TMRs: 0
+VMDTQL_45836	signal	1	43				
+VMDTQL_45836	outside	44	44				
+//
+# VMDTQL_138759 Length: 49
+# VMDTQL_138759 Number of predicted TMRs: 0
+VMDTQL_138759	inside	1	49				
+//
+# VMDTQL_133552 Length: 49
+# VMDTQL_133552 Number of predicted TMRs: 0
+VMDTQL_133552	signal	1	40				
+VMDTQL_133552	outside	41	49				
+//
+# VMDTQL_12567 Length: 45
+# VMDTQL_12567 Number of predicted TMRs: 0
+VMDTQL_12567	inside	1	45				
+//
+# VMDTQL_70464 Length: 46
+# VMDTQL_70464 Number of predicted TMRs: 0
+VMDTQL_70464	signal	1	43				
+VMDTQL_70464	outside	44	46				
+//
+# VMDTQL_136562 Length: 49
+# VMDTQL_136562 Number of predicted TMRs: 0
+VMDTQL_136562	inside	1	49				
+//
+# VMDTQL_54247 Length: 49
+# VMDTQL_54247 Number of predicted TMRs: 0
+VMDTQL_54247	signal	1	22				
+VMDTQL_54247	outside	23	49				
+//
+# VMDTQL_26676 Length: 50
+# VMDTQL_26676 Number of predicted TMRs: 0
+VMDTQL_26676	inside	1	50				
+//
+# VMDTQL_115439 Length: 49
+# VMDTQL_115439 Number of predicted TMRs: 0
+VMDTQL_115439	signal	1	48				
+VMDTQL_115439	outside	49	49				
+//
+# VMDTQL_14668 Length: 47
+# VMDTQL_14668 Number of predicted TMRs: 0
+VMDTQL_14668	inside	1	47				
+//
+# VMDTQL_132122 Length: 46
+# VMDTQL_132122 Number of predicted TMRs: 0
+VMDTQL_132122	inside	1	46				
+//
+# VMDTQL_129675 Length: 48
+# VMDTQL_129675 Number of predicted TMRs: 0
+VMDTQL_129675	inside	1	48				
+//
+# VMDTQL_154538 Length: 47
+# VMDTQL_154538 Number of predicted TMRs: 0
+VMDTQL_154538	signal	1	41				
+VMDTQL_154538	outside	42	47				
+//
+# VMDTQL_56082 Length: 46
+# VMDTQL_56082 Number of predicted TMRs: 1
+VMDTQL_56082	signal	1	10				
+VMDTQL_56082	outside	11	11				
+VMDTQL_56082	TMhelix	12	32				
+VMDTQL_56082	inside	33	46				
+//
+# VMDTQL_94906 Length: 41
+# VMDTQL_94906 Number of predicted TMRs: 0
+VMDTQL_94906	inside	1	41				
+//
+# VMDTQL_100274 Length: 46
+# VMDTQL_100274 Number of predicted TMRs: 0
+VMDTQL_100274	inside	1	46				
+//
+# VMDTQL_18362 Length: 37
+# VMDTQL_18362 Number of predicted TMRs: 0
+VMDTQL_18362	signal	1	34				
+VMDTQL_18362	outside	35	37				
+//
+# VMDTQL_137552 Length: 39
+# VMDTQL_137552 Number of predicted TMRs: 0
+VMDTQL_137552	signal	1	19				
+VMDTQL_137552	outside	20	39				
+//
+# VMDTQL_88928 Length: 38
+# VMDTQL_88928 Number of predicted TMRs: 0
+VMDTQL_88928	signal	1	37				
+VMDTQL_88928	outside	38	38				
+//
+# VMDTQL_165534 Length: 37
+# VMDTQL_165534 Number of predicted TMRs: 0
+VMDTQL_165534	signal	1	11				
+VMDTQL_165534	outside	12	37				
+//
+# VMDTQL_141343 Length: 50
+# VMDTQL_141343 Number of predicted TMRs: 0
+VMDTQL_141343	outside	1	50				
+//
+# VMDTQL_140435 Length: 39
+# VMDTQL_140435 Number of predicted TMRs: 0
+VMDTQL_140435	signal	1	38				
+VMDTQL_140435	outside	39	39				
+//
+# VMDTQL_89592 Length: 42
+# VMDTQL_89592 Number of predicted TMRs: 0
+VMDTQL_89592	inside	1	42				
+//
+# VMDTQL_102035 Length: 47
+# VMDTQL_102035 Number of predicted TMRs: 0
+VMDTQL_102035	signal	1	46				
+VMDTQL_102035	outside	47	47				
+//
+# VMDTQL_12971 Length: 49
+# VMDTQL_12971 Number of predicted TMRs: 0
+VMDTQL_12971	inside	1	49				
+//
+# VMDTQL_128415 Length: 38
+# VMDTQL_128415 Number of predicted TMRs: 0
+VMDTQL_128415	inside	1	38				
+//
+# VMDTQL_80972 Length: 43
+# VMDTQL_80972 Number of predicted TMRs: 0
+VMDTQL_80972	inside	1	43				
+//
+# VMDTQL_53718 Length: 47
+# VMDTQL_53718 Number of predicted TMRs: 0
+VMDTQL_53718	signal	1	18				
+VMDTQL_53718	outside	19	47				
+//
+# VMDTQL_103587 Length: 50
+# VMDTQL_103587 Number of predicted TMRs: 0
+VMDTQL_103587	inside	1	50				
+//
+# VMDTQL_172402 Length: 47
+# VMDTQL_172402 Number of predicted TMRs: 0
+VMDTQL_172402	signal	1	14				
+VMDTQL_172402	outside	15	47				
+//
+# VMDTQL_101428 Length: 46
+# VMDTQL_101428 Number of predicted TMRs: 0
+VMDTQL_101428	inside	1	46				
+//
+# VMDTQL_140879 Length: 44
+# VMDTQL_140879 Number of predicted TMRs: 0
+VMDTQL_140879	signal	1	43				
+VMDTQL_140879	outside	44	44				
+//
+# VMDTQL_52186 Length: 50
+# VMDTQL_52186 Number of predicted TMRs: 0
+VMDTQL_52186	inside	1	50				
+//
+# VMDTQL_123926 Length: 40
+# VMDTQL_123926 Number of predicted TMRs: 0
+VMDTQL_123926	signal	1	35				
+VMDTQL_123926	outside	36	40				
+//
+# VMDTQL_86878 Length: 39
+# VMDTQL_86878 Number of predicted TMRs: 0
+VMDTQL_86878	inside	1	39				
+//
+# VMDTQL_80951 Length: 42
+# VMDTQL_80951 Number of predicted TMRs: 0
+VMDTQL_80951	signal	1	41				
+VMDTQL_80951	outside	42	42				
+//
+# VMDTQL_144450 Length: 45
+# VMDTQL_144450 Number of predicted TMRs: 0
+VMDTQL_144450	inside	1	45				
+//
+# VMDTQL_4877 Length: 46
+# VMDTQL_4877 Number of predicted TMRs: 0
+VMDTQL_4877	inside	1	46				
+//
+# VMDTQL_97684 Length: 34
+# VMDTQL_97684 Number of predicted TMRs: 0
+VMDTQL_97684	inside	1	34				
+//
+# VMDTQL_137797 Length: 47
+# VMDTQL_137797 Number of predicted TMRs: 0
+VMDTQL_137797	inside	1	47				
+//
+# VMDTQL_13652 Length: 46
+# VMDTQL_13652 Number of predicted TMRs: 0
+VMDTQL_13652	signal	1	26				
+VMDTQL_13652	outside	27	46				
+//
+# VMDTQL_25478 Length: 47
+# VMDTQL_25478 Number of predicted TMRs: 0
+VMDTQL_25478	inside	1	47				
+//
+# VMDTQL_39084 Length: 46
+# VMDTQL_39084 Number of predicted TMRs: 0
+VMDTQL_39084	signal	1	23				
+VMDTQL_39084	outside	24	46				
+//
+# VMDTQL_135074 Length: 41
+# VMDTQL_135074 Number of predicted TMRs: 0
+VMDTQL_135074	inside	1	41				
+//
+# VMDTQL_34948 Length: 37
+# VMDTQL_34948 Number of predicted TMRs: 0
+VMDTQL_34948	signal	1	13				
+VMDTQL_34948	outside	14	37				
+//
+# VMDTQL_113574 Length: 49
+# VMDTQL_113574 Number of predicted TMRs: 0
+VMDTQL_113574	signal	1	14				
+VMDTQL_113574	outside	15	49				
+//
+# VMDTQL_136471 Length: 47
+# VMDTQL_136471 Number of predicted TMRs: 0
+VMDTQL_136471	inside	1	47				
+//
+# VMDTQL_81143 Length: 18
+# VMDTQL_81143 Number of predicted TMRs: 0
+VMDTQL_81143	signal	1	12				
+VMDTQL_81143	outside	13	18				
+//
+# VMDTQL_19411 Length: 45
+# VMDTQL_19411 Number of predicted TMRs: 0
+VMDTQL_19411	inside	1	45				
+//
+# VMDTQL_25312 Length: 37
+# VMDTQL_25312 Number of predicted TMRs: 0
+VMDTQL_25312	signal	1	35				
+VMDTQL_25312	outside	36	37				
+//
+# VMDTQL_73804 Length: 45
+# VMDTQL_73804 Number of predicted TMRs: 0
+VMDTQL_73804	inside	1	45				
+//
+# VMDTQL_93064 Length: 47
+# VMDTQL_93064 Number of predicted TMRs: 0
+VMDTQL_93064	inside	1	47				
+//
+# VMDTQL_143843 Length: 49
+# VMDTQL_143843 Number of predicted TMRs: 0
+VMDTQL_143843	inside	1	49				
+//
+# VMDTQL_163070 Length: 43
+# VMDTQL_163070 Number of predicted TMRs: 0
+VMDTQL_163070	signal	1	13				
+VMDTQL_163070	outside	14	43				
+//
+# VMDTQL_113475 Length: 48
+# VMDTQL_113475 Number of predicted TMRs: 1
+VMDTQL_113475	outside	1	14				
+VMDTQL_113475	TMhelix	15	35				
+VMDTQL_113475	inside	36	48				
+//
+# VMDTQL_22076 Length: 49
+# VMDTQL_22076 Number of predicted TMRs: 0
+VMDTQL_22076	signal	1	47				
+VMDTQL_22076	outside	48	49				
+//
+# VMDTQL_142329 Length: 48
+# VMDTQL_142329 Number of predicted TMRs: 0
+VMDTQL_142329	inside	1	48				
+//
+# VMDTQL_155933 Length: 48
+# VMDTQL_155933 Number of predicted TMRs: 0
+VMDTQL_155933	inside	1	48				
+//
+# VMDTQL_58489 Length: 41
+# VMDTQL_58489 Number of predicted TMRs: 0
+VMDTQL_58489	inside	1	41				
+//
+# VMDTQL_110366 Length: 43
+# VMDTQL_110366 Number of predicted TMRs: 0
+VMDTQL_110366	inside	1	43				
+//
+# VMDTQL_12533 Length: 49
+# VMDTQL_12533 Number of predicted TMRs: 0
+VMDTQL_12533	inside	1	49				
+//
+# VMDTQL_20717 Length: 50
+# VMDTQL_20717 Number of predicted TMRs: 0
+VMDTQL_20717	inside	1	50				
+//
+# VMDTQL_85961 Length: 48
+# VMDTQL_85961 Number of predicted TMRs: 0
+VMDTQL_85961	signal	1	47				
+VMDTQL_85961	outside	48	48				
+//
+# VMDTQL_19092 Length: 45
+# VMDTQL_19092 Number of predicted TMRs: 0
+VMDTQL_19092	inside	1	45				
+//
+# VMDTQL_165759 Length: 44
+# VMDTQL_165759 Number of predicted TMRs: 0
+VMDTQL_165759	signal	1	21				
+VMDTQL_165759	outside	22	44				
+//
+# VMDTQL_695 Length: 47
+# VMDTQL_695 Number of predicted TMRs: 0
+VMDTQL_695	inside	1	47				
+//
+# VMDTQL_143849 Length: 49
+# VMDTQL_143849 Number of predicted TMRs: 0
+VMDTQL_143849	inside	1	49				
+//
+# VMDTQL_24133 Length: 50
+# VMDTQL_24133 Number of predicted TMRs: 0
+VMDTQL_24133	inside	1	50				
+//
+# VMDTQL_144086 Length: 45
+# VMDTQL_144086 Number of predicted TMRs: 0
+VMDTQL_144086	signal	1	20				
+VMDTQL_144086	outside	21	45				
+//
+# VMDTQL_65058 Length: 43
+# VMDTQL_65058 Number of predicted TMRs: 0
+VMDTQL_65058	inside	1	43				
+//
+# VMDTQL_113516 Length: 39
+# VMDTQL_113516 Number of predicted TMRs: 0
+VMDTQL_113516	inside	1	39				
+//
+# VMDTQL_83477 Length: 46
+# VMDTQL_83477 Number of predicted TMRs: 0
+VMDTQL_83477	signal	1	45				
+VMDTQL_83477	outside	46	46				
+//
+# VMDTQL_17546 Length: 46
+# VMDTQL_17546 Number of predicted TMRs: 0
+VMDTQL_17546	signal	1	45				
+VMDTQL_17546	outside	46	46				
+//
+# VMDTQL_94628 Length: 43
+# VMDTQL_94628 Number of predicted TMRs: 0
+VMDTQL_94628	inside	1	43				
+//
+# VMDTQL_121508 Length: 50
+# VMDTQL_121508 Number of predicted TMRs: 0
+VMDTQL_121508	signal	1	48				
+VMDTQL_121508	outside	49	50				
+//
+# VMDTQL_109653 Length: 35
+# VMDTQL_109653 Number of predicted TMRs: 0
+VMDTQL_109653	signal	1	33				
+VMDTQL_109653	outside	34	35				
+//
+# VMDTQL_139032 Length: 47
+# VMDTQL_139032 Number of predicted TMRs: 0
+VMDTQL_139032	signal	1	45				
+VMDTQL_139032	outside	46	47				
+//
+# VMDTQL_140152 Length: 42
+# VMDTQL_140152 Number of predicted TMRs: 0
+VMDTQL_140152	inside	1	42				
+//
+# VMDTQL_162356 Length: 41
+# VMDTQL_162356 Number of predicted TMRs: 0
+VMDTQL_162356	inside	1	41				
+//
+# VMDTQL_166349 Length: 44
+# VMDTQL_166349 Number of predicted TMRs: 0
+VMDTQL_166349	inside	1	44				
+//
+# VMDTQL_32755 Length: 36
+# VMDTQL_32755 Number of predicted TMRs: 0
+VMDTQL_32755	inside	1	36				
+//
+# VMDTQL_38848 Length: 47
+# VMDTQL_38848 Number of predicted TMRs: 0
+VMDTQL_38848	signal	1	35				
+VMDTQL_38848	outside	36	47				
+//
+# VMDTQL_167963 Length: 40
+# VMDTQL_167963 Number of predicted TMRs: 0
+VMDTQL_167963	signal	1	39				
+VMDTQL_167963	outside	40	40				
+//
+# VMDTQL_31558 Length: 42
+# VMDTQL_31558 Number of predicted TMRs: 0
+VMDTQL_31558	signal	1	35				
+VMDTQL_31558	outside	36	42				
+//
+# VMDTQL_141982 Length: 46
+# VMDTQL_141982 Number of predicted TMRs: 0
+VMDTQL_141982	inside	1	46				
+//
+# VMDTQL_121368 Length: 39
+# VMDTQL_121368 Number of predicted TMRs: 0
+VMDTQL_121368	inside	1	39				
+//
+# VMDTQL_171080 Length: 44
+# VMDTQL_171080 Number of predicted TMRs: 0
+VMDTQL_171080	signal	1	43				
+VMDTQL_171080	outside	44	44				
+//
+# VMDTQL_124165 Length: 48
+# VMDTQL_124165 Number of predicted TMRs: 0
+VMDTQL_124165	signal	1	46				
+VMDTQL_124165	outside	47	48				
+//
+# VMDTQL_6381 Length: 48
+# VMDTQL_6381 Number of predicted TMRs: 0
+VMDTQL_6381	inside	1	48				
+//
+# VMDTQL_2733 Length: 36
+# VMDTQL_2733 Number of predicted TMRs: 0
+VMDTQL_2733	signal	1	34				
+VMDTQL_2733	outside	35	36				
+//
+# VMDTQL_100926 Length: 24
+# VMDTQL_100926 Number of predicted TMRs: 0
+VMDTQL_100926	inside	1	24				
+//
+# VMDTQL_112309 Length: 33
+# VMDTQL_112309 Number of predicted TMRs: 0
+VMDTQL_112309	signal	1	32				
+VMDTQL_112309	outside	33	33				
+//
+# VMDTQL_110108 Length: 44
+# VMDTQL_110108 Number of predicted TMRs: 0
+VMDTQL_110108	inside	1	44				
+//
+# VMDTQL_147303 Length: 40
+# VMDTQL_147303 Number of predicted TMRs: 0
+VMDTQL_147303	signal	1	39				
+VMDTQL_147303	outside	40	40				
+//
+# VMDTQL_114967 Length: 45
+# VMDTQL_114967 Number of predicted TMRs: 0
+VMDTQL_114967	inside	1	45				
+//
+# VMDTQL_1224 Length: 35
+# VMDTQL_1224 Number of predicted TMRs: 0
+VMDTQL_1224	signal	1	18				
+VMDTQL_1224	outside	19	35				
+//
+# VMDTQL_29372 Length: 47
+# VMDTQL_29372 Number of predicted TMRs: 0
+VMDTQL_29372	signal	1	10				
+VMDTQL_29372	outside	11	47				
+//
+# VMDTQL_74677 Length: 42
+# VMDTQL_74677 Number of predicted TMRs: 0
+VMDTQL_74677	inside	1	42				
+//
+# VMDTQL_104005 Length: 45
+# VMDTQL_104005 Number of predicted TMRs: 0
+VMDTQL_104005	signal	1	17				
+VMDTQL_104005	outside	18	45				
+//
+# VMDTQL_41052 Length: 42
+# VMDTQL_41052 Number of predicted TMRs: 0
+VMDTQL_41052	inside	1	42				
+//
+# VMDTQL_132866 Length: 48
+# VMDTQL_132866 Number of predicted TMRs: 0
+VMDTQL_132866	inside	1	48				
+//
+# VMDTQL_42414 Length: 45
+# VMDTQL_42414 Number of predicted TMRs: 0
+VMDTQL_42414	inside	1	45				
+//
+# VMDTQL_115119 Length: 39
+# VMDTQL_115119 Number of predicted TMRs: 0
+VMDTQL_115119	inside	1	39				
+//
+# VMDTQL_130978 Length: 35
+# VMDTQL_130978 Number of predicted TMRs: 0
+VMDTQL_130978	inside	1	35				
+//
+# VMDTQL_122722 Length: 44
+# VMDTQL_122722 Number of predicted TMRs: 0
+VMDTQL_122722	inside	1	44				
+//
+# VMDTQL_75280 Length: 49
+# VMDTQL_75280 Number of predicted TMRs: 0
+VMDTQL_75280	inside	1	49				
+//
+# VMDTQL_140471 Length: 48
+# VMDTQL_140471 Number of predicted TMRs: 0
+VMDTQL_140471	signal	1	47				
+VMDTQL_140471	outside	48	48				
+//
+# VMDTQL_35222 Length: 45
+# VMDTQL_35222 Number of predicted TMRs: 0
+VMDTQL_35222	inside	1	45				
+//
+# VMDTQL_97121 Length: 48
+# VMDTQL_97121 Number of predicted TMRs: 0
+VMDTQL_97121	signal	1	12				
+VMDTQL_97121	outside	13	48				
+//
+# VMDTQL_37753 Length: 49
+# VMDTQL_37753 Number of predicted TMRs: 0
+VMDTQL_37753	inside	1	49				
+//
+# VMDTQL_84260 Length: 42
+# VMDTQL_84260 Number of predicted TMRs: 0
+VMDTQL_84260	signal	1	26				
+VMDTQL_84260	outside	27	42				
+//
+# VMDTQL_118954 Length: 50
+# VMDTQL_118954 Number of predicted TMRs: 0
+VMDTQL_118954	inside	1	50				
+//
+# VMDTQL_16648 Length: 48
+# VMDTQL_16648 Number of predicted TMRs: 0
+VMDTQL_16648	inside	1	48				
+//
+# VMDTQL_18253 Length: 45
+# VMDTQL_18253 Number of predicted TMRs: 0
+VMDTQL_18253	inside	1	45				
+//
+# VMDTQL_136614 Length: 44
+# VMDTQL_136614 Number of predicted TMRs: 0
+VMDTQL_136614	signal	1	29				
+VMDTQL_136614	outside	30	44				
+//
+# VMDTQL_1204 Length: 48
+# VMDTQL_1204 Number of predicted TMRs: 0
+VMDTQL_1204	inside	1	48				
+//
+# VMDTQL_6532 Length: 34
+# VMDTQL_6532 Number of predicted TMRs: 0
+VMDTQL_6532	inside	1	34				
+//
+# VMDTQL_62729 Length: 32
+# VMDTQL_62729 Number of predicted TMRs: 0
+VMDTQL_62729	signal	1	31				
+VMDTQL_62729	outside	32	32				
+//
+# VMDTQL_148740 Length: 46
+# VMDTQL_148740 Number of predicted TMRs: 0
+VMDTQL_148740	inside	1	46				
+//
+# VMDTQL_87403 Length: 50
+# VMDTQL_87403 Number of predicted TMRs: 0
+VMDTQL_87403	signal	1	45				
+VMDTQL_87403	outside	46	50				
+//
+# VMDTQL_109995 Length: 43
+# VMDTQL_109995 Number of predicted TMRs: 0
+VMDTQL_109995	inside	1	43				
+//
+# VMDTQL_104486 Length: 37
+# VMDTQL_104486 Number of predicted TMRs: 0
+VMDTQL_104486	inside	1	37				
+//
+# VMDTQL_33238 Length: 44
+# VMDTQL_33238 Number of predicted TMRs: 0
+VMDTQL_33238	signal	1	37				
+VMDTQL_33238	outside	38	44				
+//
+# VMDTQL_17785 Length: 44
+# VMDTQL_17785 Number of predicted TMRs: 0
+VMDTQL_17785	inside	1	44				
+//
+# VMDTQL_69125 Length: 48
+# VMDTQL_69125 Number of predicted TMRs: 0
+VMDTQL_69125	inside	1	48				
+//
+# VMDTQL_145575 Length: 50
+# VMDTQL_145575 Number of predicted TMRs: 0
+VMDTQL_145575	inside	1	50				
+//
+# VMDTQL_154296 Length: 44
+# VMDTQL_154296 Number of predicted TMRs: 0
+VMDTQL_154296	signal	1	38				
+VMDTQL_154296	outside	39	44				
+//
+# VMDTQL_25263 Length: 41
+# VMDTQL_25263 Number of predicted TMRs: 0
+VMDTQL_25263	inside	1	41				
+//
+# VMDTQL_54995 Length: 45
+# VMDTQL_54995 Number of predicted TMRs: 0
+VMDTQL_54995	inside	1	45				
+//
+# VMDTQL_171185 Length: 44
+# VMDTQL_171185 Number of predicted TMRs: 0
+VMDTQL_171185	inside	1	44				
+//
+# VMDTQL_103028 Length: 47
+# VMDTQL_103028 Number of predicted TMRs: 0
+VMDTQL_103028	inside	1	47				
+//
+# VMDTQL_8035 Length: 34
+# VMDTQL_8035 Number of predicted TMRs: 0
+VMDTQL_8035	signal	1	15				
+VMDTQL_8035	outside	16	34				
+//
+# VMDTQL_127157 Length: 48
+# VMDTQL_127157 Number of predicted TMRs: 0
+VMDTQL_127157	signal	1	10				
+VMDTQL_127157	outside	11	48				
+//
+# VMDTQL_65554 Length: 43
+# VMDTQL_65554 Number of predicted TMRs: 0
+VMDTQL_65554	signal	1	39				
+VMDTQL_65554	outside	40	43				
+//
+# VMDTQL_58760 Length: 44
+# VMDTQL_58760 Number of predicted TMRs: 0
+VMDTQL_58760	inside	1	44				
+//
+# VMDTQL_161831 Length: 45
+# VMDTQL_161831 Number of predicted TMRs: 0
+VMDTQL_161831	inside	1	45				
+//
+# VMDTQL_147691 Length: 46
+# VMDTQL_147691 Number of predicted TMRs: 0
+VMDTQL_147691	inside	1	46				
+//
+# VMDTQL_119463 Length: 47
+# VMDTQL_119463 Number of predicted TMRs: 0
+VMDTQL_119463	signal	1	37				
+VMDTQL_119463	outside	38	47				
+//
+# VMDTQL_169473 Length: 40
+# VMDTQL_169473 Number of predicted TMRs: 0
+VMDTQL_169473	inside	1	40				
+//
+# VMDTQL_129795 Length: 44
+# VMDTQL_129795 Number of predicted TMRs: 0
+VMDTQL_129795	signal	1	42				
+VMDTQL_129795	outside	43	44				
+//
+# VMDTQL_114635 Length: 28
+# VMDTQL_114635 Number of predicted TMRs: 0
+VMDTQL_114635	inside	1	28				
+//
+# VMDTQL_97403 Length: 28
+# VMDTQL_97403 Number of predicted TMRs: 0
+VMDTQL_97403	inside	1	28				
+//
+# VMDTQL_165119 Length: 46
+# VMDTQL_165119 Number of predicted TMRs: 0
+VMDTQL_165119	outside	1	46				
+//
+# VMDTQL_136432 Length: 42
+# VMDTQL_136432 Number of predicted TMRs: 0
+VMDTQL_136432	inside	1	42				
+//
+# VMDTQL_111857 Length: 47
+# VMDTQL_111857 Number of predicted TMRs: 0
+VMDTQL_111857	signal	1	25				
+VMDTQL_111857	outside	26	47				
+//
+# VMDTQL_17746 Length: 41
+# VMDTQL_17746 Number of predicted TMRs: 0
+VMDTQL_17746	signal	1	22				
+VMDTQL_17746	outside	23	41				
+//
+# VMDTQL_82142 Length: 44
+# VMDTQL_82142 Number of predicted TMRs: 0
+VMDTQL_82142	inside	1	44				
+//
+# VMDTQL_99352 Length: 45
+# VMDTQL_99352 Number of predicted TMRs: 0
+VMDTQL_99352	inside	1	45				
+//
+# VMDTQL_107268 Length: 35
+# VMDTQL_107268 Number of predicted TMRs: 0
+VMDTQL_107268	outside	1	35				
+//
+# VMDTQL_112827 Length: 46
+# VMDTQL_112827 Number of predicted TMRs: 0
+VMDTQL_112827	inside	1	46				
+//
+# VMDTQL_12052 Length: 35
+# VMDTQL_12052 Number of predicted TMRs: 0
+VMDTQL_12052	inside	1	35				
+//
+# VMDTQL_31684 Length: 49
+# VMDTQL_31684 Number of predicted TMRs: 0
+VMDTQL_31684	inside	1	49				
+//
+# VMDTQL_155829 Length: 48
+# VMDTQL_155829 Number of predicted TMRs: 0
+VMDTQL_155829	inside	1	48				
+//
+# VMDTQL_21857 Length: 46
+# VMDTQL_21857 Number of predicted TMRs: 0
+VMDTQL_21857	inside	1	46				
+//
+# VMDTQL_55821 Length: 41
+# VMDTQL_55821 Number of predicted TMRs: 0
+VMDTQL_55821	signal	1	32				
+VMDTQL_55821	outside	33	41				
+//
+# VMDTQL_90356 Length: 39
+# VMDTQL_90356 Number of predicted TMRs: 0
+VMDTQL_90356	inside	1	39				
+//
+# VMDTQL_110789 Length: 44
+# VMDTQL_110789 Number of predicted TMRs: 0
+VMDTQL_110789	inside	1	44				
+//
+# VMDTQL_124311 Length: 38
+# VMDTQL_124311 Number of predicted TMRs: 0
+VMDTQL_124311	signal	1	32				
+VMDTQL_124311	outside	33	38				
+//
+# VMDTQL_78418 Length: 37
+# VMDTQL_78418 Number of predicted TMRs: 0
+VMDTQL_78418	signal	1	36				
+VMDTQL_78418	outside	37	37				
+//
+# VMDTQL_15210 Length: 37
+# VMDTQL_15210 Number of predicted TMRs: 0
+VMDTQL_15210	inside	1	37				
+//
+# VMDTQL_157347 Length: 49
+# VMDTQL_157347 Number of predicted TMRs: 0
+VMDTQL_157347	inside	1	49				
+//
+# VMDTQL_100168 Length: 34
+# VMDTQL_100168 Number of predicted TMRs: 0
+VMDTQL_100168	outside	1	34				
+//
+# VMDTQL_109615 Length: 48
+# VMDTQL_109615 Number of predicted TMRs: 0
+VMDTQL_109615	signal	1	21				
+VMDTQL_109615	outside	22	48				
+//
+# VMDTQL_57522 Length: 47
+# VMDTQL_57522 Number of predicted TMRs: 0
+VMDTQL_57522	inside	1	47				
+//
+# VMDTQL_35883 Length: 31
+# VMDTQL_35883 Number of predicted TMRs: 0
+VMDTQL_35883	signal	1	27				
+VMDTQL_35883	outside	28	31				
+//
+# VMDTQL_138002 Length: 49
+# VMDTQL_138002 Number of predicted TMRs: 0
+VMDTQL_138002	inside	1	49				
+//
+# VMDTQL_50218 Length: 49
+# VMDTQL_50218 Number of predicted TMRs: 0
+VMDTQL_50218	inside	1	49				
+//
+# VMDTQL_142579 Length: 43
+# VMDTQL_142579 Number of predicted TMRs: 0
+VMDTQL_142579	signal	1	11				
+VMDTQL_142579	outside	12	43				
+//
+# VMDTQL_98550 Length: 46
+# VMDTQL_98550 Number of predicted TMRs: 0
+VMDTQL_98550	inside	1	46				
+//
+# VMDTQL_41513 Length: 49
+# VMDTQL_41513 Number of predicted TMRs: 0
+VMDTQL_41513	signal	1	26				
+VMDTQL_41513	outside	27	49				
+//
+# VMDTQL_142319 Length: 49
+# VMDTQL_142319 Number of predicted TMRs: 0
+VMDTQL_142319	signal	1	29				
+VMDTQL_142319	outside	30	49				
+//
+# VMDTQL_104575 Length: 38
+# VMDTQL_104575 Number of predicted TMRs: 0
+VMDTQL_104575	inside	1	38				
+//
+# VMDTQL_15072 Length: 33
+# VMDTQL_15072 Number of predicted TMRs: 0
+VMDTQL_15072	inside	1	33				
+//
+# VMDTQL_8428 Length: 44
+# VMDTQL_8428 Number of predicted TMRs: 0
+VMDTQL_8428	inside	1	44				
+//
+# VMDTQL_111685 Length: 40
+# VMDTQL_111685 Number of predicted TMRs: 0
+VMDTQL_111685	signal	1	39				
+VMDTQL_111685	outside	40	40				
+//
+# VMDTQL_12230 Length: 47
+# VMDTQL_12230 Number of predicted TMRs: 0
+VMDTQL_12230	inside	1	47				
+//
+# VMDTQL_109125 Length: 43
+# VMDTQL_109125 Number of predicted TMRs: 0
+VMDTQL_109125	inside	1	43				
+//
+# VMDTQL_115681 Length: 48
+# VMDTQL_115681 Number of predicted TMRs: 0
+VMDTQL_115681	inside	1	48				
+//
+# VMDTQL_123325 Length: 47
+# VMDTQL_123325 Number of predicted TMRs: 0
+VMDTQL_123325	inside	1	47				
+//
+# VMDTQL_17167 Length: 49
+# VMDTQL_17167 Number of predicted TMRs: 0
+VMDTQL_17167	inside	1	49				
+//
+# VMDTQL_73929 Length: 50
+# VMDTQL_73929 Number of predicted TMRs: 0
+VMDTQL_73929	signal	1	41				
+VMDTQL_73929	outside	42	50				
+//
+# VMDTQL_122521 Length: 47
+# VMDTQL_122521 Number of predicted TMRs: 0
+VMDTQL_122521	inside	1	47				
+//
+# VMDTQL_150616 Length: 39
+# VMDTQL_150616 Number of predicted TMRs: 0
+VMDTQL_150616	signal	1	32				
+VMDTQL_150616	outside	33	39				
+//
+# VMDTQL_123158 Length: 48
+# VMDTQL_123158 Number of predicted TMRs: 0
+VMDTQL_123158	signal	1	20				
+VMDTQL_123158	outside	21	48				
+//
+# VMDTQL_104989 Length: 49
+# VMDTQL_104989 Number of predicted TMRs: 0
+VMDTQL_104989	inside	1	49				
+//
+# VMDTQL_133862 Length: 36
+# VMDTQL_133862 Number of predicted TMRs: 0
+VMDTQL_133862	inside	1	36				
+//
+# VMDTQL_162379 Length: 39
+# VMDTQL_162379 Number of predicted TMRs: 0
+VMDTQL_162379	inside	1	39				
+//
+# VMDTQL_72789 Length: 46
+# VMDTQL_72789 Number of predicted TMRs: 0
+VMDTQL_72789	inside	1	46				
+//
+# VMDTQL_141465 Length: 40
+# VMDTQL_141465 Number of predicted TMRs: 0
+VMDTQL_141465	inside	1	40				
+//
+# VMDTQL_83673 Length: 39
+# VMDTQL_83673 Number of predicted TMRs: 0
+VMDTQL_83673	inside	1	39				
+//
+# VMDTQL_101435 Length: 36
+# VMDTQL_101435 Number of predicted TMRs: 0
+VMDTQL_101435	signal	1	35				
+VMDTQL_101435	outside	36	36				
+//
+# VMDTQL_110711 Length: 40
+# VMDTQL_110711 Number of predicted TMRs: 0
+VMDTQL_110711	inside	1	40				
+//
+# VMDTQL_29788 Length: 42
+# VMDTQL_29788 Number of predicted TMRs: 0
+VMDTQL_29788	inside	1	42				
+//
+# VMDTQL_26373 Length: 44
+# VMDTQL_26373 Number of predicted TMRs: 0
+VMDTQL_26373	outside	1	44				
+//
+# VMDTQL_137791 Length: 45
+# VMDTQL_137791 Number of predicted TMRs: 0
+VMDTQL_137791	signal	1	43				
+VMDTQL_137791	outside	44	45				
+//
+# VMDTQL_172277 Length: 42
+# VMDTQL_172277 Number of predicted TMRs: 0
+VMDTQL_172277	inside	1	42				
+//
+# VMDTQL_117684 Length: 50
+# VMDTQL_117684 Number of predicted TMRs: 0
+VMDTQL_117684	signal	1	46				
+VMDTQL_117684	outside	47	50				
+//
+# VMDTQL_123061 Length: 38
+# VMDTQL_123061 Number of predicted TMRs: 0
+VMDTQL_123061	inside	1	38				
+//
+# VMDTQL_8110 Length: 27
+# VMDTQL_8110 Number of predicted TMRs: 0
+VMDTQL_8110	signal	1	26				
+VMDTQL_8110	outside	27	27				
+//
+# VMDTQL_131483 Length: 50
+# VMDTQL_131483 Number of predicted TMRs: 0
+VMDTQL_131483	signal	1	49				
+VMDTQL_131483	outside	50	50				
+//
+# VMDTQL_143442 Length: 49
+# VMDTQL_143442 Number of predicted TMRs: 0
+VMDTQL_143442	inside	1	49				
+//
+# VMDTQL_115049 Length: 45
+# VMDTQL_115049 Number of predicted TMRs: 0
+VMDTQL_115049	inside	1	45				
+//
+# VMDTQL_77796 Length: 50
+# VMDTQL_77796 Number of predicted TMRs: 0
+VMDTQL_77796	inside	1	50				
+//
+# VMDTQL_28108 Length: 48
+# VMDTQL_28108 Number of predicted TMRs: 0
+VMDTQL_28108	inside	1	48				
+//
+# VMDTQL_60537 Length: 42
+# VMDTQL_60537 Number of predicted TMRs: 0
+VMDTQL_60537	inside	1	42				
+//
+# VMDTQL_37002 Length: 38
+# VMDTQL_37002 Number of predicted TMRs: 0
+VMDTQL_37002	signal	1	11				
+VMDTQL_37002	outside	12	38				
+//
+# VMDTQL_100495 Length: 38
+# VMDTQL_100495 Number of predicted TMRs: 0
+VMDTQL_100495	inside	1	38				
+//
+# VMDTQL_3097 Length: 38
+# VMDTQL_3097 Number of predicted TMRs: 0
+VMDTQL_3097	inside	1	38				
+//
+# VMDTQL_133548 Length: 50
+# VMDTQL_133548 Number of predicted TMRs: 0
+VMDTQL_133548	signal	1	47				
+VMDTQL_133548	outside	48	50				
+//
+# VMDTQL_36791 Length: 35
+# VMDTQL_36791 Number of predicted TMRs: 0
+VMDTQL_36791	inside	1	35				
+//
+# VMDTQL_10179 Length: 48
+# VMDTQL_10179 Number of predicted TMRs: 0
+VMDTQL_10179	inside	1	48				
+//
+# VMDTQL_18268 Length: 35
+# VMDTQL_18268 Number of predicted TMRs: 0
+VMDTQL_18268	inside	1	35				
+//
+# VMDTQL_134387 Length: 47
+# VMDTQL_134387 Number of predicted TMRs: 0
+VMDTQL_134387	inside	1	47				
+//
+# VMDTQL_120678 Length: 40
+# VMDTQL_120678 Number of predicted TMRs: 0
+VMDTQL_120678	signal	1	38				
+VMDTQL_120678	outside	39	40				
+//
+# VMDTQL_85254 Length: 37
+# VMDTQL_85254 Number of predicted TMRs: 0
+VMDTQL_85254	signal	1	35				
+VMDTQL_85254	outside	36	37				
+//
+# VMDTQL_90941 Length: 48
+# VMDTQL_90941 Number of predicted TMRs: 0
+VMDTQL_90941	signal	1	11				
+VMDTQL_90941	outside	12	48				
+//
+# VMDTQL_169141 Length: 42
+# VMDTQL_169141 Number of predicted TMRs: 0
+VMDTQL_169141	signal	1	23				
+VMDTQL_169141	outside	24	42				
+//
+# VMDTQL_121313 Length: 46
+# VMDTQL_121313 Number of predicted TMRs: 0
+VMDTQL_121313	inside	1	46				
+//
+# VMDTQL_22182 Length: 42
+# VMDTQL_22182 Number of predicted TMRs: 0
+VMDTQL_22182	signal	1	16				
+VMDTQL_22182	outside	17	42				
+//
+# VMDTQL_147290 Length: 50
+# VMDTQL_147290 Number of predicted TMRs: 0
+VMDTQL_147290	inside	1	50				
+//
+# VMDTQL_23445 Length: 45
+# VMDTQL_23445 Number of predicted TMRs: 0
+VMDTQL_23445	inside	1	45				
+//
+# VMDTQL_170123 Length: 47
+# VMDTQL_170123 Number of predicted TMRs: 0
+VMDTQL_170123	inside	1	47				
+//
+# VMDTQL_131926 Length: 39
+# VMDTQL_131926 Number of predicted TMRs: 0
+VMDTQL_131926	inside	1	39				
+//
+# VMDTQL_67028 Length: 41
+# VMDTQL_67028 Number of predicted TMRs: 0
+VMDTQL_67028	inside	1	41				
+//
+# VMDTQL_16507 Length: 43
+# VMDTQL_16507 Number of predicted TMRs: 0
+VMDTQL_16507	inside	1	43				
+//
+# VMDTQL_152222 Length: 50
+# VMDTQL_152222 Number of predicted TMRs: 0
+VMDTQL_152222	inside	1	50				
+//
+# VMDTQL_12320 Length: 43
+# VMDTQL_12320 Number of predicted TMRs: 0
+VMDTQL_12320	signal	1	30				
+VMDTQL_12320	outside	31	43				
+//
+# VMDTQL_93401 Length: 31
+# VMDTQL_93401 Number of predicted TMRs: 0
+VMDTQL_93401	inside	1	31				
+//
+# VMDTQL_135338 Length: 47
+# VMDTQL_135338 Number of predicted TMRs: 0
+VMDTQL_135338	inside	1	47				
+//
+# VMDTQL_31490 Length: 41
+# VMDTQL_31490 Number of predicted TMRs: 0
+VMDTQL_31490	signal	1	10				
+VMDTQL_31490	outside	11	41				
+//
+# VMDTQL_44510 Length: 45
+# VMDTQL_44510 Number of predicted TMRs: 0
+VMDTQL_44510	inside	1	45				
+//
+# VMDTQL_37642 Length: 49
+# VMDTQL_37642 Number of predicted TMRs: 0
+VMDTQL_37642	inside	1	49				
+//
+# VMDTQL_88553 Length: 47
+# VMDTQL_88553 Number of predicted TMRs: 0
+VMDTQL_88553	signal	1	20				
+VMDTQL_88553	outside	21	47				
+//
+# VMDTQL_55455 Length: 44
+# VMDTQL_55455 Number of predicted TMRs: 0
+VMDTQL_55455	signal	1	10				
+VMDTQL_55455	outside	11	44				
+//
+# VMDTQL_105832 Length: 48
+# VMDTQL_105832 Number of predicted TMRs: 0
+VMDTQL_105832	inside	1	48				
+//
+# VMDTQL_36557 Length: 45
+# VMDTQL_36557 Number of predicted TMRs: 0
+VMDTQL_36557	inside	1	45				
+//
+# VMDTQL_110946 Length: 49
+# VMDTQL_110946 Number of predicted TMRs: 0
+VMDTQL_110946	inside	1	49				
+//
+# VMDTQL_29488 Length: 45
+# VMDTQL_29488 Number of predicted TMRs: 0
+VMDTQL_29488	inside	1	45				
+//
+# VMDTQL_143617 Length: 48
+# VMDTQL_143617 Number of predicted TMRs: 0
+VMDTQL_143617	signal	1	46				
+VMDTQL_143617	outside	47	48				
+//
+# VMDTQL_76180 Length: 42
+# VMDTQL_76180 Number of predicted TMRs: 0
+VMDTQL_76180	inside	1	42				
+//
+# VMDTQL_106071 Length: 50
+# VMDTQL_106071 Number of predicted TMRs: 0
+VMDTQL_106071	inside	1	50				
+//
+# VMDTQL_156312 Length: 48
+# VMDTQL_156312 Number of predicted TMRs: 0
+VMDTQL_156312	inside	1	48				
+//
+# VMDTQL_146905 Length: 45
+# VMDTQL_146905 Number of predicted TMRs: 0
+VMDTQL_146905	inside	1	45				
+//
+# VMDTQL_46500 Length: 50
+# VMDTQL_46500 Number of predicted TMRs: 0
+VMDTQL_46500	inside	1	50				
+//
+# VMDTQL_118838 Length: 49
+# VMDTQL_118838 Number of predicted TMRs: 0
+VMDTQL_118838	inside	1	49				
+//
+# VMDTQL_12955 Length: 28
+# VMDTQL_12955 Number of predicted TMRs: 0
+VMDTQL_12955	outside	1	28				
+//
+# VMDTQL_76677 Length: 36
+# VMDTQL_76677 Number of predicted TMRs: 0
+VMDTQL_76677	signal	1	31				
+VMDTQL_76677	outside	32	36				
+//
+# VMDTQL_68600 Length: 37
+# VMDTQL_68600 Number of predicted TMRs: 0
+VMDTQL_68600	signal	1	36				
+VMDTQL_68600	outside	37	37				
+//
+# VMDTQL_144322 Length: 49
+# VMDTQL_144322 Number of predicted TMRs: 0
+VMDTQL_144322	inside	1	49				
+//
+# VMDTQL_16422 Length: 43
+# VMDTQL_16422 Number of predicted TMRs: 0
+VMDTQL_16422	inside	1	43				
+//
+# VMDTQL_16688 Length: 41
+# VMDTQL_16688 Number of predicted TMRs: 0
+VMDTQL_16688	inside	1	41				
+//
+# VMDTQL_152236 Length: 45
+# VMDTQL_152236 Number of predicted TMRs: 0
+VMDTQL_152236	inside	1	45				
+//
+# VMDTQL_35633 Length: 40
+# VMDTQL_35633 Number of predicted TMRs: 0
+VMDTQL_35633	signal	1	35				
+VMDTQL_35633	outside	36	40				
+//
+# VMDTQL_94981 Length: 47
+# VMDTQL_94981 Number of predicted TMRs: 0
+VMDTQL_94981	inside	1	47				
+//
+# VMDTQL_101854 Length: 37
+# VMDTQL_101854 Number of predicted TMRs: 0
+VMDTQL_101854	inside	1	37				
+//
+# VMDTQL_121626 Length: 46
+# VMDTQL_121626 Number of predicted TMRs: 0
+VMDTQL_121626	signal	1	45				
+VMDTQL_121626	outside	46	46				
+//
+# VMDTQL_59458 Length: 47
+# VMDTQL_59458 Number of predicted TMRs: 0
+VMDTQL_59458	inside	1	47				
+//
+# VMDTQL_101238 Length: 45
+# VMDTQL_101238 Number of predicted TMRs: 0
+VMDTQL_101238	inside	1	45				
+//
+# VMDTQL_3991 Length: 42
+# VMDTQL_3991 Number of predicted TMRs: 0
+VMDTQL_3991	inside	1	42				
+//
+# VMDTQL_65356 Length: 40
+# VMDTQL_65356 Number of predicted TMRs: 0
+VMDTQL_65356	inside	1	40				
+//
+# VMDTQL_137424 Length: 37
+# VMDTQL_137424 Number of predicted TMRs: 0
+VMDTQL_137424	signal	1	34				
+VMDTQL_137424	outside	35	37				
+//
+# VMDTQL_20384 Length: 41
+# VMDTQL_20384 Number of predicted TMRs: 0
+VMDTQL_20384	inside	1	41				
+//
+# VMDTQL_111657 Length: 47
+# VMDTQL_111657 Number of predicted TMRs: 0
+VMDTQL_111657	signal	1	35				
+VMDTQL_111657	outside	36	47				
+//
+# VMDTQL_25925 Length: 38
+# VMDTQL_25925 Number of predicted TMRs: 0
+VMDTQL_25925	signal	1	32				
+VMDTQL_25925	outside	33	38				
+//
+# VMDTQL_83813 Length: 49
+# VMDTQL_83813 Number of predicted TMRs: 0
+VMDTQL_83813	inside	1	49				
+//
+# VMDTQL_36602 Length: 49
+# VMDTQL_36602 Number of predicted TMRs: 0
+VMDTQL_36602	inside	1	49				
+//
+# VMDTQL_118460 Length: 50
+# VMDTQL_118460 Number of predicted TMRs: 0
+VMDTQL_118460	signal	1	33				
+VMDTQL_118460	outside	34	50				
+//
+# VMDTQL_82233 Length: 37
+# VMDTQL_82233 Number of predicted TMRs: 0
+VMDTQL_82233	signal	1	19				
+VMDTQL_82233	outside	20	37				
+//
+# VMDTQL_18726 Length: 38
+# VMDTQL_18726 Number of predicted TMRs: 0
+VMDTQL_18726	inside	1	38				
+//
+# VMDTQL_91933 Length: 48
+# VMDTQL_91933 Number of predicted TMRs: 0
+VMDTQL_91933	signal	1	29				
+VMDTQL_91933	outside	30	48				
+//
+# VMDTQL_67905 Length: 42
+# VMDTQL_67905 Number of predicted TMRs: 0
+VMDTQL_67905	inside	1	42				
+//
+# VMDTQL_123040 Length: 50
+# VMDTQL_123040 Number of predicted TMRs: 0
+VMDTQL_123040	inside	1	50				
+//
+# VMDTQL_69018 Length: 45
+# VMDTQL_69018 Number of predicted TMRs: 0
+VMDTQL_69018	inside	1	45				
+//
+# VMDTQL_125519 Length: 50
+# VMDTQL_125519 Number of predicted TMRs: 0
+VMDTQL_125519	signal	1	48				
+VMDTQL_125519	outside	49	50				
+//
+# VMDTQL_101794 Length: 46
+# VMDTQL_101794 Number of predicted TMRs: 0
+VMDTQL_101794	inside	1	46				
+//
+# VMDTQL_133886 Length: 48
+# VMDTQL_133886 Number of predicted TMRs: 0
+VMDTQL_133886	signal	1	44				
+VMDTQL_133886	outside	45	48				
+//
+# VMDTQL_18945 Length: 43
+# VMDTQL_18945 Number of predicted TMRs: 0
+VMDTQL_18945	outside	1	43				
+//
+# VMDTQL_121045 Length: 39
+# VMDTQL_121045 Number of predicted TMRs: 0
+VMDTQL_121045	signal	1	26				
+VMDTQL_121045	outside	27	39				
+//
+# VMDTQL_8115 Length: 49
+# VMDTQL_8115 Number of predicted TMRs: 0
+VMDTQL_8115	signal	1	44				
+VMDTQL_8115	outside	45	49				
+//
+# VMDTQL_73629 Length: 46
+# VMDTQL_73629 Number of predicted TMRs: 0
+VMDTQL_73629	inside	1	46				
+//
+# VMDTQL_10077 Length: 40
+# VMDTQL_10077 Number of predicted TMRs: 0
+VMDTQL_10077	signal	1	34				
+VMDTQL_10077	outside	35	40				
+//
+# VMDTQL_99502 Length: 48
+# VMDTQL_99502 Number of predicted TMRs: 0
+VMDTQL_99502	inside	1	48				
+//
+# VMDTQL_133357 Length: 44
+# VMDTQL_133357 Number of predicted TMRs: 0
+VMDTQL_133357	inside	1	44				
+//
+# VMDTQL_124577 Length: 42
+# VMDTQL_124577 Number of predicted TMRs: 0
+VMDTQL_124577	inside	1	42				
+//
+# VMDTQL_14963 Length: 35
+# VMDTQL_14963 Number of predicted TMRs: 0
+VMDTQL_14963	signal	1	34				
+VMDTQL_14963	outside	35	35				
+//
+# VMDTQL_57521 Length: 48
+# VMDTQL_57521 Number of predicted TMRs: 0
+VMDTQL_57521	inside	1	48				
+//
+# VMDTQL_35002 Length: 49
+# VMDTQL_35002 Number of predicted TMRs: 0
+VMDTQL_35002	signal	1	28				
+VMDTQL_35002	outside	29	49				
+//
+# VMDTQL_99779 Length: 45
+# VMDTQL_99779 Number of predicted TMRs: 0
+VMDTQL_99779	signal	1	15				
+VMDTQL_99779	outside	16	45				
+//
+# VMDTQL_136223 Length: 45
+# VMDTQL_136223 Number of predicted TMRs: 0
+VMDTQL_136223	signal	1	32				
+VMDTQL_136223	outside	33	45				
+//
+# VMDTQL_136226 Length: 38
+# VMDTQL_136226 Number of predicted TMRs: 0
+VMDTQL_136226	signal	1	35				
+VMDTQL_136226	outside	36	38				
+//
+# VMDTQL_38857 Length: 47
+# VMDTQL_38857 Number of predicted TMRs: 0
+VMDTQL_38857	inside	1	47				
+//
+# VMDTQL_137818 Length: 49
+# VMDTQL_137818 Number of predicted TMRs: 0
+VMDTQL_137818	inside	1	49				
+//
+# VMDTQL_168617 Length: 47
+# VMDTQL_168617 Number of predicted TMRs: 0
+VMDTQL_168617	signal	1	45				
+VMDTQL_168617	outside	46	47				
+//
+# VMDTQL_46622 Length: 50
+# VMDTQL_46622 Number of predicted TMRs: 0
+VMDTQL_46622	inside	1	50				
+//
+# VMDTQL_13357 Length: 49
+# VMDTQL_13357 Number of predicted TMRs: 0
+VMDTQL_13357	signal	1	40				
+VMDTQL_13357	outside	41	49				
+//
+# VMDTQL_20767 Length: 48
+# VMDTQL_20767 Number of predicted TMRs: 0
+VMDTQL_20767	inside	1	48				
+//
+# VMDTQL_127838 Length: 48
+# VMDTQL_127838 Number of predicted TMRs: 0
+VMDTQL_127838	inside	1	48				
+//
+# VMDTQL_59268 Length: 49
+# VMDTQL_59268 Number of predicted TMRs: 0
+VMDTQL_59268	inside	1	49				
+//
+# VMDTQL_95305 Length: 46
+# VMDTQL_95305 Number of predicted TMRs: 0
+VMDTQL_95305	inside	1	46				
+//
+# VMDTQL_89367 Length: 48
+# VMDTQL_89367 Number of predicted TMRs: 0
+VMDTQL_89367	signal	1	25				
+VMDTQL_89367	outside	26	48				
+//
+# VMDTQL_93967 Length: 47
+# VMDTQL_93967 Number of predicted TMRs: 0
+VMDTQL_93967	inside	1	47				
+//
+# VMDTQL_116443 Length: 48
+# VMDTQL_116443 Number of predicted TMRs: 0
+VMDTQL_116443	inside	1	48				
+//
+# VMDTQL_7106 Length: 37
+# VMDTQL_7106 Number of predicted TMRs: 0
+VMDTQL_7106	signal	1	35				
+VMDTQL_7106	outside	36	37				
+//
+# VMDTQL_99536 Length: 41
+# VMDTQL_99536 Number of predicted TMRs: 0
+VMDTQL_99536	inside	1	41				
+//
+# VMDTQL_39189 Length: 44
+# VMDTQL_39189 Number of predicted TMRs: 1
+VMDTQL_39189	inside	1	15				
+VMDTQL_39189	TMhelix	16	36				
+VMDTQL_39189	outside	37	44				
+//
+# VMDTQL_169385 Length: 45
+# VMDTQL_169385 Number of predicted TMRs: 0
+VMDTQL_169385	inside	1	45				
+//
+# VMDTQL_143521 Length: 46
+# VMDTQL_143521 Number of predicted TMRs: 0
+VMDTQL_143521	inside	1	46				
+//
+# VMDTQL_30032 Length: 38
+# VMDTQL_30032 Number of predicted TMRs: 0
+VMDTQL_30032	inside	1	38				
+//
+# VMDTQL_139429 Length: 37
+# VMDTQL_139429 Number of predicted TMRs: 0
+VMDTQL_139429	signal	1	29				
+VMDTQL_139429	outside	30	37				
+//
+# VMDTQL_99768 Length: 48
+# VMDTQL_99768 Number of predicted TMRs: 0
+VMDTQL_99768	inside	1	48				
+//
+# VMDTQL_107969 Length: 46
+# VMDTQL_107969 Number of predicted TMRs: 0
+VMDTQL_107969	inside	1	46				
+//
+# VMDTQL_58582 Length: 41
+# VMDTQL_58582 Number of predicted TMRs: 0
+VMDTQL_58582	signal	1	36				
+VMDTQL_58582	outside	37	41				
+//
+# VMDTQL_167501 Length: 50
+# VMDTQL_167501 Number of predicted TMRs: 0
+VMDTQL_167501	inside	1	50				
+//
+# VMDTQL_24389 Length: 37
+# VMDTQL_24389 Number of predicted TMRs: 0
+VMDTQL_24389	inside	1	37				
+//
+# VMDTQL_125680 Length: 50
+# VMDTQL_125680 Number of predicted TMRs: 0
+VMDTQL_125680	signal	1	35				
+VMDTQL_125680	outside	36	50				
+//
+# VMDTQL_144728 Length: 50
+# VMDTQL_144728 Number of predicted TMRs: 0
+VMDTQL_144728	inside	1	50				
+//
+# VMDTQL_121738 Length: 42
+# VMDTQL_121738 Number of predicted TMRs: 0
+VMDTQL_121738	signal	1	24				
+VMDTQL_121738	outside	25	42				
+//
+# VMDTQL_61310 Length: 50
+# VMDTQL_61310 Number of predicted TMRs: 0
+VMDTQL_61310	inside	1	50				
+//
+# VMDTQL_135316 Length: 47
+# VMDTQL_135316 Number of predicted TMRs: 0
+VMDTQL_135316	outside	1	47				
+//
+# VMDTQL_156821 Length: 37
+# VMDTQL_156821 Number of predicted TMRs: 0
+VMDTQL_156821	inside	1	37				
+//
+# VMDTQL_95780 Length: 43
+# VMDTQL_95780 Number of predicted TMRs: 0
+VMDTQL_95780	signal	1	41				
+VMDTQL_95780	outside	42	43				
+//
+# VMDTQL_19105 Length: 42
+# VMDTQL_19105 Number of predicted TMRs: 0
+VMDTQL_19105	inside	1	42				
+//
+# VMDTQL_4072 Length: 44
+# VMDTQL_4072 Number of predicted TMRs: 0
+VMDTQL_4072	inside	1	44				
+//
+# VMDTQL_157151 Length: 44
+# VMDTQL_157151 Number of predicted TMRs: 1
+VMDTQL_157151	outside	1	8				
+VMDTQL_157151	TMhelix	9	29				
+VMDTQL_157151	inside	30	44				
+//
+# VMDTQL_61873 Length: 49
+# VMDTQL_61873 Number of predicted TMRs: 0
+VMDTQL_61873	signal	1	45				
+VMDTQL_61873	outside	46	49				
+//
+# VMDTQL_12660 Length: 40
+# VMDTQL_12660 Number of predicted TMRs: 0
+VMDTQL_12660	inside	1	40				
+//
+# VMDTQL_17709 Length: 48
+# VMDTQL_17709 Number of predicted TMRs: 0
+VMDTQL_17709	signal	1	45				
+VMDTQL_17709	outside	46	48				
+//
+# VMDTQL_88445 Length: 47
+# VMDTQL_88445 Number of predicted TMRs: 0
+VMDTQL_88445	inside	1	47				
+//
+# VMDTQL_162231 Length: 42
+# VMDTQL_162231 Number of predicted TMRs: 0
+VMDTQL_162231	inside	1	42				
+//
+# VMDTQL_158804 Length: 48
+# VMDTQL_158804 Number of predicted TMRs: 0
+VMDTQL_158804	inside	1	48				
+//
+# VMDTQL_120078 Length: 37
+# VMDTQL_120078 Number of predicted TMRs: 0
+VMDTQL_120078	signal	1	25				
+VMDTQL_120078	outside	26	37				
+//
+# VMDTQL_130730 Length: 44
+# VMDTQL_130730 Number of predicted TMRs: 0
+VMDTQL_130730	signal	1	10				
+VMDTQL_130730	outside	11	44				
+//
+# VMDTQL_98205 Length: 36
+# VMDTQL_98205 Number of predicted TMRs: 0
+VMDTQL_98205	signal	1	11				
+VMDTQL_98205	outside	12	36				
+//
+# VMDTQL_168013 Length: 49
+# VMDTQL_168013 Number of predicted TMRs: 0
+VMDTQL_168013	inside	1	49				
+//
+# VMDTQL_168544 Length: 50
+# VMDTQL_168544 Number of predicted TMRs: 0
+VMDTQL_168544	inside	1	50				
+//
+# VMDTQL_168653 Length: 50
+# VMDTQL_168653 Number of predicted TMRs: 0
+VMDTQL_168653	inside	1	50				
+//
+# VMDTQL_148438 Length: 50
+# VMDTQL_148438 Number of predicted TMRs: 0
+VMDTQL_148438	inside	1	50				
+//
+# VMDTQL_140888 Length: 50
+# VMDTQL_140888 Number of predicted TMRs: 0
+VMDTQL_140888	inside	1	50				
+//
+# VMDTQL_39098 Length: 32
+# VMDTQL_39098 Number of predicted TMRs: 0
+VMDTQL_39098	signal	1	31				
+VMDTQL_39098	outside	32	32				
+//
+# VMDTQL_133573 Length: 48
+# VMDTQL_133573 Number of predicted TMRs: 0
+VMDTQL_133573	inside	1	48				
+//
+# VMDTQL_169001 Length: 50
+# VMDTQL_169001 Number of predicted TMRs: 0
+VMDTQL_169001	inside	1	50				
+//
+# VMDTQL_143441 Length: 48
+# VMDTQL_143441 Number of predicted TMRs: 0
+VMDTQL_143441	inside	1	48				
+//
+# VMDTQL_97281 Length: 36
+# VMDTQL_97281 Number of predicted TMRs: 0
+VMDTQL_97281	signal	1	35				
+VMDTQL_97281	outside	36	36				
+//
+# VMDTQL_44493 Length: 43
+# VMDTQL_44493 Number of predicted TMRs: 0
+VMDTQL_44493	signal	1	12				
+VMDTQL_44493	outside	13	43				
+//
+# VMDTQL_114449 Length: 43
+# VMDTQL_114449 Number of predicted TMRs: 0
+VMDTQL_114449	signal	1	28				
+VMDTQL_114449	outside	29	43				
+//
+# VMDTQL_69808 Length: 49
+# VMDTQL_69808 Number of predicted TMRs: 0
+VMDTQL_69808	signal	1	10				
+VMDTQL_69808	outside	11	49				
+//
+# VMDTQL_60289 Length: 47
+# VMDTQL_60289 Number of predicted TMRs: 0
+VMDTQL_60289	inside	1	47				
+//
+# VMDTQL_142641 Length: 48
+# VMDTQL_142641 Number of predicted TMRs: 0
+VMDTQL_142641	signal	1	46				
+VMDTQL_142641	outside	47	48				
+//
+# VMDTQL_123332 Length: 49
+# VMDTQL_123332 Number of predicted TMRs: 0
+VMDTQL_123332	inside	1	49				
+//
+# VMDTQL_62955 Length: 48
+# VMDTQL_62955 Number of predicted TMRs: 0
+VMDTQL_62955	signal	1	38				
+VMDTQL_62955	outside	39	48				
+//
+# VMDTQL_8889 Length: 48
+# VMDTQL_8889 Number of predicted TMRs: 0
+VMDTQL_8889	inside	1	48				
+//
+# VMDTQL_137643 Length: 36
+# VMDTQL_137643 Number of predicted TMRs: 0
+VMDTQL_137643	inside	1	36				
+//
+# VMDTQL_134010 Length: 48
+# VMDTQL_134010 Number of predicted TMRs: 0
+VMDTQL_134010	inside	1	48				
+//
+# VMDTQL_10157 Length: 47
+# VMDTQL_10157 Number of predicted TMRs: 0
+VMDTQL_10157	signal	1	46				
+VMDTQL_10157	outside	47	47				
+//
+# VMDTQL_41329 Length: 41
+# VMDTQL_41329 Number of predicted TMRs: 0
+VMDTQL_41329	signal	1	21				
+VMDTQL_41329	outside	22	41				
+//
+# VMDTQL_132236 Length: 50
+# VMDTQL_132236 Number of predicted TMRs: 0
+VMDTQL_132236	inside	1	50				
+//
+# VMDTQL_86741 Length: 50
+# VMDTQL_86741 Number of predicted TMRs: 0
+VMDTQL_86741	inside	1	50				
+//
+# VMDTQL_167393 Length: 45
+# VMDTQL_167393 Number of predicted TMRs: 0
+VMDTQL_167393	signal	1	39				
+VMDTQL_167393	outside	40	45				
+//
+# VMDTQL_165157 Length: 50
+# VMDTQL_165157 Number of predicted TMRs: 0
+VMDTQL_165157	inside	1	50				
+//
+# VMDTQL_82967 Length: 50
+# VMDTQL_82967 Number of predicted TMRs: 0
+VMDTQL_82967	inside	1	50				
+//
+# VMDTQL_114668 Length: 44
+# VMDTQL_114668 Number of predicted TMRs: 0
+VMDTQL_114668	inside	1	44				
+//
+# VMDTQL_47957 Length: 50
+# VMDTQL_47957 Number of predicted TMRs: 0
+VMDTQL_47957	inside	1	50				
+//
+# VMDTQL_138381 Length: 43
+# VMDTQL_138381 Number of predicted TMRs: 0
+VMDTQL_138381	outside	1	43				
+//
+# VMDTQL_35286 Length: 50
+# VMDTQL_35286 Number of predicted TMRs: 0
+VMDTQL_35286	inside	1	50				
+//
+# VMDTQL_148315 Length: 41
+# VMDTQL_148315 Number of predicted TMRs: 0
+VMDTQL_148315	signal	1	29				
+VMDTQL_148315	outside	30	41				
+//
+# VMDTQL_167304 Length: 46
+# VMDTQL_167304 Number of predicted TMRs: 0
+VMDTQL_167304	signal	1	35				
+VMDTQL_167304	outside	36	46				
+//
+# VMDTQL_6662 Length: 48
+# VMDTQL_6662 Number of predicted TMRs: 0
+VMDTQL_6662	inside	1	48				
+//
+# VMDTQL_11812 Length: 50
+# VMDTQL_11812 Number of predicted TMRs: 0
+VMDTQL_11812	inside	1	50				
+//
+# VMDTQL_33730 Length: 49
+# VMDTQL_33730 Number of predicted TMRs: 0
+VMDTQL_33730	signal	1	46				
+VMDTQL_33730	outside	47	49				
+//
+# VMDTQL_13754 Length: 41
+# VMDTQL_13754 Number of predicted TMRs: 0
+VMDTQL_13754	inside	1	41				
+//
+# VMDTQL_94710 Length: 44
+# VMDTQL_94710 Number of predicted TMRs: 0
+VMDTQL_94710	inside	1	44				
+//
+# VMDTQL_34482 Length: 42
+# VMDTQL_34482 Number of predicted TMRs: 0
+VMDTQL_34482	inside	1	42				
+//
+# VMDTQL_87378 Length: 35
+# VMDTQL_87378 Number of predicted TMRs: 0
+VMDTQL_87378	signal	1	32				
+VMDTQL_87378	outside	33	35				
+//
+# VMDTQL_101724 Length: 48
+# VMDTQL_101724 Number of predicted TMRs: 0
+VMDTQL_101724	inside	1	48				
+//
+# VMDTQL_23101 Length: 46
+# VMDTQL_23101 Number of predicted TMRs: 0
+VMDTQL_23101	inside	1	46				
+//
+# VMDTQL_165215 Length: 43
+# VMDTQL_165215 Number of predicted TMRs: 0
+VMDTQL_165215	inside	1	43				
+//
+# VMDTQL_69798 Length: 39
+# VMDTQL_69798 Number of predicted TMRs: 0
+VMDTQL_69798	inside	1	39				
+//
+# VMDTQL_13979 Length: 33
+# VMDTQL_13979 Number of predicted TMRs: 0
+VMDTQL_13979	inside	1	33				
+//
+# VMDTQL_139397 Length: 43
+# VMDTQL_139397 Number of predicted TMRs: 0
+VMDTQL_139397	signal	1	22				
+VMDTQL_139397	outside	23	43				
+//
+# VMDTQL_16972 Length: 50
+# VMDTQL_16972 Number of predicted TMRs: 0
+VMDTQL_16972	inside	1	50				
+//
+# VMDTQL_126784 Length: 35
+# VMDTQL_126784 Number of predicted TMRs: 0
+VMDTQL_126784	signal	1	32				
+VMDTQL_126784	outside	33	35				
+//
+# VMDTQL_80229 Length: 47
+# VMDTQL_80229 Number of predicted TMRs: 0
+VMDTQL_80229	inside	1	47				
+//
+# VMDTQL_168384 Length: 43
+# VMDTQL_168384 Number of predicted TMRs: 0
+VMDTQL_168384	outside	1	43				
+//
+# VMDTQL_98530 Length: 49
+# VMDTQL_98530 Number of predicted TMRs: 0
+VMDTQL_98530	signal	1	10				
+VMDTQL_98530	outside	11	49				
+//
+# VMDTQL_172601 Length: 47
+# VMDTQL_172601 Number of predicted TMRs: 0
+VMDTQL_172601	signal	1	45				
+VMDTQL_172601	outside	46	47				
+//
+# VMDTQL_8852 Length: 44
+# VMDTQL_8852 Number of predicted TMRs: 0
+VMDTQL_8852	inside	1	44				
+//
+# VMDTQL_131499 Length: 50
+# VMDTQL_131499 Number of predicted TMRs: 0
+VMDTQL_131499	inside	1	50				
+//
+# VMDTQL_100040 Length: 46
+# VMDTQL_100040 Number of predicted TMRs: 0
+VMDTQL_100040	inside	1	46				
+//
+# VMDTQL_17449 Length: 48
+# VMDTQL_17449 Number of predicted TMRs: 0
+VMDTQL_17449	inside	1	48				
+//
+# VMDTQL_97581 Length: 50
+# VMDTQL_97581 Number of predicted TMRs: 0
+VMDTQL_97581	inside	1	50				
+//
+# VMDTQL_113449 Length: 36
+# VMDTQL_113449 Number of predicted TMRs: 0
+VMDTQL_113449	signal	1	28				
+VMDTQL_113449	outside	29	36				
+//
+# VMDTQL_126810 Length: 35
+# VMDTQL_126810 Number of predicted TMRs: 0
+VMDTQL_126810	signal	1	34				
+VMDTQL_126810	outside	35	35				
+//
+# VMDTQL_57250 Length: 45
+# VMDTQL_57250 Number of predicted TMRs: 0
+VMDTQL_57250	signal	1	44				
+VMDTQL_57250	outside	45	45				
+//
+# VMDTQL_38303 Length: 33
+# VMDTQL_38303 Number of predicted TMRs: 0
+VMDTQL_38303	inside	1	33				
+//
+# VMDTQL_95150 Length: 50
+# VMDTQL_95150 Number of predicted TMRs: 0
+VMDTQL_95150	inside	1	50				
+//
+# VMDTQL_146396 Length: 47
+# VMDTQL_146396 Number of predicted TMRs: 0
+VMDTQL_146396	signal	1	10				
+VMDTQL_146396	outside	11	47				
+//
+# VMDTQL_125720 Length: 48
+# VMDTQL_125720 Number of predicted TMRs: 0
+VMDTQL_125720	inside	1	48				
+//
+# VMDTQL_151582 Length: 42
+# VMDTQL_151582 Number of predicted TMRs: 0
+VMDTQL_151582	inside	1	42				
+//
+# VMDTQL_148216 Length: 47
+# VMDTQL_148216 Number of predicted TMRs: 0
+VMDTQL_148216	inside	1	47				
+//
+# VMDTQL_32575 Length: 43
+# VMDTQL_32575 Number of predicted TMRs: 0
+VMDTQL_32575	signal	1	22				
+VMDTQL_32575	outside	23	43				
+//
+# VMDTQL_86663 Length: 45
+# VMDTQL_86663 Number of predicted TMRs: 0
+VMDTQL_86663	signal	1	40				
+VMDTQL_86663	outside	41	45				
+//
+# VMDTQL_26677 Length: 40
+# VMDTQL_26677 Number of predicted TMRs: 0
+VMDTQL_26677	inside	1	40				
+//
+# VMDTQL_18493 Length: 37
+# VMDTQL_18493 Number of predicted TMRs: 0
+VMDTQL_18493	signal	1	24				
+VMDTQL_18493	outside	25	37				
+//
+# VMDTQL_27000 Length: 42
+# VMDTQL_27000 Number of predicted TMRs: 0
+VMDTQL_27000	signal	1	10				
+VMDTQL_27000	outside	11	42				
+//
+# VMDTQL_150260 Length: 48
+# VMDTQL_150260 Number of predicted TMRs: 0
+VMDTQL_150260	inside	1	48				
+//
+# VMDTQL_137833 Length: 48
+# VMDTQL_137833 Number of predicted TMRs: 0
+VMDTQL_137833	inside	1	48				
+//
+# VMDTQL_95420 Length: 46
+# VMDTQL_95420 Number of predicted TMRs: 0
+VMDTQL_95420	signal	1	45				
+VMDTQL_95420	outside	46	46				
+//
+# VMDTQL_136381 Length: 41
+# VMDTQL_136381 Number of predicted TMRs: 0
+VMDTQL_136381	signal	1	10				
+VMDTQL_136381	outside	11	41				
+//
+# VMDTQL_52696 Length: 43
+# VMDTQL_52696 Number of predicted TMRs: 0
+VMDTQL_52696	inside	1	43				
+//
+# VMDTQL_75233 Length: 38
+# VMDTQL_75233 Number of predicted TMRs: 0
+VMDTQL_75233	inside	1	38				
+//
+# VMDTQL_95566 Length: 50
+# VMDTQL_95566 Number of predicted TMRs: 0
+VMDTQL_95566	inside	1	50				
+//
+# VMDTQL_102072 Length: 50
+# VMDTQL_102072 Number of predicted TMRs: 0
+VMDTQL_102072	signal	1	21				
+VMDTQL_102072	outside	22	50				
+//
+# VMDTQL_83655 Length: 42
+# VMDTQL_83655 Number of predicted TMRs: 0
+VMDTQL_83655	inside	1	42				
+//
+# VMDTQL_138431 Length: 34
+# VMDTQL_138431 Number of predicted TMRs: 0
+VMDTQL_138431	inside	1	34				
+//
+# VMDTQL_148911 Length: 45
+# VMDTQL_148911 Number of predicted TMRs: 0
+VMDTQL_148911	outside	1	45				
+//
+# VMDTQL_11083 Length: 43
+# VMDTQL_11083 Number of predicted TMRs: 0
+VMDTQL_11083	signal	1	19				
+VMDTQL_11083	outside	20	43				
+//
+# VMDTQL_76006 Length: 50
+# VMDTQL_76006 Number of predicted TMRs: 0
+VMDTQL_76006	inside	1	50				
+//
+# VMDTQL_39934 Length: 39
+# VMDTQL_39934 Number of predicted TMRs: 0
+VMDTQL_39934	signal	1	38				
+VMDTQL_39934	outside	39	39				
+//
+# VMDTQL_67486 Length: 48
+# VMDTQL_67486 Number of predicted TMRs: 0
+VMDTQL_67486	inside	1	48				
+//
+# VMDTQL_42914 Length: 46
+# VMDTQL_42914 Number of predicted TMRs: 0
+VMDTQL_42914	inside	1	46				
+//
+# VMDTQL_162417 Length: 50
+# VMDTQL_162417 Number of predicted TMRs: 0
+VMDTQL_162417	inside	1	50				
+//
+# VMDTQL_3231 Length: 47
+# VMDTQL_3231 Number of predicted TMRs: 0
+VMDTQL_3231	inside	1	47				
+//
+# VMDTQL_163949 Length: 40
+# VMDTQL_163949 Number of predicted TMRs: 0
+VMDTQL_163949	inside	1	40				
+//
+# VMDTQL_4693 Length: 43
+# VMDTQL_4693 Number of predicted TMRs: 0
+VMDTQL_4693	inside	1	43				
+//
+# VMDTQL_165182 Length: 37
+# VMDTQL_165182 Number of predicted TMRs: 0
+VMDTQL_165182	signal	1	35				
+VMDTQL_165182	outside	36	37				
+//
+# VMDTQL_16343 Length: 50
+# VMDTQL_16343 Number of predicted TMRs: 0
+VMDTQL_16343	inside	1	50				
+//
+# VMDTQL_170234 Length: 39
+# VMDTQL_170234 Number of predicted TMRs: 0
+VMDTQL_170234	signal	1	37				
+VMDTQL_170234	outside	38	39				
+//
+# VMDTQL_96234 Length: 48
+# VMDTQL_96234 Number of predicted TMRs: 0
+VMDTQL_96234	inside	1	48				
+//
+# VMDTQL_72783 Length: 46
+# VMDTQL_72783 Number of predicted TMRs: 0
+VMDTQL_72783	signal	1	28				
+VMDTQL_72783	outside	29	46				
+//
+# VMDTQL_98725 Length: 39
+# VMDTQL_98725 Number of predicted TMRs: 0
+VMDTQL_98725	signal	1	38				
+VMDTQL_98725	outside	39	39				
+//
+# VMDTQL_128460 Length: 46
+# VMDTQL_128460 Number of predicted TMRs: 0
+VMDTQL_128460	inside	1	46				
+//
+# VMDTQL_124976 Length: 49
+# VMDTQL_124976 Number of predicted TMRs: 0
+VMDTQL_124976	inside	1	49				
+//
+# VMDTQL_118422 Length: 50
+# VMDTQL_118422 Number of predicted TMRs: 0
+VMDTQL_118422	inside	1	50				
+//
+# VMDTQL_45219 Length: 45
+# VMDTQL_45219 Number of predicted TMRs: 0
+VMDTQL_45219	inside	1	45				
+//
+# VMDTQL_57921 Length: 46
+# VMDTQL_57921 Number of predicted TMRs: 0
+VMDTQL_57921	inside	1	46				
+//
+# VMDTQL_18847 Length: 45
+# VMDTQL_18847 Number of predicted TMRs: 0
+VMDTQL_18847	signal	1	24				
+VMDTQL_18847	outside	25	45				
+//
+# VMDTQL_14072 Length: 46
+# VMDTQL_14072 Number of predicted TMRs: 0
+VMDTQL_14072	inside	1	46				
+//
+# VMDTQL_115757 Length: 44
+# VMDTQL_115757 Number of predicted TMRs: 0
+VMDTQL_115757	inside	1	44				
+//
+# VMDTQL_38973 Length: 49
+# VMDTQL_38973 Number of predicted TMRs: 0
+VMDTQL_38973	inside	1	49				
+//
+# VMDTQL_117705 Length: 44
+# VMDTQL_117705 Number of predicted TMRs: 0
+VMDTQL_117705	inside	1	44				
+//
+# VMDTQL_146459 Length: 48
+# VMDTQL_146459 Number of predicted TMRs: 0
+VMDTQL_146459	outside	1	48				
+//
+# VMDTQL_41250 Length: 49
+# VMDTQL_41250 Number of predicted TMRs: 0
+VMDTQL_41250	inside	1	49				
+//
+# VMDTQL_93870 Length: 37
+# VMDTQL_93870 Number of predicted TMRs: 0
+VMDTQL_93870	inside	1	37				
+//
+# VMDTQL_34758 Length: 47
+# VMDTQL_34758 Number of predicted TMRs: 0
+VMDTQL_34758	inside	1	47				
+//
+# VMDTQL_150614 Length: 41
+# VMDTQL_150614 Number of predicted TMRs: 0
+VMDTQL_150614	inside	1	41				
+//
+# VMDTQL_89953 Length: 35
+# VMDTQL_89953 Number of predicted TMRs: 0
+VMDTQL_89953	inside	1	35				
+//
+# VMDTQL_57771 Length: 43
+# VMDTQL_57771 Number of predicted TMRs: 0
+VMDTQL_57771	inside	1	43				
+//
+# VMDTQL_93494 Length: 50
+# VMDTQL_93494 Number of predicted TMRs: 0
+VMDTQL_93494	inside	1	50				
+//
+# VMDTQL_101292 Length: 48
+# VMDTQL_101292 Number of predicted TMRs: 0
+VMDTQL_101292	inside	1	48				
+//
+# VMDTQL_85221 Length: 44
+# VMDTQL_85221 Number of predicted TMRs: 0
+VMDTQL_85221	inside	1	44				
+//
+# VMDTQL_79830 Length: 48
+# VMDTQL_79830 Number of predicted TMRs: 0
+VMDTQL_79830	inside	1	48				
+//
+# VMDTQL_149009 Length: 47
+# VMDTQL_149009 Number of predicted TMRs: 0
+VMDTQL_149009	inside	1	47				
+//
+# VMDTQL_152190 Length: 46
+# VMDTQL_152190 Number of predicted TMRs: 0
+VMDTQL_152190	inside	1	46				
+//
+# VMDTQL_35457 Length: 45
+# VMDTQL_35457 Number of predicted TMRs: 0
+VMDTQL_35457	inside	1	45				
+//
+# VMDTQL_49143 Length: 48
+# VMDTQL_49143 Number of predicted TMRs: 0
+VMDTQL_49143	inside	1	48				
+//
+# VMDTQL_6909 Length: 47
+# VMDTQL_6909 Number of predicted TMRs: 0
+VMDTQL_6909	inside	1	47				
+//
+# VMDTQL_156977 Length: 50
+# VMDTQL_156977 Number of predicted TMRs: 0
+VMDTQL_156977	inside	1	50				
+//
+# VMDTQL_86872 Length: 42
+# VMDTQL_86872 Number of predicted TMRs: 0
+VMDTQL_86872	inside	1	42				
+//
+# VMDTQL_10232 Length: 39
+# VMDTQL_10232 Number of predicted TMRs: 0
+VMDTQL_10232	signal	1	38				
+VMDTQL_10232	outside	39	39				
+//
+# VMDTQL_17044 Length: 50
+# VMDTQL_17044 Number of predicted TMRs: 0
+VMDTQL_17044	inside	1	50				
+//
+# VMDTQL_36840 Length: 42
+# VMDTQL_36840 Number of predicted TMRs: 0
+VMDTQL_36840	signal	1	35				
+VMDTQL_36840	outside	36	42				
+//
+# VMDTQL_152740 Length: 49
+# VMDTQL_152740 Number of predicted TMRs: 0
+VMDTQL_152740	inside	1	49				
+//
+# VMDTQL_43503 Length: 39
+# VMDTQL_43503 Number of predicted TMRs: 0
+VMDTQL_43503	inside	1	39				
+//
+# VMDTQL_27119 Length: 48
+# VMDTQL_27119 Number of predicted TMRs: 0
+VMDTQL_27119	inside	1	48				
+//
+# VMDTQL_62986 Length: 50
+# VMDTQL_62986 Number of predicted TMRs: 0
+VMDTQL_62986	inside	1	50				
+//
+# VMDTQL_112247 Length: 50
+# VMDTQL_112247 Number of predicted TMRs: 0
+VMDTQL_112247	inside	1	50				
+//
+# VMDTQL_74062 Length: 50
+# VMDTQL_74062 Number of predicted TMRs: 0
+VMDTQL_74062	signal	1	47				
+VMDTQL_74062	outside	48	50				
+//
+# VMDTQL_101381 Length: 48
+# VMDTQL_101381 Number of predicted TMRs: 0
+VMDTQL_101381	signal	1	44				
+VMDTQL_101381	outside	45	48				
+//
+# VMDTQL_6616 Length: 48
+# VMDTQL_6616 Number of predicted TMRs: 0
+VMDTQL_6616	signal	1	46				
+VMDTQL_6616	outside	47	48				
+//
+# VMDTQL_130584 Length: 31
+# VMDTQL_130584 Number of predicted TMRs: 0
+VMDTQL_130584	inside	1	31				
+//
+# VMDTQL_132523 Length: 49
+# VMDTQL_132523 Number of predicted TMRs: 0
+VMDTQL_132523	inside	1	49				
+//
+# VMDTQL_84828 Length: 42
+# VMDTQL_84828 Number of predicted TMRs: 0
+VMDTQL_84828	signal	1	38				
+VMDTQL_84828	outside	39	42				
+//
+# VMDTQL_84824 Length: 50
+# VMDTQL_84824 Number of predicted TMRs: 0
+VMDTQL_84824	signal	1	12				
+VMDTQL_84824	outside	13	50				
+//
+# VMDTQL_118281 Length: 44
+# VMDTQL_118281 Number of predicted TMRs: 0
+VMDTQL_118281	inside	1	44				
+//
+# VMDTQL_163907 Length: 41
+# VMDTQL_163907 Number of predicted TMRs: 0
+VMDTQL_163907	inside	1	41				
+//
+# VMDTQL_65798 Length: 48
+# VMDTQL_65798 Number of predicted TMRs: 0
+VMDTQL_65798	inside	1	48				
+//
+# VMDTQL_96146 Length: 43
+# VMDTQL_96146 Number of predicted TMRs: 0
+VMDTQL_96146	inside	1	43				
+//
+# VMDTQL_105247 Length: 47
+# VMDTQL_105247 Number of predicted TMRs: 0
+VMDTQL_105247	inside	1	47				
+//
+# VMDTQL_84470 Length: 43
+# VMDTQL_84470 Number of predicted TMRs: 0
+VMDTQL_84470	inside	1	43				
+//
+# VMDTQL_47666 Length: 48
+# VMDTQL_47666 Number of predicted TMRs: 0
+VMDTQL_47666	inside	1	48				
+//
+# VMDTQL_27146 Length: 47
+# VMDTQL_27146 Number of predicted TMRs: 0
+VMDTQL_27146	signal	1	41				
+VMDTQL_27146	outside	42	47				
+//
+# VMDTQL_106661 Length: 48
+# VMDTQL_106661 Number of predicted TMRs: 0
+VMDTQL_106661	inside	1	48				
+//
+# VMDTQL_18470 Length: 50
+# VMDTQL_18470 Number of predicted TMRs: 0
+VMDTQL_18470	outside	1	50				
+//
+# VMDTQL_44993 Length: 33
+# VMDTQL_44993 Number of predicted TMRs: 0
+VMDTQL_44993	inside	1	33				
+//
+# VMDTQL_108028 Length: 47
+# VMDTQL_108028 Number of predicted TMRs: 0
+VMDTQL_108028	signal	1	17				
+VMDTQL_108028	outside	18	47				
+//
+# VMDTQL_124253 Length: 50
+# VMDTQL_124253 Number of predicted TMRs: 0
+VMDTQL_124253	inside	1	50				
+//
+# VMDTQL_64085 Length: 33
+# VMDTQL_64085 Number of predicted TMRs: 0
+VMDTQL_64085	signal	1	32				
+VMDTQL_64085	outside	33	33				
+//
+# VMDTQL_60638 Length: 33
+# VMDTQL_60638 Number of predicted TMRs: 0
+VMDTQL_60638	signal	1	25				
+VMDTQL_60638	outside	26	33				
+//
+# VMDTQL_4389 Length: 33
+# VMDTQL_4389 Number of predicted TMRs: 0
+VMDTQL_4389	inside	1	33				
+//
+# VMDTQL_131861 Length: 33
+# VMDTQL_131861 Number of predicted TMRs: 0
+VMDTQL_131861	inside	1	33				
+//
+# VMDTQL_97742 Length: 34
+# VMDTQL_97742 Number of predicted TMRs: 0
+VMDTQL_97742	signal	1	30				
+VMDTQL_97742	outside	31	34				
+//
+# VMDTQL_34661 Length: 45
+# VMDTQL_34661 Number of predicted TMRs: 0
+VMDTQL_34661	inside	1	45				
+//
+# VMDTQL_66131 Length: 33
+# VMDTQL_66131 Number of predicted TMRs: 0
+VMDTQL_66131	signal	1	14				
+VMDTQL_66131	outside	15	33				
+//
+# VMDTQL_132379 Length: 39
+# VMDTQL_132379 Number of predicted TMRs: 0
+VMDTQL_132379	signal	1	38				
+VMDTQL_132379	outside	39	39				
+//
+# VMDTQL_38598 Length: 48
+# VMDTQL_38598 Number of predicted TMRs: 0
+VMDTQL_38598	signal	1	40				
+VMDTQL_38598	outside	41	48				
+//
+# VMDTQL_130083 Length: 50
+# VMDTQL_130083 Number of predicted TMRs: 0
+VMDTQL_130083	inside	1	50				
+//
+# VMDTQL_10723 Length: 48
+# VMDTQL_10723 Number of predicted TMRs: 0
+VMDTQL_10723	signal	1	46				
+VMDTQL_10723	outside	47	48				
+//
+# VMDTQL_167598 Length: 47
+# VMDTQL_167598 Number of predicted TMRs: 0
+VMDTQL_167598	inside	1	47				
+//
+# VMDTQL_127938 Length: 45
+# VMDTQL_127938 Number of predicted TMRs: 0
+VMDTQL_127938	inside	1	45				
+//
+# VMDTQL_102247 Length: 49
+# VMDTQL_102247 Number of predicted TMRs: 0
+VMDTQL_102247	inside	1	49				
+//
+# VMDTQL_26999 Length: 48
+# VMDTQL_26999 Number of predicted TMRs: 0
+VMDTQL_26999	inside	1	48				
+//
+# VMDTQL_126066 Length: 49
+# VMDTQL_126066 Number of predicted TMRs: 0
+VMDTQL_126066	inside	1	49				
+//
+# VMDTQL_121789 Length: 40
+# VMDTQL_121789 Number of predicted TMRs: 0
+VMDTQL_121789	signal	1	39				
+VMDTQL_121789	outside	40	40				
+//
+# VMDTQL_93230 Length: 48
+# VMDTQL_93230 Number of predicted TMRs: 0
+VMDTQL_93230	inside	1	48				
+//
+# VMDTQL_84662 Length: 41
+# VMDTQL_84662 Number of predicted TMRs: 0
+VMDTQL_84662	inside	1	41				
+//
+# VMDTQL_72413 Length: 49
+# VMDTQL_72413 Number of predicted TMRs: 0
+VMDTQL_72413	inside	1	49				
+//
+# VMDTQL_132588 Length: 45
+# VMDTQL_132588 Number of predicted TMRs: 0
+VMDTQL_132588	signal	1	16				
+VMDTQL_132588	outside	17	45				
+//
+# VMDTQL_75115 Length: 45
+# VMDTQL_75115 Number of predicted TMRs: 0
+VMDTQL_75115	inside	1	45				
+//
+# VMDTQL_148732 Length: 47
+# VMDTQL_148732 Number of predicted TMRs: 0
+VMDTQL_148732	inside	1	47				
+//
+# VMDTQL_9156 Length: 46
+# VMDTQL_9156 Number of predicted TMRs: 0
+VMDTQL_9156	inside	1	46				
+//
+# VMDTQL_19417 Length: 46
+# VMDTQL_19417 Number of predicted TMRs: 0
+VMDTQL_19417	inside	1	46				
+//
+# VMDTQL_19203 Length: 46
+# VMDTQL_19203 Number of predicted TMRs: 0
+VMDTQL_19203	inside	1	46				
+//
+# VMDTQL_27662 Length: 50
+# VMDTQL_27662 Number of predicted TMRs: 0
+VMDTQL_27662	signal	1	35				
+VMDTQL_27662	outside	36	50				
+//
+# VMDTQL_3442 Length: 42
+# VMDTQL_3442 Number of predicted TMRs: 0
+VMDTQL_3442	signal	1	41				
+VMDTQL_3442	outside	42	42				
+//
+# VMDTQL_74022 Length: 41
+# VMDTQL_74022 Number of predicted TMRs: 0
+VMDTQL_74022	inside	1	41				
+//
+# VMDTQL_67979 Length: 42
+# VMDTQL_67979 Number of predicted TMRs: 0
+VMDTQL_67979	signal	1	10				
+VMDTQL_67979	outside	11	42				
+//
+# VMDTQL_2507 Length: 47
+# VMDTQL_2507 Number of predicted TMRs: 0
+VMDTQL_2507	inside	1	47				
+//
+# VMDTQL_96245 Length: 43
+# VMDTQL_96245 Number of predicted TMRs: 0
+VMDTQL_96245	signal	1	19				
+VMDTQL_96245	outside	20	43				
+//
+# VMDTQL_13311 Length: 46
+# VMDTQL_13311 Number of predicted TMRs: 0
+VMDTQL_13311	inside	1	46				
+//
+# VMDTQL_95311 Length: 38
+# VMDTQL_95311 Number of predicted TMRs: 0
+VMDTQL_95311	signal	1	25				
+VMDTQL_95311	outside	26	38				
+//
+# VMDTQL_102013 Length: 48
+# VMDTQL_102013 Number of predicted TMRs: 0
+VMDTQL_102013	outside	1	48				
+//
+# VMDTQL_114257 Length: 43
+# VMDTQL_114257 Number of predicted TMRs: 0
+VMDTQL_114257	signal	1	42				
+VMDTQL_114257	outside	43	43				
+//
+# VMDTQL_9736 Length: 45
+# VMDTQL_9736 Number of predicted TMRs: 0
+VMDTQL_9736	inside	1	45				
+//
+# VMDTQL_138210 Length: 42
+# VMDTQL_138210 Number of predicted TMRs: 0
+VMDTQL_138210	inside	1	42				
+//
+# VMDTQL_164420 Length: 44
+# VMDTQL_164420 Number of predicted TMRs: 0
+VMDTQL_164420	inside	1	44				
+//
+# VMDTQL_114807 Length: 48
+# VMDTQL_114807 Number of predicted TMRs: 0
+VMDTQL_114807	inside	1	48				
+//
+# VMDTQL_148846 Length: 43
+# VMDTQL_148846 Number of predicted TMRs: 0
+VMDTQL_148846	inside	1	43				
+//
+# VMDTQL_53009 Length: 50
+# VMDTQL_53009 Number of predicted TMRs: 0
+VMDTQL_53009	inside	1	50				
+//
+# VMDTQL_126530 Length: 47
+# VMDTQL_126530 Number of predicted TMRs: 0
+VMDTQL_126530	inside	1	47				
+//
+# VMDTQL_6920 Length: 49
+# VMDTQL_6920 Number of predicted TMRs: 0
+VMDTQL_6920	signal	1	32				
+VMDTQL_6920	outside	33	49				
+//
+# VMDTQL_35354 Length: 49
+# VMDTQL_35354 Number of predicted TMRs: 0
+VMDTQL_35354	signal	1	47				
+VMDTQL_35354	outside	48	49				
+//
+# VMDTQL_90942 Length: 45
+# VMDTQL_90942 Number of predicted TMRs: 0
+VMDTQL_90942	signal	1	40				
+VMDTQL_90942	outside	41	45				
+//
+# VMDTQL_65380 Length: 26
+# VMDTQL_65380 Number of predicted TMRs: 0
+VMDTQL_65380	inside	1	26				
+//
+# VMDTQL_98269 Length: 27
+# VMDTQL_98269 Number of predicted TMRs: 0
+VMDTQL_98269	inside	1	27				
+//
+# VMDTQL_89827 Length: 48
+# VMDTQL_89827 Number of predicted TMRs: 0
+VMDTQL_89827	inside	1	48				
+//
+# VMDTQL_149008 Length: 47
+# VMDTQL_149008 Number of predicted TMRs: 0
+VMDTQL_149008	inside	1	47				
+//
+# VMDTQL_135633 Length: 49
+# VMDTQL_135633 Number of predicted TMRs: 0
+VMDTQL_135633	inside	1	49				
+//
+# VMDTQL_131150 Length: 40
+# VMDTQL_131150 Number of predicted TMRs: 0
+VMDTQL_131150	signal	1	39				
+VMDTQL_131150	outside	40	40				
+//
+# VMDTQL_60739 Length: 46
+# VMDTQL_60739 Number of predicted TMRs: 0
+VMDTQL_60739	inside	1	46				
+//
+# VMDTQL_36764 Length: 47
+# VMDTQL_36764 Number of predicted TMRs: 0
+VMDTQL_36764	inside	1	47				
+//
+# VMDTQL_171402 Length: 39
+# VMDTQL_171402 Number of predicted TMRs: 0
+VMDTQL_171402	inside	1	39				
+//
+# VMDTQL_119710 Length: 43
+# VMDTQL_119710 Number of predicted TMRs: 0
+VMDTQL_119710	signal	1	18				
+VMDTQL_119710	outside	19	43				
+//
+# VMDTQL_123261 Length: 43
+# VMDTQL_123261 Number of predicted TMRs: 0
+VMDTQL_123261	signal	1	20				
+VMDTQL_123261	outside	21	43				
+//
+# VMDTQL_135065 Length: 38
+# VMDTQL_135065 Number of predicted TMRs: 0
+VMDTQL_135065	inside	1	38				
+//
+# VMDTQL_10992 Length: 50
+# VMDTQL_10992 Number of predicted TMRs: 0
+VMDTQL_10992	inside	1	50				
+//
+# VMDTQL_51115 Length: 47
+# VMDTQL_51115 Number of predicted TMRs: 0
+VMDTQL_51115	inside	1	47				
+//
+# VMDTQL_92796 Length: 39
+# VMDTQL_92796 Number of predicted TMRs: 0
+VMDTQL_92796	outside	1	39				
+//
+# VMDTQL_83170 Length: 44
+# VMDTQL_83170 Number of predicted TMRs: 0
+VMDTQL_83170	inside	1	44				
+//
+# VMDTQL_135709 Length: 46
+# VMDTQL_135709 Number of predicted TMRs: 0
+VMDTQL_135709	inside	1	46				
+//
+# VMDTQL_128224 Length: 50
+# VMDTQL_128224 Number of predicted TMRs: 0
+VMDTQL_128224	inside	1	50				
+//
+# VMDTQL_130289 Length: 49
+# VMDTQL_130289 Number of predicted TMRs: 0
+VMDTQL_130289	inside	1	49				
+//
+# VMDTQL_7620 Length: 34
+# VMDTQL_7620 Number of predicted TMRs: 0
+VMDTQL_7620	outside	1	34				
+//
+# VMDTQL_52470 Length: 50
+# VMDTQL_52470 Number of predicted TMRs: 0
+VMDTQL_52470	inside	1	50				
+//
+# VMDTQL_89721 Length: 48
+# VMDTQL_89721 Number of predicted TMRs: 0
+VMDTQL_89721	signal	1	24				
+VMDTQL_89721	outside	25	48				
+//
+# VMDTQL_116110 Length: 48
+# VMDTQL_116110 Number of predicted TMRs: 0
+VMDTQL_116110	inside	1	48				
+//
+# VMDTQL_137014 Length: 40
+# VMDTQL_137014 Number of predicted TMRs: 0
+VMDTQL_137014	inside	1	40				
+//
+# VMDTQL_21300 Length: 48
+# VMDTQL_21300 Number of predicted TMRs: 0
+VMDTQL_21300	inside	1	48				
+//
+# VMDTQL_114867 Length: 45
+# VMDTQL_114867 Number of predicted TMRs: 0
+VMDTQL_114867	inside	1	45				
+//
+# VMDTQL_106871 Length: 46
+# VMDTQL_106871 Number of predicted TMRs: 0
+VMDTQL_106871	inside	1	46				
+//
+# VMDTQL_152354 Length: 49
+# VMDTQL_152354 Number of predicted TMRs: 0
+VMDTQL_152354	outside	1	49				
+//
+# VMDTQL_142505 Length: 44
+# VMDTQL_142505 Number of predicted TMRs: 0
+VMDTQL_142505	inside	1	44				
+//
+# VMDTQL_172197 Length: 50
+# VMDTQL_172197 Number of predicted TMRs: 0
+VMDTQL_172197	inside	1	50				
+//
+# VMDTQL_47556 Length: 31
+# VMDTQL_47556 Number of predicted TMRs: 0
+VMDTQL_47556	signal	1	30				
+VMDTQL_47556	outside	31	31				
+//
+# VMDTQL_169264 Length: 49
+# VMDTQL_169264 Number of predicted TMRs: 0
+VMDTQL_169264	inside	1	49				
+//
+# VMDTQL_118068 Length: 45
+# VMDTQL_118068 Number of predicted TMRs: 0
+VMDTQL_118068	inside	1	45				
+//
+# VMDTQL_170081 Length: 39
+# VMDTQL_170081 Number of predicted TMRs: 0
+VMDTQL_170081	signal	1	37				
+VMDTQL_170081	outside	38	39				
+//
+# VMDTQL_140220 Length: 45
+# VMDTQL_140220 Number of predicted TMRs: 0
+VMDTQL_140220	inside	1	45				
+//
+# VMDTQL_121226 Length: 49
+# VMDTQL_121226 Number of predicted TMRs: 0
+VMDTQL_121226	signal	1	47				
+VMDTQL_121226	outside	48	49				
+//
+# VMDTQL_21263 Length: 46
+# VMDTQL_21263 Number of predicted TMRs: 0
+VMDTQL_21263	inside	1	46				
+//
+# VMDTQL_122829 Length: 50
+# VMDTQL_122829 Number of predicted TMRs: 0
+VMDTQL_122829	inside	1	50				
+//
+# VMDTQL_12386 Length: 49
+# VMDTQL_12386 Number of predicted TMRs: 0
+VMDTQL_12386	inside	1	49				
+//
+# VMDTQL_90755 Length: 44
+# VMDTQL_90755 Number of predicted TMRs: 0
+VMDTQL_90755	signal	1	10				
+VMDTQL_90755	outside	11	44				
+//
+# VMDTQL_90406 Length: 42
+# VMDTQL_90406 Number of predicted TMRs: 0
+VMDTQL_90406	inside	1	42				
+//
+# VMDTQL_7640 Length: 49
+# VMDTQL_7640 Number of predicted TMRs: 0
+VMDTQL_7640	inside	1	49				
+//
+# VMDTQL_124256 Length: 45
+# VMDTQL_124256 Number of predicted TMRs: 0
+VMDTQL_124256	inside	1	45				
+//
+# VMDTQL_86564 Length: 50
+# VMDTQL_86564 Number of predicted TMRs: 0
+VMDTQL_86564	inside	1	50				
+//
+# VMDTQL_102659 Length: 40
+# VMDTQL_102659 Number of predicted TMRs: 0
+VMDTQL_102659	inside	1	40				
+//
+# VMDTQL_114515 Length: 46
+# VMDTQL_114515 Number of predicted TMRs: 0
+VMDTQL_114515	inside	1	46				
+//
+# VMDTQL_100375 Length: 47
+# VMDTQL_100375 Number of predicted TMRs: 0
+VMDTQL_100375	inside	1	47				
+//
+# VMDTQL_167398 Length: 33
+# VMDTQL_167398 Number of predicted TMRs: 0
+VMDTQL_167398	signal	1	26				
+VMDTQL_167398	outside	27	33				
+//
+# VMDTQL_153938 Length: 43
+# VMDTQL_153938 Number of predicted TMRs: 0
+VMDTQL_153938	signal	1	15				
+VMDTQL_153938	outside	16	43				
+//
+# VMDTQL_73086 Length: 37
+# VMDTQL_73086 Number of predicted TMRs: 0
+VMDTQL_73086	signal	1	35				
+VMDTQL_73086	outside	36	37				
+//
+# VMDTQL_170095 Length: 48
+# VMDTQL_170095 Number of predicted TMRs: 0
+VMDTQL_170095	inside	1	48				
+//
+# VMDTQL_6373 Length: 42
+# VMDTQL_6373 Number of predicted TMRs: 0
+VMDTQL_6373	inside	1	42				
+//
+# VMDTQL_19909 Length: 48
+# VMDTQL_19909 Number of predicted TMRs: 0
+VMDTQL_19909	outside	1	48				
+//
+# VMDTQL_60741 Length: 50
+# VMDTQL_60741 Number of predicted TMRs: 0
+VMDTQL_60741	inside	1	50				
+//
+# VMDTQL_127089 Length: 39
+# VMDTQL_127089 Number of predicted TMRs: 0
+VMDTQL_127089	outside	1	39				
+//
+# VMDTQL_167052 Length: 42
+# VMDTQL_167052 Number of predicted TMRs: 1
+VMDTQL_167052	outside	1	11				
+VMDTQL_167052	TMhelix	12	28				
+VMDTQL_167052	inside	29	42				
+//
+# VMDTQL_3629 Length: 46
+# VMDTQL_3629 Number of predicted TMRs: 0
+VMDTQL_3629	signal	1	45				
+VMDTQL_3629	outside	46	46				
+//
+# VMDTQL_17113 Length: 45
+# VMDTQL_17113 Number of predicted TMRs: 0
+VMDTQL_17113	signal	1	40				
+VMDTQL_17113	outside	41	45				
+//
+# VMDTQL_7010 Length: 49
+# VMDTQL_7010 Number of predicted TMRs: 0
+VMDTQL_7010	signal	1	44				
+VMDTQL_7010	outside	45	49				
+//
+# VMDTQL_130513 Length: 47
+# VMDTQL_130513 Number of predicted TMRs: 0
+VMDTQL_130513	inside	1	47				
+//
+# VMDTQL_143112 Length: 38
+# VMDTQL_143112 Number of predicted TMRs: 0
+VMDTQL_143112	signal	1	37				
+VMDTQL_143112	outside	38	38				
+//
+# VMDTQL_160167 Length: 43
+# VMDTQL_160167 Number of predicted TMRs: 0
+VMDTQL_160167	outside	1	43				
+//
+# VMDTQL_80239 Length: 46
+# VMDTQL_80239 Number of predicted TMRs: 0
+VMDTQL_80239	inside	1	46				
+//
+# VMDTQL_59012 Length: 48
+# VMDTQL_59012 Number of predicted TMRs: 0
+VMDTQL_59012	signal	1	11				
+VMDTQL_59012	outside	12	48				
+//
+# VMDTQL_46928 Length: 40
+# VMDTQL_46928 Number of predicted TMRs: 0
+VMDTQL_46928	inside	1	40				
+//
+# VMDTQL_118205 Length: 46
+# VMDTQL_118205 Number of predicted TMRs: 0
+VMDTQL_118205	inside	1	46				
+//
+# VMDTQL_169271 Length: 49
+# VMDTQL_169271 Number of predicted TMRs: 0
+VMDTQL_169271	inside	1	49				
+//
+# VMDTQL_82171 Length: 48
+# VMDTQL_82171 Number of predicted TMRs: 0
+VMDTQL_82171	signal	1	20				
+VMDTQL_82171	outside	21	48				
+//
+# VMDTQL_144483 Length: 39
+# VMDTQL_144483 Number of predicted TMRs: 0
+VMDTQL_144483	signal	1	35				
+VMDTQL_144483	outside	36	39				
+//
+# VMDTQL_16481 Length: 48
+# VMDTQL_16481 Number of predicted TMRs: 0
+VMDTQL_16481	inside	1	48				
+//
+# VMDTQL_61305 Length: 46
+# VMDTQL_61305 Number of predicted TMRs: 0
+VMDTQL_61305	signal	1	38				
+VMDTQL_61305	outside	39	46				
+//
+# VMDTQL_71806 Length: 44
+# VMDTQL_71806 Number of predicted TMRs: 0
+VMDTQL_71806	inside	1	44				
+//
+# VMDTQL_112602 Length: 48
+# VMDTQL_112602 Number of predicted TMRs: 0
+VMDTQL_112602	signal	1	10				
+VMDTQL_112602	outside	11	48				
+//
+# VMDTQL_50110 Length: 46
+# VMDTQL_50110 Number of predicted TMRs: 0
+VMDTQL_50110	signal	1	28				
+VMDTQL_50110	outside	29	46				
+//
+# VMDTQL_63101 Length: 41
+# VMDTQL_63101 Number of predicted TMRs: 0
+VMDTQL_63101	inside	1	41				
+//
+# VMDTQL_166718 Length: 44
+# VMDTQL_166718 Number of predicted TMRs: 0
+VMDTQL_166718	inside	1	44				
+//
+# VMDTQL_167581 Length: 50
+# VMDTQL_167581 Number of predicted TMRs: 0
+VMDTQL_167581	inside	1	50				
+//
+# VMDTQL_164214 Length: 50
+# VMDTQL_164214 Number of predicted TMRs: 0
+VMDTQL_164214	inside	1	50				
+//
+# VMDTQL_69108 Length: 45
+# VMDTQL_69108 Number of predicted TMRs: 0
+VMDTQL_69108	signal	1	44				
+VMDTQL_69108	outside	45	45				
+//
+# VMDTQL_93705 Length: 45
+# VMDTQL_93705 Number of predicted TMRs: 0
+VMDTQL_93705	inside	1	45				
+//
+# VMDTQL_29032 Length: 47
+# VMDTQL_29032 Number of predicted TMRs: 0
+VMDTQL_29032	signal	1	12				
+VMDTQL_29032	outside	13	47				
+//
+# VMDTQL_142086 Length: 33
+# VMDTQL_142086 Number of predicted TMRs: 0
+VMDTQL_142086	outside	1	33				
+//
+# VMDTQL_35870 Length: 38
+# VMDTQL_35870 Number of predicted TMRs: 0
+VMDTQL_35870	inside	1	38				
+//
+# VMDTQL_127541 Length: 49
+# VMDTQL_127541 Number of predicted TMRs: 0
+VMDTQL_127541	signal	1	11				
+VMDTQL_127541	outside	12	49				
+//
+# VMDTQL_145016 Length: 45
+# VMDTQL_145016 Number of predicted TMRs: 0
+VMDTQL_145016	signal	1	44				
+VMDTQL_145016	outside	45	45				
+//
+# VMDTQL_8503 Length: 47
+# VMDTQL_8503 Number of predicted TMRs: 0
+VMDTQL_8503	signal	1	41				
+VMDTQL_8503	outside	42	47				
+//
+# VMDTQL_134465 Length: 43
+# VMDTQL_134465 Number of predicted TMRs: 0
+VMDTQL_134465	inside	1	43				
+//
+# VMDTQL_88598 Length: 45
+# VMDTQL_88598 Number of predicted TMRs: 0
+VMDTQL_88598	inside	1	45				
+//
+# VMDTQL_15782 Length: 47
+# VMDTQL_15782 Number of predicted TMRs: 0
+VMDTQL_15782	inside	1	47				
+//
+# VMDTQL_94781 Length: 36
+# VMDTQL_94781 Number of predicted TMRs: 0
+VMDTQL_94781	signal	1	31				
+VMDTQL_94781	outside	32	36				
+//
+# VMDTQL_46085 Length: 43
+# VMDTQL_46085 Number of predicted TMRs: 0
+VMDTQL_46085	inside	1	43				
+//
+# VMDTQL_106767 Length: 45
+# VMDTQL_106767 Number of predicted TMRs: 0
+VMDTQL_106767	signal	1	44				
+VMDTQL_106767	outside	45	45				
+//
+# VMDTQL_122169 Length: 43
+# VMDTQL_122169 Number of predicted TMRs: 0
+VMDTQL_122169	inside	1	43				
+//
+# VMDTQL_74491 Length: 47
+# VMDTQL_74491 Number of predicted TMRs: 0
+VMDTQL_74491	inside	1	47				
+//
+# VMDTQL_53700 Length: 48
+# VMDTQL_53700 Number of predicted TMRs: 0
+VMDTQL_53700	inside	1	48				
+//
+# VMDTQL_53697 Length: 48
+# VMDTQL_53697 Number of predicted TMRs: 0
+VMDTQL_53697	outside	1	48				
+//
+# VMDTQL_107165 Length: 45
+# VMDTQL_107165 Number of predicted TMRs: 0
+VMDTQL_107165	signal	1	20				
+VMDTQL_107165	outside	21	45				
+//
+# VMDTQL_157315 Length: 49
+# VMDTQL_157315 Number of predicted TMRs: 1
+VMDTQL_157315	inside	1	21				
+VMDTQL_157315	TMhelix	22	42				
+VMDTQL_157315	outside	43	49				
+//
+# VMDTQL_44576 Length: 47
+# VMDTQL_44576 Number of predicted TMRs: 0
+VMDTQL_44576	signal	1	10				
+VMDTQL_44576	outside	11	47				
+//
+# VMDTQL_45160 Length: 45
+# VMDTQL_45160 Number of predicted TMRs: 0
+VMDTQL_45160	inside	1	45				
+//
+# VMDTQL_85016 Length: 46
+# VMDTQL_85016 Number of predicted TMRs: 0
+VMDTQL_85016	outside	1	46				
+//
+# VMDTQL_35327 Length: 49
+# VMDTQL_35327 Number of predicted TMRs: 0
+VMDTQL_35327	inside	1	49				
+//
+# VMDTQL_64331 Length: 44
+# VMDTQL_64331 Number of predicted TMRs: 0
+VMDTQL_64331	inside	1	44				
+//
+# VMDTQL_125416 Length: 48
+# VMDTQL_125416 Number of predicted TMRs: 0
+VMDTQL_125416	signal	1	47				
+VMDTQL_125416	outside	48	48				
+//
+# VMDTQL_49031 Length: 37
+# VMDTQL_49031 Number of predicted TMRs: 0
+VMDTQL_49031	inside	1	37				
+//
+# VMDTQL_101683 Length: 46
+# VMDTQL_101683 Number of predicted TMRs: 0
+VMDTQL_101683	inside	1	46				
+//
+# VMDTQL_169328 Length: 49
+# VMDTQL_169328 Number of predicted TMRs: 0
+VMDTQL_169328	inside	1	49				
+//
+# VMDTQL_96867 Length: 44
+# VMDTQL_96867 Number of predicted TMRs: 0
+VMDTQL_96867	signal	1	43				
+VMDTQL_96867	outside	44	44				
+//
+# VMDTQL_56175 Length: 46
+# VMDTQL_56175 Number of predicted TMRs: 0
+VMDTQL_56175	signal	1	13				
+VMDTQL_56175	outside	14	46				
+//
+# VMDTQL_29111 Length: 43
+# VMDTQL_29111 Number of predicted TMRs: 0
+VMDTQL_29111	inside	1	43				
+//
+# VMDTQL_62425 Length: 35
+# VMDTQL_62425 Number of predicted TMRs: 0
+VMDTQL_62425	inside	1	35				
+//
+# VMDTQL_91973 Length: 50
+# VMDTQL_91973 Number of predicted TMRs: 0
+VMDTQL_91973	signal	1	18				
+VMDTQL_91973	outside	19	50				
+//
+# VMDTQL_13921 Length: 41
+# VMDTQL_13921 Number of predicted TMRs: 0
+VMDTQL_13921	inside	1	41				
+//
+# VMDTQL_22975 Length: 44
+# VMDTQL_22975 Number of predicted TMRs: 0
+VMDTQL_22975	inside	1	44				
+//
+# VMDTQL_25869 Length: 40
+# VMDTQL_25869 Number of predicted TMRs: 0
+VMDTQL_25869	inside	1	40				
+//
+# VMDTQL_95848 Length: 48
+# VMDTQL_95848 Number of predicted TMRs: 0
+VMDTQL_95848	outside	1	48				
+//
+# VMDTQL_93155 Length: 43
+# VMDTQL_93155 Number of predicted TMRs: 0
+VMDTQL_93155	inside	1	43				
+//
+# VMDTQL_144316 Length: 48
+# VMDTQL_144316 Number of predicted TMRs: 0
+VMDTQL_144316	signal	1	17				
+VMDTQL_144316	outside	18	48				
+//
+# VMDTQL_89609 Length: 50
+# VMDTQL_89609 Number of predicted TMRs: 0
+VMDTQL_89609	inside	1	50				
+//
+# VMDTQL_39378 Length: 48
+# VMDTQL_39378 Number of predicted TMRs: 0
+VMDTQL_39378	inside	1	48				
+//
+# VMDTQL_146412 Length: 47
+# VMDTQL_146412 Number of predicted TMRs: 0
+VMDTQL_146412	inside	1	47				
+//
+# VMDTQL_99769 Length: 44
+# VMDTQL_99769 Number of predicted TMRs: 0
+VMDTQL_99769	inside	1	44				
+//
+# VMDTQL_38785 Length: 50
+# VMDTQL_38785 Number of predicted TMRs: 0
+VMDTQL_38785	inside	1	50				
+//
+# VMDTQL_39066 Length: 50
+# VMDTQL_39066 Number of predicted TMRs: 0
+VMDTQL_39066	inside	1	50				
+//
+# VMDTQL_134095 Length: 41
+# VMDTQL_134095 Number of predicted TMRs: 0
+VMDTQL_134095	signal	1	32				
+VMDTQL_134095	outside	33	41				
+//
+# VMDTQL_130815 Length: 50
+# VMDTQL_130815 Number of predicted TMRs: 0
+VMDTQL_130815	signal	1	39				
+VMDTQL_130815	outside	40	50				
+//
+# VMDTQL_65679 Length: 50
+# VMDTQL_65679 Number of predicted TMRs: 0
+VMDTQL_65679	inside	1	50				
+//
+# VMDTQL_110905 Length: 45
+# VMDTQL_110905 Number of predicted TMRs: 0
+VMDTQL_110905	signal	1	43				
+VMDTQL_110905	outside	44	45				
+//
+# VMDTQL_10120 Length: 33
+# VMDTQL_10120 Number of predicted TMRs: 0
+VMDTQL_10120	signal	1	15				
+VMDTQL_10120	outside	16	33				
+//
+# VMDTQL_134181 Length: 44
+# VMDTQL_134181 Number of predicted TMRs: 0
+VMDTQL_134181	signal	1	28				
+VMDTQL_134181	outside	29	44				
+//
+# VMDTQL_80975 Length: 44
+# VMDTQL_80975 Number of predicted TMRs: 0
+VMDTQL_80975	inside	1	44				
+//
+# VMDTQL_126528 Length: 49
+# VMDTQL_126528 Number of predicted TMRs: 0
+VMDTQL_126528	signal	1	34				
+VMDTQL_126528	outside	35	49				
+//
+# VMDTQL_120933 Length: 50
+# VMDTQL_120933 Number of predicted TMRs: 0
+VMDTQL_120933	inside	1	50				
+//
+# VMDTQL_103100 Length: 44
+# VMDTQL_103100 Number of predicted TMRs: 0
+VMDTQL_103100	inside	1	44				
+//
+# VMDTQL_9180 Length: 50
+# VMDTQL_9180 Number of predicted TMRs: 0
+VMDTQL_9180	inside	1	50				
+//
+# VMDTQL_13062 Length: 48
+# VMDTQL_13062 Number of predicted TMRs: 0
+VMDTQL_13062	inside	1	48				
+//
+# VMDTQL_61577 Length: 47
+# VMDTQL_61577 Number of predicted TMRs: 0
+VMDTQL_61577	inside	1	47				
+//
+# VMDTQL_99163 Length: 49
+# VMDTQL_99163 Number of predicted TMRs: 0
+VMDTQL_99163	outside	1	49				
+//
+# VMDTQL_81800 Length: 47
+# VMDTQL_81800 Number of predicted TMRs: 0
+VMDTQL_81800	inside	1	47				
+//
+# VMDTQL_114289 Length: 40
+# VMDTQL_114289 Number of predicted TMRs: 0
+VMDTQL_114289	inside	1	40				
+//
+# VMDTQL_58420 Length: 50
+# VMDTQL_58420 Number of predicted TMRs: 0
+VMDTQL_58420	signal	1	29				
+VMDTQL_58420	outside	30	50				
+//
+# VMDTQL_61429 Length: 43
+# VMDTQL_61429 Number of predicted TMRs: 0
+VMDTQL_61429	inside	1	43				
+//
+# VMDTQL_76228 Length: 40
+# VMDTQL_76228 Number of predicted TMRs: 0
+VMDTQL_76228	signal	1	26				
+VMDTQL_76228	outside	27	40				
+//
+# VMDTQL_93404 Length: 41
+# VMDTQL_93404 Number of predicted TMRs: 0
+VMDTQL_93404	signal	1	28				
+VMDTQL_93404	outside	29	41				
+//
+# VMDTQL_2902 Length: 50
+# VMDTQL_2902 Number of predicted TMRs: 0
+VMDTQL_2902	signal	1	13				
+VMDTQL_2902	outside	14	50				
+//
+# VMDTQL_148933 Length: 47
+# VMDTQL_148933 Number of predicted TMRs: 0
+VMDTQL_148933	signal	1	27				
+VMDTQL_148933	outside	28	47				
+//
+# VMDTQL_155585 Length: 47
+# VMDTQL_155585 Number of predicted TMRs: 0
+VMDTQL_155585	signal	1	38				
+VMDTQL_155585	outside	39	47				
+//
+# VMDTQL_67066 Length: 47
+# VMDTQL_67066 Number of predicted TMRs: 0
+VMDTQL_67066	signal	1	38				
+VMDTQL_67066	outside	39	47				
+//
+# VMDTQL_81871 Length: 46
+# VMDTQL_81871 Number of predicted TMRs: 0
+VMDTQL_81871	signal	1	15				
+VMDTQL_81871	outside	16	46				
+//
+# VMDTQL_19890 Length: 43
+# VMDTQL_19890 Number of predicted TMRs: 0
+VMDTQL_19890	signal	1	12				
+VMDTQL_19890	outside	13	43				
+//
+# VMDTQL_149066 Length: 46
+# VMDTQL_149066 Number of predicted TMRs: 0
+VMDTQL_149066	inside	1	46				
+//
+# VMDTQL_4972 Length: 50
+# VMDTQL_4972 Number of predicted TMRs: 0
+VMDTQL_4972	inside	1	50				
+//
+# VMDTQL_122133 Length: 49
+# VMDTQL_122133 Number of predicted TMRs: 0
+VMDTQL_122133	inside	1	49				
+//
+# VMDTQL_88257 Length: 49
+# VMDTQL_88257 Number of predicted TMRs: 0
+VMDTQL_88257	inside	1	49				
+//
+# VMDTQL_66804 Length: 47
+# VMDTQL_66804 Number of predicted TMRs: 0
+VMDTQL_66804	inside	1	47				
+//
+# VMDTQL_14299 Length: 47
+# VMDTQL_14299 Number of predicted TMRs: 0
+VMDTQL_14299	signal	1	15				
+VMDTQL_14299	outside	16	47				
+//
+# VMDTQL_121391 Length: 50
+# VMDTQL_121391 Number of predicted TMRs: 0
+VMDTQL_121391	signal	1	26				
+VMDTQL_121391	outside	27	50				
+//
+# VMDTQL_56053 Length: 50
+# VMDTQL_56053 Number of predicted TMRs: 0
+VMDTQL_56053	signal	1	10				
+VMDTQL_56053	outside	11	50				
+//
+# VMDTQL_136449 Length: 34
+# VMDTQL_136449 Number of predicted TMRs: 0
+VMDTQL_136449	inside	1	34				
+//
+# VMDTQL_110217 Length: 49
+# VMDTQL_110217 Number of predicted TMRs: 0
+VMDTQL_110217	inside	1	49				
+//
+# VMDTQL_6233 Length: 43
+# VMDTQL_6233 Number of predicted TMRs: 0
+VMDTQL_6233	inside	1	43				
+//
+# VMDTQL_3657 Length: 50
+# VMDTQL_3657 Number of predicted TMRs: 0
+VMDTQL_3657	inside	1	50				
+//
+# VMDTQL_97106 Length: 36
+# VMDTQL_97106 Number of predicted TMRs: 0
+VMDTQL_97106	inside	1	36				
+//
+# VMDTQL_29780 Length: 47
+# VMDTQL_29780 Number of predicted TMRs: 0
+VMDTQL_29780	inside	1	47				
+//
+# VMDTQL_115651 Length: 48
+# VMDTQL_115651 Number of predicted TMRs: 0
+VMDTQL_115651	inside	1	48				
+//
+# VMDTQL_112129 Length: 39
+# VMDTQL_112129 Number of predicted TMRs: 0
+VMDTQL_112129	signal	1	38				
+VMDTQL_112129	outside	39	39				
+//
+# VMDTQL_28637 Length: 30
+# VMDTQL_28637 Number of predicted TMRs: 0
+VMDTQL_28637	signal	1	29				
+VMDTQL_28637	outside	30	30				
+//
+# VMDTQL_107186 Length: 42
+# VMDTQL_107186 Number of predicted TMRs: 0
+VMDTQL_107186	inside	1	42				
+//
+# VMDTQL_35452 Length: 40
+# VMDTQL_35452 Number of predicted TMRs: 0
+VMDTQL_35452	inside	1	40				
+//
+# VMDTQL_118569 Length: 49
+# VMDTQL_118569 Number of predicted TMRs: 0
+VMDTQL_118569	inside	1	49				
+//
+# VMDTQL_129697 Length: 48
+# VMDTQL_129697 Number of predicted TMRs: 0
+VMDTQL_129697	inside	1	48				
+//
+# VMDTQL_138005 Length: 47
+# VMDTQL_138005 Number of predicted TMRs: 0
+VMDTQL_138005	signal	1	10				
+VMDTQL_138005	outside	11	47				
+//
+# VMDTQL_97695 Length: 48
+# VMDTQL_97695 Number of predicted TMRs: 0
+VMDTQL_97695	signal	1	17				
+VMDTQL_97695	outside	18	48				
+//
+# VMDTQL_99242 Length: 46
+# VMDTQL_99242 Number of predicted TMRs: 0
+VMDTQL_99242	inside	1	46				
+//
+# VMDTQL_52614 Length: 49
+# VMDTQL_52614 Number of predicted TMRs: 0
+VMDTQL_52614	inside	1	49				
+//
+# VMDTQL_24540 Length: 49
+# VMDTQL_24540 Number of predicted TMRs: 0
+VMDTQL_24540	inside	1	49				
+//
+# VMDTQL_138716 Length: 47
+# VMDTQL_138716 Number of predicted TMRs: 0
+VMDTQL_138716	signal	1	39				
+VMDTQL_138716	outside	40	47				
+//
+# VMDTQL_116742 Length: 49
+# VMDTQL_116742 Number of predicted TMRs: 0
+VMDTQL_116742	inside	1	49				
+//
+# VMDTQL_83140 Length: 46
+# VMDTQL_83140 Number of predicted TMRs: 0
+VMDTQL_83140	inside	1	46				
+//
+# VMDTQL_16185 Length: 38
+# VMDTQL_16185 Number of predicted TMRs: 0
+VMDTQL_16185	inside	1	38				
+//
+# VMDTQL_125233 Length: 46
+# VMDTQL_125233 Number of predicted TMRs: 0
+VMDTQL_125233	signal	1	15				
+VMDTQL_125233	outside	16	46				
+//
+# VMDTQL_38001 Length: 47
+# VMDTQL_38001 Number of predicted TMRs: 0
+VMDTQL_38001	signal	1	34				
+VMDTQL_38001	outside	35	47				
+//
+# VMDTQL_56024 Length: 31
+# VMDTQL_56024 Number of predicted TMRs: 0
+VMDTQL_56024	signal	1	30				
+VMDTQL_56024	outside	31	31				
+//
+# VMDTQL_121254 Length: 45
+# VMDTQL_121254 Number of predicted TMRs: 0
+VMDTQL_121254	signal	1	25				
+VMDTQL_121254	outside	26	45				
+//
+# VMDTQL_172077 Length: 46
+# VMDTQL_172077 Number of predicted TMRs: 0
+VMDTQL_172077	signal	1	14				
+VMDTQL_172077	outside	15	46				
+//
+# VMDTQL_19317 Length: 28
+# VMDTQL_19317 Number of predicted TMRs: 0
+VMDTQL_19317	signal	1	25				
+VMDTQL_19317	outside	26	28				
+//
+# VMDTQL_108667 Length: 42
+# VMDTQL_108667 Number of predicted TMRs: 0
+VMDTQL_108667	signal	1	37				
+VMDTQL_108667	outside	38	42				
+//
+# VMDTQL_16181 Length: 48
+# VMDTQL_16181 Number of predicted TMRs: 0
+VMDTQL_16181	inside	1	48				
+//
+# VMDTQL_47835 Length: 42
+# VMDTQL_47835 Number of predicted TMRs: 0
+VMDTQL_47835	signal	1	13				
+VMDTQL_47835	outside	14	42				
+//
+# VMDTQL_122461 Length: 49
+# VMDTQL_122461 Number of predicted TMRs: 0
+VMDTQL_122461	inside	1	49				
+//
+# VMDTQL_71210 Length: 38
+# VMDTQL_71210 Number of predicted TMRs: 0
+VMDTQL_71210	inside	1	38				
+//
+# VMDTQL_73657 Length: 33
+# VMDTQL_73657 Number of predicted TMRs: 0
+VMDTQL_73657	signal	1	21				
+VMDTQL_73657	outside	22	33				
+//
+# VMDTQL_105569 Length: 49
+# VMDTQL_105569 Number of predicted TMRs: 0
+VMDTQL_105569	inside	1	49				
+//
+# VMDTQL_170954 Length: 48
+# VMDTQL_170954 Number of predicted TMRs: 0
+VMDTQL_170954	inside	1	48				
+//
+# VMDTQL_52988 Length: 39
+# VMDTQL_52988 Number of predicted TMRs: 0
+VMDTQL_52988	outside	1	39				
+//
+# VMDTQL_18256 Length: 44
+# VMDTQL_18256 Number of predicted TMRs: 0
+VMDTQL_18256	inside	1	44				
+//
+# VMDTQL_44831 Length: 45
+# VMDTQL_44831 Number of predicted TMRs: 0
+VMDTQL_44831	inside	1	45				
+//
+# VMDTQL_2440 Length: 49
+# VMDTQL_2440 Number of predicted TMRs: 0
+VMDTQL_2440	inside	1	49				
+//
+# VMDTQL_127034 Length: 48
+# VMDTQL_127034 Number of predicted TMRs: 0
+VMDTQL_127034	inside	1	48				
+//
+# VMDTQL_43039 Length: 41
+# VMDTQL_43039 Number of predicted TMRs: 0
+VMDTQL_43039	signal	1	35				
+VMDTQL_43039	outside	36	41				
+//
+# VMDTQL_103231 Length: 48
+# VMDTQL_103231 Number of predicted TMRs: 0
+VMDTQL_103231	signal	1	27				
+VMDTQL_103231	outside	28	48				
+//
+# VMDTQL_167776 Length: 47
+# VMDTQL_167776 Number of predicted TMRs: 0
+VMDTQL_167776	inside	1	47				
+//
+# VMDTQL_1546 Length: 48
+# VMDTQL_1546 Number of predicted TMRs: 0
+VMDTQL_1546	signal	1	39				
+VMDTQL_1546	outside	40	48				
+//
+# VMDTQL_167546 Length: 36
+# VMDTQL_167546 Number of predicted TMRs: 0
+VMDTQL_167546	signal	1	35				
+VMDTQL_167546	outside	36	36				
+//
+# VMDTQL_130370 Length: 38
+# VMDTQL_130370 Number of predicted TMRs: 0
+VMDTQL_130370	inside	1	38				
+//
+# VMDTQL_10438 Length: 44
+# VMDTQL_10438 Number of predicted TMRs: 0
+VMDTQL_10438	inside	1	44				
+//
+# VMDTQL_16003 Length: 45
+# VMDTQL_16003 Number of predicted TMRs: 0
+VMDTQL_16003	inside	1	45				
+//
+# VMDTQL_147212 Length: 46
+# VMDTQL_147212 Number of predicted TMRs: 0
+VMDTQL_147212	signal	1	44				
+VMDTQL_147212	outside	45	46				
+//
+# VMDTQL_71875 Length: 48
+# VMDTQL_71875 Number of predicted TMRs: 0
+VMDTQL_71875	inside	1	48				
+//
+# VMDTQL_82593 Length: 45
+# VMDTQL_82593 Number of predicted TMRs: 0
+VMDTQL_82593	signal	1	44				
+VMDTQL_82593	outside	45	45				
+//
+# VMDTQL_19913 Length: 47
+# VMDTQL_19913 Number of predicted TMRs: 0
+VMDTQL_19913	inside	1	47				
+//
+# VMDTQL_53701 Length: 48
+# VMDTQL_53701 Number of predicted TMRs: 0
+VMDTQL_53701	inside	1	48				
+//
+# VMDTQL_53707 Length: 48
+# VMDTQL_53707 Number of predicted TMRs: 0
+VMDTQL_53707	inside	1	48				
+//
+# VMDTQL_19537 Length: 50
+# VMDTQL_19537 Number of predicted TMRs: 0
+VMDTQL_19537	inside	1	50				
+//
+# VMDTQL_78815 Length: 49
+# VMDTQL_78815 Number of predicted TMRs: 0
+VMDTQL_78815	inside	1	49				
+//
+# VMDTQL_133404 Length: 34
+# VMDTQL_133404 Number of predicted TMRs: 0
+VMDTQL_133404	signal	1	24				
+VMDTQL_133404	outside	25	34				
+//
+# VMDTQL_11589 Length: 40
+# VMDTQL_11589 Number of predicted TMRs: 0
+VMDTQL_11589	signal	1	39				
+VMDTQL_11589	outside	40	40				
+//
+# VMDTQL_104321 Length: 40
+# VMDTQL_104321 Number of predicted TMRs: 0
+VMDTQL_104321	inside	1	40				
+//
+# VMDTQL_2183 Length: 45
+# VMDTQL_2183 Number of predicted TMRs: 0
+VMDTQL_2183	signal	1	35				
+VMDTQL_2183	outside	36	45				
+//
+# VMDTQL_34825 Length: 50
+# VMDTQL_34825 Number of predicted TMRs: 0
+VMDTQL_34825	inside	1	50				
+//
+# VMDTQL_23623 Length: 49
+# VMDTQL_23623 Number of predicted TMRs: 0
+VMDTQL_23623	signal	1	22				
+VMDTQL_23623	outside	23	49				
+//
+# VMDTQL_11230 Length: 39
+# VMDTQL_11230 Number of predicted TMRs: 0
+VMDTQL_11230	signal	1	38				
+VMDTQL_11230	outside	39	39				
+//
+# VMDTQL_123324 Length: 43
+# VMDTQL_123324 Number of predicted TMRs: 0
+VMDTQL_123324	inside	1	43				
+//
+# VMDTQL_17745 Length: 40
+# VMDTQL_17745 Number of predicted TMRs: 0
+VMDTQL_17745	signal	1	30				
+VMDTQL_17745	outside	31	40				
+//
+# VMDTQL_48224 Length: 48
+# VMDTQL_48224 Number of predicted TMRs: 0
+VMDTQL_48224	inside	1	48				
+//
+# VMDTQL_71456 Length: 41
+# VMDTQL_71456 Number of predicted TMRs: 0
+VMDTQL_71456	inside	1	41				
+//
+# VMDTQL_75706 Length: 42
+# VMDTQL_75706 Number of predicted TMRs: 0
+VMDTQL_75706	inside	1	42				
+//
+# VMDTQL_19655 Length: 46
+# VMDTQL_19655 Number of predicted TMRs: 0
+VMDTQL_19655	inside	1	46				
+//
+# VMDTQL_77187 Length: 43
+# VMDTQL_77187 Number of predicted TMRs: 0
+VMDTQL_77187	inside	1	43				
+//
+# VMDTQL_138713 Length: 48
+# VMDTQL_138713 Number of predicted TMRs: 0
+VMDTQL_138713	outside	1	48				
+//
+# VMDTQL_40521 Length: 46
+# VMDTQL_40521 Number of predicted TMRs: 0
+VMDTQL_40521	signal	1	27				
+VMDTQL_40521	outside	28	46				
+//
+# VMDTQL_116526 Length: 40
+# VMDTQL_116526 Number of predicted TMRs: 0
+VMDTQL_116526	signal	1	15				
+VMDTQL_116526	outside	16	40				
+//
+# VMDTQL_82026 Length: 49
+# VMDTQL_82026 Number of predicted TMRs: 0
+VMDTQL_82026	inside	1	49				
+//
+# VMDTQL_27220 Length: 43
+# VMDTQL_27220 Number of predicted TMRs: 0
+VMDTQL_27220	inside	1	43				
+//
+# VMDTQL_15867 Length: 47
+# VMDTQL_15867 Number of predicted TMRs: 0
+VMDTQL_15867	outside	1	47				
+//
+# VMDTQL_142434 Length: 45
+# VMDTQL_142434 Number of predicted TMRs: 0
+VMDTQL_142434	inside	1	45				
+//
+# VMDTQL_71954 Length: 45
+# VMDTQL_71954 Number of predicted TMRs: 0
+VMDTQL_71954	signal	1	43				
+VMDTQL_71954	outside	44	45				
+//
+# VMDTQL_18266 Length: 48
+# VMDTQL_18266 Number of predicted TMRs: 0
+VMDTQL_18266	signal	1	41				
+VMDTQL_18266	outside	42	48				
+//
+# VMDTQL_44333 Length: 40
+# VMDTQL_44333 Number of predicted TMRs: 0
+VMDTQL_44333	inside	1	40				
+//
+# VMDTQL_33407 Length: 46
+# VMDTQL_33407 Number of predicted TMRs: 0
+VMDTQL_33407	signal	1	37				
+VMDTQL_33407	outside	38	46				
+//
+# VMDTQL_48688 Length: 47
+# VMDTQL_48688 Number of predicted TMRs: 0
+VMDTQL_48688	inside	1	47				
+//
+# VMDTQL_30107 Length: 42
+# VMDTQL_30107 Number of predicted TMRs: 0
+VMDTQL_30107	inside	1	42				
+//
+# VMDTQL_156391 Length: 44
+# VMDTQL_156391 Number of predicted TMRs: 0
+VMDTQL_156391	signal	1	39				
+VMDTQL_156391	outside	40	44				
+//
+# VMDTQL_90424 Length: 48
+# VMDTQL_90424 Number of predicted TMRs: 0
+VMDTQL_90424	inside	1	48				
+//
+# VMDTQL_26179 Length: 34
+# VMDTQL_26179 Number of predicted TMRs: 0
+VMDTQL_26179	inside	1	34				
+//
+# VMDTQL_147897 Length: 47
+# VMDTQL_147897 Number of predicted TMRs: 0
+VMDTQL_147897	signal	1	41				
+VMDTQL_147897	outside	42	47				
+//
+# VMDTQL_163455 Length: 49
+# VMDTQL_163455 Number of predicted TMRs: 0
+VMDTQL_163455	signal	1	44				
+VMDTQL_163455	outside	45	49				
+//
+# VMDTQL_123250 Length: 48
+# VMDTQL_123250 Number of predicted TMRs: 0
+VMDTQL_123250	inside	1	48				
+//
+# VMDTQL_26633 Length: 41
+# VMDTQL_26633 Number of predicted TMRs: 0
+VMDTQL_26633	inside	1	41				
+//
+# VMDTQL_57961 Length: 45
+# VMDTQL_57961 Number of predicted TMRs: 0
+VMDTQL_57961	inside	1	45				
+//
+# VMDTQL_129498 Length: 33
+# VMDTQL_129498 Number of predicted TMRs: 0
+VMDTQL_129498	inside	1	33				
+//
+# VMDTQL_20940 Length: 38
+# VMDTQL_20940 Number of predicted TMRs: 0
+VMDTQL_20940	signal	1	37				
+VMDTQL_20940	outside	38	38				
+//
+# VMDTQL_38427 Length: 40
+# VMDTQL_38427 Number of predicted TMRs: 0
+VMDTQL_38427	signal	1	35				
+VMDTQL_38427	outside	36	40				
+//
+# VMDTQL_80729 Length: 48
+# VMDTQL_80729 Number of predicted TMRs: 0
+VMDTQL_80729	inside	1	48				
+//
+# VMDTQL_86484 Length: 47
+# VMDTQL_86484 Number of predicted TMRs: 0
+VMDTQL_86484	outside	1	47				
+//
+# VMDTQL_87872 Length: 48
+# VMDTQL_87872 Number of predicted TMRs: 0
+VMDTQL_87872	inside	1	48				
+//
+# VMDTQL_9504 Length: 39
+# VMDTQL_9504 Number of predicted TMRs: 0
+VMDTQL_9504	signal	1	38				
+VMDTQL_9504	outside	39	39				
+//
+# VMDTQL_122603 Length: 42
+# VMDTQL_122603 Number of predicted TMRs: 0
+VMDTQL_122603	inside	1	42				
+//
+# VMDTQL_84987 Length: 48
+# VMDTQL_84987 Number of predicted TMRs: 0
+VMDTQL_84987	inside	1	48				
+//
+# VMDTQL_36426 Length: 42
+# VMDTQL_36426 Number of predicted TMRs: 0
+VMDTQL_36426	inside	1	42				
+//
+# VMDTQL_33760 Length: 48
+# VMDTQL_33760 Number of predicted TMRs: 0
+VMDTQL_33760	inside	1	48				
+//
+# VMDTQL_33057 Length: 48
+# VMDTQL_33057 Number of predicted TMRs: 0
+VMDTQL_33057	inside	1	48				
+//
+# VMDTQL_162826 Length: 49
+# VMDTQL_162826 Number of predicted TMRs: 0
+VMDTQL_162826	inside	1	49				
+//
+# VMDTQL_49104 Length: 50
+# VMDTQL_49104 Number of predicted TMRs: 0
+VMDTQL_49104	signal	1	23				
+VMDTQL_49104	outside	24	50				
+//
+# VMDTQL_24998 Length: 41
+# VMDTQL_24998 Number of predicted TMRs: 0
+VMDTQL_24998	inside	1	41				
+//
+# VMDTQL_144492 Length: 49
+# VMDTQL_144492 Number of predicted TMRs: 0
+VMDTQL_144492	inside	1	49				
+//
+# VMDTQL_84863 Length: 45
+# VMDTQL_84863 Number of predicted TMRs: 0
+VMDTQL_84863	inside	1	45				
+//
+# VMDTQL_51175 Length: 49
+# VMDTQL_51175 Number of predicted TMRs: 0
+VMDTQL_51175	inside	1	49				
+//
+# VMDTQL_59054 Length: 41
+# VMDTQL_59054 Number of predicted TMRs: 0
+VMDTQL_59054	inside	1	41				
+//
+# VMDTQL_92291 Length: 47
+# VMDTQL_92291 Number of predicted TMRs: 0
+VMDTQL_92291	signal	1	46				
+VMDTQL_92291	periplasm	47	47				
+//
+# VMDTQL_151004 Length: 47
+# VMDTQL_151004 Number of predicted TMRs: 0
+VMDTQL_151004	signal	1	22				
+VMDTQL_151004	outside	23	47				
+//
+# VMDTQL_138796 Length: 44
+# VMDTQL_138796 Number of predicted TMRs: 0
+VMDTQL_138796	signal	1	37				
+VMDTQL_138796	outside	38	44				
+//
+# VMDTQL_12867 Length: 38
+# VMDTQL_12867 Number of predicted TMRs: 0
+VMDTQL_12867	outside	1	38				
+//
+# VMDTQL_4660 Length: 47
+# VMDTQL_4660 Number of predicted TMRs: 0
+VMDTQL_4660	inside	1	47				
+//
+# VMDTQL_46722 Length: 48
+# VMDTQL_46722 Number of predicted TMRs: 0
+VMDTQL_46722	inside	1	48				
+//
+# VMDTQL_139816 Length: 40
+# VMDTQL_139816 Number of predicted TMRs: 0
+VMDTQL_139816	signal	1	26				
+VMDTQL_139816	outside	27	40				
+//
+# VMDTQL_3784 Length: 28
+# VMDTQL_3784 Number of predicted TMRs: 0
+VMDTQL_3784	signal	1	11				
+VMDTQL_3784	outside	12	28				
+//
+# VMDTQL_167986 Length: 48
+# VMDTQL_167986 Number of predicted TMRs: 0
+VMDTQL_167986	outside	1	48				
+//
+# VMDTQL_166161 Length: 39
+# VMDTQL_166161 Number of predicted TMRs: 0
+VMDTQL_166161	outside	1	39				
+//
+# VMDTQL_144394 Length: 49
+# VMDTQL_144394 Number of predicted TMRs: 0
+VMDTQL_144394	inside	1	49				
+//
+# VMDTQL_75626 Length: 36
+# VMDTQL_75626 Number of predicted TMRs: 0
+VMDTQL_75626	inside	1	36				
+//
+# VMDTQL_46161 Length: 50
+# VMDTQL_46161 Number of predicted TMRs: 0
+VMDTQL_46161	signal	1	48				
+VMDTQL_46161	outside	49	50				
+//
+# VMDTQL_120279 Length: 50
+# VMDTQL_120279 Number of predicted TMRs: 0
+VMDTQL_120279	inside	1	50				
+//
+# VMDTQL_120059 Length: 48
+# VMDTQL_120059 Number of predicted TMRs: 0
+VMDTQL_120059	inside	1	48				
+//
+# VMDTQL_103114 Length: 46
+# VMDTQL_103114 Number of predicted TMRs: 0
+VMDTQL_103114	inside	1	46				
+//
+# VMDTQL_72212 Length: 37
+# VMDTQL_72212 Number of predicted TMRs: 0
+VMDTQL_72212	signal	1	15				
+VMDTQL_72212	outside	16	37				
+//
+# VMDTQL_1396 Length: 49
+# VMDTQL_1396 Number of predicted TMRs: 0
+VMDTQL_1396	signal	1	13				
+VMDTQL_1396	outside	14	49				
+//
+# VMDTQL_99150 Length: 50
+# VMDTQL_99150 Number of predicted TMRs: 0
+VMDTQL_99150	signal	1	35				
+VMDTQL_99150	outside	36	50				
+//
+# VMDTQL_39913 Length: 49
+# VMDTQL_39913 Number of predicted TMRs: 0
+VMDTQL_39913	inside	1	49				
+//
+# VMDTQL_62075 Length: 44
+# VMDTQL_62075 Number of predicted TMRs: 0
+VMDTQL_62075	signal	1	43				
+VMDTQL_62075	outside	44	44				
+//
+# VMDTQL_116509 Length: 48
+# VMDTQL_116509 Number of predicted TMRs: 0
+VMDTQL_116509	inside	1	48				
+//
+# VMDTQL_141720 Length: 33
+# VMDTQL_141720 Number of predicted TMRs: 0
+VMDTQL_141720	signal	1	21				
+VMDTQL_141720	outside	22	33				
+//
+# VMDTQL_142357 Length: 36
+# VMDTQL_142357 Number of predicted TMRs: 0
+VMDTQL_142357	inside	1	36				
+//
+# VMDTQL_12363 Length: 49
+# VMDTQL_12363 Number of predicted TMRs: 0
+VMDTQL_12363	outside	1	49				
+//
+# VMDTQL_113548 Length: 47
+# VMDTQL_113548 Number of predicted TMRs: 0
+VMDTQL_113548	inside	1	47				
+//
+# VMDTQL_123808 Length: 37
+# VMDTQL_123808 Number of predicted TMRs: 0
+VMDTQL_123808	inside	1	37				
+//
+# VMDTQL_90061 Length: 50
+# VMDTQL_90061 Number of predicted TMRs: 0
+VMDTQL_90061	inside	1	50				
+//
+# VMDTQL_110428 Length: 50
+# VMDTQL_110428 Number of predicted TMRs: 0
+VMDTQL_110428	signal	1	43				
+VMDTQL_110428	outside	44	50				
+//
+# VMDTQL_100110 Length: 43
+# VMDTQL_100110 Number of predicted TMRs: 0
+VMDTQL_100110	inside	1	43				
+//
+# VMDTQL_66896 Length: 36
+# VMDTQL_66896 Number of predicted TMRs: 0
+VMDTQL_66896	signal	1	25				
+VMDTQL_66896	outside	26	36				
+//
+# VMDTQL_146501 Length: 45
+# VMDTQL_146501 Number of predicted TMRs: 0
+VMDTQL_146501	inside	1	45				
+//
+# VMDTQL_50659 Length: 46
+# VMDTQL_50659 Number of predicted TMRs: 0
+VMDTQL_50659	inside	1	46				
+//
+# VMDTQL_169081 Length: 46
+# VMDTQL_169081 Number of predicted TMRs: 0
+VMDTQL_169081	signal	1	25				
+VMDTQL_169081	outside	26	46				
+//
+# VMDTQL_25949 Length: 35
+# VMDTQL_25949 Number of predicted TMRs: 0
+VMDTQL_25949	inside	1	35				
+//
+# VMDTQL_172513 Length: 38
+# VMDTQL_172513 Number of predicted TMRs: 0
+VMDTQL_172513	inside	1	38				
+//
+# VMDTQL_170774 Length: 45
+# VMDTQL_170774 Number of predicted TMRs: 0
+VMDTQL_170774	inside	1	45				
+//
+# VMDTQL_90735 Length: 49
+# VMDTQL_90735 Number of predicted TMRs: 0
+VMDTQL_90735	inside	1	49				
+//
+# VMDTQL_53961 Length: 42
+# VMDTQL_53961 Number of predicted TMRs: 0
+VMDTQL_53961	inside	1	42				
+//
+# VMDTQL_53978 Length: 44
+# VMDTQL_53978 Number of predicted TMRs: 0
+VMDTQL_53978	inside	1	44				
+//
+# VMDTQL_70079 Length: 39
+# VMDTQL_70079 Number of predicted TMRs: 0
+VMDTQL_70079	inside	1	39				
+//
+# VMDTQL_145718 Length: 32
+# VMDTQL_145718 Number of predicted TMRs: 0
+VMDTQL_145718	inside	1	32				
+//
+# VMDTQL_90281 Length: 39
+# VMDTQL_90281 Number of predicted TMRs: 0
+VMDTQL_90281	signal	1	26				
+VMDTQL_90281	outside	27	39				
+//
+# VMDTQL_30146 Length: 39
+# VMDTQL_30146 Number of predicted TMRs: 0
+VMDTQL_30146	signal	1	38				
+VMDTQL_30146	outside	39	39				
+//
+# VMDTQL_65180 Length: 45
+# VMDTQL_65180 Number of predicted TMRs: 0
+VMDTQL_65180	inside	1	45				
+//
+# VMDTQL_144073 Length: 45
+# VMDTQL_144073 Number of predicted TMRs: 0
+VMDTQL_144073	outside	1	45				
+//
+# VMDTQL_106181 Length: 37
+# VMDTQL_106181 Number of predicted TMRs: 0
+VMDTQL_106181	outside	1	37				
+//
+# VMDTQL_23010 Length: 50
+# VMDTQL_23010 Number of predicted TMRs: 0
+VMDTQL_23010	inside	1	50				
+//
+# VMDTQL_168335 Length: 43
+# VMDTQL_168335 Number of predicted TMRs: 0
+VMDTQL_168335	inside	1	43				
+//
+# VMDTQL_109976 Length: 48
+# VMDTQL_109976 Number of predicted TMRs: 0
+VMDTQL_109976	inside	1	48				
+//
+# VMDTQL_121566 Length: 37
+# VMDTQL_121566 Number of predicted TMRs: 0
+VMDTQL_121566	signal	1	35				
+VMDTQL_121566	outside	36	37				
+//
+# VMDTQL_88778 Length: 47
+# VMDTQL_88778 Number of predicted TMRs: 0
+VMDTQL_88778	signal	1	46				
+VMDTQL_88778	outside	47	47				
+//
+# VMDTQL_162079 Length: 40
+# VMDTQL_162079 Number of predicted TMRs: 0
+VMDTQL_162079	signal	1	31				
+VMDTQL_162079	outside	32	40				
+//
+# VMDTQL_132131 Length: 40
+# VMDTQL_132131 Number of predicted TMRs: 0
+VMDTQL_132131	inside	1	40				
+//
+# VMDTQL_55419 Length: 46
+# VMDTQL_55419 Number of predicted TMRs: 0
+VMDTQL_55419	inside	1	46				
+//
+# VMDTQL_127267 Length: 38
+# VMDTQL_127267 Number of predicted TMRs: 0
+VMDTQL_127267	inside	1	38				
+//
+# VMDTQL_90886 Length: 50
+# VMDTQL_90886 Number of predicted TMRs: 0
+VMDTQL_90886	inside	1	50				
+//
+# VMDTQL_124889 Length: 40
+# VMDTQL_124889 Number of predicted TMRs: 0
+VMDTQL_124889	inside	1	40				
+//
+# VMDTQL_164741 Length: 45
+# VMDTQL_164741 Number of predicted TMRs: 0
+VMDTQL_164741	inside	1	45				
+//
+# VMDTQL_120037 Length: 44
+# VMDTQL_120037 Number of predicted TMRs: 0
+VMDTQL_120037	inside	1	44				
+//
+# VMDTQL_162521 Length: 37
+# VMDTQL_162521 Number of predicted TMRs: 0
+VMDTQL_162521	inside	1	37				
+//
+# VMDTQL_162519 Length: 44
+# VMDTQL_162519 Number of predicted TMRs: 0
+VMDTQL_162519	inside	1	44				
+//
+# VMDTQL_6298 Length: 44
+# VMDTQL_6298 Number of predicted TMRs: 0
+VMDTQL_6298	inside	1	44				
+//
+# VMDTQL_167157 Length: 48
+# VMDTQL_167157 Number of predicted TMRs: 0
+VMDTQL_167157	inside	1	48				
+//
+# VMDTQL_99550 Length: 44
+# VMDTQL_99550 Number of predicted TMRs: 0
+VMDTQL_99550	inside	1	44				
+//
+# VMDTQL_14502 Length: 50
+# VMDTQL_14502 Number of predicted TMRs: 0
+VMDTQL_14502	inside	1	50				
+//
+# VMDTQL_121021 Length: 37
+# VMDTQL_121021 Number of predicted TMRs: 0
+VMDTQL_121021	inside	1	37				
+//
+# VMDTQL_29592 Length: 47
+# VMDTQL_29592 Number of predicted TMRs: 0
+VMDTQL_29592	inside	1	47				
+//
+# VMDTQL_55899 Length: 43
+# VMDTQL_55899 Number of predicted TMRs: 0
+VMDTQL_55899	inside	1	43				
+//
+# VMDTQL_165254 Length: 50
+# VMDTQL_165254 Number of predicted TMRs: 0
+VMDTQL_165254	inside	1	50				
+//
+# VMDTQL_126942 Length: 48
+# VMDTQL_126942 Number of predicted TMRs: 0
+VMDTQL_126942	inside	1	48				
+//
+# VMDTQL_7122 Length: 49
+# VMDTQL_7122 Number of predicted TMRs: 0
+VMDTQL_7122	inside	1	49				
+//
+# VMDTQL_12156 Length: 44
+# VMDTQL_12156 Number of predicted TMRs: 0
+VMDTQL_12156	signal	1	26				
+VMDTQL_12156	outside	27	44				
+//
+# VMDTQL_109253 Length: 48
+# VMDTQL_109253 Number of predicted TMRs: 0
+VMDTQL_109253	inside	1	48				
+//
+# VMDTQL_8747 Length: 46
+# VMDTQL_8747 Number of predicted TMRs: 0
+VMDTQL_8747	inside	1	46				
+//
+# VMDTQL_126504 Length: 47
+# VMDTQL_126504 Number of predicted TMRs: 0
+VMDTQL_126504	inside	1	47				
+//
+# VMDTQL_171662 Length: 44
+# VMDTQL_171662 Number of predicted TMRs: 1
+VMDTQL_171662	outside	1	18				
+VMDTQL_171662	TMhelix	19	29				
+VMDTQL_171662	inside	30	44				
+//
+# VMDTQL_95400 Length: 44
+# VMDTQL_95400 Number of predicted TMRs: 0
+VMDTQL_95400	signal	1	37				
+VMDTQL_95400	outside	38	44				
+//
+# VMDTQL_151118 Length: 44
+# VMDTQL_151118 Number of predicted TMRs: 0
+VMDTQL_151118	inside	1	44				
+//
+# VMDTQL_80368 Length: 34
+# VMDTQL_80368 Number of predicted TMRs: 0
+VMDTQL_80368	inside	1	34				
+//
+# VMDTQL_86520 Length: 47
+# VMDTQL_86520 Number of predicted TMRs: 0
+VMDTQL_86520	inside	1	47				
+//
+# VMDTQL_77307 Length: 45
+# VMDTQL_77307 Number of predicted TMRs: 0
+VMDTQL_77307	inside	1	45				
+//
+# VMDTQL_62791 Length: 48
+# VMDTQL_62791 Number of predicted TMRs: 0
+VMDTQL_62791	inside	1	48				
+//
+# VMDTQL_132327 Length: 48
+# VMDTQL_132327 Number of predicted TMRs: 0
+VMDTQL_132327	signal	1	40				
+VMDTQL_132327	outside	41	48				
+//
+# VMDTQL_136972 Length: 36
+# VMDTQL_136972 Number of predicted TMRs: 0
+VMDTQL_136972	signal	1	23				
+VMDTQL_136972	outside	24	36				
+//
+# VMDTQL_136978 Length: 48
+# VMDTQL_136978 Number of predicted TMRs: 0
+VMDTQL_136978	signal	1	35				
+VMDTQL_136978	outside	36	48				
+//
+# VMDTQL_11307 Length: 45
+# VMDTQL_11307 Number of predicted TMRs: 0
+VMDTQL_11307	signal	1	44				
+VMDTQL_11307	outside	45	45				
+//
+# VMDTQL_33227 Length: 40
+# VMDTQL_33227 Number of predicted TMRs: 0
+VMDTQL_33227	inside	1	40				
+//
+# VMDTQL_9440 Length: 48
+# VMDTQL_9440 Number of predicted TMRs: 0
+VMDTQL_9440	inside	1	48				
+//
+# VMDTQL_119670 Length: 49
+# VMDTQL_119670 Number of predicted TMRs: 0
+VMDTQL_119670	inside	1	49				
+//
+# VMDTQL_143758 Length: 46
+# VMDTQL_143758 Number of predicted TMRs: 0
+VMDTQL_143758	signal	1	18				
+VMDTQL_143758	outside	19	46				
+//
+# VMDTQL_94942 Length: 48
+# VMDTQL_94942 Number of predicted TMRs: 0
+VMDTQL_94942	inside	1	48				
+//
+# VMDTQL_139778 Length: 49
+# VMDTQL_139778 Number of predicted TMRs: 0
+VMDTQL_139778	inside	1	49				
+//
+# VMDTQL_88724 Length: 46
+# VMDTQL_88724 Number of predicted TMRs: 0
+VMDTQL_88724	inside	1	46				
+//
+# VMDTQL_42286 Length: 46
+# VMDTQL_42286 Number of predicted TMRs: 0
+VMDTQL_42286	signal	1	15				
+VMDTQL_42286	outside	16	46				
+//
+# VMDTQL_153755 Length: 46
+# VMDTQL_153755 Number of predicted TMRs: 0
+VMDTQL_153755	inside	1	46				
+//
+# VMDTQL_8713 Length: 46
+# VMDTQL_8713 Number of predicted TMRs: 0
+VMDTQL_8713	signal	1	37				
+VMDTQL_8713	outside	38	46				
+//
+# VMDTQL_156900 Length: 46
+# VMDTQL_156900 Number of predicted TMRs: 0
+VMDTQL_156900	signal	1	10				
+VMDTQL_156900	outside	11	46				
+//
+# VMDTQL_37116 Length: 39
+# VMDTQL_37116 Number of predicted TMRs: 0
+VMDTQL_37116	signal	1	37				
+VMDTQL_37116	outside	38	39				
+//
+# VMDTQL_44396 Length: 46
+# VMDTQL_44396 Number of predicted TMRs: 0
+VMDTQL_44396	signal	1	17				
+VMDTQL_44396	outside	18	46				
+//
+# VMDTQL_21955 Length: 43
+# VMDTQL_21955 Number of predicted TMRs: 0
+VMDTQL_21955	inside	1	43				
+//
+# VMDTQL_110121 Length: 38
+# VMDTQL_110121 Number of predicted TMRs: 0
+VMDTQL_110121	inside	1	38				
+//
+# VMDTQL_86389 Length: 50
+# VMDTQL_86389 Number of predicted TMRs: 0
+VMDTQL_86389	inside	1	50				
+//
+# VMDTQL_61004 Length: 44
+# VMDTQL_61004 Number of predicted TMRs: 0
+VMDTQL_61004	inside	1	44				
+//
+# VMDTQL_42216 Length: 45
+# VMDTQL_42216 Number of predicted TMRs: 0
+VMDTQL_42216	outside	1	45				
+//
+# VMDTQL_120385 Length: 48
+# VMDTQL_120385 Number of predicted TMRs: 0
+VMDTQL_120385	inside	1	48				
+//
+# VMDTQL_60740 Length: 33
+# VMDTQL_60740 Number of predicted TMRs: 0
+VMDTQL_60740	inside	1	33				
+//
+# VMDTQL_142716 Length: 50
+# VMDTQL_142716 Number of predicted TMRs: 0
+VMDTQL_142716	inside	1	50				
+//
+# VMDTQL_98252 Length: 47
+# VMDTQL_98252 Number of predicted TMRs: 0
+VMDTQL_98252	inside	1	47				
+//
+# VMDTQL_103757 Length: 50
+# VMDTQL_103757 Number of predicted TMRs: 0
+VMDTQL_103757	signal	1	49				
+VMDTQL_103757	outside	50	50				
+//
+# VMDTQL_115390 Length: 39
+# VMDTQL_115390 Number of predicted TMRs: 0
+VMDTQL_115390	inside	1	39				
+//
+# VMDTQL_102364 Length: 46
+# VMDTQL_102364 Number of predicted TMRs: 0
+VMDTQL_102364	inside	1	46				
+//
+# VMDTQL_17600 Length: 31
+# VMDTQL_17600 Number of predicted TMRs: 0
+VMDTQL_17600	signal	1	30				
+VMDTQL_17600	outside	31	31				
+//
+# VMDTQL_11999 Length: 50
+# VMDTQL_11999 Number of predicted TMRs: 0
+VMDTQL_11999	inside	1	50				
+//
+# VMDTQL_75835 Length: 46
+# VMDTQL_75835 Number of predicted TMRs: 0
+VMDTQL_75835	signal	1	39				
+VMDTQL_75835	outside	40	46				
+//
+# VMDTQL_115868 Length: 48
+# VMDTQL_115868 Number of predicted TMRs: 0
+VMDTQL_115868	signal	1	13				
+VMDTQL_115868	outside	14	48				
+//
+# VMDTQL_21544 Length: 36
+# VMDTQL_21544 Number of predicted TMRs: 0
+VMDTQL_21544	inside	1	36				
+//
+# VMDTQL_139806 Length: 30
+# VMDTQL_139806 Number of predicted TMRs: 0
+VMDTQL_139806	inside	1	30				
+//
+# VMDTQL_131462 Length: 49
+# VMDTQL_131462 Number of predicted TMRs: 0
+VMDTQL_131462	inside	1	49				
+//
+# VMDTQL_36742 Length: 43
+# VMDTQL_36742 Number of predicted TMRs: 0
+VMDTQL_36742	inside	1	43				
+//
+# VMDTQL_28225 Length: 50
+# VMDTQL_28225 Number of predicted TMRs: 0
+VMDTQL_28225	signal	1	49				
+VMDTQL_28225	outside	50	50				
+//
+# VMDTQL_140271 Length: 44
+# VMDTQL_140271 Number of predicted TMRs: 0
+VMDTQL_140271	inside	1	44				
+//
+# VMDTQL_84975 Length: 44
+# VMDTQL_84975 Number of predicted TMRs: 0
+VMDTQL_84975	inside	1	44				
+//
+# VMDTQL_127096 Length: 40
+# VMDTQL_127096 Number of predicted TMRs: 0
+VMDTQL_127096	signal	1	25				
+VMDTQL_127096	outside	26	40				
+//
+# VMDTQL_82242 Length: 39
+# VMDTQL_82242 Number of predicted TMRs: 0
+VMDTQL_82242	inside	1	39				
+//
+# VMDTQL_30949 Length: 48
+# VMDTQL_30949 Number of predicted TMRs: 0
+VMDTQL_30949	inside	1	48				
+//
+# VMDTQL_132880 Length: 41
+# VMDTQL_132880 Number of predicted TMRs: 0
+VMDTQL_132880	inside	1	41				
+//
+# VMDTQL_139491 Length: 49
+# VMDTQL_139491 Number of predicted TMRs: 0
+VMDTQL_139491	signal	1	44				
+VMDTQL_139491	outside	45	49				
+//
+# VMDTQL_116902 Length: 40
+# VMDTQL_116902 Number of predicted TMRs: 0
+VMDTQL_116902	signal	1	17				
+VMDTQL_116902	outside	18	40				
+//
+# VMDTQL_80912 Length: 41
+# VMDTQL_80912 Number of predicted TMRs: 0
+VMDTQL_80912	signal	1	39				
+VMDTQL_80912	outside	40	41				
+//
+# VMDTQL_54832 Length: 48
+# VMDTQL_54832 Number of predicted TMRs: 0
+VMDTQL_54832	inside	1	48				
+//
+# VMDTQL_62615 Length: 47
+# VMDTQL_62615 Number of predicted TMRs: 0
+VMDTQL_62615	inside	1	47				
+//
+# VMDTQL_29740 Length: 49
+# VMDTQL_29740 Number of predicted TMRs: 0
+VMDTQL_29740	inside	1	49				
+//
+# VMDTQL_5210 Length: 48
+# VMDTQL_5210 Number of predicted TMRs: 0
+VMDTQL_5210	signal	1	47				
+VMDTQL_5210	outside	48	48				
+//
+# VMDTQL_34055 Length: 44
+# VMDTQL_34055 Number of predicted TMRs: 0
+VMDTQL_34055	signal	1	43				
+VMDTQL_34055	outside	44	44				
+//
+# VMDTQL_151483 Length: 47
+# VMDTQL_151483 Number of predicted TMRs: 0
+VMDTQL_151483	inside	1	47				
+//
+# VMDTQL_32728 Length: 42
+# VMDTQL_32728 Number of predicted TMRs: 0
+VMDTQL_32728	inside	1	42				
+//
+# VMDTQL_37300 Length: 33
+# VMDTQL_37300 Number of predicted TMRs: 0
+VMDTQL_37300	signal	1	24				
+VMDTQL_37300	outside	25	33				
+//
+# VMDTQL_26977 Length: 38
+# VMDTQL_26977 Number of predicted TMRs: 0
+VMDTQL_26977	signal	1	23				
+VMDTQL_26977	outside	24	38				

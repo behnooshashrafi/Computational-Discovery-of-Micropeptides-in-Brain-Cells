@@ -1,0 +1,4400 @@
+##gff-version 3
+# RXUDLL_115781 Length: 48
+# RXUDLL_115781 Number of predicted TMRs: 0
+RXUDLL_115781	signal	1	20				
+RXUDLL_115781	outside	21	48				
+//
+# RXUDLL_38600 Length: 48
+# RXUDLL_38600 Number of predicted TMRs: 0
+RXUDLL_38600	inside	1	48				
+//
+# RXUDLL_57392 Length: 39
+# RXUDLL_57392 Number of predicted TMRs: 0
+RXUDLL_57392	inside	1	39				
+//
+# RXUDLL_138584 Length: 47
+# RXUDLL_138584 Number of predicted TMRs: 0
+RXUDLL_138584	inside	1	47				
+//
+# RXUDLL_95842 Length: 44
+# RXUDLL_95842 Number of predicted TMRs: 0
+RXUDLL_95842	outside	1	44				
+//
+# RXUDLL_40841 Length: 28
+# RXUDLL_40841 Number of predicted TMRs: 0
+RXUDLL_40841	inside	1	28				
+//
+# RXUDLL_99295 Length: 37
+# RXUDLL_99295 Number of predicted TMRs: 0
+RXUDLL_99295	inside	1	37				
+//
+# RXUDLL_7990 Length: 48
+# RXUDLL_7990 Number of predicted TMRs: 0
+RXUDLL_7990	inside	1	48				
+//
+# RXUDLL_77958 Length: 41
+# RXUDLL_77958 Number of predicted TMRs: 0
+RXUDLL_77958	inside	1	41				
+//
+# RXUDLL_161355 Length: 45
+# RXUDLL_161355 Number of predicted TMRs: 0
+RXUDLL_161355	outside	1	45				
+//
+# RXUDLL_13847 Length: 43
+# RXUDLL_13847 Number of predicted TMRs: 0
+RXUDLL_13847	inside	1	43				
+//
+# RXUDLL_14828 Length: 43
+# RXUDLL_14828 Number of predicted TMRs: 0
+RXUDLL_14828	inside	1	43				
+//
+# RXUDLL_50054 Length: 49
+# RXUDLL_50054 Number of predicted TMRs: 0
+RXUDLL_50054	signal	1	47				
+RXUDLL_50054	outside	48	49				
+//
+# RXUDLL_137752 Length: 48
+# RXUDLL_137752 Number of predicted TMRs: 0
+RXUDLL_137752	signal	1	46				
+RXUDLL_137752	outside	47	48				
+//
+# RXUDLL_127398 Length: 47
+# RXUDLL_127398 Number of predicted TMRs: 0
+RXUDLL_127398	inside	1	47				
+//
+# RXUDLL_40787 Length: 47
+# RXUDLL_40787 Number of predicted TMRs: 0
+RXUDLL_40787	inside	1	47				
+//
+# RXUDLL_36694 Length: 45
+# RXUDLL_36694 Number of predicted TMRs: 0
+RXUDLL_36694	signal	1	23				
+RXUDLL_36694	outside	24	45				
+//
+# RXUDLL_15075 Length: 49
+# RXUDLL_15075 Number of predicted TMRs: 0
+RXUDLL_15075	inside	1	49				
+//
+# RXUDLL_120944 Length: 37
+# RXUDLL_120944 Number of predicted TMRs: 0
+RXUDLL_120944	signal	1	25				
+RXUDLL_120944	outside	26	37				
+//
+# RXUDLL_6940 Length: 50
+# RXUDLL_6940 Number of predicted TMRs: 0
+RXUDLL_6940	inside	1	50				
+//
+# RXUDLL_36686 Length: 39
+# RXUDLL_36686 Number of predicted TMRs: 0
+RXUDLL_36686	signal	1	35				
+RXUDLL_36686	outside	36	39				
+//
+# RXUDLL_37058 Length: 48
+# RXUDLL_37058 Number of predicted TMRs: 0
+RXUDLL_37058	signal	1	15				
+RXUDLL_37058	outside	16	48				
+//
+# RXUDLL_82414 Length: 46
+# RXUDLL_82414 Number of predicted TMRs: 0
+RXUDLL_82414	inside	1	46				
+//
+# RXUDLL_19735 Length: 42
+# RXUDLL_19735 Number of predicted TMRs: 0
+RXUDLL_19735	signal	1	29				
+RXUDLL_19735	outside	30	42				
+//
+# RXUDLL_5081 Length: 46
+# RXUDLL_5081 Number of predicted TMRs: 0
+RXUDLL_5081	inside	1	46				
+//
+# RXUDLL_95809 Length: 43
+# RXUDLL_95809 Number of predicted TMRs: 0
+RXUDLL_95809	signal	1	37				
+RXUDLL_95809	outside	38	43				
+//
+# RXUDLL_4553 Length: 39
+# RXUDLL_4553 Number of predicted TMRs: 0
+RXUDLL_4553	inside	1	39				
+//
+# RXUDLL_75465 Length: 50
+# RXUDLL_75465 Number of predicted TMRs: 0
+RXUDLL_75465	signal	1	43				
+RXUDLL_75465	outside	44	50				
+//
+# RXUDLL_113306 Length: 48
+# RXUDLL_113306 Number of predicted TMRs: 0
+RXUDLL_113306	inside	1	48				
+//
+# RXUDLL_166678 Length: 47
+# RXUDLL_166678 Number of predicted TMRs: 0
+RXUDLL_166678	inside	1	47				
+//
+# RXUDLL_89938 Length: 50
+# RXUDLL_89938 Number of predicted TMRs: 0
+RXUDLL_89938	inside	1	50				
+//
+# RXUDLL_22934 Length: 50
+# RXUDLL_22934 Number of predicted TMRs: 0
+RXUDLL_22934	inside	1	50				
+//
+# RXUDLL_87221 Length: 41
+# RXUDLL_87221 Number of predicted TMRs: 0
+RXUDLL_87221	inside	1	41				
+//
+# RXUDLL_42923 Length: 37
+# RXUDLL_42923 Number of predicted TMRs: 0
+RXUDLL_42923	inside	1	37				
+//
+# RXUDLL_119049 Length: 39
+# RXUDLL_119049 Number of predicted TMRs: 0
+RXUDLL_119049	signal	1	23				
+RXUDLL_119049	outside	24	39				
+//
+# RXUDLL_113836 Length: 50
+# RXUDLL_113836 Number of predicted TMRs: 0
+RXUDLL_113836	signal	1	40				
+RXUDLL_113836	outside	41	50				
+//
+# RXUDLL_11125 Length: 47
+# RXUDLL_11125 Number of predicted TMRs: 0
+RXUDLL_11125	inside	1	47				
+//
+# RXUDLL_33304 Length: 44
+# RXUDLL_33304 Number of predicted TMRs: 0
+RXUDLL_33304	inside	1	44				
+//
+# RXUDLL_104382 Length: 32
+# RXUDLL_104382 Number of predicted TMRs: 0
+RXUDLL_104382	inside	1	32				
+//
+# RXUDLL_73319 Length: 41
+# RXUDLL_73319 Number of predicted TMRs: 0
+RXUDLL_73319	signal	1	24				
+RXUDLL_73319	outside	25	41				
+//
+# RXUDLL_16387 Length: 40
+# RXUDLL_16387 Number of predicted TMRs: 0
+RXUDLL_16387	inside	1	40				
+//
+# RXUDLL_94580 Length: 48
+# RXUDLL_94580 Number of predicted TMRs: 0
+RXUDLL_94580	inside	1	48				
+//
+# RXUDLL_120880 Length: 48
+# RXUDLL_120880 Number of predicted TMRs: 0
+RXUDLL_120880	inside	1	48				
+//
+# RXUDLL_154244 Length: 44
+# RXUDLL_154244 Number of predicted TMRs: 0
+RXUDLL_154244	inside	1	44				
+//
+# RXUDLL_25175 Length: 46
+# RXUDLL_25175 Number of predicted TMRs: 0
+RXUDLL_25175	signal	1	45				
+RXUDLL_25175	outside	46	46				
+//
+# RXUDLL_89281 Length: 44
+# RXUDLL_89281 Number of predicted TMRs: 0
+RXUDLL_89281	inside	1	44				
+//
+# RXUDLL_163674 Length: 45
+# RXUDLL_163674 Number of predicted TMRs: 0
+RXUDLL_163674	signal	1	42				
+RXUDLL_163674	outside	43	45				
+//
+# RXUDLL_112733 Length: 37
+# RXUDLL_112733 Number of predicted TMRs: 0
+RXUDLL_112733	inside	1	37				
+//
+# RXUDLL_122950 Length: 41
+# RXUDLL_122950 Number of predicted TMRs: 0
+RXUDLL_122950	inside	1	41				
+//
+# RXUDLL_68957 Length: 40
+# RXUDLL_68957 Number of predicted TMRs: 0
+RXUDLL_68957	inside	1	40				
+//
+# RXUDLL_154562 Length: 48
+# RXUDLL_154562 Number of predicted TMRs: 0
+RXUDLL_154562	inside	1	48				
+//
+# RXUDLL_95844 Length: 50
+# RXUDLL_95844 Number of predicted TMRs: 0
+RXUDLL_95844	inside	1	50				
+//
+# RXUDLL_143730 Length: 38
+# RXUDLL_143730 Number of predicted TMRs: 0
+RXUDLL_143730	signal	1	37				
+RXUDLL_143730	outside	38	38				
+//
+# RXUDLL_24421 Length: 44
+# RXUDLL_24421 Number of predicted TMRs: 0
+RXUDLL_24421	inside	1	44				
+//
+# RXUDLL_46199 Length: 50
+# RXUDLL_46199 Number of predicted TMRs: 0
+RXUDLL_46199	inside	1	50				
+//
+# RXUDLL_59581 Length: 45
+# RXUDLL_59581 Number of predicted TMRs: 0
+RXUDLL_59581	signal	1	29				
+RXUDLL_59581	outside	30	45				
+//
+# RXUDLL_147248 Length: 46
+# RXUDLL_147248 Number of predicted TMRs: 0
+RXUDLL_147248	signal	1	29				
+RXUDLL_147248	outside	30	46				
+//
+# RXUDLL_113657 Length: 45
+# RXUDLL_113657 Number of predicted TMRs: 0
+RXUDLL_113657	inside	1	45				
+//
+# RXUDLL_143456 Length: 43
+# RXUDLL_143456 Number of predicted TMRs: 0
+RXUDLL_143456	inside	1	43				
+//
+# RXUDLL_54952 Length: 47
+# RXUDLL_54952 Number of predicted TMRs: 0
+RXUDLL_54952	inside	1	47				
+//
+# RXUDLL_57365 Length: 28
+# RXUDLL_57365 Number of predicted TMRs: 0
+RXUDLL_57365	inside	1	28				
+//
+# RXUDLL_9534 Length: 34
+# RXUDLL_9534 Number of predicted TMRs: 0
+RXUDLL_9534	signal	1	32				
+RXUDLL_9534	outside	33	34				
+//
+# RXUDLL_30256 Length: 36
+# RXUDLL_30256 Number of predicted TMRs: 0
+RXUDLL_30256	inside	1	36				
+//
+# RXUDLL_144069 Length: 43
+# RXUDLL_144069 Number of predicted TMRs: 0
+RXUDLL_144069	inside	1	43				
+//
+# RXUDLL_21910 Length: 40
+# RXUDLL_21910 Number of predicted TMRs: 0
+RXUDLL_21910	inside	1	40				
+//
+# RXUDLL_168131 Length: 32
+# RXUDLL_168131 Number of predicted TMRs: 0
+RXUDLL_168131	signal	1	31				
+RXUDLL_168131	outside	32	32				
+//
+# RXUDLL_90282 Length: 47
+# RXUDLL_90282 Number of predicted TMRs: 0
+RXUDLL_90282	inside	1	47				
+//
+# RXUDLL_34382 Length: 43
+# RXUDLL_34382 Number of predicted TMRs: 0
+RXUDLL_34382	inside	1	43				
+//
+# RXUDLL_137473 Length: 45
+# RXUDLL_137473 Number of predicted TMRs: 0
+RXUDLL_137473	inside	1	45				
+//
+# RXUDLL_93942 Length: 50
+# RXUDLL_93942 Number of predicted TMRs: 0
+RXUDLL_93942	inside	1	50				
+//
+# RXUDLL_99396 Length: 43
+# RXUDLL_99396 Number of predicted TMRs: 0
+RXUDLL_99396	inside	1	43				
+//
+# RXUDLL_16182 Length: 37
+# RXUDLL_16182 Number of predicted TMRs: 0
+RXUDLL_16182	signal	1	32				
+RXUDLL_16182	outside	33	37				
+//
+# RXUDLL_170873 Length: 49
+# RXUDLL_170873 Number of predicted TMRs: 0
+RXUDLL_170873	inside	1	49				
+//
+# RXUDLL_16789 Length: 44
+# RXUDLL_16789 Number of predicted TMRs: 0
+RXUDLL_16789	signal	1	35				
+RXUDLL_16789	outside	36	44				
+//
+# RXUDLL_162255 Length: 46
+# RXUDLL_162255 Number of predicted TMRs: 0
+RXUDLL_162255	signal	1	11				
+RXUDLL_162255	outside	12	46				
+//
+# RXUDLL_168037 Length: 46
+# RXUDLL_168037 Number of predicted TMRs: 0
+RXUDLL_168037	signal	1	45				
+RXUDLL_168037	outside	46	46				
+//
+# RXUDLL_91414 Length: 50
+# RXUDLL_91414 Number of predicted TMRs: 0
+RXUDLL_91414	inside	1	50				
+//
+# RXUDLL_73738 Length: 50
+# RXUDLL_73738 Number of predicted TMRs: 0
+RXUDLL_73738	inside	1	50				
+//
+# RXUDLL_133861 Length: 48
+# RXUDLL_133861 Number of predicted TMRs: 0
+RXUDLL_133861	signal	1	47				
+RXUDLL_133861	outside	48	48				
+//
+# RXUDLL_32635 Length: 44
+# RXUDLL_32635 Number of predicted TMRs: 0
+RXUDLL_32635	signal	1	15				
+RXUDLL_32635	outside	16	44				
+//
+# RXUDLL_32643 Length: 44
+# RXUDLL_32643 Number of predicted TMRs: 0
+RXUDLL_32643	signal	1	42				
+RXUDLL_32643	outside	43	44				
+//
+# RXUDLL_6003 Length: 45
+# RXUDLL_6003 Number of predicted TMRs: 0
+RXUDLL_6003	signal	1	25				
+RXUDLL_6003	outside	26	45				
+//
+# RXUDLL_9321 Length: 44
+# RXUDLL_9321 Number of predicted TMRs: 0
+RXUDLL_9321	signal	1	43				
+RXUDLL_9321	outside	44	44				
+//
+# RXUDLL_135237 Length: 40
+# RXUDLL_135237 Number of predicted TMRs: 0
+RXUDLL_135237	signal	1	30				
+RXUDLL_135237	outside	31	40				
+//
+# RXUDLL_108485 Length: 49
+# RXUDLL_108485 Number of predicted TMRs: 0
+RXUDLL_108485	inside	1	49				
+//
+# RXUDLL_101826 Length: 39
+# RXUDLL_101826 Number of predicted TMRs: 0
+RXUDLL_101826	signal	1	37				
+RXUDLL_101826	outside	38	39				
+//
+# RXUDLL_40 Length: 43
+# RXUDLL_40 Number of predicted TMRs: 0
+RXUDLL_40	inside	1	43				
+//
+# RXUDLL_140765 Length: 50
+# RXUDLL_140765 Number of predicted TMRs: 0
+RXUDLL_140765	inside	1	50				
+//
+# RXUDLL_18792 Length: 47
+# RXUDLL_18792 Number of predicted TMRs: 0
+RXUDLL_18792	inside	1	47				
+//
+# RXUDLL_141601 Length: 49
+# RXUDLL_141601 Number of predicted TMRs: 0
+RXUDLL_141601	signal	1	27				
+RXUDLL_141601	outside	28	49				
+//
+# RXUDLL_48471 Length: 42
+# RXUDLL_48471 Number of predicted TMRs: 0
+RXUDLL_48471	inside	1	42				
+//
+# RXUDLL_170987 Length: 48
+# RXUDLL_170987 Number of predicted TMRs: 0
+RXUDLL_170987	signal	1	47				
+RXUDLL_170987	outside	48	48				
+//
+# RXUDLL_165140 Length: 33
+# RXUDLL_165140 Number of predicted TMRs: 0
+RXUDLL_165140	inside	1	33				
+//
+# RXUDLL_127733 Length: 43
+# RXUDLL_127733 Number of predicted TMRs: 0
+RXUDLL_127733	signal	1	42				
+RXUDLL_127733	outside	43	43				
+//
+# RXUDLL_84012 Length: 50
+# RXUDLL_84012 Number of predicted TMRs: 0
+RXUDLL_84012	inside	1	50				
+//
+# RXUDLL_116010 Length: 35
+# RXUDLL_116010 Number of predicted TMRs: 0
+RXUDLL_116010	inside	1	35				
+//
+# RXUDLL_156574 Length: 50
+# RXUDLL_156574 Number of predicted TMRs: 0
+RXUDLL_156574	inside	1	50				
+//
+# RXUDLL_83541 Length: 44
+# RXUDLL_83541 Number of predicted TMRs: 0
+RXUDLL_83541	signal	1	42				
+RXUDLL_83541	outside	43	44				
+//
+# RXUDLL_117208 Length: 50
+# RXUDLL_117208 Number of predicted TMRs: 0
+RXUDLL_117208	signal	1	22				
+RXUDLL_117208	outside	23	50				
+//
+# RXUDLL_29071 Length: 42
+# RXUDLL_29071 Number of predicted TMRs: 0
+RXUDLL_29071	inside	1	42				
+//
+# RXUDLL_155594 Length: 36
+# RXUDLL_155594 Number of predicted TMRs: 0
+RXUDLL_155594	signal	1	10				
+RXUDLL_155594	outside	11	36				
+//
+# RXUDLL_89446 Length: 47
+# RXUDLL_89446 Number of predicted TMRs: 0
+RXUDLL_89446	inside	1	47				
+//
+# RXUDLL_134678 Length: 45
+# RXUDLL_134678 Number of predicted TMRs: 0
+RXUDLL_134678	inside	1	45				
+//
+# RXUDLL_114917 Length: 45
+# RXUDLL_114917 Number of predicted TMRs: 0
+RXUDLL_114917	inside	1	45				
+//
+# RXUDLL_153667 Length: 44
+# RXUDLL_153667 Number of predicted TMRs: 0
+RXUDLL_153667	inside	1	44				
+//
+# RXUDLL_38262 Length: 45
+# RXUDLL_38262 Number of predicted TMRs: 0
+RXUDLL_38262	signal	1	44				
+RXUDLL_38262	outside	45	45				
+//
+# RXUDLL_120368 Length: 49
+# RXUDLL_120368 Number of predicted TMRs: 0
+RXUDLL_120368	inside	1	49				
+//
+# RXUDLL_141930 Length: 37
+# RXUDLL_141930 Number of predicted TMRs: 0
+RXUDLL_141930	inside	1	37				
+//
+# RXUDLL_168202 Length: 44
+# RXUDLL_168202 Number of predicted TMRs: 0
+RXUDLL_168202	inside	1	44				
+//
+# RXUDLL_82344 Length: 43
+# RXUDLL_82344 Number of predicted TMRs: 0
+RXUDLL_82344	signal	1	20				
+RXUDLL_82344	outside	21	43				
+//
+# RXUDLL_85530 Length: 42
+# RXUDLL_85530 Number of predicted TMRs: 0
+RXUDLL_85530	signal	1	35				
+RXUDLL_85530	outside	36	42				
+//
+# RXUDLL_167214 Length: 45
+# RXUDLL_167214 Number of predicted TMRs: 0
+RXUDLL_167214	signal	1	39				
+RXUDLL_167214	outside	40	45				
+//
+# RXUDLL_51855 Length: 46
+# RXUDLL_51855 Number of predicted TMRs: 0
+RXUDLL_51855	inside	1	46				
+//
+# RXUDLL_48416 Length: 46
+# RXUDLL_48416 Number of predicted TMRs: 0
+RXUDLL_48416	inside	1	46				
+//
+# RXUDLL_94848 Length: 48
+# RXUDLL_94848 Number of predicted TMRs: 0
+RXUDLL_94848	inside	1	48				
+//
+# RXUDLL_110066 Length: 40
+# RXUDLL_110066 Number of predicted TMRs: 0
+RXUDLL_110066	inside	1	40				
+//
+# RXUDLL_94069 Length: 47
+# RXUDLL_94069 Number of predicted TMRs: 0
+RXUDLL_94069	inside	1	47				
+//
+# RXUDLL_139695 Length: 46
+# RXUDLL_139695 Number of predicted TMRs: 0
+RXUDLL_139695	inside	1	46				
+//
+# RXUDLL_38364 Length: 49
+# RXUDLL_38364 Number of predicted TMRs: 0
+RXUDLL_38364	signal	1	47				
+RXUDLL_38364	outside	48	49				
+//
+# RXUDLL_49426 Length: 50
+# RXUDLL_49426 Number of predicted TMRs: 0
+RXUDLL_49426	inside	1	50				
+//
+# RXUDLL_9575 Length: 48
+# RXUDLL_9575 Number of predicted TMRs: 0
+RXUDLL_9575	inside	1	48				
+//
+# RXUDLL_89122 Length: 33
+# RXUDLL_89122 Number of predicted TMRs: 0
+RXUDLL_89122	signal	1	21				
+RXUDLL_89122	outside	22	33				
+//
+# RXUDLL_111912 Length: 43
+# RXUDLL_111912 Number of predicted TMRs: 0
+RXUDLL_111912	inside	1	43				
+//
+# RXUDLL_15387 Length: 44
+# RXUDLL_15387 Number of predicted TMRs: 0
+RXUDLL_15387	inside	1	44				
+//
+# RXUDLL_143662 Length: 30
+# RXUDLL_143662 Number of predicted TMRs: 0
+RXUDLL_143662	inside	1	30				
+//
+# RXUDLL_82623 Length: 50
+# RXUDLL_82623 Number of predicted TMRs: 0
+RXUDLL_82623	inside	1	50				
+//
+# RXUDLL_20018 Length: 50
+# RXUDLL_20018 Number of predicted TMRs: 0
+RXUDLL_20018	inside	1	50				
+//
+# RXUDLL_146638 Length: 49
+# RXUDLL_146638 Number of predicted TMRs: 0
+RXUDLL_146638	inside	1	49				
+//
+# RXUDLL_14546 Length: 48
+# RXUDLL_14546 Number of predicted TMRs: 0
+RXUDLL_14546	signal	1	46				
+RXUDLL_14546	outside	47	48				
+//
+# RXUDLL_73754 Length: 47
+# RXUDLL_73754 Number of predicted TMRs: 0
+RXUDLL_73754	signal	1	46				
+RXUDLL_73754	outside	47	47				
+//
+# RXUDLL_129389 Length: 44
+# RXUDLL_129389 Number of predicted TMRs: 0
+RXUDLL_129389	signal	1	43				
+RXUDLL_129389	outside	44	44				
+//
+# RXUDLL_57952 Length: 47
+# RXUDLL_57952 Number of predicted TMRs: 0
+RXUDLL_57952	inside	1	47				
+//
+# RXUDLL_16242 Length: 41
+# RXUDLL_16242 Number of predicted TMRs: 0
+RXUDLL_16242	inside	1	41				
+//
+# RXUDLL_154561 Length: 40
+# RXUDLL_154561 Number of predicted TMRs: 0
+RXUDLL_154561	inside	1	40				
+//
+# RXUDLL_114340 Length: 47
+# RXUDLL_114340 Number of predicted TMRs: 0
+RXUDLL_114340	inside	1	47				
+//
+# RXUDLL_122938 Length: 35
+# RXUDLL_122938 Number of predicted TMRs: 0
+RXUDLL_122938	signal	1	32				
+RXUDLL_122938	outside	33	35				
+//
+# RXUDLL_13046 Length: 42
+# RXUDLL_13046 Number of predicted TMRs: 0
+RXUDLL_13046	inside	1	42				
+//
+# RXUDLL_98511 Length: 36
+# RXUDLL_98511 Number of predicted TMRs: 0
+RXUDLL_98511	signal	1	28				
+RXUDLL_98511	outside	29	36				
+//
+# RXUDLL_15817 Length: 45
+# RXUDLL_15817 Number of predicted TMRs: 0
+RXUDLL_15817	signal	1	44				
+RXUDLL_15817	outside	45	45				
+//
+# RXUDLL_49509 Length: 50
+# RXUDLL_49509 Number of predicted TMRs: 0
+RXUDLL_49509	inside	1	50				
+//
+# RXUDLL_10027 Length: 42
+# RXUDLL_10027 Number of predicted TMRs: 0
+RXUDLL_10027	inside	1	42				
+//
+# RXUDLL_132289 Length: 39
+# RXUDLL_132289 Number of predicted TMRs: 0
+RXUDLL_132289	inside	1	39				
+//
+# RXUDLL_64940 Length: 40
+# RXUDLL_64940 Number of predicted TMRs: 0
+RXUDLL_64940	signal	1	20				
+RXUDLL_64940	outside	21	40				
+//
+# RXUDLL_56094 Length: 39
+# RXUDLL_56094 Number of predicted TMRs: 1
+RXUDLL_56094	inside	1	14				
+RXUDLL_56094	TMhelix	15	35				
+RXUDLL_56094	outside	36	39				
+//
+# RXUDLL_56321 Length: 46
+# RXUDLL_56321 Number of predicted TMRs: 0
+RXUDLL_56321	inside	1	46				
+//
+# RXUDLL_94982 Length: 50
+# RXUDLL_94982 Number of predicted TMRs: 0
+RXUDLL_94982	inside	1	50				
+//
+# RXUDLL_136002 Length: 42
+# RXUDLL_136002 Number of predicted TMRs: 0
+RXUDLL_136002	inside	1	42				
+//
+# RXUDLL_120626 Length: 46
+# RXUDLL_120626 Number of predicted TMRs: 0
+RXUDLL_120626	inside	1	46				
+//
+# RXUDLL_87298 Length: 43
+# RXUDLL_87298 Number of predicted TMRs: 0
+RXUDLL_87298	inside	1	43				
+//
+# RXUDLL_129567 Length: 49
+# RXUDLL_129567 Number of predicted TMRs: 0
+RXUDLL_129567	inside	1	49				
+//
+# RXUDLL_93523 Length: 50
+# RXUDLL_93523 Number of predicted TMRs: 0
+RXUDLL_93523	inside	1	50				
+//
+# RXUDLL_108326 Length: 47
+# RXUDLL_108326 Number of predicted TMRs: 0
+RXUDLL_108326	inside	1	47				
+//
+# RXUDLL_139071 Length: 42
+# RXUDLL_139071 Number of predicted TMRs: 0
+RXUDLL_139071	signal	1	35				
+RXUDLL_139071	outside	36	42				
+//
+# RXUDLL_88593 Length: 46
+# RXUDLL_88593 Number of predicted TMRs: 0
+RXUDLL_88593	inside	1	46				
+//
+# RXUDLL_146158 Length: 34
+# RXUDLL_146158 Number of predicted TMRs: 0
+RXUDLL_146158	inside	1	34				
+//
+# RXUDLL_77313 Length: 45
+# RXUDLL_77313 Number of predicted TMRs: 0
+RXUDLL_77313	signal	1	21				
+RXUDLL_77313	outside	22	45				
+//
+# RXUDLL_98758 Length: 39
+# RXUDLL_98758 Number of predicted TMRs: 0
+RXUDLL_98758	inside	1	39				
+//
+# RXUDLL_13987 Length: 46
+# RXUDLL_13987 Number of predicted TMRs: 0
+RXUDLL_13987	inside	1	46				
+//
+# RXUDLL_122199 Length: 45
+# RXUDLL_122199 Number of predicted TMRs: 0
+RXUDLL_122199	inside	1	45				
+//
+# RXUDLL_36753 Length: 49
+# RXUDLL_36753 Number of predicted TMRs: 0
+RXUDLL_36753	signal	1	46				
+RXUDLL_36753	outside	47	49				
+//
+# RXUDLL_9261 Length: 47
+# RXUDLL_9261 Number of predicted TMRs: 0
+RXUDLL_9261	inside	1	47				
+//
+# RXUDLL_70109 Length: 50
+# RXUDLL_70109 Number of predicted TMRs: 0
+RXUDLL_70109	signal	1	15				
+RXUDLL_70109	outside	16	50				
+//
+# RXUDLL_28883 Length: 49
+# RXUDLL_28883 Number of predicted TMRs: 0
+RXUDLL_28883	inside	1	49				
+//
+# RXUDLL_41907 Length: 47
+# RXUDLL_41907 Number of predicted TMRs: 0
+RXUDLL_41907	inside	1	47				
+//
+# RXUDLL_58990 Length: 49
+# RXUDLL_58990 Number of predicted TMRs: 0
+RXUDLL_58990	signal	1	42				
+RXUDLL_58990	outside	43	49				
+//
+# RXUDLL_170247 Length: 48
+# RXUDLL_170247 Number of predicted TMRs: 0
+RXUDLL_170247	inside	1	48				
+//
+# RXUDLL_147322 Length: 43
+# RXUDLL_147322 Number of predicted TMRs: 0
+RXUDLL_147322	signal	1	41				
+RXUDLL_147322	outside	42	43				
+//
+# RXUDLL_127788 Length: 35
+# RXUDLL_127788 Number of predicted TMRs: 0
+RXUDLL_127788	inside	1	35				
+//
+# RXUDLL_98735 Length: 48
+# RXUDLL_98735 Number of predicted TMRs: 0
+RXUDLL_98735	inside	1	48				
+//
+# RXUDLL_131402 Length: 48
+# RXUDLL_131402 Number of predicted TMRs: 0
+RXUDLL_131402	inside	1	48				
+//
+# RXUDLL_28130 Length: 50
+# RXUDLL_28130 Number of predicted TMRs: 0
+RXUDLL_28130	inside	1	50				
+//
+# RXUDLL_169802 Length: 34
+# RXUDLL_169802 Number of predicted TMRs: 0
+RXUDLL_169802	signal	1	33				
+RXUDLL_169802	outside	34	34				
+//
+# RXUDLL_10524 Length: 47
+# RXUDLL_10524 Number of predicted TMRs: 0
+RXUDLL_10524	signal	1	30				
+RXUDLL_10524	outside	31	47				
+//
+# RXUDLL_141688 Length: 40
+# RXUDLL_141688 Number of predicted TMRs: 0
+RXUDLL_141688	inside	1	40				
+//
+# RXUDLL_39667 Length: 47
+# RXUDLL_39667 Number of predicted TMRs: 0
+RXUDLL_39667	inside	1	47				
+//
+# RXUDLL_93214 Length: 39
+# RXUDLL_93214 Number of predicted TMRs: 0
+RXUDLL_93214	signal	1	28				
+RXUDLL_93214	outside	29	39				
+//
+# RXUDLL_21681 Length: 44
+# RXUDLL_21681 Number of predicted TMRs: 0
+RXUDLL_21681	signal	1	15				
+RXUDLL_21681	outside	16	44				
+//
+# RXUDLL_131862 Length: 42
+# RXUDLL_131862 Number of predicted TMRs: 0
+RXUDLL_131862	inside	1	42				
+//
+# RXUDLL_144430 Length: 44
+# RXUDLL_144430 Number of predicted TMRs: 0
+RXUDLL_144430	inside	1	44				
+//
+# RXUDLL_46048 Length: 39
+# RXUDLL_46048 Number of predicted TMRs: 0
+RXUDLL_46048	inside	1	39				
+//
+# RXUDLL_147195 Length: 46
+# RXUDLL_147195 Number of predicted TMRs: 0
+RXUDLL_147195	signal	1	37				
+RXUDLL_147195	outside	38	46				
+//
+# RXUDLL_70029 Length: 49
+# RXUDLL_70029 Number of predicted TMRs: 0
+RXUDLL_70029	signal	1	48				
+RXUDLL_70029	outside	49	49				
+//
+# RXUDLL_20963 Length: 38
+# RXUDLL_20963 Number of predicted TMRs: 0
+RXUDLL_20963	signal	1	32				
+RXUDLL_20963	outside	33	38				
+//
+# RXUDLL_82343 Length: 42
+# RXUDLL_82343 Number of predicted TMRs: 0
+RXUDLL_82343	inside	1	42				
+//
+# RXUDLL_102147 Length: 42
+# RXUDLL_102147 Number of predicted TMRs: 0
+RXUDLL_102147	signal	1	30				
+RXUDLL_102147	outside	31	42				
+//
+# RXUDLL_81252 Length: 30
+# RXUDLL_81252 Number of predicted TMRs: 0
+RXUDLL_81252	inside	1	30				
+//
+# RXUDLL_150775 Length: 45
+# RXUDLL_150775 Number of predicted TMRs: 0
+RXUDLL_150775	inside	1	45				
+//
+# RXUDLL_77277 Length: 32
+# RXUDLL_77277 Number of predicted TMRs: 0
+RXUDLL_77277	signal	1	28				
+RXUDLL_77277	outside	29	32				
+//
+# RXUDLL_94022 Length: 43
+# RXUDLL_94022 Number of predicted TMRs: 0
+RXUDLL_94022	inside	1	43				
+//
+# RXUDLL_41202 Length: 41
+# RXUDLL_41202 Number of predicted TMRs: 0
+RXUDLL_41202	signal	1	36				
+RXUDLL_41202	outside	37	41				
+//
+# RXUDLL_124029 Length: 42
+# RXUDLL_124029 Number of predicted TMRs: 0
+RXUDLL_124029	signal	1	40				
+RXUDLL_124029	outside	41	42				
+//
+# RXUDLL_135160 Length: 49
+# RXUDLL_135160 Number of predicted TMRs: 0
+RXUDLL_135160	signal	1	39				
+RXUDLL_135160	outside	40	49				
+//
+# RXUDLL_152437 Length: 50
+# RXUDLL_152437 Number of predicted TMRs: 0
+RXUDLL_152437	inside	1	50				
+//
+# RXUDLL_143443 Length: 50
+# RXUDLL_143443 Number of predicted TMRs: 0
+RXUDLL_143443	inside	1	50				
+//
+# RXUDLL_116273 Length: 45
+# RXUDLL_116273 Number of predicted TMRs: 0
+RXUDLL_116273	inside	1	45				
+//
+# RXUDLL_164343 Length: 36
+# RXUDLL_164343 Number of predicted TMRs: 0
+RXUDLL_164343	outside	1	36				
+//
+# RXUDLL_86005 Length: 40
+# RXUDLL_86005 Number of predicted TMRs: 0
+RXUDLL_86005	signal	1	10				
+RXUDLL_86005	outside	11	40				
+//
+# RXUDLL_111477 Length: 47
+# RXUDLL_111477 Number of predicted TMRs: 0
+RXUDLL_111477	signal	1	45				
+RXUDLL_111477	outside	46	47				
+//
+# RXUDLL_117991 Length: 25
+# RXUDLL_117991 Number of predicted TMRs: 0
+RXUDLL_117991	inside	1	25				
+//
+# RXUDLL_3999 Length: 46
+# RXUDLL_3999 Number of predicted TMRs: 0
+RXUDLL_3999	inside	1	46				
+//
+# RXUDLL_74409 Length: 50
+# RXUDLL_74409 Number of predicted TMRs: 0
+RXUDLL_74409	signal	1	49				
+RXUDLL_74409	outside	50	50				
+//
+# RXUDLL_88714 Length: 49
+# RXUDLL_88714 Number of predicted TMRs: 0
+RXUDLL_88714	inside	1	49				
+//
+# RXUDLL_118790 Length: 40
+# RXUDLL_118790 Number of predicted TMRs: 0
+RXUDLL_118790	outside	1	40				
+//
+# RXUDLL_96030 Length: 49
+# RXUDLL_96030 Number of predicted TMRs: 0
+RXUDLL_96030	inside	1	49				
+//
+# RXUDLL_22750 Length: 46
+# RXUDLL_22750 Number of predicted TMRs: 0
+RXUDLL_22750	signal	1	13				
+RXUDLL_22750	outside	14	46				
+//
+# RXUDLL_70753 Length: 46
+# RXUDLL_70753 Number of predicted TMRs: 0
+RXUDLL_70753	signal	1	11				
+RXUDLL_70753	outside	12	46				
+//
+# RXUDLL_166905 Length: 48
+# RXUDLL_166905 Number of predicted TMRs: 0
+RXUDLL_166905	signal	1	10				
+RXUDLL_166905	outside	11	48				
+//
+# RXUDLL_114216 Length: 45
+# RXUDLL_114216 Number of predicted TMRs: 0
+RXUDLL_114216	inside	1	45				
+//
+# RXUDLL_103199 Length: 48
+# RXUDLL_103199 Number of predicted TMRs: 0
+RXUDLL_103199	signal	1	37				
+RXUDLL_103199	outside	38	48				
+//
+# RXUDLL_151604 Length: 45
+# RXUDLL_151604 Number of predicted TMRs: 0
+RXUDLL_151604	inside	1	45				
+//
+# RXUDLL_58904 Length: 47
+# RXUDLL_58904 Number of predicted TMRs: 0
+RXUDLL_58904	signal	1	14				
+RXUDLL_58904	outside	15	47				
+//
+# RXUDLL_83679 Length: 43
+# RXUDLL_83679 Number of predicted TMRs: 0
+RXUDLL_83679	inside	1	43				
+//
+# RXUDLL_17321 Length: 37
+# RXUDLL_17321 Number of predicted TMRs: 0
+RXUDLL_17321	signal	1	35				
+RXUDLL_17321	outside	36	37				
+//
+# RXUDLL_168625 Length: 50
+# RXUDLL_168625 Number of predicted TMRs: 0
+RXUDLL_168625	inside	1	50				
+//
+# RXUDLL_9197 Length: 45
+# RXUDLL_9197 Number of predicted TMRs: 0
+RXUDLL_9197	inside	1	45				
+//
+# RXUDLL_79750 Length: 40
+# RXUDLL_79750 Number of predicted TMRs: 0
+RXUDLL_79750	signal	1	39				
+RXUDLL_79750	outside	40	40				
+//
+# RXUDLL_149326 Length: 46
+# RXUDLL_149326 Number of predicted TMRs: 0
+RXUDLL_149326	signal	1	24				
+RXUDLL_149326	outside	25	46				
+//
+# RXUDLL_102602 Length: 49
+# RXUDLL_102602 Number of predicted TMRs: 0
+RXUDLL_102602	signal	1	24				
+RXUDLL_102602	outside	25	49				
+//
+# RXUDLL_59534 Length: 48
+# RXUDLL_59534 Number of predicted TMRs: 0
+RXUDLL_59534	signal	1	10				
+RXUDLL_59534	outside	11	48				
+//
+# RXUDLL_6260 Length: 50
+# RXUDLL_6260 Number of predicted TMRs: 0
+RXUDLL_6260	inside	1	50				
+//
+# RXUDLL_92525 Length: 49
+# RXUDLL_92525 Number of predicted TMRs: 0
+RXUDLL_92525	inside	1	49				
+//
+# RXUDLL_42519 Length: 40
+# RXUDLL_42519 Number of predicted TMRs: 0
+RXUDLL_42519	inside	1	40				
+//
+# RXUDLL_114412 Length: 48
+# RXUDLL_114412 Number of predicted TMRs: 0
+RXUDLL_114412	signal	1	23				
+RXUDLL_114412	outside	24	48				
+//
+# RXUDLL_40079 Length: 49
+# RXUDLL_40079 Number of predicted TMRs: 0
+RXUDLL_40079	inside	1	49				
+//
+# RXUDLL_133161 Length: 45
+# RXUDLL_133161 Number of predicted TMRs: 0
+RXUDLL_133161	signal	1	35				
+RXUDLL_133161	outside	36	45				
+//
+# RXUDLL_142412 Length: 50
+# RXUDLL_142412 Number of predicted TMRs: 0
+RXUDLL_142412	inside	1	50				
+//
+# RXUDLL_100745 Length: 48
+# RXUDLL_100745 Number of predicted TMRs: 0
+RXUDLL_100745	inside	1	48				
+//
+# RXUDLL_66302 Length: 49
+# RXUDLL_66302 Number of predicted TMRs: 0
+RXUDLL_66302	inside	1	49				
+//
+# RXUDLL_124061 Length: 49
+# RXUDLL_124061 Number of predicted TMRs: 0
+RXUDLL_124061	inside	1	49				
+//
+# RXUDLL_45153 Length: 48
+# RXUDLL_45153 Number of predicted TMRs: 0
+RXUDLL_45153	signal	1	13				
+RXUDLL_45153	outside	14	48				
+//
+# RXUDLL_74294 Length: 47
+# RXUDLL_74294 Number of predicted TMRs: 0
+RXUDLL_74294	inside	1	47				
+//
+# RXUDLL_12207 Length: 41
+# RXUDLL_12207 Number of predicted TMRs: 0
+RXUDLL_12207	inside	1	41				
+//
+# RXUDLL_60895 Length: 49
+# RXUDLL_60895 Number of predicted TMRs: 0
+RXUDLL_60895	inside	1	49				
+//
+# RXUDLL_42155 Length: 43
+# RXUDLL_42155 Number of predicted TMRs: 0
+RXUDLL_42155	signal	1	26				
+RXUDLL_42155	outside	27	43				
+//
+# RXUDLL_113543 Length: 45
+# RXUDLL_113543 Number of predicted TMRs: 0
+RXUDLL_113543	inside	1	45				
+//
+# RXUDLL_168465 Length: 48
+# RXUDLL_168465 Number of predicted TMRs: 0
+RXUDLL_168465	signal	1	26				
+RXUDLL_168465	outside	27	48				
+//
+# RXUDLL_82861 Length: 47
+# RXUDLL_82861 Number of predicted TMRs: 0
+RXUDLL_82861	inside	1	47				
+//
+# RXUDLL_110432 Length: 49
+# RXUDLL_110432 Number of predicted TMRs: 0
+RXUDLL_110432	inside	1	49				
+//
+# RXUDLL_107363 Length: 41
+# RXUDLL_107363 Number of predicted TMRs: 0
+RXUDLL_107363	signal	1	11				
+RXUDLL_107363	outside	12	41				
+//
+# RXUDLL_56631 Length: 46
+# RXUDLL_56631 Number of predicted TMRs: 0
+RXUDLL_56631	inside	1	46				
+//
+# RXUDLL_134806 Length: 46
+# RXUDLL_134806 Number of predicted TMRs: 0
+RXUDLL_134806	inside	1	46				
+//
+# RXUDLL_37359 Length: 46
+# RXUDLL_37359 Number of predicted TMRs: 0
+RXUDLL_37359	inside	1	46				
+//
+# RXUDLL_147332 Length: 43
+# RXUDLL_147332 Number of predicted TMRs: 0
+RXUDLL_147332	inside	1	43				
+//
+# RXUDLL_120933 Length: 49
+# RXUDLL_120933 Number of predicted TMRs: 0
+RXUDLL_120933	signal	1	48				
+RXUDLL_120933	outside	49	49				
+//
+# RXUDLL_63774 Length: 35
+# RXUDLL_63774 Number of predicted TMRs: 0
+RXUDLL_63774	inside	1	35				
+//
+# RXUDLL_23553 Length: 46
+# RXUDLL_23553 Number of predicted TMRs: 0
+RXUDLL_23553	inside	1	46				
+//
+# RXUDLL_11101 Length: 39
+# RXUDLL_11101 Number of predicted TMRs: 0
+RXUDLL_11101	inside	1	39				
+//
+# RXUDLL_157688 Length: 47
+# RXUDLL_157688 Number of predicted TMRs: 0
+RXUDLL_157688	inside	1	47				
+//
+# RXUDLL_141922 Length: 48
+# RXUDLL_141922 Number of predicted TMRs: 0
+RXUDLL_141922	inside	1	48				
+//
+# RXUDLL_172915 Length: 49
+# RXUDLL_172915 Number of predicted TMRs: 0
+RXUDLL_172915	inside	1	49				
+//
+# RXUDLL_17423 Length: 46
+# RXUDLL_17423 Number of predicted TMRs: 0
+RXUDLL_17423	inside	1	46				
+//
+# RXUDLL_173025 Length: 37
+# RXUDLL_173025 Number of predicted TMRs: 0
+RXUDLL_173025	inside	1	37				
+//
+# RXUDLL_34354 Length: 37
+# RXUDLL_34354 Number of predicted TMRs: 0
+RXUDLL_34354	signal	1	32				
+RXUDLL_34354	outside	33	37				
+//
+# RXUDLL_137328 Length: 46
+# RXUDLL_137328 Number of predicted TMRs: 0
+RXUDLL_137328	signal	1	10				
+RXUDLL_137328	outside	11	46				
+//
+# RXUDLL_86012 Length: 40
+# RXUDLL_86012 Number of predicted TMRs: 0
+RXUDLL_86012	inside	1	40				
+//
+# RXUDLL_68617 Length: 43
+# RXUDLL_68617 Number of predicted TMRs: 0
+RXUDLL_68617	inside	1	43				
+//
+# RXUDLL_147995 Length: 42
+# RXUDLL_147995 Number of predicted TMRs: 0
+RXUDLL_147995	signal	1	40				
+RXUDLL_147995	outside	41	42				
+//
+# RXUDLL_111051 Length: 38
+# RXUDLL_111051 Number of predicted TMRs: 0
+RXUDLL_111051	signal	1	36				
+RXUDLL_111051	outside	37	38				
+//
+# RXUDLL_136938 Length: 39
+# RXUDLL_136938 Number of predicted TMRs: 0
+RXUDLL_136938	inside	1	39				
+//
+# RXUDLL_21326 Length: 43
+# RXUDLL_21326 Number of predicted TMRs: 0
+RXUDLL_21326	inside	1	43				
+//
+# RXUDLL_127752 Length: 46
+# RXUDLL_127752 Number of predicted TMRs: 0
+RXUDLL_127752	inside	1	46				
+//
+# RXUDLL_16491 Length: 40
+# RXUDLL_16491 Number of predicted TMRs: 0
+RXUDLL_16491	signal	1	27				
+RXUDLL_16491	outside	28	40				
+//
+# RXUDLL_153129 Length: 41
+# RXUDLL_153129 Number of predicted TMRs: 0
+RXUDLL_153129	inside	1	41				
+//
+# RXUDLL_142537 Length: 48
+# RXUDLL_142537 Number of predicted TMRs: 0
+RXUDLL_142537	signal	1	47				
+RXUDLL_142537	outside	48	48				
+//
+# RXUDLL_52089 Length: 45
+# RXUDLL_52089 Number of predicted TMRs: 0
+RXUDLL_52089	inside	1	45				
+//
+# RXUDLL_112538 Length: 48
+# RXUDLL_112538 Number of predicted TMRs: 0
+RXUDLL_112538	inside	1	48				
+//
+# RXUDLL_70653 Length: 46
+# RXUDLL_70653 Number of predicted TMRs: 0
+RXUDLL_70653	inside	1	46				
+//
+# RXUDLL_72390 Length: 50
+# RXUDLL_72390 Number of predicted TMRs: 0
+RXUDLL_72390	inside	1	50				
+//
+# RXUDLL_50583 Length: 49
+# RXUDLL_50583 Number of predicted TMRs: 0
+RXUDLL_50583	signal	1	30				
+RXUDLL_50583	outside	31	49				
+//
+# RXUDLL_147494 Length: 47
+# RXUDLL_147494 Number of predicted TMRs: 0
+RXUDLL_147494	signal	1	14				
+RXUDLL_147494	outside	15	47				
+//
+# RXUDLL_109459 Length: 36
+# RXUDLL_109459 Number of predicted TMRs: 0
+RXUDLL_109459	signal	1	12				
+RXUDLL_109459	outside	13	36				
+//
+# RXUDLL_168989 Length: 49
+# RXUDLL_168989 Number of predicted TMRs: 0
+RXUDLL_168989	inside	1	49				
+//
+# RXUDLL_80704 Length: 45
+# RXUDLL_80704 Number of predicted TMRs: 0
+RXUDLL_80704	inside	1	45				
+//
+# RXUDLL_143724 Length: 42
+# RXUDLL_143724 Number of predicted TMRs: 0
+RXUDLL_143724	signal	1	32				
+RXUDLL_143724	outside	33	42				
+//
+# RXUDLL_64606 Length: 48
+# RXUDLL_64606 Number of predicted TMRs: 0
+RXUDLL_64606	inside	1	48				
+//
+# RXUDLL_44579 Length: 49
+# RXUDLL_44579 Number of predicted TMRs: 0
+RXUDLL_44579	signal	1	12				
+RXUDLL_44579	outside	13	49				
+//
+# RXUDLL_55675 Length: 43
+# RXUDLL_55675 Number of predicted TMRs: 0
+RXUDLL_55675	inside	1	43				
+//
+# RXUDLL_27944 Length: 43
+# RXUDLL_27944 Number of predicted TMRs: 0
+RXUDLL_27944	inside	1	43				
+//
+# RXUDLL_21836 Length: 34
+# RXUDLL_21836 Number of predicted TMRs: 0
+RXUDLL_21836	inside	1	34				
+//
+# RXUDLL_85807 Length: 44
+# RXUDLL_85807 Number of predicted TMRs: 0
+RXUDLL_85807	signal	1	43				
+RXUDLL_85807	outside	44	44				
+//
+# RXUDLL_86498 Length: 35
+# RXUDLL_86498 Number of predicted TMRs: 0
+RXUDLL_86498	signal	1	34				
+RXUDLL_86498	outside	35	35				
+//
+# RXUDLL_114188 Length: 48
+# RXUDLL_114188 Number of predicted TMRs: 0
+RXUDLL_114188	signal	1	47				
+RXUDLL_114188	outside	48	48				
+//
+# RXUDLL_68054 Length: 47
+# RXUDLL_68054 Number of predicted TMRs: 0
+RXUDLL_68054	inside	1	47				
+//
+# RXUDLL_124518 Length: 46
+# RXUDLL_124518 Number of predicted TMRs: 0
+RXUDLL_124518	signal	1	43				
+RXUDLL_124518	outside	44	46				
+//
+# RXUDLL_111845 Length: 46
+# RXUDLL_111845 Number of predicted TMRs: 0
+RXUDLL_111845	signal	1	43				
+RXUDLL_111845	outside	44	46				
+//
+# RXUDLL_38243 Length: 47
+# RXUDLL_38243 Number of predicted TMRs: 0
+RXUDLL_38243	inside	1	47				
+//
+# RXUDLL_77510 Length: 50
+# RXUDLL_77510 Number of predicted TMRs: 0
+RXUDLL_77510	signal	1	49				
+RXUDLL_77510	outside	50	50				
+//
+# RXUDLL_49334 Length: 46
+# RXUDLL_49334 Number of predicted TMRs: 0
+RXUDLL_49334	signal	1	30				
+RXUDLL_49334	outside	31	46				
+//
+# RXUDLL_90572 Length: 48
+# RXUDLL_90572 Number of predicted TMRs: 0
+RXUDLL_90572	signal	1	44				
+RXUDLL_90572	outside	45	48				
+//
+# RXUDLL_69744 Length: 42
+# RXUDLL_69744 Number of predicted TMRs: 0
+RXUDLL_69744	signal	1	32				
+RXUDLL_69744	outside	33	42				
+//
+# RXUDLL_142536 Length: 36
+# RXUDLL_142536 Number of predicted TMRs: 1
+RXUDLL_142536	inside	1	11				
+RXUDLL_142536	TMhelix	12	28				
+RXUDLL_142536	outside	29	36				
+//
+# RXUDLL_93983 Length: 43
+# RXUDLL_93983 Number of predicted TMRs: 0
+RXUDLL_93983	signal	1	32				
+RXUDLL_93983	outside	33	43				
+//
+# RXUDLL_122268 Length: 47
+# RXUDLL_122268 Number of predicted TMRs: 0
+RXUDLL_122268	inside	1	47				
+//
+# RXUDLL_122437 Length: 45
+# RXUDLL_122437 Number of predicted TMRs: 0
+RXUDLL_122437	inside	1	45				
+//
+# RXUDLL_23528 Length: 44
+# RXUDLL_23528 Number of predicted TMRs: 0
+RXUDLL_23528	signal	1	28				
+RXUDLL_23528	outside	29	44				
+//
+# RXUDLL_132887 Length: 47
+# RXUDLL_132887 Number of predicted TMRs: 0
+RXUDLL_132887	signal	1	31				
+RXUDLL_132887	outside	32	47				
+//
+# RXUDLL_131668 Length: 26
+# RXUDLL_131668 Number of predicted TMRs: 0
+RXUDLL_131668	inside	1	26				
+//
+# RXUDLL_117477 Length: 47
+# RXUDLL_117477 Number of predicted TMRs: 0
+RXUDLL_117477	inside	1	47				
+//
+# RXUDLL_170114 Length: 45
+# RXUDLL_170114 Number of predicted TMRs: 0
+RXUDLL_170114	signal	1	26				
+RXUDLL_170114	outside	27	45				
+//
+# RXUDLL_15905 Length: 50
+# RXUDLL_15905 Number of predicted TMRs: 0
+RXUDLL_15905	inside	1	50				
+//
+# RXUDLL_64610 Length: 43
+# RXUDLL_64610 Number of predicted TMRs: 0
+RXUDLL_64610	signal	1	38				
+RXUDLL_64610	outside	39	43				
+//
+# RXUDLL_89093 Length: 42
+# RXUDLL_89093 Number of predicted TMRs: 0
+RXUDLL_89093	signal	1	12				
+RXUDLL_89093	outside	13	42				
+//
+# RXUDLL_41228 Length: 47
+# RXUDLL_41228 Number of predicted TMRs: 0
+RXUDLL_41228	signal	1	23				
+RXUDLL_41228	outside	24	47				
+//
+# RXUDLL_37498 Length: 36
+# RXUDLL_37498 Number of predicted TMRs: 0
+RXUDLL_37498	inside	1	36				
+//
+# RXUDLL_162398 Length: 41
+# RXUDLL_162398 Number of predicted TMRs: 0
+RXUDLL_162398	signal	1	33				
+RXUDLL_162398	outside	34	41				
+//
+# RXUDLL_149150 Length: 49
+# RXUDLL_149150 Number of predicted TMRs: 0
+RXUDLL_149150	inside	1	49				
+//
+# RXUDLL_18813 Length: 49
+# RXUDLL_18813 Number of predicted TMRs: 0
+RXUDLL_18813	signal	1	12				
+RXUDLL_18813	outside	13	49				
+//
+# RXUDLL_86341 Length: 39
+# RXUDLL_86341 Number of predicted TMRs: 1
+RXUDLL_86341	outside	1	6				
+RXUDLL_86341	TMhelix	7	27				
+RXUDLL_86341	inside	28	39				
+//
+# RXUDLL_66253 Length: 47
+# RXUDLL_66253 Number of predicted TMRs: 1
+RXUDLL_66253	inside	1	27				
+RXUDLL_66253	TMhelix	28	41				
+RXUDLL_66253	outside	42	47				
+//
+# RXUDLL_104540 Length: 49
+# RXUDLL_104540 Number of predicted TMRs: 0
+RXUDLL_104540	inside	1	49				
+//
+# RXUDLL_49152 Length: 48
+# RXUDLL_49152 Number of predicted TMRs: 0
+RXUDLL_49152	inside	1	48				
+//
+# RXUDLL_127947 Length: 49
+# RXUDLL_127947 Number of predicted TMRs: 0
+RXUDLL_127947	inside	1	49				
+//
+# RXUDLL_102810 Length: 40
+# RXUDLL_102810 Number of predicted TMRs: 0
+RXUDLL_102810	signal	1	28				
+RXUDLL_102810	outside	29	40				
+//
+# RXUDLL_12502 Length: 49
+# RXUDLL_12502 Number of predicted TMRs: 0
+RXUDLL_12502	signal	1	38				
+RXUDLL_12502	outside	39	49				
+//
+# RXUDLL_97597 Length: 49
+# RXUDLL_97597 Number of predicted TMRs: 0
+RXUDLL_97597	signal	1	10				
+RXUDLL_97597	outside	11	49				
+//
+# RXUDLL_64490 Length: 33
+# RXUDLL_64490 Number of predicted TMRs: 0
+RXUDLL_64490	signal	1	29				
+RXUDLL_64490	outside	30	33				
+//
+# RXUDLL_24539 Length: 37
+# RXUDLL_24539 Number of predicted TMRs: 0
+RXUDLL_24539	signal	1	35				
+RXUDLL_24539	outside	36	37				
+//
+# RXUDLL_27889 Length: 28
+# RXUDLL_27889 Number of predicted TMRs: 0
+RXUDLL_27889	signal	1	25				
+RXUDLL_27889	outside	26	28				
+//
+# RXUDLL_144345 Length: 47
+# RXUDLL_144345 Number of predicted TMRs: 0
+RXUDLL_144345	inside	1	47				
+//
+# RXUDLL_120561 Length: 47
+# RXUDLL_120561 Number of predicted TMRs: 0
+RXUDLL_120561	signal	1	38				
+RXUDLL_120561	outside	39	47				
+//
+# RXUDLL_35163 Length: 48
+# RXUDLL_35163 Number of predicted TMRs: 0
+RXUDLL_35163	inside	1	48				
+//
+# RXUDLL_23532 Length: 48
+# RXUDLL_23532 Number of predicted TMRs: 0
+RXUDLL_23532	inside	1	48				
+//
+# RXUDLL_15292 Length: 50
+# RXUDLL_15292 Number of predicted TMRs: 0
+RXUDLL_15292	inside	1	50				
+//
+# RXUDLL_68773 Length: 46
+# RXUDLL_68773 Number of predicted TMRs: 0
+RXUDLL_68773	signal	1	45				
+RXUDLL_68773	outside	46	46				
+//
+# RXUDLL_14769 Length: 47
+# RXUDLL_14769 Number of predicted TMRs: 0
+RXUDLL_14769	signal	1	46				
+RXUDLL_14769	outside	47	47				
+//
+# RXUDLL_171784 Length: 45
+# RXUDLL_171784 Number of predicted TMRs: 0
+RXUDLL_171784	signal	1	34				
+RXUDLL_171784	outside	35	45				
+//
+# RXUDLL_138313 Length: 47
+# RXUDLL_138313 Number of predicted TMRs: 0
+RXUDLL_138313	signal	1	34				
+RXUDLL_138313	outside	35	47				
+//
+# RXUDLL_112966 Length: 47
+# RXUDLL_112966 Number of predicted TMRs: 0
+RXUDLL_112966	signal	1	14				
+RXUDLL_112966	outside	15	47				
+//
+# RXUDLL_24469 Length: 48
+# RXUDLL_24469 Number of predicted TMRs: 0
+RXUDLL_24469	signal	1	10				
+RXUDLL_24469	outside	11	48				
+//
+# RXUDLL_74672 Length: 37
+# RXUDLL_74672 Number of predicted TMRs: 0
+RXUDLL_74672	inside	1	37				
+//
+# RXUDLL_138476 Length: 37
+# RXUDLL_138476 Number of predicted TMRs: 0
+RXUDLL_138476	inside	1	37				
+//
+# RXUDLL_29843 Length: 49
+# RXUDLL_29843 Number of predicted TMRs: 0
+RXUDLL_29843	inside	1	49				
+//
+# RXUDLL_42722 Length: 44
+# RXUDLL_42722 Number of predicted TMRs: 0
+RXUDLL_42722	inside	1	44				
+//
+# RXUDLL_30049 Length: 42
+# RXUDLL_30049 Number of predicted TMRs: 0
+RXUDLL_30049	signal	1	39				
+RXUDLL_30049	outside	40	42				
+//
+# RXUDLL_88172 Length: 45
+# RXUDLL_88172 Number of predicted TMRs: 0
+RXUDLL_88172	signal	1	21				
+RXUDLL_88172	outside	22	45				
+//
+# RXUDLL_137778 Length: 49
+# RXUDLL_137778 Number of predicted TMRs: 0
+RXUDLL_137778	inside	1	49				
+//
+# RXUDLL_164075 Length: 49
+# RXUDLL_164075 Number of predicted TMRs: 0
+RXUDLL_164075	inside	1	49				
+//
+# RXUDLL_47778 Length: 48
+# RXUDLL_47778 Number of predicted TMRs: 0
+RXUDLL_47778	inside	1	48				
+//
+# RXUDLL_23743 Length: 48
+# RXUDLL_23743 Number of predicted TMRs: 0
+RXUDLL_23743	inside	1	48				
+//
+# RXUDLL_77891 Length: 40
+# RXUDLL_77891 Number of predicted TMRs: 0
+RXUDLL_77891	signal	1	20				
+RXUDLL_77891	outside	21	40				
+//
+# RXUDLL_77883 Length: 41
+# RXUDLL_77883 Number of predicted TMRs: 0
+RXUDLL_77883	signal	1	21				
+RXUDLL_77883	outside	22	41				
+//
+# RXUDLL_150373 Length: 48
+# RXUDLL_150373 Number of predicted TMRs: 0
+RXUDLL_150373	outside	1	48				
+//
+# RXUDLL_167641 Length: 41
+# RXUDLL_167641 Number of predicted TMRs: 0
+RXUDLL_167641	signal	1	14				
+RXUDLL_167641	outside	15	41				
+//
+# RXUDLL_92438 Length: 49
+# RXUDLL_92438 Number of predicted TMRs: 0
+RXUDLL_92438	inside	1	49				
+//
+# RXUDLL_87863 Length: 45
+# RXUDLL_87863 Number of predicted TMRs: 0
+RXUDLL_87863	inside	1	45				
+//
+# RXUDLL_106839 Length: 48
+# RXUDLL_106839 Number of predicted TMRs: 0
+RXUDLL_106839	signal	1	29				
+RXUDLL_106839	outside	30	48				
+//
+# RXUDLL_73391 Length: 46
+# RXUDLL_73391 Number of predicted TMRs: 0
+RXUDLL_73391	inside	1	46				
+//
+# RXUDLL_73411 Length: 44
+# RXUDLL_73411 Number of predicted TMRs: 0
+RXUDLL_73411	inside	1	44				
+//
+# RXUDLL_75170 Length: 44
+# RXUDLL_75170 Number of predicted TMRs: 0
+RXUDLL_75170	inside	1	44				
+//
+# RXUDLL_137307 Length: 42
+# RXUDLL_137307 Number of predicted TMRs: 0
+RXUDLL_137307	signal	1	41				
+RXUDLL_137307	outside	42	42				
+//
+# RXUDLL_73237 Length: 49
+# RXUDLL_73237 Number of predicted TMRs: 0
+RXUDLL_73237	inside	1	49				
+//
+# RXUDLL_47253 Length: 50
+# RXUDLL_47253 Number of predicted TMRs: 0
+RXUDLL_47253	inside	1	50				
+//
+# RXUDLL_143289 Length: 43
+# RXUDLL_143289 Number of predicted TMRs: 0
+RXUDLL_143289	inside	1	43				
+//
+# RXUDLL_53178 Length: 46
+# RXUDLL_53178 Number of predicted TMRs: 0
+RXUDLL_53178	inside	1	46				
+//
+# RXUDLL_2411 Length: 43
+# RXUDLL_2411 Number of predicted TMRs: 0
+RXUDLL_2411	signal	1	42				
+RXUDLL_2411	outside	43	43				
+//
+# RXUDLL_99023 Length: 42
+# RXUDLL_99023 Number of predicted TMRs: 0
+RXUDLL_99023	signal	1	41				
+RXUDLL_99023	outside	42	42				
+//
+# RXUDLL_84606 Length: 50
+# RXUDLL_84606 Number of predicted TMRs: 0
+RXUDLL_84606	inside	1	50				
+//
+# RXUDLL_140134 Length: 44
+# RXUDLL_140134 Number of predicted TMRs: 0
+RXUDLL_140134	inside	1	44				
+//
+# RXUDLL_140938 Length: 42
+# RXUDLL_140938 Number of predicted TMRs: 0
+RXUDLL_140938	inside	1	42				
+//
+# RXUDLL_135821 Length: 36
+# RXUDLL_135821 Number of predicted TMRs: 0
+RXUDLL_135821	inside	1	36				
+//
+# RXUDLL_55925 Length: 31
+# RXUDLL_55925 Number of predicted TMRs: 0
+RXUDLL_55925	signal	1	29				
+RXUDLL_55925	outside	30	31				
+//
+# RXUDLL_18277 Length: 47
+# RXUDLL_18277 Number of predicted TMRs: 0
+RXUDLL_18277	inside	1	47				
+//
+# RXUDLL_94120 Length: 37
+# RXUDLL_94120 Number of predicted TMRs: 0
+RXUDLL_94120	inside	1	37				
+//
+# RXUDLL_128732 Length: 50
+# RXUDLL_128732 Number of predicted TMRs: 0
+RXUDLL_128732	inside	1	50				
+//
+# RXUDLL_146256 Length: 44
+# RXUDLL_146256 Number of predicted TMRs: 0
+RXUDLL_146256	signal	1	40				
+RXUDLL_146256	outside	41	44				
+//
+# RXUDLL_54969 Length: 39
+# RXUDLL_54969 Number of predicted TMRs: 0
+RXUDLL_54969	signal	1	37				
+RXUDLL_54969	outside	38	39				
+//
+# RXUDLL_163264 Length: 44
+# RXUDLL_163264 Number of predicted TMRs: 0
+RXUDLL_163264	inside	1	44				
+//
+# RXUDLL_2590 Length: 46
+# RXUDLL_2590 Number of predicted TMRs: 0
+RXUDLL_2590	signal	1	12				
+RXUDLL_2590	outside	13	46				
+//
+# RXUDLL_116688 Length: 32
+# RXUDLL_116688 Number of predicted TMRs: 0
+RXUDLL_116688	signal	1	31				
+RXUDLL_116688	outside	32	32				
+//
+# RXUDLL_135162 Length: 38
+# RXUDLL_135162 Number of predicted TMRs: 0
+RXUDLL_135162	inside	1	38				
+//
+# RXUDLL_138950 Length: 46
+# RXUDLL_138950 Number of predicted TMRs: 0
+RXUDLL_138950	signal	1	45				
+RXUDLL_138950	outside	46	46				
+//
+# RXUDLL_87430 Length: 46
+# RXUDLL_87430 Number of predicted TMRs: 0
+RXUDLL_87430	signal	1	32				
+RXUDLL_87430	outside	33	46				
+//
+# RXUDLL_27950 Length: 49
+# RXUDLL_27950 Number of predicted TMRs: 0
+RXUDLL_27950	signal	1	14				
+RXUDLL_27950	outside	15	49				
+//
+# RXUDLL_73601 Length: 44
+# RXUDLL_73601 Number of predicted TMRs: 0
+RXUDLL_73601	signal	1	11				
+RXUDLL_73601	outside	12	44				
+//
+# RXUDLL_165264 Length: 43
+# RXUDLL_165264 Number of predicted TMRs: 0
+RXUDLL_165264	signal	1	35				
+RXUDLL_165264	outside	36	43				
+//
+# RXUDLL_133109 Length: 43
+# RXUDLL_133109 Number of predicted TMRs: 0
+RXUDLL_133109	inside	1	43				
+//
+# RXUDLL_148073 Length: 46
+# RXUDLL_148073 Number of predicted TMRs: 0
+RXUDLL_148073	signal	1	40				
+RXUDLL_148073	outside	41	46				
+//
+# RXUDLL_33279 Length: 40
+# RXUDLL_33279 Number of predicted TMRs: 0
+RXUDLL_33279	signal	1	39				
+RXUDLL_33279	outside	40	40				
+//
+# RXUDLL_79361 Length: 39
+# RXUDLL_79361 Number of predicted TMRs: 0
+RXUDLL_79361	signal	1	38				
+RXUDLL_79361	outside	39	39				
+//
+# RXUDLL_48596 Length: 46
+# RXUDLL_48596 Number of predicted TMRs: 0
+RXUDLL_48596	signal	1	10				
+RXUDLL_48596	outside	11	46				
+//
+# RXUDLL_114252 Length: 49
+# RXUDLL_114252 Number of predicted TMRs: 0
+RXUDLL_114252	signal	1	47				
+RXUDLL_114252	outside	48	49				
+//
+# RXUDLL_96632 Length: 41
+# RXUDLL_96632 Number of predicted TMRs: 0
+RXUDLL_96632	signal	1	19				
+RXUDLL_96632	outside	20	41				
+//
+# RXUDLL_83027 Length: 33
+# RXUDLL_83027 Number of predicted TMRs: 0
+RXUDLL_83027	outside	1	33				
+//
+# RXUDLL_58537 Length: 39
+# RXUDLL_58537 Number of predicted TMRs: 0
+RXUDLL_58537	signal	1	17				
+RXUDLL_58537	outside	18	39				
+//
+# RXUDLL_41427 Length: 50
+# RXUDLL_41427 Number of predicted TMRs: 0
+RXUDLL_41427	signal	1	44				
+RXUDLL_41427	outside	45	50				
+//
+# RXUDLL_120191 Length: 40
+# RXUDLL_120191 Number of predicted TMRs: 0
+RXUDLL_120191	signal	1	20				
+RXUDLL_120191	outside	21	40				
+//
+# RXUDLL_36918 Length: 46
+# RXUDLL_36918 Number of predicted TMRs: 0
+RXUDLL_36918	signal	1	11				
+RXUDLL_36918	outside	12	46				
+//
+# RXUDLL_77215 Length: 49
+# RXUDLL_77215 Number of predicted TMRs: 0
+RXUDLL_77215	signal	1	21				
+RXUDLL_77215	outside	22	49				
+//
+# RXUDLL_86213 Length: 45
+# RXUDLL_86213 Number of predicted TMRs: 0
+RXUDLL_86213	inside	1	45				
+//
+# RXUDLL_88287 Length: 49
+# RXUDLL_88287 Number of predicted TMRs: 0
+RXUDLL_88287	signal	1	37				
+RXUDLL_88287	outside	38	49				
+//
+# RXUDLL_59049 Length: 35
+# RXUDLL_59049 Number of predicted TMRs: 0
+RXUDLL_59049	signal	1	30				
+RXUDLL_59049	outside	31	35				
+//
+# RXUDLL_154412 Length: 44
+# RXUDLL_154412 Number of predicted TMRs: 0
+RXUDLL_154412	inside	1	44				
+//
+# RXUDLL_91871 Length: 50
+# RXUDLL_91871 Number of predicted TMRs: 0
+RXUDLL_91871	signal	1	44				
+RXUDLL_91871	outside	45	50				
+//
+# RXUDLL_36141 Length: 49
+# RXUDLL_36141 Number of predicted TMRs: 0
+RXUDLL_36141	inside	1	49				
+//
+# RXUDLL_58221 Length: 35
+# RXUDLL_58221 Number of predicted TMRs: 0
+RXUDLL_58221	signal	1	12				
+RXUDLL_58221	outside	13	35				
+//
+# RXUDLL_114800 Length: 47
+# RXUDLL_114800 Number of predicted TMRs: 0
+RXUDLL_114800	inside	1	47				
+//
+# RXUDLL_115713 Length: 48
+# RXUDLL_115713 Number of predicted TMRs: 0
+RXUDLL_115713	inside	1	48				
+//
+# RXUDLL_55632 Length: 37
+# RXUDLL_55632 Number of predicted TMRs: 0
+RXUDLL_55632	signal	1	29				
+RXUDLL_55632	outside	30	37				
+//
+# RXUDLL_52817 Length: 47
+# RXUDLL_52817 Number of predicted TMRs: 0
+RXUDLL_52817	signal	1	35				
+RXUDLL_52817	outside	36	47				
+//
+# RXUDLL_111968 Length: 38
+# RXUDLL_111968 Number of predicted TMRs: 0
+RXUDLL_111968	signal	1	21				
+RXUDLL_111968	outside	22	38				
+//
+# RXUDLL_132883 Length: 49
+# RXUDLL_132883 Number of predicted TMRs: 0
+RXUDLL_132883	signal	1	10				
+RXUDLL_132883	outside	11	49				
+//
+# RXUDLL_110391 Length: 35
+# RXUDLL_110391 Number of predicted TMRs: 0
+RXUDLL_110391	signal	1	34				
+RXUDLL_110391	outside	35	35				
+//
+# RXUDLL_151353 Length: 48
+# RXUDLL_151353 Number of predicted TMRs: 0
+RXUDLL_151353	inside	1	48				
+//
+# RXUDLL_22979 Length: 46
+# RXUDLL_22979 Number of predicted TMRs: 0
+RXUDLL_22979	signal	1	18				
+RXUDLL_22979	outside	19	46				
+//
+# RXUDLL_167057 Length: 42
+# RXUDLL_167057 Number of predicted TMRs: 0
+RXUDLL_167057	signal	1	41				
+RXUDLL_167057	outside	42	42				
+//
+# RXUDLL_131756 Length: 42
+# RXUDLL_131756 Number of predicted TMRs: 0
+RXUDLL_131756	inside	1	42				
+//
+# RXUDLL_168816 Length: 42
+# RXUDLL_168816 Number of predicted TMRs: 0
+RXUDLL_168816	inside	1	42				
+//
+# RXUDLL_143544 Length: 42
+# RXUDLL_143544 Number of predicted TMRs: 0
+RXUDLL_143544	signal	1	40				
+RXUDLL_143544	outside	41	42				
+//
+# RXUDLL_33028 Length: 42
+# RXUDLL_33028 Number of predicted TMRs: 0
+RXUDLL_33028	signal	1	41				
+RXUDLL_33028	outside	42	42				
+//
+# RXUDLL_119558 Length: 42
+# RXUDLL_119558 Number of predicted TMRs: 0
+RXUDLL_119558	inside	1	42				
+//
+# RXUDLL_75072 Length: 42
+# RXUDLL_75072 Number of predicted TMRs: 0
+RXUDLL_75072	inside	1	42				
+//
+# RXUDLL_147976 Length: 42
+# RXUDLL_147976 Number of predicted TMRs: 0
+RXUDLL_147976	inside	1	42				
+//
+# RXUDLL_171097 Length: 42
+# RXUDLL_171097 Number of predicted TMRs: 0
+RXUDLL_171097	inside	1	42				
+//
+# RXUDLL_172675 Length: 42
+# RXUDLL_172675 Number of predicted TMRs: 0
+RXUDLL_172675	signal	1	41				
+RXUDLL_172675	outside	42	42				
+//
+# RXUDLL_172432 Length: 42
+# RXUDLL_172432 Number of predicted TMRs: 0
+RXUDLL_172432	inside	1	42				
+//
+# RXUDLL_113028 Length: 42
+# RXUDLL_113028 Number of predicted TMRs: 0
+RXUDLL_113028	inside	1	42				
+//
+# RXUDLL_171030 Length: 42
+# RXUDLL_171030 Number of predicted TMRs: 0
+RXUDLL_171030	signal	1	41				
+RXUDLL_171030	outside	42	42				
+//
+# RXUDLL_170701 Length: 41
+# RXUDLL_170701 Number of predicted TMRs: 0
+RXUDLL_170701	signal	1	37				
+RXUDLL_170701	outside	38	41				
+//
+# RXUDLL_16327 Length: 42
+# RXUDLL_16327 Number of predicted TMRs: 0
+RXUDLL_16327	signal	1	40				
+RXUDLL_16327	outside	41	42				
+//
+# RXUDLL_119138 Length: 42
+# RXUDLL_119138 Number of predicted TMRs: 0
+RXUDLL_119138	signal	1	41				
+RXUDLL_119138	outside	42	42				
+//
+# RXUDLL_138107 Length: 42
+# RXUDLL_138107 Number of predicted TMRs: 0
+RXUDLL_138107	inside	1	42				
+//
+# RXUDLL_44001 Length: 42
+# RXUDLL_44001 Number of predicted TMRs: 0
+RXUDLL_44001	inside	1	42				
+//
+# RXUDLL_170661 Length: 42
+# RXUDLL_170661 Number of predicted TMRs: 0
+RXUDLL_170661	signal	1	41				
+RXUDLL_170661	outside	42	42				
+//
+# RXUDLL_124359 Length: 42
+# RXUDLL_124359 Number of predicted TMRs: 0
+RXUDLL_124359	inside	1	42				
+//
+# RXUDLL_168831 Length: 42
+# RXUDLL_168831 Number of predicted TMRs: 0
+RXUDLL_168831	signal	1	41				
+RXUDLL_168831	outside	42	42				
+//
+# RXUDLL_171098 Length: 42
+# RXUDLL_171098 Number of predicted TMRs: 0
+RXUDLL_171098	signal	1	41				
+RXUDLL_171098	outside	42	42				
+//
+# RXUDLL_163766 Length: 42
+# RXUDLL_163766 Number of predicted TMRs: 0
+RXUDLL_163766	inside	1	42				
+//
+# RXUDLL_94270 Length: 42
+# RXUDLL_94270 Number of predicted TMRs: 0
+RXUDLL_94270	inside	1	42				
+//
+# RXUDLL_170868 Length: 42
+# RXUDLL_170868 Number of predicted TMRs: 0
+RXUDLL_170868	signal	1	41				
+RXUDLL_170868	outside	42	42				
+//
+# RXUDLL_172815 Length: 42
+# RXUDLL_172815 Number of predicted TMRs: 0
+RXUDLL_172815	signal	1	41				
+RXUDLL_172815	outside	42	42				
+//
+# RXUDLL_172348 Length: 42
+# RXUDLL_172348 Number of predicted TMRs: 0
+RXUDLL_172348	signal	1	41				
+RXUDLL_172348	outside	42	42				
+//
+# RXUDLL_170586 Length: 42
+# RXUDLL_170586 Number of predicted TMRs: 0
+RXUDLL_170586	signal	1	41				
+RXUDLL_170586	outside	42	42				
+//
+# RXUDLL_90646 Length: 42
+# RXUDLL_90646 Number of predicted TMRs: 0
+RXUDLL_90646	signal	1	41				
+RXUDLL_90646	outside	42	42				
+//
+# RXUDLL_22932 Length: 38
+# RXUDLL_22932 Number of predicted TMRs: 0
+RXUDLL_22932	signal	1	10				
+RXUDLL_22932	outside	11	38				
+//
+# RXUDLL_41545 Length: 45
+# RXUDLL_41545 Number of predicted TMRs: 0
+RXUDLL_41545	signal	1	29				
+RXUDLL_41545	outside	30	45				
+//
+# RXUDLL_140173 Length: 44
+# RXUDLL_140173 Number of predicted TMRs: 0
+RXUDLL_140173	inside	1	44				
+//
+# RXUDLL_61142 Length: 48
+# RXUDLL_61142 Number of predicted TMRs: 0
+RXUDLL_61142	signal	1	38				
+RXUDLL_61142	outside	39	48				
+//
+# RXUDLL_2875 Length: 44
+# RXUDLL_2875 Number of predicted TMRs: 0
+RXUDLL_2875	signal	1	31				
+RXUDLL_2875	outside	32	44				
+//
+# RXUDLL_101404 Length: 37
+# RXUDLL_101404 Number of predicted TMRs: 0
+RXUDLL_101404	signal	1	22				
+RXUDLL_101404	outside	23	37				
+//
+# RXUDLL_31687 Length: 48
+# RXUDLL_31687 Number of predicted TMRs: 0
+RXUDLL_31687	inside	1	48				
+//
+# RXUDLL_82929 Length: 38
+# RXUDLL_82929 Number of predicted TMRs: 0
+RXUDLL_82929	inside	1	38				
+//
+# RXUDLL_115766 Length: 47
+# RXUDLL_115766 Number of predicted TMRs: 0
+RXUDLL_115766	signal	1	46				
+RXUDLL_115766	outside	47	47				
+//
+# RXUDLL_93718 Length: 47
+# RXUDLL_93718 Number of predicted TMRs: 0
+RXUDLL_93718	inside	1	47				
+//
+# RXUDLL_144615 Length: 47
+# RXUDLL_144615 Number of predicted TMRs: 0
+RXUDLL_144615	inside	1	47				
+//
+# RXUDLL_132871 Length: 47
+# RXUDLL_132871 Number of predicted TMRs: 0
+RXUDLL_132871	inside	1	47				
+//
+# RXUDLL_66790 Length: 35
+# RXUDLL_66790 Number of predicted TMRs: 0
+RXUDLL_66790	signal	1	20				
+RXUDLL_66790	outside	21	35				
+//
+# RXUDLL_32017 Length: 38
+# RXUDLL_32017 Number of predicted TMRs: 0
+RXUDLL_32017	inside	1	38				
+//
+# RXUDLL_55890 Length: 44
+# RXUDLL_55890 Number of predicted TMRs: 0
+RXUDLL_55890	signal	1	32				
+RXUDLL_55890	outside	33	44				
+//
+# RXUDLL_152200 Length: 50
+# RXUDLL_152200 Number of predicted TMRs: 0
+RXUDLL_152200	signal	1	38				
+RXUDLL_152200	outside	39	50				
+//
+# RXUDLL_96947 Length: 38
+# RXUDLL_96947 Number of predicted TMRs: 0
+RXUDLL_96947	inside	1	38				
+//
+# RXUDLL_132476 Length: 44
+# RXUDLL_132476 Number of predicted TMRs: 0
+RXUDLL_132476	signal	1	10				
+RXUDLL_132476	outside	11	44				
+//
+# RXUDLL_43792 Length: 45
+# RXUDLL_43792 Number of predicted TMRs: 0
+RXUDLL_43792	inside	1	45				
+//
+# RXUDLL_14673 Length: 47
+# RXUDLL_14673 Number of predicted TMRs: 0
+RXUDLL_14673	signal	1	41				
+RXUDLL_14673	outside	42	47				
+//
+# RXUDLL_79288 Length: 49
+# RXUDLL_79288 Number of predicted TMRs: 0
+RXUDLL_79288	inside	1	49				
+//
+# RXUDLL_44417 Length: 48
+# RXUDLL_44417 Number of predicted TMRs: 0
+RXUDLL_44417	inside	1	48				
+//
+# RXUDLL_93801 Length: 45
+# RXUDLL_93801 Number of predicted TMRs: 0
+RXUDLL_93801	inside	1	45				
+//
+# RXUDLL_172544 Length: 41
+# RXUDLL_172544 Number of predicted TMRs: 0
+RXUDLL_172544	inside	1	41				
+//
+# RXUDLL_163919 Length: 43
+# RXUDLL_163919 Number of predicted TMRs: 0
+RXUDLL_163919	inside	1	43				
+//
+# RXUDLL_117779 Length: 48
+# RXUDLL_117779 Number of predicted TMRs: 0
+RXUDLL_117779	inside	1	48				
+//
+# RXUDLL_139982 Length: 47
+# RXUDLL_139982 Number of predicted TMRs: 0
+RXUDLL_139982	inside	1	47				
+//
+# RXUDLL_99066 Length: 37
+# RXUDLL_99066 Number of predicted TMRs: 0
+RXUDLL_99066	signal	1	35				
+RXUDLL_99066	outside	36	37				
+//
+# RXUDLL_74282 Length: 43
+# RXUDLL_74282 Number of predicted TMRs: 0
+RXUDLL_74282	signal	1	15				
+RXUDLL_74282	outside	16	43				
+//
+# RXUDLL_47608 Length: 49
+# RXUDLL_47608 Number of predicted TMRs: 0
+RXUDLL_47608	inside	1	49				
+//
+# RXUDLL_30163 Length: 37
+# RXUDLL_30163 Number of predicted TMRs: 0
+RXUDLL_30163	signal	1	23				
+RXUDLL_30163	outside	24	37				
+//
+# RXUDLL_17881 Length: 46
+# RXUDLL_17881 Number of predicted TMRs: 0
+RXUDLL_17881	signal	1	26				
+RXUDLL_17881	outside	27	46				
+//
+# RXUDLL_127713 Length: 47
+# RXUDLL_127713 Number of predicted TMRs: 0
+RXUDLL_127713	inside	1	47				
+//
+# RXUDLL_115395 Length: 41
+# RXUDLL_115395 Number of predicted TMRs: 0
+RXUDLL_115395	inside	1	41				
+//
+# RXUDLL_142447 Length: 34
+# RXUDLL_142447 Number of predicted TMRs: 1
+RXUDLL_142447	outside	1	1				
+RXUDLL_142447	TMhelix	2	20				
+RXUDLL_142447	inside	21	34				
+//
+# RXUDLL_68915 Length: 49
+# RXUDLL_68915 Number of predicted TMRs: 0
+RXUDLL_68915	inside	1	49				
+//
+# RXUDLL_8315 Length: 45
+# RXUDLL_8315 Number of predicted TMRs: 0
+RXUDLL_8315	signal	1	44				
+RXUDLL_8315	outside	45	45				
+//
+# RXUDLL_67010 Length: 41
+# RXUDLL_67010 Number of predicted TMRs: 0
+RXUDLL_67010	inside	1	41				
+//
+# RXUDLL_89367 Length: 49
+# RXUDLL_89367 Number of predicted TMRs: 0
+RXUDLL_89367	inside	1	49				
+//
+# RXUDLL_167936 Length: 41
+# RXUDLL_167936 Number of predicted TMRs: 0
+RXUDLL_167936	inside	1	41				
+//
+# RXUDLL_172314 Length: 44
+# RXUDLL_172314 Number of predicted TMRs: 0
+RXUDLL_172314	signal	1	42				
+RXUDLL_172314	outside	43	44				
+//
+# RXUDLL_92684 Length: 39
+# RXUDLL_92684 Number of predicted TMRs: 0
+RXUDLL_92684	signal	1	10				
+RXUDLL_92684	outside	11	39				
+//
+# RXUDLL_136995 Length: 34
+# RXUDLL_136995 Number of predicted TMRs: 0
+RXUDLL_136995	signal	1	33				
+RXUDLL_136995	outside	34	34				
+//
+# RXUDLL_21034 Length: 47
+# RXUDLL_21034 Number of predicted TMRs: 0
+RXUDLL_21034	signal	1	10				
+RXUDLL_21034	outside	11	47				
+//
+# RXUDLL_164400 Length: 42
+# RXUDLL_164400 Number of predicted TMRs: 0
+RXUDLL_164400	signal	1	15				
+RXUDLL_164400	outside	16	42				
+//
+# RXUDLL_72672 Length: 50
+# RXUDLL_72672 Number of predicted TMRs: 0
+RXUDLL_72672	inside	1	50				
+//
+# RXUDLL_41150 Length: 50
+# RXUDLL_41150 Number of predicted TMRs: 0
+RXUDLL_41150	outside	1	50				
+//
+# RXUDLL_2238 Length: 46
+# RXUDLL_2238 Number of predicted TMRs: 0
+RXUDLL_2238	inside	1	46				
+//
+# RXUDLL_171032 Length: 39
+# RXUDLL_171032 Number of predicted TMRs: 0
+RXUDLL_171032	outside	1	39				
+//
+# RXUDLL_113687 Length: 49
+# RXUDLL_113687 Number of predicted TMRs: 0
+RXUDLL_113687	inside	1	49				
+//
+# RXUDLL_167480 Length: 41
+# RXUDLL_167480 Number of predicted TMRs: 0
+RXUDLL_167480	signal	1	32				
+RXUDLL_167480	outside	33	41				
+//
+# RXUDLL_49191 Length: 41
+# RXUDLL_49191 Number of predicted TMRs: 0
+RXUDLL_49191	signal	1	36				
+RXUDLL_49191	outside	37	41				
+//
+# RXUDLL_118528 Length: 41
+# RXUDLL_118528 Number of predicted TMRs: 0
+RXUDLL_118528	signal	1	32				
+RXUDLL_118528	outside	33	41				
+//
+# RXUDLL_20799 Length: 48
+# RXUDLL_20799 Number of predicted TMRs: 0
+RXUDLL_20799	inside	1	48				
+//
+# RXUDLL_106352 Length: 40
+# RXUDLL_106352 Number of predicted TMRs: 0
+RXUDLL_106352	signal	1	14				
+RXUDLL_106352	outside	15	40				
+//
+# RXUDLL_55302 Length: 50
+# RXUDLL_55302 Number of predicted TMRs: 0
+RXUDLL_55302	signal	1	43				
+RXUDLL_55302	outside	44	50				
+//
+# RXUDLL_90366 Length: 42
+# RXUDLL_90366 Number of predicted TMRs: 0
+RXUDLL_90366	signal	1	27				
+RXUDLL_90366	outside	28	42				
+//
+# RXUDLL_14474 Length: 47
+# RXUDLL_14474 Number of predicted TMRs: 0
+RXUDLL_14474	inside	1	47				
+//
+# RXUDLL_83395 Length: 42
+# RXUDLL_83395 Number of predicted TMRs: 0
+RXUDLL_83395	signal	1	18				
+RXUDLL_83395	outside	19	42				
+//
+# RXUDLL_42302 Length: 50
+# RXUDLL_42302 Number of predicted TMRs: 0
+RXUDLL_42302	inside	1	50				
+//
+# RXUDLL_69147 Length: 49
+# RXUDLL_69147 Number of predicted TMRs: 0
+RXUDLL_69147	signal	1	47				
+RXUDLL_69147	outside	48	49				
+//
+# RXUDLL_65223 Length: 37
+# RXUDLL_65223 Number of predicted TMRs: 0
+RXUDLL_65223	inside	1	37				
+//
+# RXUDLL_280 Length: 41
+# RXUDLL_280 Number of predicted TMRs: 0
+RXUDLL_280	inside	1	41				
+//
+# RXUDLL_110349 Length: 49
+# RXUDLL_110349 Number of predicted TMRs: 0
+RXUDLL_110349	inside	1	49				
+//
+# RXUDLL_31670 Length: 46
+# RXUDLL_31670 Number of predicted TMRs: 0
+RXUDLL_31670	inside	1	46				
+//
+# RXUDLL_81378 Length: 48
+# RXUDLL_81378 Number of predicted TMRs: 0
+RXUDLL_81378	inside	1	48				
+//
+# RXUDLL_42562 Length: 50
+# RXUDLL_42562 Number of predicted TMRs: 0
+RXUDLL_42562	signal	1	12				
+RXUDLL_42562	outside	13	50				
+//
+# RXUDLL_15923 Length: 39
+# RXUDLL_15923 Number of predicted TMRs: 0
+RXUDLL_15923	inside	1	39				
+//
+# RXUDLL_21981 Length: 50
+# RXUDLL_21981 Number of predicted TMRs: 0
+RXUDLL_21981	outside	1	50				
+//
+# RXUDLL_75399 Length: 50
+# RXUDLL_75399 Number of predicted TMRs: 0
+RXUDLL_75399	inside	1	50				
+//
+# RXUDLL_50866 Length: 40
+# RXUDLL_50866 Number of predicted TMRs: 0
+RXUDLL_50866	inside	1	40				
+//
+# RXUDLL_26138 Length: 42
+# RXUDLL_26138 Number of predicted TMRs: 0
+RXUDLL_26138	outside	1	42				
+//
+# RXUDLL_104894 Length: 41
+# RXUDLL_104894 Number of predicted TMRs: 0
+RXUDLL_104894	signal	1	40				
+RXUDLL_104894	outside	41	41				
+//
+# RXUDLL_144163 Length: 37
+# RXUDLL_144163 Number of predicted TMRs: 0
+RXUDLL_144163	signal	1	30				
+RXUDLL_144163	outside	31	37				
+//
+# RXUDLL_123121 Length: 45
+# RXUDLL_123121 Number of predicted TMRs: 0
+RXUDLL_123121	signal	1	24				
+RXUDLL_123121	outside	25	45				
+//
+# RXUDLL_98604 Length: 50
+# RXUDLL_98604 Number of predicted TMRs: 0
+RXUDLL_98604	inside	1	50				
+//
+# RXUDLL_141537 Length: 49
+# RXUDLL_141537 Number of predicted TMRs: 0
+RXUDLL_141537	outside	1	49				
+//
+# RXUDLL_111920 Length: 41
+# RXUDLL_111920 Number of predicted TMRs: 0
+RXUDLL_111920	signal	1	29				
+RXUDLL_111920	outside	30	41				
+//
+# RXUDLL_134687 Length: 46
+# RXUDLL_134687 Number of predicted TMRs: 0
+RXUDLL_134687	signal	1	45				
+RXUDLL_134687	outside	46	46				
+//
+# RXUDLL_37805 Length: 49
+# RXUDLL_37805 Number of predicted TMRs: 0
+RXUDLL_37805	signal	1	23				
+RXUDLL_37805	outside	24	49				
+//
+# RXUDLL_103124 Length: 44
+# RXUDLL_103124 Number of predicted TMRs: 0
+RXUDLL_103124	inside	1	44				
+//
+# RXUDLL_32460 Length: 44
+# RXUDLL_32460 Number of predicted TMRs: 0
+RXUDLL_32460	inside	1	44				
+//
+# RXUDLL_166875 Length: 44
+# RXUDLL_166875 Number of predicted TMRs: 0
+RXUDLL_166875	signal	1	43				
+RXUDLL_166875	outside	44	44				
+//
+# RXUDLL_167274 Length: 46
+# RXUDLL_167274 Number of predicted TMRs: 0
+RXUDLL_167274	inside	1	46				
+//
+# RXUDLL_40523 Length: 44
+# RXUDLL_40523 Number of predicted TMRs: 0
+RXUDLL_40523	inside	1	44				
+//
+# RXUDLL_11035 Length: 38
+# RXUDLL_11035 Number of predicted TMRs: 0
+RXUDLL_11035	inside	1	38				
+//
+# RXUDLL_73168 Length: 45
+# RXUDLL_73168 Number of predicted TMRs: 0
+RXUDLL_73168	inside	1	45				
+//
+# RXUDLL_83830 Length: 42
+# RXUDLL_83830 Number of predicted TMRs: 0
+RXUDLL_83830	signal	1	41				
+RXUDLL_83830	outside	42	42				
+//
+# RXUDLL_10490 Length: 47
+# RXUDLL_10490 Number of predicted TMRs: 0
+RXUDLL_10490	inside	1	47				
+//
+# RXUDLL_76952 Length: 41
+# RXUDLL_76952 Number of predicted TMRs: 0
+RXUDLL_76952	inside	1	41				
+//
+# RXUDLL_74702 Length: 44
+# RXUDLL_74702 Number of predicted TMRs: 0
+RXUDLL_74702	inside	1	44				
+//
+# RXUDLL_7861 Length: 48
+# RXUDLL_7861 Number of predicted TMRs: 0
+RXUDLL_7861	inside	1	48				
+//
+# RXUDLL_122423 Length: 40
+# RXUDLL_122423 Number of predicted TMRs: 0
+RXUDLL_122423	signal	1	39				
+RXUDLL_122423	outside	40	40				
+//
+# RXUDLL_135996 Length: 43
+# RXUDLL_135996 Number of predicted TMRs: 0
+RXUDLL_135996	signal	1	38				
+RXUDLL_135996	outside	39	43				
+//
+# RXUDLL_10867 Length: 48
+# RXUDLL_10867 Number of predicted TMRs: 0
+RXUDLL_10867	inside	1	48				
+//
+# RXUDLL_100531 Length: 46
+# RXUDLL_100531 Number of predicted TMRs: 0
+RXUDLL_100531	inside	1	46				
+//
+# RXUDLL_144208 Length: 44
+# RXUDLL_144208 Number of predicted TMRs: 0
+RXUDLL_144208	signal	1	32				
+RXUDLL_144208	outside	33	44				
+//
+# RXUDLL_29886 Length: 35
+# RXUDLL_29886 Number of predicted TMRs: 0
+RXUDLL_29886	inside	1	35				
+//
+# RXUDLL_97189 Length: 45
+# RXUDLL_97189 Number of predicted TMRs: 0
+RXUDLL_97189	inside	1	45				
+//
+# RXUDLL_45438 Length: 44
+# RXUDLL_45438 Number of predicted TMRs: 0
+RXUDLL_45438	signal	1	43				
+RXUDLL_45438	outside	44	44				
+//
+# RXUDLL_138337 Length: 49
+# RXUDLL_138337 Number of predicted TMRs: 0
+RXUDLL_138337	inside	1	49				
+//
+# RXUDLL_133253 Length: 49
+# RXUDLL_133253 Number of predicted TMRs: 0
+RXUDLL_133253	signal	1	40				
+RXUDLL_133253	outside	41	49				
+//
+# RXUDLL_43958 Length: 40
+# RXUDLL_43958 Number of predicted TMRs: 0
+RXUDLL_43958	signal	1	10				
+RXUDLL_43958	outside	11	40				
+//
+# RXUDLL_171771 Length: 43
+# RXUDLL_171771 Number of predicted TMRs: 0
+RXUDLL_171771	inside	1	43				
+//
+# RXUDLL_53733 Length: 49
+# RXUDLL_53733 Number of predicted TMRs: 0
+RXUDLL_53733	signal	1	22				
+RXUDLL_53733	outside	23	49				
+//
+# RXUDLL_26622 Length: 50
+# RXUDLL_26622 Number of predicted TMRs: 0
+RXUDLL_26622	inside	1	50				
+//
+# RXUDLL_114928 Length: 49
+# RXUDLL_114928 Number of predicted TMRs: 0
+RXUDLL_114928	signal	1	48				
+RXUDLL_114928	outside	49	49				
+//
+# RXUDLL_131863 Length: 46
+# RXUDLL_131863 Number of predicted TMRs: 0
+RXUDLL_131863	inside	1	46				
+//
+# RXUDLL_129434 Length: 48
+# RXUDLL_129434 Number of predicted TMRs: 0
+RXUDLL_129434	inside	1	48				
+//
+# RXUDLL_31470 Length: 50
+# RXUDLL_31470 Number of predicted TMRs: 0
+RXUDLL_31470	inside	1	50				
+//
+# RXUDLL_56150 Length: 46
+# RXUDLL_56150 Number of predicted TMRs: 1
+RXUDLL_56150	signal	1	10				
+RXUDLL_56150	outside	11	11				
+RXUDLL_56150	TMhelix	12	32				
+RXUDLL_56150	inside	33	46				
+//
+# RXUDLL_99814 Length: 46
+# RXUDLL_99814 Number of predicted TMRs: 0
+RXUDLL_99814	inside	1	46				
+//
+# RXUDLL_58594 Length: 41
+# RXUDLL_58594 Number of predicted TMRs: 0
+RXUDLL_58594	inside	1	41				
+//
+# RXUDLL_18151 Length: 37
+# RXUDLL_18151 Number of predicted TMRs: 0
+RXUDLL_18151	signal	1	34				
+RXUDLL_18151	outside	35	37				
+//
+# RXUDLL_125101 Length: 47
+# RXUDLL_125101 Number of predicted TMRs: 0
+RXUDLL_125101	signal	1	41				
+RXUDLL_125101	outside	42	47				
+//
+# RXUDLL_164804 Length: 37
+# RXUDLL_164804 Number of predicted TMRs: 0
+RXUDLL_164804	signal	1	11				
+RXUDLL_164804	outside	12	37				
+//
+# RXUDLL_141091 Length: 50
+# RXUDLL_141091 Number of predicted TMRs: 0
+RXUDLL_141091	outside	1	50				
+//
+# RXUDLL_138237 Length: 39
+# RXUDLL_138237 Number of predicted TMRs: 0
+RXUDLL_138237	signal	1	38				
+RXUDLL_138237	outside	39	39				
+//
+# RXUDLL_89229 Length: 42
+# RXUDLL_89229 Number of predicted TMRs: 0
+RXUDLL_89229	inside	1	42				
+//
+# RXUDLL_115070 Length: 44
+# RXUDLL_115070 Number of predicted TMRs: 0
+RXUDLL_115070	signal	1	43				
+RXUDLL_115070	outside	44	44				
+//
+# RXUDLL_101547 Length: 47
+# RXUDLL_101547 Number of predicted TMRs: 0
+RXUDLL_101547	signal	1	46				
+RXUDLL_101547	outside	47	47				
+//
+# RXUDLL_12866 Length: 49
+# RXUDLL_12866 Number of predicted TMRs: 0
+RXUDLL_12866	inside	1	49				
+//
+# RXUDLL_126205 Length: 45
+# RXUDLL_126205 Number of predicted TMRs: 0
+RXUDLL_126205	signal	1	41				
+RXUDLL_126205	outside	42	45				
+//
+# RXUDLL_53233 Length: 47
+# RXUDLL_53233 Number of predicted TMRs: 0
+RXUDLL_53233	signal	1	18				
+RXUDLL_53233	outside	19	47				
+//
+# RXUDLL_17894 Length: 37
+# RXUDLL_17894 Number of predicted TMRs: 0
+RXUDLL_17894	inside	1	37				
+//
+# RXUDLL_172545 Length: 47
+# RXUDLL_172545 Number of predicted TMRs: 0
+RXUDLL_172545	signal	1	14				
+RXUDLL_172545	outside	15	47				
+//
+# RXUDLL_61122 Length: 44
+# RXUDLL_61122 Number of predicted TMRs: 0
+RXUDLL_61122	inside	1	44				
+//
+# RXUDLL_87617 Length: 45
+# RXUDLL_87617 Number of predicted TMRs: 0
+RXUDLL_87617	inside	1	45				
+//
+# RXUDLL_88145 Length: 45
+# RXUDLL_88145 Number of predicted TMRs: 0
+RXUDLL_88145	inside	1	45				
+//
+# RXUDLL_51503 Length: 50
+# RXUDLL_51503 Number of predicted TMRs: 0
+RXUDLL_51503	inside	1	50				
+//
+# RXUDLL_129032 Length: 33
+# RXUDLL_129032 Number of predicted TMRs: 0
+RXUDLL_129032	inside	1	33				
+//
+# RXUDLL_80591 Length: 42
+# RXUDLL_80591 Number of predicted TMRs: 0
+RXUDLL_80591	signal	1	41				
+RXUDLL_80591	outside	42	42				
+//
+# RXUDLL_152071 Length: 37
+# RXUDLL_152071 Number of predicted TMRs: 0
+RXUDLL_152071	inside	1	37				
+//
+# RXUDLL_144433 Length: 45
+# RXUDLL_144433 Number of predicted TMRs: 0
+RXUDLL_144433	inside	1	45				
+//
+# RXUDLL_4860 Length: 46
+# RXUDLL_4860 Number of predicted TMRs: 0
+RXUDLL_4860	inside	1	46				
+//
+# RXUDLL_164145 Length: 39
+# RXUDLL_164145 Number of predicted TMRs: 0
+RXUDLL_164145	inside	1	39				
+//
+# RXUDLL_143246 Length: 39
+# RXUDLL_143246 Number of predicted TMRs: 0
+RXUDLL_143246	inside	1	39				
+//
+# RXUDLL_96121 Length: 34
+# RXUDLL_96121 Number of predicted TMRs: 0
+RXUDLL_96121	inside	1	34				
+//
+# RXUDLL_137574 Length: 47
+# RXUDLL_137574 Number of predicted TMRs: 0
+RXUDLL_137574	inside	1	47				
+//
+# RXUDLL_13381 Length: 46
+# RXUDLL_13381 Number of predicted TMRs: 0
+RXUDLL_13381	signal	1	26				
+RXUDLL_13381	outside	27	46				
+//
+# RXUDLL_25419 Length: 47
+# RXUDLL_25419 Number of predicted TMRs: 0
+RXUDLL_25419	inside	1	47				
+//
+# RXUDLL_38855 Length: 46
+# RXUDLL_38855 Number of predicted TMRs: 0
+RXUDLL_38855	signal	1	23				
+RXUDLL_38855	outside	24	46				
+//
+# RXUDLL_134765 Length: 41
+# RXUDLL_134765 Number of predicted TMRs: 0
+RXUDLL_134765	inside	1	41				
+//
+# RXUDLL_34775 Length: 37
+# RXUDLL_34775 Number of predicted TMRs: 0
+RXUDLL_34775	signal	1	13				
+RXUDLL_34775	outside	14	37				
+//
+# RXUDLL_89046 Length: 39
+# RXUDLL_89046 Number of predicted TMRs: 0
+RXUDLL_89046	signal	1	29				
+RXUDLL_89046	outside	30	39				
+//
+# RXUDLL_113117 Length: 49
+# RXUDLL_113117 Number of predicted TMRs: 0
+RXUDLL_113117	signal	1	14				
+RXUDLL_113117	outside	15	49				
+//
+# RXUDLL_126204 Length: 50
+# RXUDLL_126204 Number of predicted TMRs: 0
+RXUDLL_126204	inside	1	50				
+//
+# RXUDLL_136271 Length: 47
+# RXUDLL_136271 Number of predicted TMRs: 0
+RXUDLL_136271	inside	1	47				
+//
+# RXUDLL_19230 Length: 45
+# RXUDLL_19230 Number of predicted TMRs: 0
+RXUDLL_19230	inside	1	45				
+//
+# RXUDLL_25252 Length: 37
+# RXUDLL_25252 Number of predicted TMRs: 0
+RXUDLL_25252	signal	1	35				
+RXUDLL_25252	outside	36	37				
+//
+# RXUDLL_52933 Length: 42
+# RXUDLL_52933 Number of predicted TMRs: 0
+RXUDLL_52933	signal	1	22				
+RXUDLL_52933	outside	23	42				
+//
+# RXUDLL_73408 Length: 45
+# RXUDLL_73408 Number of predicted TMRs: 0
+RXUDLL_73408	inside	1	45				
+//
+# RXUDLL_92570 Length: 47
+# RXUDLL_92570 Number of predicted TMRs: 0
+RXUDLL_92570	inside	1	47				
+//
+# RXUDLL_143820 Length: 49
+# RXUDLL_143820 Number of predicted TMRs: 0
+RXUDLL_143820	inside	1	49				
+//
+# RXUDLL_162455 Length: 43
+# RXUDLL_162455 Number of predicted TMRs: 0
+RXUDLL_162455	signal	1	13				
+RXUDLL_162455	outside	14	43				
+//
+# RXUDLL_19215 Length: 41
+# RXUDLL_19215 Number of predicted TMRs: 0
+RXUDLL_19215	signal	1	30				
+RXUDLL_19215	outside	31	41				
+//
+# RXUDLL_21834 Length: 49
+# RXUDLL_21834 Number of predicted TMRs: 0
+RXUDLL_21834	signal	1	47				
+RXUDLL_21834	outside	48	49				
+//
+# RXUDLL_127313 Length: 36
+# RXUDLL_127313 Number of predicted TMRs: 0
+RXUDLL_127313	inside	1	36				
+//
+# RXUDLL_142167 Length: 48
+# RXUDLL_142167 Number of predicted TMRs: 0
+RXUDLL_142167	inside	1	48				
+//
+# RXUDLL_80568 Length: 48
+# RXUDLL_80568 Number of predicted TMRs: 0
+RXUDLL_80568	inside	1	48				
+//
+# RXUDLL_109921 Length: 43
+# RXUDLL_109921 Number of predicted TMRs: 0
+RXUDLL_109921	inside	1	43				
+//
+# RXUDLL_12405 Length: 49
+# RXUDLL_12405 Number of predicted TMRs: 0
+RXUDLL_12405	inside	1	49				
+//
+# RXUDLL_20520 Length: 50
+# RXUDLL_20520 Number of predicted TMRs: 0
+RXUDLL_20520	inside	1	50				
+//
+# RXUDLL_85518 Length: 48
+# RXUDLL_85518 Number of predicted TMRs: 0
+RXUDLL_85518	signal	1	47				
+RXUDLL_85518	outside	48	48				
+//
+# RXUDLL_115710 Length: 49
+# RXUDLL_115710 Number of predicted TMRs: 0
+RXUDLL_115710	inside	1	49				
+//
+# RXUDLL_733 Length: 47
+# RXUDLL_733 Number of predicted TMRs: 0
+RXUDLL_733	inside	1	47				
+//
+# RXUDLL_689 Length: 45
+# RXUDLL_689 Number of predicted TMRs: 0
+RXUDLL_689	inside	1	45				
+//
+# RXUDLL_143826 Length: 49
+# RXUDLL_143826 Number of predicted TMRs: 0
+RXUDLL_143826	inside	1	49				
+//
+# RXUDLL_172104 Length: 45
+# RXUDLL_172104 Number of predicted TMRs: 0
+RXUDLL_172104	signal	1	20				
+RXUDLL_172104	outside	21	45				
+//
+# RXUDLL_64603 Length: 43
+# RXUDLL_64603 Number of predicted TMRs: 0
+RXUDLL_64603	inside	1	43				
+//
+# RXUDLL_17363 Length: 46
+# RXUDLL_17363 Number of predicted TMRs: 0
+RXUDLL_17363	signal	1	45				
+RXUDLL_17363	outside	46	46				
+//
+# RXUDLL_121078 Length: 50
+# RXUDLL_121078 Number of predicted TMRs: 0
+RXUDLL_121078	signal	1	48				
+RXUDLL_121078	outside	49	50				
+//
+# RXUDLL_109210 Length: 35
+# RXUDLL_109210 Number of predicted TMRs: 0
+RXUDLL_109210	signal	1	33				
+RXUDLL_109210	outside	34	35				
+//
+# RXUDLL_138623 Length: 47
+# RXUDLL_138623 Number of predicted TMRs: 0
+RXUDLL_138623	signal	1	45				
+RXUDLL_138623	outside	46	47				
+//
+# RXUDLL_139843 Length: 42
+# RXUDLL_139843 Number of predicted TMRs: 0
+RXUDLL_139843	inside	1	42				
+//
+# RXUDLL_161776 Length: 41
+# RXUDLL_161776 Number of predicted TMRs: 0
+RXUDLL_161776	inside	1	41				
+//
+# RXUDLL_165612 Length: 44
+# RXUDLL_165612 Number of predicted TMRs: 0
+RXUDLL_165612	inside	1	44				
+//
+# RXUDLL_99496 Length: 50
+# RXUDLL_99496 Number of predicted TMRs: 0
+RXUDLL_99496	signal	1	17				
+RXUDLL_99496	outside	18	50				
+//
+# RXUDLL_32620 Length: 36
+# RXUDLL_32620 Number of predicted TMRs: 0
+RXUDLL_32620	inside	1	36				
+//
+# RXUDLL_99900 Length: 48
+# RXUDLL_99900 Number of predicted TMRs: 0
+RXUDLL_99900	inside	1	48				
+//
+# RXUDLL_38635 Length: 47
+# RXUDLL_38635 Number of predicted TMRs: 0
+RXUDLL_38635	signal	1	35				
+RXUDLL_38635	outside	36	47				
+//
+# RXUDLL_167857 Length: 35
+# RXUDLL_167857 Number of predicted TMRs: 0
+RXUDLL_167857	signal	1	32				
+RXUDLL_167857	outside	33	35				
+//
+# RXUDLL_13249 Length: 48
+# RXUDLL_13249 Number of predicted TMRs: 0
+RXUDLL_13249	inside	1	48				
+//
+# RXUDLL_19073 Length: 40
+# RXUDLL_19073 Number of predicted TMRs: 0
+RXUDLL_19073	signal	1	39				
+RXUDLL_19073	outside	40	40				
+//
+# RXUDLL_31415 Length: 42
+# RXUDLL_31415 Number of predicted TMRs: 0
+RXUDLL_31415	signal	1	35				
+RXUDLL_31415	outside	36	42				
+//
+# RXUDLL_92901 Length: 46
+# RXUDLL_92901 Number of predicted TMRs: 0
+RXUDLL_92901	inside	1	46				
+//
+# RXUDLL_141938 Length: 46
+# RXUDLL_141938 Number of predicted TMRs: 0
+RXUDLL_141938	inside	1	46				
+//
+# RXUDLL_126078 Length: 46
+# RXUDLL_126078 Number of predicted TMRs: 0
+RXUDLL_126078	inside	1	46				
+//
+# RXUDLL_120954 Length: 39
+# RXUDLL_120954 Number of predicted TMRs: 0
+RXUDLL_120954	inside	1	39				
+//
+# RXUDLL_123835 Length: 48
+# RXUDLL_123835 Number of predicted TMRs: 0
+RXUDLL_123835	signal	1	46				
+RXUDLL_123835	outside	47	48				
+//
+# RXUDLL_78469 Length: 36
+# RXUDLL_78469 Number of predicted TMRs: 0
+RXUDLL_78469	inside	1	36				
+//
+# RXUDLL_6350 Length: 48
+# RXUDLL_6350 Number of predicted TMRs: 0
+RXUDLL_6350	inside	1	48				
+//
+# RXUDLL_2778 Length: 36
+# RXUDLL_2778 Number of predicted TMRs: 0
+RXUDLL_2778	signal	1	34				
+RXUDLL_2778	outside	35	36				
+//
+# RXUDLL_111823 Length: 33
+# RXUDLL_111823 Number of predicted TMRs: 0
+RXUDLL_111823	signal	1	32				
+RXUDLL_111823	outside	33	33				
+//
+# RXUDLL_109680 Length: 44
+# RXUDLL_109680 Number of predicted TMRs: 0
+RXUDLL_109680	inside	1	44				
+//
+# RXUDLL_146976 Length: 40
+# RXUDLL_146976 Number of predicted TMRs: 0
+RXUDLL_146976	signal	1	39				
+RXUDLL_146976	outside	40	40				
+//
+# RXUDLL_1213 Length: 35
+# RXUDLL_1213 Number of predicted TMRs: 0
+RXUDLL_1213	signal	1	18				
+RXUDLL_1213	outside	19	35				
+//
+# RXUDLL_29345 Length: 47
+# RXUDLL_29345 Number of predicted TMRs: 0
+RXUDLL_29345	signal	1	10				
+RXUDLL_29345	outside	11	47				
+//
+# RXUDLL_103507 Length: 45
+# RXUDLL_103507 Number of predicted TMRs: 0
+RXUDLL_103507	signal	1	17				
+RXUDLL_103507	outside	18	45				
+//
+# RXUDLL_76618 Length: 41
+# RXUDLL_76618 Number of predicted TMRs: 0
+RXUDLL_76618	signal	1	33				
+RXUDLL_76618	outside	34	41				
+//
+# RXUDLL_40863 Length: 42
+# RXUDLL_40863 Number of predicted TMRs: 0
+RXUDLL_40863	inside	1	42				
+//
+# RXUDLL_132534 Length: 48
+# RXUDLL_132534 Number of predicted TMRs: 0
+RXUDLL_132534	inside	1	48				
+//
+# RXUDLL_42158 Length: 45
+# RXUDLL_42158 Number of predicted TMRs: 0
+RXUDLL_42158	inside	1	45				
+//
+# RXUDLL_114597 Length: 39
+# RXUDLL_114597 Number of predicted TMRs: 0
+RXUDLL_114597	inside	1	39				
+//
+# RXUDLL_37243 Length: 43
+# RXUDLL_37243 Number of predicted TMRs: 0
+RXUDLL_37243	inside	1	43				
+//
+# RXUDLL_122347 Length: 44
+# RXUDLL_122347 Number of predicted TMRs: 0
+RXUDLL_122347	inside	1	44				
+//
+# RXUDLL_74836 Length: 49
+# RXUDLL_74836 Number of predicted TMRs: 0
+RXUDLL_74836	inside	1	49				
+//
+# RXUDLL_138265 Length: 48
+# RXUDLL_138265 Number of predicted TMRs: 0
+RXUDLL_138265	signal	1	47				
+RXUDLL_138265	outside	48	48				
+//
+# RXUDLL_134861 Length: 34
+# RXUDLL_134861 Number of predicted TMRs: 0
+RXUDLL_134861	signal	1	33				
+RXUDLL_134861	outside	34	34				
+//
+# RXUDLL_35232 Length: 45
+# RXUDLL_35232 Number of predicted TMRs: 0
+RXUDLL_35232	inside	1	45				
+//
+# RXUDLL_148966 Length: 40
+# RXUDLL_148966 Number of predicted TMRs: 0
+RXUDLL_148966	inside	1	40				
+//
+# RXUDLL_135060 Length: 42
+# RXUDLL_135060 Number of predicted TMRs: 0
+RXUDLL_135060	inside	1	42				
+//
+# RXUDLL_37534 Length: 49
+# RXUDLL_37534 Number of predicted TMRs: 0
+RXUDLL_37534	inside	1	49				
+//
+# RXUDLL_83741 Length: 42
+# RXUDLL_83741 Number of predicted TMRs: 0
+RXUDLL_83741	signal	1	26				
+RXUDLL_83741	outside	27	42				
+//
+# RXUDLL_152434 Length: 45
+# RXUDLL_152434 Number of predicted TMRs: 0
+RXUDLL_152434	signal	1	22				
+RXUDLL_152434	outside	23	45				
+//
+# RXUDLL_16449 Length: 48
+# RXUDLL_16449 Number of predicted TMRs: 0
+RXUDLL_16449	inside	1	48				
+//
+# RXUDLL_134963 Length: 47
+# RXUDLL_134963 Number of predicted TMRs: 0
+RXUDLL_134963	signal	1	29				
+RXUDLL_134963	outside	30	47				
+//
+# RXUDLL_62150 Length: 32
+# RXUDLL_62150 Number of predicted TMRs: 0
+RXUDLL_62150	signal	1	31				
+RXUDLL_62150	outside	32	32				
+//
+# RXUDLL_148485 Length: 46
+# RXUDLL_148485 Number of predicted TMRs: 0
+RXUDLL_148485	inside	1	46				
+//
+# RXUDLL_86987 Length: 50
+# RXUDLL_86987 Number of predicted TMRs: 0
+RXUDLL_86987	signal	1	45				
+RXUDLL_86987	outside	46	50				
+//
+# RXUDLL_109579 Length: 43
+# RXUDLL_109579 Number of predicted TMRs: 0
+RXUDLL_109579	inside	1	43				
+//
+# RXUDLL_103898 Length: 37
+# RXUDLL_103898 Number of predicted TMRs: 0
+RXUDLL_103898	inside	1	37				
+//
+# RXUDLL_85202 Length: 28
+# RXUDLL_85202 Number of predicted TMRs: 0
+RXUDLL_85202	outside	1	28				
+//
+# RXUDLL_68654 Length: 48
+# RXUDLL_68654 Number of predicted TMRs: 0
+RXUDLL_68654	inside	1	48				
+//
+# RXUDLL_145604 Length: 50
+# RXUDLL_145604 Number of predicted TMRs: 0
+RXUDLL_145604	inside	1	50				
+//
+# RXUDLL_154106 Length: 44
+# RXUDLL_154106 Number of predicted TMRs: 0
+RXUDLL_154106	signal	1	38				
+RXUDLL_154106	outside	39	44				
+//
+# RXUDLL_54406 Length: 45
+# RXUDLL_54406 Number of predicted TMRs: 0
+RXUDLL_54406	inside	1	45				
+//
+# RXUDLL_102498 Length: 47
+# RXUDLL_102498 Number of predicted TMRs: 0
+RXUDLL_102498	inside	1	47				
+//
+# RXUDLL_126856 Length: 48
+# RXUDLL_126856 Number of predicted TMRs: 0
+RXUDLL_126856	signal	1	10				
+RXUDLL_126856	outside	11	48				
+//
+# RXUDLL_58222 Length: 44
+# RXUDLL_58222 Number of predicted TMRs: 0
+RXUDLL_58222	inside	1	44				
+//
+# RXUDLL_96845 Length: 43
+# RXUDLL_96845 Number of predicted TMRs: 0
+RXUDLL_96845	inside	1	43				
+//
+# RXUDLL_138828 Length: 43
+# RXUDLL_138828 Number of predicted TMRs: 0
+RXUDLL_138828	inside	1	43				
+//
+# RXUDLL_161225 Length: 45
+# RXUDLL_161225 Number of predicted TMRs: 0
+RXUDLL_161225	inside	1	45				
+//
+# RXUDLL_118232 Length: 50
+# RXUDLL_118232 Number of predicted TMRs: 0
+RXUDLL_118232	outside	1	50				
+//
+# RXUDLL_15381 Length: 50
+# RXUDLL_15381 Number of predicted TMRs: 0
+RXUDLL_15381	signal	1	10				
+RXUDLL_15381	outside	11	50				
+//
+# RXUDLL_147489 Length: 46
+# RXUDLL_147489 Number of predicted TMRs: 0
+RXUDLL_147489	inside	1	46				
+//
+# RXUDLL_141404 Length: 44
+# RXUDLL_141404 Number of predicted TMRs: 0
+RXUDLL_141404	inside	1	44				
+//
+# RXUDLL_91949 Length: 46
+# RXUDLL_91949 Number of predicted TMRs: 0
+RXUDLL_91949	inside	1	46				
+//
+# RXUDLL_122841 Length: 45
+# RXUDLL_122841 Number of predicted TMRs: 0
+RXUDLL_122841	outside	1	45				
+//
+# RXUDLL_82493 Length: 40
+# RXUDLL_82493 Number of predicted TMRs: 0
+RXUDLL_82493	inside	1	40				
+//
+# RXUDLL_129788 Length: 47
+# RXUDLL_129788 Number of predicted TMRs: 0
+RXUDLL_129788	signal	1	46				
+RXUDLL_129788	outside	47	47				
+//
+# RXUDLL_47288 Length: 49
+# RXUDLL_47288 Number of predicted TMRs: 0
+RXUDLL_47288	signal	1	23				
+RXUDLL_47288	outside	24	49				
+//
+# RXUDLL_129487 Length: 44
+# RXUDLL_129487 Number of predicted TMRs: 0
+RXUDLL_129487	signal	1	42				
+RXUDLL_129487	outside	43	44				
+//
+# RXUDLL_118284 Length: 46
+# RXUDLL_118284 Number of predicted TMRs: 0
+RXUDLL_118284	signal	1	43				
+RXUDLL_118284	outside	44	46				
+//
+# RXUDLL_164456 Length: 46
+# RXUDLL_164456 Number of predicted TMRs: 0
+RXUDLL_164456	outside	1	46				
+//
+# RXUDLL_136230 Length: 42
+# RXUDLL_136230 Number of predicted TMRs: 0
+RXUDLL_136230	inside	1	42				
+//
+# RXUDLL_17552 Length: 41
+# RXUDLL_17552 Number of predicted TMRs: 0
+RXUDLL_17552	signal	1	22				
+RXUDLL_17552	outside	23	41				
+//
+# RXUDLL_81712 Length: 44
+# RXUDLL_81712 Number of predicted TMRs: 0
+RXUDLL_81712	inside	1	44				
+//
+# RXUDLL_70439 Length: 38
+# RXUDLL_70439 Number of predicted TMRs: 0
+RXUDLL_70439	outside	1	38				
+//
+# RXUDLL_9595 Length: 50
+# RXUDLL_9595 Number of predicted TMRs: 0
+RXUDLL_9595	inside	1	50				
+//
+# RXUDLL_98755 Length: 45
+# RXUDLL_98755 Number of predicted TMRs: 0
+RXUDLL_98755	inside	1	45				
+//
+# RXUDLL_85204 Length: 35
+# RXUDLL_85204 Number of predicted TMRs: 0
+RXUDLL_85204	outside	1	35				
+//
+# RXUDLL_106835 Length: 35
+# RXUDLL_106835 Number of predicted TMRs: 0
+RXUDLL_106835	outside	1	35				
+//
+# RXUDLL_85205 Length: 48
+# RXUDLL_85205 Number of predicted TMRs: 0
+RXUDLL_85205	inside	1	48				
+//
+# RXUDLL_112388 Length: 46
+# RXUDLL_112388 Number of predicted TMRs: 0
+RXUDLL_112388	inside	1	46				
+//
+# RXUDLL_11914 Length: 35
+# RXUDLL_11914 Number of predicted TMRs: 0
+RXUDLL_11914	inside	1	35				
+//
+# RXUDLL_32554 Length: 45
+# RXUDLL_32554 Number of predicted TMRs: 0
+RXUDLL_32554	inside	1	45				
+//
+# RXUDLL_157410 Length: 48
+# RXUDLL_157410 Number of predicted TMRs: 0
+RXUDLL_157410	inside	1	48				
+//
+# RXUDLL_21612 Length: 46
+# RXUDLL_21612 Number of predicted TMRs: 0
+RXUDLL_21612	inside	1	46				
+//
+# RXUDLL_110352 Length: 44
+# RXUDLL_110352 Number of predicted TMRs: 0
+RXUDLL_110352	inside	1	44				
+//
+# RXUDLL_170953 Length: 38
+# RXUDLL_170953 Number of predicted TMRs: 0
+RXUDLL_170953	signal	1	32				
+RXUDLL_170953	outside	33	38				
+//
+# RXUDLL_98990 Length: 47
+# RXUDLL_98990 Number of predicted TMRs: 0
+RXUDLL_98990	inside	1	47				
+//
+# RXUDLL_15106 Length: 37
+# RXUDLL_15106 Number of predicted TMRs: 0
+RXUDLL_15106	inside	1	37				
+//
+# RXUDLL_157086 Length: 49
+# RXUDLL_157086 Number of predicted TMRs: 0
+RXUDLL_157086	inside	1	49				
+//
+# RXUDLL_99689 Length: 34
+# RXUDLL_99689 Number of predicted TMRs: 0
+RXUDLL_99689	outside	1	34				
+//
+# RXUDLL_109157 Length: 48
+# RXUDLL_109157 Number of predicted TMRs: 0
+RXUDLL_109157	signal	1	21				
+RXUDLL_109157	outside	22	48				
+//
+# RXUDLL_57172 Length: 47
+# RXUDLL_57172 Number of predicted TMRs: 0
+RXUDLL_57172	inside	1	47				
+//
+# RXUDLL_35482 Length: 31
+# RXUDLL_35482 Number of predicted TMRs: 0
+RXUDLL_35482	signal	1	27				
+RXUDLL_35482	outside	28	31				
+//
+# RXUDLL_141696 Length: 49
+# RXUDLL_141696 Number of predicted TMRs: 0
+RXUDLL_141696	inside	1	49				
+//
+# RXUDLL_49749 Length: 49
+# RXUDLL_49749 Number of predicted TMRs: 0
+RXUDLL_49749	inside	1	49				
+//
+# RXUDLL_20955 Length: 44
+# RXUDLL_20955 Number of predicted TMRs: 0
+RXUDLL_20955	inside	1	44				
+//
+# RXUDLL_142552 Length: 43
+# RXUDLL_142552 Number of predicted TMRs: 0
+RXUDLL_142552	signal	1	11				
+RXUDLL_142552	outside	12	43				
+//
+# RXUDLL_98029 Length: 46
+# RXUDLL_98029 Number of predicted TMRs: 0
+RXUDLL_98029	inside	1	46				
+//
+# RXUDLL_41295 Length: 49
+# RXUDLL_41295 Number of predicted TMRs: 0
+RXUDLL_41295	signal	1	26				
+RXUDLL_41295	outside	27	49				
+//
+# RXUDLL_142150 Length: 49
+# RXUDLL_142150 Number of predicted TMRs: 0
+RXUDLL_142150	signal	1	29				
+RXUDLL_142150	outside	30	49				
+//
+# RXUDLL_14952 Length: 33
+# RXUDLL_14952 Number of predicted TMRs: 0
+RXUDLL_14952	inside	1	33				
+//
+# RXUDLL_120891 Length: 32
+# RXUDLL_120891 Number of predicted TMRs: 0
+RXUDLL_120891	inside	1	32				
+//
+# RXUDLL_92507 Length: 33
+# RXUDLL_92507 Number of predicted TMRs: 0
+RXUDLL_92507	inside	1	33				
+//
+# RXUDLL_8416 Length: 44
+# RXUDLL_8416 Number of predicted TMRs: 0
+RXUDLL_8416	inside	1	44				
+//
+# RXUDLL_106621 Length: 24
+# RXUDLL_106621 Number of predicted TMRs: 0
+RXUDLL_106621	inside	1	24				
+//
+# RXUDLL_12055 Length: 47
+# RXUDLL_12055 Number of predicted TMRs: 0
+RXUDLL_12055	inside	1	47				
+//
+# RXUDLL_108688 Length: 43
+# RXUDLL_108688 Number of predicted TMRs: 0
+RXUDLL_108688	inside	1	43				
+//
+# RXUDLL_169840 Length: 47
+# RXUDLL_169840 Number of predicted TMRs: 0
+RXUDLL_169840	signal	1	43				
+RXUDLL_169840	outside	44	47				
+//
+# RXUDLL_13069 Length: 48
+# RXUDLL_13069 Number of predicted TMRs: 1
+RXUDLL_13069	outside	1	12				
+RXUDLL_13069	TMhelix	13	33				
+RXUDLL_13069	inside	34	48				
+//
+# RXUDLL_122943 Length: 47
+# RXUDLL_122943 Number of predicted TMRs: 0
+RXUDLL_122943	inside	1	47				
+//
+# RXUDLL_16991 Length: 49
+# RXUDLL_16991 Number of predicted TMRs: 0
+RXUDLL_16991	inside	1	49				
+//
+# RXUDLL_73541 Length: 50
+# RXUDLL_73541 Number of predicted TMRs: 0
+RXUDLL_73541	signal	1	41				
+RXUDLL_73541	outside	42	50				
+//
+# RXUDLL_122150 Length: 47
+# RXUDLL_122150 Number of predicted TMRs: 0
+RXUDLL_122150	inside	1	47				
+//
+# RXUDLL_150311 Length: 39
+# RXUDLL_150311 Number of predicted TMRs: 0
+RXUDLL_150311	signal	1	32				
+RXUDLL_150311	outside	33	39				
+//
+# RXUDLL_122807 Length: 48
+# RXUDLL_122807 Number of predicted TMRs: 0
+RXUDLL_122807	signal	1	20				
+RXUDLL_122807	outside	21	48				
+//
+# RXUDLL_9547 Length: 40
+# RXUDLL_9547 Number of predicted TMRs: 0
+RXUDLL_9547	signal	1	22				
+RXUDLL_9547	outside	23	40				
+//
+# RXUDLL_166050 Length: 50
+# RXUDLL_166050 Number of predicted TMRs: 0
+RXUDLL_166050	inside	1	50				
+//
+# RXUDLL_133591 Length: 36
+# RXUDLL_133591 Number of predicted TMRs: 0
+RXUDLL_133591	inside	1	36				
+//
+# RXUDLL_10404 Length: 49
+# RXUDLL_10404 Number of predicted TMRs: 0
+RXUDLL_10404	inside	1	49				
+//
+# RXUDLL_161794 Length: 39
+# RXUDLL_161794 Number of predicted TMRs: 0
+RXUDLL_161794	inside	1	39				
+//
+# RXUDLL_110270 Length: 40
+# RXUDLL_110270 Number of predicted TMRs: 0
+RXUDLL_110270	inside	1	40				
+//
+# RXUDLL_29688 Length: 42
+# RXUDLL_29688 Number of predicted TMRs: 0
+RXUDLL_29688	inside	1	42				
+//
+# RXUDLL_26324 Length: 44
+# RXUDLL_26324 Number of predicted TMRs: 0
+RXUDLL_26324	outside	1	44				
+//
+# RXUDLL_117209 Length: 50
+# RXUDLL_117209 Number of predicted TMRs: 0
+RXUDLL_117209	signal	1	46				
+RXUDLL_117209	outside	47	50				
+//
+# RXUDLL_36669 Length: 33
+# RXUDLL_36669 Number of predicted TMRs: 0
+RXUDLL_36669	signal	1	32				
+RXUDLL_36669	outside	33	33				
+//
+# RXUDLL_122705 Length: 38
+# RXUDLL_122705 Number of predicted TMRs: 0
+RXUDLL_122705	inside	1	38				
+//
+# RXUDLL_131220 Length: 50
+# RXUDLL_131220 Number of predicted TMRs: 0
+RXUDLL_131220	signal	1	49				
+RXUDLL_131220	outside	50	50				
+//
+# RXUDLL_143419 Length: 49
+# RXUDLL_143419 Number of predicted TMRs: 0
+RXUDLL_143419	inside	1	49				
+//
+# RXUDLL_110288 Length: 30
+# RXUDLL_110288 Number of predicted TMRs: 0
+RXUDLL_110288	inside	1	30				
+//
+# RXUDLL_20837 Length: 47
+# RXUDLL_20837 Number of predicted TMRs: 0
+RXUDLL_20837	inside	1	47				
+//
+# RXUDLL_77329 Length: 50
+# RXUDLL_77329 Number of predicted TMRs: 0
+RXUDLL_77329	inside	1	50				
+//
+# RXUDLL_44320 Length: 48
+# RXUDLL_44320 Number of predicted TMRs: 0
+RXUDLL_44320	inside	1	48				
+//
+# RXUDLL_59910 Length: 42
+# RXUDLL_59910 Number of predicted TMRs: 0
+RXUDLL_59910	inside	1	42				
+//
+# RXUDLL_36774 Length: 38
+# RXUDLL_36774 Number of predicted TMRs: 0
+RXUDLL_36774	signal	1	11				
+RXUDLL_36774	outside	12	38				
+//
+# RXUDLL_100005 Length: 38
+# RXUDLL_100005 Number of predicted TMRs: 0
+RXUDLL_100005	inside	1	38				
+//
+# RXUDLL_3178 Length: 38
+# RXUDLL_3178 Number of predicted TMRs: 0
+RXUDLL_3178	inside	1	38				
+//
+# RXUDLL_125667 Length: 41
+# RXUDLL_125667 Number of predicted TMRs: 0
+RXUDLL_125667	inside	1	41				
+//
+# RXUDLL_133249 Length: 50
+# RXUDLL_133249 Number of predicted TMRs: 0
+RXUDLL_133249	signal	1	47				
+RXUDLL_133249	outside	48	50				
+//
+# RXUDLL_36578 Length: 35
+# RXUDLL_36578 Number of predicted TMRs: 0
+RXUDLL_36578	inside	1	35				
+//
+# RXUDLL_10130 Length: 48
+# RXUDLL_10130 Number of predicted TMRs: 0
+RXUDLL_10130	inside	1	48				
+//
+# RXUDLL_119135 Length: 47
+# RXUDLL_119135 Number of predicted TMRs: 0
+RXUDLL_119135	inside	1	47				
+//
+# RXUDLL_172090 Length: 43
+# RXUDLL_172090 Number of predicted TMRs: 0
+RXUDLL_172090	signal	1	15				
+RXUDLL_172090	outside	16	43				
+//
+# RXUDLL_90534 Length: 48
+# RXUDLL_90534 Number of predicted TMRs: 0
+RXUDLL_90534	signal	1	11				
+RXUDLL_90534	outside	12	48				
+//
+# RXUDLL_120889 Length: 46
+# RXUDLL_120889 Number of predicted TMRs: 0
+RXUDLL_120889	inside	1	46				
+//
+# RXUDLL_21925 Length: 42
+# RXUDLL_21925 Number of predicted TMRs: 0
+RXUDLL_21925	signal	1	16				
+RXUDLL_21925	outside	17	42				
+//
+# RXUDLL_23390 Length: 45
+# RXUDLL_23390 Number of predicted TMRs: 0
+RXUDLL_23390	inside	1	45				
+//
+# RXUDLL_87682 Length: 47
+# RXUDLL_87682 Number of predicted TMRs: 0
+RXUDLL_87682	inside	1	47				
+//
+# RXUDLL_70607 Length: 48
+# RXUDLL_70607 Number of predicted TMRs: 0
+RXUDLL_70607	inside	1	48				
+//
+# RXUDLL_131650 Length: 39
+# RXUDLL_131650 Number of predicted TMRs: 0
+RXUDLL_131650	inside	1	39				
+//
+# RXUDLL_43546 Length: 39
+# RXUDLL_43546 Number of predicted TMRs: 0
+RXUDLL_43546	signal	1	20				
+RXUDLL_43546	outside	21	39				
+//
+# RXUDLL_54312 Length: 43
+# RXUDLL_54312 Number of predicted TMRs: 0
+RXUDLL_54312	inside	1	43				
+//
+# RXUDLL_152113 Length: 50
+# RXUDLL_152113 Number of predicted TMRs: 0
+RXUDLL_152113	inside	1	50				
+//
+# RXUDLL_12188 Length: 43
+# RXUDLL_12188 Number of predicted TMRs: 0
+RXUDLL_12188	signal	1	30				
+RXUDLL_12188	outside	31	43				
+//
+# RXUDLL_92900 Length: 31
+# RXUDLL_92900 Number of predicted TMRs: 0
+RXUDLL_92900	inside	1	31				
+//
+# RXUDLL_135018 Length: 47
+# RXUDLL_135018 Number of predicted TMRs: 0
+RXUDLL_135018	inside	1	47				
+//
+# RXUDLL_31395 Length: 41
+# RXUDLL_31395 Number of predicted TMRs: 0
+RXUDLL_31395	signal	1	10				
+RXUDLL_31395	outside	11	41				
+//
+# RXUDLL_44145 Length: 45
+# RXUDLL_44145 Number of predicted TMRs: 0
+RXUDLL_44145	inside	1	45				
+//
+# RXUDLL_37389 Length: 49
+# RXUDLL_37389 Number of predicted TMRs: 0
+RXUDLL_37389	inside	1	49				
+//
+# RXUDLL_52427 Length: 46
+# RXUDLL_52427 Number of predicted TMRs: 0
+RXUDLL_52427	inside	1	46				
+//
+# RXUDLL_88104 Length: 47
+# RXUDLL_88104 Number of predicted TMRs: 0
+RXUDLL_88104	signal	1	20				
+RXUDLL_88104	outside	21	47				
+//
+# RXUDLL_105398 Length: 48
+# RXUDLL_105398 Number of predicted TMRs: 0
+RXUDLL_105398	inside	1	48				
+//
+# RXUDLL_36346 Length: 45
+# RXUDLL_36346 Number of predicted TMRs: 0
+RXUDLL_36346	inside	1	45				
+//
+# RXUDLL_29454 Length: 45
+# RXUDLL_29454 Number of predicted TMRs: 0
+RXUDLL_29454	inside	1	45				
+//
+# RXUDLL_143600 Length: 48
+# RXUDLL_143600 Number of predicted TMRs: 0
+RXUDLL_143600	signal	1	46				
+RXUDLL_143600	outside	47	48				
+//
+# RXUDLL_76026 Length: 42
+# RXUDLL_76026 Number of predicted TMRs: 0
+RXUDLL_76026	inside	1	42				
+//
+# RXUDLL_105641 Length: 50
+# RXUDLL_105641 Number of predicted TMRs: 0
+RXUDLL_105641	inside	1	50				
+//
+# RXUDLL_42968 Length: 36
+# RXUDLL_42968 Number of predicted TMRs: 0
+RXUDLL_42968	inside	1	36				
+//
+# RXUDLL_146717 Length: 45
+# RXUDLL_146717 Number of predicted TMRs: 0
+RXUDLL_146717	inside	1	45				
+//
+# RXUDLL_109235 Length: 46
+# RXUDLL_109235 Number of predicted TMRs: 0
+RXUDLL_109235	signal	1	15				
+RXUDLL_109235	outside	16	46				
+//
+# RXUDLL_46147 Length: 50
+# RXUDLL_46147 Number of predicted TMRs: 0
+RXUDLL_46147	inside	1	50				
+//
+# RXUDLL_118371 Length: 49
+# RXUDLL_118371 Number of predicted TMRs: 0
+RXUDLL_118371	inside	1	49				
+//
+# RXUDLL_12826 Length: 28
+# RXUDLL_12826 Number of predicted TMRs: 0
+RXUDLL_12826	outside	1	28				
+//
+# RXUDLL_71923 Length: 46
+# RXUDLL_71923 Number of predicted TMRs: 0
+RXUDLL_71923	signal	1	37				
+RXUDLL_71923	outside	38	46				
+//
+# RXUDLL_76254 Length: 36
+# RXUDLL_76254 Number of predicted TMRs: 0
+RXUDLL_76254	signal	1	31				
+RXUDLL_76254	outside	32	36				
+//
+# RXUDLL_144302 Length: 49
+# RXUDLL_144302 Number of predicted TMRs: 0
+RXUDLL_144302	inside	1	49				
+//
+# RXUDLL_77441 Length: 45
+# RXUDLL_77441 Number of predicted TMRs: 0
+RXUDLL_77441	inside	1	45				
+//
+# RXUDLL_167200 Length: 43
+# RXUDLL_167200 Number of predicted TMRs: 0
+RXUDLL_167200	inside	1	43				
+//
+# RXUDLL_16490 Length: 41
+# RXUDLL_16490 Number of predicted TMRs: 0
+RXUDLL_16490	inside	1	41				
+//
+# RXUDLL_4 Length: 48
+# RXUDLL_4 Number of predicted TMRs: 0
+RXUDLL_4	inside	1	48				
+//
+# RXUDLL_59460 Length: 49
+# RXUDLL_59460 Number of predicted TMRs: 0
+RXUDLL_59460	signal	1	25				
+RXUDLL_59460	outside	26	49				
+//
+# RXUDLL_35690 Length: 40
+# RXUDLL_35690 Number of predicted TMRs: 0
+RXUDLL_35690	signal	1	35				
+RXUDLL_35690	outside	36	40				
+//
+# RXUDLL_101365 Length: 37
+# RXUDLL_101365 Number of predicted TMRs: 0
+RXUDLL_101365	inside	1	37				
+//
+# RXUDLL_114578 Length: 50
+# RXUDLL_114578 Number of predicted TMRs: 0
+RXUDLL_114578	inside	1	50				
+//
+# RXUDLL_121125 Length: 46
+# RXUDLL_121125 Number of predicted TMRs: 0
+RXUDLL_121125	signal	1	45				
+RXUDLL_121125	outside	46	46				
+//
+# RXUDLL_58873 Length: 47
+# RXUDLL_58873 Number of predicted TMRs: 0
+RXUDLL_58873	inside	1	47				
+//
+# RXUDLL_100771 Length: 45
+# RXUDLL_100771 Number of predicted TMRs: 0
+RXUDLL_100771	inside	1	45				
+//
+# RXUDLL_4004 Length: 42
+# RXUDLL_4004 Number of predicted TMRs: 0
+RXUDLL_4004	inside	1	42				
+//
+# RXUDLL_64869 Length: 40
+# RXUDLL_64869 Number of predicted TMRs: 0
+RXUDLL_64869	inside	1	40				
+//
+# RXUDLL_20188 Length: 41
+# RXUDLL_20188 Number of predicted TMRs: 0
+RXUDLL_20188	inside	1	41				
+//
+# RXUDLL_111193 Length: 47
+# RXUDLL_111193 Number of predicted TMRs: 0
+RXUDLL_111193	signal	1	35				
+RXUDLL_111193	outside	36	47				
+//
+# RXUDLL_128592 Length: 45
+# RXUDLL_128592 Number of predicted TMRs: 0
+RXUDLL_128592	outside	1	45				
+//
+# RXUDLL_25843 Length: 38
+# RXUDLL_25843 Number of predicted TMRs: 0
+RXUDLL_25843	signal	1	32				
+RXUDLL_25843	outside	33	38				
+//
+# RXUDLL_83344 Length: 49
+# RXUDLL_83344 Number of predicted TMRs: 0
+RXUDLL_83344	inside	1	49				
+//
+# RXUDLL_36388 Length: 49
+# RXUDLL_36388 Number of predicted TMRs: 0
+RXUDLL_36388	inside	1	49				
+//
+# RXUDLL_36614 Length: 49
+# RXUDLL_36614 Number of predicted TMRs: 0
+RXUDLL_36614	inside	1	49				
+//
+# RXUDLL_118005 Length: 50
+# RXUDLL_118005 Number of predicted TMRs: 0
+RXUDLL_118005	signal	1	33				
+RXUDLL_118005	outside	34	50				
+//
+# RXUDLL_81792 Length: 37
+# RXUDLL_81792 Number of predicted TMRs: 0
+RXUDLL_81792	signal	1	19				
+RXUDLL_81792	outside	20	37				
+//
+# RXUDLL_18528 Length: 38
+# RXUDLL_18528 Number of predicted TMRs: 0
+RXUDLL_18528	inside	1	38				
+//
+# RXUDLL_91544 Length: 48
+# RXUDLL_91544 Number of predicted TMRs: 0
+RXUDLL_91544	signal	1	29				
+RXUDLL_91544	outside	30	48				
+//
+# RXUDLL_67375 Length: 42
+# RXUDLL_67375 Number of predicted TMRs: 0
+RXUDLL_67375	inside	1	42				
+//
+# RXUDLL_122670 Length: 50
+# RXUDLL_122670 Number of predicted TMRs: 0
+RXUDLL_122670	inside	1	50				
+//
+# RXUDLL_68579 Length: 45
+# RXUDLL_68579 Number of predicted TMRs: 0
+RXUDLL_68579	inside	1	45				
+//
+# RXUDLL_125168 Length: 50
+# RXUDLL_125168 Number of predicted TMRs: 0
+RXUDLL_125168	signal	1	48				
+RXUDLL_125168	outside	49	50				
+//
+# RXUDLL_170211 Length: 46
+# RXUDLL_170211 Number of predicted TMRs: 0
+RXUDLL_170211	inside	1	46				
+//
+# RXUDLL_95363 Length: 40
+# RXUDLL_95363 Number of predicted TMRs: 0
+RXUDLL_95363	signal	1	32				
+RXUDLL_95363	outside	33	40				
+//
+# RXUDLL_133596 Length: 48
+# RXUDLL_133596 Number of predicted TMRs: 0
+RXUDLL_133596	signal	1	44				
+RXUDLL_133596	outside	45	48				
+//
+# RXUDLL_18740 Length: 43
+# RXUDLL_18740 Number of predicted TMRs: 0
+RXUDLL_18740	outside	1	43				
+//
+# RXUDLL_120591 Length: 39
+# RXUDLL_120591 Number of predicted TMRs: 0
+RXUDLL_120591	signal	1	26				
+RXUDLL_120591	outside	27	39				
+//
+# RXUDLL_8087 Length: 49
+# RXUDLL_8087 Number of predicted TMRs: 0
+RXUDLL_8087	signal	1	44				
+RXUDLL_8087	outside	45	49				
+//
+# RXUDLL_89130 Length: 34
+# RXUDLL_89130 Number of predicted TMRs: 0
+RXUDLL_89130	inside	1	34				
+//
+# RXUDLL_10029 Length: 40
+# RXUDLL_10029 Number of predicted TMRs: 0
+RXUDLL_10029	signal	1	34				
+RXUDLL_10029	outside	35	40				
+//
+# RXUDLL_98891 Length: 48
+# RXUDLL_98891 Number of predicted TMRs: 0
+RXUDLL_98891	inside	1	48				
+//
+# RXUDLL_133038 Length: 44
+# RXUDLL_133038 Number of predicted TMRs: 0
+RXUDLL_133038	inside	1	44				
+//
+# RXUDLL_124227 Length: 42
+# RXUDLL_124227 Number of predicted TMRs: 0
+RXUDLL_124227	inside	1	42				
+//
+# RXUDLL_143883 Length: 34
+# RXUDLL_143883 Number of predicted TMRs: 0
+RXUDLL_143883	signal	1	14				
+RXUDLL_143883	outside	15	34				
+//
+# RXUDLL_142754 Length: 44
+# RXUDLL_142754 Number of predicted TMRs: 0
+RXUDLL_142754	inside	1	44				
+//
+# RXUDLL_57171 Length: 48
+# RXUDLL_57171 Number of predicted TMRs: 0
+RXUDLL_57171	inside	1	48				
+//
+# RXUDLL_34891 Length: 49
+# RXUDLL_34891 Number of predicted TMRs: 0
+RXUDLL_34891	signal	1	28				
+RXUDLL_34891	outside	29	49				
+//
+# RXUDLL_99214 Length: 45
+# RXUDLL_99214 Number of predicted TMRs: 0
+RXUDLL_99214	signal	1	15				
+RXUDLL_99214	outside	16	45				
+//
+# RXUDLL_136007 Length: 38
+# RXUDLL_136007 Number of predicted TMRs: 0
+RXUDLL_136007	signal	1	35				
+RXUDLL_136007	outside	36	38				
+//
+# RXUDLL_100266 Length: 46
+# RXUDLL_100266 Number of predicted TMRs: 0
+RXUDLL_100266	signal	1	43				
+RXUDLL_100266	outside	44	46				
+//
+# RXUDLL_80664 Length: 45
+# RXUDLL_80664 Number of predicted TMRs: 0
+RXUDLL_80664	inside	1	45				
+//
+# RXUDLL_137594 Length: 49
+# RXUDLL_137594 Number of predicted TMRs: 0
+RXUDLL_137594	inside	1	49				
+//
+# RXUDLL_79999 Length: 42
+# RXUDLL_79999 Number of predicted TMRs: 0
+RXUDLL_79999	signal	1	34				
+RXUDLL_79999	outside	35	42				
+//
+# RXUDLL_13237 Length: 49
+# RXUDLL_13237 Number of predicted TMRs: 0
+RXUDLL_13237	signal	1	40				
+RXUDLL_13237	outside	41	49				
+//
+# RXUDLL_20541 Length: 48
+# RXUDLL_20541 Number of predicted TMRs: 0
+RXUDLL_20541	inside	1	48				
+//
+# RXUDLL_127524 Length: 48
+# RXUDLL_127524 Number of predicted TMRs: 0
+RXUDLL_127524	inside	1	48				
+//
+# RXUDLL_58726 Length: 49
+# RXUDLL_58726 Number of predicted TMRs: 0
+RXUDLL_58726	inside	1	49				
+//
+# RXUDLL_95394 Length: 46
+# RXUDLL_95394 Number of predicted TMRs: 0
+RXUDLL_95394	inside	1	46				
+//
+# RXUDLL_97170 Length: 47
+# RXUDLL_97170 Number of predicted TMRs: 0
+RXUDLL_97170	inside	1	47				
+//
+# RXUDLL_115938 Length: 48
+# RXUDLL_115938 Number of predicted TMRs: 0
+RXUDLL_115938	inside	1	48				
+//
+# RXUDLL_109419 Length: 50
+# RXUDLL_109419 Number of predicted TMRs: 0
+RXUDLL_109419	inside	1	50				
+//
+# RXUDLL_171756 Length: 46
+# RXUDLL_171756 Number of predicted TMRs: 0
+RXUDLL_171756	inside	1	46				
+//
+# RXUDLL_7068 Length: 37
+# RXUDLL_7068 Number of predicted TMRs: 0
+RXUDLL_7068	signal	1	35				
+RXUDLL_7068	outside	36	37				
+//
+# RXUDLL_98945 Length: 41
+# RXUDLL_98945 Number of predicted TMRs: 0
+RXUDLL_98945	inside	1	41				
+//
+# RXUDLL_39018 Length: 44
+# RXUDLL_39018 Number of predicted TMRs: 1
+RXUDLL_39018	inside	1	15				
+RXUDLL_39018	TMhelix	16	36				
+RXUDLL_39018	outside	37	44				
+//
+# RXUDLL_754 Length: 45
+# RXUDLL_754 Number of predicted TMRs: 0
+RXUDLL_754	inside	1	45				
+//
+# RXUDLL_143504 Length: 46
+# RXUDLL_143504 Number of predicted TMRs: 0
+RXUDLL_143504	inside	1	46				
+//
+# RXUDLL_15782 Length: 31
+# RXUDLL_15782 Number of predicted TMRs: 0
+RXUDLL_15782	signal	1	19				
+RXUDLL_15782	outside	20	31				
+//
+# RXUDLL_29921 Length: 38
+# RXUDLL_29921 Number of predicted TMRs: 0
+RXUDLL_29921	inside	1	38				
+//
+# RXUDLL_99190 Length: 48
+# RXUDLL_99190 Number of predicted TMRs: 0
+RXUDLL_99190	inside	1	48				
+//
+# RXUDLL_107590 Length: 46
+# RXUDLL_107590 Number of predicted TMRs: 0
+RXUDLL_107590	inside	1	46				
+//
+# RXUDLL_5837 Length: 50
+# RXUDLL_5837 Number of predicted TMRs: 0
+RXUDLL_5837	inside	1	50				
+//
+# RXUDLL_24314 Length: 37
+# RXUDLL_24314 Number of predicted TMRs: 0
+RXUDLL_24314	inside	1	37				
+//
+# RXUDLL_125369 Length: 50
+# RXUDLL_125369 Number of predicted TMRs: 0
+RXUDLL_125369	signal	1	35				
+RXUDLL_125369	outside	36	50				
+//
+# RXUDLL_102939 Length: 47
+# RXUDLL_102939 Number of predicted TMRs: 0
+RXUDLL_102939	signal	1	45				
+RXUDLL_102939	outside	46	47				
+//
+# RXUDLL_144675 Length: 50
+# RXUDLL_144675 Number of predicted TMRs: 0
+RXUDLL_144675	inside	1	50				
+//
+# RXUDLL_9338 Length: 42
+# RXUDLL_9338 Number of predicted TMRs: 0
+RXUDLL_9338	inside	1	42				
+//
+# RXUDLL_121404 Length: 42
+# RXUDLL_121404 Number of predicted TMRs: 0
+RXUDLL_121404	signal	1	24				
+RXUDLL_121404	outside	25	42				
+//
+# RXUDLL_71891 Length: 40
+# RXUDLL_71891 Number of predicted TMRs: 0
+RXUDLL_71891	inside	1	40				
+//
+# RXUDLL_36677 Length: 39
+# RXUDLL_36677 Number of predicted TMRs: 0
+RXUDLL_36677	inside	1	39				
+//
+# RXUDLL_156494 Length: 37
+# RXUDLL_156494 Number of predicted TMRs: 0
+RXUDLL_156494	inside	1	37				
+//
+# RXUDLL_71649 Length: 49
+# RXUDLL_71649 Number of predicted TMRs: 0
+RXUDLL_71649	inside	1	49				
+//
+# RXUDLL_94176 Length: 43
+# RXUDLL_94176 Number of predicted TMRs: 0
+RXUDLL_94176	signal	1	41				
+RXUDLL_94176	outside	42	43				
+//
+# RXUDLL_40783 Length: 45
+# RXUDLL_40783 Number of predicted TMRs: 0
+RXUDLL_40783	inside	1	45				
+//
+# RXUDLL_78193 Length: 33
+# RXUDLL_78193 Number of predicted TMRs: 0
+RXUDLL_78193	inside	1	33				
+//
+# RXUDLL_18969 Length: 42
+# RXUDLL_18969 Number of predicted TMRs: 0
+RXUDLL_18969	inside	1	42				
+//
+# RXUDLL_92962 Length: 47
+# RXUDLL_92962 Number of predicted TMRs: 0
+RXUDLL_92962	signal	1	46				
+RXUDLL_92962	outside	47	47				
+//
+# RXUDLL_30359 Length: 47
+# RXUDLL_30359 Number of predicted TMRs: 0
+RXUDLL_30359	signal	1	10				
+RXUDLL_30359	outside	11	47				
+//
+# RXUDLL_116499 Length: 46
+# RXUDLL_116499 Number of predicted TMRs: 0
+RXUDLL_116499	signal	1	28				
+RXUDLL_116499	outside	29	46				
+//
+# RXUDLL_123632 Length: 47
+# RXUDLL_123632 Number of predicted TMRs: 0
+RXUDLL_123632	inside	1	47				
+//
+# RXUDLL_61333 Length: 49
+# RXUDLL_61333 Number of predicted TMRs: 0
+RXUDLL_61333	signal	1	45				
+RXUDLL_61333	outside	46	49				
+//
+# RXUDLL_12192 Length: 43
+# RXUDLL_12192 Number of predicted TMRs: 0
+RXUDLL_12192	inside	1	43				
+//
+# RXUDLL_12541 Length: 40
+# RXUDLL_12541 Number of predicted TMRs: 0
+RXUDLL_12541	inside	1	40				
+//
+# RXUDLL_87996 Length: 47
+# RXUDLL_87996 Number of predicted TMRs: 0
+RXUDLL_87996	inside	1	47				
+//
+# RXUDLL_161647 Length: 42
+# RXUDLL_161647 Number of predicted TMRs: 0
+RXUDLL_161647	inside	1	42				
+//
+# RXUDLL_171604 Length: 48
+# RXUDLL_171604 Number of predicted TMRs: 0
+RXUDLL_171604	inside	1	48				
+//
+# RXUDLL_119598 Length: 37
+# RXUDLL_119598 Number of predicted TMRs: 0
+RXUDLL_119598	signal	1	25				
+RXUDLL_119598	outside	26	37				
+//
+# RXUDLL_130468 Length: 44
+# RXUDLL_130468 Number of predicted TMRs: 0
+RXUDLL_130468	signal	1	10				
+RXUDLL_130468	outside	11	44				
+//
+# RXUDLL_167406 Length: 49
+# RXUDLL_167406 Number of predicted TMRs: 0
+RXUDLL_167406	inside	1	49				
+//
+# RXUDLL_167957 Length: 50
+# RXUDLL_167957 Number of predicted TMRs: 0
+RXUDLL_167957	inside	1	50				
+//
+# RXUDLL_168117 Length: 50
+# RXUDLL_168117 Number of predicted TMRs: 0
+RXUDLL_168117	inside	1	50				
+//
+# RXUDLL_148139 Length: 50
+# RXUDLL_148139 Number of predicted TMRs: 0
+RXUDLL_148139	inside	1	50				
+//
+# RXUDLL_140584 Length: 50
+# RXUDLL_140584 Number of predicted TMRs: 0
+RXUDLL_140584	inside	1	50				
+//
+# RXUDLL_38853 Length: 32
+# RXUDLL_38853 Number of predicted TMRs: 0
+RXUDLL_38853	signal	1	31				
+RXUDLL_38853	outside	32	32				
+//
+# RXUDLL_133287 Length: 48
+# RXUDLL_133287 Number of predicted TMRs: 0
+RXUDLL_133287	inside	1	48				
+//
+# RXUDLL_170750 Length: 50
+# RXUDLL_170750 Number of predicted TMRs: 0
+RXUDLL_170750	inside	1	50				
+//
+# RXUDLL_168530 Length: 50
+# RXUDLL_168530 Number of predicted TMRs: 0
+RXUDLL_168530	inside	1	50				
+//
+# RXUDLL_172911 Length: 50
+# RXUDLL_172911 Number of predicted TMRs: 0
+RXUDLL_172911	inside	1	50				
+//
+# RXUDLL_167918 Length: 50
+# RXUDLL_167918 Number of predicted TMRs: 0
+RXUDLL_167918	inside	1	50				
+//
+# RXUDLL_143418 Length: 48
+# RXUDLL_143418 Number of predicted TMRs: 0
+RXUDLL_143418	inside	1	48				
+//
+# RXUDLL_113941 Length: 43
+# RXUDLL_113941 Number of predicted TMRs: 0
+RXUDLL_113941	signal	1	28				
+RXUDLL_113941	outside	29	43				
+//
+# RXUDLL_69302 Length: 49
+# RXUDLL_69302 Number of predicted TMRs: 0
+RXUDLL_69302	signal	1	10				
+RXUDLL_69302	outside	11	49				
+//
+# RXUDLL_59709 Length: 47
+# RXUDLL_59709 Number of predicted TMRs: 0
+RXUDLL_59709	inside	1	47				
+//
+# RXUDLL_122998 Length: 49
+# RXUDLL_122998 Number of predicted TMRs: 0
+RXUDLL_122998	inside	1	49				
+//
+# RXUDLL_62386 Length: 48
+# RXUDLL_62386 Number of predicted TMRs: 0
+RXUDLL_62386	signal	1	38				
+RXUDLL_62386	outside	39	48				
+//
+# RXUDLL_8867 Length: 48
+# RXUDLL_8867 Number of predicted TMRs: 0
+RXUDLL_8867	inside	1	48				
+//
+# RXUDLL_137417 Length: 36
+# RXUDLL_137417 Number of predicted TMRs: 0
+RXUDLL_137417	inside	1	36				
+//
+# RXUDLL_93505 Length: 46
+# RXUDLL_93505 Number of predicted TMRs: 0
+RXUDLL_93505	inside	1	46				
+//
+# RXUDLL_76275 Length: 47
+# RXUDLL_76275 Number of predicted TMRs: 0
+RXUDLL_76275	signal	1	46				
+RXUDLL_76275	outside	47	47				
+//
+# RXUDLL_133685 Length: 48
+# RXUDLL_133685 Number of predicted TMRs: 0
+RXUDLL_133685	inside	1	48				
+//
+# RXUDLL_10045 Length: 47
+# RXUDLL_10045 Number of predicted TMRs: 0
+RXUDLL_10045	signal	1	46				
+RXUDLL_10045	outside	47	47				
+//
+# RXUDLL_40979 Length: 47
+# RXUDLL_40979 Number of predicted TMRs: 0
+RXUDLL_40979	signal	1	13				
+RXUDLL_40979	outside	14	47				
+//
+# RXUDLL_41122 Length: 41
+# RXUDLL_41122 Number of predicted TMRs: 0
+RXUDLL_41122	signal	1	21				
+RXUDLL_41122	outside	22	41				
+//
+# RXUDLL_131976 Length: 50
+# RXUDLL_131976 Number of predicted TMRs: 0
+RXUDLL_131976	inside	1	50				
+//
+# RXUDLL_169735 Length: 50
+# RXUDLL_169735 Number of predicted TMRs: 0
+RXUDLL_169735	inside	1	50				
+//
+# RXUDLL_172713 Length: 50
+# RXUDLL_172713 Number of predicted TMRs: 0
+RXUDLL_172713	inside	1	50				
+//
+# RXUDLL_170444 Length: 50
+# RXUDLL_170444 Number of predicted TMRs: 0
+RXUDLL_170444	inside	1	50				
+//
+# RXUDLL_123504 Length: 48
+# RXUDLL_123504 Number of predicted TMRs: 0
+RXUDLL_123504	inside	1	48				
+//
+# RXUDLL_82460 Length: 50
+# RXUDLL_82460 Number of predicted TMRs: 0
+RXUDLL_82460	inside	1	50				
+//
+# RXUDLL_9983 Length: 42
+# RXUDLL_9983 Number of predicted TMRs: 0
+RXUDLL_9983	inside	1	42				
+//
+# RXUDLL_41447 Length: 43
+# RXUDLL_41447 Number of predicted TMRs: 0
+RXUDLL_41447	inside	1	43				
+//
+# RXUDLL_114119 Length: 44
+# RXUDLL_114119 Number of predicted TMRs: 0
+RXUDLL_114119	inside	1	44				
+//
+# RXUDLL_9366 Length: 50
+# RXUDLL_9366 Number of predicted TMRs: 0
+RXUDLL_9366	signal	1	10				
+RXUDLL_9366	outside	11	50				
+//
+# RXUDLL_162277 Length: 47
+# RXUDLL_162277 Number of predicted TMRs: 0
+RXUDLL_162277	inside	1	47				
+//
+# RXUDLL_166704 Length: 47
+# RXUDLL_166704 Number of predicted TMRs: 0
+RXUDLL_166704	inside	1	47				
+//
+# RXUDLL_137921 Length: 43
+# RXUDLL_137921 Number of predicted TMRs: 0
+RXUDLL_137921	outside	1	43				
+//
+# RXUDLL_95208 Length: 41
+# RXUDLL_95208 Number of predicted TMRs: 0
+RXUDLL_95208	signal	1	40				
+RXUDLL_95208	outside	41	41				
+//
+# RXUDLL_96230 Length: 41
+# RXUDLL_96230 Number of predicted TMRs: 0
+RXUDLL_96230	inside	1	41				
+//
+# RXUDLL_166416 Length: 46
+# RXUDLL_166416 Number of predicted TMRs: 0
+RXUDLL_166416	signal	1	35				
+RXUDLL_166416	outside	36	46				
+//
+# RXUDLL_11712 Length: 50
+# RXUDLL_11712 Number of predicted TMRs: 0
+RXUDLL_11712	inside	1	50				
+//
+# RXUDLL_13766 Length: 41
+# RXUDLL_13766 Number of predicted TMRs: 0
+RXUDLL_13766	inside	1	41				
+//
+# RXUDLL_97917 Length: 44
+# RXUDLL_97917 Number of predicted TMRs: 0
+RXUDLL_97917	inside	1	44				
+//
+# RXUDLL_34360 Length: 42
+# RXUDLL_34360 Number of predicted TMRs: 0
+RXUDLL_34360	inside	1	42				
+//
+# RXUDLL_4470 Length: 41
+# RXUDLL_4470 Number of predicted TMRs: 0
+RXUDLL_4470	inside	1	41				
+//
+# RXUDLL_101245 Length: 48
+# RXUDLL_101245 Number of predicted TMRs: 0
+RXUDLL_101245	inside	1	48				
+//
+# RXUDLL_22980 Length: 46
+# RXUDLL_22980 Number of predicted TMRs: 0
+RXUDLL_22980	inside	1	46				
+//
+# RXUDLL_164584 Length: 43
+# RXUDLL_164584 Number of predicted TMRs: 0
+RXUDLL_164584	inside	1	43				
+//
+# RXUDLL_77594 Length: 43
+# RXUDLL_77594 Number of predicted TMRs: 0
+RXUDLL_77594	signal	1	27				
+RXUDLL_77594	outside	28	43				
+//
+# RXUDLL_139015 Length: 43
+# RXUDLL_139015 Number of predicted TMRs: 0
+RXUDLL_139015	signal	1	22				
+RXUDLL_139015	outside	23	43				
+//
+# RXUDLL_16787 Length: 50
+# RXUDLL_16787 Number of predicted TMRs: 0
+RXUDLL_16787	inside	1	50				
+//
+# RXUDLL_146091 Length: 45
+# RXUDLL_146091 Number of predicted TMRs: 0
+RXUDLL_146091	inside	1	45				
+//
+# RXUDLL_79652 Length: 47
+# RXUDLL_79652 Number of predicted TMRs: 0
+RXUDLL_79652	inside	1	47				
+//
+# RXUDLL_31213 Length: 43
+# RXUDLL_31213 Number of predicted TMRs: 0
+RXUDLL_31213	outside	1	43				
+//
+# RXUDLL_97992 Length: 49
+# RXUDLL_97992 Number of predicted TMRs: 0
+RXUDLL_97992	signal	1	10				
+RXUDLL_97992	outside	11	49				
+//
+# RXUDLL_164489 Length: 47
+# RXUDLL_164489 Number of predicted TMRs: 0
+RXUDLL_164489	signal	1	45				
+RXUDLL_164489	outside	46	47				
+//
+# RXUDLL_8842 Length: 44
+# RXUDLL_8842 Number of predicted TMRs: 0
+RXUDLL_8842	inside	1	44				
+//
+# RXUDLL_99521 Length: 46
+# RXUDLL_99521 Number of predicted TMRs: 0
+RXUDLL_99521	inside	1	46				
+//
+# RXUDLL_94130 Length: 50
+# RXUDLL_94130 Number of predicted TMRs: 0
+RXUDLL_94130	inside	1	50				
+//
+# RXUDLL_113001 Length: 36
+# RXUDLL_113001 Number of predicted TMRs: 0
+RXUDLL_113001	signal	1	28				
+RXUDLL_113001	outside	29	36				
+//
+# RXUDLL_126492 Length: 35
+# RXUDLL_126492 Number of predicted TMRs: 0
+RXUDLL_126492	signal	1	34				
+RXUDLL_126492	outside	35	35				
+//
+# RXUDLL_56215 Length: 45
+# RXUDLL_56215 Number of predicted TMRs: 0
+RXUDLL_56215	signal	1	44				
+RXUDLL_56215	outside	45	45				
+//
+# RXUDLL_38086 Length: 33
+# RXUDLL_38086 Number of predicted TMRs: 0
+RXUDLL_38086	inside	1	33				
+//
+# RXUDLL_146292 Length: 47
+# RXUDLL_146292 Number of predicted TMRs: 0
+RXUDLL_146292	signal	1	10				
+RXUDLL_146292	outside	11	47				
+//
+# RXUDLL_131697 Length: 46
+# RXUDLL_131697 Number of predicted TMRs: 0
+RXUDLL_131697	signal	1	44				
+RXUDLL_131697	outside	45	46				
+//
+# RXUDLL_125400 Length: 48
+# RXUDLL_125400 Number of predicted TMRs: 0
+RXUDLL_125400	inside	1	48				
+//
+# RXUDLL_151430 Length: 42
+# RXUDLL_151430 Number of predicted TMRs: 0
+RXUDLL_151430	inside	1	42				
+//
+# RXUDLL_148000 Length: 47
+# RXUDLL_148000 Number of predicted TMRs: 0
+RXUDLL_148000	inside	1	47				
+//
+# RXUDLL_64968 Length: 48
+# RXUDLL_64968 Number of predicted TMRs: 0
+RXUDLL_64968	inside	1	48				
+//
+# RXUDLL_86289 Length: 45
+# RXUDLL_86289 Number of predicted TMRs: 0
+RXUDLL_86289	signal	1	40				
+RXUDLL_86289	outside	41	45				
+//
+# RXUDLL_26623 Length: 40
+# RXUDLL_26623 Number of predicted TMRs: 0
+RXUDLL_26623	inside	1	40				
+//
+# RXUDLL_18217 Length: 37
+# RXUDLL_18217 Number of predicted TMRs: 0
+RXUDLL_18217	signal	1	24				
+RXUDLL_18217	outside	25	37				
+//
+# RXUDLL_150062 Length: 48
+# RXUDLL_150062 Number of predicted TMRs: 0
+RXUDLL_150062	inside	1	48				
+//
+# RXUDLL_95479 Length: 50
+# RXUDLL_95479 Number of predicted TMRs: 0
+RXUDLL_95479	inside	1	50				
+//
+# RXUDLL_19135 Length: 48
+# RXUDLL_19135 Number of predicted TMRs: 0
+RXUDLL_19135	signal	1	38				
+RXUDLL_19135	outside	39	48				
+//
+# RXUDLL_49007 Length: 40
+# RXUDLL_49007 Number of predicted TMRs: 0
+RXUDLL_49007	signal	1	18				
+RXUDLL_49007	outside	19	40				
+//
+# RXUDLL_11530 Length: 40
+# RXUDLL_11530 Number of predicted TMRs: 0
+RXUDLL_11530	signal	1	30				
+RXUDLL_11530	outside	31	40				
+//
+# RXUDLL_122346 Length: 43
+# RXUDLL_122346 Number of predicted TMRs: 0
+RXUDLL_122346	inside	1	43				
+//
+# RXUDLL_137613 Length: 48
+# RXUDLL_137613 Number of predicted TMRs: 0
+RXUDLL_137613	inside	1	48				
+//
+# RXUDLL_95557 Length: 46
+# RXUDLL_95557 Number of predicted TMRs: 0
+RXUDLL_95557	signal	1	45				
+RXUDLL_95557	outside	46	46				
+//
+# RXUDLL_136181 Length: 41
+# RXUDLL_136181 Number of predicted TMRs: 0
+RXUDLL_136181	signal	1	10				
+RXUDLL_136181	outside	11	41				
+//
+# RXUDLL_52202 Length: 43
+# RXUDLL_52202 Number of predicted TMRs: 0
+RXUDLL_52202	inside	1	43				
+//
+# RXUDLL_74805 Length: 38
+# RXUDLL_74805 Number of predicted TMRs: 0
+RXUDLL_74805	inside	1	38				
+//
+# RXUDLL_86950 Length: 42
+# RXUDLL_86950 Number of predicted TMRs: 0
+RXUDLL_86950	signal	1	12				
+RXUDLL_86950	outside	13	42				
+//
+# RXUDLL_93979 Length: 50
+# RXUDLL_93979 Number of predicted TMRs: 0
+RXUDLL_93979	inside	1	50				
+//
+# RXUDLL_85698 Length: 47
+# RXUDLL_85698 Number of predicted TMRs: 0
+RXUDLL_85698	signal	1	40				
+RXUDLL_85698	outside	41	47				
+//
+# RXUDLL_101612 Length: 50
+# RXUDLL_101612 Number of predicted TMRs: 0
+RXUDLL_101612	signal	1	21				
+RXUDLL_101612	outside	22	50				
+//
+# RXUDLL_78208 Length: 45
+# RXUDLL_78208 Number of predicted TMRs: 0
+RXUDLL_78208	inside	1	45				
+//
+# RXUDLL_11790 Length: 49
+# RXUDLL_11790 Number of predicted TMRs: 0
+RXUDLL_11790	outside	1	49				
+//
+# RXUDLL_82919 Length: 42
+# RXUDLL_82919 Number of predicted TMRs: 0
+RXUDLL_82919	inside	1	42				
+//
+# RXUDLL_148659 Length: 45
+# RXUDLL_148659 Number of predicted TMRs: 0
+RXUDLL_148659	outside	1	45				
+//
+# RXUDLL_10916 Length: 43
+# RXUDLL_10916 Number of predicted TMRs: 0
+RXUDLL_10916	signal	1	19				
+RXUDLL_10916	outside	20	43				
+//
+# RXUDLL_75631 Length: 50
+# RXUDLL_75631 Number of predicted TMRs: 0
+RXUDLL_75631	inside	1	50				
+//
+# RXUDLL_167994 Length: 39
+# RXUDLL_167994 Number of predicted TMRs: 0
+RXUDLL_167994	signal	1	38				
+RXUDLL_167994	outside	39	39				
+//
+# RXUDLL_67007 Length: 48
+# RXUDLL_67007 Number of predicted TMRs: 0
+RXUDLL_67007	inside	1	48				
+//
+# RXUDLL_42590 Length: 46
+# RXUDLL_42590 Number of predicted TMRs: 0
+RXUDLL_42590	inside	1	46				
+//
+# RXUDLL_161835 Length: 50
+# RXUDLL_161835 Number of predicted TMRs: 0
+RXUDLL_161835	inside	1	50				
+//
+# RXUDLL_87273 Length: 43
+# RXUDLL_87273 Number of predicted TMRs: 0
+RXUDLL_87273	inside	1	43				
+//
+# RXUDLL_109976 Length: 46
+# RXUDLL_109976 Number of predicted TMRs: 0
+RXUDLL_109976	signal	1	44				
+RXUDLL_109976	outside	45	46				
+//
+# RXUDLL_4744 Length: 43
+# RXUDLL_4744 Number of predicted TMRs: 0
+RXUDLL_4744	inside	1	43				
+//
+# RXUDLL_75035 Length: 49
+# RXUDLL_75035 Number of predicted TMRs: 0
+RXUDLL_75035	signal	1	29				
+RXUDLL_75035	outside	30	49				
+//
+# RXUDLL_164533 Length: 37
+# RXUDLL_164533 Number of predicted TMRs: 0
+RXUDLL_164533	signal	1	35				
+RXUDLL_164533	outside	36	37				
+//
+# RXUDLL_16187 Length: 50
+# RXUDLL_16187 Number of predicted TMRs: 0
+RXUDLL_16187	inside	1	50				
+//
+# RXUDLL_89871 Length: 40
+# RXUDLL_89871 Number of predicted TMRs: 0
+RXUDLL_89871	inside	1	40				
+//
+# RXUDLL_72389 Length: 46
+# RXUDLL_72389 Number of predicted TMRs: 0
+RXUDLL_72389	signal	1	28				
+RXUDLL_72389	outside	29	46				
+//
+# RXUDLL_137087 Length: 47
+# RXUDLL_137087 Number of predicted TMRs: 0
+RXUDLL_137087	inside	1	47				
+//
+# RXUDLL_128169 Length: 46
+# RXUDLL_128169 Number of predicted TMRs: 0
+RXUDLL_128169	inside	1	46				
+//
+# RXUDLL_124623 Length: 49
+# RXUDLL_124623 Number of predicted TMRs: 0
+RXUDLL_124623	inside	1	49				
+//
+# RXUDLL_117952 Length: 50
+# RXUDLL_117952 Number of predicted TMRs: 0
+RXUDLL_117952	inside	1	50				
+//
+# RXUDLL_43784 Length: 47
+# RXUDLL_43784 Number of predicted TMRs: 0
+RXUDLL_43784	inside	1	47				
+//
+# RXUDLL_73267 Length: 38
+# RXUDLL_73267 Number of predicted TMRs: 0
+RXUDLL_73267	signal	1	37				
+RXUDLL_73267	outside	38	38				
+//
+# RXUDLL_44844 Length: 45
+# RXUDLL_44844 Number of predicted TMRs: 0
+RXUDLL_44844	inside	1	45				
+//
+# RXUDLL_57485 Length: 50
+# RXUDLL_57485 Number of predicted TMRs: 0
+RXUDLL_57485	inside	1	50				
+//
+# RXUDLL_57411 Length: 46
+# RXUDLL_57411 Number of predicted TMRs: 0
+RXUDLL_57411	inside	1	46				
+//
+# RXUDLL_13930 Length: 46
+# RXUDLL_13930 Number of predicted TMRs: 0
+RXUDLL_13930	inside	1	46				
+//
+# RXUDLL_115253 Length: 44
+# RXUDLL_115253 Number of predicted TMRs: 0
+RXUDLL_115253	inside	1	44				
+//
+# RXUDLL_29616 Length: 42
+# RXUDLL_29616 Number of predicted TMRs: 0
+RXUDLL_29616	inside	1	42				
+//
+# RXUDLL_38848 Length: 49
+# RXUDLL_38848 Number of predicted TMRs: 0
+RXUDLL_38848	inside	1	49				
+//
+# RXUDLL_117232 Length: 44
+# RXUDLL_117232 Number of predicted TMRs: 0
+RXUDLL_117232	inside	1	44				
+//
+# RXUDLL_146371 Length: 48
+# RXUDLL_146371 Number of predicted TMRs: 0
+RXUDLL_146371	outside	1	48				
+//
+# RXUDLL_41005 Length: 49
+# RXUDLL_41005 Number of predicted TMRs: 0
+RXUDLL_41005	inside	1	49				
+//
+# RXUDLL_96972 Length: 37
+# RXUDLL_96972 Number of predicted TMRs: 0
+RXUDLL_96972	inside	1	37				
