@@ -1,8 +1,23 @@
-# Micropeptide
-Discovery of micropeptides in neurons
-Surprisingly, only 1.5% of the human genome encodes our ~21,000 distinct protein-coding genes. Most of the genome is, however, turned into RNA and this includes tens of thousands of long non-coding RNAs (lncRNAs). Recent work has found that many lncRNAs actually do encode short proteins (approximately 30-100 amino acids), referred to as microproteins. This project seeks to identify neuron specific microproteins within previously gathered RNA sequencing data.
-Water insoluble small proteins (~30 amino acids) are used in bacteria to affect the flow of small charged molecules across the impermeable plasma membrane in response to stress. This can lead to various effects such as allowing the bacteria to enter into a dormant state that allows them to evade the toxicity of antibiotics whilst preserving their optimised genome.
-We hypothesise that large numbers of small proteins, microproteins, exist in higher organisms such as in humans as an effective way to regulate channels in cells that heavily use membrane channels as part of their functioning such as cells found in the heart and brain. As with bacteria, annotation of such small proteins in humans was missed as such small open reading frames were discarded as non-functional noise. However, recent work has given a tantalizing glimpse of what may lie hidden in the genome when a few small proteins were found to regulate a calcium channel in heart cells (Nelson et al., 2016; Payre & Desplan, 2016).
-We propose here to carry out an automated search based on the properties of known small proteins and their genetic organisation so as to find new candidates. The top candidates will then be manually checked as to their suitability. If they’re deemed to have a low probability of functionality then the reasons for this will be used to further optimise the search algorithm. Interesting hits following the manual check will then be deleted in cells and overexpressed in cells to look for detectable effects.
-To carry out this project, lncRNAs from human neuron RNA sequencing data need to be assessed for their likelihood to contain microprotein expressing open reading frames. The most promising candidates among these will be selected for further study using a set of criteria. These criteria could be based on properties of the protein (like length, amino acids, secondary structure, tertiary structure), properties of the encoding RNA
-(e.g. length, codon usage, untranslated regions etc) or properties of the genomic region. Scripts should be written to automate this selection in combination with existing tools. Machine learning approaches may be used to weight and combine these criteria for the selection.
+# Computational Discovery of Micropeptides in Brain Cells
+## Abstract
+Micropeptides are short proteins ranging from 15 to 100 amino acids in length. Due to their short length, they are mostly overlooked and considered as noise in the translation process. There are many micropeptides translated from long non-coding RNAs that were previously ignored. Some new experimental discoveries have shown some of these micropeptides act as regulatory agents in the human body. On the other hand, micropeptides have long been studied in the prokaryote domain. The new discoveries in eukaryotes gave us the idea to use the knowledge from the prokaryote domain and create a pipeline that uses different tools to predict promising micropeptides. The idea was to use the tools and extract features we think are interesting and have the top few candidates tested at the lab to be able to tune and improve the pipeline introduce new features or changes and remove the features that were proved to be less important for our purpose. Unfortunately, due to time restraints, we did not reach the experimental stage of the work and could not wait for the candidates to be tested in the lab.
+    
+For the tools' choice, first, we needed a micropeptide predictor for which we used SmORFinder. We decided the features we are going to take into account at this stage are the following: The micropeptides have to be transmembrane micropeptides for which we used the DeepTMHMM tool, and we want to study the amphipathicity of the candidates for which we used the HeliQuest. Our data was from three developmental stages of embryo (stem cell) to glia progenitor of the brain cell to astrocyte (fully developed brain cell), also containing control and patient data. Our results can be used for experimental validation or rejection of this work, which would lead to improvement or correction of the pipeline. The results can also be used for the comparison of the micropeptides expressed in different developmental stages, or the comparison of patient and control data.
+
+## Data_preprocessing folder
+First, we preprocess the data after BEDtools. To do so, the output from BEDtools is given to Transcripts.py in the Data_preprocessing folder.
+tr.py attaches all the exons and creates intron-free transcripts.
+Exctracting_read.py is to check the output of MiPepid. This script extracts all the possible micropeptides in a certain length.
+
+## Data_splicing folder
+To be able to feed the data to DeepTMHMM we need to split the data into files of around 2000 lines meaning 1000 sequences. To do this splicing_file.py is used.
+
+## After_DeepTMHMM folder
+To extract the candidates that are predicted to be transmembrane we used the my_script.sh. This script takes all the DeepTMHMM outputs and extracts only those with TM and SP+TM and reattaches them.
+Then using fetching_headers.py, the headers corresponding to each candidate are found and replaced. This makes it possible to trace back each candidate to its original place on the genome.
+
+# DeepTMHMM
+The output of DeepTMHMM for the whole dataset is in this folder.
+
+# Micropeptides.xlsx
+Contains all the final candidates, their expression in different stages, their sequences and DeepTMHMM prediction of the sequences.
